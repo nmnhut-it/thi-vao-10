@@ -211,6 +211,60 @@
       "starterText": "They visited Madrid despite",
       "answer": "They visited Madrid despite not having time to visit El Prado.",
       "explanation": "although + S + V => despite + V-ing."
+    },
+    {
+      "id": 25,
+      "type": "error-correct",
+      "wrongSentence": "John didn't go to work because of he was seriously ill.",
+      "correctSentence": "John didn't go to work because he was seriously ill.",
+      "errorWord": "because of",
+      "correction": "because",
+      "explanation": "Truoc menh de (S+V) phai dung 'because', khong phai 'because of'."
+    },
+    {
+      "id": 26,
+      "type": "error-correct",
+      "wrongSentence": "My friend was crazy although he was informed of the news of his mother's death.",
+      "correctSentence": "My friend was crazy when he was informed of the news of his mother's death.",
+      "errorWord": "although",
+      "correction": "when",
+      "explanation": "Nghia cua cau la 'dien khi biet tin me mat' => dung 'when', khong phai 'although'."
+    },
+    {
+      "id": 27,
+      "type": "error-correct",
+      "wrongSentence": "Thunder is rarely heard beyond 15 miles because of temperature and wind vary at different heights in the region around a thunderstorm.",
+      "correctSentence": "Thunder is rarely heard beyond 15 miles because temperature and wind vary at different heights in the region around a thunderstorm.",
+      "errorWord": "because of",
+      "correction": "because",
+      "explanation": "Truoc menh de (temperature and wind vary...) phai dung 'because'."
+    },
+    {
+      "id": 28,
+      "type": "error-correct",
+      "wrongSentence": "He couldn't drive fast owing to the street was crowded and narrow.",
+      "correctSentence": "He couldn't drive fast because the street was crowded and narrow.",
+      "errorWord": "owing to",
+      "correction": "because",
+      "explanation": "'Owing to' + danh tu. Truoc menh de (S+V) phai dung 'because'."
+    },
+    {
+      "id": 29,
+      "type": "error-correct",
+      "wrongSentence": "Mrs. Green was cooking dinner but her daughter Susan was laying the table.",
+      "correctSentence": "Mrs. Green was cooking dinner while her daughter Susan was laying the table.",
+      "errorWord": "but",
+      "correction": "while",
+      "explanation": "Hai hanh dong dien ra dong thoi => dung 'while', khong phai 'but' (tuong phan)."
+    },
+    {
+      "id": 30,
+      "type": "sentence-rewrite",
+      "original": "The map is so worn out that I couldn't read it.",
+      "instruction": "Rewrite without changing meaning.",
+      "starterText": "The map is",
+      "answer": "The map is too worn out for me to read.",
+      "explanation": "so + adj + that + can't => too + adj + for O + to V."
     }
   ]
 }

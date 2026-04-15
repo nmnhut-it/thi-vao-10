@@ -363,6 +363,78 @@
       "starterText": "It",
       "answer": "It is colder today than it was yesterday.",
       "explanation": "6 do < 9 do => hom nay lanh hon hom qua."
+    },
+    {
+      "id": 43,
+      "type": "error-correct",
+      "wrongSentence": "I found the conversation as most interesting and I was glad to practice my English.",
+      "correctSentence": "I found the conversation most interesting and I was glad to practice my English.",
+      "errorWord": "as most",
+      "correction": "most",
+      "explanation": "Khong dung 'as' truoc 'most interesting'. 'most interesting' o day co nghia la 'rat thu vi'."
+    },
+    {
+      "id": 44,
+      "type": "error-correct",
+      "wrongSentence": "The Caspian Sea, a salt lake, is the largest than any other lakes in the world.",
+      "correctSentence": "The Caspian Sea, a salt lake, is larger than any other lakes in the world.",
+      "errorWord": "the largest than",
+      "correction": "larger than",
+      "explanation": "Voi 'than' phai dung so sanh hon 'larger', khong dung so sanh nhat 'the largest'."
+    },
+    {
+      "id": 45,
+      "type": "error-correct",
+      "wrongSentence": "The Mekong is one of the longer rivers in the world.",
+      "correctSentence": "The Mekong is one of the longest rivers in the world.",
+      "errorWord": "longer",
+      "correction": "longest",
+      "explanation": "'one of the + superlative + N(so nhieu)' => 'one of the longest'."
+    },
+    {
+      "id": 46,
+      "type": "error-correct",
+      "wrongSentence": "The new models are not only less expensive but also the more efficient.",
+      "correctSentence": "The new models are not only less expensive but also more efficient.",
+      "errorWord": "the more",
+      "correction": "more",
+      "explanation": "Day la so sanh hon (khong phai so sanh nhat), khong can 'the' truoc 'more'."
+    },
+    {
+      "id": 47,
+      "type": "error-correct",
+      "wrongSentence": "The problem is the more serious because there has been no solution up to now.",
+      "correctSentence": "The problem is more serious because there has been no solution up to now.",
+      "errorWord": "the more",
+      "correction": "more",
+      "explanation": "Day la so sanh hon binh thuong, khong phai so sanh kep. Bo 'the'."
+    },
+    {
+      "id": 48,
+      "type": "error-correct",
+      "wrongSentence": "It's certainly true that the average woman has weaker muscles than that of the average man.",
+      "correctSentence": "It's certainly true that the average woman has weaker muscles than those of the average man.",
+      "errorWord": "that",
+      "correction": "those",
+      "explanation": "'muscles' la so nhieu => dai tu thay the phai la 'those', khong phai 'that'."
+    },
+    {
+      "id": 49,
+      "type": "error-correct",
+      "wrongSentence": "They asked many questions, checked the figures, and came up with best solution.",
+      "correctSentence": "They asked many questions, checked the figures, and came up with the best solution.",
+      "errorWord": "best",
+      "correction": "the best",
+      "explanation": "So sanh nhat phai co 'the': 'the best solution'."
+    },
+    {
+      "id": 50,
+      "type": "error-correct",
+      "wrongSentence": "The first skill to learn is how to write the more important words, not whole sentences.",
+      "correctSentence": "The first skill to learn is how to write the most important words, not whole sentences.",
+      "errorWord": "the more",
+      "correction": "the most",
+      "explanation": "Khong co 'than' => day la so sanh nhat: 'the most important'."
     }
   ]
 }

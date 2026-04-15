@@ -558,6 +558,108 @@
       ],
       "correctIndex": 2,
       "explanation": "'used to + V-infinitive' and 'with natural materials' (adjective form, correct preposition)."
+    },
+    {
+      "id": 41,
+      "type": "sentence-rewrite",
+      "original": "Ian didn't know how to water-ski, but he tried to do it.",
+      "instruction": "Rewrite beginning with: Although",
+      "starterText": "Although",
+      "answer": "Although Ian didn't know how to water-ski, he tried to do it.",
+      "acceptedAnswers": [
+        "Although Ian didn't know how to water-ski, he tried to do it.",
+        "Although Ian didn't know how to water-ski, he tried to do it",
+        "Although Ian didn't know how to water ski, he tried to do it."
+      ],
+      "explanation": "Although + concessive clause replaces 'didn't... but'."
+    },
+    {
+      "id": 42,
+      "type": "sentence-rewrite",
+      "original": "The picnic was cancelled because of the heavy rain.",
+      "instruction": "Rewrite beginning with: If it hadn't",
+      "starterText": "If it hadn't",
+      "answer": "If it hadn't rained so heavily, the picnic wouldn't have been cancelled.",
+      "acceptedAnswers": [
+        "If it hadn't rained so heavily, the picnic wouldn't have been cancelled.",
+        "If it hadn't rained so heavily, the picnic wouldn't have been cancelled",
+        "If it hadn't rained heavily, the picnic wouldn't have been cancelled."
+      ],
+      "explanation": "Third conditional: If + past perfect, would + have + past participle."
+    },
+    {
+      "id": 43,
+      "type": "sentence-rewrite",
+      "original": "\"If I were you, I would take a break,\" Tom said to Daisy.",
+      "instruction": "Rewrite beginning with: Tom advised",
+      "starterText": "Tom advised",
+      "answer": "Tom advised Daisy to take a break.",
+      "acceptedAnswers": [
+        "Tom advised Daisy to take a break.",
+        "Tom advised Daisy to take a break"
+      ],
+      "explanation": "Reported advice: advise + object + to-infinitive."
+    },
+    {
+      "id": 44,
+      "type": "sentence-rewrite",
+      "original": "I wish I didn't have to get up early tomorrow.",
+      "instruction": "Rewrite beginning with: I have to",
+      "starterText": "I have to",
+      "answer": "I have to get up early tomorrow.",
+      "acceptedAnswers": [
+        "I have to get up early tomorrow.",
+        "I have to get up early tomorrow"
+      ],
+      "explanation": "Wish + didn't have to = reality is 'have to'. State the fact."
+    },
+    {
+      "id": 45,
+      "type": "sentence-build",
+      "prompt": "engine / car / need / clean / once / month",
+      "answer": "The engine of the car needs cleaning once a month.",
+      "acceptedAnswers": [
+        "The engine of the car needs cleaning once a month.",
+        "The engine of the car needs cleaning once a month",
+        "The engine of the car needs to be cleaned once a month."
+      ],
+      "explanation": "Need + V-ing (passive meaning) or need + to be + past participle."
+    },
+    {
+      "id": 46,
+      "type": "sentence-build",
+      "prompt": "I / not / know / what / do / make / mother / happy",
+      "answer": "I don't know what to do to make my mother happy.",
+      "acceptedAnswers": [
+        "I don't know what to do to make my mother happy.",
+        "I don't know what to do to make my mother happy",
+        "I do not know what to do to make my mother happy."
+      ],
+      "explanation": "Question word + to-infinitive as object; to-infinitive for purpose."
+    },
+    {
+      "id": 47,
+      "type": "sentence-build",
+      "prompt": "Nobody / can / deny / that / she / talent / arts",
+      "answer": "Nobody can deny that she is talented at arts.",
+      "acceptedAnswers": [
+        "Nobody can deny that she is talented at arts.",
+        "Nobody can deny that she's talented at arts.",
+        "Nobody can deny that she is talented at arts"
+      ],
+      "explanation": "Be talented at + noun for ability in a field."
+    },
+    {
+      "id": 48,
+      "type": "sentence-build",
+      "prompt": "many / place / the world / people / used / dye / cloth / natural / material",
+      "answer": "In many places in the world, people used to dye cloth with natural materials.",
+      "acceptedAnswers": [
+        "In many places in the world, people used to dye cloth with natural materials.",
+        "In many places in the world, people used to dye cloth with natural materials",
+        "In many places of the world, people used to dye cloth with natural materials."
+      ],
+      "explanation": "Used to + bare infinitive for past habits; 'with' for materials used."
     }
   ]
 }

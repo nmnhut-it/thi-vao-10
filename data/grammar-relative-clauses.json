@@ -581,6 +581,24 @@
       "starterText": "Why don't you wear",
       "answer": "Why don't you wear the blue sweater which/that I gave to you at Christmas?",
       "explanation": "'sweater' la vat, lam tan ngu => 'which/that'."
+    },
+    {
+      "id": 69,
+      "type": "error-correct",
+      "wrongSentence": "Mother's Day is the day when children show their love to their mother on.",
+      "correctSentence": "Mother's Day is the day when children show their love to their mother.",
+      "errorWord": "on",
+      "correction": "(remove 'on')",
+      "explanation": "'when' da thay the cho 'on the day', nen khong can them 'on' o cuoi cau."
+    },
+    {
+      "id": 70,
+      "type": "error-correct",
+      "wrongSentence": "Every student who majors in English are ready to participate in the orchard contest.",
+      "correctSentence": "Every student who majors in English is ready to participate in the orchard contest.",
+      "errorWord": "are",
+      "correction": "is",
+      "explanation": "'Every student' la chu ngu so it => dong tu chia so it: 'is ready'."
     }
   ]
 }

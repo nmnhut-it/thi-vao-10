@@ -698,6 +698,76 @@
       ],
       "correctIndex": 1,
       "explanation": "'Despite + V-ing' = 'Although + clause'. 'Although we felt cold, we kept walking.'"
+    },
+    {
+      "id": 51,
+      "type": "sentence-rewrite",
+      "original": "They built the church two hundred years ago.",
+      "instruction": "Rewrite in passive voice",
+      "starterText": "The church",
+      "answer": "The church was built two hundred years ago.",
+      "acceptedAnswers": [
+        "The church was built two hundred years ago.",
+        "The church was built two hundred years ago",
+        "The church was built 200 years ago."
+      ],
+      "explanation": "Active to passive: subject + was/were + past participle."
+    },
+    {
+      "id": 52,
+      "type": "sentence-rewrite",
+      "original": "Tom said: \"I have already had breakfast, so I am not hungry.\"",
+      "instruction": "Rewrite in reported speech",
+      "starterText": "Tom said",
+      "answer": "Tom said he had already had breakfast, so he was not hungry.",
+      "acceptedAnswers": [
+        "Tom said he had already had breakfast, so he was not hungry.",
+        "Tom said he had already had breakfast, so he was not hungry",
+        "Tom said that he had already had breakfast, so he was not hungry."
+      ],
+      "explanation": "Reported speech: present perfect -> past perfect, am -> was."
+    },
+    {
+      "id": 53,
+      "type": "sentence-combine",
+      "original": "The man is my closest friend. You saw him on TV last night.",
+      "instruction": "Combine using a relative clause",
+      "keyword": "whom",
+      "answer": "The man whom you saw on TV last night is my closest friend.",
+      "acceptedAnswers": [
+        "The man whom you saw on TV last night is my closest friend.",
+        "The man whom you saw on TV last night is my closest friend",
+        "The man who you saw on TV last night is my closest friend.",
+        "The man that you saw on TV last night is my closest friend."
+      ],
+      "explanation": "Use 'whom/who/that' as object relative pronoun for people."
+    },
+    {
+      "id": 54,
+      "type": "sentence-rewrite",
+      "original": "Unless you keep your feet dry, you will catch a cold.",
+      "instruction": "Rewrite beginning with: If you don't",
+      "starterText": "If you don't",
+      "answer": "If you don't keep your feet dry, you will catch a cold.",
+      "acceptedAnswers": [
+        "If you don't keep your feet dry, you will catch a cold.",
+        "If you don't keep your feet dry, you will catch a cold"
+      ],
+      "explanation": "Unless = If...not. Replace 'unless' with 'if...not'."
+    },
+    {
+      "id": 55,
+      "type": "sentence-rewrite",
+      "original": "Despite feeling cold, we kept walking.",
+      "instruction": "Rewrite beginning with: Although",
+      "starterText": "Although",
+      "answer": "Although we felt cold, we kept walking.",
+      "acceptedAnswers": [
+        "Although we felt cold, we kept walking.",
+        "Although we felt cold, we kept walking",
+        "Although we were feeling cold, we kept walking."
+      ],
+      "explanation": "Despite + V-ing/noun -> Although + clause."
     }
   ]
 }

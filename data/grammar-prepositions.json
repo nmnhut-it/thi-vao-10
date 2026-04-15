@@ -157,6 +157,14 @@
       "options": ["A. across", "B. along", "C. through", "D. under"],
       "correctIndex": 2,
       "explanation": "'go through' = di xuyen qua (duong ham)."
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "The Medical Center is close _____ the school.",
+      "options": ["A. to", "B. at", "C. next", "D. from"],
+      "correctIndex": 0,
+      "explanation": "'close to' = gan voi (gioi tu 'to' di kem voi 'close')."
     }
   ]
 }

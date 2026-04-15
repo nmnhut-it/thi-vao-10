@@ -309,6 +309,132 @@
       "starterText": "",
       "answer": "He produces things quite slowly, but his products are really good.",
       "explanation": "Tuong phan: lam cham NHUNG san pham tot => 'but'."
+    },
+    {
+      "id": 37,
+      "type": "error-correct",
+      "wrongSentence": "Because the temperature is below freezing, it actually feels quite warm when the sun is out.",
+      "correctSentence": "Although the temperature is below freezing, it actually feels quite warm when the sun is out.",
+      "errorWord": "Because",
+      "correction": "Although",
+      "explanation": "Hai menh de tuong phan (nhiet do thap NHUNG cam thay am) => 'Although'."
+    },
+    {
+      "id": 38,
+      "type": "error-correct",
+      "wrongSentence": "Despite Wayne failed to score himself, he helped Ron score two goals.",
+      "correctSentence": "Although Wayne failed to score himself, he helped Ron score two goals.",
+      "errorWord": "Despite",
+      "correction": "Although",
+      "explanation": "'Despite' + danh tu/V-ing. Truoc menh de (S+V) phai dung 'Although'."
+    },
+    {
+      "id": 39,
+      "type": "error-correct",
+      "wrongSentence": "While horse riding is an expensive pastime, but more and more people are taking it up.",
+      "correctSentence": "While horse riding is an expensive pastime, more and more people are taking it up.",
+      "errorWord": "but",
+      "correction": "(remove 'but')",
+      "explanation": "'While' (trong khi/mac du) va 'but' khong dung cung nhau. Bo 'but'."
+    },
+    {
+      "id": 40,
+      "type": "error-correct",
+      "wrongSentence": "Once I read the whole passage, I understood what the author meant in the first few lines.",
+      "correctSentence": "Once I had read the whole passage, I understood what the author meant in the first few lines.",
+      "errorWord": "read",
+      "correction": "had read",
+      "explanation": "'Once' chi hanh dong hoan tat truoc hanh dong khac => dung qua khu hoan thanh: 'had read'."
+    },
+    {
+      "id": 41,
+      "type": "error-correct",
+      "wrongSentence": "Because your train leaves in half an hour, so you'd better hurry.",
+      "correctSentence": "Because your train leaves in half an hour, you'd better hurry.",
+      "errorWord": "so",
+      "correction": "(remove 'so')",
+      "explanation": "'Because' va 'so' khong dung cung nhau. Bo 'so'."
+    },
+    {
+      "id": 42,
+      "type": "sentence-rewrite",
+      "original": "You should choose: One, eat less; two, do more exercises.",
+      "instruction": "Rewrite the sentences using and/but/or/so.",
+      "starterText": "You should",
+      "answer": "You should eat less and do more exercises.",
+      "explanation": "Gop hai loi khuyen bang 'and'."
+    },
+    {
+      "id": 43,
+      "type": "sentence-rewrite",
+      "original": "The train proceeded quickly. The train proceeded smoothly.",
+      "instruction": "Rewrite the sentences using and/but/or/so.",
+      "starterText": "The train",
+      "answer": "The train proceeded quickly and smoothly.",
+      "explanation": "Gop hai trang tu bang 'and'."
+    },
+    {
+      "id": 44,
+      "type": "sentence-rewrite",
+      "original": "The town is historical. It is picturesque too.",
+      "instruction": "Rewrite the sentences using and/but/or/so.",
+      "starterText": "The town",
+      "answer": "The town is historical and picturesque.",
+      "explanation": "Gop hai tinh tu bang 'and'."
+    },
+    {
+      "id": 45,
+      "type": "sentence-rewrite",
+      "original": "The students easily got high score in the last examination. They were well-prepared.",
+      "instruction": "Rewrite using (so).",
+      "starterText": "",
+      "answer": "The students were well-prepared, so they easily got high score in the last examination.",
+      "explanation": "Ly do truoc, ket qua sau. 'so' = vi vay."
+    },
+    {
+      "id": 46,
+      "type": "sentence-rewrite",
+      "original": "It was raining. We still went to the park.",
+      "instruction": "Rewrite using (However).",
+      "starterText": "",
+      "answer": "It was raining. However, we still went to the park.",
+      "explanation": "Tuong phan: troi mua NHUNG van di cong vien => 'However'."
+    },
+    {
+      "id": 47,
+      "type": "sentence-rewrite",
+      "original": "She put on a warm coat before going to work. The weather is cold.",
+      "instruction": "Rewrite using (Therefore).",
+      "starterText": "",
+      "answer": "The weather is cold. Therefore, she put on a warm coat before going to work.",
+      "explanation": "Ly do (troi lanh) => ket qua (mac ao am). 'Therefore' = vi vay."
+    },
+    {
+      "id": 48,
+      "type": "sentence-rewrite",
+      "original": "She was thinking of buying a new car. Her friend convinced her to buy an used car.",
+      "instruction": "Rewrite using (but).",
+      "starterText": "",
+      "answer": "She was thinking of buying a new car, but her friend convinced her to buy an used car.",
+      "explanation": "Tuong phan: muon mua xe moi NHUNG ban thuyet phuc mua xe cu => 'but'."
+    },
+    {
+      "id": 49,
+      "type": "sentence-rewrite",
+      "original": "She is loved by everybody in her factory. She is a very hard worker.",
+      "instruction": "Rewrite using (so).",
+      "starterText": "",
+      "answer": "She is a very hard worker, so she is loved by everybody in her factory.",
+      "explanation": "Ly do (lam viec cham chi) => ket qua (duoc yeu quy) => 'so'."
+    },
+    {
+      "id": 50,
+      "type": "sentence-rewrite",
+      "original": "I felt really sick last night. I couldn't come to your party.",
+      "instruction": "Rewrite using (so).",
+      "starterText": "",
+      "answer": "I felt really sick last night, so I couldn't come to your party.",
+      "explanation": "Ly do (bi om) => ket qua (khong den tiec) => 'so'."
     }
   ]
 }

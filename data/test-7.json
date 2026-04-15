@@ -698,6 +698,75 @@
       ],
       "correctIndex": 3,
       "explanation": "'However' shows contrast: despite being old, he still works hard."
+    },
+    {
+      "id": 51,
+      "type": "sentence-rewrite",
+      "original": "They built this house in 2015.",
+      "instruction": "Rewrite in passive voice",
+      "starterText": "This house",
+      "answer": "This house was built in 2015.",
+      "acceptedAnswers": [
+        "This house was built in 2015.",
+        "This house was built in 2015"
+      ],
+      "explanation": "Active to passive: subject + was/were + past participle."
+    },
+    {
+      "id": 52,
+      "type": "sentence-rewrite",
+      "original": "\"Do you watch TV every morning?\" The teacher asked Mark.",
+      "instruction": "Rewrite in reported speech",
+      "starterText": "The teacher asked Mark",
+      "answer": "The teacher asked Mark if he watched TV every morning.",
+      "acceptedAnswers": [
+        "The teacher asked Mark if he watched TV every morning.",
+        "The teacher asked Mark if he watched TV every morning",
+        "The teacher asked Mark whether he watched TV every morning."
+      ],
+      "explanation": "Reported yes/no question: asked + if/whether + past simple."
+    },
+    {
+      "id": 53,
+      "type": "sentence-combine",
+      "original": "You feel unhealthy because you don't take any exercise.",
+      "instruction": "Combine using 'If'",
+      "keyword": "If",
+      "answer": "If you took more exercise, you would feel healthier.",
+      "acceptedAnswers": [
+        "If you took more exercise, you would feel healthier.",
+        "If you took more exercise, you would feel healthier",
+        "If you took exercise, you would feel healthier."
+      ],
+      "explanation": "Second conditional: If + past simple, would + infinitive for unreal present."
+    },
+    {
+      "id": 54,
+      "type": "sentence-combine",
+      "original": "My parents live in the house. The house is opposite my house.",
+      "instruction": "Combine using a relative clause",
+      "keyword": "which",
+      "answer": "My parents live in the house which is opposite my house.",
+      "acceptedAnswers": [
+        "My parents live in the house which is opposite my house.",
+        "My parents live in the house which is opposite my house",
+        "My parents live in the house that is opposite my house."
+      ],
+      "explanation": "Use relative pronoun 'which/that' for things."
+    },
+    {
+      "id": 55,
+      "type": "sentence-combine",
+      "original": "Mr. Ba is very old. He has to work hard eight hours a day.",
+      "instruction": "Combine using 'Although'",
+      "keyword": "Although",
+      "answer": "Although Mr. Ba is very old, he has to work hard eight hours a day.",
+      "acceptedAnswers": [
+        "Although Mr. Ba is very old, he has to work hard eight hours a day.",
+        "Although Mr. Ba is very old, he has to work hard eight hours a day",
+        "Mr. Ba is very old, but he has to work hard eight hours a day."
+      ],
+      "explanation": "Although + clause for concession between contrasting facts."
     }
   ]
 }

@@ -210,6 +210,151 @@
       "correction": "had bought",
       "correctSentence": "If only I had bought that camera yesterday. It was definitely affordable.",
       "explanation": "'If only + past perfect' for past regret: 'had bought'."
+    },
+    {
+      "id": 26,
+      "type": "error-correct",
+      "wrongSentence": "Tom asked that we attended his graduation ceremony next week.",
+      "errorWord": "attended",
+      "correction": "attend",
+      "correctSentence": "Tom asked that we attend his graduation ceremony next week.",
+      "explanation": "'Ask that + S + V(bare)' - present subjunctive: 'attend'."
+    },
+    {
+      "id": 27,
+      "type": "error-correct",
+      "wrongSentence": "It is essential that everyone to enter the building with proper identification.",
+      "errorWord": "to enter",
+      "correction": "enter",
+      "correctSentence": "It is essential that everyone enter the building with proper identification.",
+      "explanation": "'It is essential that + S + V(bare)': no 'to' before the verb."
+    },
+    {
+      "id": 28,
+      "type": "error-correct",
+      "wrongSentence": "David wishes he didn't cheated in the exam. The teacher was very angry with him.",
+      "errorWord": "didn't cheated",
+      "correction": "hadn't cheated",
+      "correctSentence": "David wishes he hadn't cheated in the exam. The teacher was very angry with him.",
+      "explanation": "'Wish + past perfect' for past regret: 'hadn't cheated'."
+    },
+    {
+      "id": 29,
+      "type": "error-correct",
+      "wrongSentence": "My brother wishes he took the camera with him as the view was wonderful.",
+      "errorWord": "took",
+      "correction": "had taken",
+      "correctSentence": "My brother wishes he had taken the camera with him as the view was wonderful.",
+      "explanation": "'Wish + past perfect' for past regret: 'had taken'."
+    },
+    {
+      "id": 30,
+      "type": "error-correct",
+      "wrongSentence": "You look overweight. If only you joined a gym with me this summer.",
+      "errorWord": "joined",
+      "correction": "would join",
+      "correctSentence": "You look overweight. If only you would join a gym with me this summer.",
+      "explanation": "'If only + would + V' for a wish about someone else's future action."
+    },
+    {
+      "id": 31,
+      "type": "sentence-rewrite",
+      "original": "Please don't say things like that.",
+      "instruction": "Rewrite using 'I wish'.",
+      "starterText": "I wish",
+      "answer": "I wish you wouldn't say things like that.",
+      "acceptedAnswers": ["I wish you wouldn't say things like that.", "I wish you wouldn't say things like that"],
+      "explanation": "'Wish + would' for complaints about others' behavior."
+    },
+    {
+      "id": 32,
+      "type": "sentence-rewrite",
+      "original": "Nobody told me you were at home yesterday.",
+      "instruction": "Rewrite using 'I wish'.",
+      "starterText": "I wish",
+      "answer": "I wish somebody had told me you were at home yesterday.",
+      "acceptedAnswers": ["I wish somebody had told me you were at home yesterday.", "I wish someone had told me you were at home yesterday."],
+      "explanation": "'Wish + past perfect' for past regret about something that didn't happen."
+    },
+    {
+      "id": 33,
+      "type": "sentence-rewrite",
+      "original": "Tom didn't buy her a present, so he was embarrassed.",
+      "instruction": "Rewrite using 'Tom wished'.",
+      "starterText": "Tom wished",
+      "answer": "Tom wished he had bought her a present.",
+      "acceptedAnswers": ["Tom wished he had bought her a present.", "Tom wished he had bought her a present"],
+      "explanation": "'Wish + past perfect' for past regret: he didn't buy => wished he had bought."
+    },
+    {
+      "id": 34,
+      "type": "sentence-rewrite",
+      "original": "Don't touch my CDs!",
+      "instruction": "Rewrite using 'I would rather'.",
+      "starterText": "I would rather",
+      "answer": "I would rather you didn't touch my CDs.",
+      "acceptedAnswers": ["I would rather you didn't touch my CDs.", "I would rather you didn't touch my CDs"],
+      "explanation": "'Would rather + S + V(past)' for present wishes about others: 'didn't touch'."
+    },
+    {
+      "id": 35,
+      "type": "sentence-rewrite",
+      "original": "I'm sorry Jim does not catch any fish.",
+      "instruction": "Rewrite using 'If only'.",
+      "starterText": "If only",
+      "answer": "If only Jim caught some fish.",
+      "acceptedAnswers": ["If only Jim caught some fish.", "If only Jim caught some fish"],
+      "explanation": "'If only + past simple' for unreal present wish."
+    },
+    {
+      "id": 36,
+      "type": "sentence-rewrite",
+      "original": "He appears to be running away from your fierce dog.",
+      "instruction": "Rewrite using 'It looks as if'.",
+      "starterText": "It looks as if",
+      "answer": "It looks as if he is running away from your fierce dog.",
+      "acceptedAnswers": ["It looks as if he is running away from your fierce dog.", "It looks as if he is running away from your fierce dog"],
+      "explanation": "'It looks as if' + present tense for something that appears to be true now."
+    },
+    {
+      "id": 37,
+      "type": "sentence-rewrite",
+      "original": "I would love to be rich and famous.",
+      "instruction": "Rewrite using 'If only'.",
+      "starterText": "If only",
+      "answer": "If only I were rich and famous.",
+      "acceptedAnswers": ["If only I were rich and famous.", "If only I were rich and famous", "If only I was rich and famous."],
+      "explanation": "'If only + past subjunctive' for unreal present wish: 'were'."
+    },
+    {
+      "id": 38,
+      "type": "sentence-rewrite",
+      "original": "I'd love to be in a secluded beach in Mexico.",
+      "instruction": "Rewrite using 'I wish'.",
+      "starterText": "I wish",
+      "answer": "I wish I were in a secluded beach in Mexico.",
+      "acceptedAnswers": ["I wish I were in a secluded beach in Mexico.", "I wish I was in a secluded beach in Mexico.", "I wish I were in a secluded beach in Mexico"],
+      "explanation": "'Wish + past subjunctive' for unreal present: 'were'."
+    },
+    {
+      "id": 39,
+      "type": "sentence-rewrite",
+      "original": "I really think you ought to acquire a few manners.",
+      "instruction": "Rewrite using 'It's high'.",
+      "starterText": "It's high",
+      "answer": "It's high time you acquired a few manners.",
+      "acceptedAnswers": ["It's high time you acquired a few manners.", "It's high time you acquired a few manners"],
+      "explanation": "'It's high time + S + V(past)' for something overdue."
+    },
+    {
+      "id": 40,
+      "type": "sentence-rewrite",
+      "original": "I'm really sorry I didn't invite her to the party.",
+      "instruction": "Rewrite using 'I really wish'.",
+      "starterText": "I really wish",
+      "answer": "I really wish I had invited her to the party.",
+      "acceptedAnswers": ["I really wish I had invited her to the party.", "I really wish I had invited her to the party"],
+      "explanation": "'Wish + past perfect' for past regret: didn't invite => had invited."
     }
   ]
 }

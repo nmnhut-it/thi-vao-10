@@ -698,6 +698,74 @@
       ],
       "correctIndex": 1,
       "explanation": "'In spite of' + noun phrase ('the heavy snow') shows contrast."
+    },
+    {
+      "id": 51,
+      "type": "sentence-rewrite",
+      "original": "They are building a pagoda in our neighborhood at the moment.",
+      "instruction": "Rewrite in passive voice",
+      "starterText": "A pagoda",
+      "answer": "A pagoda is being built in our neighborhood at the moment.",
+      "acceptedAnswers": [
+        "A pagoda is being built in our neighborhood at the moment.",
+        "A pagoda is being built in our neighborhood at the moment"
+      ],
+      "explanation": "Present continuous passive: is/are + being + past participle."
+    },
+    {
+      "id": 52,
+      "type": "sentence-rewrite",
+      "original": "\"You had better buy some canned food before a typhoon,\" Mrs. Ha said to me.",
+      "instruction": "Rewrite beginning with: Mrs. Ha advised",
+      "starterText": "Mrs. Ha advised",
+      "answer": "Mrs. Ha advised me to buy some canned food before a typhoon.",
+      "acceptedAnswers": [
+        "Mrs. Ha advised me to buy some canned food before a typhoon.",
+        "Mrs. Ha advised me to buy some canned food before a typhoon"
+      ],
+      "explanation": "Reported advice with 'had better': advise + object + to-infinitive."
+    },
+    {
+      "id": 53,
+      "type": "sentence-combine",
+      "original": "I have just bought a smart phone. It was produced in Viet Nam.",
+      "instruction": "Combine using a relative clause",
+      "keyword": "which",
+      "answer": "I have just bought a smart phone which was produced in Viet Nam.",
+      "acceptedAnswers": [
+        "I have just bought a smart phone which was produced in Viet Nam.",
+        "I have just bought a smart phone which was produced in Viet Nam",
+        "I have just bought a smart phone that was produced in Viet Nam."
+      ],
+      "explanation": "Use 'which/that' relative clause for things."
+    },
+    {
+      "id": 54,
+      "type": "sentence-combine",
+      "original": "He doesn't have enough experience. He can't do that work.",
+      "instruction": "Combine using 'If'",
+      "keyword": "If",
+      "answer": "If he had enough experience, he could do that work.",
+      "acceptedAnswers": [
+        "If he had enough experience, he could do that work.",
+        "If he had enough experience, he could do that work",
+        "If he had enough experience, he would be able to do that work."
+      ],
+      "explanation": "Second conditional: If + past simple, could/would + infinitive."
+    },
+    {
+      "id": 55,
+      "type": "sentence-combine",
+      "original": "It snowed heavily. The football match still took place.",
+      "instruction": "Combine using 'Although'",
+      "keyword": "Although",
+      "answer": "Although it snowed heavily, the football match still took place.",
+      "acceptedAnswers": [
+        "Although it snowed heavily, the football match still took place.",
+        "Although it snowed heavily, the football match still took place",
+        "Despite the heavy snow, the football match still took place."
+      ],
+      "explanation": "Although + clause for concession; 'Despite + noun' is an alternative."
     }
   ]
 }

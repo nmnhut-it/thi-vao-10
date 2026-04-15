@@ -558,6 +558,111 @@
       ],
       "correctIndex": 3,
       "explanation": "'which' for things, present perfect 'have just read', plural 'are'."
+    },
+    {
+      "id": 41,
+      "type": "sentence-rewrite",
+      "original": "\"I will call the police if you don't give me back my bicycle.\"",
+      "instruction": "Rewrite beginning with: Unless",
+      "starterText": "Unless",
+      "answer": "Unless you give me back my bicycle, I will call the police.",
+      "acceptedAnswers": [
+        "Unless you give me back my bicycle, I will call the police.",
+        "Unless you give me back my bicycle, I will call the police",
+        "Unless you give back my bicycle, I will call the police."
+      ],
+      "explanation": "Unless = If...not. Keep the same tense (present simple + will)."
+    },
+    {
+      "id": 42,
+      "type": "sentence-rewrite",
+      "original": "No one has asked me that question before.",
+      "instruction": "Rewrite beginning with: That question",
+      "starterText": "That question",
+      "answer": "That question has never been asked before.",
+      "acceptedAnswers": [
+        "That question has never been asked before.",
+        "That question has never been asked before",
+        "That question has never been asked me before by anyone."
+      ],
+      "explanation": "Active to passive: No one has asked -> has never been asked."
+    },
+    {
+      "id": 43,
+      "type": "sentence-rewrite",
+      "original": "Nam forgot to take his raincoat, so he got wet.",
+      "instruction": "Rewrite beginning with: Nam got wet",
+      "starterText": "Nam got wet",
+      "answer": "Nam got wet because he forgot to take his raincoat.",
+      "acceptedAnswers": [
+        "Nam got wet because he forgot to take his raincoat.",
+        "Nam got wet because he forgot to take his raincoat",
+        "Nam got wet as he forgot to take his raincoat."
+      ],
+      "explanation": "Replace 'so' (result) with 'because' (reason), reversing cause and effect."
+    },
+    {
+      "id": 44,
+      "type": "sentence-rewrite",
+      "original": "Janet said to me, \"Have you ever seen a UFO?\"",
+      "instruction": "Rewrite beginning with: Janet asked",
+      "starterText": "Janet asked",
+      "answer": "Janet asked me if I had ever seen a UFO.",
+      "acceptedAnswers": [
+        "Janet asked me if I had ever seen a UFO.",
+        "Janet asked me if I had ever seen a UFO",
+        "Janet asked me whether I had ever seen a UFO."
+      ],
+      "explanation": "Reported yes/no question: asked + if/whether + past perfect."
+    },
+    {
+      "id": 45,
+      "type": "sentence-build",
+      "prompt": "It / be / necessary / have a day / celebrate / our parents",
+      "answer": "It is necessary to have a day to celebrate our parents.",
+      "acceptedAnswers": [
+        "It is necessary to have a day to celebrate our parents.",
+        "It is necessary to have a day to celebrate our parents",
+        "It is necessary to have a day to celebrate for our parents."
+      ],
+      "explanation": "It is + adjective + to + infinitive structure."
+    },
+    {
+      "id": 46,
+      "type": "sentence-build",
+      "prompt": "Although / he / tired / he / have to / finish / homework",
+      "answer": "Although he is tired, he has to finish his homework.",
+      "acceptedAnswers": [
+        "Although he is tired, he has to finish his homework.",
+        "Although he is tired, he has to finish his homework",
+        "Although he was tired, he had to finish his homework."
+      ],
+      "explanation": "Although + clause, + main clause for concession."
+    },
+    {
+      "id": 47,
+      "type": "sentence-build",
+      "prompt": "Children / should have / special day / express / feeling / memories / love / their parents",
+      "answer": "Children should have a special day to express their feeling, memories and love for their parents.",
+      "acceptedAnswers": [
+        "Children should have a special day to express their feeling, memories and love for their parents.",
+        "Children should have a special day to express their feelings, memories and love for their parents.",
+        "Children should have a special day expressing their feeling, memories and love for their parents."
+      ],
+      "explanation": "Should + have + noun + to-infinitive for purpose."
+    },
+    {
+      "id": 48,
+      "type": "sentence-build",
+      "prompt": "The novels / I / just / read / interesting",
+      "answer": "The novels which I have just read are interesting.",
+      "acceptedAnswers": [
+        "The novels which I have just read are interesting.",
+        "The novels which I have just read are interesting",
+        "The novels that I have just read are interesting.",
+        "The novels I have just read are interesting."
+      ],
+      "explanation": "Use relative clause (which/that) to connect the two ideas."
     }
   ]
 }

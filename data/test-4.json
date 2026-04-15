@@ -558,6 +558,109 @@
       ],
       "correctIndex": 3,
       "explanation": "'so + adjective + that' clause. 'could not' because the case was too heavy."
+    },
+    {
+      "id": 41,
+      "type": "sentence-rewrite",
+      "original": "The girl is very lovely. She lives next door to us.",
+      "instruction": "Rewrite as one sentence using a relative clause",
+      "starterText": "The girl who",
+      "answer": "The girl who lives next door to us is very lovely.",
+      "acceptedAnswers": [
+        "The girl who lives next door to us is very lovely.",
+        "The girl who lives next door to us is very lovely",
+        "The girl that lives next door to us is very lovely."
+      ],
+      "explanation": "Use relative pronoun 'who' to combine sentences about a person."
+    },
+    {
+      "id": 42,
+      "type": "sentence-rewrite",
+      "original": "Please don't touch the things on display.",
+      "instruction": "Rewrite beginning with: Would you mind",
+      "starterText": "Would you mind",
+      "answer": "Would you mind not touching things on display?",
+      "acceptedAnswers": [
+        "Would you mind not touching things on display?",
+        "Would you mind not touching the things on display?",
+        "Would you mind not touching things on display"
+      ],
+      "explanation": "Would you mind + not + V-ing for polite negative requests."
+    },
+    {
+      "id": 43,
+      "type": "sentence-rewrite",
+      "original": "He is sorry he cannot speak English well.",
+      "instruction": "Rewrite beginning with: He wishes",
+      "starterText": "He wishes",
+      "answer": "He wishes he could speak English well.",
+      "acceptedAnswers": [
+        "He wishes he could speak English well.",
+        "He wishes he could speak English well"
+      ],
+      "explanation": "Wish + past simple (could) for present unreal wishes."
+    },
+    {
+      "id": 44,
+      "type": "sentence-rewrite",
+      "original": "Although he is intelligent, he doesn't do well at school.",
+      "instruction": "Rewrite beginning with: In spite of",
+      "starterText": "In spite of",
+      "answer": "In spite of his intelligence, he doesn't do well at school.",
+      "acceptedAnswers": [
+        "In spite of his intelligence, he doesn't do well at school.",
+        "In spite of his intelligence, he doesn't do well at school",
+        "In spite of being intelligent, he doesn't do well at school."
+      ],
+      "explanation": "In spite of + noun/V-ing replaces 'Although + clause'."
+    },
+    {
+      "id": 45,
+      "type": "sentence-build",
+      "prompt": "He / read / book / his room / when / he / hear / big explosion",
+      "answer": "He was reading books in his room when he heard a big explosion.",
+      "acceptedAnswers": [
+        "He was reading books in his room when he heard a big explosion.",
+        "He was reading books in his room when he heard a big explosion",
+        "He was reading a book in his room when he heard a big explosion."
+      ],
+      "explanation": "Past continuous (was reading) for ongoing action interrupted by past simple (heard)."
+    },
+    {
+      "id": 46,
+      "type": "sentence-build",
+      "prompt": "We / used / wear / uniforms / when / we / be / school",
+      "answer": "We used to wear uniforms when we were at school.",
+      "acceptedAnswers": [
+        "We used to wear uniforms when we were at school.",
+        "We used to wear uniforms when we were at school",
+        "We used to wear uniforms when we were in school."
+      ],
+      "explanation": "Used to + bare infinitive for past habits."
+    },
+    {
+      "id": 47,
+      "type": "sentence-build",
+      "prompt": "We / be / very / tired / last night / because / we / play / football / all afternoon",
+      "answer": "We were very tired last night because we had played football all the afternoon.",
+      "acceptedAnswers": [
+        "We were very tired last night because we had played football all the afternoon.",
+        "We were very tired last night because we had played football all afternoon.",
+        "We were very tired last night because we played football all the afternoon."
+      ],
+      "explanation": "Past perfect for the earlier action (playing) that caused the later state (being tired)."
+    },
+    {
+      "id": 48,
+      "type": "sentence-build",
+      "prompt": "The case / be / so heavy / Nam / could not / put / on the rack",
+      "answer": "The case was so heavy that Nam could not put it on the rack.",
+      "acceptedAnswers": [
+        "The case was so heavy that Nam could not put it on the rack.",
+        "The case was so heavy that Nam could not put it on the rack",
+        "The case was so heavy that Nam couldn't put it on the rack."
+      ],
+      "explanation": "So + adjective + that + clause for result."
     }
   ]
 }
