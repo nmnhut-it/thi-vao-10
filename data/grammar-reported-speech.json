@@ -1,16 +1,21 @@
 {
   "topicId": "grammar-reported-speech",
-  "title": "Reported Speech (Cau Tuong Thuat)",
+  "title": "Reported Speech (Câu Tường Thuật)",
   "section": "grammar",
   "knowledge": {
-    "html": "<h2>IX. REPORTED SPEECH (TUONG THUAT)</h2><h3>1. Cach thay doi trong cau tuong thuat</h3><p><strong>Lui thi (Lui xuong 1 thi)</strong></p><table class=\"grammar-table\"><tr><th>Cau truc tiep</th><th>Cau tuong thuat</th></tr><tr><td><strong>1.</strong> Hien tai don<br>V/Vs/Ves/am/is/are/don't+V1/doesn't+V1</td><td>=> Qua khu don<br>V2/Ved/was/were/didn't+V</td></tr><tr><td><strong>2.</strong> Hien tai tiep dien<br>am/is/are + V-ing</td><td>=> Qua khu tiep dien<br>was/were + V-ing</td></tr><tr><td><strong>3.</strong> Hien tai hoan thanh<br>have/has + V3/ed</td><td>=> Qua khu hoan thanh<br>had + V3/ed</td></tr><tr><td><strong>4.</strong> Qua khu don<br>was/were/V2/Ved</td><td>=> Qua khu hoan thanh<br>had + V3/ed</td></tr><tr><td><strong>5.</strong> Qua khu tiep dien<br>was/were + V-ing</td><td>=> QKHTTP<br>had + been + V-ing</td></tr><tr><td><strong>6.</strong> Tuong lai don<br>will + V</td><td>=> Tuong lai trong qua khu<br>would + V</td></tr><tr><td><strong>7.</strong> can</td><td>=> could</td></tr><tr><td><strong>8.</strong> may</td><td>=> might</td></tr><tr><td><strong>9.</strong> must/need</td><td>=> had to</td></tr></table><p class=\"vi\">Thi QKHT, ought to, could, should, might, used to, would rather, had better... => giu nguyen</p><h3>2. Doi ngoi</h3><p>- Doi ngoi thu nhat (I, we, me, us, my, our, mine, ours) phu hop voi <strong>Chu ngu</strong> trong menh de chinh.<br>- Doi ngoi thu hai (you, your, your) phu hop voi <strong>Tan ngu</strong> trong menh de chinh.<br>- Ngoi thu BA (he, she, it, him, her, his, they, them, their) => khong doi.</p><table class=\"grammar-table\"><tr><th>Truc tiep</th><th>Tuong thuat</th><th>Truc tiep</th><th>Tuong thuat</th></tr><tr><td>I</td><td>He (nam)/She (nu)</td><td>We</td><td>they</td></tr><tr><td>me</td><td>him/her</td><td>us</td><td>them</td></tr><tr><td>my</td><td>his/her</td><td>our</td><td>their</td></tr><tr><td>mine</td><td>his/hers</td><td>ours</td><td>theirs</td></tr><tr><td>myself</td><td>himself/herself</td><td>ourselves</td><td>themselves</td></tr></table><h3>3. Doi trang tu</h3><table class=\"grammar-table\"><tr><th>Truc tiep</th><th>Tuong thuat</th></tr><tr><td>this</td><td>that</td></tr><tr><td>these</td><td>those</td></tr><tr><td>now</td><td>then</td></tr><tr><td>here</td><td>there</td></tr><tr><td>today</td><td>that day</td></tr><tr><td>tonight</td><td>that night</td></tr><tr><td>ago</td><td>before</td></tr><tr><td>yesterday</td><td>the previous day / the day before</td></tr><tr><td>tomorrow</td><td>the following day / the day after</td></tr><tr><td>last...</td><td>the previous...</td></tr><tr><td>next...</td><td>the following</td></tr></table><p class=\"vi\">Luu y: khong dung dau ngoac kep, dau cham hoi, dau cham than, dau hai cham trong loi noi tuong thuat.</p><p><strong>Cac truong hop khong doi thi:</strong></p><ol><li>Khi dong tu tuong thuat o thi hien tai hoac tuong lai (say, tell, have told, will say...)</li><li>Thi qua khu don co thoi gian xac dinh.</li><li>Dien ta 1 chan ly, su that hien nhien.</li><li>Cau dieu kien loai 2 va 3.</li></ol><h3>4. Cac mau cau tuong thuat can nam ro</h3><h4>Statements (Cau tran thuat)</h4><div class=\"formula\">S + say / say to SO / tell SO + (that) + clause</div><div class=\"example\">Ex: Tom said, \"I am very busy.\"<br>=> Tom said (that) he was very busy.</div><h4>Commands/Requests (Menh lenh/Yeu cau)</h4><div class=\"formula\">Khang dinh: S + told/asked/advised... + O + to V1<br>Phu dinh: S + told/asked/advised... + O + not + to V1</div><div class=\"example\">Ex: \"Hurry up, Lan!\" => He told Lan to hurry up.<br>Ex: \"Don't leave this room.\" => He ordered them not to leave that room.</div><h4>Yes-No Questions</h4><div class=\"formula\">S + asked (O) / wanted to know + if/whether + S + V (lui thi)</div><div class=\"example\">Ex: He said, \"Can you speak English?\"<br>=> He asked me if/whether I could speak English.</div><h4>Wh- Questions</h4><div class=\"formula\">S + asked (O) / wanted to know + what/when/why + S + V (lui thi)</div><div class=\"example\">Ex: He said, \"When did you leave the room?\"<br>=> He wanted to know when I had left the room.</div><h4>Loi yeu cau</h4><div class=\"formula\">Would/Could/Will/Can you + V => S + asked/told + O + to V<br>Would you mind/Do you mind + V-ing => S + asked/told + O + to V</div><h4>Tuong thuat voi to V</h4><table class=\"grammar-table\"><tr><th>Tieng Viet</th><th>Dong tu</th><th>Cau truc</th></tr><tr><td>Yeu cau</td><td>asked</td><td>+ O + to V</td></tr><tr><td>Moi</td><td>invited</td><td>+ O + to V</td></tr><tr><td>Khuyen</td><td>advised</td><td>+ O + to V</td></tr><tr><td>Nhac nho</td><td>reminded</td><td>+ O + to V</td></tr><tr><td>Ra lenh</td><td>ordered</td><td>+ O + to V</td></tr><tr><td>Khuyen khich</td><td>encouraged</td><td>+ O + to V</td></tr><tr><td>Canh bao</td><td>warned</td><td>+ O + to V</td></tr><tr><td>Muon</td><td>wanted</td><td>+ O + to V</td></tr><tr><td>Dong y</td><td>agreed</td><td>+ to V</td></tr><tr><td>Hua</td><td>promised</td><td>+ to V</td></tr></table><h4>Tuong thuat voi V-ing</h4><table class=\"grammar-table\"><tr><th>Tieng Viet</th><th>Dong tu</th><th>Cau truc</th></tr><tr><td>Cam on</td><td>thanked</td><td>+ O + for + V-ing</td></tr><tr><td>Xin loi</td><td>apologized</td><td>(to O) + for + V-ing</td></tr><tr><td>Buoc toi</td><td>accused</td><td>+ O + of + V-ing</td></tr><tr><td>Chuc mung</td><td>congratulated</td><td>+ O + on + V-ing</td></tr><tr><td>Canh bao</td><td>warned</td><td>+ O + against + V-ing</td></tr><tr><td>Ngan ngua</td><td>stopped/prevented</td><td>+ O + from + V-ing</td></tr><tr><td>De nghi</td><td>suggested</td><td>+ V-ing / suggested that + S + (should) + V</td></tr><tr><td>Khang khang</td><td>insisted</td><td>+ on/upon + V-ing</td></tr><tr><td>Phu nhan</td><td>denied</td><td>+ V-ing</td></tr><tr><td>Thua nhan</td><td>admitted</td><td>+ V-ing / having V3/ed</td></tr></table>"
+    "html": "<h2>IX. REPORTED SPEECH (TƯỜNG THUẬT)</h2><h3>1. Cách thay đổi trong câu tường thuật</h3><p><strong>Lui thì (Lui xuong 1 thì)</strong></p><table class=\"grammar-table\"><tr><th>Cấu trúc tiếp</th><th>Cau tường thuật</th></tr><tr><td><strong>1.</strong> Hiện tại đơn<br>V/Vs/Ves/am/is/are/don't+V1/doesn't+V1</td><td>=> Quá khứ đơn<br>V2/Ved/was/were/didn't+V</td></tr><tr><td><strong>2.</strong> Hiện tại tiếp diễn<br>am/is/are + V-ing</td><td>=> Quá khứ tiếp diễn<br>was/were + V-ing</td></tr><tr><td><strong>3.</strong> Hiện tại hoàn thành<br>have/has + V3/ed</td><td>=> Quá khứ hoàn thành<br>had + V3/ed</td></tr><tr><td><strong>4.</strong> Quá khứ đơn<br>was/were/V2/Ved</td><td>=> Quá khứ hoàn thành<br>had + V3/ed</td></tr><tr><td><strong>5.</strong> Quá khứ tiếp diễn<br>was/were + V-ing</td><td>=> QKHTTP<br>had + been + V-ing</td></tr><tr><td><strong>6.</strong> Tương lai đơn<br>will + V</td><td>=> Tương lai trong quá khứ<br>would + V</td></tr><tr><td><strong>7.</strong> can</td><td>=> could</td></tr><tr><td><strong>8.</strong> may</td><td>=> might</td></tr><tr><td><strong>9.</strong> must/need</td><td>=> had to</td></tr></table><p class=\"vì\">Thi QKHT, ought to, could, should, might, used to, would rather, had better... => giữ nguyen</p><h3>2. Đổi ngôi</h3><p>- Đổi ngôi thu nhất (I, we, me, us, my, our, mine, ours) phù hợp với <strong>Chu ngu</strong> trong mệnh đề chính.<br>- Đổi ngôi thu hai (you, your, your) phù hợp với <strong>Tan ngu</strong> trong mệnh đề chính.<br>- Ngôi thu BA (he, she, ít, him, her, his, they, thêm, their) => không đổi.</p><table class=\"grammar-table\"><tr><th>Trực tiếp</th><th>Tường thuật</th><th>Trực tiếp</th><th>Tường thuật</th></tr><tr><td>I</td><td>He (năm)/She (nu)</td><td>We</td><td>they</td></tr><tr><td>me</td><td>him/her</td><td>us</td><td>thêm</td></tr><tr><td>my</td><td>his/her</td><td>our</td><td>their</td></tr><tr><td>mine</td><td>his/hers</td><td>ours</td><td>theirs</td></tr><tr><td>myself</td><td>himself/herself</td><td>ourselves</td><td>themselves</td></tr></table><h3>3. Đổi trạng từ</h3><table class=\"grammar-table\"><tr><th>Trực tiếp</th><th>Tường thuật</th></tr><tr><td>this</td><td>that</td></tr><tr><td>these</td><td>those</td></tr><tr><td>now</td><td>then</td></tr><tr><td>here</td><td>there</td></tr><tr><td>today</td><td>that đây</td></tr><tr><td>tonight</td><td>that night</td></tr><tr><td>ago</td><td>before</td></tr><tr><td>yesterday</td><td>the previous đây / thế đây before</td></tr><tr><td>tomorrow</td><td>the following đây / thế đây after</td></tr><tr><td>last...</td><td>the previous...</td></tr><tr><td>next...</td><td>the following</td></tr></table><p class=\"vì\">Lưu ý: không dùng dấu ngoặc kép, dấu chấm hỏi, dấu chấm than, dấu hai chấm trong lời nói tường thuật.</p><p><strong>Cac truong hop không đổi thì:</strong></p><ol><li>Khi động từ tường thuật ở thì hiện tại hoặc tương lai (say, tell, have told, will say...)</li><li>Thi quá khứ đơn có thời gian xác định.</li><li>Diễn tả 1 chân lý, sự thật hiển nhiên.</li><li>Câu điều kiện loại 2 và 3.</li></ol><h3>4. Cac mẫu câu tường thuật cần nắm rõ</h3><h4>Statements (Cau trần thuật)</h4><div class=\"formula\">S + say / say to SO / tell SO + (that) + clause</div><div class=\"example\">Ex: Tom said, \"I ấm very busy.\"<br>=> Tom said (that) he was very busy.</div><h4>Commands/Requests (Menh lenh/Yeu câu)</h4><div class=\"formula\">Khẳng định: S + told/asked/advised... + O + to V1<br>Phủ định: S + told/asked/advised... + O + not + to V1</div><div class=\"example\">Ex: \"Hurry up, Lan!\" => He told Lan to hurry up.<br>Ex: \"Don't leave this room.\" => He ordered thêm not to leave that room.</div><h4>Yes-No Questions</h4><div class=\"formula\">S + asked (O) / wanted to know + if/whether + S + V (lui thì)</div><div class=\"example\">Ex: He said, \"Can you speak English?\"<br>=> He asked me if/whether I could speak English.</div><h4>Wh- Questions</h4><div class=\"formula\">S + asked (O) / wanted to know + what/when/why + S + V (lui thì)</div><div class=\"example\">Ex: He said, \"When did you leave the room?\"<br>=> He wanted to know when I had left the room.</div><h4>Loi yêu cầu</h4><div class=\"formula\">Would/Could/Will/Can you + V => S + asked/told + O + to V<br>Would you mind/Do you mind + V-ing => S + asked/told + O + to V</div><h4>Tường thuật với to V</h4><table class=\"grammar-table\"><tr><th>Tiếng Việt</th><th>Động từ</th><th>Cấu trúc</th></tr><tr><td>Yeu câu</td><td>asked</td><td>+ O + to V</td></tr><tr><td>Moi</td><td>invited</td><td>+ O + to V</td></tr><tr><td>Khuyen</td><td>advised</td><td>+ O + to V</td></tr><tr><td>Nhac nho</td><td>reminded</td><td>+ O + to V</td></tr><tr><td>Ra lenh</td><td>ordered</td><td>+ O + to V</td></tr><tr><td>Khuyen khich</td><td>encouraged</td><td>+ O + to V</td></tr><tr><td>Canh bao</td><td>warned</td><td>+ O + to V</td></tr><tr><td>Muon</td><td>wanted</td><td>+ O + to V</td></tr><tr><td>Dong y</td><td>agreed</td><td>+ to V</td></tr><tr><td>Hua</td><td>promised</td><td>+ to V</td></tr></table><h4>Tường thuật với V-ing</h4><table class=\"grammar-table\"><tr><th>Tiếng Việt</th><th>Động từ</th><th>Cấu trúc</th></tr><tr><td>Cam on</td><td>thanked</td><td>+ O + for + V-ing</td></tr><tr><td>Xin loi</td><td>apologized</td><td>(to O) + for + V-ing</td></tr><tr><td>Buoc tới</td><td>accused</td><td>+ O + of + V-ing</td></tr><tr><td>Chuc mung</td><td>congratulated</td><td>+ O + on + V-ing</td></tr><tr><td>Canh bao</td><td>warned</td><td>+ O + against + V-ing</td></tr><tr><td>Ngan ngua</td><td>stopped/prevented</td><td>+ O + from + V-ing</td></tr><tr><td>De nghi</td><td>suggested</td><td>+ V-ing / suggested that + S + (should) + V</td></tr><tr><td>Khang khang</td><td>insisted</td><td>+ on/upon + V-ing</td></tr><tr><td>Phu nhan</td><td>denied</td><td>+ V-ing</td></tr><tr><td>Thua nhan</td><td>admitted</td><td>+ V-ing / having V3/ed</td></tr></table>"
   },
   "exercises": [
     {
       "id": 1,
       "type": "multiple-choice",
       "question": "Nam wanted to know what time _______.",
-      "options": ["A. the movie began", "B. the movie begins", "C. did the movie begin", "D. does the movie begin"],
+      "options": [
+        "A. the movie began",
+        "B. the movie begins",
+        "C. did the movie begin",
+        "D. does the movie begin"
+      ],
       "correctIndex": 0,
       "explanation": "Reported Wh-question: use statement word order (no inversion) and backshift tense. 'What time does the movie begin?' becomes 'what time the movie began'."
     },
@@ -18,7 +23,12 @@
       "id": 2,
       "type": "multiple-choice",
       "question": "I wondered _______ the right thing.",
-      "options": ["A. if I am doing", "B. was I doing", "C. am I doing", "D. whether I was doing"],
+      "options": [
+        "A. if I ấm doing",
+        "B. was I doing",
+        "C. ấm I doing",
+        "D. whether I was doing"
+      ],
       "correctIndex": 3,
       "explanation": "Reported yes/no questions use if/whether + statement order + backshifted tense: 'whether I was doing'."
     },
@@ -26,7 +36,12 @@
       "id": 3,
       "type": "multiple-choice",
       "question": "He told me _______ him up at six o'clock.",
-      "options": ["A. please pick", "B. to pick", "C. should pick", "D. I can pick"],
+      "options": [
+        "A. please pick",
+        "B. to pick",
+        "C. should pick",
+        "D. I can pick"
+      ],
       "correctIndex": 1,
       "explanation": "Reported commands/requests: told + object + to V. So 'Pick me up' becomes 'told me to pick him up'."
     },
@@ -34,7 +49,12 @@
       "id": 4,
       "type": "multiple-choice",
       "question": "The woman asked _______ catch a bus to school.",
-      "options": ["A. can the children", "B. if the children can", "C. whether the children could", "D. could the children"],
+      "options": [
+        "A. can the children",
+        "B. if the children can",
+        "C. whether the children could",
+        "D. could the children"
+      ],
       "correctIndex": 2,
       "explanation": "Reported yes/no question: asked + whether/if + statement order + backshifted tense. 'Can' becomes 'could'."
     },
@@ -42,7 +62,12 @@
       "id": 5,
       "type": "multiple-choice",
       "question": "Bob said he _______ a lot of good marks that semester.",
-      "options": ["A. gets", "B. getting", "C. have got", "D. got"],
+      "options": [
+        "A. gets",
+        "B. getting",
+        "C. have got",
+        "D. got"
+      ],
       "correctIndex": 3,
       "explanation": "Reported statement: backshift present simple to past simple. 'I get' becomes 'he got'."
     },
@@ -50,7 +75,12 @@
       "id": 6,
       "type": "multiple-choice",
       "question": "They told their manager that they _______ their best to do the tasks.",
-      "options": ["A. try", "B. will try", "C. are trying", "D. would try"],
+      "options": [
+        "A. try",
+        "B. will try",
+        "C. are trying",
+        "D. would try"
+      ],
       "correctIndex": 3,
       "explanation": "In reported speech, 'will' backshifts to 'would': 'will try' becomes 'would try'."
     },
@@ -58,7 +88,12 @@
       "id": 7,
       "type": "multiple-choice",
       "question": "She asked me where I _______ the previous night.",
-      "options": ["A. was", "B. am", "C. had been", "D. has been"],
+      "options": [
+        "A. was",
+        "B. ấm",
+        "C. had been",
+        "D. has been"
+      ],
       "correctIndex": 2,
       "explanation": "Past simple backshifts to past perfect: 'was' becomes 'had been'. Time marker 'last night' changes to 'the previous night'."
     },
@@ -66,7 +101,12 @@
       "id": 8,
       "type": "multiple-choice",
       "question": "She _______ me whether I liked French fries.",
-      "options": ["A. ask", "B. asks", "C. asked", "D. asking"],
+      "options": [
+        "A. ask",
+        "B. asks",
+        "C. asked",
+        "D. asking"
+      ],
       "correctIndex": 2,
       "explanation": "The reporting verb must match the tense context. Since 'liked' is backshifted, the reporting verb is also past: 'asked'."
     },
@@ -74,7 +114,12 @@
       "id": 9,
       "type": "multiple-choice",
       "question": "\"_______ off the television\", he said.",
-      "options": ["A. Please turn", "B. Please to turn", "C. Turned please", "D. Please, turning"],
+      "options": [
+        "A. Please turn",
+        "B. Please to turn",
+        "C. Turned please",
+        "D. Please, turning"
+      ],
       "correctIndex": 0,
       "explanation": "This is direct speech (a polite command): 'Please turn off the television'."
     },
@@ -82,7 +127,12 @@
       "id": 10,
       "type": "multiple-choice",
       "question": "William said that the train _______ yet.",
-      "options": ["A. had arrived", "B. hadn't arrived", "C. haven't arrived", "D. hasn't arrived"],
+      "options": [
+        "A. had arrived",
+        "B. hadn't arrived",
+        "C. haven't arrived",
+        "D. hasn't arrived"
+      ],
       "correctIndex": 1,
       "explanation": "Present perfect negative backshifts to past perfect negative: 'hasn't arrived' becomes 'hadn't arrived'."
     },
@@ -90,7 +140,12 @@
       "id": 11,
       "type": "multiple-choice",
       "question": "He asked the children _______ the electric sockets.",
-      "options": ["A. not touching", "B. not to touch", "C. if they don't touch", "D. don't touch"],
+      "options": [
+        "A. not touching",
+        "B. not to touch",
+        "C. if they don't touch",
+        "D. don't touch"
+      ],
       "correctIndex": 1,
       "explanation": "Reported negative command: asked + object + not to V. 'Don't touch' becomes 'not to touch'."
     },
@@ -98,7 +153,12 @@
       "id": 12,
       "type": "multiple-choice",
       "question": "David asked me who _______ the writer of that book.",
-      "options": ["A. was", "B. were", "C. is", "D. has been"],
+      "options": [
+        "A. was",
+        "B. were",
+        "C. is",
+        "D. has been"
+      ],
       "correctIndex": 0,
       "explanation": "Reported Wh-question with backshifting: 'is' becomes 'was'. Statement word order is used."
     },
@@ -106,15 +166,25 @@
       "id": 13,
       "type": "multiple-choice",
       "question": "He wants to know whether I _______ back to Hoi An the next day.",
-      "options": ["A. come", "B. came", "C. will come", "D. would come"],
+      "options": [
+        "A. come",
+        "B. came",
+        "C. will come",
+        "D. would come"
+      ],
       "correctIndex": 3,
-      "explanation": "Although 'wants' is present tense, the time marker 'the next day' (changed from 'tomorrow') indicates the reported content has been backshifted. So 'will come' becomes 'would come'. This is a common exam pattern testing consistency of backshifting within the reported clause."
+      "explanation": "Although 'wants' is present tense, the time marker 'the next đây' (changed from 'tomorrow') indicates the reported content has been backshifted. So 'will come' becomes 'would come'. This is a common exam pattern testing consistency of backshifting within the reported clause."
     },
     {
       "id": 14,
       "type": "multiple-choice",
       "question": "They asked me how many students _______.",
-      "options": ["A. I taught", "B. I teach", "C. I did teach", "D. did I teach"],
+      "options": [
+        "A. I taught",
+        "B. I teach",
+        "C. I did teach",
+        "D. did I teach"
+      ],
       "correctIndex": 0,
       "explanation": "Reported Wh-question: statement word order + backshifted tense. 'How many students do you teach?' becomes 'how many students I taught'."
     },
@@ -122,7 +192,12 @@
       "id": 15,
       "type": "multiple-choice",
       "question": "Laura wanted to know _______ shopping the previous afternoon.",
-      "options": ["A. if we had been going", "B. that if we had been going", "C. we were going", "D. that we were going"],
+      "options": [
+        "A. if we had been going",
+        "B. that if we had been going",
+        "C. we were going",
+        "D. that we were going"
+      ],
       "correctIndex": 0,
       "explanation": "Reported yes/no question: wanted to know + if + statement order + backshifted tense. Past continuous 'were going' backshifts to past perfect continuous 'had been going'."
     },
@@ -130,7 +205,12 @@
       "id": 16,
       "type": "multiple-choice",
       "question": "Lucy asked me why I had not gone to Paris _______.",
-      "options": ["A. the summer before", "B. summer ago", "C. the next summer", "D. last summer"],
+      "options": [
+        "A. the summer before",
+        "B. summer ago",
+        "C. the next summer",
+        "D. last summer"
+      ],
       "correctIndex": 0,
       "explanation": "In reported speech, 'last summer' changes to 'the summer before' (or 'the previous summer')."
     },
@@ -138,7 +218,12 @@
       "id": 17,
       "type": "multiple-choice",
       "question": "Tony told me that they _______ meat two days _______.",
-      "options": ["A. have not eaten / ago", "B. had not eaten / before", "C. did not eat / before", "D. would not eat / ago"],
+      "options": [
+        "A. have not eaten / ago",
+        "B. had not eaten / before",
+        "C. did not eat / before",
+        "D. would not eat / ago"
+      ],
       "correctIndex": 1,
       "explanation": "Present perfect backshifts to past perfect: 'have not eaten' becomes 'had not eaten'. Time marker 'ago' changes to 'before'."
     },
@@ -146,7 +231,12 @@
       "id": 18,
       "type": "multiple-choice",
       "question": "Charlie _______ that his father was in hospital.",
-      "options": ["A. told me", "B. told to me", "C. said me", "D. asked me"],
+      "options": [
+        "A. told me",
+        "B. told to me",
+        "C. said me",
+        "D. asked me"
+      ],
       "correctIndex": 0,
       "explanation": "Per Murphy: 'told' takes a direct object (told me), never 'told to me'. 'Said' cannot take a person object directly ('said me' is wrong). So the correct form is 'told me'."
     },
@@ -154,17 +244,27 @@
       "id": 19,
       "type": "multiple-choice",
       "question": "Julia said that she _______ there at noon.",
-      "options": ["A. is going to be", "B. was going to be", "C. will be", "D. can be"],
+      "options": [
+        "A. is going to be",
+        "B. was going to be",
+        "C. will be",
+        "D. can be"
+      ],
       "correctIndex": 1,
-      "explanation": "Lui thi: is going to => was going to."
+      "explanation": "Lui thì: is going to => was going to."
     },
     {
       "id": 20,
       "type": "multiple-choice",
       "question": "He said that Linda and John _______ married _______.",
-      "options": ["A. were getting / tomorrow", "B. are getting / the next day", "C. were getting / the next day", "D. will getting / the day after"],
+      "options": [
+        "A. were getting / tomorrow",
+        "B. are getting / the next day",
+        "C. were getting / the next day",
+        "D. will getting / the day after"
+      ],
       "correctIndex": 2,
-      "explanation": "Lui thi: are getting => were getting. 'tomorrow' => 'the next day'."
+      "explanation": "Lui thì: are getting => were getting. 'tomorrow' => 'the next đây'."
     },
     {
       "id": 21,
@@ -173,8 +273,13 @@
       "instruction": "Change into reported speech.",
       "starterText": "She",
       "answer": "She asked Peter if he preferred tea or coffee.",
-      "acceptedAnswers": ["She asked Peter if he preferred tea or coffee.", "She asked Peter if he preferred tea or coffee", "She asked Peter whether he preferred tea or coffee.", "She asked Peter whether he preferred tea or coffee"],
-      "explanation": "Yes-No question tuong thuat: asked + O + if/whether + S + V (lui thi)."
+      "acceptedAnswers": [
+        "She asked Peter if he preferred tea or coffee.",
+        "She asked Peter if he preferred tea or coffee",
+        "She asked Peter whether he preferred tea or coffee.",
+        "She asked Peter whether he preferred tea or coffee"
+      ],
+      "explanation": "Yes-No question tường thuật: asked + O + if/whether + S + V (lui thì)."
     },
     {
       "id": 22,
@@ -183,8 +288,13 @@
       "instruction": "Change into reported speech.",
       "starterText": "He said",
       "answer": "He said that the film had begun at seven o'clock.",
-      "acceptedAnswers": ["He said that the film had begun at seven o'clock.", "He said that the film had begun at seven o'clock", "He said the film had begun at seven o'clock.", "He said the film had begun at seven o'clock"],
-      "explanation": "Tran thuat: said + (that) + S + V (lui thi). began => had begun."
+      "acceptedAnswers": [
+        "He said that the film had begun at seven o'clock.",
+        "He said that the film had begun at seven o'clock",
+        "He said the film had begun at seven o'clock.",
+        "He said the film had begun at seven o'clock"
+      ],
+      "explanation": "Tran thuat: said + (that) + S + V (lui thì). began => had begun."
     },
     {
       "id": 23,
@@ -193,8 +303,15 @@
       "instruction": "Change into reported speech.",
       "starterText": "The father",
       "answer": "The father said that he had been on a business trip the whole day the day before.",
-      "acceptedAnswers": ["The father said that he had been on a business trip the whole day the day before.", "The father said that he had been on a business trip the whole day the day before", "The father said he had been on a business trip the whole day the day before.", "The father said he had been on a business trip the whole day the day before", "The father said that he had been on a business trip the whole day the previous day.", "The father said that he had been on a business trip the whole day the previous day"],
-      "explanation": "was => had been. 'yesterday' => 'the day before' hoac 'the previous day'."
+      "acceptedAnswers": [
+        "The father said that he had been on a business trip the whole day the day before.",
+        "The father said that he had been on a business trip the whole day the day before",
+        "The father said he had been on a business trip the whole day the day before.",
+        "The father said he had been on a business trip the whole day the day before",
+        "The father said that he had been on a business trip the whole day the previous day.",
+        "The father said that he had been on a business trip the whole day the previous day"
+      ],
+      "explanation": "was => had been. 'yesterday' => 'thế đây before' hoặc 'the previous đây'."
     },
     {
       "id": 24,
@@ -203,8 +320,15 @@
       "instruction": "Change into reported speech.",
       "starterText": "James",
       "answer": "James said that his brother would get married the following month.",
-      "acceptedAnswers": ["James said that his brother would get married the following month.", "James said that his brother would get married the following month", "James said his brother would get married the following month.", "James said his brother would get married the following month", "James said that his brother would get married the next month.", "James said that his brother would get married the next month"],
-      "explanation": "will => would. 'next month' => 'the following month' hoac 'the next month'. 'my' => 'his'."
+      "acceptedAnswers": [
+        "James said that his brother would get married the following month.",
+        "James said that his brother would get married the following month",
+        "James said his brother would get married the following month.",
+        "James said his brother would get married the following month",
+        "James said that his brother would get married the next month.",
+        "James said that his brother would get married the next month"
+      ],
+      "explanation": "will => would. 'next month' => 'the following month' hoặc 'the next month'. 'my' => 'his'."
     },
     {
       "id": 25,
@@ -213,8 +337,11 @@
       "instruction": "Change into reported speech.",
       "starterText": "Henry told",
       "answer": "Henry told his mother to come and spend a week with them.",
-      "acceptedAnswers": ["Henry told his mother to come and spend a week with them.", "Henry told his mother to come and spend a week with them"],
-      "explanation": "Menh lenh: told + O + to V. 'us' => 'them'."
+      "acceptedAnswers": [
+        "Henry told his mother to come and spend a week with them.",
+        "Henry told his mother to come and spend a week with them"
+      ],
+      "explanation": "Menh lenh: told + O + to V. 'us' => 'thêm'."
     },
     {
       "id": 26,
@@ -223,8 +350,13 @@
       "instruction": "Change into reported speech.",
       "starterText": "He",
       "answer": "He told me to keep a seat for him in the lecture hall.",
-      "acceptedAnswers": ["He told me to keep a seat for him in the lecture hall.", "He told me to keep a seat for him in the lecture hall", "He asked me to keep a seat for him in the lecture hall.", "He asked me to keep a seat for him in the lecture hall"],
-      "explanation": "Menh lenh: told/asked + O + to V. 'me' (trong loi noi) => 'him'."
+      "acceptedAnswers": [
+        "He told me to keep a seat for him in the lecture hall.",
+        "He told me to keep a seat for him in the lecture hall",
+        "He asked me to keep a seat for him in the lecture hall.",
+        "He asked me to keep a seat for him in the lecture hall"
+      ],
+      "explanation": "Menh lenh: told/asked + O + to V. 'me' (trong lời nói) => 'him'."
     },
     {
       "id": 27,
@@ -233,7 +365,14 @@
       "instruction": "Change into reported speech.",
       "starterText": "Alfred",
       "answer": "Alfred told John that he had not promised to send him a telegram.",
-      "acceptedAnswers": ["Alfred told John that he had not promised to send him a telegram.", "Alfred told John that he had not promised to send him a telegram", "Alfred told John he had not promised to send him a telegram.", "Alfred told John he had not promised to send him a telegram", "Alfred told John that he hadn't promised to send him a telegram.", "Alfred told John that he hadn't promised to send him a telegram"],
+      "acceptedAnswers": [
+        "Alfred told John that he had not promised to send him a telegram.",
+        "Alfred told John that he had not promised to send him a telegram",
+        "Alfred told John he had not promised to send him a telegram.",
+        "Alfred told John he had not promised to send him a telegram",
+        "Alfred told John that he hadn't promised to send him a telegram.",
+        "Alfred told John that he hadn't promised to send him a telegram"
+      ],
       "explanation": "did not promise => had not promised. 'I' => 'he'. 'you' => 'him'."
     },
     {
@@ -243,7 +382,12 @@
       "instruction": "Change into reported speech.",
       "starterText": "She said",
       "answer": "She said that she would get herself a drink.",
-      "acceptedAnswers": ["She said that she would get herself a drink.", "She said that she would get herself a drink", "She said she would get herself a drink.", "She said she would get herself a drink"],
+      "acceptedAnswers": [
+        "She said that she would get herself a drink.",
+        "She said that she would get herself a drink",
+        "She said she would get herself a drink.",
+        "She said she would get herself a drink"
+      ],
       "explanation": "will => would. 'I' => 'she'. 'myself' => 'herself'."
     },
     {
@@ -253,7 +397,14 @@
       "instruction": "Change into reported speech.",
       "starterText": "He said",
       "answer": "He said that he could not drive them home.",
-      "acceptedAnswers": ["He said that he could not drive them home.", "He said that he could not drive them home", "He said he could not drive them home.", "He said he could not drive them home", "He said that he couldn't drive them home.", "He said that he couldn't drive them home"],
+      "acceptedAnswers": [
+        "He said that he could not drive them home.",
+        "He said that he could not drive them home",
+        "He said he could not drive them home.",
+        "He said he could not drive them home",
+        "He said that he couldn't drive them home.",
+        "He said that he couldn't drive them home"
+      ],
       "explanation": "cannot => could not. 'I' => 'he'."
     },
     {
@@ -263,17 +414,22 @@
       "instruction": "Change into reported speech.",
       "starterText": "Mike",
       "answer": "Mike asked Henry to give him his book back.",
-      "acceptedAnswers": ["Mike asked Henry to give him his book back.", "Mike asked Henry to give him his book back", "Mike told Henry to give him his book back.", "Mike told Henry to give him his book back"],
-      "explanation": "Yeu cau lich su (co 'please'): asked + O + to V. 'me' => 'him'. 'my' => 'his'."
+      "acceptedAnswers": [
+        "Mike asked Henry to give him his book back.",
+        "Mike asked Henry to give him his book back",
+        "Mike told Henry to give him his book back.",
+        "Mike told Henry to give him his book back"
+      ],
+      "explanation": "Yeu câu lịch sự (có 'please'): asked + O + to V. 'me' => 'him'. 'my' => 'his'."
     },
     {
       "id": 31,
       "type": "error-correct",
-      "wrongSentence": "He said that he will pick me up at 8 am the following day.",
-      "correctSentence": "He said that he would pick me up at 8 am the following day.",
+      "wrongSentence": "He said that he will pick me up at 8 ấm the following day.",
+      "correctSentence": "He said that he would pick me up at 8 ấm the following day.",
       "errorWord": "will",
       "correction": "would",
-      "explanation": "Trong tuong thuat, 'will' phai lui thanh 'would'."
+      "explanation": "Trong tường thuật, 'will' phải lui thành 'would'."
     },
     {
       "id": 32,
@@ -282,7 +438,7 @@
       "correctSentence": "She said that the books in the library would be available the next day.",
       "errorWord": "tomorrow",
       "correction": "the next day",
-      "explanation": "'tomorrow' phai doi thanh 'the next day / the following day' trong tuong thuat."
+      "explanation": "'tomorrow' phải đổi thành 'the next đây / the following đây' trong tường thuật."
     },
     {
       "id": 33,
@@ -291,7 +447,7 @@
       "correctSentence": "Henry told me to come and spend a week with him.",
       "errorWord": "said",
       "correction": "told",
-      "explanation": "'say' khong dung voi tan ngu truc tiep. Phai dung 'told me to...'."
+      "explanation": "'say' không dùng với tân ngữ trực tiếp. Phai dùng 'told me to...'."
     },
     {
       "id": 34,
@@ -300,7 +456,7 @@
       "correctSentence": "The receptionist said I had to fill in that form before I attended the interview.",
       "errorWord": "must",
       "correction": "had to",
-      "explanation": "'must' lui thanh 'had to' trong tuong thuat."
+      "explanation": "'must' lui thành 'had to' trong tường thuật."
     },
     {
       "id": 35,
@@ -309,49 +465,64 @@
       "correctSentence": "When I was a teenager, my dad always told me not to stay out later than ten o'clock.",
       "errorWord": "that I hadn't used to stay",
       "correction": "not to stay",
-      "explanation": "Day la loi khuyen/menh lenh tuong thuat: told + O + not to V. 'Hadn't used to' khong phu hop vi y nghia la 'bao khong duoc di choi khuya', khong phai 'khong quen di choi khuya'."
+      "explanation": "Day là lời khuyên/menh lenh tường thuật: told + O + not to V. 'Hadn't used to' không phù hợp vì y nghia là 'bao không được đi chơi khuya', không phải 'không quen đi chơi khuya'."
     },
     {
       "id": 36,
       "type": "error-correct",
-      "wrongSentence": "I asked him how far was it from my school to the post office if I went there by taxi.",
+      "wrongSentence": "I asked him how far was ít from my school to the post office if I went there by taxi.",
       "correctSentence": "I asked him how far it was from my school to the post office if I went there by taxi.",
-      "errorWord": "was it",
+      "errorWord": "was ít",
       "correction": "it was",
-      "explanation": "Trong cau tuong thuat, dung trat tu cau tran thuat (S + V), khong dao ngu."
+      "explanation": "Trong câu tường thuật, dùng trat từ câu trần thuật (S + V), không đảo ngữ."
     },
     {
       "id": 37,
       "type": "multiple-choice",
       "question": "Marty said a good friendship _______ like a diamond: valuable, beautiful and durable.",
-      "options": ["A. is", "B. was", "C. has been", "D. had been"],
+      "options": [
+        "A. is",
+        "B. was",
+        "C. has been",
+        "D. had been"
+      ],
       "correctIndex": 0,
-      "explanation": "Day la chan ly, su that hien nhien (a good friendship is like a diamond) nen khong lui thi trong tuong thuat. Giu nguyen 'is'."
+      "explanation": "Day là chân lý, sự thật hiển nhiên (a good friendship is like a diamond) nên không lui thì trong tường thuật. Giu nguyen 'is'."
     },
     {
       "id": 38,
       "type": "error-correct",
-      "wrongSentence": "I asked him how far was it to the station if I went there by taxi.",
+      "wrongSentence": "I asked him how far was ít to the station if I went there by taxi.",
       "correctSentence": "I asked him how far it was to the station if I went there by taxi.",
-      "errorWord": "was it",
+      "errorWord": "was ít",
       "correction": "it was",
-      "explanation": "Tuong thuat Wh-question dung trat tu tran thuat: S + V, khong dao ngu."
+      "explanation": "Tường thuật Wh-question dùng trat từ trần thuật: S + V, không đảo ngữ."
     },
     {
       "id": 39,
       "type": "multiple-choice",
       "question": "All of my students wondered how many people lived in Tokyo? (Choose the underlined part that needs correcting: A. All of, B. wondered, C. many, D. ?)",
-      "options": ["A. All of", "B. wondered", "C. many", "D. the question mark (?)"],
+      "options": [
+        "A. All of",
+        "B. wondered",
+        "C. many",
+        "D. the question mark (?)"
+      ],
       "correctIndex": 3,
-      "explanation": "Cau tuong thuat khong dung dau cham hoi. Phai thay '?' bang '.'."
+      "explanation": "Cau tường thuật không dùng dấu chấm hỏi. Phai thay '?' bang '.'."
     },
     {
       "id": 40,
       "type": "multiple-choice",
       "question": "They asked me that I could do the shopping for them. (Choose the underlined part that needs correcting: A. asked, B. that, C. could do, D. for)",
-      "options": ["A. asked", "B. that", "C. could do", "D. for"],
+      "options": [
+        "A. asked",
+        "B. that",
+        "C. could do",
+        "D. for"
+      ],
       "correctIndex": 1,
-      "explanation": "Tuong thuat Yes-No question dung 'if/whether', khong dung 'that'. 'that' => 'if'."
+      "explanation": "Tường thuật Yes-No question dùng 'if/whether', không dùng 'that'. 'that' => 'if'."
     }
   ]
 }

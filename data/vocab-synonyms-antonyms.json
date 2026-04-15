@@ -1,6 +1,6 @@
 {
   "topicId": "vocab-synonyms-antonyms",
-  "title": "Closest & Opposite Meaning (Dong Nghia & Trai Nghia)",
+  "title": "Closest & Opposite Meaning (Đồng Nghĩa & Trái Nghĩa)",
   "section": "vocabulary",
   "knowledge": {
     "html": "<h3>Phuong phap lam bai tim tu dong nghia (CLOSEST) va trai nghia (OPPOSITE)</h3><div class='formula'><strong>Buoc 1: Doc ky de bai</strong><br>Doc ky yeu cau cua de bai de biet rang do la bai tim tu dong nghia (CLOSEST) hay trai nghia (OPPOSITE). Se that la tiec neu chi vi hieu nham de nen chon nham dap an, mac du hieu het nghia cua cau hoi va cac lua chon cho san. Le ra chon tu dong nghia nhung lai khoanh tu trai nghia, va nguoc lai.</div><div class='formula'><strong>Buoc 2: Tim nghia cua cac tu</strong><br><strong>Truong hop 1:</strong> Biet nghia cua tu cho san o de bai nhung cac tu chon lai kho. Phan nay se hoi kho vi no la tu don, nhung ban van co the doan nghia cua cac tu kho do bang cach tim xem no thuoc tu loai nao va duoc thanh tu tu goc nao. Dong thoi, dua vao nghia cua tu cho san trong cau de suy nghia cua cac tu ban khong biet.<br><br><strong>Truong hop 2:</strong> Biet nghia cua cac lua chon, nhung khong biet nghia cua tu cho san o de bai. De lam duoc cau nay, ban se dua vao nghia cua bon tu lua chon va ngu canh cua cau de suy doan nghia tu in dam. Thuong thi trong bon lua chon se co 3 lua chon dong nghia voi tu cho san neu cau do yeu cau tu trai nghia, va nguoc lai se co 3 lua chon trai nghia voi tu cho san neu de bai yeu cau tim tu dong nghia. Ket hop ngu canh cua cau cho san de tim ra dap an dung.</div>"
@@ -12,7 +12,7 @@
       "question": "[CLOSEST] If you listen carefully to this piece of music, you can hear a flute in the <u>background</u>.",
       "options": ["A. position", "B. experience", "C. training", "D. environment"],
       "correctIndex": 0,
-      "explanation": "'Background' = nen, boi canh ~ 'position' (vi tri). Am thanh o phia sau, o vi tri nen."
+      "explanation": "'Background' = nen, boi canh ~ 'position' (vị trí). Am thanh o phia sau, o vị trí nen."
     },
     {
       "id": 2,
@@ -44,7 +44,7 @@
       "question": "[CLOSEST] I recently posted an advertisement for a <u>vacancy</u> in Sales Department.",
       "options": ["A. available room", "B. available seat", "C. available space", "D. available position"],
       "correctIndex": 3,
-      "explanation": "'Vacancy' = vi tri trong (cong viec) ~ 'available position'. Dang tuyen nhan vien."
+      "explanation": "'Vacancy' = vị trí trong (cong viec) ~ 'available position'. Dang tuyen nhan vien."
     },
     {
       "id": 6,

@@ -1,16 +1,21 @@
 {
   "topicId": "grammar-modal-verbs",
-  "title": "Modal Verbs (Dong Tu Khuyet Thieu)",
+  "title": "Modal Verbs (Động Từ Khuyết Thiếu)",
   "section": "grammar",
   "knowledge": {
-    "html": "<h3>Nhung dong tu khuyet thieu thuong dung</h3><h4>CAN vs BE ABLE TO</h4><p>\"be able to\" va \"can\" deu dien ta mot kha nang hay su co the. Tuy nhien, \"can\" khong co dang tuong lai nen ta su dung \"will be able to\".</p><table class='grammar-table'><tr><th>CAN</th><th>BE ABLE TO</th></tr><tr><td>Dung de dien ta nhung dieu co the lam do kha nang, nang khieu cua ban than.<br><div class='example'>Vi du: I <b>can</b> swim. (= I have the ability to swim).</div></td><td>Dung de dien ta nhung dieu co the lam do co gang, xoay xo moi lam duoc.<br><div class='example'>Vi du: In spite of his broken leg, he <b>was able to</b> get out of the burning house.</div></td></tr></table><h4>MUST vs HAVE TO</h4><p>Ca \"must\" va \"have to\" deu co nghia la \"can phai/phai\".</p><table class='grammar-table'><tr><th>MUST</th><th>HAVE TO</th></tr><tr><td>Dien ta su can thiet phai lam gi nhung la do chu quan (tu ban than nhan thuc thay).<br><div class='example'>Vi du: I <b>must</b> phone my sister. (=> I am aware that this is necessary).</div></td><td>Dien ta su can thiet phai lam gi nhung la do khach quan (noi quy, quy dinh...).<br><div class='example'>Vi du: Students <b>have to</b> go to school on time. (=> It's school's regulation).</div></td></tr></table><h4>NEED (can)</h4><p>\"Need\" vua la dong tu thuong, vua la dong tu khuyet thieu.</p><table class='grammar-table'><tr><th>Need la dong tu thuong</th><th>Need la dong tu khuyet thieu</th></tr><tr><td>- No phai dung tro dong tu khi thanh lap cau phu dinh va nghi van.<br>- Dong tu theo sau no phai dung dang \"to infinitive\".<br><div class='example'>Vi du: She <b>needs to see</b> you.<br>She <b>doesn't need to see</b> you.</div></td><td>- Khi la dong tu khuyet thieu NEED chi co hinh thuc hien tai va co day du dac tinh cua mot dong tu khuyet thieu.<br><div class='example'>Vi du: Need he work so hard?<br>You <b>needn't</b> go yet, need you?</div></td></tr></table><h4>MUSTN'T vs NEEDN'T</h4><table class='grammar-table'><tr><th>MUSTN'T</th><th>NEEDN'T</th></tr><tr><td>MUSTN'T (khong duoc phep): mang y cam doan.<br><div class='example'>Vi du: You <b>mustn't</b> drink it. It is poisonous.</div></td><td>NEEDN'T (khong can thiet): mang y nghia khong bat buoc.<br><div class='example'>Vi du: You <b>needn't</b> hurry. We still have a lot of time to do it.</div></td></tr></table><h4>SHOULD vs OUGHT TO</h4><p>\"should\" va \"ought to\" deu co nghia la \"nen\" dung de dua ra loi khuyen, y kien.</p><table class='grammar-table'><tr><th>SHOULD</th><th>OUGHT TO</th></tr><tr><td>Chi su bat buoc hay bon phan nhung o muc do nhe hon \"Must\".<br><div class='example'>Vi du: You <b>should</b> send this report by 8th September.</div></td><td>Chi su bat buoc. Manh hon \"Should\" nhung chua bang \"Must\".<br><div class='example'>Vi du: She really <b>ought to</b> apologize.</div></td></tr></table><h4>SHALL vs WILL</h4><p>\"shall\" va \"will\" co nghia la \"se\" dung de dua ra mot quyet dinh tai thoi diem noi. \"will\" co the di voi tat ca cac ngoi, con \"shall\" chi duoc dung voi ngoi I/we.</p><table class='grammar-table'><tr><th>SHALL</th><th>WILL</th></tr><tr><td>- Dung de xin y kien, dua goi y.<br>- Nguoi ta dung cau truc \"Shall I...\" de de nghi giup ai.<br><div class='example'>Vi du: <b>Shall</b> I carry the luggage for you?</div></td><td>- Dien dat, du doan su viec xay ra trong tuong lai.<br>- Nguoi ta dung cau truc \"Will you...\" de de nghi ai giup minh.<br><div class='example'>Vi du: <b>Will</b> you give me her address?</div></td></tr></table><h4>MAY vs MIGHT</h4><p>\"may\" va \"might\" deu co nghia la \"co le\" dung de dien ta dieu gi co the xay ra nhung khong chac.</p><table class='grammar-table'><tr><th>MAY</th><th>MIGHT</th></tr><tr><td>Dien ta dieu gi co the xay ra o hien tai.</td><td>Dien ta dieu gi co the xay ra o qua khu. \"Might\" duoc dung khong phai la qua khu cua \"may\" voi muc do \"co the\" thap hon \"may\".</td></tr></table><h4>CAN vs COULD</h4><p>\"can\" va \"could\" duoc dung trong cau hoi de nghi, xin phep, yeu cau.</p><table class='grammar-table'><tr><th>CAN</th><th>COULD</th></tr><tr><td>Dien ta kha nang hien tai hoac tuong lai ma mot nguoi co the lam duoc gi, hoac mot su viec co the xay ra.<br><div class='example'>Vi du: I <b>can</b> swim. / It <b>can</b> rain.</div></td><td>Dien ta kha nang xay ra trong qua khu.<br><div class='example'>Vi du: My brother <b>could</b> speak English when he was five.</div></td></tr></table>"
+    "html": "<h3>Nhung động từ khuyet thieu thường dùng</h3><h4>CAN vs BE ABLE TO</h4><p>\"be able to\" và \"can\" deu diễn tả một khả năng hay sự có thể. Tuy nhien, \"can\" không có đang tương lai nên ta sự dùng \"will be able to\".</p><table class='grammar-table'><tr><th>CAN</th><th>BE ABLE TO</th></tr><tr><td>Dùng để diễn tả những điều có thể làm do khả năng, năng khiếu của bạn than.<br><div class='example'>Ví dụ: I <b>can</b> swim. (= I have the ability to swim).</div></td><td>Dùng để diễn tả những điều có thể làm do có gang, xoay xo moi làm được.<br><div class='example'>Ví dụ: In spite of his broken leg, he <b>was able to</b> get out of the burning house.</div></td></tr></table><h4>MUST vs HAVE TO</h4><p>Ca \"must\" và \"have to\" deu có nghia là \"can phải/phải\".</p><table class='grammar-table'><tr><th>MUST</th><th>HAVE TO</th></tr><tr><td>Diễn tả sự cần thiết phải làm gi nhưng là do chủ quan (từ bạn than nhan thuc thay).<br><div class='example'>Ví dụ: I <b>must</b> phone my sister. (=> I ấm aware that this is necessary).</div></td><td>Diễn tả sự cần thiết phải làm gi nhưng là do khách quan (nội quy, quy định...).<br><div class='example'>Ví dụ: Students <b>have to</b> go to school on time. (=> It's school's regulation).</div></td></tr></table><h4>NEED (can)</h4><p>\"Need\" vua là động từ thường, vua là động từ khuyet thieu.</p><table class='grammar-table'><tr><th>Need là động từ thường</th><th>Need là động từ khuyet thieu</th></tr><tr><td>- No phải dùng tro động từ khi thành lập câu phủ định và nghi vấn.<br>- Động từ theo sau no phải dùng đang \"to infinitive\".<br><div class='example'>Ví dụ: She <b>needs to see</b> you.<br>She <b>doesn't need to see</b> you.</div></td><td>- Khi là động từ khuyet thieu NEED chỉ có hình thức hiện tại và có đây du đặc tính của một động từ khuyet thieu.<br><div class='example'>Ví dụ: Need he work so hard?<br>You <b>needn't</b> go yet, need you?</div></td></tr></table><h4>MUSTN'T vs NEEDN'T</h4><table class='grammar-table'><tr><th>MUSTN'T</th><th>NEEDN'T</th></tr><tr><td>MUSTN'T (không được phep): mang y cấm đoán.<br><div class='example'>Ví dụ: You <b>mustn't</b> drink ít. It is poisonous.</div></td><td>NEEDN'T (không cần thiết): mang y nghia không bắt buộc.<br><div class='example'>Ví dụ: You <b>needn't</b> hurry. We still have a lot of time to do ít.</div></td></tr></table><h4>SHOULD vs OUGHT TO</h4><p>\"should\" và \"ought to\" deu có nghia là \"nên\" dùng để đưa ra lời khuyên, y kien.</p><table class='grammar-table'><tr><th>SHOULD</th><th>OUGHT TO</th></tr><tr><td>Chi sự bắt buộc hay bổn phận nhưng ở muc do nhẹ hon \"Must\".<br><div class='example'>Ví dụ: You <b>should</b> send this report by 8th September.</div></td><td>Chi sự bắt buộc. Manh hon \"Should\" nhưng chưa bang \"Must\".<br><div class='example'>Ví dụ: She really <b>ought to</b> apologize.</div></td></tr></table><h4>SHALL vs WILL</h4><p>\"shall\" và \"will\" có nghia là \"sẽ\" dùng để đưa ra một quyết định tại thời điểm nói. \"will\" có thể di với tất cả các ngôi, còn \"shall\" chỉ được dùng với ngôi I/we.</p><table class='grammar-table'><tr><th>SHALL</th><th>WILL</th></tr><tr><td>- Dùng để xin y kien, đưa goi y.<br>- Nguoi ta dùng cấu trúc \"Shall I...\" để đề nghị giup ai.<br><div class='example'>Ví dụ: <b>Shall</b> I carry the luggage for you?</div></td><td>- Dien dat, dự đoán sự việc xảy ra trong tương lai.<br>- Nguoi ta dùng cấu trúc \"Will you...\" để đề nghị ai giup minh.<br><div class='example'>Ví dụ: <b>Will</b> you give me her address?</div></td></tr></table><h4>MAY vs MIGHT</h4><p>\"may\" và \"might\" deu có nghia là \"có le\" dùng để diễn tả điều gi có thể xảy ra nhưng không chac.</p><table class='grammar-table'><tr><th>MAY</th><th>MIGHT</th></tr><tr><td>Diễn tả điều gi có thể xảy ra ở hiện tại.</td><td>Diễn tả điều gi có thể xảy ra ở quá khứ. \"Might\" được dùng không phải là quá khứ của \"may\" với muc do \"có thể\" thấp hon \"may\".</td></tr></table><h4>CAN vs COULD</h4><p>\"can\" và \"could\" được dùng trong câu hoi đề nghị, xin phep, yêu cầu.</p><table class='grammar-table'><tr><th>CAN</th><th>COULD</th></tr><tr><td>Diễn tả khả năng hiện tại hoặc tương lai mà một người có thể làm được gi, hoặc một sự việc có thể xảy ra.<br><div class='example'>Ví dụ: I <b>can</b> swim. / It <b>can</b> rain.</div></td><td>Diễn tả khả năng xảy ra trong quá khứ.<br><div class='example'>Ví dụ: My brother <b>could</b> speak English when he was five.</div></td></tr></table>"
   },
   "exercises": [
     {
       "id": 1,
       "type": "multiple-choice",
       "question": "The children _______ spend too much time playing computer games.",
-      "options": ["A. mustn't", "B. ought to not", "C. shouldn't", "D. Both B and C"],
+      "options": [
+        "A. mustn't",
+        "B. ought to not",
+        "C. shouldn't",
+        "D. Both B and C"
+      ],
       "correctIndex": 2,
       "explanation": "'Shouldn't' = should not, advising against something. 'Ought to not' is grammatically wrong (should be 'ought not to')."
     },
@@ -18,7 +23,12 @@
       "id": 2,
       "type": "multiple-choice",
       "question": "In case you're suffering from the injury, you _______ see the doctor today.",
-      "options": ["A. had better", "B. must", "C. ought", "D. have better"],
+      "options": [
+        "A. had better",
+        "B. must",
+        "C. ought",
+        "D. have better"
+      ],
       "correctIndex": 0,
       "explanation": "'Had better' gives strong advice about a specific situation. It fits naturally here."
     },
@@ -26,7 +36,12 @@
       "id": 3,
       "type": "multiple-choice",
       "question": "We _______ stop when traffic lights are red.",
-      "options": ["A. might", "B. should", "C. must", "D. can"],
+      "options": [
+        "A. might",
+        "B. should",
+        "C. must",
+        "D. can"
+      ],
       "correctIndex": 2,
       "explanation": "Traffic laws are obligations - 'must' expresses strong necessity/rules."
     },
@@ -34,23 +49,38 @@
       "id": 4,
       "type": "multiple-choice",
       "question": "Remember to bring your raincoat. It _______ rain.",
-      "options": ["A. should", "B. might", "C. need", "D. must"],
+      "options": [
+        "A. should",
+        "B. might",
+        "C. need",
+        "D. must"
+      ],
       "correctIndex": 1,
-      "explanation": "'Might' expresses possibility - it's not certain but possible."
+      "explanation": "'Might' expresses possibility - ít's not certain but possible."
     },
     {
       "id": 5,
       "type": "multiple-choice",
       "question": "I _______ find my own way there. You _______ wait for me.",
-      "options": ["A. should / can't", "B. have to / must", "C. can / needn't", "D. might / mustn't"],
+      "options": [
+        "A. should / can't",
+        "B. have to / must",
+        "C. can / needn't",
+        "D. might / mustn't"
+      ],
       "correctIndex": 2,
-      "explanation": "'Can' = ability to find way; 'needn't' = it's not necessary to wait."
+      "explanation": "'Can' = ability to find way; 'needn't' = ít's not necessary to wait."
     },
     {
       "id": 6,
       "type": "multiple-choice",
       "question": "All students _______ wear uniforms at school because it is a rule.",
-      "options": ["A. should", "B. have to", "C. ought to", "D. must"],
+      "options": [
+        "A. should",
+        "B. have to",
+        "C. ought to",
+        "D. must"
+      ],
       "correctIndex": 1,
       "explanation": "Per Murphy Unit 31, 'have to' is used for external obligations like rules/regulations imposed by others (e.g., school rules). 'Must' is for personal feelings of necessity from the speaker. 'Because it is a rule' explicitly signals an external obligation, so 'have to' is correct."
     },
@@ -58,15 +88,25 @@
       "id": 7,
       "type": "multiple-choice",
       "question": "You _______ finish your homework before you go to bed.",
-      "options": ["A. must", "B. have to", "C. should", "D. ought to"],
+      "options": [
+        "A. must",
+        "B. have to",
+        "C. should",
+        "D. ought to"
+      ],
       "correctIndex": 2,
       "explanation": "'Should' gives advice about what is good to do - appropriate for homework advice."
     },
     {
       "id": 8,
       "type": "multiple-choice",
-      "question": "This drink isn't beneficial for health. You _______ drink it too much.",
-      "options": ["A. should", "B. ought to not", "C. ought not to", "D. mustn't"],
+      "question": "This drink isn't beneficial for health. You _______ drink ít too much.",
+      "options": [
+        "A. should",
+        "B. ought to not",
+        "C. ought not to",
+        "D. mustn't"
+      ],
       "correctIndex": 2,
       "explanation": "'Ought not to' is the correct negative form of 'ought to', giving advice against doing something."
     },
@@ -74,7 +114,12 @@
       "id": 9,
       "type": "multiple-choice",
       "question": "This warning sign indicates that you _______ step on the grass.",
-      "options": ["A. shouldn't", "B. mustn't", "C. don't have to", "D. ought not to"],
+      "options": [
+        "A. shouldn't",
+        "B. mustn't",
+        "C. don't have to",
+        "D. ought not to"
+      ],
       "correctIndex": 1,
       "explanation": "A warning sign indicates prohibition - 'mustn't' = not allowed."
     },
@@ -82,31 +127,51 @@
       "id": 10,
       "type": "multiple-choice",
       "question": "I think you _______ do exercise regularly in order to keep your body in good shape.",
-      "options": ["A. must", "B. should", "C. ought to", "D. Both B and C"],
+      "options": [
+        "A. must",
+        "B. should",
+        "C. ought to",
+        "D. Both B and C"
+      ],
       "correctIndex": 3,
       "explanation": "'I think you should/ought to' both work for giving advice. Both B and C are correct."
     },
     {
       "id": 11,
       "type": "multiple-choice",
-      "question": "I will lend you some money, but you _______ pay it back to me next week.",
-      "options": ["A. should", "B. have to", "C. must", "D. mustn't"],
+      "question": "I will lend you some money, but you _______ pay ít back to me next week.",
+      "options": [
+        "A. should",
+        "B. have to",
+        "C. must",
+        "D. mustn't"
+      ],
       "correctIndex": 2,
       "explanation": "'Must' expresses a strong personal obligation set by the speaker."
     },
     {
       "id": 12,
       "type": "multiple-choice",
-      "question": "Hoa _______ feed the cats because her mother has done it already.",
-      "options": ["A. has to", "B. doesn't have to", "C. must", "D. Both A and C"],
+      "question": "Hoa _______ feed the cats because her mother has done ít already.",
+      "options": [
+        "A. has to",
+        "B. doesn't have to",
+        "C. must",
+        "D. Both A and C"
+      ],
       "correctIndex": 1,
-      "explanation": "Mother already did it, so it's not necessary - 'doesn't have to'."
+      "explanation": "Mother already did ít, số ít's not necessary - 'doesn't have to'."
     },
     {
       "id": 13,
       "type": "multiple-choice",
       "question": "Those audiences _______ show their tickets before entering the concert hall.",
-      "options": ["A. have to", "B. must", "C. ought to", "D. don't have to"],
+      "options": [
+        "A. have to",
+        "B. must",
+        "C. ought to",
+        "D. don't have to"
+      ],
       "correctIndex": 0,
       "explanation": "Showing tickets is a requirement/regulation - 'have to' for external obligation."
     },
@@ -114,7 +179,12 @@
       "id": 14,
       "type": "multiple-choice",
       "question": "You're having a stomachache. You had better _______ to the doctor.",
-      "options": ["A. to go", "B. went", "C. go", "D. going"],
+      "options": [
+        "A. to go",
+        "B. went",
+        "C. go",
+        "D. going"
+      ],
       "correctIndex": 2,
       "explanation": "'Had better' is followed by bare infinitive (V without 'to')."
     },
@@ -122,15 +192,25 @@
       "id": 15,
       "type": "multiple-choice",
       "question": "You _______ ring the bell because I have a key.",
-      "options": ["A. mustn't", "B. needn't", "C. couldn't", "D. should"],
+      "options": [
+        "A. mustn't",
+        "B. needn't",
+        "C. couldn't",
+        "D. should"
+      ],
       "correctIndex": 1,
-      "explanation": "'Needn't' = it's not necessary, because the speaker has a key."
+      "explanation": "'Needn't' = ít's not necessary, because the speaker has a key."
     },
     {
       "id": 16,
       "type": "multiple-choice",
       "question": "It's a hospital. You _______ smoke here.",
-      "options": ["A. mustn't", "B. needn't", "C. may not", "D. don't have to"],
+      "options": [
+        "A. mustn't",
+        "B. needn't",
+        "C. may not",
+        "D. don't have to"
+      ],
       "correctIndex": 0,
       "explanation": "Smoking in a hospital is prohibited - 'mustn't' = forbidden."
     },
@@ -138,15 +218,25 @@
       "id": 17,
       "type": "multiple-choice",
       "question": "Water park is free for kids under 6 years old, so you _______ pay money for your son.",
-      "options": ["A. have to", "B. mustn't", "C. should", "D. don't have to"],
+      "options": [
+        "A. have to",
+        "B. mustn't",
+        "C. should",
+        "D. don't have to"
+      ],
       "correctIndex": 3,
-      "explanation": "It's free, so it's not necessary to pay - 'don't have to'."
+      "explanation": "It's free, số ít's not necessary to pay - 'don't have to'."
     },
     {
       "id": 18,
       "type": "multiple-choice",
       "question": "You look totally exhausted. You _______ take a rest instead of working overtime.",
-      "options": ["A. should", "B. ought", "C. must", "D. has better"],
+      "options": [
+        "A. should",
+        "B. ought",
+        "C. must",
+        "D. has better"
+      ],
       "correctIndex": 0,
       "explanation": "'Should' gives advice. 'Ought' alone is incomplete (needs 'to'), 'has better' is wrong form."
     },
@@ -154,7 +244,12 @@
       "id": 19,
       "type": "multiple-choice",
       "question": "Anyone _______ have a passport, even a visa when travelling all around the world.",
-      "options": ["A. ought to", "B. must", "C. should", "D. has to"],
+      "options": [
+        "A. ought to",
+        "B. must",
+        "C. should",
+        "D. has to"
+      ],
       "correctIndex": 3,
       "explanation": "Passports are a legal requirement for international travel - 'has to' (external obligation, agrees with 'anyone')."
     },
@@ -162,17 +257,22 @@
       "id": 20,
       "type": "multiple-choice",
       "question": "In the peak season, travellers _______ book their accommodation in advance.",
-      "options": ["A. have to", "B. must", "C. should", "D. ought"],
+      "options": [
+        "A. have to",
+        "B. must",
+        "C. should",
+        "D. ought"
+      ],
       "correctIndex": 2,
       "explanation": "This is advice, not an obligation - 'should' is appropriate."
     },
     {
       "id": 21,
       "type": "error-correct",
-      "wrongSentence": "You needn't solve a problem until you identify it correctly.",
+      "wrongSentence": "You needn't solve a problem until you identify ít correctly.",
       "errorWord": "needn't",
       "correction": "can't",
-      "correctSentence": "You can't solve a problem until you identify it correctly.",
+      "correctSentence": "You can't solve a problem until you identify ít correctly.",
       "explanation": "The meaning is 'you are not able to solve' - use 'can't', not 'needn't'."
     },
     {
@@ -236,7 +336,7 @@
       "errorWord": "mustn't",
       "correction": "shouldn't",
       "correctSentence": "His teacher was very angry with him. He shouldn't have said that to her.",
-      "explanation": "'Shouldn't have said' = it was wrong of him to say it. 'Mustn't have' is not standard."
+      "explanation": "'Shouldn't have said' = it was wrong of him to say ít. 'Mustn't have' is not standard."
     },
     {
       "id": 29,
@@ -245,7 +345,7 @@
       "errorWord": "don't have to",
       "correction": "mustn't",
       "correctSentence": "You mustn't cheat on the exam. It's against the rules.",
-      "explanation": "'Don't have to' means it's not necessary. But cheating is forbidden, so use 'mustn't' (= not allowed)."
+      "explanation": "'Don't have to' means ít's not necessary. But cheating is forbidden, so use 'mustn't' (= not allowed)."
     },
     {
       "id": 30,

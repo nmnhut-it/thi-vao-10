@@ -1,24 +1,34 @@
 {
   "topicId": "grammar-subjunctive",
-  "title": "Subjunctive Mood (Gia Dinh)",
+  "title": "Subjunctive Mood (Thể Giả Định)",
   "section": "grammar",
   "knowledge": {
-    "html": "<h3>Subjunctive Mood (Thuc gia dinh)</h3><table class='grammar-table'><tr><th>Present Subjunctive (HTGD)</th><th>Past Subjunctive (QKGD)</th><th>Past Perfect Subjunctive (QKHTGD)</th></tr></table><h4>1. Hien tai gia dinh</h4><div class='formula'><b>Hinh thuc: V(nguyen) (o tat ca cac ngoi)</b></div><p>Tu \"that\" phai luon xuat hien trong cau gia dinh hien tai ngoai tru mot so thanh ngu.</p><div class='example'>I suggest that he ask for her help.</div><p>Neu \"that\" bi luoc bo thi hau het cac dong tu duoc theo sau boi \"to infinitive\".</p><div class='example'>We urge that he leave now. -> We urge him to leave now.</div><h5>Cach dung:</h5><p>Dung trong 1 so cau thanh ngu/cau cam than de the hien 1 ao uoc, hy vong hay 1 loi cau chuc (thuong co lien quan den cac suc manh sieu nhien):</p><table class='grammar-table'><tr><td><b>If this be</b> (Khong chac lam ve kha nang)<br><div class='example'>If this be proven right, you would be considered innocent.</div></td><td><b>Come what may</b>: Du co chuyen gi di nua.<br><div class='example'>Come what may we will stand by you.</div></td></tr><tr><td><b>May</b> (Dien ta loi cau chuc)<br><div class='example'>May you be happy all your life.</div></td><td><b>If need be</b>: Neu can<br><div class='example'>If need be we can take another road.</div></td></tr><tr><td><b>So be it</b>: The cung duoc</td><td><b>Far be it from me to do sth</b>: Khong doi nao toi...</td></tr><tr><td><b>God be with you!</b> = good bye (Chia tay nhau)</td><td><b>Heaven forbid!</b> (Lay troi)</td></tr><tr><td><b>Long live Vietnam!</b> (Viet nam muon nam)</td><td><b>God save the queen!</b></td></tr><tr><td><b>Success attend you!</b> (Chuc ban thanh cong)</td><td><b>Heaven help us!</b> (Cau Chua phu ho chung ta)</td></tr></table><h5>Dung sau mot so dong tu de the hien y muon, yeu cau, de nghi:</h5><div class='formula'><b>S + V(any tense) + that + S + (not) + V(nguyen)</b></div><table class='grammar-table'><tr><td>advise</td><td>demand</td><td>prefer</td><td>require</td></tr><tr><td>propose</td><td>insist</td><td>command</td><td>stipulate</td></tr><tr><td>order</td><td>recommend</td><td>suggest</td><td>decree</td></tr><tr><td>request</td><td>urge</td><td>move</td><td>ask</td></tr></table><div class='example'>The doctor suggested that he stop smoking.<br>Congress had decreed that the gasoline tax be abolished.<br>We proposed that he take a vacation.</div><h5>Dung sau mot so tinh tu:</h5><div class='formula'><b>It + be (any tense) + adj + that + S + (not) + V(nguyen)</b></div><table class='grammar-table'><tr><td>important</td><td>necessary/vital</td><td>required</td><td>essential/crucial</td></tr><tr><td>advised</td><td>possible</td><td>recommended</td><td>mandatory</td></tr><tr><td>proposed/imperative</td><td>obligatory</td><td>suggested</td><td>urgent</td></tr></table><div class='example'>It was urgent that she leave at once.<br>It has been proposed that we not change the topic.<br>It is important that they be told the truth.</div><p><b>Luu y:</b> Neu bo \"that\", chu ngu sau \"that\" se bien thanh \"for sb\", cau mat tinh chat gia dinh va tro thanh dang menh lenh thuc gian tiep.</p><div class='formula'><b>It + be (any tense) + adj + for sb + (not) + to V(nguyen)</b></div><div class='example'>It is necessary for him to find the books.<br>It has been proposed for us to change the topic.</div><p>Dung sau tat ca cac danh tu xuat phat tu nhung dong tu va tinh tu tren:</p><div class='example'>demand, request, recommendation, insistence, proposal, preference, suggestion</div><div class='example'>There is suggestion from the doctor that the patient stop smoking.<br>It is recommendation that the vehicle owner be present at the court.</div><h4>2. Qua khu gia dinh</h4><div class='formula'><b>Hinh thuc: Vqua khu/were</b></div><h5>Cach dung:</h5><ul><li>Dung trong cau dieu kien loai 2.<div class='example'>If I were you, I would go. If he knew this, he would be happy.</div></li><li>Dung trong cau uoc khong co thuc o hien tai: <b>S + wish = If only</b><div class='example'>I wish I could speak Chinese (but I can't). If only my son were good at Math.</div></li><li>Dung sau \"as if/as though\" de chi 1 gia dinh khong co that o hien tai (cu nhu the la).</li></ul><div class='formula'><b>S1 + V (hien tai) +</b> as if / as though <b>+ S2 + V (qua khu)</b></div><div class='example'>He talks as if he were my father. He behaves as though he owned the place.</div><ul><li>Dung trong cau truc: <b>It's (high/about) time + S + Vqua khu</b> (Gia dinh thoi gian den tre mot chut).<br><b>It's time for sb to do sth</b> (Thoi gian vua van, khong dua ra gia dinh).</li></ul><div class='example'>It's high time I left for the airport.<br>It's about time we went home. It is time for me to get to the airport.</div><p><b>Luu y:</b> Neu sau \"It's time +/he/she/it\" la dong tu \"to be\" thi ta dung \"was\".</p><h4>3. Qua khu hoan thanh gia dinh</h4><div class='formula'><b>Hinh thuc: Had + VP2</b></div><h5>Cach dung:</h5><ul><li>Dung trong cau dieu kien loai 3.<div class='example'>If I had been there, I should have understood.</div></li><li>Dung trong cau uoc khong co thuc o qua khu: <b>S + wish = If only</b><div class='example'>I wish that I hadn't spent so much money.<br>If only she had asked someone's advice.</div></li><li>Dung sau \"as if, as though\" de chi 1 gia dinh khong co that o qua khu (cu nhu the la).</li></ul><div class='formula'><b>S1 + V (qua khu) +</b> as if / as though <b>+ S2 + had + VP2</b></div><div class='example'>He looked as if he had seen ghosts. He breathed as if he had run 10 km.</div><p><b>Luu y:</b> Sau \"as if/as though\" khong nhat thiet luon dung thuc gia dinh.</p><div class='example'>It looks as if it is going to rain.</div>"
+    "html": "<h3>Subjunctive Mood (Thuc giả định)</h3><table class='grammar-table'><tr><th>Present Subjunctive (HTGD)</th><th>Past Subjunctive (QKGD)</th><th>Past Perfect Subjunctive (QKHTGD)</th></tr></table><h4>1. Hien tại giả định</h4><div class='formula'><b>Hình thức: V(nguyen) (ở tất cả các ngôi)</b></div><p>Từ \"that\" phải luôn xuất hiện trong câu giả định hiện tại ngoại trừ một số thành ngữ.</p><div class='example'>I suggest that he ask for her help.</div><p>Neu \"that\" bi luoc bỏ thì hau het các động từ được theo sau boi \"to infinitive\".</p><div class='example'>We urge that he leave now. -> We urge him to leave now.</div><h5>Cách dùng:</h5><p>Dùng trong 1 so câu thành ngữ/câu cảm thán để thể hiện 1 ao ước, hy vọng hay 1 lời cầu chúc (thường có liên quan den các sức mạnh siêu nhiên):</p><table class='grammar-table'><tr><td><b>If this be</b> (Khong chac làm ve khả năng)<br><div class='example'>If this be proven right, you would be considered innocent.</div></td><td><b>Come what may</b>: Du có chuyen gi di nua.<br><div class='example'>Come what may we will stand by you.</div></td></tr><tr><td><b>May</b> (Diễn tả lời cầu chúc)<br><div class='example'>May you be happy all your life.</div></td><td><b>If need be</b>: Neu can<br><div class='example'>If need be we can take another road.</div></td></tr><tr><td><b>So be ít</b>: The cũng được</td><td><b>Far be ít from me to do sth</b>: Khong đổi nào tới...</td></tr><tr><td><b>God be with you!</b> = good bye (Chia tay nhau)</td><td><b>Heaven forbid!</b> (Lay troi)</td></tr><tr><td><b>Long live Vietnam!</b> (Viet năm muôn năm)</td><td><b>God save the queen!</b></td></tr><tr><td><b>Success attend you!</b> (Chuc bạn thành công)</td><td><b>Heaven help us!</b> (Cau Chua phu ho chung ta)</td></tr></table><h5>Dùng sau một số động từ để thể hiện y muộn, yêu cầu, đề nghị:</h5><div class='formula'><b>S + V(any tense) + that + S + (not) + V(nguyen)</b></div><table class='grammar-table'><tr><td>advise</td><td>demand</td><td>prefer</td><td>require</td></tr><tr><td>propose</td><td>insist</td><td>command</td><td>stipulate</td></tr><tr><td>order</td><td>recommend</td><td>suggest</td><td>decree</td></tr><tr><td>request</td><td>urge</td><td>move</td><td>ask</td></tr></table><div class='example'>The doctor suggested that he stop smoking.<br>Congress had decreed that the gasoline tax be abolished.<br>We proposed that he take a vacation.</div><h5>Dùng sau một số tính từ:</h5><div class='formula'><b>It + be (any tense) + adj + that + S + (not) + V(nguyen)</b></div><table class='grammar-table'><tr><td>important</td><td>necessary/vital</td><td>required</td><td>essential/crucial</td></tr><tr><td>advised</td><td>possible</td><td>recommended</td><td>mandatory</td></tr><tr><td>proposed/imperative</td><td>obligatory</td><td>suggested</td><td>urgent</td></tr></table><div class='example'>It was urgent that she leave at once.<br>It has been proposed that we not change the topic.<br>It is important that they be told the truth.</div><p><b>Lưu ý:</b> Neu bỏ \"that\", chủ ngữ sau \"that\" sẽ biến thành \"for sb\", câu mat tính chat giả định và tro thành đang mệnh lệnh thức gián tiếp.</p><div class='formula'><b>It + be (any tense) + adj + for sb + (not) + to V(nguyen)</b></div><div class='example'>It is necessary for him to find the books.<br>It has been proposed for us to change the topic.</div><p>Dùng sau tất cả các danh từ xuat phat từ nhưng động từ và tính từ tren:</p><div class='example'>demand, request, recommendation, insistence, proposal, preference, suggestion</div><div class='example'>There is suggestion from the doctor that the patient stop smoking.<br>It is recommendation that the vehicle owner be present at the court.</div><h4>2. Qua khu giả định</h4><div class='formula'><b>Hình thức: Vqua khu/were</b></div><h5>Cách dùng:</h5><ul><li>Dùng trong câu điều kiện loại 2.<div class='example'>If I were you, I would go. If he knew this, he would be happy.</div></li><li>Dùng trong câu ước không có thuc ở hiện tại: <b>S + wish = If only</b><div class='example'>I wish I could speak Chinese (but I can't). If only my son were good at Math.</div></li><li>Dùng sau \"as if/as though\" để chỉ 1 giả định không có thật ở hiện tại (cũ nhu the là).</li></ul><div class='formula'><b>S1 + V (hiện tại) +</b> as if / as though <b>+ S2 + V (quá khứ)</b></div><div class='example'>He talks as if he were my father. He behaves as though he owned the place.</div><ul><li>Dùng trong cấu trúc: <b>It's (high/about) time + S + Vqua khu</b> (Gia dinh thời gian den trẻ một chut).<br><b>It's time for sb to do sth</b> (Thoi gian vua vẫn, không đưa ra giả định).</li></ul><div class='example'>It's high time I left for the airport.<br>It's about time we went home. It is time for me to get to the airport.</div><p><b>Lưu ý:</b> Neu sau \"It's time +/he/she/ít\" là động từ \"to be\" thì ta dùng \"was\".</p><h4>3. Quá khứ hoàn thành giả định</h4><div class='formula'><b>Hình thức: Had + VP2</b></div><h5>Cách dùng:</h5><ul><li>Dùng trong câu điều kiện loại 3.<div class='example'>If I had been there, I should have understood.</div></li><li>Dùng trong câu ước không có thuc ở quá khứ: <b>S + wish = If only</b><div class='example'>I wish that I hadn't spent so much money.<br>If only she had asked someone's advice.</div></li><li>Dùng sau \"as if, as though\" để chỉ 1 giả định không có thật ở quá khứ (cũ nhu the là).</li></ul><div class='formula'><b>S1 + V (quá khứ) +</b> as if / as though <b>+ S2 + had + VP2</b></div><div class='example'>He looked as if he had seen ghosts. He breathed as if he had run 10 km.</div><p><b>Lưu ý:</b> Sau \"as if/as though\" không nhất thiet luôn dùng thức giả định.</p><div class='example'>It looks as if it is going to rain.</div>"
   },
   "exercises": [
     {
       "id": 1,
       "type": "multiple-choice",
       "question": "If I _______ more experience, they would have accepted my application.",
-      "options": ["A. have", "B. will have", "C. had had", "D. have had"],
+      "options": [
+        "A. have",
+        "B. will have",
+        "C. had had",
+        "D. have had"
+      ],
       "correctIndex": 2,
       "explanation": "Type 3 conditional: If + had + PP. 'Had had' = past perfect of 'have'."
     },
     {
       "id": 2,
       "type": "multiple-choice",
-      "question": "If only it _______ warm and sunny today. I'm fed up with snow and cold.",
-      "options": ["A. be", "B. would be", "C. were", "D. had been"],
+      "question": "If only ít _______ warm and sunny today. I'm fed up with snow and cold.",
+      "options": [
+        "A. be",
+        "B. would be",
+        "C. were",
+        "D. had been"
+      ],
       "correctIndex": 2,
       "explanation": "'If only' + past subjunctive for unreal present wish: 'were'."
     },
@@ -26,7 +36,12 @@
       "id": 3,
       "type": "multiple-choice",
       "question": "I wish another more effective teaching method _______ used.",
-      "options": ["A. is", "B. was", "C. were", "D. has been"],
+      "options": [
+        "A. is",
+        "B. was",
+        "C. were",
+        "D. has been"
+      ],
       "correctIndex": 2,
       "explanation": "'Wish' + past subjunctive for unreal present: 'were used'."
     },
@@ -34,7 +49,12 @@
       "id": 4,
       "type": "multiple-choice",
       "question": "A: \"Could you lend me some money?\" B: \"I wish I _______ you some money for your rent, but I'm broke myself.\"",
-      "options": ["A. can lend", "B. would lend", "C. could lend", "D. will lend"],
+      "options": [
+        "A. can lend",
+        "B. would lend",
+        "C. could lend",
+        "D. will lend"
+      ],
       "correctIndex": 2,
       "explanation": "'Wish + could + V' expresses an unreal present ability: 'I wish I could lend'."
     },
@@ -42,7 +62,12 @@
       "id": 5,
       "type": "multiple-choice",
       "question": "I can't stand him. He always talks as if he _______ everything.",
-      "options": ["A. knew", "B. knows", "C. has known", "D. had known"],
+      "options": [
+        "A. knew",
+        "B. knows",
+        "C. has known",
+        "D. had known"
+      ],
       "correctIndex": 0,
       "explanation": "'As if' + past subjunctive for unreal present: 'as if he knew'."
     },
@@ -50,15 +75,25 @@
       "id": 6,
       "type": "multiple-choice",
       "question": "I suggest that John _______ the directions carefully before assembling the bicycle.",
-      "options": ["A. reading", "B. reads", "C. read", "D. have ready"],
+      "options": [
+        "A. reading",
+        "B. reads",
+        "C. read",
+        "D. have ready"
+      ],
       "correctIndex": 2,
       "explanation": "'Suggest that + S + V(bare/nguyen)' - present subjunctive: 'read'."
     },
     {
       "id": 7,
       "type": "multiple-choice",
-      "question": "It is strange that he _______ so upset about such a trifle, isn't it?",
-      "options": ["A. were", "B. shall be", "C. should be", "D. have been"],
+      "question": "It is strange that he _______ so upset about such a trifle, isn't ít?",
+      "options": [
+        "A. were",
+        "B. shall be",
+        "C. should be",
+        "D. have been"
+      ],
       "correctIndex": 2,
       "explanation": "'It is strange that + S + should + V' expresses surprise about something."
     },
@@ -66,7 +101,12 @@
       "id": 8,
       "type": "multiple-choice",
       "question": "I would rather that you _______ me tomorrow.",
-      "options": ["A. called", "B. to call", "C. calling", "D. will call"],
+      "options": [
+        "A. called",
+        "B. to call",
+        "C. calling",
+        "D. will call"
+      ],
       "correctIndex": 0,
       "explanation": "'Would rather (that) + S + V(past)' - past subjunctive for wishes about another person's actions: 'called'."
     },
@@ -74,7 +114,12 @@
       "id": 9,
       "type": "multiple-choice",
       "question": "They insisted on my coming early. They insisted that _______.",
-      "options": ["A. my early coming", "B. I had to come early", "C. I be come early", "D. I should come early"],
+      "options": [
+        "A. my early coming",
+        "B. I had to come early",
+        "C. I be come early",
+        "D. I should come early"
+      ],
       "correctIndex": 3,
       "explanation": "'Insist that + S + should + V' or 'insist that + S + V(bare)': 'I should come early'."
     },
@@ -82,7 +127,12 @@
       "id": 10,
       "type": "multiple-choice",
       "question": "It's high time you _______ a haircut.",
-      "options": ["A. have", "B. had", "C. to have", "D. had had"],
+      "options": [
+        "A. have",
+        "B. had",
+        "C. to have",
+        "D. had had"
+      ],
       "correctIndex": 1,
       "explanation": "'It's high time + S + V(past)' - past subjunctive: 'had'."
     },
@@ -90,7 +140,12 @@
       "id": 11,
       "type": "multiple-choice",
       "question": "Mrs White always talks to her baby as though he _______ an adult.",
-      "options": ["A. is", "B. were", "C. had been", "D. will be"],
+      "options": [
+        "A. is",
+        "B. were",
+        "C. had been",
+        "D. will be"
+      ],
       "correctIndex": 1,
       "explanation": "'As though' + past subjunctive (unreal present): 'were'."
     },
@@ -98,7 +153,12 @@
       "id": 12,
       "type": "multiple-choice",
       "question": "It is essential that she _______ the truth about her illness.",
-      "options": ["A. tell", "B. be told", "C. is told", "D. tells"],
+      "options": [
+        "A. tell",
+        "B. be told",
+        "C. is told",
+        "D. tells"
+      ],
       "correctIndex": 1,
       "explanation": "'It is essential that + S + V(bare)' - passive subjunctive: 'be told'."
     },
@@ -106,7 +166,12 @@
       "id": 13,
       "type": "multiple-choice",
       "question": "I wish this English course _______ the whole year.",
-      "options": ["A. will last", "B. may last", "C. lasted", "D. last"],
+      "options": [
+        "A. will last",
+        "B. may last",
+        "C. lasted",
+        "D. last"
+      ],
       "correctIndex": 2,
       "explanation": "'Wish + past simple' for unreal present wish: 'lasted'."
     },
@@ -114,39 +179,64 @@
       "id": 14,
       "type": "multiple-choice",
       "question": "I wish that someday I _______ able to marry her.",
-      "options": ["A. will be", "B. am", "C. would be", "D. had been"],
+      "options": [
+        "A. will be",
+        "B. ấm",
+        "C. would be",
+        "D. had been"
+      ],
       "correctIndex": 2,
-      "explanation": "'Wish + would' for future wish/desire for change: 'would be'. Note: Murphy warns against 'I wish I would' for the same subject, preferring 'I wish I could'. However, 'would be' is acceptable here as it expresses a hope for a future situation to change, not a complaint about one's own behavior."
+      "explanation": "'Wish + would' for future wish/desire for change: 'would be'. Note: Murphy warns against 'I wish I would' for the same subject, preferring 'I wish I could'. However, 'would be' is acceptable here as ít expresses a hope for a future situation to change, not a complaint about one's own behavior."
     },
     {
       "id": 15,
       "type": "multiple-choice",
-      "question": "He talks as if he _______ all the work himself but in fact Tom and I did most of it.",
-      "options": ["A. was doing", "B. had done", "C. did", "D. has done"],
+      "question": "He talks as if he _______ all the work himself but in fact Tom and I did most of ít.",
+      "options": [
+        "A. was doing",
+        "B. had done",
+        "C. did",
+        "D. has done"
+      ],
       "correctIndex": 1,
-      "explanation": "'As if + past perfect' for unreal past (he didn't actually do it): 'had done'."
+      "explanation": "'As if + past perfect' for unreal past (he didn't actually do ít): 'had done'."
     },
     {
       "id": 16,
       "type": "multiple-choice",
       "question": "They treat us as if we _______ all idiots.",
-      "options": ["A. are", "B. had been", "C. were", "D. was"],
+      "options": [
+        "A. are",
+        "B. had been",
+        "C. were",
+        "D. was"
+      ],
       "correctIndex": 2,
       "explanation": "'As if + past subjunctive' for unreal present: 'were'."
     },
     {
       "id": 17,
       "type": "multiple-choice",
-      "question": "I don't understand this point of grammar. I wish I _______ it better.",
-      "options": ["A. understood", "B. would understand", "C. had understood", "D. understands"],
+      "question": "I don't understand this point of grammar. I wish I _______ ít better.",
+      "options": [
+        "A. understood",
+        "B. would understand",
+        "C. had understood",
+        "D. understands"
+      ],
       "correctIndex": 0,
       "explanation": "'Wish + past simple' for unreal present: 'I wish I understood'."
     },
     {
       "id": 18,
       "type": "multiple-choice",
-      "question": "Yesterday I met a very beautiful girl. I really want to see her again but I don't know how to go about it. I wish _______.",
-      "options": ["A. I didn't meet her yesterday", "B. I had know her address", "C. I knew her address", "D. I will meet her tomorrow"],
+      "question": "Yesterday I met a very beautiful girl. I really want to see her again but I don't know how to go about ít. I wish _______.",
+      "options": [
+        "A. I didn't meet her yesterday",
+        "B. I had know her address",
+        "C. I knew her address",
+        "D. I will meet her tomorrow"
+      ],
       "correctIndex": 2,
       "explanation": "'Wish + past simple' for present unreal wish: 'I wish I knew her address'."
     },
@@ -154,7 +244,12 @@
       "id": 19,
       "type": "multiple-choice",
       "question": "He looks as though he _______ a square meal in his life, but in fact his wife feeds him very well.",
-      "options": ["A. has never got", "B. never got", "C. never gets", "D. had never got"],
+      "options": [
+        "A. has never got",
+        "B. never got",
+        "C. never gets",
+        "D. had never got"
+      ],
       "correctIndex": 3,
       "explanation": "'As though + past perfect' for unreal past/present emphasis: 'had never got'."
     },
@@ -162,7 +257,12 @@
       "id": 20,
       "type": "multiple-choice",
       "question": "I feel terrible. The heavy truck raced by me at full speed. I feel as if I _______ over.",
-      "options": ["A. was run", "B. have been run", "C. had been run", "D. was being run"],
+      "options": [
+        "A. was run",
+        "B. have been run",
+        "C. had been run",
+        "D. was being run"
+      ],
       "correctIndex": 2,
       "explanation": "'As if + past perfect passive' for unreal feeling: 'had been run over'."
     },
@@ -263,7 +363,10 @@
       "instruction": "Rewrite using 'I wish'.",
       "starterText": "I wish",
       "answer": "I wish you wouldn't say things like that.",
-      "acceptedAnswers": ["I wish you wouldn't say things like that.", "I wish you wouldn't say things like that"],
+      "acceptedAnswers": [
+        "I wish you wouldn't say things like that.",
+        "I wish you wouldn't say things like that"
+      ],
       "explanation": "'Wish + would' for complaints about others' behavior."
     },
     {
@@ -273,7 +376,10 @@
       "instruction": "Rewrite using 'I wish'.",
       "starterText": "I wish",
       "answer": "I wish somebody had told me you were at home yesterday.",
-      "acceptedAnswers": ["I wish somebody had told me you were at home yesterday.", "I wish someone had told me you were at home yesterday."],
+      "acceptedAnswers": [
+        "I wish somebody had told me you were at home yesterday.",
+        "I wish someone had told me you were at home yesterday."
+      ],
       "explanation": "'Wish + past perfect' for past regret about something that didn't happen."
     },
     {
@@ -283,7 +389,10 @@
       "instruction": "Rewrite using 'Tom wished'.",
       "starterText": "Tom wished",
       "answer": "Tom wished he had bought her a present.",
-      "acceptedAnswers": ["Tom wished he had bought her a present.", "Tom wished he had bought her a present"],
+      "acceptedAnswers": [
+        "Tom wished he had bought her a present.",
+        "Tom wished he had bought her a present"
+      ],
       "explanation": "'Wish + past perfect' for past regret: he didn't buy => wished he had bought."
     },
     {
@@ -293,7 +402,10 @@
       "instruction": "Rewrite using 'I would rather'.",
       "starterText": "I would rather",
       "answer": "I would rather you didn't touch my CDs.",
-      "acceptedAnswers": ["I would rather you didn't touch my CDs.", "I would rather you didn't touch my CDs"],
+      "acceptedAnswers": [
+        "I would rather you didn't touch my CDs.",
+        "I would rather you didn't touch my CDs"
+      ],
       "explanation": "'Would rather + S + V(past)' for present wishes about others: 'didn't touch'."
     },
     {
@@ -303,7 +415,10 @@
       "instruction": "Rewrite using 'If only'.",
       "starterText": "If only",
       "answer": "If only Jim caught some fish.",
-      "acceptedAnswers": ["If only Jim caught some fish.", "If only Jim caught some fish"],
+      "acceptedAnswers": [
+        "If only Jim caught some fish.",
+        "If only Jim caught some fish"
+      ],
       "explanation": "'If only + past simple' for unreal present wish."
     },
     {
@@ -313,7 +428,10 @@
       "instruction": "Rewrite using 'It looks as if'.",
       "starterText": "It looks as if",
       "answer": "It looks as if he is running away from your fierce dog.",
-      "acceptedAnswers": ["It looks as if he is running away from your fierce dog.", "It looks as if he is running away from your fierce dog"],
+      "acceptedAnswers": [
+        "It looks as if he is running away from your fierce dog.",
+        "It looks as if he is running away from your fierce dog"
+      ],
       "explanation": "'It looks as if' + present tense for something that appears to be true now."
     },
     {
@@ -323,7 +441,11 @@
       "instruction": "Rewrite using 'If only'.",
       "starterText": "If only",
       "answer": "If only I were rich and famous.",
-      "acceptedAnswers": ["If only I were rich and famous.", "If only I were rich and famous", "If only I was rich and famous."],
+      "acceptedAnswers": [
+        "If only I were rich and famous.",
+        "If only I were rich and famous",
+        "If only I was rich and famous."
+      ],
       "explanation": "'If only + past subjunctive' for unreal present wish: 'were'."
     },
     {
@@ -333,7 +455,11 @@
       "instruction": "Rewrite using 'I wish'.",
       "starterText": "I wish",
       "answer": "I wish I were in a secluded beach in Mexico.",
-      "acceptedAnswers": ["I wish I were in a secluded beach in Mexico.", "I wish I was in a secluded beach in Mexico.", "I wish I were in a secluded beach in Mexico"],
+      "acceptedAnswers": [
+        "I wish I were in a secluded beach in Mexico.",
+        "I wish I was in a secluded beach in Mexico.",
+        "I wish I were in a secluded beach in Mexico"
+      ],
       "explanation": "'Wish + past subjunctive' for unreal present: 'were'."
     },
     {
@@ -343,7 +469,10 @@
       "instruction": "Rewrite using 'It's high'.",
       "starterText": "It's high",
       "answer": "It's high time you acquired a few manners.",
-      "acceptedAnswers": ["It's high time you acquired a few manners.", "It's high time you acquired a few manners"],
+      "acceptedAnswers": [
+        "It's high time you acquired a few manners.",
+        "It's high time you acquired a few manners"
+      ],
       "explanation": "'It's high time + S + V(past)' for something overdue."
     },
     {
@@ -353,7 +482,10 @@
       "instruction": "Rewrite using 'I really wish'.",
       "starterText": "I really wish",
       "answer": "I really wish I had invited her to the party.",
-      "acceptedAnswers": ["I really wish I had invited her to the party.", "I really wish I had invited her to the party"],
+      "acceptedAnswers": [
+        "I really wish I had invited her to the party.",
+        "I really wish I had invited her to the party"
+      ],
       "explanation": "'Wish + past perfect' for past regret: didn't invite => had invited."
     }
   ]

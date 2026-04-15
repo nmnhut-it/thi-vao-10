@@ -1,178 +1,283 @@
 {
   "topicId": "vocab-word-formation",
-  "title": "Word Formation (Cau Tao Tu)",
+  "title": "Word Formation (Cấu Tạo Từ)",
   "section": "vocabulary",
   "knowledge": {
-    "html": "<h3>I. DANH TU (NOUN) - Vi tri trong cau</h3><table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%'><tr><th>Vi tri</th><th>Vi du</th></tr><tr><td>1. Chu ngu cua cau</td><td><em>Maths</em> is the subject I like best</td></tr><tr><td>2. Sau tinh tu (good, beautiful...)<br>Sau tinh tu so huu (my, your, his, her...)<br>Cum danh tu: a/an the + (adv) + adj + N</td><td>She is a good <u>teacher</u>.<br>His <u>father</u> works in hospital.</td></tr><tr><td>3. Lam tan ngu, sau dong tu</td><td>I like <u>English</u>.<br>We are <u>students</u>.</td></tr><tr><td>4. Sau \"enough\" (enough + N)</td><td>He didn't have enough <u>money</u> to buy that car.</td></tr><tr><td>5. Sau cac mao tu (a, an, the)<br>Sau dai tu chi dinh (this, that, these, those)<br>Sau luong tu (each, no, any, a few, a little...)</td><td>She is a <u>teacher</u>.<br>This <u>book</u> is an interesting book.<br>I have a little <u>money</u> to go to the movie.</td></tr><tr><td>6. Sau gioi tu: in, on, of, with, under, at...</td><td>Thanh is good at <u>literature</u>.</td></tr></table><div class='formula'><strong>Dau hieu nhan biet danh tu:</strong><br>-ion (distribution), -ment (development), -er (teacher), -or (actor), -ant (accountant), -age (marriage), -ship (friendship), -sm (enthusiasm), -ity (ability), -ness (happiness), -dom (freedom), -ist (terrorist), -ian (physician), -hood (childhood), -ance (importance), -ence (dependence), -ety (society), -ty (honesty)</div><h3>II. TINH TU (ADJECTIVE) - Vi tri trong cau</h3><table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%'><tr><th>Vi tri</th><th>Vi du</th></tr><tr><td>1. Truoc danh tu: (a/an/the) + (adv) + adj + N</td><td>My Tam is a <u>famous</u> singer.</td></tr><tr><td>2. Sau dong tu lien ket: be/seem/appear/feel/taste/look/keep/get/keep/make (sb) + adj</td><td>Tom seems <u>tired</u> now.<br>The homework keeps me <u>busy</u> all the time.</td></tr><tr><td>3. Sau \"too\": S + be/seem/look... + too + adj</td><td>Coffee seems too <u>hot</u> for me to drink.</td></tr><tr><td>4. Truoc \"enough\": S + be + adj + enough</td><td>She is <u>tall</u> enough to play volleyball.</td></tr><tr><td>5. Trong cau truc: so + adj + that</td><td>The weather was so <u>bad</u> that we decided to stay at home.</td></tr><tr><td>6. Dung duoi cac dang so sanh</td><td>Meat is more <u>expensive</u> than fish.</td></tr></table><div class='formula'><strong>Dau hieu nhan biet tinh tu:</strong><br>-ful (helpful), -less (homeless), -ly (friendly), -al (national), -ble (acceptable), -ive (active), -ous (famous), -ish (selfish), -y (foggy), -like (childlike), -ic (scientific), -ed (bored), -ing (interesting), -ary (necessary), -ant (important), -ent (different)</div><h3>III. TRANG TU (ADVERB) - Vi tri trong cau</h3><table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%'><tr><th>Vi tri</th><th>Vi du</th></tr><tr><td>1. Truoc dong tu thuong va giua tro dong tu va dong tu thuong (dac biet la cac trang tu chi tan suat: always, usually...)</td><td>They <u>seldom</u> get up early in the morning.<br>I have <u>recently</u> finished my homework.<br>I don't <u>usually</u> go to school late.</td></tr><tr><td>2. Truoc tinh tu: be/feel/look... + adv + adj</td><td>She is very nice.<br>He looks <u>extremely</u> unwell.</td></tr><tr><td>3. Sau \"too\": V(thuong) + too + adv!</td><td>The teacher speaks too <u>quickly</u>.</td></tr><tr><td>4. Truoc \"enough\": V(thuong) + adv + enough</td><td>The teacher speaks <u>slowly</u> enough for us to understand.</td></tr><tr><td>5. Trong cau truc: V(thuong) + so + adv + that</td><td>Jack drove so <u>fast</u> that he caused an accident.</td></tr><tr><td>6. Dung cuoi cau (trang tu thoi gian)</td><td>I finished my essay last week.</td></tr><tr><td>7. Thuong dung o dau cau/giua cau va cach cac thanh phan khac cua cau bang dau \",\"</td><td>Last summer I came back my home country.<br>It's raining hard. Tom, <u>however</u>, goes to school.</td></tr></table><div class='formula'><strong>Dau hieu nhan biet trang tu:</strong><br>Adv = adj + -ly (beautifully, usefully, carefully, strongly, badly)<br><br><strong>Ngoai le:</strong> Mot so tu co duoi \"-ly\" nhung la tinh tu, khong phai trang tu: daily, early, elderly, friendly, likely, lively, lonely, lovely, manly, monthly, silly, ugly, unlikely, weekly, yearly</div><h3>IV. DONG TU (VERB) - Vi tri trong cau</h3><table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%'><tr><th>Vi tri</th><th>Vi du</th></tr><tr><td>1. Thuong dung sau chu ngu</td><td>Lam Anh <u>plays</u> volleyball everyday.</td></tr><tr><td>2. Dung sau trang tu chi tan suat</td><td>I usually <u>get</u> up late.</td></tr></table><div class='formula'><strong>Dau hieu nhan biet dong tu:</strong><br>-ate (compensate), -ain (maintain), -flect (reflect), -flict (inflict), -spect (respect), -scrib (describe), -ceive (deceive), -fy (modify), -ise/-ize (realize), -ude (include), -ide (divide), -dus (evade), -tend (extend)</div>"
+    "html": "<h3>I. DANH TU (NOUN) - Vị trí trong câu</h3><table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%'><tr><th>Vị trí</th><th>Ví dụ</th></tr><tr><td>1. Chu ngu của câu</td><td><em>Maths</em> is the subject I like best</td></tr><tr><td>2. Sau tính từ (good, beautiful...)<br>Sau tính từ sở hữu (my, your, his, her...)<br>Cum danh từ: a/an thế + (adv) + adj + N</td><td>She is a good <u>teacher</u>.<br>His <u>father</u> works in hospital.</td></tr><tr><td>3. Lam tân ngữ, sau động từ</td><td>I like <u>English</u>.<br>We are <u>students</u>.</td></tr><tr><td>4. Sau \"enough\" (enough + N)</td><td>He didn't have enough <u>money</u> to buy that car.</td></tr><tr><td>5. Sau các mạo từ (a, an, thế)<br>Sau dai từ chỉ dinh (this, that, these, those)<br>Sau lượng từ (each, no, any, a few, a little...)</td><td>She is a <u>teacher</u>.<br>This <u>book</u> is an interesting book.<br>I have a little <u>money</u> to go to the movie.</td></tr><tr><td>6. Sau giới từ: in, on, of, with, under, at...</td><td>Thanh is good at <u>literature</u>.</td></tr></table><div class='formula'><strong>Dấu hiệu nhận biết danh từ:</strong><br>-ion (distribution), -ment (development), -er (teacher), -or (actor), -ant (accountant), -age (marriage), -ship (friendship), -sm (enthusiasm), -ity (ability), -ness (happiness), -dom (freedom), -ist (terrorist), -ian (physician), -hood (childhood), -ance (importance), -ence (dependence), -ety (society), -ty (honesty)</div><h3>II. TINH TU (ADJECTIVE) - Vị trí trong câu</h3><table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%'><tr><th>Vị trí</th><th>Ví dụ</th></tr><tr><td>1. Truoc danh từ: (a/an/thế) + (adv) + adj + N</td><td>My Tam is a <u>famous</u> singer.</td></tr><tr><td>2. Sau động từ lien ket: be/seem/appear/feel/taste/look/keep/get/keep/make (sb) + adj</td><td>Tom seems <u>tired</u> now.<br>The homework keeps me <u>busy</u> all the time.</td></tr><tr><td>3. Sau \"too\": S + be/seem/look... + too + adj</td><td>Coffee seems too <u>hot</u> for me to drink.</td></tr><tr><td>4. Truoc \"enough\": S + be + adj + enough</td><td>She is <u>tall</u> enough to play volleyball.</td></tr><tr><td>5. Trong cấu trúc: so + adj + that</td><td>The weather was so <u>bad</u> that we decided to stay at home.</td></tr><tr><td>6. Dùng đuôi các đang so sánh</td><td>Meat is more <u>expensive</u> than fish.</td></tr></table><div class='formula'><strong>Dấu hiệu nhận biết tính từ:</strong><br>-ful (helpful), -less (homeless), -ly (friendly), -al (national), -ble (acceptable), -ive (active), -ous (famous), -ish (selfish), -y (foggy), -like (childlike), -ic (scientific), -ed (bored), -ing (interesting), -ary (necessary), -ant (important), -ent (different)</div><h3>III. TRANG TU (ADVERB) - Vị trí trong câu</h3><table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%'><tr><th>Vị trí</th><th>Ví dụ</th></tr><tr><td>1. Truoc động từ thường và giua tro động từ và động từ thường (đặc biet là các trạng từ chỉ tan suat: always, usually...)</td><td>They <u>seldom</u> get up early in the morning.<br>I have <u>recently</u> finished my homework.<br>I don't <u>usually</u> go to school late.</td></tr><tr><td>2. Truoc tính từ: be/feel/look... + adv + adj</td><td>She is very nice.<br>He looks <u>extremely</u> unwell.</td></tr><tr><td>3. Sau \"too\": V(thường) + too + adv!</td><td>The teacher speaks too <u>quickly</u>.</td></tr><tr><td>4. Truoc \"enough\": V(thường) + adv + enough</td><td>The teacher speaks <u>slowly</u> enough for us to understand.</td></tr><tr><td>5. Trong cấu trúc: V(thường) + so + adv + that</td><td>Jack drove so <u>fast</u> that he caused an accident.</td></tr><tr><td>6. Dùng cuối câu (trạng từ thời gian)</td><td>I finished my essay last week.</td></tr><tr><td>7. Thuong dùng ở đầu câu/giữa câu và cach các thành phan khác của câu bang đầu \",\"</td><td>Last summer I came back my home country.<br>It's raining hard. Tom, <u>however</u>, goes to school.</td></tr></table><div class='formula'><strong>Dấu hiệu nhận biết trạng từ:</strong><br>Adv = adj + -ly (beautifully, usefully, carefully, strongly, badly)<br><br><strong>Ngoại lệ:</strong> Một số từ có đuôi \"-ly\" nhưng là tính từ, không phải trạng từ: daily, early, elderly, friendly, likely, lively, lonely, lovely, manly, monthly, silly, ugly, unlikely, weekly, yearly</div><h3>IV. ĐỘNG TỪ (VERB) - Vị trí trong câu</h3><table border='1' cellpadding='6' cellspacing='0' style='border-collapse:collapse;width:100%'><tr><th>Vị trí</th><th>Ví dụ</th></tr><tr><td>1. Thuong dùng sau chủ ngữ</td><td>Lam Anh <u>plays</u> volleyball everyday.</td></tr><tr><td>2. Dùng sau trạng từ chỉ tan suat</td><td>I usually <u>get</u> up late.</td></tr></table><div class='formula'><strong>Dấu hiệu nhận biết động từ:</strong><br>-ate (compensate), -ain (maintain), -flect (reflect), -flict (inflict), -spect (respect), -scrib (describe), -ceive (deceive), -fy (modify), -ise/-ize (realize), -ude (include), -ide (divide), -dus (evade), -tend (extend)</div>"
   },
   "exercises": [
     {
       "id": 1,
       "type": "multiple-choice",
       "question": "The government should take some measures to protect _______ species.",
-      "options": ["A. dangerous", "B. endanger", "C. endangered", "D. endangerment"],
+      "options": [
+        "A. dangerous",
+        "B. endanger",
+        "C. endangered",
+        "D. endangerment"
+      ],
       "correctIndex": 2,
-      "explanation": "Can mot tinh tu truoc danh tu 'species'. 'Endangered' (bi de doa) la tinh tu dung nghia."
+      "explanation": "Can một tính từ trước danh từ 'species'. 'Endangered' (bi để doa) là tính từ dùng nghia."
     },
     {
       "id": 2,
       "type": "multiple-choice",
       "question": "Turtles and tortoises are known to be threatened with _______.",
-      "options": ["A. extinct", "B. extinction", "C. extinctive", "D. extinctly"],
+      "options": [
+        "A. extinct",
+        "B. extinction",
+        "C. extinctive",
+        "D. extinctly"
+      ],
       "correctIndex": 1,
-      "explanation": "Sau gioi tu 'with' can danh tu. 'Extinction' la danh tu (su tuyet chung)."
+      "explanation": "Sau giới từ 'with' can danh từ. 'Extinction' là danh từ (sự tuyệt chủng)."
     },
     {
       "id": 3,
       "type": "multiple-choice",
       "question": "They are going to _______ the pool to 2 meters.",
-      "options": ["A. deep", "B. depth", "C. deepen", "D. deeply"],
+      "options": [
+        "A. deep",
+        "B. depth",
+        "C. deepen",
+        "D. deeply"
+      ],
       "correctIndex": 2,
-      "explanation": "Sau 'going to' can dong tu nguyen mau. 'Deepen' = lam sau hon."
+      "explanation": "Sau 'going to' can động từ nguyên mẫu. 'Deepen' = làm sau hon."
     },
     {
       "id": 4,
       "type": "multiple-choice",
       "question": "We were awarded a _______.",
-      "options": ["A. penalty", "B. penalize", "C. penal", "D. penalization"],
+      "options": [
+        "A. penalty",
+        "B. penalize",
+        "C. penal",
+        "D. penalization"
+      ],
       "correctIndex": 0,
-      "explanation": "Sau mao tu 'a' can danh tu. 'Penalty' = hinh phat, la danh tu phu hop nhat."
+      "explanation": "Sau mạo từ 'a' can danh từ. 'Penalty' = hinh phat, là danh từ phù hợp nhất."
     },
     {
       "id": 5,
       "type": "multiple-choice",
       "question": "Choosing a career is one of the most important _______ you will make in life.",
-      "options": ["A. decide", "B. decisive", "C. decisions", "D. decider"],
+      "options": [
+        "A. decide",
+        "B. decisive",
+        "C. decisions",
+        "D. decider"
+      ],
       "correctIndex": 2,
-      "explanation": "Can danh tu lam tan ngu. 'Decisions' (quyet dinh) la danh tu so nhieu phu hop."
+      "explanation": "Can danh từ làm tân ngữ. 'Decisions' (quyết định) là danh từ số nhiều phù hợp."
     },
     {
       "id": 6,
       "type": "multiple-choice",
       "question": "All of the students appreciate the _______ of English learning.",
-      "options": ["A. import", "B. important", "C. importantly", "D. importance"],
+      "options": [
+        "A. import",
+        "B. important",
+        "C. importantly",
+        "D. importance"
+      ],
       "correctIndex": 3,
-      "explanation": "Sau mao tu 'the' can danh tu. 'Importance' (su quan trong) la danh tu."
+      "explanation": "Sau mạo từ 'thế' can danh từ. 'Importance' (sự quan trong) là danh từ."
     },
     {
       "id": 7,
       "type": "multiple-choice",
       "question": "We can enjoy live programmes through _______ satellites.",
-      "options": ["A. communicate", "B. communication", "C. communicative", "D. communicable"],
+      "options": [
+        "A. communicate",
+        "B. communication",
+        "C. communicative",
+        "D. communicable"
+      ],
       "correctIndex": 1,
-      "explanation": "Truoc danh tu 'satellites' can tinh tu hoac danh tu bo nghia. 'Communication satellites' = ve tinh truyen thong."
+      "explanation": "Truoc danh từ 'satellites' can tính từ hoặc danh từ bỏ nghia. 'Communication satellites' = ve tính truyen thong."
     },
     {
       "id": 8,
       "type": "multiple-choice",
       "question": "Computers are _______ used in schools and universities.",
-      "options": ["A. widely", "B. wide", "C. width", "D. widen"],
+      "options": [
+        "A. widely",
+        "B. wide",
+        "C. width",
+        "D. widen"
+      ],
       "correctIndex": 0,
-      "explanation": "Can trang tu bo nghia cho dong tu 'used'. 'Widely' = mot cach rong rai."
+      "explanation": "Can trạng từ bỏ nghia cho động từ 'used'. 'Widely' = một cach rong rai."
     },
     {
       "id": 9,
       "type": "multiple-choice",
       "question": "She has made an _______ for the job as a nursery teacher because she likes children.",
-      "options": ["A. apply", "B. applicant", "C. application", "D. applicator"],
+      "options": [
+        "A. apply",
+        "B. applicant",
+        "C. application",
+        "D. applicator"
+      ],
       "correctIndex": 2,
-      "explanation": "Sau 'an' can danh tu. 'Make an application' = nop don ung tuyen."
+      "explanation": "Sau 'an' can danh từ. 'Make an application' = nop don ung tuyen."
     },
     {
       "id": 10,
       "type": "multiple-choice",
       "question": "Daisy has been out of work for 3 months. She stays at home and does the housework_______.",
-      "options": ["A. disappoint", "B. disappointed", "C. disappointedly", "D. disappointing"],
+      "options": [
+        "A. disappoint",
+        "B. disappointed",
+        "C. disappointedly",
+        "D. disappointing"
+      ],
       "correctIndex": 2,
-      "explanation": "Can trang tu bo nghia cho dong tu 'does'. 'Disappointedly' = mot cach that vong."
+      "explanation": "Can trạng từ bỏ nghia cho động từ 'does'. 'Disappointedly' = một cach thất vọng."
     },
     {
       "id": 11,
       "type": "multiple-choice",
       "question": "Mark the letter A, B, C, or D to show the underlined part that needs correction:\nTo prepare his science works, Faraday often spent whole days in the laboratory.\n(A) prepare (B) science (C) spent (D) laboratory",
-      "options": ["A. prepare", "B. science", "C. spent", "D. laboratory"],
+      "options": [
+        "A. prepare",
+        "B. science",
+        "C. spent",
+        "D. laboratory"
+      ],
       "correctIndex": 1,
-      "explanation": "'Science' la danh tu, nhung o day can tinh tu bo nghia cho danh tu 'works'. Phai sua thanh 'scientific'."
+      "explanation": "'Science' là danh từ, nhưng ở đây can tính từ bỏ nghia cho danh từ 'works'. Phai sua thành 'scientific'."
     },
     {
       "id": 12,
       "type": "multiple-choice",
       "question": "Mark the letter A, B, C, or D to show the underlined part that needs correction:\nThey ride their bicycle to the countryside for please.\n(A) their (B) to (C) for (D) please",
-      "options": ["A. their", "B. to", "C. for", "D. please"],
+      "options": [
+        "A. their",
+        "B. to",
+        "C. for",
+        "D. please"
+      ],
       "correctIndex": 3,
-      "explanation": "Sau gioi tu 'for' can danh tu. 'Please' la dong tu, phai sua thanh 'pleasure' (niem vui)."
+      "explanation": "Sau giới từ 'for' can danh từ. 'Please' là động từ, phải sua thành 'pleasure' (niem vui)."
     },
     {
       "id": 13,
       "type": "multiple-choice",
       "question": "Mark the letter A, B, C, or D to show the underlined part that needs correction:\nHe was sadness because he couldn't pay his debts.\n(A) sadness (B) because (C) pay (D) debts",
-      "options": ["A. sadness", "B. because", "C. pay", "D. debts"],
+      "options": [
+        "A. sadness",
+        "B. because",
+        "C. pay",
+        "D. debts"
+      ],
       "correctIndex": 0,
-      "explanation": "Sau 'was' (dong tu lien ket) can tinh tu. 'Sadness' la danh tu, phai sua thanh 'sad'."
+      "explanation": "Sau 'was' (động từ lien ket) can tính từ. 'Sadness' là danh từ, phải sua thành 'sad'."
     },
     {
       "id": 14,
       "type": "multiple-choice",
       "question": "Mark the letter A, B, C, or D to show the underlined part that needs correction:\nThe representatives joining the festival were from different national.\n(A) representatives (B) joining (C) were (D) national",
-      "options": ["A. representatives", "B. joining", "C. were", "D. national"],
+      "options": [
+        "A. representatives",
+        "B. joining",
+        "C. were",
+        "D. national"
+      ],
       "correctIndex": 3,
-      "explanation": "Sau tinh tu 'different' can danh tu. 'National' la tinh tu, phai sua thanh 'nations' (quoc gia)."
+      "explanation": "Sau tính từ 'different' can danh từ. 'National' là tính từ, phải sua thành 'nations' (quốc giá)."
     },
     {
       "id": 15,
       "type": "multiple-choice",
       "question": "Mark the letter A, B, C, or D to show the underlined part that needs correction:\nThe teacher often courage the students to ask questions.\n(A) teacher (B) courage (C) to ask (D) questions",
-      "options": ["A. teacher", "B. courage", "C. to ask", "D. questions"],
+      "options": [
+        "A. teacher",
+        "B. courage",
+        "C. to ask",
+        "D. questions"
+      ],
       "correctIndex": 1,
-      "explanation": "'Courage' la danh tu (su dung cam). O day can dong tu = 'encourages' (khuyen khich)."
+      "explanation": "'Courage' là danh từ (sự dùng câm). O đây can động từ = 'encourages' (khuyến khích)."
     },
     {
       "id": 16,
       "type": "multiple-choice",
       "question": "Mark the letter A, B, C, or D to show the underlined part that needs correction:\nIn some countries, black people do not have equal with white people.\n(A) countries (B) black (C) equal (D) white",
-      "options": ["A. countries", "B. black", "C. equal", "D. white"],
+      "options": [
+        "A. countries",
+        "B. black",
+        "C. equal",
+        "D. white"
+      ],
       "correctIndex": 2,
-      "explanation": "'Equal' la tinh tu, nhung sau 'have' can danh tu. Phai sua thanh 'equality' (su binh dang)."
+      "explanation": "'Equal' là tính từ, nhưng sau 'have' can danh từ. Phai sua thành 'equality' (sự binh đang)."
     },
     {
       "id": 17,
       "type": "multiple-choice",
       "question": "Mark the letter A, B, C, or D to show the underlined part that needs correction:\nMany industry developed countries spend much money preventing environmental pollution.\n(A) industry (B) spend (C) much (D) environmental",
-      "options": ["A. industry", "B. spend", "C. much", "D. environmental"],
+      "options": [
+        "A. industry",
+        "B. spend",
+        "C. much",
+        "D. environmental"
+      ],
       "correctIndex": 0,
-      "explanation": "'Industry' la danh tu. Truoc danh tu 'developed countries' can tinh tu. Sua thanh 'industrially' hoac 'industrial'."
+      "explanation": "'Industry' là danh từ. Truoc danh từ 'developed countries' can tính từ. Sua thành 'industrially' hoặc 'industrial'."
     },
     {
       "id": 18,
       "type": "multiple-choice",
       "question": "Mark the letter A, B, C, or D to show the underlined part that needs correction:\nWhen foreigners ask him, he answers in English automatic.\n(A) When (B) foreigners (C) answers (D) automatic",
-      "options": ["A. When", "B. foreigners", "C. answers", "D. automatic"],
+      "options": [
+        "A. When",
+        "B. foreigners",
+        "C. answers",
+        "D. automatic"
+      ],
       "correctIndex": 3,
-      "explanation": "Can trang tu bo nghia cho dong tu 'answers'. 'Automatic' la tinh tu, phai sua thanh 'automatically'."
+      "explanation": "Can trạng từ bỏ nghia cho động từ 'answers'. 'Automatic' là tính từ, phải sua thành 'automatically'."
     },
     {
       "id": 19,
       "type": "multiple-choice",
       "question": "Mark the letter A, B, C, or D to show the underlined part that needs correction:\nSpecial drugs should be manufacture and dispensed carefully.\n(A) Special (B) drugs (C) manufacture (D) carefully",
-      "options": ["A. Special", "B. drugs", "C. manufacture", "D. carefully"],
+      "options": [
+        "A. Special",
+        "B. drugs",
+        "C. manufacture",
+        "D. carefully"
+      ],
       "correctIndex": 2,
-      "explanation": "Sau 'should be' can qua khu phan tu (bi dong). 'Manufacture' la dong tu nguyen mau, phai sua thanh 'manufactured'."
+      "explanation": "Sau 'should be' can quá khứ phan từ (bị động). 'Manufacture' là động từ nguyên mẫu, phải sua thành 'manufactured'."
     },
     {
       "id": 20,
       "type": "multiple-choice",
       "question": "Mark the letter A, B, C, or D to show the underlined part that needs correction:\nHe often went to work late, consequence he was sacked.\n(A) went (B) to work (C) consequence (D) sacked",
-      "options": ["A. went", "B. to work", "C. consequence", "D. sacked"],
+      "options": [
+        "A. went",
+        "B. to work",
+        "C. consequence",
+        "D. sacked"
+      ],
       "correctIndex": 2,
-      "explanation": "'Consequence' la danh tu. O day can trang tu lien ket = 'consequently' (do do, vi vay)."
+      "explanation": "'Consequence' là danh từ. O đây can trạng từ lien ket = 'consequently' (do do, vì vậy)."
     },
     {
       "id": 21,
       "type": "multiple-choice",
       "question": "Mark the letter A, B, C, or D to show the underlined part that needs correction:\nWe should learn all the new words by heart in order to rich our vocabulary.\n(A) learn (B) by heart (C) rich (D) vocabulary",
-      "options": ["A. learn", "B. by heart", "C. rich", "D. vocabulary"],
+      "options": [
+        "A. learn",
+        "B. by heart",
+        "C. rich",
+        "D. vocabulary"
+      ],
       "correctIndex": 2,
-      "explanation": "Sau 'to' (in order to) can dong tu nguyen mau. 'Rich' la tinh tu, phai sua thanh 'enrich' (lam giau)."
+      "explanation": "Sau 'to' (in order to) can động từ nguyên mẫu. 'Rich' là tính từ, phải sua thành 'enrich' (làm giàu)."
     }
   ]
 }

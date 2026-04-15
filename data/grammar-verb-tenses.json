@@ -1,24 +1,34 @@
 {
   "topicId": "grammar-verb-tenses",
-  "title": "Verb Tenses (Thi Dong Tu)",
+  "title": "Verb Tenses (Thì Động Từ)",
   "section": "grammar",
   "knowledge": {
-    "html": "<h3>I. PRESENT TENSES</h3><h4>1. Hien tai don (Simple Present)</h4><table class='grammar-table'><tr><th>Cong thuc/Tu nhan biet</th><th>Cach dung</th></tr><tr><td><div class='formula'><b>Dong tu TO BE:</b><br>(+): S + am/is/are...<br><b>Dong tu thuong:</b><br>(+): S + Vs/es/V(nguyen mau)<br>(-): S + do/does + not + V(bare)<br>(?): Do/does + S + V(bare)?</div><b>Tu nhan biet:</b><br>- seldom/ rarely/ hardly<br>- sometimes/ occasionally<br>- often/ usually/ frequently<br>- always/ constantly/ ever/ never/ every</td><td>- dien ta hanh dong thuong xuyen xay ra.<br>- dien ta thoi quen.<br>- dien ta thoi gian bieu, lich trinh, thong bao.<br>- dien ta su that, chan li.<br>- dien ta nghe nghiep, so thich, nguon goc, binh pham.</td></tr></table><h4>2. Hien tai tiep dien (Present Continuous)</h4><table class='grammar-table'><tr><th>Cong thuc/Tu nhan biet</th><th>Cach dung</th></tr><tr><td><div class='formula'>(+): S + am/is/are + V-ing<br>(-): S + am/is/are + not + V-ing<br>(?): Am/Is/Are + S + V-ing?</div><b>Tu nhan biet:</b><br>- now, at the moment, at present, right now, look, hear (!)</td><td>- dien ta hanh dong dang xay ra tai thoi diem noi.<br>- dien ta hanh dong se xay ra trong tuong lai (co ke hoach tu truoc).<br>- dien ta su thay doi cua thoi quen.<br>- dien ta su ca than, phan nan.</td></tr></table><h4>3. Hien tai hoan thanh (Present Perfect)</h4><table class='grammar-table'><tr><th>Cong thuc/Tu nhan biet</th><th>Cach dung</th></tr><tr><td><div class='formula'>(+): S + have/has + V(pp)<br>(Have: I/so nhieu - Has: so it)<br>(-): S + have/has + not + V(pp)<br>(?): Have/Has + S + V(pp)?</div><b>Tu nhan biet:</b><br>- for, since, ever, never, so far, recently, lately, before (dung cuoi cau), yet, just, already, up to now, up to present, until now</td><td>- dien ta hanh dong xay ra trong qua khu nhung khong ro thoi gian.<br>- dien ta hanh dong lap di lap lai nhieu lan trong qua khu.<br>- dien ta hanh dong xay ra trong qua khu nhung de lai dau hieu hoac hau qua o hien tai.<br>- dien ta nhung trai nghiem.<br>- dien ta nhung hanh dong xay ra trong qua khu nhung keo dai toi hien tai va van con co kha nang se tiep dien trong tuong lai.</td></tr></table><h3>II. PAST TENSES</h3><h4>1. Qua khu don (Simple Past)</h4><table class='grammar-table'><tr><th>Cong thuc/Tu nhan biet</th><th>Cach dung</th></tr><tr><td><div class='formula'><b>Dong tu TO BE:</b><br>(+): S + was/were<br><b>Dong tu thuong:</b><br>(+): S + V3/ed<br>(-): S + did + not + V(bare)<br>(?): Did + S + V(bare)?</div><b>Tu nhan biet:</b><br>- ago, last, yesterday, in + mot moc thoi gian trong qua khu (in 2000...)</td><td>- dien ta hanh dong da xay ra va da cham dut trong qua khu, khong con lien quan toi hien tai.<br>- dien ta hanh dong xay ra noi tiep nhau trong qua khu.<br>- dien ta hoi uc, ki niem.</td></tr></table><h4>2. Qua khu tiep dien (Past Continuous)</h4><table class='grammar-table'><tr><th>Cong thuc/Tu nhan biet</th><th>Cach dung</th></tr><tr><td><div class='formula'>(+): S + was/were + V-ing<br>(-): S + was/were + not + V-ing<br>(?): Was/Were + S + V-ing?</div><b>Tu nhan biet:</b><br>- gio + trang tu qua khu (at 3 pm yesterday...)<br>- at this/that time + trang tu qua khu (at this time last week...)</td><td>- dien ta hanh dong dang xay ra tai mot thoi diem xac dinh trong qua khu.<br>- dien ta hanh dong dang xay ra thi co hanh dong khac xen vao (hanh dong nao xay ra truoc chia thi qua khu tiep dien, hanh dong nao xay ra sau chia thi qua khu don).</td></tr></table><h4>3. Qua khu hoan thanh (Past Perfect)</h4><table class='grammar-table'><tr><th>Cong thuc/Tu nhan biet</th><th>Cach dung</th></tr><tr><td><div class='formula'>(+): S + had + V(pp)<br>(-): S + had + not + V(pp)<br>(?): Had + S + V(pp)?</div><b>Tu nhan biet:</b><br>- before/by the time (truoc chia qua khu hoan thanh, sau chia qua khu don).<br>- after (truoc chia qua khu don, sau chia qua khu hoan thanh).</td><td>- dien ta nhung hanh dong xay ra va hoan thanh truoc hanh dong khac trong qua khu.</td></tr></table><h3>III. FUTURE TENSES</h3><h4>1. Tuong lai don (Simple Future)</h4><table class='grammar-table'><tr><th>Cong thuc/Tu nhan biet</th><th>Cach dung</th></tr><tr><td><div class='formula'>(+): S + will + V(bare)<br>(-): S + will + not + V(bare)<br>(?): Will + S + V(bare)?</div><b>Tu nhan biet:</b><br>- tomorrow, next, soon, in + mot khoang thoi gian (in an hour...)</td><td>- dien ta nhung hanh dong se xay ra trong tuong lai.<br>- dien ta nhung du doan.<br>- dien ta loi hua.</td></tr></table><h4>2. Tuong lai tiep dien (Future Continuous)</h4><table class='grammar-table'><tr><th>Cong thuc/Tu nhan biet</th><th>Cach dung</th></tr><tr><td><div class='formula'>(+): S + will + be + V-ing<br>(-): S + will + not + be + V-ing<br>(?): Will + S + be + V-ing?</div><b>Tu nhan biet:</b><br>- gio + trang tu tuong lai (at 3 pm tomorrow...)<br>- at this/that time + trang tu tuong lai (at this time next week...)</td><td>- dien ta hanh dong dang dien ra vao mot thoi diem cu the trong tuong lai.<br>- dien ta hanh dong se dang xay ra trong tuong lai thi co hanh dong khac xen vao.</td></tr></table><h4>3. Tuong lai hoan thanh (Future Perfect)</h4><table class='grammar-table'><tr><th>Cong thuc</th><th>Cach dung</th></tr><tr><td><div class='formula'>(+): S + will + have + V(pp)<br>(-): S + will + not + have + V(pp)<br>(?): Will + S + have + V(pp)?</div></td><td>- dien ta hanh dong se duoc hoan thanh truoc khi mot hanh dong khac xay den.</td></tr></table><h3>IV. KIEN THUC BO TRO</h3><div class='formula'><b>It is + thoi gian + since + S + last + Vpast</b><br>= The last time S + Vpast + was + thoi gian (ago)<br>= S + last + Vpast + thoi gian (ago)<br>= S + haven't/hasn't + PII + for/since + thoi gian</div><div class='example'><b>Examples:</b> It is 4 years since I last went to Japan.<br>= The last time I went to Japan was 4 years ago.<br>= I last went to Japan 4 years ago.<br>= I haven't gone to Japan for 4 years.</div><div class='formula'><b>S + started/began + Ving/to V + thoi gian (ago)</b><br>= S + have/has + PII + for/since + thoi gian</div><div class='example'><b>Examples:</b> David started working here last year.<br>= David has worked here since last year.</div><div class='formula'><b>S + have/has never + PII + before</b><br>= S + haven't/hasn't + PII + before<br>= This is the first time + S + have/has + PII</div><div class='example'><b>Examples:</b> We have never played golf before.<br>= We haven't played golf before.<br>= This is the first time we have played golf.</div><div class='formula'><b>This/S + so sanh nhat + N + S + have/has ever + PII</b><br>= S + have/has never + PII + such (a/an) + N(s) + like this(as) + S + (before)</div><div class='example'><b>Examples:</b> This is the most interesting novel I have ever read.<br>= I have never read such an interesting novel like this before.</div><div class='formula'><b>When + did + S + V?</b><br>= How long is it since + S + Vpast?</div><div class='example'><b>Examples:</b> When did you buy this car?<br>= How long is it since you bought this car?</div>"
+    "html": "<h3>I. PRESENT TENSES</h3><h4>1. Hiện tại đơn (Simple Present)</h4><table class='grammar-table'><tr><th>Công thức/Từ nhận biết</th><th>Cách dùng</th></tr><tr><td><div class='formula'><b>Động từ TO BE:</b><br>(+): S + am/is/are...<br><b>Động từ thường:</b><br>(+): S + Vs/es/V(nguyên mẫu)<br>(-): S + do/does + not + V(bare)<br>(?): Do/does + S + V(bare)?</div><b>Từ nhận biết:</b><br>- seldom/ rarely/ hardly<br>- sometimes/ occasionally<br>- often/ usually/ frequently<br>- always/ constantly/ ever/ never/ every</td><td>- diễn tả hành động thường xuyên xảy ra.<br>- diễn tả thói quen.<br>- diễn tả thời gian biểu, lịch trình, thông báo.<br>- diễn tả sự thật, chân lí.<br>- diễn tả nghề nghiệp, sở thích, nguồn gốc, bình phẩm.</td></tr></table><h4>2. Hiện tại tiếp diễn (Present Continuous)</h4><table class='grammar-table'><tr><th>Công thức/Từ nhận biết</th><th>Cách dùng</th></tr><tr><td><div class='formula'>(+): S + am/is/are + V-ing<br>(-): S + am/is/are + not + V-ing<br>(?): Am/Is/Are + S + V-ing?</div><b>Từ nhận biết:</b><br>- now, at the moment, at present, right now, look, hear (!)</td><td>- diễn tả hành động đang xảy ra tại thời điểm nói.<br>- diễn tả hành động sẽ xảy ra trong tương lai (có kế hoạch từ trước).<br>- diễn tả sự thay đổi của thói quen.<br>- diễn tả sự cả thán, phàn nàn.</td></tr></table><h4>3. Hiện tại hoàn thành (Present Perfect)</h4><table class='grammar-table'><tr><th>Công thức/Từ nhận biết</th><th>Cách dùng</th></tr><tr><td><div class='formula'>(+): S + have/has + V(pp)<br>(Have: I/số nhiều - Has: số ít)<br>(-): S + have/has + not + V(pp)<br>(?): Have/Has + S + V(pp)?</div><b>Từ nhận biết:</b><br>- for, since, ever, never, so far, recently, lately, before (dùng cuối câu), yet, just, already, up to now, up to present, until now</td><td>- diễn tả hành động xảy ra trong quá khứ nhưng không rõ thời gian.<br>- diễn tả hành động lặp đi lặp lại nhiều lần trong quá khứ.<br>- diễn tả hành động xảy ra trong quá khứ nhưng để lại dấu hiệu hoặc hậu quả ở hiện tại.<br>- diễn tả những trải nghiệm.<br>- diễn tả những hành động xảy ra trong quá khứ nhưng kéo dài tới hiện tại và vẫn còn có khả năng sẽ tiếp diễn trong tương lai.</td></tr></table><h3>II. PAST TENSES</h3><h4>1. Quá khứ đơn (Simple Past)</h4><table class='grammar-table'><tr><th>Công thức/Từ nhận biết</th><th>Cách dùng</th></tr><tr><td><div class='formula'><b>Động từ TO BE:</b><br>(+): S + was/were<br><b>Động từ thường:</b><br>(+): S + V3/ed<br>(-): S + did + not + V(bare)<br>(?): Did + S + V(bare)?</div><b>Từ nhận biết:</b><br>- ago, last, yesterday, in + một mốc thời gian trong quá khứ (in 2000...)</td><td>- diễn tả hành động đã xảy ra và đã chấm dứt trong quá khứ, không còn liên quan tới hiện tại.<br>- diễn tả hành động xảy ra nối tiếp nhau trong quá khứ.<br>- diễn tả hồi ức, kỉ niệm.</td></tr></table><h4>2. Quá khứ tiếp diễn (Past Continuous)</h4><table class='grammar-table'><tr><th>Công thức/Từ nhận biết</th><th>Cách dùng</th></tr><tr><td><div class='formula'>(+): S + was/were + V-ing<br>(-): S + was/were + not + V-ing<br>(?): Was/Were + S + V-ing?</div><b>Từ nhận biết:</b><br>- giờ + trạng từ quá khứ (at 3 pm yesterday...)<br>- at this/that time + trạng từ quá khứ (at this time last week...)</td><td>- diễn tả hành động đang xảy ra tại một thời điểm xác định trong quá khứ.<br>- diễn tả hành động đang xảy ra thì có hành động khác xen vào (hành động nào xảy ra trước chia thì quá khứ tiếp diễn, hành động nào xảy ra sau chia thì quá khứ đơn).</td></tr></table><h4>3. Quá khứ hoàn thành (Past Perfect)</h4><table class='grammar-table'><tr><th>Công thức/Từ nhận biết</th><th>Cách dùng</th></tr><tr><td><div class='formula'>(+): S + had + V(pp)<br>(-): S + had + not + V(pp)<br>(?): Had + S + V(pp)?</div><b>Từ nhận biết:</b><br>- before/by the time (trước chia quá khứ hoàn thành, sau chia quá khứ đơn).<br>- after (trước chia quá khứ đơn, sau chia quá khứ hoàn thành).</td><td>- diễn tả những hành động xảy ra và hoàn thành trước hành động khác trong quá khứ.</td></tr></table><h3>III. FUTURE TENSES</h3><h4>1. Tương lai đơn (Simple Future)</h4><table class='grammar-table'><tr><th>Công thức/Từ nhận biết</th><th>Cách dùng</th></tr><tr><td><div class='formula'>(+): S + will + V(bare)<br>(-): S + will + not + V(bare)<br>(?): Will + S + V(bare)?</div><b>Từ nhận biết:</b><br>- tomorrow, next, soon, in + một khoảng thời gian (in an hour...)</td><td>- diễn tả những hành động sẽ xảy ra trong tương lai.<br>- diễn tả những dự đoán.<br>- diễn tả lời hứa.</td></tr></table><h4>2. Tương lai tiếp diễn (Future Continuous)</h4><table class='grammar-table'><tr><th>Công thức/Từ nhận biết</th><th>Cách dùng</th></tr><tr><td><div class='formula'>(+): S + will + be + V-ing<br>(-): S + will + not + be + V-ing<br>(?): Will + S + be + V-ing?</div><b>Từ nhận biết:</b><br>- giờ + trạng từ tương lai (at 3 pm tomorrow...)<br>- at this/that time + trạng từ tương lai (at this time next week...)</td><td>- diễn tả hành động đang diễn ra vào một thời điểm cụ thể trong tương lai.<br>- diễn tả hành động sẽ đang xảy ra trong tương lai thì có hành động khác xen vào.</td></tr></table><h4>3. Tương lai hoàn thành (Future Perfect)</h4><table class='grammar-table'><tr><th>Công thức</th><th>Cách dùng</th></tr><tr><td><div class='formula'>(+): S + will + have + V(pp)<br>(-): S + will + not + have + V(pp)<br>(?): Will + S + have + V(pp)?</div></td><td>- diễn tả hành động sẽ được hoàn thành trước khi một hành động khác xảy đến.</td></tr></table><h3>IV. KIẾN THỨC BỔ TRỢ</h3><div class='formula'><b>It is + thời gian + since + S + last + Vpast</b><br>= The last time S + Vpast + was + thời gian (ago)<br>= S + last + Vpast + thời gian (ago)<br>= S + haven't/hasn't + PII + for/since + thời gian</div><div class='example'><b>Examples:</b> It is 4 years since I last went to Japan.<br>= The last time I went to Japan was 4 years ago.<br>= I last went to Japan 4 years ago.<br>= I haven't gone to Japan for 4 years.</div><div class='formula'><b>S + started/began + Ving/to V + thời gian (ago)</b><br>= S + have/has + PII + for/since + thời gian</div><div class='example'><b>Examples:</b> David started working here last year.<br>= David has worked here since last year.</div><div class='formula'><b>S + have/has never + PII + before</b><br>= S + haven't/hasn't + PII + before<br>= This is the first time + S + have/has + PII</div><div class='example'><b>Examples:</b> We have never played golf before.<br>= We haven't played golf before.<br>= This is the first time we have played golf.</div><div class='formula'><b>This/S + so sánh nhất + N + S + have/has ever + PII</b><br>= S + have/has never + PII + such (a/an) + N(s) + like this(as) + S + (before)</div><div class='example'><b>Examples:</b> This is the most interesting novel I have ever read.<br>= I have never read such an interesting novel like this before.</div><div class='formula'><b>When + did + S + V?</b><br>= How long is it since + S + Vpast?</div><div class='example'><b>Examples:</b> When did you buy this car?<br>= How long is it since you bought this car?</div>"
   },
   "exercises": [
     {
       "id": 1,
       "type": "multiple-choice",
       "question": "He has been selling motorbikes _______.",
-      "options": ["A. ten years ago", "B. since ten years", "C. for ten years ago", "D. for ten years"],
+      "options": [
+        "A. ten years ago",
+        "B. since ten years",
+        "C. for ten years ago",
+        "D. for ten years"
+      ],
       "correctIndex": 3,
-      "explanation": "Present perfect continuous uses 'for' + duration. 'For ten years' = trong 10 nam."
+      "explanation": "Present perfect continuous uses 'for' + duration. 'For tên years' = trong 10 năm."
     },
     {
       "id": 2,
       "type": "multiple-choice",
       "question": "Christopher Columbus _______ American more than 500 years ago.",
-      "options": ["A. discovered", "B. has discovered", "C. had discovered", "D. had been discovering"],
+      "options": [
+        "A. discovered",
+        "B. has discovered",
+        "C. had discovered",
+        "D. had been discovering"
+      ],
       "correctIndex": 0,
       "explanation": "'500 years ago' signals simple past tense."
     },
@@ -26,7 +36,12 @@
       "id": 3,
       "type": "multiple-choice",
       "question": "Since _______, I have heard nothing from him.",
-      "options": ["A. he had left", "B. he left", "C. he has left", "D. he was left"],
+      "options": [
+        "A. he had left",
+        "B. he left",
+        "C. he has left",
+        "D. he was left"
+      ],
       "correctIndex": 1,
       "explanation": "'Since' + simple past clause pairs with present perfect in the main clause."
     },
@@ -34,7 +49,12 @@
       "id": 4,
       "type": "multiple-choice",
       "question": "The man got out of the car, _______ round to the back and opened the book.",
-      "options": ["A. walking", "B. walked", "C. walks", "D. walk"],
+      "options": [
+        "A. walking",
+        "B. walked",
+        "C. walks",
+        "D. walk"
+      ],
       "correctIndex": 1,
       "explanation": "Three past actions in sequence all use simple past: got out, walked, opened."
     },
@@ -42,7 +62,12 @@
       "id": 5,
       "type": "multiple-choice",
       "question": "Her father _______ when she was a small girl.",
-      "options": ["A. dies", "B. died", "C. has died", "D. had died"],
+      "options": [
+        "A. dies",
+        "B. died",
+        "C. has died",
+        "D. had died"
+      ],
       "correctIndex": 1,
       "explanation": "'When she was a small girl' sets a past time frame, so use simple past."
     },
@@ -50,7 +75,12 @@
       "id": 6,
       "type": "multiple-choice",
       "question": "Her husband _______ unemployed since they _______ to the countryside.",
-      "options": ["A. was / moved", "B. was / have moved", "C. has been / moved", "D. has been/have moved"],
+      "options": [
+        "A. was / moved",
+        "B. was / have moved",
+        "C. has been / moved",
+        "D. has been/have moved"
+      ],
       "correctIndex": 2,
       "explanation": "'Since' + simple past (moved) pairs with present perfect (has been) in the main clause."
     },
@@ -58,7 +88,12 @@
       "id": 7,
       "type": "multiple-choice",
       "question": "He fell down when he _______ towards the church.",
-      "options": ["A. run", "B. runs", "C. was running", "D. had run"],
+      "options": [
+        "A. run",
+        "B. runs",
+        "C. was running",
+        "D. had run"
+      ],
       "correctIndex": 2,
       "explanation": "An ongoing action (past continuous) was interrupted by another action (fell down - past simple)."
     },
@@ -66,7 +101,12 @@
       "id": 8,
       "type": "multiple-choice",
       "question": "While they were laying the table, he _______ to the radio.",
-      "options": ["A. was listening", "B. listened", "C. has listened", "D. is listening"],
+      "options": [
+        "A. was listening",
+        "B. listened",
+        "C. has listened",
+        "D. is listening"
+      ],
       "correctIndex": 0,
       "explanation": "Two simultaneous ongoing past actions both use past continuous."
     },
@@ -74,7 +114,12 @@
       "id": 9,
       "type": "multiple-choice",
       "question": "Henry _______ into the restaurant when the writer was having dinner.",
-      "options": ["A. was going", "B. went", "C. has gone", "D. did go"],
+      "options": [
+        "A. was going",
+        "B. went",
+        "C. has gone",
+        "D. did go"
+      ],
       "correctIndex": 1,
       "explanation": "A short action (went) interrupts an ongoing action (was having). The short action uses simple past."
     },
@@ -82,7 +127,12 @@
       "id": 10,
       "type": "multiple-choice",
       "question": "By the age of 25, he _______ two famous novels.",
-      "options": ["A. wrote", "B. writes", "C. has written", "D. had written"],
+      "options": [
+        "A. wrote",
+        "B. writes",
+        "C. has written",
+        "D. had written"
+      ],
       "correctIndex": 3,
       "explanation": "'By the age of 25' refers to a point in the past before which the action was completed - use past perfect."
     },
@@ -90,7 +140,12 @@
       "id": 11,
       "type": "multiple-choice",
       "question": "He always _______ for a walk in the evening.",
-      "options": ["A. go", "B. is going", "C. goes", "D. going"],
+      "options": [
+        "A. go",
+        "B. is going",
+        "C. goes",
+        "D. going"
+      ],
       "correctIndex": 2,
       "explanation": "'Always' signals a habitual action - use simple present. 'He' takes 'goes'."
     },
@@ -98,7 +153,12 @@
       "id": 12,
       "type": "multiple-choice",
       "question": "I'll come and see you before I _______ for the States.",
-      "options": ["A. leave", "B. will leave", "C. have left", "D. shall leave"],
+      "options": [
+        "A. leave",
+        "B. will leave",
+        "C. have left",
+        "D. shall leave"
+      ],
       "correctIndex": 0,
       "explanation": "After 'before' in a future context, use simple present (not will)."
     },
@@ -106,7 +166,12 @@
       "id": 13,
       "type": "multiple-choice",
       "question": "He will take the dog out for a walk as soon as he _______ dinner.",
-      "options": ["A. finish", "B. finishes", "C. will finish", "D. finishing"],
+      "options": [
+        "A. finish",
+        "B. finishes",
+        "C. will finish",
+        "D. finishing"
+      ],
       "correctIndex": 1,
       "explanation": "After 'as soon as' in future context, use simple present. 'He' takes 'finishes'."
     },
@@ -114,7 +179,12 @@
       "id": 14,
       "type": "multiple-choice",
       "question": "Her brother _______ in Canada at present.",
-      "options": ["A. working", "B. works", "C. is working", "D. work"],
+      "options": [
+        "A. working",
+        "B. works",
+        "C. is working",
+        "D. work"
+      ],
       "correctIndex": 2,
       "explanation": "'At present' signals an action happening now - use present continuous."
     },
@@ -122,7 +192,12 @@
       "id": 15,
       "type": "multiple-choice",
       "question": "Tom and Mary _______ for Vietnam tomorrow.",
-      "options": ["A. leave", "B. are leaving", "C. leaving", "D. are left"],
+      "options": [
+        "A. leave",
+        "B. are leaving",
+        "C. leaving",
+        "D. are left"
+      ],
       "correctIndex": 1,
       "explanation": "Present continuous for a planned future arrangement. 'Tomorrow' confirms future plan."
     },
@@ -130,7 +205,12 @@
       "id": 16,
       "type": "multiple-choice",
       "question": "We _______ Dorothy since last Saturday.",
-      "options": ["A. don't see", "B. haven't seen", "C. didn't see", "D. hadn't seen"],
+      "options": [
+        "A. don't see",
+        "B. haven't seen",
+        "C. didn't see",
+        "D. hadn't seen"
+      ],
       "correctIndex": 1,
       "explanation": "'Since last Saturday' signals present perfect: haven't seen."
     },
@@ -138,7 +218,12 @@
       "id": 17,
       "type": "multiple-choice",
       "question": "It is blowing so hard. We _______ such a terrible storm before.",
-      "options": ["A. have never known", "B. have never been knowing", "C. never know", "D. had never known"],
+      "options": [
+        "A. have never known",
+        "B. have never been knowing",
+        "C. never know",
+        "D. had never known"
+      ],
       "correctIndex": 0,
       "explanation": "Experience up to now uses present perfect: 'have never known'."
     },
@@ -146,7 +231,12 @@
       "id": 18,
       "type": "multiple-choice",
       "question": "I have never played badminton before. This is the first time I _______ to play.",
-      "options": ["A. try", "B. tried", "C. have tried", "D. am trying"],
+      "options": [
+        "A. try",
+        "B. tried",
+        "C. have tried",
+        "D. ấm trying"
+      ],
       "correctIndex": 2,
       "explanation": "'This is the first time' requires present perfect: 'have tried'."
     },
@@ -154,7 +244,12 @@
       "id": 19,
       "type": "multiple-choice",
       "question": "Ask her to come and see me when she _______ her work.",
-      "options": ["A. finish", "B. has finished", "C. finished", "D. finishing"],
+      "options": [
+        "A. finish",
+        "B. has finished",
+        "C. finished",
+        "D. finishing"
+      ],
       "correctIndex": 1,
       "explanation": "After 'when' in future context, present perfect can show completed action before the main action."
     },
@@ -162,7 +257,12 @@
       "id": 20,
       "type": "multiple-choice",
       "question": "Our industrial output _______ from $2 million in 2002 to $4 million this year.",
-      "options": ["A. rises", "B. has risen", "C. was rising", "D. rose"],
+      "options": [
+        "A. rises",
+        "B. has risen",
+        "C. was rising",
+        "D. rose"
+      ],
       "correctIndex": 1,
       "explanation": "The period extends to 'this year' (present), so use present perfect: 'has risen'."
     },
@@ -245,7 +345,7 @@
       "errorWord": "since",
       "correction": "for",
       "correctSentence": "I have been waiting for you for two hours.",
-      "explanation": "Use 'for' with a duration (two hours). 'Since' is for a specific point in time (since 2 o'clock)."
+      "explanation": "Use 'for' with a duration (two hours). 'Since' is for a specific point in time (since 2 ở'clock)."
     },
     {
       "id": 30,
@@ -263,7 +363,10 @@
       "instruction": "Rewrite starting with 'We haven't'",
       "starterText": "We haven't",
       "answer": "We haven't met for a long time.",
-      "acceptedAnswers": ["We haven't met for a long time.", "We haven't met for a long time"],
+      "acceptedAnswers": [
+        "We haven't met for a long time.",
+        "We haven't met for a long time"
+      ],
       "explanation": "'It is + time + since + S + last + Vpast' = 'S + haven't + PII + for + time'."
     },
     {
@@ -273,7 +376,10 @@
       "instruction": "Rewrite starting with 'How long'",
       "starterText": "How long",
       "answer": "How long have you had this computer?",
-      "acceptedAnswers": ["How long have you had this computer?", "How long have you had this computer"],
+      "acceptedAnswers": [
+        "How long have you had this computer?",
+        "How long have you had this computer"
+      ],
       "explanation": "'When did + S + V?' = 'How long + have/has + S + PII?'"
     },
     {
@@ -283,7 +389,10 @@
       "instruction": "Rewrite starting with 'This'",
       "starterText": "This",
       "answer": "This is the first time my nephew James has drunk beer.",
-      "acceptedAnswers": ["This is the first time my nephew James has drunk beer.", "This is the first time my nephew James has drunk beer"],
+      "acceptedAnswers": [
+        "This is the first time my nephew James has drunk beer.",
+        "This is the first time my nephew James has drunk beer"
+      ],
       "explanation": "'S + have/has never + PII + before' = 'This is the first time + S + have/has + PII'. Note: 'drunk' is the past participle of 'drink' (drink-drank-drunk)."
     },
     {
@@ -293,7 +402,10 @@
       "instruction": "Rewrite starting with 'He has'",
       "starterText": "He has",
       "answer": "He has never visited Ha Long Bay before.",
-      "acceptedAnswers": ["He has never visited Ha Long Bay before.", "He has never visited Ha Long Bay before"],
+      "acceptedAnswers": [
+        "He has never visited Ha Long Bay before.",
+        "He has never visited Ha Long Bay before"
+      ],
       "explanation": "'This is the first time + S + V' = 'S + have/has never + PII + before'."
     },
     {
@@ -303,17 +415,25 @@
       "instruction": "Rewrite starting with 'She has'",
       "starterText": "She has",
       "answer": "She has worked here since last year.",
-      "acceptedAnswers": ["She has worked here since last year.", "She has worked here since last year"],
+      "acceptedAnswers": [
+        "She has worked here since last year.",
+        "She has worked here since last year"
+      ],
       "explanation": "'S + started + Ving + time' = 'S + have/has + PII + since + time'."
     },
     {
       "id": 36,
       "type": "sentence-rewrite",
-      "original": "We began eating lunch when it started to rain.",
+      "original": "We began eating lunch when ít started to rain.",
       "instruction": "Rewrite starting with 'We have'",
       "starterText": "We have",
-      "answer": "We have been eating lunch since it started to rain.",
-      "acceptedAnswers": ["We have been eating lunch since it started to rain.", "We have been eating lunch since it started to rain", "We have been eating lunch since it started raining.", "We have been eating lunch since it started raining"],
+      "answer": "We have been eating lunch since ít started to rain.",
+      "acceptedAnswers": [
+        "We have been eating lunch since ít started to rain.",
+        "We have been eating lunch since ít started to rain",
+        "We have been eating lunch since ít started raining.",
+        "We have been eating lunch since ít started raining"
+      ],
       "explanation": "'S + began + Ving + when + past' = 'S + have/has been + Ving + since + past clause'. Use present perfect continuous because the action started and is still ongoing."
     },
     {
@@ -323,7 +443,10 @@
       "instruction": "Rewrite starting with 'I haven't'",
       "starterText": "I haven't",
       "answer": "I haven't had my hair cut since she left me.",
-      "acceptedAnswers": ["I haven't had my hair cut since she left me.", "I haven't had my hair cut since she left me"],
+      "acceptedAnswers": [
+        "I haven't had my hair cut since she left me.",
+        "I haven't had my hair cut since she left me"
+      ],
       "explanation": "'S + last + Vpast + when + clause' = 'S + haven't/hasn't + PII + since + clause'."
     },
     {
@@ -333,7 +456,12 @@
       "instruction": "Rewrite starting with 'He hasn't'",
       "starterText": "He hasn't",
       "answer": "He hasn't met me for 5 months.",
-      "acceptedAnswers": ["He hasn't met me for 5 months.", "He hasn't met me for 5 months", "He hasn't met me for five months.", "He hasn't met me for five months"],
+      "acceptedAnswers": [
+        "He hasn't met me for 5 months.",
+        "He hasn't met me for 5 months",
+        "He hasn't met me for five months.",
+        "He hasn't met me for five months"
+      ],
       "explanation": "'The last time + S + Vpast + was + time ago' = 'S + haven't/hasn't + PII + for + time'."
     },
     {
@@ -343,7 +471,10 @@
       "instruction": "Rewrite starting with 'How'",
       "starterText": "How",
       "answer": "How long have they been opening this shopping center?",
-      "acceptedAnswers": ["How long have they been opening this shopping center?", "How long have they been opening this shopping center"],
+      "acceptedAnswers": [
+        "How long have they been opening this shopping center?",
+        "How long have they been opening this shopping center"
+      ],
       "explanation": "'When did + S + start + Ving?' = 'How long + have/has + S + been + Ving?' Here 'opening' is kept from the original sentence's verb form."
     },
     {
@@ -353,7 +484,10 @@
       "instruction": "Rewrite starting with 'The last time'",
       "starterText": "The last time",
       "answer": "The last time I went to the zoo was over a year ago.",
-      "acceptedAnswers": ["The last time I went to the zoo was over a year ago.", "The last time I went to the zoo was over a year ago"],
+      "acceptedAnswers": [
+        "The last time I went to the zoo was over a year ago.",
+        "The last time I went to the zoo was over a year ago"
+      ],
       "explanation": "'S + haven't + PII + for + time' = 'The last time + S + Vpast + was + time + ago'."
     }
   ]

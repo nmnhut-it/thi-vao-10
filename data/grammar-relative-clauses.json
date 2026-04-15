@@ -1,9 +1,9 @@
 {
   "topicId": "grammar-relative-clauses",
-  "title": "Relative Clauses (Menh De Quan He)",
+  "title": "Relative Clauses (Mệnh Đề Quan Hệ)",
   "section": "grammar",
   "knowledge": {
-    "html": "<h2>X. RELATIVE CLAUSES (MENH DE QUAN HE)</h2><h3>1. Cach su dung cac dai tu quan he trong MDQH</h3><table class=\"grammar-table\"><tr><th></th><th>S (chu ngu)</th><th>O (tan ngu)</th><th>P (so huu)</th></tr><tr><td>Danh tu chi nguoi</td><td>Who/that</td><td>Who/whom/that</td><td>Whose</td></tr><tr><td>Danh tu chi vat</td><td>Which/that</td><td>Which/that</td><td>Whose</td></tr><tr><td>Dt vua nguoi &amp; vat</td><td>That</td><td>That</td><td></td></tr><tr><td>Noi chon</td><td colspan=\"3\">Where = in/at/on which</td></tr><tr><td>Thoi gian</td><td colspan=\"3\">When = in/at/on which</td></tr><tr><td>Ly do</td><td colspan=\"3\">Why = for which</td></tr></table><h3>2. Cac loai menh de quan he</h3><h4>a. Menh de quan he co gioi han (khong dau phay)</h4><p>- Thuong dung khi danh tu dung truoc DTQH co mao tu \"a/an/the\".<br>- Bo \"who, whom, which, that\" khi no lam tuc tu.</p><div class=\"example\">Ex: The book is interesting. I bought it yesterday.<br>=> The book (which) I bought yesterday is interesting.</div><h4>b. MDQH khong gioi han (co dau phay)</h4><p>- MDQH khong gioi han xuat hien khi danh tu dung truoc dai tu quan he la:</p><ul><li>Danh tu rieng</li><li>Danh tu co tinh tu chi dinh (this/that/these/those)</li><li>Danh tu co tinh tu so huu (my/his/her/your/their/our/its)</li><li>So huu cach (Tom's,...)</li></ul><div class=\"example\">Ex: Tom, whom you met last night, is my son.<br>Ex: That man, who has sent you a gift, lives next door to me.<br>Ex: His book, which was bought last night, is interesting.<br>Ex: Lan's book, which was bought last night, is interesting.</div><p>- Khong dung \"THAT\" trong MDQH khong gioi han.<br>- Khong duoc bo cac dai tu quan he lam tan ngu (WHO, WHOM, WHICH) va cac trang tu quan he trong MDQH khong gioi han.<br>- Trong MDQH khong gioi han, \"WHICH\" co the dung de bo nghia cho ca cau.</p><div class=\"example\">Ex: Peter failed again, which does not make us surprised.</div><p>- Khi muon them thong tin ve toan bo hoac 1 phan so vat hay nguoi cu the, ta dung MDQH khong gioi han voi: of which, of whom, of whose, most of, half of, plenty of, some of, one of, neither of, all of, several of, both of, ten of, a few of...</p><div class=\"example\">Ex: I received two jobs offers, <strong>neither of which</strong> I accepted.<br>Ex: I have two friends, <strong>one of whose</strong> problems is poor study habit.</div><h3>3. Gioi tu voi dai tu quan he</h3><p>Trong menh de quan he co gioi tu thi gioi tu co 2 vi tri dung:</p><ul><li>Gioi tu dung truoc dai tu quan he hoac gioi tu dung sau dong tu.</li><li><strong>Luu y:</strong> Gioi tu khong dung truoc dai tu quan he \"who va that\".</li><li>Khi gioi tu la thanh phan cua cum dong tu thi khong the dem ra truoc \"whom, which, whose\".</li><li>Gioi tu \"WITHOUT\" khong duoc dat sau dong tu ma phai dat truoc dai tu quan he.</li></ul><div class=\"example\">Ex: She is the woman <strong>about whom</strong> I told you.<br>She is the woman <strong>who/whom/that</strong> I told you about.<br>Ex: The woman <strong>without whom</strong> I can't live is Jane.</div><h3>4. Menh de quan he rut gon</h3><table class=\"grammar-table\"><tr><th>Dang</th><th>Khi nao</th><th>Vi du</th></tr><tr><td><strong>V-ing</strong></td><td>Dong tu trong MDQH o the chu dong</td><td>That man, <strong>standing</strong> over there, is my best friend.</td></tr><tr><td><strong>V3/ed</strong></td><td>Dong tu trong MDQH o the bi dong</td><td>The boy <strong>injured</strong> in the accident was taken to the hospital.</td></tr><tr><td><strong>To V</strong></td><td>Chu ngu dung sau the first, the last, the next, the only, the one, so sanh nhat</td><td>He was the last man <strong>to leave</strong> the burning building.</td></tr></table>"
+    "html": "<h2>X. RELATIVE CLAUSES (MỆNH ĐỀ QUAN HE)</h2><h3>1. Cach su dung cac dai tu quan hệ trong MDQH</h3><table class=\"grammar-table\"><tr><th></th><th>S (chu ngu)</th><th>O (tan ngu)</th><th>P (so huu)</th></tr><tr><td>Danh từ chi nguoi</td><td>Who/that</td><td>Who/whom/that</td><td>Whose</td></tr><tr><td>Danh từ chi vat</td><td>Which/that</td><td>Which/that</td><td>Whose</td></tr><tr><td>Dt vua nguoi &amp; vat</td><td>That</td><td>That</td><td></td></tr><tr><td>Noi chon</td><td colspan=\"3\">Where = in/at/on which</td></tr><tr><td>Thoi gian</td><td colspan=\"3\">When = in/at/on which</td></tr><tr><td>Ly do</td><td colspan=\"3\">Why = for which</td></tr></table><h3>2. Cac loai mệnh đề quan hệ</h3><h4>a. Mệnh đề quan hệ co gioi han (khong dau phay)</h4><p>- Thuong dung khi danh từ dung truoc DTQH co mạo từ \"a/an/the\".<br>- Bo \"who, whom, which, that\" khi no lam tuc tu.</p><div class=\"example\">Ex: The book is interesting. I bought it yesterday.<br>=> The book (which) I bought yesterday is interesting.</div><h4>b. MDQH khong gioi han (co dau phay)</h4><p>- MDQH khong gioi han xuat hien khi danh từ dung truoc dai tu quan hệ la:</p><ul><li>Danh từ rieng</li><li>Danh từ co tính từ chi dinh (this/that/these/those)</li><li>Danh từ co tính từ so huu (my/his/her/your/their/our/its)</li><li>So huu cach (Tom's,...)</li></ul><div class=\"example\">Ex: Tom, whom you met last night, is my son.<br>Ex: That man, who has sent you a gift, lives next door to me.<br>Ex: His book, which was bought last night, is interesting.<br>Ex: Lan's book, which was bought last night, is interesting.</div><p>- Khong dung \"THAT\" trong MDQH khong gioi han.<br>- Khong duoc bo cac dai tu quan hệ lam tan ngu (WHO, WHOM, WHICH) va cac trạng từ quan hệ trong MDQH khong gioi han.<br>- Trong MDQH khong gioi han, \"WHICH\" co the dung de bo nghia cho ca cau.</p><div class=\"example\">Ex: Peter failed again, which does not make us surprised.</div><p>- Khi muon them thong tin ve toan bo hoac 1 phan so vat hay nguoi cu the, ta dung MDQH khong gioi han voi: of which, of whom, of whose, most of, half of, plenty of, some of, one of, neither of, all of, several of, both of, ten of, a few of...</p><div class=\"example\">Ex: I received two jobs offers, <strong>neither of which</strong> I accepted.<br>Ex: I have two friends, <strong>one of whose</strong> problems is poor study habit.</div><h3>3. Giới từ voi dai tu quan hệ</h3><p>Trong mệnh đề quan hệ co giới từ thi giới từ co 2 vị trí dung:</p><ul><li>Giới từ dung truoc dai tu quan hệ hoac giới từ dung sau động từ.</li><li><strong>Lưu ý:</strong> Giới từ khong dung truoc dai tu quan hệ \"who va that\".</li><li>Khi giới từ la thanh phan cua cum động từ thi khong the dem ra truoc \"whom, which, whose\".</li><li>Giới từ \"WITHOUT\" khong duoc dat sau động từ ma phai dat truoc dai tu quan hệ.</li></ul><div class=\"example\">Ex: She is the woman <strong>about whom</strong> I told you.<br>She is the woman <strong>who/whom/that</strong> I told you about.<br>Ex: The woman <strong>without whom</strong> I can't live is Jane.</div><h3>4. Mệnh đề quan hệ rut gon</h3><table class=\"grammar-table\"><tr><th>Dang</th><th>Khi nao</th><th>Ví dụ</th></tr><tr><td><strong>V-ing</strong></td><td>Động từ trong MDQH o the chủ động</td><td>That man, <strong>standing</strong> over there, is my best friend.</td></tr><tr><td><strong>V3/ed</strong></td><td>Động từ trong MDQH o the bị động</td><td>The boy <strong>injured</strong> in the accident was taken to the hospital.</td></tr><tr><td><strong>To V</strong></td><td>Chu ngu dung sau the first, the last, the next, the only, the one, so sánh nhat</td><td>He was the last man <strong>to leave</strong> the burning building.</td></tr></table>"
   },
   "exercises": [
     {
@@ -12,7 +12,7 @@
       "question": "Genghis Khan, _______ name means \"very mighty ruler\", was a Mongol emperor in the Middle Ages.",
       "options": ["A. whom", "B. whose", "C. who", "D. which"],
       "correctIndex": 1,
-      "explanation": "'whose' chi so huu, dung truoc danh tu 'name'. => 'whose name means...'"
+      "explanation": "'whose' chi so huu, dung truoc danh từ 'name'. => 'whose name means...'"
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
       "question": "The house _______ windows are blue was built in the 20th century.",
       "options": ["A. which", "B. that", "C. whose", "D. of which"],
       "correctIndex": 2,
-      "explanation": "'whose' chi so huu cho 'house' => 'whose windows'. Luu y: 'of which' (D) cung co the dung nhung can viet lai: 'the windows of which' hoac 'of which the windows'. Dang trong cau nay chi 'whose' la dung ngu phap."
+      "explanation": "'whose' chi so huu cho 'house' => 'whose windows'. Lưu ý: 'of which' (D) cung co the dung nhung can viet lai: 'the windows of which' hoac 'of which the windows'. Dang trong cau nay chi 'whose' la dung ngu phap."
     },
     {
       "id": 3,
@@ -44,7 +44,7 @@
       "question": "Bogota, _______ is the capital city of Columbia, is a cosmopolitan city.",
       "options": ["A. who", "B. that", "C. which", "D. where"],
       "correctIndex": 2,
-      "explanation": "MDQH khong gioi han (co dau phay), 'Bogota' la danh tu rieng chi vat => 'which'. Khong dung 'that' trong MDQH khong gioi han."
+      "explanation": "MDQH khong gioi han (co dau phay), 'Bogota' la danh từ rieng chi vat => 'which'. Khong dung 'that' trong MDQH khong gioi han."
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "question": "Sally lost her job, _______ wasn't a surprise.",
       "options": ["A. which", "B. who", "C. whom", "D. that"],
       "correctIndex": 0,
-      "explanation": "'which' bo nghia cho ca menh de truoc (viec Sally mat viec). Khong dung 'that' sau dau phay."
+      "explanation": "'which' bo nghia cho ca mệnh đề truoc (viec Sally mat viec). Khong dung 'that' sau dau phay."
     },
     {
       "id": 7,
@@ -60,7 +60,7 @@
       "question": "The land and the people _______ I have met are nice.",
       "options": ["A. that", "B. who", "C. whose", "D. whom"],
       "correctIndex": 0,
-      "explanation": "Khi danh tu vua chi nguoi vua chi vat ('the land and the people') => dung 'that'."
+      "explanation": "Khi danh từ vua chi nguoi vua chi vat ('the land and the people') => dung 'that'."
     },
     {
       "id": 8,
@@ -68,7 +68,7 @@
       "question": "The chemistry book _______ was a little expensive.",
       "options": ["A. that I bought it", "B. I bought that", "C. what I bought", "D. that I bought"],
       "correctIndex": 3,
-      "explanation": "'that' lam tan ngu cua 'bought'. Khong them 'it' sau dong tu."
+      "explanation": "'that' lam tan ngu cua 'bought'. Khong them 'it' sau động từ."
     },
     {
       "id": 9,
@@ -100,7 +100,7 @@
       "question": "The boy to _______ I lend my money is poor.",
       "options": ["A. that", "B. who", "C. whom", "D. whose"],
       "correctIndex": 2,
-      "explanation": "Gioi tu 'to' dung truoc dai tu quan he => dung 'whom' (khong dung 'that' sau gioi tu)."
+      "explanation": "Giới từ 'to' dung truoc dai tu quan hệ => dung 'whom' (khong dung 'that' sau giới từ)."
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
       "question": "Wednesday is the day _______ a tour guide leads a tour around the town's historical places.",
       "options": ["A. when", "B. which", "C. whose", "D. where"],
       "correctIndex": 0,
-      "explanation": "'Wednesday' la thoi gian => dung 'when' (= on which)."
+      "explanation": "'Wednesday' la thời gian => dung 'when' (= on which)."
     },
     {
       "id": 18,
@@ -172,7 +172,7 @@
       "question": "Can you remember the day _______ John was born?",
       "options": ["A. when", "B. where", "C. that", "D. who"],
       "correctIndex": 0,
-      "explanation": "'day' la thoi gian => 'when'."
+      "explanation": "'day' la thời gian => 'when'."
     },
     {
       "id": 22,
@@ -188,7 +188,7 @@
       "question": "Paul O'Grady _______ died a few years ago, was a kind and loving man.",
       "options": ["A. , whom", "B. that", "C. , who", "D. , which"],
       "correctIndex": 2,
-      "explanation": "Danh tu rieng 'Paul O'Grady' => MDQH khong gioi han (co dau phay), lam chu ngu => ', who'."
+      "explanation": "Danh từ rieng 'Paul O'Grady' => MDQH khong gioi han (co dau phay), lam chu ngu => ', who'."
     },
     {
       "id": 24,
@@ -204,7 +204,7 @@
       "question": "This is Tony. _______ daughter lives next to James.",
       "options": ["A. who", "B. that", "C. whose", "D. whom"],
       "correctIndex": 2,
-      "explanation": "'whose' chi so huu, dung truoc danh tu 'daughter'."
+      "explanation": "'whose' chi so huu, dung truoc danh từ 'daughter'."
     },
     {
       "id": 26,
@@ -228,7 +228,7 @@
       "question": "Don't forget to bring back the book _______ you borrowed.",
       "options": ["A. when", "B. who", "C. whom", "D. \u00d8"],
       "correctIndex": 3,
-      "explanation": "'book' la vat lam tan ngu => co the bo dai tu quan he (zero relative pronoun)."
+      "explanation": "'book' la vat lam tan ngu => co the bo dai tu quan hệ (zero relative pronoun)."
     },
     {
       "id": 29,
@@ -268,7 +268,7 @@
       "question": "Mr John, _______ has just bought a new car, had a terrible accident yesterday.",
       "answer": "who",
       "acceptedAnswers": ["who"],
-      "explanation": "Danh tu rieng 'Mr John' => MDQH khong gioi han, chu ngu => 'who'."
+      "explanation": "Danh từ rieng 'Mr John' => MDQH khong gioi han, chu ngu => 'who'."
     },
     {
       "id": 34,
@@ -342,7 +342,7 @@
       "correctSentence": "The singer about whom I told you yesterday is coming here tomorrow.",
       "errorWord": "who",
       "correction": "whom",
-      "explanation": "Sau gioi tu 'about' phai dung 'whom', khong dung 'who'."
+      "explanation": "Sau giới từ 'about' phai dung 'whom', khong dung 'who'."
     },
     {
       "id": 43,
@@ -360,7 +360,7 @@
       "correctSentence": "The gangsters for whom the police are looking robbed the bank yesterday.",
       "errorWord": "who",
       "correction": "whom",
-      "explanation": "Sau gioi tu 'for' phai dung 'whom'."
+      "explanation": "Sau giới từ 'for' phai dung 'whom'."
     },
     {
       "id": 45,
@@ -415,7 +415,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "Charlie",
       "answer": "Charlie Chaplin, who was from a poor family, became a very rich man.",
-      "explanation": "Danh tu rieng => MDQH khong gioi han voi 'who'."
+      "explanation": "Danh từ rieng => MDQH khong gioi han voi 'who'."
     },
     {
       "id": 51,
@@ -499,7 +499,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "She left here without",
       "answer": "She left here without saying goodbye, which made me sad.",
-      "explanation": "'which' bo nghia cho ca menh de truoc."
+      "explanation": "'which' bo nghia cho ca mệnh đề truoc."
     },
     {
       "id": 60,
@@ -508,7 +508,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "The children often",
       "answer": "The children often go swimming on Sundays, when they have much free time.",
-      "explanation": "'Sundays' la thoi gian => 'when'."
+      "explanation": "'Sundays' la thời gian => 'when'."
     },
     {
       "id": 61,
@@ -544,7 +544,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "Patrick",
       "answer": "Patrick will never forget the day when his son was born.",
-      "explanation": "'the day' la thoi gian => 'when'."
+      "explanation": "'the day' la thời gian => 'when'."
     },
     {
       "id": 65,
@@ -562,7 +562,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "Do you",
       "answer": "Do you remember Jenny, who used to work in my office?",
-      "explanation": "Danh tu rieng 'Jenny' => MDQH khong gioi han => ', who'."
+      "explanation": "Danh từ rieng 'Jenny' => MDQH khong gioi han => ', who'."
     },
     {
       "id": 67,
@@ -598,7 +598,7 @@
       "correctSentence": "Every student who majors in English is ready to participate in the orchard contest.",
       "errorWord": "are",
       "correction": "is",
-      "explanation": "'Every student' la chu ngu so it => dong tu chia so it: 'is ready'."
+      "explanation": "'Every student' la chu ngu số ít => động từ chia số ít: 'is ready'."
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "topicId": "writing-sentence",
-  "title": "Sentence Writing (Viet Cau)",
+  "title": "Sentence Writing (Viết Câu)",
   "section": "writing",
   "knowledge": {
-    "html": "<h3>Cac Cau Truc Viet Lai Cau</h3><ul><li><strong>Too...to:</strong> S + V + too + adj/adv + (for sb) + to do st</li><li><strong>Enough:</strong> S + V + adj/adv + enough + (for sb) + to do st</li><li><strong>So...that:</strong> S + V + so + adj/adv + that + S + V</li><li><strong>Such...that:</strong> It + V + such + (a/an) + N(s) + that + S + V</li><li><strong>Have/get something done:</strong> have/get + st + Ved/V3</li><li><strong>It takes:</strong> It + takes/took + someone + time + to do st = S + spend/spent + time + V-ing</li><li><strong>S + find + it + adj + to do st</strong></li><li><strong>Prefer:</strong> to prefer + N to N / to prefer + Ving to Ving</li><li><strong>Would rather:</strong> would prefer to V + rather than + V = would rather + V + than + V</li><li><strong>Used to:</strong> to be/get used to + V-ing (quen lam gi) vs used to + V (thuong lam gi trong qua khu)</li><li><strong>Suggestions:</strong> Let's/Shall we/Why don't we + V = What about/How about + Ving</li><li><strong>So that:</strong> S + V + so that + S + V = S + V + so as to/in order to/to + V</li><li><strong>Both...and / Not only...but also / Neither...nor / Either...or</strong></li><li><strong>Agreement:</strong> S + tro dong tu/tobe, too / So + tro dong tu/tobe + S (khang dinh) | S + tro dong tu/tobe + not, either / Neither + tro dong tu/tobe + S (phu dinh)</li><li><strong>Suggest:</strong> S + suggest + V-ing / S + suggest that + S + should + V1</li><li><strong>Past simple vs Present perfect:</strong> S + last + V2/ed + time + ago = S + have/has + not + V3/ed + for/since... | It's + time + since + S + last + V2/ed | The last time + S + V2/ed + was + time + ago | This is the first time + S + have/has + V3/ed | S + have/has + never + V3/ed + before</li><li><strong>When did + S + start/begin + to V/Ving?</strong> = How long + have/has + S + V3/ed?</li></ul>"
+    "html": "<h3>Cac Cau Truc Viet Lai Cau</h3><ul><li><strong>Too...to:</strong> S + V + too + adj/adv + (for sb) + to do st</li><li><strong>Enough:</strong> S + V + adj/adv + enough + (for sb) + to do st</li><li><strong>So...that:</strong> S + V + so + adj/adv + that + S + V</li><li><strong>Such...that:</strong> It + V + such + (a/an) + N(s) + that + S + V</li><li><strong>Have/get something done:</strong> have/get + st + Ved/V3</li><li><strong>It takes:</strong> It + takes/took + someone + time + to do st = S + spend/spent + time + V-ing</li><li><strong>S + find + ít + adj + to do st</strong></li><li><strong>Prefer:</strong> to prefer + N to N / to prefer + Ving to Ving</li><li><strong>Would rather:</strong> would prefer to V + rather than + V = would rather + V + than + V</li><li><strong>Used to:</strong> to be/get used to + V-ing (quen làm gi) vs used to + V (thường làm gi trong quá khứ)</li><li><strong>Suggestions:</strong> Let's/Shall we/Why don't we + V = What about/How about + Ving</li><li><strong>So that:</strong> S + V + so that + S + V = S + V + so as to/in order to/to + V</li><li><strong>Both...and / Not only...but also / Neither...nor / Either...or</strong></li><li><strong>Agreement:</strong> S + tro động từ/tobe, too / So + tro động từ/tobe + S (khẳng định) | S + tro động từ/tobe + not, either / Neither + tro động từ/tobe + S (phủ định)</li><li><strong>Suggest:</strong> S + suggest + V-ing / S + suggest that + S + should + V1</li><li><strong>Past simple vs Present perfect:</strong> S + last + V2/ed + time + ago = S + have/has + not + V3/ed + for/since... | It's + time + since + S + last + V2/ed | The last time + S + V2/ed + was + time + ago | This is the first time + S + have/has + V3/ed | S + have/has + never + V3/ed + before</li><li><strong>When did + S + start/begin + to V/Ving?</strong> = How long + have/has + S + V3/ed?</li></ul>"
   },
   "exercises": [
     {
@@ -13,8 +13,11 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "This is",
       "answer": "This is the most romantic story I have ever read.",
-      "acceptedAnswers": ["This is the most romantic story I have ever read.", "This is the most romantic story I have ever read"],
-      "explanation": "Pattern: This is the + superlative + noun + S + have/has + ever + V3."
+      "acceptedAnswers": [
+        "This is the most romantic story I have ever read.",
+        "This is the most romantic story I have ever read"
+      ],
+      "explanation": "Pattern: This is thế + superlative + noun + S + have/has + ever + V3."
     },
     {
       "id": 2,
@@ -23,7 +26,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "It is",
       "answer": "It is the first time I have been to the ballet.",
-      "acceptedAnswers": ["It is the first time I have been to the ballet.", "It is the first time I have been to the ballet"],
+      "acceptedAnswers": [
+        "It is the first time I have been to the ballet.",
+        "It is the first time I have been to the ballet"
+      ],
       "explanation": "Pattern: It is the first time + S + have/has + V3."
     },
     {
@@ -33,7 +39,12 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "It",
       "answer": "It is 5 years since they started living in Germany.",
-      "acceptedAnswers": ["It is 5 years since they started living in Germany.", "It is 5 years since they started living in Germany", "It has been 5 years since they started living in Germany.", "It has been 5 years since they started living in Germany"],
+      "acceptedAnswers": [
+        "It is 5 years since they started living in Germany.",
+        "It is 5 years since they started living in Germany",
+        "It has been 5 years since they started living in Germany.",
+        "It has been 5 years since they started living in Germany"
+      ],
       "explanation": "Pattern: It is + time + since + S + V2/ed."
     },
     {
@@ -43,7 +54,11 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "I've been",
       "answer": "I've been living here for three months.",
-      "acceptedAnswers": ["I've been living here for three months.", "I've been living here for three months", "I have been living here for three months."],
+      "acceptedAnswers": [
+        "I've been living here for three months.",
+        "I've been living here for three months",
+        "I have been living here for three months."
+      ],
       "explanation": "Past simple with 'ago' converts to present perfect with 'for.'"
     },
     {
@@ -53,7 +68,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "The last time",
       "answer": "The last time the Browns visited Paris was in 1998.",
-      "acceptedAnswers": ["The last time the Browns visited Paris was in 1998.", "The last time the Browns visited Paris was in 1998"],
+      "acceptedAnswers": [
+        "The last time the Browns visited Paris was in 1998.",
+        "The last time the Browns visited Paris was in 1998"
+      ],
       "explanation": "Pattern: The last time + S + V2/ed + was + time."
     },
     {
@@ -63,7 +81,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "When",
       "answer": "When did Catherine and Henry get engaged?",
-      "acceptedAnswers": ["When did Catherine and Henry get engaged?", "When did Catherine and Henry get engaged"],
+      "acceptedAnswers": [
+        "When did Catherine and Henry get engaged?",
+        "When did Catherine and Henry get engaged"
+      ],
       "explanation": "How long + have/has + V3? = When did + S + V?"
     },
     {
@@ -73,7 +94,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "I used",
       "answer": "I used to have a cat.",
-      "acceptedAnswers": ["I used to have a cat.", "I used to have a cat"],
+      "acceptedAnswers": [
+        "I used to have a cat.",
+        "I used to have a cat"
+      ],
       "explanation": "'Used to + V' expresses a past habit or state that no longer exists."
     },
     {
@@ -83,7 +107,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "When I was a child, I used",
       "answer": "When I was a child, I used to go to the local park every Sunday afternoon.",
-      "acceptedAnswers": ["When I was a child, I used to go to the local park every Sunday afternoon.", "When I was a child, I used to go to the local park every Sunday afternoon"],
+      "acceptedAnswers": [
+        "When I was a child, I used to go to the local park every Sunday afternoon.",
+        "When I was a child, I used to go to the local park every Sunday afternoon"
+      ],
       "explanation": "'Used to + V' replaces 'usually + V2/ed' for past habits."
     },
     {
@@ -93,7 +120,11 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "Rice",
       "answer": "Rice is grown in this field by farmers.",
-      "acceptedAnswers": ["Rice is grown in this field by farmers.", "Rice is grown in this field.", "Rice is grown in this field by farmers"],
+      "acceptedAnswers": [
+        "Rice is grown in this field by farmers.",
+        "Rice is grown in this field.",
+        "Rice is grown in this field by farmers"
+      ],
       "explanation": "Active to passive: S + be + V3 + by + agent."
     },
     {
@@ -103,7 +134,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "Research",
       "answer": "Research is being carried out on how people spend their money on clothes.",
-      "acceptedAnswers": ["Research is being carried out on how people spend their money on clothes.", "Research is being carried out on how people spend their money on clothes"],
+      "acceptedAnswers": [
+        "Research is being carried out on how people spend their money on clothes.",
+        "Research is being carried out on how people spend their money on clothes"
+      ],
       "explanation": "Present continuous passive: S + is/are + being + V3."
     },
     {
@@ -113,7 +147,12 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "John",
       "answer": "John has just been released by the police.",
-      "acceptedAnswers": ["John has just been released by the police.", "John has just been released by the police", "John has just been released.", "John has just been released"],
+      "acceptedAnswers": [
+        "John has just been released by the police.",
+        "John has just been released by the police",
+        "John has just been released.",
+        "John has just been released"
+      ],
       "explanation": "Present perfect passive: S + have/has + been + V3."
     },
     {
@@ -123,7 +162,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "Jack was",
       "answer": "Jack was made to study a lot for the entrance exam to high school by his parents.",
-      "acceptedAnswers": ["Jack was made to study a lot for the entrance exam to high school by his parents.", "Jack was made to study a lot for the entrance exam to high school."],
+      "acceptedAnswers": [
+        "Jack was made to study a lot for the entrance exam to high school by his parents.",
+        "Jack was made to study a lot for the entrance exam to high school."
+      ],
       "explanation": "Passive of 'make someone do': S + was/were + made + to V."
     },
     {
@@ -133,7 +175,12 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "The manager",
       "answer": "The manager must be seen tomorrow morning.",
-      "acceptedAnswers": ["The manager must be seen tomorrow morning.", "The manager must be seen by you tomorrow morning.", "The manager must be seen tomorrow morning", "The manager must be seen by you tomorrow morning"],
+      "acceptedAnswers": [
+        "The manager must be seen tomorrow morning.",
+        "The manager must be seen by you tomorrow morning.",
+        "The manager must be seen tomorrow morning",
+        "The manager must be seen by you tomorrow morning"
+      ],
       "explanation": "Modal passive: S + modal + be + V3."
     },
     {
@@ -143,7 +190,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "I had",
       "answer": "I had my car serviced last week.",
-      "acceptedAnswers": ["I had my car serviced last week.", "I had my car serviced last week"],
+      "acceptedAnswers": [
+        "I had my car serviced last week.",
+        "I had my car serviced last week"
+      ],
       "explanation": "Causative: have + object + V3 (have something done)."
     },
     {
@@ -153,7 +203,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "He",
       "answer": "He is expected to join the company soon.",
-      "acceptedAnswers": ["He is expected to join the company soon.", "He is expected to join the company soon"],
+      "acceptedAnswers": [
+        "He is expected to join the company soon.",
+        "He is expected to join the company soon"
+      ],
       "explanation": "Pattern: S + is/are + expected + to V."
     },
     {
@@ -163,7 +216,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "It",
       "answer": "It is believed that touching the head of a Buddha statue is a sign of disrespect.",
-      "acceptedAnswers": ["It is believed that touching the head of a Buddha statue is a sign of disrespect.", "It is believed that touching the head of a Buddha statue is a sign of disrespect"],
+      "acceptedAnswers": [
+        "It is believed that touching the head of a Buddha statue is a sign of disrespect.",
+        "It is believed that touching the head of a Buddha statue is a sign of disrespect"
+      ],
       "explanation": "Pattern: It + is + believed + that + clause."
     },
     {
@@ -173,17 +229,24 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "The plumber",
       "answer": "The plumber repaired the leak this morning.",
-      "acceptedAnswers": ["The plumber repaired the leak this morning.", "The plumber repaired the leak this morning"],
+      "acceptedAnswers": [
+        "The plumber repaired the leak this morning.",
+        "The plumber repaired the leak this morning"
+      ],
       "explanation": "Passive to active: the agent becomes the subject."
     },
     {
       "id": 18,
       "type": "sentence-rewrite",
-      "original": "She knows more about it than I do.",
+      "original": "She knows more about ít than I do.",
       "instruction": "Rewrite beginning with the words given",
       "starterText": "I don't",
-      "answer": "I don't know as much about it as she does.",
-      "acceptedAnswers": ["I don't know as much about it as she does.", "I don't know as much about it as she does", "I do not know as much about it as she does."],
+      "answer": "I don't know as much about ít as she does.",
+      "acceptedAnswers": [
+        "I don't know as much about ít as she does.",
+        "I don't know as much about ít as she does",
+        "I do not know as much about ít as she does."
+      ],
       "explanation": "Comparative to negative equality: not + as...as."
     },
     {
@@ -193,7 +256,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "Apples are not",
       "answer": "Apples are not usually as expensive as oranges.",
-      "acceptedAnswers": ["Apples are not usually as expensive as oranges.", "Apples are not usually as expensive as oranges"],
+      "acceptedAnswers": [
+        "Apples are not usually as expensive as oranges.",
+        "Apples are not usually as expensive as oranges"
+      ],
       "explanation": "Cheaper than = not as expensive as (using the opposite adjective)."
     },
     {
@@ -203,7 +269,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "Nobody",
       "answer": "Nobody in the class is as clever as Sally.",
-      "acceptedAnswers": ["Nobody in the class is as clever as Sally.", "Nobody in the class is cleverer than Sally."],
+      "acceptedAnswers": [
+        "Nobody in the class is as clever as Sally.",
+        "Nobody in the class is cleverer than Sally."
+      ],
       "explanation": "Superlative = Nobody + as...as / Nobody + comparative + than."
     },
     {
@@ -213,7 +282,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "John swims",
       "answer": "John swims the best in this club.",
-      "acceptedAnswers": ["John swims the best in this club.", "John swims better than anyone else in this club."],
+      "acceptedAnswers": [
+        "John swims the best in this club.",
+        "John swims better than anyone else in this club."
+      ],
       "explanation": "No one...better than = S + V + the best."
     },
     {
@@ -223,8 +295,11 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "The older",
       "answer": "The older I get, the less I want to travel.",
-      "acceptedAnswers": ["The older I get, the less I want to travel.", "The older I get, the less I want to travel"],
-      "explanation": "Double comparative: The + comparative + S + V, the + comparative + S + V."
+      "acceptedAnswers": [
+        "The older I get, the less I want to travel.",
+        "The older I get, the less I want to travel"
+      ],
+      "explanation": "Double comparative: The + comparative + S + V, thế + comparative + S + V."
     },
     {
       "id": 23,
@@ -233,7 +308,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "In spite",
       "answer": "In spite of having a good salary, he was unhappy in his job.",
-      "acceptedAnswers": ["In spite of having a good salary, he was unhappy in his job.", "In spite of his good salary, he was unhappy in his job."],
+      "acceptedAnswers": [
+        "In spite of having a good salary, he was unhappy in his job.",
+        "In spite of his good salary, he was unhappy in his job."
+      ],
       "explanation": "Although + clause = In spite of + V-ing/noun phrase."
     },
     {
@@ -243,7 +321,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "Although",
       "answer": "Although the weather was cold, we went out.",
-      "acceptedAnswers": ["Although the weather was cold, we went out.", "Although it was cold, we went out."],
+      "acceptedAnswers": [
+        "Although the weather was cold, we went out.",
+        "Although it was cold, we went out."
+      ],
       "explanation": "In spite of + noun phrase = Although + clause."
     },
     {
@@ -253,7 +334,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "Although",
       "answer": "Although she was seriously ill, she enjoyed life very much.",
-      "acceptedAnswers": ["Although she was seriously ill, she enjoyed life very much.", "Although she was seriously ill, she enjoyed life very much"],
+      "acceptedAnswers": [
+        "Although she was seriously ill, she enjoyed life very much.",
+        "Although she was seriously ill, she enjoyed life very much"
+      ],
       "explanation": "Use 'although' to join two contrasting clauses."
     },
     {
@@ -263,7 +347,11 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "Because",
       "answer": "Because Hoa was busy, she couldn't go to the party.",
-      "acceptedAnswers": ["Because Hoa was busy, she couldn't go to the party.", "Because Hoa was busy, she couldn't go to the party", "Because Hoa was busy, she could not go to the party."],
+      "acceptedAnswers": [
+        "Because Hoa was busy, she couldn't go to the party.",
+        "Because Hoa was busy, she couldn't go to the party",
+        "Because Hoa was busy, she could not go to the party."
+      ],
       "explanation": "'So' (result) converts to 'because' (reason) by rearranging the clauses."
     },
     {
@@ -273,18 +361,24 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "Because of",
       "answer": "Because of his laziness, Ba failed the final exam.",
-      "acceptedAnswers": ["Because of his laziness, Ba failed the final exam.", "Because of being lazy, Ba failed the final exam."],
+      "acceptedAnswers": [
+        "Because of his laziness, Ba failed the final exam.",
+        "Because of being lazy, Ba failed the final exam."
+      ],
       "explanation": "Because of + noun/gerund phrase (not a clause)."
     },
     {
       "id": 28,
       "type": "sentence-rewrite",
-      "original": "She said, \"I am taking an important exam next week\".",
+      "original": "She said, \"I ấm taking an important exam next week\".",
       "instruction": "Rewrite in reported speech",
       "starterText": "She said",
       "answer": "She said she was taking an important exam the following week.",
-      "acceptedAnswers": ["She said she was taking an important exam the following week.", "She said that she was taking an important exam the following week."],
-      "explanation": "Reported speech: am -> was, next week -> the following week."
+      "acceptedAnswers": [
+        "She said she was taking an important exam the following week.",
+        "She said that she was taking an important exam the following week."
+      ],
+      "explanation": "Reported speech: ấm -> was, next week -> the following week."
     },
     {
       "id": 29,
@@ -293,7 +387,10 @@
       "instruction": "Rewrite in reported speech",
       "starterText": "Susan asked Peter",
       "answer": "Susan asked Peter where he was going.",
-      "acceptedAnswers": ["Susan asked Peter where he was going.", "Susan asked Peter where he was going"],
+      "acceptedAnswers": [
+        "Susan asked Peter where he was going.",
+        "Susan asked Peter where he was going"
+      ],
       "explanation": "Reported question: question word + S + V (statement order), tense shift."
     },
     {
@@ -303,7 +400,10 @@
       "instruction": "Rewrite in reported speech",
       "starterText": "The guard told",
       "answer": "The guard told us not to litter as we were walking along the coast.",
-      "acceptedAnswers": ["The guard told us not to litter as we were walking along the coast.", "The guard told us not to litter as we were walking along the coast"],
+      "acceptedAnswers": [
+        "The guard told us not to litter as we were walking along the coast.",
+        "The guard told us not to litter as we were walking along the coast"
+      ],
       "explanation": "Reported request: told + object + (not) to V."
     },
     {
@@ -313,7 +413,10 @@
       "instruction": "Rewrite in reported speech",
       "starterText": "Thanh suggested that",
       "answer": "Thanh suggested that they should visit the Royal Citadel first.",
-      "acceptedAnswers": ["Thanh suggested that they should visit the Royal Citadel first.", "Thanh suggested that they visit the Royal Citadel first."],
+      "acceptedAnswers": [
+        "Thanh suggested that they should visit the Royal Citadel first.",
+        "Thanh suggested that they visit the Royal Citadel first."
+      ],
       "explanation": "Reported suggestion: S + suggested that + S + (should) + V."
     },
     {
@@ -323,7 +426,10 @@
       "instruction": "Rewrite in reported speech",
       "starterText": "Mary's mom",
       "answer": "Mary's mom advised her to spend more time learning English.",
-      "acceptedAnswers": ["Mary's mom advised her to spend more time learning English.", "Mary's mom advised Mary to spend more time learning English."],
+      "acceptedAnswers": [
+        "Mary's mom advised her to spend more time learning English.",
+        "Mary's mom advised Mary to spend more time learning English."
+      ],
       "explanation": "Reported advice with 'had better': S + advised + object + to V."
     },
     {
@@ -333,7 +439,11 @@
       "instruction": "Rewrite using conditional",
       "starterText": "If",
       "answer": "If she had a computer or a smartphone, she could study online.",
-      "acceptedAnswers": ["If she had a computer or a smartphone, she could study online.", "If she had a computer or a smartphone, she could study online", "If she had a computer or a smartphone, she would be able to study online."],
+      "acceptedAnswers": [
+        "If she had a computer or a smartphone, she could study online.",
+        "If she had a computer or a smartphone, she could study online",
+        "If she had a computer or a smartphone, she would be able to study online."
+      ],
       "explanation": "Second conditional: If + S + V2/ed, S + would/could + V."
     },
     {
@@ -343,7 +453,12 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "Unless",
       "answer": "Unless you have a passport, you can't register for a course abroad.",
-      "acceptedAnswers": ["Unless you have a passport, you can't register for a course abroad.", "Unless you have a passport, you can't register for a course abroad", "Unless you have a passport, you cannot register for a course abroad.", "Unless you have a passport, you cannot register for a course abroad"],
+      "acceptedAnswers": [
+        "Unless you have a passport, you can't register for a course abroad.",
+        "Unless you have a passport, you can't register for a course abroad",
+        "Unless you have a passport, you cannot register for a course abroad.",
+        "Unless you have a passport, you cannot register for a course abroad"
+      ],
       "explanation": "If...not = Unless (remove the negative)."
     },
     {
@@ -353,7 +468,12 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "I wish",
       "answer": "I wish they worked faster and more effectively.",
-      "acceptedAnswers": ["I wish they worked faster and more effectively.", "I wish they didn't work slowly and ineffectively.", "I wish they worked faster and more effectively", "I wish they would work faster and more effectively."],
+      "acceptedAnswers": [
+        "I wish they worked faster and more effectively.",
+        "I wish they didn't work slowly and ineffectively.",
+        "I wish they worked faster and more effectively",
+        "I wish they would work faster and more effectively."
+      ],
       "explanation": "Wish + past simple for present unreal wishes."
     },
     {
@@ -363,7 +483,13 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "I wish",
       "answer": "I wish I weren't late for school.",
-      "acceptedAnswers": ["I wish I weren't late for school.", "I wish I wouldn't be late for school.", "I wish I weren't going to be late for school.", "I wish I wasn't late for school.", "I wish I wasn't going to be late for school."],
+      "acceptedAnswers": [
+        "I wish I weren't late for school.",
+        "I wish I wouldn't be late for school.",
+        "I wish I weren't going to be late for school.",
+        "I wish I wasn't late for school.",
+        "I wish I wasn't going to be late for school."
+      ],
       "explanation": "Wish + past simple for unreal present/future wishes."
     },
     {
@@ -373,7 +499,12 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "I wish",
       "answer": "I wish I hadn't missed your birthday party.",
-      "acceptedAnswers": ["I wish I hadn't missed your birthday party.", "I wish I hadn't missed your birthday party", "I wish I had not missed your birthday party.", "I wish I had not missed your birthday party"],
+      "acceptedAnswers": [
+        "I wish I hadn't missed your birthday party.",
+        "I wish I hadn't missed your birthday party",
+        "I wish I had not missed your birthday party.",
+        "I wish I had not missed your birthday party"
+      ],
       "explanation": "Wish + past perfect for past regrets."
     },
     {
@@ -383,7 +514,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "I wish",
       "answer": "I wish I had taken my doctor's advice.",
-      "acceptedAnswers": ["I wish I had taken my doctor's advice.", "I wish I had taken my doctor's advice"],
+      "acceptedAnswers": [
+        "I wish I had taken my doctor's advice.",
+        "I wish I had taken my doctor's advice"
+      ],
       "explanation": "Wish + past perfect for past regrets."
     },
     {
@@ -393,7 +527,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "He'd rather",
       "answer": "He'd rather play computer games than watch TV.",
-      "acceptedAnswers": ["He'd rather play computer games than watch TV.", "He'd rather play computer games than watch TV"],
+      "acceptedAnswers": [
+        "He'd rather play computer games than watch TV.",
+        "He'd rather play computer games than watch TV"
+      ],
       "explanation": "Would rather + V + than + V."
     },
     {
@@ -403,7 +540,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "Do you mind",
       "answer": "Do you mind helping me put the chair away?",
-      "acceptedAnswers": ["Do you mind helping me put the chair away?", "Do you mind helping me put the chair away"],
+      "acceptedAnswers": [
+        "Do you mind helping me put the chair away?",
+        "Do you mind helping me put the chair away"
+      ],
       "explanation": "Do you mind + V-ing = Would you like to help."
     },
     {
@@ -413,7 +553,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "Traveling",
       "answer": "Traveling by air always makes me nervous.",
-      "acceptedAnswers": ["Traveling by air always makes me nervous.", "Travelling by air always makes me nervous."],
+      "acceptedAnswers": [
+        "Traveling by air always makes me nervous.",
+        "Travelling by air always makes me nervous."
+      ],
       "explanation": "Gerund as subject + makes + object + adjective."
     },
     {
@@ -423,7 +566,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "\"What about",
       "answer": "\"What about visiting Moc Chau to learn about Thai and H'mong people?\"",
-      "acceptedAnswers": ["\"What about visiting Moc Chau to learn about Thai and H'mong people?\"", "What about visiting Moc Chau to learn about Thai and H'mong people?"],
+      "acceptedAnswers": [
+        "\"What about visiting Moc Chau to learn about Thai and H'mong people?\"",
+        "What about visiting Moc Chau to learn about Thai and H'mong people?"
+      ],
       "explanation": "Suggest + V-ing = What about + V-ing?"
     },
     {
@@ -433,7 +579,11 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "It's",
       "answer": "It's very important to keep the environment clean.",
-      "acceptedAnswers": ["It's very important to keep the environment clean.", "It's very important to keep the environment clean", "It is very important to keep the environment clean."],
+      "acceptedAnswers": [
+        "It's very important to keep the environment clean.",
+        "It's very important to keep the environment clean",
+        "It is very important to keep the environment clean."
+      ],
       "explanation": "Gerund subject -> It + be + adj + to V."
     },
     {
@@ -443,7 +593,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "You need",
       "answer": "You need to finish the work today.",
-      "acceptedAnswers": ["You need to finish the work today.", "You need to finish the work today"],
+      "acceptedAnswers": [
+        "You need to finish the work today.",
+        "You need to finish the work today"
+      ],
       "explanation": "It is necessary to V = You need to V."
     },
     {
@@ -453,7 +606,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "Sally finally succeeded",
       "answer": "Sally finally succeeded in getting the job.",
-      "acceptedAnswers": ["Sally finally succeeded in getting the job.", "Sally finally succeeded in getting the job"],
+      "acceptedAnswers": [
+        "Sally finally succeeded in getting the job.",
+        "Sally finally succeeded in getting the job"
+      ],
       "explanation": "Manage to V = succeed in V-ing."
     },
     {
@@ -463,7 +619,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "It",
       "answer": "It takes me 20 minutes to walk to school everyday.",
-      "acceptedAnswers": ["It takes me 20 minutes to walk to school everyday.", "It takes me 20 minutes to walk to school every day."],
+      "acceptedAnswers": [
+        "It takes me 20 minutes to walk to school everyday.",
+        "It takes me 20 minutes to walk to school every day."
+      ],
       "explanation": "It takes + someone + time + to V."
     },
     {
@@ -473,7 +632,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "It",
       "answer": "It often takes us 30 minutes to review our lesson before class.",
-      "acceptedAnswers": ["It often takes us 30 minutes to review our lesson before class.", "It often takes us 30 minutes to review our lesson before class"],
+      "acceptedAnswers": [
+        "It often takes us 30 minutes to review our lesson before class.",
+        "It often takes us 30 minutes to review our lesson before class"
+      ],
       "explanation": "S + spend + time + V-ing = It takes + S + time + to V."
     },
     {
@@ -483,7 +645,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "He",
       "answer": "He spent twelve hours flying from Hanoi to London.",
-      "acceptedAnswers": ["He spent twelve hours flying from Hanoi to London.", "He spent twelve hours flying from Hanoi to London"],
+      "acceptedAnswers": [
+        "He spent twelve hours flying from Hanoi to London.",
+        "He spent twelve hours flying from Hanoi to London"
+      ],
       "explanation": "It takes + S + time + to V = S + spend + time + V-ing."
     },
     {
@@ -493,7 +658,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "Tam used",
       "answer": "Tam used to type faster than she does now.",
-      "acceptedAnswers": ["Tam used to type faster than she does now.", "Tam used to type faster."],
+      "acceptedAnswers": [
+        "Tam used to type faster than she does now.",
+        "Tam used to type faster."
+      ],
       "explanation": "Not as...as now = used to + comparative."
     },
     {
@@ -503,7 +671,10 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "I'm looking",
       "answer": "I'm looking forward to the upcoming pottery workshop.",
-      "acceptedAnswers": ["I'm looking forward to the upcoming pottery workshop.", "I'm looking forward to the upcoming pottery workshop"],
+      "acceptedAnswers": [
+        "I'm looking forward to the upcoming pottery workshop.",
+        "I'm looking forward to the upcoming pottery workshop"
+      ],
       "explanation": "Be excited about = look forward to + noun/V-ing."
     },
     {
@@ -513,7 +684,12 @@
       "instruction": "Rewrite using the word in brackets: (since)",
       "starterText": "I",
       "answer": "I haven't read a book since September 20th.",
-      "acceptedAnswers": ["I haven't read a book since September 20th.", "I haven't read a book since September 20th", "I have not read a book since September 20th.", "I have not read a book since September 20th"],
+      "acceptedAnswers": [
+        "I haven't read a book since September 20th.",
+        "I haven't read a book since September 20th",
+        "I have not read a book since September 20th.",
+        "I have not read a book since September 20th"
+      ],
       "explanation": "S + last + V2/ed = S + haven't/hasn't + V3 + since + time."
     },
     {
@@ -523,7 +699,10 @@
       "instruction": "Rewrite using the word in brackets: (has)",
       "starterText": "Ann",
       "answer": "Ann has been interested in healthy eating for 3 years.",
-      "acceptedAnswers": ["Ann has been interested in healthy eating for 3 years.", "Ann has been interested in healthy eating for 3 years"],
+      "acceptedAnswers": [
+        "Ann has been interested in healthy eating for 3 years.",
+        "Ann has been interested in healthy eating for 3 years"
+      ],
       "explanation": "Began + time + ago = has/have + V3 + for + time."
     },
     {
@@ -533,7 +712,10 @@
       "instruction": "Rewrite using the word in brackets: (have)",
       "starterText": "We",
       "answer": "We are going to have the kitchen redecorated next month.",
-      "acceptedAnswers": ["We are going to have the kitchen redecorated next month.", "We are going to have the kitchen redecorated next month"],
+      "acceptedAnswers": [
+        "We are going to have the kitchen redecorated next month.",
+        "We are going to have the kitchen redecorated next month"
+      ],
       "explanation": "Causative: have + something + V3 (have something done)."
     },
     {
@@ -543,7 +725,10 @@
       "instruction": "Rewrite using the word in brackets: (is)",
       "starterText": "It",
       "answer": "It is hoped that cable-car construction to Son Doong Cave will be stopped.",
-      "acceptedAnswers": ["It is hoped that cable-car construction to Son Doong Cave will be stopped.", "It is hoped that cable-car construction to Son Doong Cave will be stopped"],
+      "acceptedAnswers": [
+        "It is hoped that cable-car construction to Son Doong Cave will be stopped.",
+        "It is hoped that cable-car construction to Son Doong Cave will be stopped"
+      ],
       "explanation": "People hope that... = It is hoped that..."
     },
     {
@@ -553,7 +738,10 @@
       "instruction": "Rewrite using the word in brackets: (was)",
       "starterText": "My teacher",
       "answer": "My teacher asked me when I was going to submit my research paper.",
-      "acceptedAnswers": ["My teacher asked me when I was going to submit my research paper.", "My teacher asked me when I was going to submit my research paper"],
+      "acceptedAnswers": [
+        "My teacher asked me when I was going to submit my research paper.",
+        "My teacher asked me when I was going to submit my research paper"
+      ],
       "explanation": "Reported question with tense shift: are going -> was going."
     },
     {
@@ -563,7 +751,11 @@
       "instruction": "Rewrite using the word in brackets: (who)",
       "starterText": "Mr. Son,",
       "answer": "Mr. Son, who spends all his life saving patients, is admired by us all.",
-      "acceptedAnswers": ["Mr. Son, who spends all his life saving patients, is admired by us all.", "Mr. Son, who we all admire, spends all his life saving patients.", "Mr. Son, whom we all admire, spends all his life saving patients."],
+      "acceptedAnswers": [
+        "Mr. Son, who spends all his life saving patients, is admired by us all.",
+        "Mr. Son, who we all admire, spends all his life saving patients.",
+        "Mr. Son, whom we all admire, spends all his life saving patients."
+      ],
       "explanation": "Relative clause with 'who' for non-defining clause."
     },
     {
@@ -573,7 +765,10 @@
       "instruction": "Rewrite using the word in brackets: (whose)",
       "starterText": "Andy",
       "answer": "Andy has a lovely cat whose fur is white.",
-      "acceptedAnswers": ["Andy has a lovely cat whose fur is white.", "Andy has a lovely cat whose fur is white"],
+      "acceptedAnswers": [
+        "Andy has a lovely cat whose fur is white.",
+        "Andy has a lovely cat whose fur is white"
+      ],
       "explanation": "Relative pronoun 'whose' shows possession."
     },
     {
@@ -583,7 +778,10 @@
       "instruction": "Rewrite using the word in brackets: (whose)",
       "starterText": "Mr Dean,",
       "answer": "Mr Dean, whose team has lost the game, looks very sad.",
-      "acceptedAnswers": ["Mr Dean, whose team has lost the game, looks very sad.", "Mr. Dean, whose team has lost the game, looks very sad."],
+      "acceptedAnswers": [
+        "Mr Dean, whose team has lost the game, looks very sad.",
+        "Mr. Dean, whose team has lost the game, looks very sad."
+      ],
       "explanation": "Non-defining relative clause with 'whose' for possession."
     },
     {
@@ -593,7 +791,10 @@
       "instruction": "Rewrite using the word in brackets: (wish)",
       "starterText": "I",
       "answer": "I wish I had a facebook account.",
-      "acceptedAnswers": ["I wish I had a facebook account.", "I wish I had a facebook account"],
+      "acceptedAnswers": [
+        "I wish I had a facebook account.",
+        "I wish I had a facebook account"
+      ],
       "explanation": "Wish + past simple for present unreal wishes."
     },
     {
@@ -603,7 +804,10 @@
       "instruction": "Rewrite using the word in brackets: (wish)",
       "starterText": "I",
       "answer": "I wish she shared memories of her trip with me.",
-      "acceptedAnswers": ["I wish she shared memories of her trip with me.", "I wish she would share memories of her trip with me."],
+      "acceptedAnswers": [
+        "I wish she shared memories of her trip with me.",
+        "I wish she would share memories of her trip with me."
+      ],
       "explanation": "Wish + past simple for present unreal situations."
     },
     {
@@ -613,7 +817,10 @@
       "instruction": "Rewrite using the word in brackets: (wish)",
       "starterText": "I",
       "answer": "I wish I had studied harder for the exam.",
-      "acceptedAnswers": ["I wish I had studied harder for the exam.", "I wish I had studied harder for the exam"],
+      "acceptedAnswers": [
+        "I wish I had studied harder for the exam.",
+        "I wish I had studied harder for the exam"
+      ],
       "explanation": "Wish + past perfect for past regrets."
     },
     {
@@ -623,7 +830,11 @@
       "instruction": "Rewrite using the word in brackets: (suggested)",
       "starterText": "She",
       "answer": "She suggested surfing the net for the location of Ninh Binh Province.",
-      "acceptedAnswers": ["She suggested surfing the net for the location of Ninh Binh Province.", "She suggested that they should surf the net for the location of Ninh Binh Province.", "She suggested that they surf the net for the location of Ninh Binh Province."],
+      "acceptedAnswers": [
+        "She suggested surfing the net for the location of Ninh Binh Province.",
+        "She suggested that they should surf the net for the location of Ninh Binh Province.",
+        "She suggested that they surf the net for the location of Ninh Binh Province."
+      ],
       "explanation": "Shall we...? = S + suggested + V-ing."
     },
     {
@@ -633,7 +844,10 @@
       "instruction": "Rewrite using the word in brackets: (as)",
       "starterText": "This",
       "answer": "This book is as boring as that one.",
-      "acceptedAnswers": ["This book is as boring as that one.", "This book is as boring as that one"],
+      "acceptedAnswers": [
+        "This book is as boring as that one.",
+        "This book is as boring as that one"
+      ],
       "explanation": "Both equally boring = as...as comparison."
     },
     {
@@ -643,7 +857,10 @@
       "instruction": "Rewrite using the word in brackets: (more)",
       "starterText": "The",
       "answer": "The more countries she visits, the more friends she has.",
-      "acceptedAnswers": ["The more countries she visits, the more friends she has.", "The more countries she visits, the more friends she has"],
+      "acceptedAnswers": [
+        "The more countries she visits, the more friends she has.",
+        "The more countries she visits, the more friends she has"
+      ],
       "explanation": "Double comparative: The more...the more..."
     },
     {
@@ -653,7 +870,10 @@
       "instruction": "Rewrite using the word in brackets: (if)",
       "starterText": "I",
       "answer": "I could help her with her history homework if I knew more about historical events.",
-      "acceptedAnswers": ["I could help her with her history homework if I knew more about historical events.", "If I knew more about historical events, I could help her with her history homework."],
+      "acceptedAnswers": [
+        "I could help her with her history homework if I knew more about historical events.",
+        "If I knew more about historical events, I could help her with her history homework."
+      ],
       "explanation": "Second conditional: If + V2/ed, S + would/could + V."
     },
     {
@@ -663,7 +883,12 @@
       "instruction": "Rewrite using the word in brackets: (if)",
       "starterText": "I",
       "answer": "I will go out for dinner if I don't have to work tonight.",
-      "acceptedAnswers": ["I will go out for dinner if I don't have to work tonight.", "If I don't have to work tonight, I will go out for dinner.", "I will go out for dinner if I do not have to work tonight.", "If I do not have to work tonight, I will go out for dinner."],
+      "acceptedAnswers": [
+        "I will go out for dinner if I don't have to work tonight.",
+        "If I don't have to work tonight, I will go out for dinner.",
+        "I will go out for dinner if I do not have to work tonight.",
+        "If I do not have to work tonight, I will go out for dinner."
+      ],
       "explanation": "First conditional: If + present simple, S + will + V."
     },
     {
@@ -673,7 +898,14 @@
       "instruction": "Rewrite using the word in brackets: (if)",
       "starterText": "If",
       "answer": "If I had taken my parents' advice, I wouldn't have got into a lot of troubles.",
-      "acceptedAnswers": ["If I had taken my parents' advice, I wouldn't have got into a lot of troubles.", "If I had taken my parents' advice, I wouldn't have gotten into a lot of troubles.", "If I had taken my parents' advice, I would not have got into a lot of troubles.", "If I had taken my parents' advice, I wouldn't have got into a lot of trouble.", "If I had taken my parents' advice, I would not have gotten into a lot of troubles.", "If I had taken my parents' advice, I would not have got into a lot of trouble."],
+      "acceptedAnswers": [
+        "If I had taken my parents' advice, I wouldn't have got into a lot of troubles.",
+        "If I had taken my parents' advice, I wouldn't have gotten into a lot of troubles.",
+        "If I had taken my parents' advice, I would not have got into a lot of troubles.",
+        "If I had taken my parents' advice, I wouldn't have got into a lot of trouble.",
+        "If I had taken my parents' advice, I would not have gotten into a lot of troubles.",
+        "If I had taken my parents' advice, I would not have got into a lot of trouble."
+      ],
       "explanation": "Third conditional: If + had + V3, S + would have + V3."
     },
     {
@@ -683,7 +915,10 @@
       "instruction": "Rewrite using the word in brackets: (find)",
       "starterText": "I",
       "answer": "I find the news about ancient towns interesting.",
-      "acceptedAnswers": ["I find the news about ancient towns interesting.", "I find the news about ancient towns interesting"],
+      "acceptedAnswers": [
+        "I find the news about ancient towns interesting.",
+        "I find the news about ancient towns interesting"
+      ],
       "explanation": "Be interested in = find + something + interesting."
     },
     {
@@ -693,7 +928,10 @@
       "instruction": "Rewrite using the word in brackets: (so)",
       "starterText": "It",
       "answer": "It is going to rain, so you should bring a raincoat with you.",
-      "acceptedAnswers": ["It is going to rain, so you should bring a raincoat with you.", "It is going to rain, so you should bring a raincoat with you"],
+      "acceptedAnswers": [
+        "It is going to rain, so you should bring a raincoat with you.",
+        "It is going to rain, so you should bring a raincoat with you"
+      ],
       "explanation": "'So' connects a cause to its result."
     },
     {
@@ -703,7 +941,11 @@
       "instruction": "Rewrite using the word in brackets: (because of)",
       "starterText": "I",
       "answer": "I couldn't go to the airport to see her off because of my illness.",
-      "acceptedAnswers": ["I couldn't go to the airport to see her off because of my illness.", "I couldn't go to the airport to see her off because of being ill.", "I could not go to the airport to see her off because of my illness."],
+      "acceptedAnswers": [
+        "I couldn't go to the airport to see her off because of my illness.",
+        "I couldn't go to the airport to see her off because of being ill.",
+        "I could not go to the airport to see her off because of my illness."
+      ],
       "explanation": "Because + clause = Because of + noun/gerund."
     },
     {
@@ -713,7 +955,10 @@
       "instruction": "Rewrite using the word in brackets: (get)",
       "starterText": "When",
       "answer": "When did you get your new car?",
-      "acceptedAnswers": ["When did you get your new car?", "When did you get your new car"],
+      "acceptedAnswers": [
+        "When did you get your new car?",
+        "When did you get your new car"
+      ],
       "explanation": "How long have you had = When did you get."
     },
     {
@@ -723,7 +968,10 @@
       "instruction": "Rewrite using the word in brackets: (unless)",
       "starterText": "I'll",
       "answer": "I'll call the police unless you leave the shop.",
-      "acceptedAnswers": ["I'll call the police unless you leave the shop.", "I'll call the police unless you leave the shop"],
+      "acceptedAnswers": [
+        "I'll call the police unless you leave the shop.",
+        "I'll call the police unless you leave the shop"
+      ],
       "explanation": "Or = unless (if...not)."
     },
     {
@@ -733,7 +981,10 @@
       "instruction": "Rewrite using the word in brackets: (by)",
       "starterText": "This castle",
       "answer": "This castle was built by the Lord of Brecon in 1286.",
-      "acceptedAnswers": ["This castle was built by the Lord of Brecon in 1286.", "This castle was built in 1286 by the Lord of Brecon."],
+      "acceptedAnswers": [
+        "This castle was built by the Lord of Brecon in 1286.",
+        "This castle was built in 1286 by the Lord of Brecon."
+      ],
       "explanation": "Active to passive: S + was/were + V3 + by + agent."
     },
     {
@@ -743,7 +994,10 @@
       "instruction": "Rewrite using the word in brackets: (allowed)",
       "starterText": "We were not",
       "answer": "We were not allowed to leave the school.",
-      "acceptedAnswers": ["We were not allowed to leave the school.", "We were not allowed to leave the school by our teachers."],
+      "acceptedAnswers": [
+        "We were not allowed to leave the school.",
+        "We were not allowed to leave the school by our teachers."
+      ],
       "explanation": "Never let = were not allowed to."
     },
     {
@@ -753,7 +1007,10 @@
       "instruction": "Rewrite using the word in brackets: (was)",
       "starterText": "While I",
       "answer": "While I was watching the film on TV, the phone rang.",
-      "acceptedAnswers": ["While I was watching the film on TV, the phone rang.", "While I was watching the film on TV, the phone rang"],
+      "acceptedAnswers": [
+        "While I was watching the film on TV, the phone rang.",
+        "While I was watching the film on TV, the phone rang"
+      ],
       "explanation": "During + noun = While + S + was/were + V-ing."
     },
     {
@@ -763,7 +1020,10 @@
       "instruction": "Rewrite using the word in brackets: (doing)",
       "starterText": "What",
       "answer": "What are you doing next Wednesday evening?",
-      "acceptedAnswers": ["What are you doing next Wednesday evening?", "What are you doing next Wednesday evening"],
+      "acceptedAnswers": [
+        "What are you doing next Wednesday evening?",
+        "What are you doing next Wednesday evening"
+      ],
       "explanation": "Have plans for = What are you doing (present continuous for future plans)."
     },
     {
@@ -773,7 +1033,10 @@
       "instruction": "Rewrite using the word in brackets: (blown)",
       "starterText": "The two ancient trees",
       "answer": "The two ancient trees were blown down by the strong winds during the storm.",
-      "acceptedAnswers": ["The two ancient trees were blown down by the strong winds during the storm.", "The two ancient trees were blown down during the storm."],
+      "acceptedAnswers": [
+        "The two ancient trees were blown down by the strong winds during the storm.",
+        "The two ancient trees were blown down during the storm."
+      ],
       "explanation": "Passive: S + were + V3 (blown) + by agent."
     },
     {
@@ -783,7 +1046,10 @@
       "instruction": "Rewrite using the word in brackets: (too)",
       "starterText": "The computer",
       "answer": "The computer is too expensive for him to buy.",
-      "acceptedAnswers": ["The computer is too expensive for him to buy.", "The computer is too expensive for him to buy"],
+      "acceptedAnswers": [
+        "The computer is too expensive for him to buy.",
+        "The computer is too expensive for him to buy"
+      ],
       "explanation": "Not enough = too + opposite adjective + for sb + to V."
     },
     {
@@ -793,7 +1059,10 @@
       "instruction": "Rewrite using the word in brackets: (take)",
       "starterText": "The doctor advised",
       "answer": "The doctor advised Mr. Smith to take up a new hobby.",
-      "acceptedAnswers": ["The doctor advised Mr. Smith to take up a new hobby.", "The doctor advised Mr. Smith to take up a new hobby"],
+      "acceptedAnswers": [
+        "The doctor advised Mr. Smith to take up a new hobby.",
+        "The doctor advised Mr. Smith to take up a new hobby"
+      ],
       "explanation": "Reported advice: advised + object + to V. 'Start' = 'take up' a hobby."
     },
     {
@@ -803,7 +1072,10 @@
       "instruction": "Rewrite using the word in brackets: (watched)",
       "starterText": "The man suddenly realized that he",
       "answer": "The man suddenly realized that he was being watched by the neighbor.",
-      "acceptedAnswers": ["The man suddenly realized that he was being watched by the neighbor.", "The man suddenly realized that he was being watched by the neighbour."],
+      "acceptedAnswers": [
+        "The man suddenly realized that he was being watched by the neighbor.",
+        "The man suddenly realized that he was being watched by the neighbour."
+      ],
       "explanation": "Past continuous passive: was/were + being + V3."
     },
     {
@@ -813,7 +1085,12 @@
       "instruction": "Rewrite using the word in brackets: (you)",
       "starterText": "I could never",
       "answer": "I could never have passed the exam if you hadn't helped me.",
-      "acceptedAnswers": ["I could never have passed the exam if you hadn't helped me.", "I could never have passed the exam if you had not helped me.", "I could never have passed the exam if you hadn't helped me", "I could never have passed the exam if you had not helped me"],
+      "acceptedAnswers": [
+        "I could never have passed the exam if you hadn't helped me.",
+        "I could never have passed the exam if you had not helped me.",
+        "I could never have passed the exam if you hadn't helped me",
+        "I could never have passed the exam if you had not helped me"
+      ],
       "explanation": "Without your help = if you hadn't helped me (third conditional)."
     },
     {
@@ -823,7 +1100,10 @@
       "instruction": "Rewrite using the word in brackets: (had)",
       "starterText": "We had",
       "answer": "We had the garden landscaped last year.",
-      "acceptedAnswers": ["We had the garden landscaped last year.", "We had the garden landscaped for us last year."],
+      "acceptedAnswers": [
+        "We had the garden landscaped last year.",
+        "We had the garden landscaped for us last year."
+      ],
       "explanation": "Causative: have + something + V3."
     },
     {
@@ -833,7 +1113,11 @@
       "instruction": "Rewrite using the word in brackets: (suggested)",
       "starterText": "Kate",
       "answer": "Kate suggested going to the cinema.",
-      "acceptedAnswers": ["Kate suggested going to the cinema.", "Kate suggested that they go to the cinema.", "Kate suggested that they should go to the cinema."],
+      "acceptedAnswers": [
+        "Kate suggested going to the cinema.",
+        "Kate suggested that they go to the cinema.",
+        "Kate suggested that they should go to the cinema."
+      ],
       "explanation": "How about + V-ing = S + suggested + V-ing."
     },
     {
@@ -843,7 +1127,12 @@
       "instruction": "Rewrite using the word in brackets: (would)",
       "starterText": "If",
       "answer": "If I were you, I would talk to my parents.",
-      "acceptedAnswers": ["If I were you, I would talk to my parents.", "If I were you, I would talk to your parents.", "If I were you, I'd talk to my parents.", "If I was you, I would talk to my parents."],
+      "acceptedAnswers": [
+        "If I were you, I would talk to my parents.",
+        "If I were you, I would talk to your parents.",
+        "If I were you, I'd talk to my parents.",
+        "If I was you, I would talk to my parents."
+      ],
       "explanation": "My advice = If I were you, I would..."
     },
     {
@@ -853,7 +1142,10 @@
       "instruction": "Rewrite using the word in brackets: (weak)",
       "starterText": "Mary was",
       "answer": "Mary was too weak to lift the box.",
-      "acceptedAnswers": ["Mary was too weak to lift the box.", "Mary was too weak to lift the box"],
+      "acceptedAnswers": [
+        "Mary was too weak to lift the box.",
+        "Mary was too weak to lift the box"
+      ],
       "explanation": "Not strong enough = too weak to V."
     },
     {
@@ -863,7 +1155,10 @@
       "instruction": "Rewrite using the word in brackets: (in order)",
       "starterText": "They paid for dinner",
       "answer": "They paid for dinner in order to apologize for their behavior.",
-      "acceptedAnswers": ["They paid for dinner in order to apologize for their behavior.", "They paid for dinner in order to apologise for their behaviour."],
+      "acceptedAnswers": [
+        "They paid for dinner in order to apologize for their behavior.",
+        "They paid for dinner in order to apologise for their behaviour."
+      ],
       "explanation": "That's why = in order to (purpose)."
     },
     {
@@ -873,7 +1168,11 @@
       "instruction": "Rewrite using the word in brackets: (have to)",
       "starterText": "You",
       "answer": "You don't have to bring drinks as they are included in the package.",
-      "acceptedAnswers": ["You don't have to bring drinks as they are included in the package.", "You don't have to bring drinks as they are included in the package", "You do not have to bring drinks as they are included in the package."],
+      "acceptedAnswers": [
+        "You don't have to bring drinks as they are included in the package.",
+        "You don't have to bring drinks as they are included in the package",
+        "You do not have to bring drinks as they are included in the package."
+      ],
       "explanation": "It isn't necessary = don't have to."
     },
     {
@@ -883,7 +1182,10 @@
       "instruction": "Rewrite using the word in brackets: (He)",
       "starterText": "Tom said",
       "answer": "Tom said he would be playing tennis when I arrived.",
-      "acceptedAnswers": ["Tom said he would be playing tennis when I arrived.", "Tom said that he would be playing tennis when I arrived."],
+      "acceptedAnswers": [
+        "Tom said he would be playing tennis when I arrived.",
+        "Tom said that he would be playing tennis when I arrived."
+      ],
       "explanation": "Reported speech: will -> would, you -> I, arrive -> arrived."
     },
     {
@@ -893,7 +1195,10 @@
       "instruction": "Rewrite using the word in brackets: (used)",
       "starterText": "When I was a child,",
       "answer": "When I was a child, I used to go to the park every Saturday afternoon.",
-      "acceptedAnswers": ["When I was a child, I used to go to the park every Saturday afternoon.", "When I was a child, I used to go to the park every Saturday afternoon"],
+      "acceptedAnswers": [
+        "When I was a child, I used to go to the park every Saturday afternoon.",
+        "When I was a child, I used to go to the park every Saturday afternoon"
+      ],
       "explanation": "Would + V (past habit) = used to + V."
     },
     {
@@ -903,7 +1208,10 @@
       "instruction": "Rewrite using the word in brackets: (lived)",
       "starterText": "They",
       "answer": "They have lived in this suburb since 1990.",
-      "acceptedAnswers": ["They have lived in this suburb since 1990.", "They have lived in this suburb since 1990"],
+      "acceptedAnswers": [
+        "They have lived in this suburb since 1990.",
+        "They have lived in this suburb since 1990"
+      ],
       "explanation": "Past simple + time = present perfect + since + time."
     },
     {
@@ -913,17 +1221,23 @@
       "instruction": "Rewrite using the word in brackets: (interest)",
       "starterText": "Mike",
       "answer": "Mike took an interest in North American history in his school days.",
-      "acceptedAnswers": ["Mike took an interest in North American history in his school days.", "Mike had an interest in North American history in his school days."],
+      "acceptedAnswers": [
+        "Mike took an interest in North American history in his school days.",
+        "Mike had an interest in North American history in his school days."
+      ],
       "explanation": "Was interested in = took/had an interest in."
     },
     {
       "id": 92,
       "type": "sentence-rewrite",
-      "original": "When it comes to population, Beijing is much bigger than Auckland's.",
+      "original": "When ít comes to population, Beijing is much bigger than Auckland's.",
       "instruction": "Rewrite using the word in brackets: (populated)",
       "starterText": "Beijing is",
       "answer": "Beijing is much more populated than Auckland.",
-      "acceptedAnswers": ["Beijing is much more populated than Auckland.", "Beijing is much more heavily populated than Auckland."],
+      "acceptedAnswers": [
+        "Beijing is much more populated than Auckland.",
+        "Beijing is much more heavily populated than Auckland."
+      ],
       "explanation": "Bigger in population = more populated."
     },
     {
@@ -933,7 +1247,11 @@
       "instruction": "Rewrite using the word in brackets: (mind)",
       "starterText": "Would you",
       "answer": "Would you mind giving me a hand to move the sofa?",
-      "acceptedAnswers": ["Would you mind giving me a hand to move the sofa?", "Would you mind giving me a hand to move the sofa", "Would you mind helping me move the sofa?"],
+      "acceptedAnswers": [
+        "Would you mind giving me a hand to move the sofa?",
+        "Would you mind giving me a hand to move the sofa",
+        "Would you mind helping me move the sofa?"
+      ],
       "explanation": "Could you = Would you mind + V-ing."
     },
     {
@@ -943,7 +1261,10 @@
       "instruction": "Rewrite using the word in brackets: (keen)",
       "starterText": "Jerry",
       "answer": "Jerry is keen on Simon.",
-      "acceptedAnswers": ["Jerry is keen on Simon.", "Jerry is really keen on Simon."],
+      "acceptedAnswers": [
+        "Jerry is keen on Simon.",
+        "Jerry is really keen on Simon."
+      ],
       "explanation": "Really likes = is keen on."
     },
     {
@@ -953,7 +1274,10 @@
       "instruction": "Rewrite using the word in brackets: (opened)",
       "starterText": "The new school",
       "answer": "The new school is being opened by the Queen.",
-      "acceptedAnswers": ["The new school is being opened by the Queen.", "The new school is being opened by the Queen"],
+      "acceptedAnswers": [
+        "The new school is being opened by the Queen.",
+        "The new school is being opened by the Queen"
+      ],
       "explanation": "Present continuous passive: is/are + being + V3."
     },
     {
@@ -963,7 +1287,11 @@
       "instruction": "Rewrite using the word in brackets: (learned)",
       "starterText": "Mark has",
       "answer": "Mark has learned French for two years.",
-      "acceptedAnswers": ["Mark has learned French for two years.", "Mark has learnt French for two years.", "Mark has been learning French for two years."],
+      "acceptedAnswers": [
+        "Mark has learned French for two years.",
+        "Mark has learnt French for two years.",
+        "Mark has been learning French for two years."
+      ],
       "explanation": "Started + time + ago = has + V3 + for + time."
     },
     {
@@ -973,7 +1301,10 @@
       "instruction": "Rewrite using the word in brackets: (yours)",
       "starterText": "Is",
       "answer": "Is that car yours?",
-      "acceptedAnswers": ["Is that car yours?", "Is that car yours"],
+      "acceptedAnswers": [
+        "Is that car yours?",
+        "Is that car yours"
+      ],
       "explanation": "Do you own = Is + noun + yours?"
     },
     {
@@ -983,7 +1314,12 @@
       "instruction": "Rewrite using the word in brackets: (going)",
       "starterText": "Look at those black clouds! It",
       "answer": "Look at those black clouds! It is going to rain.",
-      "acceptedAnswers": ["Look at those black clouds! It is going to rain.", "Look at those black clouds! It is going to rain", "Look at those black clouds! It's going to rain.", "Look at those black clouds! It's going to rain"],
+      "acceptedAnswers": [
+        "Look at those black clouds! It is going to rain.",
+        "Look at those black clouds! It is going to rain",
+        "Look at those black clouds! It's going to rain.",
+        "Look at those black clouds! It's going to rain"
+      ],
       "explanation": "There is rain arriving = It is going to rain."
     },
     {
@@ -993,7 +1329,10 @@
       "instruction": "Rewrite using the word in brackets: (wish)",
       "starterText": "I",
       "answer": "I wish I had a new computer.",
-      "acceptedAnswers": ["I wish I had a new computer.", "I wish I had a new computer"],
+      "acceptedAnswers": [
+        "I wish I had a new computer.",
+        "I wish I had a new computer"
+      ],
       "explanation": "Wish + past simple for present unreal wishes."
     },
     {
@@ -1003,7 +1342,10 @@
       "instruction": "Rewrite using the word in brackets: (being)",
       "starterText": "My car",
       "answer": "My car was being stolen by the teenagers when I arrived.",
-      "acceptedAnswers": ["My car was being stolen by the teenagers when I arrived.", "My car was being stolen when I arrived."],
+      "acceptedAnswers": [
+        "My car was being stolen by the teenagers when I arrived.",
+        "My car was being stolen when I arrived."
+      ],
       "explanation": "Past continuous passive: was/were + being + V3."
     },
     {
@@ -1013,7 +1355,12 @@
       "instruction": "Rewrite using the word in brackets: (since)",
       "starterText": "John hasn't",
       "answer": "John hasn't seen me since 2000.",
-      "acceptedAnswers": ["John hasn't seen me since 2000.", "John hasn't seen me since 2000", "John has not seen me since 2000.", "John has not seen me since 2000"],
+      "acceptedAnswers": [
+        "John hasn't seen me since 2000.",
+        "John hasn't seen me since 2000",
+        "John has not seen me since 2000.",
+        "John has not seen me since 2000"
+      ],
       "explanation": "The last time + V2/ed + was + time = haven't/hasn't + V3 + since + time."
     },
     {
@@ -1023,7 +1370,10 @@
       "instruction": "Rewrite using the word in brackets: (last)",
       "starterText": "The",
       "answer": "The last time I went swimming was nearly a year ago.",
-      "acceptedAnswers": ["The last time I went swimming was nearly a year ago.", "The last time I went swimming was nearly a year ago"],
+      "acceptedAnswers": [
+        "The last time I went swimming was nearly a year ago.",
+        "The last time I went swimming was nearly a year ago"
+      ],
       "explanation": "Haven't + V3 + for = The last time + V2/ed + was + time + ago."
     },
     {
@@ -1033,7 +1383,10 @@
       "instruction": "Rewrite using the word in brackets: (had)",
       "starterText": "I wish",
       "answer": "I wish I had spoken to Ms. Hoa sooner.",
-      "acceptedAnswers": ["I wish I had spoken to Ms. Hoa sooner.", "I wish I had spoken to Ms. Hoa sooner"],
+      "acceptedAnswers": [
+        "I wish I had spoken to Ms. Hoa sooner.",
+        "I wish I had spoken to Ms. Hoa sooner"
+      ],
       "explanation": "Regret not + V-ing = wish + had + V3 (past regret)."
     },
     {
@@ -1043,7 +1396,10 @@
       "instruction": "Rewrite using the word in brackets: (were)",
       "starterText": "Yesterday, two",
       "answer": "Yesterday, two old trees in the local park were cut down.",
-      "acceptedAnswers": ["Yesterday, two old trees in the local park were cut down.", "Yesterday, two old trees were cut down in the local park."],
+      "acceptedAnswers": [
+        "Yesterday, two old trees in the local park were cut down.",
+        "Yesterday, two old trees were cut down in the local park."
+      ],
       "explanation": "Active to passive with past simple."
     },
     {
@@ -1053,7 +1409,10 @@
       "instruction": "Rewrite using the word in brackets: (so as)",
       "starterText": "I walked quietly",
       "answer": "I walked quietly so as not to wake the baby.",
-      "acceptedAnswers": ["I walked quietly so as not to wake the baby.", "I walked quietly so as not to wake the baby"],
+      "acceptedAnswers": [
+        "I walked quietly so as not to wake the baby.",
+        "I walked quietly so as not to wake the baby"
+      ],
       "explanation": "Because + didn't want = so as not to V (purpose)."
     },
     {
@@ -1063,7 +1422,12 @@
       "instruction": "Rewrite using the word in brackets: (never)",
       "starterText": "I",
       "answer": "I have never drunk coffee before.",
-      "acceptedAnswers": ["I have never drunk coffee before.", "I have never drunk coffee before", "I've never drunk coffee before.", "I've never drunk coffee before"],
+      "acceptedAnswers": [
+        "I have never drunk coffee before.",
+        "I have never drunk coffee before",
+        "I've never drunk coffee before.",
+        "I've never drunk coffee before"
+      ],
       "explanation": "This is the first time + have V3 = have never + V3 + before."
     },
     {
@@ -1073,7 +1437,10 @@
       "instruction": "Rewrite using the word in brackets: (delivers)",
       "starterText": "Do you know how many",
       "answer": "Do you know how many letters the post office delivers every year?",
-      "acceptedAnswers": ["Do you know how many letters the post office delivers every year?", "Do you know how many letters the post office delivers every year"],
+      "acceptedAnswers": [
+        "Do you know how many letters the post office delivers every year?",
+        "Do you know how many letters the post office delivers every year"
+      ],
       "explanation": "Passive to active: move agent to subject position."
     },
     {
@@ -1083,7 +1450,10 @@
       "instruction": "Rewrite using the word in brackets: (would)",
       "starterText": "I wish",
       "answer": "I wish you would stop interrupting me all the time.",
-      "acceptedAnswers": ["I wish you would stop interrupting me all the time.", "I wish you would stop interrupting me all the time"],
+      "acceptedAnswers": [
+        "I wish you would stop interrupting me all the time.",
+        "I wish you would stop interrupting me all the time"
+      ],
       "explanation": "Wish + would for complaints about annoying behavior."
     },
     {
@@ -1093,18 +1463,24 @@
       "instruction": "Rewrite using the word in brackets: (might)",
       "starterText": "My car keys",
       "answer": "My car keys might be in the kitchen.",
-      "acceptedAnswers": ["My car keys might be in the kitchen.", "My car keys might be in the kitchen"],
+      "acceptedAnswers": [
+        "My car keys might be in the kitchen.",
+        "My car keys might be in the kitchen"
+      ],
       "explanation": "Possibly = might (expressing possibility)."
     },
     {
       "id": 110,
       "type": "sentence-rewrite",
-      "original": "Is it a problem if I open the window a little?",
+      "original": "Is ít a problem if I open the window a little?",
       "instruction": "Rewrite using the word in brackets: (mind)",
       "starterText": "Would you",
       "answer": "Would you mind if I opened the window a little?",
-      "acceptedAnswers": ["Would you mind if I opened the window a little?", "Would you mind if I opened the window a little"],
-      "explanation": "Is it a problem if = Would you mind if + past simple."
+      "acceptedAnswers": [
+        "Would you mind if I opened the window a little?",
+        "Would you mind if I opened the window a little"
+      ],
+      "explanation": "Is ít a problem if = Would you mind if + past simple."
     },
     {
       "id": 111,
@@ -1113,7 +1489,10 @@
       "instruction": "Rewrite using the word in brackets: (as)",
       "starterText": "Kate",
       "answer": "Kate works as a teacher.",
-      "acceptedAnswers": ["Kate works as a teacher.", "Kate works as a teacher"],
+      "acceptedAnswers": [
+        "Kate works as a teacher.",
+        "Kate works as a teacher"
+      ],
       "explanation": "Is a teacher = works as a teacher."
     },
     {
@@ -1123,7 +1502,10 @@
       "instruction": "Rewrite using the word in brackets: (ran)",
       "starterText": "I",
       "answer": "I ran into your sister at the airport last week.",
-      "acceptedAnswers": ["I ran into your sister at the airport last week.", "I ran into your sister at the airport last week"],
+      "acceptedAnswers": [
+        "I ran into your sister at the airport last week.",
+        "I ran into your sister at the airport last week"
+      ],
       "explanation": "Met by chance = ran into (phrasal verb)."
     },
     {
@@ -1133,7 +1515,10 @@
       "instruction": "Rewrite using the word in brackets: (stop)",
       "starterText": "The doctor told",
       "answer": "The doctor told me to stop smoking.",
-      "acceptedAnswers": ["The doctor told me to stop smoking.", "The doctor told me to stop smoking"],
+      "acceptedAnswers": [
+        "The doctor told me to stop smoking.",
+        "The doctor told me to stop smoking"
+      ],
       "explanation": "Give up = stop."
     },
     {
@@ -1143,7 +1528,10 @@
       "instruction": "Rewrite using the word in brackets: (leaving)",
       "starterText": "How",
       "answer": "How about leaving after breakfast on Saturday?",
-      "acceptedAnswers": ["How about leaving after breakfast on Saturday?", "How about leaving after breakfast on Saturday"],
+      "acceptedAnswers": [
+        "How about leaving after breakfast on Saturday?",
+        "How about leaving after breakfast on Saturday"
+      ],
       "explanation": "Why don't we + V = How about + V-ing?"
     },
     {
@@ -1153,7 +1541,10 @@
       "instruction": "Rewrite using the word in brackets: (more)",
       "starterText": "I have",
       "answer": "I have never seen a more boring film than this!",
-      "acceptedAnswers": ["I have never seen a more boring film than this!", "I have never seen a more boring film than this"],
+      "acceptedAnswers": [
+        "I have never seen a more boring film than this!",
+        "I have never seen a more boring film than this"
+      ],
       "explanation": "The most + adj + ever = never + a more + adj + than this."
     },
     {
@@ -1163,7 +1554,10 @@
       "instruction": "Rewrite using the word in brackets: (set)",
       "starterText": "We will",
       "answer": "We will have to set off early tomorrow.",
-      "acceptedAnswers": ["We will have to set off early tomorrow.", "We will have to set out early tomorrow."],
+      "acceptedAnswers": [
+        "We will have to set off early tomorrow.",
+        "We will have to set out early tomorrow."
+      ],
       "explanation": "Leave = set off/set out (phrasal verb for starting a journey)."
     },
     {
@@ -1173,7 +1567,12 @@
       "instruction": "Rewrite using the word in brackets: (left)",
       "starterText": "It's",
       "answer": "It's time we left here.",
-      "acceptedAnswers": ["It's time we left here.", "It's time we left here now.", "It is time we left here.", "It is time we left here now."],
+      "acceptedAnswers": [
+        "It's time we left here.",
+        "It's time we left here now.",
+        "It is time we left here.",
+        "It is time we left here now."
+      ],
       "explanation": "Should V now = It's time + S + V2/ed."
     },
     {
@@ -1183,7 +1582,12 @@
       "instruction": "Rewrite using the word in brackets: (so that)",
       "starterText": "He locked",
       "answer": "He locked the door so that the prisoner couldn't escape.",
-      "acceptedAnswers": ["He locked the door so that the prisoner couldn't escape.", "He locked the door so that the prisoner would not escape.", "He locked the door so that the prisoner could not escape.", "He locked the door so that the prisoner wouldn't escape."],
+      "acceptedAnswers": [
+        "He locked the door so that the prisoner couldn't escape.",
+        "He locked the door so that the prisoner would not escape.",
+        "He locked the door so that the prisoner could not escape.",
+        "He locked the door so that the prisoner wouldn't escape."
+      ],
       "explanation": "To prevent = so that + S + couldn't/wouldn't."
     },
     {
@@ -1193,7 +1597,13 @@
       "instruction": "Rewrite using the word in brackets: (rather)",
       "starterText": "I'd",
       "answer": "I'd rather you didn't smoke in this room.",
-      "acceptedAnswers": ["I'd rather you didn't smoke in this room.", "I'd rather you didn't smoke in this room", "I'd rather you did not smoke in this room.", "I would rather you didn't smoke in this room.", "I would rather you did not smoke in this room."],
+      "acceptedAnswers": [
+        "I'd rather you didn't smoke in this room.",
+        "I'd rather you didn't smoke in this room",
+        "I'd rather you did not smoke in this room.",
+        "I would rather you didn't smoke in this room.",
+        "I would rather you did not smoke in this room."
+      ],
       "explanation": "Would rather + S + V2/ed (past subjunctive for polite requests)."
     },
     {
@@ -1203,7 +1613,11 @@
       "instruction": "Rewrite using the word in brackets: (in spite)",
       "starterText": "We didn't",
       "answer": "We didn't go on the picnic in spite of the beautiful weather.",
-      "acceptedAnswers": ["We didn't go on the picnic in spite of the beautiful weather.", "We didn't go on the picnic in spite of the beautiful weather", "We did not go on the picnic in spite of the beautiful weather."],
+      "acceptedAnswers": [
+        "We didn't go on the picnic in spite of the beautiful weather.",
+        "We didn't go on the picnic in spite of the beautiful weather",
+        "We did not go on the picnic in spite of the beautiful weather."
+      ],
       "explanation": "But = in spite of (showing contrast)."
     }
   ]

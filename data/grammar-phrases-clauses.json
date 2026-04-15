@@ -1,48 +1,73 @@
 {
   "topicId": "grammar-phrases-clauses",
-  "title": "Phrases & Clauses (Cum Tu & Menh De)",
+  "title": "Phrases & Clauses (Cụm Từ & Mệnh Đề)",
   "section": "grammar",
   "knowledge": {
-    "html": "<h2>XI. PHRASES & CLAUSES (CUM TU & MENH DE)</h2><h3>1. Cum tu va menh de chi su tuong phan (although / in spite of)</h3><table class=\"grammar-table\"><tr><th>Cum tu chi su tuong phan (mac du)</th><th>Menh de chi su tuong phan (mac du)</th></tr><tr><td>In spite of / Despite + Danh tu / Ngu danh tu / V-ing</td><td>Although / Even though / Though + S + V<br>Despite the fact that<br>In spite of the fact that</td></tr></table><div class=\"example\">Ex: Despite his laziness, he passed the exam.<br>Ex: Although <strong>he was lazy</strong>, he passed the exam.</div><h3>2. Cum tu va menh de chi ly do (because / because of...)</h3><table class=\"grammar-table\"><tr><th>Cum tu chi ly do</th><th>Menh de chi ly do</th></tr><tr><td>Because of / Due to / Owing to + Danh tu / Ngu danh tu / V-ing</td><td>Because / As / Since + S + V, S + V<br>due to the fact that<br>owing to the fact that</td></tr></table><h3>3. Cum tu va menh de chi muc dich (in order to / so that...)</h3><table class=\"grammar-table\"><tr><th>Cum tu chi muc dich</th><th>Menh de chi muc dich</th></tr><tr><td>(in order (not) to / so as (not) to) + V1</td><td>so that + S + will/would/can/could/may/might + V1<br>in order that + S + can/could + V1</td></tr></table><p class=\"vi\">Luu y: Sau \"want, hope\" co tan ngu -> dem tan ngu lam chu tu cho menh de 2.</p><div class=\"example\">Ex: He gave me his address. He wanted me to contact him.<br>=> He gave me his address so that I could contact him.</div><h3>4. Cum tu va menh de chi ket qua</h3><h4>a. too...to / enough</h4><div class=\"formula\">too...to: qua...khong the<br>S + V + too + adj/adv + to V<br>S + V + too + adj + for O + to V<br><br>enough: du...de<br>S + be + adj + enough + (for O) + to V1<br>S + V + enough + N + (for O) + to V1</div><h4>b. so...that / such...that</h4><div class=\"formula\">so...that:<br>S + V + so + adj/adv + that + S + V<br>S + V + so + adj + a + N(it) + that + S + V<br>S + V + so + many/few + N(nhieu) + that + S + V<br>S + V + so + much/little + N(kdd) + that + S + V<br><br>such...that:<br>S + V + such + a/an + adj + N(it) + that + S + V<br>S + V + such + adj + N(nhieu) + that + S + V<br>S + V + such + adj + N(kdd) + that + S + V</div><h4>Dao ngu voi \"so\"</h4><div class=\"formula\">S1 + V + so + adj/adv + that + S + V<br><=> So + adj/adv + V + S1 + that + S + V</div><h4>Mac du (concession):</h4><div class=\"formula\">- Adj/adv + as/though + S + V<br>- However + Adj/Adv + S + V<br>- No matter Wh- + ADJ + S + V (no matter what/how/when/where = whatever/however)<br>- Despite = in spite of + NP<br>- Although/though/even though + Clause</div><h3>5. Clauses of manner (md chi the cach): AS IF & AS THOUGH</h3><table class=\"grammar-table\"><tr><th>Tinh huong</th><th>Cong thuc</th><th>Vi du</th></tr><tr><td>Dieu khong co that o hien tai</td><td>S + V + as if/as though + S + V2/Ved<br>(dung 'were' cho tat ca)</td><td>She dresses as if she was/were an actress.</td></tr><tr><td>Dieu khong co that o qua khu</td><td>S + Vqk + as if/as though + S + had + V3/ved</td><td>He talked about New York as though he had been there before.</td></tr></table><h3>*Would rather</h3><table class=\"grammar-table\"><tr><th>Tinh huong</th><th>Cong thuc</th><th>Vi du</th></tr><tr><td>Gia thiet o HT hoac TL</td><td>S1 + would rather that + S2 + V2/ed</td><td>Mary would rather that her husband worked in the same office as she does.</td></tr><tr><td>Gia thiet o Qua Khu</td><td>S1 + would rather that + S2 + had + V3/V-ed</td><td>She would rather that her husband had gone to the office yesterday.</td></tr></table>"
+    "html": "<h2>XI. PHRASES & CLAUSES (CỤM TỪ & MỆNH ĐỀ)</h2><h3>1. Cụm từ và mệnh đề chỉ sự tương phản (although / in spite of)</h3><table class=\"grammar-table\"><tr><th>Cụm từ chỉ sự tương phản (mặc dù)</th><th>Mệnh đề chỉ sự tương phản (mặc dù)</th></tr><tr><td>In spite of / Despite + Danh từ / Ngu danh từ / V-ing</td><td>Although / Even though / Though + S + V<br>Despite the fact that<br>In spite of the fact that</td></tr></table><div class=\"example\">Ex: Despite his laziness, he passed the exam.<br>Ex: Although <strong>he was lazy</strong>, he passed the exam.</div><h3>2. Cụm từ và mệnh đề chỉ lý do (because / because of...)</h3><table class=\"grammar-table\"><tr><th>Cụm từ chỉ lý do</th><th>Mệnh đề chỉ lý do</th></tr><tr><td>Because of / Due to / Owing to + Danh từ / Ngu danh từ / V-ing</td><td>Because / As / Since + S + V, S + V<br>due to the fact that<br>owing to the fact that</td></tr></table><h3>3. Cụm từ và mệnh đề chỉ mục đích (in order to / so that...)</h3><table class=\"grammar-table\"><tr><th>Cụm từ chỉ mục đích</th><th>Mệnh đề chỉ mục đích</th></tr><tr><td>(in order (not) to / so as (not) to) + V1</td><td>so that + S + will/would/can/could/may/might + V1<br>in order that + S + can/could + V1</td></tr></table><p class=\"vì\">Lưu ý: Sau \"want, hope\" có tân ngữ -> đếm tân ngữ làm chu từ cho mệnh đề 2.</p><div class=\"example\">Ex: He gave me his address. He wanted me to contact him.<br>=> He gave me his address so that I could contact him.</div><h3>4. Cụm từ và mệnh đề chỉ kết quả</h3><h4>a. too...to / enough</h4><div class=\"formula\">too...to: qua...không thế<br>S + V + too + adj/adv + to V<br>S + V + too + adj + for O + to V<br><br>enough: du...để<br>S + be + adj + enough + (for O) + to V1<br>S + V + enough + N + (for O) + to V1</div><h4>b. so...that / such...that</h4><div class=\"formula\">so...that:<br>S + V + so + adj/adv + that + S + V<br>S + V + so + adj + a + N(ít) + that + S + V<br>S + V + so + many/few + N(nhiều) + that + S + V<br>S + V + so + much/little + N(kdd) + that + S + V<br><br>such...that:<br>S + V + such + a/an + adj + N(ít) + that + S + V<br>S + V + such + adj + N(nhiều) + that + S + V<br>S + V + such + adj + N(kdd) + that + S + V</div><h4>Dao ngu với \"so\"</h4><div class=\"formula\">S1 + V + so + adj/adv + that + S + V<br><=> So + adj/adv + V + S1 + that + S + V</div><h4>Mac du (concession):</h4><div class=\"formula\">- Adj/adv + as/though + S + V<br>- However + Adj/Adv + S + V<br>- No matter Wh- + ADJ + S + V (no matter what/how/when/where = whatever/however)<br>- Despite = in spite of + NP<br>- Although/though/even though + Clause</div><h3>5. Clauses of manner (md chỉ thể cách): AS IF & AS THOUGH</h3><table class=\"grammar-table\"><tr><th>Tinh huong</th><th>Công thức</th><th>Ví dụ</th></tr><tr><td>Dieu không có thật ở hiện tại</td><td>S + V + as if/as though + S + V2/Ved<br>(dùng 'were' cho tất cả)</td><td>She dresses as if she was/were an actress.</td></tr><tr><td>Dieu không có thật ở quá khứ</td><td>S + Vqk + as if/as though + S + had + V3/ved</td><td>He talked about New York as though he had been there before.</td></tr></table><h3>*Would rather</h3><table class=\"grammar-table\"><tr><th>Tinh huong</th><th>Công thức</th><th>Ví dụ</th></tr><tr><td>Giả thiết ở HT hoặc TL</td><td>S1 + would rather that + S2 + V2/ed</td><td>Mary would rather that her husband worked in the same office as she does.</td></tr><tr><td>Giả thiết ở Qua Khu</td><td>S1 + would rather that + S2 + had + V3/V-ed</td><td>She would rather that her husband had gone to the office yesterday.</td></tr></table>"
   },
   "exercises": [
     {
       "id": 1,
       "type": "multiple-choice",
       "question": "Did you like the band last night? Yes, _____ I bought their record.",
-      "options": ["A. such much", "B. so much that", "C. very much that", "D. too much that"],
+      "options": [
+        "A. such much",
+        "B. so much that",
+        "C. very much that",
+        "D. too much that"
+      ],
       "correctIndex": 1,
-      "explanation": "'so much that' = nhieu den muc ma... Cau truc: so + adv + that."
+      "explanation": "'so much that' = nhiều den muc mà... Cấu trúc: so + adv + that."
     },
     {
       "id": 2,
       "type": "multiple-choice",
       "question": "That's a beautiful dress jean has on. She always wears _____ clothes.",
-      "options": ["A. such a lovely", "B. so lovely", "C. such lovely", "D. so much lovely"],
+      "options": [
+        "A. such a lovely",
+        "B. so lovely",
+        "C. such lovely",
+        "D. so much lovely"
+      ],
       "correctIndex": 2,
-      "explanation": "'such + adj + N(so nhieu)' => 'such lovely clothes'."
+      "explanation": "'such + adj + N(số nhiều)' => 'such lovely clothes'."
     },
     {
       "id": 3,
       "type": "multiple-choice",
       "question": "Jill and Jolly were happy _____ it was their both birthday party that day.",
-      "options": ["A. because", "B. even though", "C. spite of", "D. Despite"],
+      "options": [
+        "A. because",
+        "B. even though",
+        "C. spite of",
+        "D. Despite"
+      ],
       "correctIndex": 0,
-      "explanation": "Can menh de chi ly do (S + V) => 'because'."
+      "explanation": "Can mệnh đề chỉ lý do (S + V) => 'because'."
     },
     {
       "id": 4,
       "type": "multiple-choice",
       "question": "Nobody could hear her _____ she spoke too quietly.",
-      "options": ["A. although", "B. because", "C. because of", "D. in spite of"],
+      "options": [
+        "A. although",
+        "B. because",
+        "C. because of",
+        "D. in spite of"
+      ],
       "correctIndex": 1,
-      "explanation": "Theo sau la menh de (S + V) chi ly do => 'because'."
+      "explanation": "Theo sau là mệnh đề (S + V) chỉ lý do => 'because'."
     },
     {
       "id": 5,
       "type": "multiple-choice",
-      "question": "Paul is a very competent salesperson. He's _____ good that I am going to give him a raise and a promotion.",
-      "options": ["A. definite", "B. definitely", "C. so", "D. so much"],
+      "question": "Paul is a very competent salesperson. He's _____ good that I ấm going to give him a raise and a promotion.",
+      "options": [
+        "A. definite",
+        "B. definitely",
+        "C. so",
+        "D. so much"
+      ],
       "correctIndex": 2,
       "explanation": "'so + adj + that' => 'so good that...'."
     },
@@ -50,41 +75,66 @@
       "id": 6,
       "type": "multiple-choice",
       "question": "A tree had fallen during the storm, _____ the road was blocked and we couldn't go anywhere.",
-      "options": ["A. such that", "B. so that", "C. in order that", "D. but"],
+      "options": [
+        "A. such that",
+        "B. so that",
+        "C. in order that",
+        "D. but"
+      ],
       "correctIndex": 1,
-      "explanation": "'so that' o day chi ket qua (= va vi vay): cay do => duong bi chan. Phan biet: 'so that' chi muc dich thuong di voi can/could/would, con 'so that' chi ket qua thuong dien ta hau qua tu nhien."
+      "explanation": "'so that' ở đây chỉ kết quả (= và vì vậy): cay do => duong bi chan. Phan biet: 'so that' chỉ mục đích thường di với can/could/would, còn 'so that' chỉ kết quả thường diễn tả hậu quả tự nhiên."
     },
     {
       "id": 7,
       "type": "multiple-choice",
       "question": "There has been a reduction in the oil supply and increased demand, _____ price has risen.",
-      "options": ["A. but", "B. so", "C. and", "D. in order that"],
+      "options": [
+        "A. but",
+        "B. so",
+        "C. and",
+        "D. in order that"
+      ],
       "correctIndex": 1,
-      "explanation": "'so' noi ket qua: nguon cung giam + cau tang => gia tang."
+      "explanation": "'so' nói kết quả: nguon cũng giam + câu tang => giá tang."
     },
     {
       "id": 8,
       "type": "multiple-choice",
       "question": "_____ he has a headache, he has to take an aspirin.",
-      "options": ["A. How", "B. Because", "C. Where", "D. Although"],
+      "options": [
+        "A. How",
+        "B. Because",
+        "C. Where",
+        "D. Although"
+      ],
       "correctIndex": 1,
-      "explanation": "Ly do (bi dau dau) => ket qua (phai uong thuoc) => 'Because'."
+      "explanation": "Ly do (bi đầu đầu) => kết quả (phải uong thuoc) => 'Because'."
     },
     {
       "id": 9,
       "type": "multiple-choice",
       "question": "_____ he always did well on his English tests, his parents were not surprised that he got an B level.",
-      "options": ["A. When", "B. Since", "C. Because of", "D. Although"],
+      "options": [
+        "A. When",
+        "B. Since",
+        "C. Because of",
+        "D. Although"
+      ],
       "correctIndex": 1,
-      "explanation": "'Since' = vi (chi ly do). Anh ta luon lam tot => bo me khong ngac nhien."
+      "explanation": "'Since' = vì (chỉ lý do). Anh ta luôn làm tốt => bỏ me không ngac nhien."
     },
     {
       "id": 10,
       "type": "multiple-choice",
       "question": "Our visit to Japan was delayed _____ my wife's illness.",
-      "options": ["A. because", "B. because of", "C. thanks to", "D. though"],
+      "options": [
+        "A. because",
+        "B. because of",
+        "C. thanks to",
+        "D. though"
+      ],
       "correctIndex": 1,
-      "explanation": "Sau cho trong la danh tu ('my wife's illness') => 'because of'."
+      "explanation": "Sau cho trong là danh từ ('my wife's illness') => 'because of'."
     },
     {
       "id": 11,
@@ -93,7 +143,7 @@
       "correctSentence": "Although our grandfather was old, he could help us.",
       "errorWord": "but",
       "correction": "(remove 'but')",
-      "explanation": "'Although' va 'but' khong dung cung nhau. Bo 'but'."
+      "explanation": "'Although' và 'but' không dùng cũng nhau. Bo 'but'."
     },
     {
       "id": 12,
@@ -102,7 +152,7 @@
       "correctSentence": "My friends advised her to stop doing the housework because of her old age.",
       "errorWord": "because",
       "correction": "because of",
-      "explanation": "Sau 'because' can menh de (S+V). Truoc danh tu phai dung 'because of'."
+      "explanation": "Sau 'because' can mệnh đề (S+V). Truoc danh từ phải dùng 'because of'."
     },
     {
       "id": 13,
@@ -111,7 +161,7 @@
       "correctSentence": "He tried to explain, but she refused to listen.",
       "errorWord": "so",
       "correction": "but",
-      "explanation": "Hai menh de tuong phan nhau (co giai thich nhung tu choi nghe) => dung 'but'."
+      "explanation": "Hai mệnh đề tương phản nhau (có giải thích nhưng từ chối nghe) => dùng 'but'."
     },
     {
       "id": 14,
@@ -120,7 +170,7 @@
       "correctSentence": "Despite growing industrial activity, the majority of the American people continued to make their living from farming until the beginning of the twentieth century.",
       "errorWord": "Despite of",
       "correction": "Despite",
-      "explanation": "'Despite' khong di voi 'of'. Chi co 'In spite of' moi co 'of'."
+      "explanation": "'Despite' không di với 'of'. Chi có 'In spite of' moi có 'of'."
     },
     {
       "id": 15,
@@ -129,12 +179,12 @@
       "correctSentence": "She turned down the radio so as not to disturb the neighbors.",
       "errorWord": "so as to",
       "correction": "so as not to",
-      "explanation": "Vat am thanh nho lai de KHONG lam phien hang xom => 'so as not to'."
+      "explanation": "Vat ấm thành nho lai để KHONG làm phiền hàng xóm => 'so as not to'."
     },
     {
       "id": 16,
       "type": "sentence-rewrite",
-      "original": "The kind of milk is so bad that the child can't drink it more.",
+      "original": "The kind of milk is so bad that the child can't drink ít more.",
       "instruction": "Rewrite without changing meaning.",
       "starterText": "The kind of milk is",
       "answer": "The kind of milk is too bad for the child to drink.",
@@ -143,10 +193,10 @@
     {
       "id": 17,
       "type": "sentence-rewrite",
-      "original": "The food was so good that we ate all of it.",
+      "original": "The food was so good that we ate all of ít.",
       "instruction": "Rewrite without changing meaning.",
       "starterText": "It was",
-      "answer": "It was such good food that we ate all of it.",
+      "answer": "It was such good food that we ate all of ít.",
       "explanation": "so + adj => such + adj + N."
     },
     {
@@ -179,7 +229,7 @@
     {
       "id": 21,
       "type": "sentence-rewrite",
-      "original": "The test was so difficult that we couldn't do it.",
+      "original": "The test was so difficult that we couldn't do ít.",
       "instruction": "Rewrite without changing meaning.",
       "starterText": "The test was not",
       "answer": "The test was not easy enough for us to do.",
@@ -197,11 +247,11 @@
     {
       "id": 23,
       "type": "sentence-rewrite",
-      "original": "Although she didn't want to see The Lord of the Rings, she enjoyed it in the end.",
+      "original": "Although she didn't want to see The Lord of the Rings, she enjoyed ít in the end.",
       "instruction": "Rewrite without changing meaning.",
       "starterText": "In spite of",
-      "answer": "In spite of not wanting to see The Lord of the Rings, she enjoyed it in the end.",
-      "explanation": "Although + S + V => In spite of + V-ing (phu dinh: not V-ing)."
+      "answer": "In spite of not wanting to see The Lord of the Rings, she enjoyed ít in the end.",
+      "explanation": "Although + S + V => In spite of + V-ing (phủ định: not V-ing)."
     },
     {
       "id": 24,
@@ -219,7 +269,7 @@
       "correctSentence": "John didn't go to work because he was seriously ill.",
       "errorWord": "because of",
       "correction": "because",
-      "explanation": "Truoc menh de (S+V) phai dung 'because', khong phai 'because of'."
+      "explanation": "Truoc mệnh đề (S+V) phải dùng 'because', không phải 'because of'."
     },
     {
       "id": 26,
@@ -228,7 +278,7 @@
       "correctSentence": "My friend was crazy when he was informed of the news of his mother's death.",
       "errorWord": "although",
       "correction": "when",
-      "explanation": "Nghia cua cau la 'dien khi biet tin me mat' => dung 'when', khong phai 'although'."
+      "explanation": "Nghia của câu là 'diễn khi biet tin me mat' => dùng 'when', không phải 'although'."
     },
     {
       "id": 27,
@@ -237,7 +287,7 @@
       "correctSentence": "Thunder is rarely heard beyond 15 miles because temperature and wind vary at different heights in the region around a thunderstorm.",
       "errorWord": "because of",
       "correction": "because",
-      "explanation": "Truoc menh de (temperature and wind vary...) phai dung 'because'."
+      "explanation": "Truoc mệnh đề (temperature and wind vary...) phải dùng 'because'."
     },
     {
       "id": 28,
@@ -246,7 +296,7 @@
       "correctSentence": "He couldn't drive fast because the street was crowded and narrow.",
       "errorWord": "owing to",
       "correction": "because",
-      "explanation": "'Owing to' + danh tu. Truoc menh de (S+V) phai dung 'because'."
+      "explanation": "'Owing to' + danh từ. Truoc mệnh đề (S+V) phải dùng 'because'."
     },
     {
       "id": 29,
@@ -255,12 +305,12 @@
       "correctSentence": "Mrs. Green was cooking dinner while her daughter Susan was laying the table.",
       "errorWord": "but",
       "correction": "while",
-      "explanation": "Hai hanh dong dien ra dong thoi => dung 'while', khong phai 'but' (tuong phan)."
+      "explanation": "Hai hành động diễn ra đồng thời => dùng 'while', không phải 'but' (tương phản)."
     },
     {
       "id": 30,
       "type": "sentence-rewrite",
-      "original": "The map is so worn out that I couldn't read it.",
+      "original": "The map is so worn out that I couldn't read ít.",
       "instruction": "Rewrite without changing meaning.",
       "starterText": "The map is",
       "answer": "The map is too worn out for me to read.",

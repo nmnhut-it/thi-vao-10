@@ -1,170 +1,270 @@
 {
   "topicId": "vocab-phrasal-verbs",
-  "title": "Phrasal Verbs (Cum Dong Tu)",
+  "title": "Phrasal Verbs (Cụm Động Từ)",
   "section": "vocabulary",
   "knowledge": {
-    "html": "<h3>Danh sach Cum Dong Tu (Phrasal Verbs) thuong gap</h3><table border='1' cellpadding='4' cellspacing='0' style='border-collapse:collapse;width:100%'><tr><th>STT</th><th>Cum dong tu</th><th>Nghia</th></tr><tr><td>1</td><td>Act out</td><td>Dong vai, dong kich</td></tr><tr><td>2</td><td>Account for</td><td>Chiem bao nhieu %, giai thich</td></tr><tr><td>3</td><td>Ask for st</td><td>Xin cai gi</td></tr><tr><td></td><td>Ask after</td><td>Hoi tham</td></tr><tr><td></td><td>Ask sb out</td><td>Moi ai do di an/di xem phim de hen ho</td></tr><tr><td>4</td><td>Break down</td><td>Chia nho ra, hong hoc, ngat xiu</td></tr><tr><td></td><td>Break into</td><td>Dot nhap vao</td></tr><tr><td></td><td>Break out</td><td>No ra</td></tr><tr><td></td><td>Break up</td><td>Chia tay</td></tr><tr><td>5</td><td>Bring sb up</td><td>Nuoi nang ai</td></tr><tr><td></td><td>Bring out</td><td>Lam noi bat</td></tr><tr><td></td><td>Bring about</td><td>Gay ra, mang lai</td></tr><tr><td></td><td>Bring back</td><td>Mang lai, goi nho</td></tr><tr><td>6</td><td>Blow out</td><td>Thoi tat</td></tr><tr><td>7</td><td>Build up</td><td>Tang len, ca ngoi</td></tr><tr><td>8</td><td>Breathe in = take in = inhale</td><td>Hit vao</td></tr><tr><td>9</td><td>Calm down</td><td>Binh tinh</td></tr><tr><td>10</td><td>Clear out</td><td>Cuon xeo, don sach</td></tr><tr><td>11</td><td>Care for</td><td>Cham soc, thich</td></tr><tr><td></td><td>Care about</td><td>Quan tam</td></tr><tr><td>12</td><td>Clean up</td><td>Don dep</td></tr><tr><td>13</td><td>Call for</td><td>Can, doi hoi, yeu cau</td></tr><tr><td></td><td>Call out</td><td>Goi to, het to</td></tr><tr><td></td><td>Call off</td><td>Huy</td></tr><tr><td></td><td>Call up</td><td>Goi cho ai/goi di linh</td></tr><tr><td></td><td>Carry on</td><td>Tiep tuc</td></tr><tr><td></td><td>Carry out</td><td>Tien hanh, thuc hien</td></tr><tr><td></td><td>Carry away</td><td>Phan khich, kich dong</td></tr><tr><td></td><td>Carry over</td><td>Chuyen vao, di vao</td></tr><tr><td>14</td><td>Cut down</td><td>Chat/don</td></tr><tr><td></td><td>Cut off</td><td>Cat, cup, ngung cung cap (dien, gas...)</td></tr><tr><td></td><td>Cut in</td><td>Xen vao, ngat loi</td></tr><tr><td></td><td>Cut down on</td><td>Cat giam</td></tr><tr><td>15</td><td>Crop up</td><td>Xay ra mot cach bat ngo</td></tr><tr><td>16</td><td>Come up with</td><td>Nay ra y tuong</td></tr><tr><td></td><td>Come into</td><td>Thua ke</td></tr><tr><td></td><td>Come up</td><td>Xay ra</td></tr><tr><td></td><td>Come out</td><td>Lo ra, lo ra, tung ra, phat hanh</td></tr><tr><td></td><td>Come on</td><td>Thoi nao, tiep tuc nao</td></tr><tr><td></td><td>Come off</td><td>Thanh cong</td></tr><tr><td></td><td>Come across</td><td>Tinh co gap</td></tr><tr><td></td><td>Come in</td><td>Buoc vao</td></tr><tr><td></td><td>Come in for</td><td>Chuoc lay, nhan lay</td></tr><tr><td></td><td>Come around</td><td>Tinh lai</td></tr><tr><td></td><td>Come up to</td><td>Dat toi</td></tr><tr><td>17</td><td>Dip into</td><td>Doc luot</td></tr><tr><td>18</td><td>Die out</td><td>Tuyet chung</td></tr><tr><td></td><td>Die of</td><td>Chet vi benh gi</td></tr><tr><td>19</td><td>Dress up</td><td>Cai trang, dong gia</td></tr><tr><td>20</td><td>Drop out of</td><td>Bo cuoc</td></tr><tr><td></td><td>Drop in on = pay a short visit</td><td>Tat qua, ghe qua</td></tr><tr><td>21</td><td>Fall over</td><td>Do sup xuong, nga, pha san</td></tr><tr><td></td><td>Fall for</td><td>Me tit, yeu ai</td></tr><tr><td></td><td>Fall behind</td><td>Tut lai, cham lai</td></tr><tr><td></td><td>Fall back on</td><td>Phai can toi, phai dung toi</td></tr><tr><td></td><td>Fall out with</td><td>Cai co voi</td></tr><tr><td>22</td><td>Fill in</td><td>Dien vao mau don</td></tr><tr><td></td><td>Fill up</td><td>Do day, lam day</td></tr><tr><td></td><td>Fill out</td><td>Map ra, beo ra</td></tr><tr><td>23</td><td>Grow up</td><td>Lon len</td></tr><tr><td>24</td><td>Jot down = note down</td><td>Ghi tom tat</td></tr><tr><td>25</td><td>Go through</td><td>Trai qua</td></tr><tr><td></td><td>Go ahead</td><td>Tien hanh</td></tr><tr><td></td><td>Go on with st = continue with st</td><td>Tiep tuc voi cai gi</td></tr><tr><td></td><td>Go out</td><td>Mat dien, ra ngoai, di choi</td></tr><tr><td></td><td>Go on = continue</td><td>Tiep tuc</td></tr><tr><td></td><td>Go away</td><td>Di xa, di di, cut di</td></tr><tr><td></td><td>Go back</td><td>Quay lai</td></tr><tr><td></td><td>Go back on</td><td>That hua</td></tr><tr><td></td><td>Go beyond</td><td>Vuot qua</td></tr><tr><td></td><td>Go off</td><td>Do chuong, no tung, thiu thoi, mat hung</td></tr><tr><td></td><td>Go over</td><td>Xem lai, on lai</td></tr><tr><td></td><td>Go by</td><td>Troi qua, tuot mat</td></tr><tr><td></td><td>Go up &gt;&lt; go down</td><td>Tang len &gt;&lt; giam xuong</td></tr><tr><td></td><td>Go down with</td><td>Mac benh</td></tr><tr><td></td><td>Go in for</td><td>Thich thu, tham gia</td></tr><tr><td></td><td>Go into</td><td>Dieu tra, xem xet</td></tr><tr><td>26</td><td>Get around = travel</td><td>Di lai</td></tr><tr><td></td><td>Get over = recover from</td><td>Vuot qua cu soc/benh tat</td></tr><tr><td></td><td>Get through</td><td>Vuot qua ki thi, hoan thanh</td></tr><tr><td></td><td>Get into</td><td>Quan tam, hung thu voi cai gi</td></tr><tr><td></td><td>Get by</td><td>Xoay so de song qua kho khan</td></tr><tr><td></td><td>Get off</td><td>Xuong xe/tau/may bay</td></tr><tr><td></td><td>Get on</td><td>Len xe/tau/may bay</td></tr><tr><td>27</td><td>Give up = stop = quit</td><td>Tu bo</td></tr><tr><td></td><td>Give off</td><td>Toa ra, nha ra, thai ra</td></tr><tr><td></td><td>Give in</td><td>Nhan nhuong</td></tr><tr><td></td><td>Give out</td><td>Can kiet</td></tr><tr><td></td><td>Give away</td><td>Tiet lo, phan phat</td></tr><tr><td>28</td><td>Hold up = delay</td><td>Dinh tre, tri hoan</td></tr><tr><td></td><td>Hold back</td><td>Ngan lai</td></tr><tr><td></td><td>Hold on</td><td>Cho; giu chac; cam</td></tr><tr><td></td><td>Hold over</td><td>Hoan</td></tr><tr><td>29</td><td>Hurry up</td><td>Nhanh len</td></tr><tr><td>30</td><td>Hand out</td><td>Phan phat</td></tr><tr><td></td><td>Hand in</td><td>Nop</td></tr><tr><td>31</td><td>Keep up/pace with = catch up with</td><td>Theo kip, duoi kip</td></tr><tr><td></td><td>Keep on</td><td>Tiep tuc</td></tr><tr><td></td><td>Keep away</td><td>Tranh xa</td></tr><tr><td></td><td>Keep in with</td><td>Duy tri moi quan he tot dep voi ai</td></tr><tr><td>32</td><td>Look up</td><td>Tra cuu</td></tr><tr><td></td><td>Look after = take care of</td><td>Cham soc</td></tr><tr><td></td><td>Look around</td><td>Ngo nghieng, tham thu</td></tr><tr><td></td><td>Look down on</td><td>Coi thuong</td></tr><tr><td></td><td>Look up to</td><td>Kinh trong</td></tr><tr><td></td><td>Look at</td><td>Ngam nhin</td></tr><tr><td></td><td>Look for</td><td>Tim kiem</td></tr><tr><td></td><td>Look forward to</td><td>Mong cho</td></tr><tr><td></td><td>Look into</td><td>Dieu tra, xem xet</td></tr><tr><td></td><td>Look out (for)</td><td>Coi chung, trong chung</td></tr><tr><td></td><td>Look over</td><td>Xem qua</td></tr><tr><td>33</td><td>Lie down</td><td>Nam nghi</td></tr><tr><td>34</td><td>Lay down</td><td>De ra</td></tr><tr><td>35</td><td>Mull over</td><td>Suy nghi ki</td></tr><tr><td>36</td><td>Make up for</td><td>Bu dap cho</td></tr><tr><td></td><td>Make up</td><td>Trang diem, bia dat, dung chuyen, quyet dinh, lam hoa, chiem (ti le, %)</td></tr><tr><td></td><td>Be made up of</td><td>Tao nen boi</td></tr><tr><td></td><td>Make away with</td><td>Cuom di</td></tr><tr><td></td><td>Make for</td><td>Tien ve huong</td></tr><tr><td></td><td>Make out</td><td>Nhin, nhan ra, hieu</td></tr><tr><td>37</td><td>Pick up</td><td>Nhat; don</td></tr><tr><td>38</td><td>Point at</td><td>Chi vao</td></tr><tr><td>39</td><td>Pray for</td><td>Cau nguyen</td></tr><tr><td>40</td><td>Pass away = die</td><td>Qua doi/chet</td></tr><tr><td></td><td>Pass down</td><td>Luu truyen, truyen lai</td></tr><tr><td></td><td>Pass over</td><td>Lo di, ne tranh</td></tr><tr><td>41</td><td>Put up with = tolerate</td><td>Chiu dung</td></tr><tr><td></td><td>Put across</td><td>Trinh bay, giai thich</td></tr><tr><td></td><td>Put on</td><td>Mac, doi; bieu dien</td></tr><tr><td></td><td>Put off</td><td>Tri hoan; khien cho ai khong con thich nua</td></tr><tr><td></td><td>Put aside</td><td>De danh</td></tr><tr><td></td><td>Put away</td><td>Don di, cat di, de danh</td></tr><tr><td></td><td>Put back</td><td>Tra lai (dua ve dung vi tri)</td></tr><tr><td></td><td>Put through</td><td>Ket noi dien thoai</td></tr><tr><td></td><td>Put up</td><td>Dung len</td></tr><tr><td></td><td>Put sb up</td><td>Cho ai do o nho</td></tr><tr><td></td><td>Put out</td><td>Dap tat</td></tr><tr><td>42</td><td>Pull down</td><td>Ui do, pha bo</td></tr><tr><td>43</td><td>Result in</td><td>Dan den</td></tr><tr><td>44</td><td>Run on st</td><td>Chay bang cai gi</td></tr><tr><td></td><td>Run off</td><td>Bo di, rua troi</td></tr><tr><td></td><td>Run out of st</td><td>Het sach, het nhan cai gi</td></tr><tr><td></td><td>Run out</td><td>Can kiet</td></tr><tr><td></td><td>Slow down</td><td>Lam giam</td></tr><tr><td></td><td>Speed up</td><td>Tang toc</td></tr><tr><td>45</td><td>Settle down</td><td>On dinh, dinh cu</td></tr><tr><td>46</td><td>Start up</td><td>Khoi nghiep</td></tr><tr><td>47</td><td>Save up</td><td>Tiet kiem</td></tr><tr><td>48</td><td>Set out</td><td>Bat dau thuc hien mot ke hoach/hanh dong</td></tr><tr><td></td><td>Set up</td><td>Thanh lap</td></tr><tr><td></td><td>Set off</td><td>Khoi hanh</td></tr><tr><td>49</td><td>Stand in for sb</td><td>Lam thay cho ai</td></tr><tr><td></td><td>Stand up</td><td>Dung len</td></tr><tr><td></td><td>Stand for</td><td>Viet tat, tuong trung cho</td></tr><tr><td></td><td>Stand out</td><td>Noi bat</td></tr><tr><td></td><td>Stand up for</td><td>Ung ho</td></tr><tr><td>50</td><td>Ponder on/upon/over</td><td>Suy nghi ve, can nhac ve; tram tu</td></tr><tr><td>51</td><td>Show off</td><td>Khoe khoang</td></tr><tr><td></td><td>Show up = turn up = arrive</td><td>Den</td></tr><tr><td>52</td><td>Stay up</td><td>Thuc</td></tr><tr><td>53</td><td>Spread over</td><td>Keo dai</td></tr><tr><td>54</td><td>Think back on = recall</td><td>Hoi tuong lai, nho lai</td></tr><tr><td>55</td><td>Talk back to sb</td><td>Cai lai, noi lai</td></tr><tr><td>56</td><td>Take after</td><td>Giong</td></tr><tr><td></td><td>Take off</td><td>Coi, cat canh, thanh cong</td></tr><tr><td></td><td>Take in</td><td>Hap thu, hit vao, hieu</td></tr><tr><td></td><td>Take out</td><td>Nho, do</td></tr><tr><td></td><td>Take away</td><td>Mang di, keo theo</td></tr><tr><td></td><td>Take on</td><td>Dam nhiem, thue muon</td></tr><tr><td></td><td>Take over</td><td>Tiep quan, chiem doat</td></tr><tr><td></td><td>Take up</td><td>Bat dau mot thoi quen/so thich</td></tr><tr><td>57</td><td>Turn on &gt;&lt; turn off</td><td>Bat &gt;&lt; tat</td></tr><tr><td></td><td>Turn up = show up = arrive</td><td>Den</td></tr><tr><td></td><td>Turn into</td><td>Bien thanh</td></tr><tr><td></td><td>Turn out</td><td>Hoa ra</td></tr><tr><td></td><td>Turn down</td><td>Tu choi, van nho</td></tr><tr><td>58</td><td>Try out = test</td><td>Kiem tra</td></tr><tr><td></td><td>Try on</td><td>Thu do</td></tr><tr><td>59</td><td>Throw away</td><td>Vut di</td></tr><tr><td>60</td><td>Wipe out</td><td>Xoa so</td></tr><tr><td>61</td><td>Wake up</td><td>Thuc giac</td></tr><tr><td>62</td><td>Wind down = relax</td><td>Thu gian</td></tr><tr><td>63</td><td>Wait for sb/st</td><td>Doi ai/doi cai gi</td></tr><tr><td>64</td><td>Wash away</td><td>Cuon troi</td></tr><tr><td></td><td>Wash up</td><td>Giat, rua</td></tr><tr><td>65</td><td>Use up = run out</td><td>Dung het, can kiet</td></tr></table>"
+    "html": "<h3>Danh sach Cum Dong Từ (Phrasal Verbs) thường gặp</h3><table border='1' cellpadding='4' cellspacing='0' style='border-collapse:collapse;width:100%'><tr><th>STT</th><th>Cum động từ</th><th>Nghia</th></tr><tr><td>1</td><td>Act out</td><td>Dong vai, đóng kịch</td></tr><tr><td>2</td><td>Account for</td><td>Chiem bao nhiều %, giải thích</td></tr><tr><td>3</td><td>Ask for st</td><td>Xin cai gi</td></tr><tr><td></td><td>Ask after</td><td>Hoi tham</td></tr><tr><td></td><td>Ask sb out</td><td>Moi ai do di an/di xem phim để hẹn hò</td></tr><tr><td>4</td><td>Break down</td><td>Chia nho ra, hỏng hóc, ngất xỉu</td></tr><tr><td></td><td>Break into</td><td>Dot nhap vào</td></tr><tr><td></td><td>Break out</td><td>No ra</td></tr><tr><td></td><td>Break up</td><td>Chia tay</td></tr><tr><td>5</td><td>Bring sb up</td><td>Nuoi nang ai</td></tr><tr><td></td><td>Bring out</td><td>Lam nổi bật</td></tr><tr><td></td><td>Bring about</td><td>Gay ra, mang lại</td></tr><tr><td></td><td>Bring back</td><td>Mang lai, goi nho</td></tr><tr><td>6</td><td>Blow out</td><td>Thoi tất</td></tr><tr><td>7</td><td>Build up</td><td>Tang len, cả ngôi</td></tr><tr><td>8</td><td>Breathe in = take in = inhale</td><td>Hit vào</td></tr><tr><td>9</td><td>Calm down</td><td>Binh tính</td></tr><tr><td>10</td><td>Clear out</td><td>Cuon xeo, dọn sạch</td></tr><tr><td>11</td><td>Care for</td><td>Cham soc, thich</td></tr><tr><td></td><td>Care about</td><td>Quan tam</td></tr><tr><td>12</td><td>Clean up</td><td>Don dep</td></tr><tr><td>13</td><td>Call for</td><td>Can, đòi hỏi, yêu cầu</td></tr><tr><td></td><td>Call out</td><td>Goi to, hét to</td></tr><tr><td></td><td>Call off</td><td>Huy</td></tr><tr><td></td><td>Call up</td><td>Goi cho ai/goi di linh</td></tr><tr><td></td><td>Carry on</td><td>Tiep tuc</td></tr><tr><td></td><td>Carry out</td><td>Tien hanh, thực hiện</td></tr><tr><td></td><td>Carry away</td><td>Phan khich, kích động</td></tr><tr><td></td><td>Carry over</td><td>Chuyen vào, di vào</td></tr><tr><td>14</td><td>Cut down</td><td>Chat/don</td></tr><tr><td></td><td>Cut off</td><td>Cat, cup, ngừng cũng cấp (diễn, gas...)</td></tr><tr><td></td><td>Cut in</td><td>Xen vào, ngat loi</td></tr><tr><td></td><td>Cut down on</td><td>Cat giam</td></tr><tr><td>15</td><td>Crop up</td><td>Xay ra một cach bất ngờ</td></tr><tr><td>16</td><td>Come up with</td><td>Nay ra ý tưởng</td></tr><tr><td></td><td>Come into</td><td>Thua ke</td></tr><tr><td></td><td>Come up</td><td>Xay ra</td></tr><tr><td></td><td>Come out</td><td>Lo ra, lo ra, tung ra, phát hành</td></tr><tr><td></td><td>Come on</td><td>Thoi nào, tiếp tục nào</td></tr><tr><td></td><td>Come off</td><td>Thanh cong</td></tr><tr><td></td><td>Come across</td><td>Tinh có gap</td></tr><tr><td></td><td>Come in</td><td>Buoc vào</td></tr><tr><td></td><td>Come in for</td><td>Chuoc lay, nhan lay</td></tr><tr><td></td><td>Come around</td><td>Tinh lai</td></tr><tr><td></td><td>Come up to</td><td>Dat tới</td></tr><tr><td>17</td><td>Dip into</td><td>Doc luot</td></tr><tr><td>18</td><td>Die out</td><td>Tuyet chung</td></tr><tr><td></td><td>Die of</td><td>Chet vì benh gi</td></tr><tr><td>19</td><td>Dress up</td><td>Cai trạng, đóng giả</td></tr><tr><td>20</td><td>Drop out of</td><td>Bo cuoc</td></tr><tr><td></td><td>Drop in on = pay a short visit</td><td>Tat qua, ghe qua</td></tr><tr><td>21</td><td>Fall over</td><td>Do sup xuong, nga, phá sản</td></tr><tr><td></td><td>Fall for</td><td>Me tit, yeu ai</td></tr><tr><td></td><td>Fall behind</td><td>Tut lai, chậm lại</td></tr><tr><td></td><td>Fall back on</td><td>Phai can tới, phải dùng tới</td></tr><tr><td></td><td>Fall out with</td><td>Cai có với</td></tr><tr><td>22</td><td>Fill in</td><td>Dien vào mẫu đơn</td></tr><tr><td></td><td>Fill up</td><td>Do đây, làm đầy</td></tr><tr><td></td><td>Fill out</td><td>Map ra, béo ra</td></tr><tr><td>23</td><td>Grow up</td><td>Lon len</td></tr><tr><td>24</td><td>Jot down = note down</td><td>Ghi tóm tắt</td></tr><tr><td>25</td><td>Go through</td><td>Trai qua</td></tr><tr><td></td><td>Go ahead</td><td>Tien hanh</td></tr><tr><td></td><td>Go on with st = continue with st</td><td>Tiep tuc với cai gi</td></tr><tr><td></td><td>Go out</td><td>Mat diễn, ra ngoài, đi chơi</td></tr><tr><td></td><td>Go on = continue</td><td>Tiep tuc</td></tr><tr><td></td><td>Go away</td><td>Di xa, di di, cut di</td></tr><tr><td></td><td>Go back</td><td>Quay lai</td></tr><tr><td></td><td>Go back on</td><td>That hua</td></tr><tr><td></td><td>Go beyond</td><td>Vuot qua</td></tr><tr><td></td><td>Go off</td><td>Do chuong, nổ tung, thiu thối, mất hứng</td></tr><tr><td></td><td>Go over</td><td>Xem lai, ôn lại</td></tr><tr><td></td><td>Go by</td><td>Troi qua, tuột mất</td></tr><tr><td></td><td>Go up &gt;&lt; go down</td><td>Tang len &gt;&lt; giảm xuống</td></tr><tr><td></td><td>Go down with</td><td>Mac benh</td></tr><tr><td></td><td>Go in for</td><td>Thich thu, tham giá</td></tr><tr><td></td><td>Go into</td><td>Dieu tra, xem xét</td></tr><tr><td>26</td><td>Get around = travel</td><td>Di lai</td></tr><tr><td></td><td>Get over = recover from</td><td>Vuot qua cũ soc/benh tất</td></tr><tr><td></td><td>Get through</td><td>Vuot qua ki thì, hoàn thành</td></tr><tr><td></td><td>Get into</td><td>Quan tam, hứng thú với cai gi</td></tr><tr><td></td><td>Get by</td><td>Xoay so để song qua khó khăn</td></tr><tr><td></td><td>Get off</td><td>Xuong xe/tau/may bay</td></tr><tr><td></td><td>Get on</td><td>Len xe/tau/may bay</td></tr><tr><td>27</td><td>Give up = stop = quit</td><td>Từ bỏ</td></tr><tr><td></td><td>Give off</td><td>Toa ra, nhả ra, thải ra</td></tr><tr><td></td><td>Give in</td><td>Nhan nhuong</td></tr><tr><td></td><td>Give out</td><td>Can kiet</td></tr><tr><td></td><td>Give away</td><td>Tiet lo, phân phát</td></tr><tr><td>28</td><td>Hold up = delay</td><td>Dinh trẻ, trì hoãn</td></tr><tr><td></td><td>Hold back</td><td>Ngan lai</td></tr><tr><td></td><td>Hold on</td><td>Cho; giữ chắc; câm</td></tr><tr><td></td><td>Hold over</td><td>Hoan</td></tr><tr><td>29</td><td>Hurry up</td><td>Nhanh len</td></tr><tr><td>30</td><td>Hand out</td><td>Phan phat</td></tr><tr><td></td><td>Hand in</td><td>Nop</td></tr><tr><td>31</td><td>Keep up/pace with = catch up with</td><td>Theo kip, đuôi kip</td></tr><tr><td></td><td>Keep on</td><td>Tiep tuc</td></tr><tr><td></td><td>Keep away</td><td>Tranh xa</td></tr><tr><td></td><td>Keep in with</td><td>Duy tri moi quan hệ tốt đẹp với ai</td></tr><tr><td>32</td><td>Look up</td><td>Tra cuu</td></tr><tr><td></td><td>Look after = take care of</td><td>Cham soc</td></tr><tr><td></td><td>Look around</td><td>Ngo nghieng, thăm thú</td></tr><tr><td></td><td>Look down on</td><td>Coi thường</td></tr><tr><td></td><td>Look up to</td><td>Kinh trong</td></tr><tr><td></td><td>Look at</td><td>Ngam nhin</td></tr><tr><td></td><td>Look for</td><td>Tim kiem</td></tr><tr><td></td><td>Look forward to</td><td>Mong cho</td></tr><tr><td></td><td>Look into</td><td>Dieu tra, xem xét</td></tr><tr><td></td><td>Look out (for)</td><td>Coi chung, trông chừng</td></tr><tr><td></td><td>Look over</td><td>Xem qua</td></tr><tr><td>33</td><td>Lie down</td><td>Nam nghi</td></tr><tr><td>34</td><td>Lay down</td><td>De ra</td></tr><tr><td>35</td><td>Mull over</td><td>Suy nghi ki</td></tr><tr><td>36</td><td>Make up for</td><td>Bu dap cho</td></tr><tr><td></td><td>Make up</td><td>Trang diem, bịa đặt, dựng chuyện, quyết định, làm hòa, chiem (ti le, %)</td></tr><tr><td></td><td>Be made up of</td><td>Tao nên boi</td></tr><tr><td></td><td>Make away with</td><td>Cuom di</td></tr><tr><td></td><td>Make for</td><td>Tien ve huong</td></tr><tr><td></td><td>Make out</td><td>Nhin, nhan ra, hieu</td></tr><tr><td>37</td><td>Pick up</td><td>Nhat; don</td></tr><tr><td>38</td><td>Point at</td><td>Chi vào</td></tr><tr><td>39</td><td>Pray for</td><td>Cau nguyen</td></tr><tr><td>40</td><td>Pass away = die</td><td>Qua đổi/chet</td></tr><tr><td></td><td>Pass down</td><td>Luu truyen, truyền lại</td></tr><tr><td></td><td>Pass over</td><td>Lo di, né tránh</td></tr><tr><td>41</td><td>Put up with = tolerate</td><td>Chiu dùng</td></tr><tr><td></td><td>Put across</td><td>Trinh bay, giải thích</td></tr><tr><td></td><td>Put on</td><td>Mac, đổi; biểu diễn</td></tr><tr><td></td><td>Put off</td><td>Tri hoan; khien cho ai không còn thich nua</td></tr><tr><td></td><td>Put aside</td><td>De danh</td></tr><tr><td></td><td>Put away</td><td>Don di, cắt đi, để dành</td></tr><tr><td></td><td>Put back</td><td>Tra lai (đưa ve dùng vị trí)</td></tr><tr><td></td><td>Put through</td><td>Ket nói điện thoại</td></tr><tr><td></td><td>Put up</td><td>Dùng len</td></tr><tr><td></td><td>Put sb up</td><td>Cho ai do ở nhờ</td></tr><tr><td></td><td>Put out</td><td>Dap tất</td></tr><tr><td>42</td><td>Pull down</td><td>Ui do, phá bỏ</td></tr><tr><td>43</td><td>Result in</td><td>Dan den</td></tr><tr><td>44</td><td>Run on st</td><td>Chay bang cai gi</td></tr><tr><td></td><td>Run off</td><td>Bo di, rửa trôi</td></tr><tr><td></td><td>Run out of st</td><td>Het sach, het nhan cai gi</td></tr><tr><td></td><td>Run out</td><td>Can kiet</td></tr><tr><td></td><td>Slow down</td><td>Lam giam</td></tr><tr><td></td><td>Speed up</td><td>Tang toc</td></tr><tr><td>45</td><td>Settle down</td><td>On dinh, định cư</td></tr><tr><td>46</td><td>Start up</td><td>Khoi nghiep</td></tr><tr><td>47</td><td>Save up</td><td>Tiet kiem</td></tr><tr><td>48</td><td>Set out</td><td>Bat đầu thực hiện một kế hoạch/hành động</td></tr><tr><td></td><td>Set up</td><td>Thành lập</td></tr><tr><td></td><td>Set off</td><td>Khoi hanh</td></tr><tr><td>49</td><td>Stand in for sb</td><td>Lam thay cho ai</td></tr><tr><td></td><td>Stand up</td><td>Dùng len</td></tr><tr><td></td><td>Stand for</td><td>Viet tất, tượng trưng cho</td></tr><tr><td></td><td>Stand out</td><td>Nối bắt</td></tr><tr><td></td><td>Stand up for</td><td>Ung ho</td></tr><tr><td>50</td><td>Ponder on/upon/over</td><td>Suy nghi ve, can nhac ve; tram từ</td></tr><tr><td>51</td><td>Show off</td><td>Khoe khoảng</td></tr><tr><td></td><td>Show up = turn up = arrive</td><td>Den</td></tr><tr><td>52</td><td>Stay up</td><td>Thuc</td></tr><tr><td>53</td><td>Spread over</td><td>Keo dai</td></tr><tr><td>54</td><td>Think back on = recall</td><td>Hoi tương lai, nho lai</td></tr><tr><td>55</td><td>Talk back to sb</td><td>Cai lai, nói lai</td></tr><tr><td>56</td><td>Take after</td><td>Giong</td></tr><tr><td></td><td>Take off</td><td>Coi, cất cánh, thành công</td></tr><tr><td></td><td>Take in</td><td>Hap thu, hít vào, hieu</td></tr><tr><td></td><td>Take out</td><td>Nho, do</td></tr><tr><td></td><td>Take away</td><td>Mang di, keo theo</td></tr><tr><td></td><td>Take on</td><td>Dam nhiem, thuê mướn</td></tr><tr><td></td><td>Take over</td><td>Tiep quan, chiếm đoạt</td></tr><tr><td></td><td>Take up</td><td>Bat đầu một thói quen/sở thích</td></tr><tr><td>57</td><td>Turn on &gt;&lt; turn off</td><td>Bat &gt;&lt; tất</td></tr><tr><td></td><td>Turn up = show up = arrive</td><td>Den</td></tr><tr><td></td><td>Turn into</td><td>Bien thành</td></tr><tr><td></td><td>Turn out</td><td>Hoa ra</td></tr><tr><td></td><td>Turn down</td><td>Từ choi, vặn nhỏ</td></tr><tr><td>58</td><td>Try out = test</td><td>Kiem tra</td></tr><tr><td></td><td>Try on</td><td>Thu do</td></tr><tr><td>59</td><td>Throw away</td><td>Vut di</td></tr><tr><td>60</td><td>Wipe out</td><td>Xoa so</td></tr><tr><td>61</td><td>Wake up</td><td>Thuc giac</td></tr><tr><td>62</td><td>Wind down = relax</td><td>Thu gian</td></tr><tr><td>63</td><td>Wait for sb/st</td><td>Đổi ai/đổi cai gi</td></tr><tr><td>64</td><td>Wash away</td><td>Cuon troi</td></tr><tr><td></td><td>Wash up</td><td>Giat, rua</td></tr><tr><td>65</td><td>Use up = run out</td><td>Dùng het, cạn kiệt</td></tr></table>"
   },
   "exercises": [
     {
       "id": 1,
       "type": "multiple-choice",
       "question": "Since Carl was unable to pay his bill, after a couple of months, his telephone was _______.",
-      "options": ["A. cut off", "B. broken up", "C. dropped off", "D. rung up"],
+      "options": [
+        "A. cut off",
+        "B. broken up",
+        "C. dropped off",
+        "D. rung up"
+      ],
       "correctIndex": 0,
-      "explanation": "'Cut off' = ngung cung cap (dien, gas, dien thoai). Khong tra tien thi bi cat dien thoai."
+      "explanation": "'Cut off' = ngừng cũng cấp (diễn, gas, điện thoại). Khong tra tien thì bi cat điện thoại."
     },
     {
       "id": 2,
       "type": "multiple-choice",
-      "question": "I can_______ the house being messy, but I hate it if it's not clean.",
-      "options": ["A. lead up to", "B. come up with", "C. go down with", "D. put up with"],
+      "question": "I can_______ the house being messy, but I hate ít if ít's not clean.",
+      "options": [
+        "A. lead up to",
+        "B. come up with",
+        "C. go down with",
+        "D. put up with"
+      ],
       "correctIndex": 3,
-      "explanation": "'Put up with' = chiu dung. 'I can put up with...' = toi co the chiu dung duoc..."
+      "explanation": "'Put up with' = chịu đựng. 'I can put up with...' = tới có thể chịu đựng được..."
     },
     {
       "id": 3,
       "type": "multiple-choice",
-      "question": "Belinda Harrell_______ taking her driving test until she finally passed it on her twenty-first attempt.",
-      "options": ["A. kept on", "B. cleared off", "C. used up", "D. wore out"],
+      "question": "Belinda Harrell_______ taking her driving test until she finally passed ít on her twenty-first attempt.",
+      "options": [
+        "A. kept on",
+        "B. cleared off",
+        "C. used up",
+        "D. wore out"
+      ],
       "correctIndex": 0,
-      "explanation": "'Kept on' = tiep tuc (lam gi do). Co ay tiep tuc thi lai xe cho den khi dau."
+      "explanation": "'Kept on' = tiếp tục (làm gi do). Co ay tiếp tục thì lai xe cho den khi đầu."
     },
     {
       "id": 4,
       "type": "multiple-choice",
       "question": "James is now too old to live on his own, so he is being_______ by his daughter.",
-      "options": ["A. found out", "B. brought up", "C. moved on", "D. looked after"],
+      "options": [
+        "A. found out",
+        "B. brought up",
+        "C. moved on",
+        "D. looked after"
+      ],
       "correctIndex": 3,
-      "explanation": "'Looked after' = cham soc. Con gai dang cham soc ong ay."
+      "explanation": "'Looked after' = chăm sóc. Con gai đang chăm sóc ong ay."
     },
     {
       "id": 5,
       "type": "multiple-choice",
       "question": "We arranged to meet at the station, but she didn't_______.",
-      "options": ["A. get through", "B. turn up", "C. walk out", "D. wait on"],
+      "options": [
+        "A. get through",
+        "B. turn up",
+        "C. walk out",
+        "D. wait on"
+      ],
       "correctIndex": 1,
-      "explanation": "'Turn up' = xuat hien, den. Co ay da khong den."
+      "explanation": "'Turn up' = xuất hiện, den. Co ay đã không den."
     },
     {
       "id": 6,
       "type": "multiple-choice",
       "question": "Don't worry we'll have to wait a little longer because I'm sure he will_______.",
-      "options": ["A. turn down", "B. turn in", "C. turn into", "D. turn up"],
+      "options": [
+        "A. turn down",
+        "B. turn in",
+        "C. turn into",
+        "D. turn up"
+      ],
       "correctIndex": 3,
-      "explanation": "'Turn up' = den, xuat hien. Toi chac anh ay se den."
+      "explanation": "'Turn up' = den, xuất hiện. Toi chac anh ay sẽ den."
     },
     {
       "id": 7,
       "type": "multiple-choice",
       "question": "When they_______ for the beach the sun was shining, but by the time they arrived it had clouded over.",
-      "options": ["A. went out", "B. went off", "C. set off", "D. left out"],
+      "options": [
+        "A. went out",
+        "B. went off",
+        "C. set off",
+        "D. left out"
+      ],
       "correctIndex": 2,
-      "explanation": "'Set off' = khoi hanh. Khi ho khoi hanh di bien thi troi dang nang."
+      "explanation": "'Set off' = khởi hành. Khi ho khởi hành di bien thì troi đang nang."
     },
     {
       "id": 8,
       "type": "multiple-choice",
       "question": "When Mr. Spendthrift ran out of money, he_______ his mother for help.",
-      "options": ["A. fell back on", "B. fell upon", "C. fell behind", "D. fell in with"],
+      "options": [
+        "A. fell back on",
+        "B. fell upon",
+        "C. fell behind",
+        "D. fell in with"
+      ],
       "correctIndex": 0,
-      "explanation": "'Fell back on' = phai nho den, phai dung toi. Het tien thi phai nho me giup."
+      "explanation": "'Fell back on' = phải nho den, phải dùng tới. Het tien thì phải nho me giup."
     },
     {
       "id": 9,
       "type": "multiple-choice",
-      "question": "If you can't remember his phone number, you can always_______ it_______ in the phone book.",
-      "options": ["A. take/down", "B. look/up", "C. find/out", "D. bring/about"],
+      "question": "If you can't remember his phone number, you can always_______ ít_______ in the phone book.",
+      "options": [
+        "A. take/down",
+        "B. look/up",
+        "C. find/out",
+        "D. bring/about"
+      ],
       "correctIndex": 1,
-      "explanation": "'Look up' = tra cuu. Ban co the tra so dien thoai trong danh ba."
+      "explanation": "'Look up' = tra cứu. Ban có thể tra so điện thoại trong danh bạ."
     },
     {
       "id": 10,
       "type": "multiple-choice",
       "question": "The train to the center of the city was_______ by a heavy snowfall.",
-      "options": ["A. held up", "B. took back", "C. put off", "D. given out"],
+      "options": [
+        "A. held up",
+        "B. took back",
+        "C. put off",
+        "D. given out"
+      ],
       "correctIndex": 0,
-      "explanation": "'Held up' = bi tri hoan. Tau bi tri hoan vi tuyet roi day."
+      "explanation": "'Held up' = bi trì hoãn. Tau bi trì hoãn vì tuyet rồi đây."
     },
     {
       "id": 11,
       "type": "multiple-choice",
-      "question": "My hat has just_______ behind the sofa although I thought I had lost it.",
-      "options": ["A. turned up", "B. gone away", "C. run into", "D. come across"],
+      "question": "My hat has just_______ behind the sofa although I thought I had lost ít.",
+      "options": [
+        "A. turned up",
+        "B. gone away",
+        "C. run into",
+        "D. come across"
+      ],
       "correctIndex": 0,
-      "explanation": "'Turned up' = xuat hien (bat ngo). Chiec mu bat ngo xuat hien phia sau sofa."
+      "explanation": "'Turned up' = xuất hiện (bất ngờ). Chiec mu bất ngờ xuất hiện phia sau sofa."
     },
     {
       "id": 12,
       "type": "multiple-choice",
       "question": "Jim's_______ flu again. That's the third time this year.",
-      "options": ["A. gone down with", "B. put up with", "C. led up to", "D. come up with"],
+      "options": [
+        "A. gone down with",
+        "B. put up with",
+        "C. led up to",
+        "D. come up with"
+      ],
       "correctIndex": 0,
-      "explanation": "'Gone down with' = mac benh. Jim lai bi cum lan nua."
+      "explanation": "'Gone down with' = mắc bệnh. Jim lai bi cum lan nua."
     },
     {
       "id": 13,
       "type": "multiple-choice",
-      "question": "Considering how little they have got in common, it's surprising how well they_______ together.",
-      "options": ["A. get through", "B. get on", "C. get down", "D. get up"],
+      "question": "Considering how little they have got in common, ít's surprising how well they_______ together.",
+      "options": [
+        "A. get through",
+        "B. get on",
+        "C. get down",
+        "D. get up"
+      ],
       "correctIndex": 1,
-      "explanation": "'Get on' = hoa hop, hoa thuan. Ho hoa thuan voi nhau rat tot."
+      "explanation": "'Get on' = hoa hop, hòa thuận. Ho hòa thuận với nhau rat tốt."
     },
     {
       "id": 14,
       "type": "multiple-choice",
       "question": "Her brother was offered the manager's job, but he_______. He said he didn't want the responsibilities.",
-      "options": ["A. turned it off", "B. turned it down", "C. threw it away", "D. put it off"],
+      "options": [
+        "A. turned ít off",
+        "B. turned ít down",
+        "C. threw ít away",
+        "D. put ít off"
+      ],
       "correctIndex": 1,
-      "explanation": "'Turned it down' = tu choi. Anh ay tu choi cong viec quan ly."
+      "explanation": "'Turned ít down' = từ chối. Anh ay từ chối công việc quan ly."
     },
     {
       "id": 15,
       "type": "multiple-choice",
       "question": "Roger Federer couldn't _______ the possibility of withdrawing from the championship because of injury.",
-      "options": ["A. rule out", "B. pass over", "C. come off", "D. do without"],
+      "options": [
+        "A. rule out",
+        "B. pass over",
+        "C. come off",
+        "D. do without"
+      ],
       "correctIndex": 0,
-      "explanation": "'Rule out' = loai tru. Khong the loai tru kha nang rut lui vi chan thuong."
+      "explanation": "'Rule out' = loại trừ. Khong the loại trừ khả năng rut lui vì chan thường."
     },
     {
       "id": 16,
       "type": "multiple-choice",
-      "question": "He is disappointed at not being offered the job, but I think he will_______ it.",
-      "options": ["A. turn off", "B. fill in", "C. get over", "D. take after"],
+      "question": "He is disappointed at not being offered the job, but I think he will_______ ít.",
+      "options": [
+        "A. turn off",
+        "B. fill in",
+        "C. get over",
+        "D. take after"
+      ],
       "correctIndex": 2,
-      "explanation": "'Get over' = vuot qua. Toi nghi anh ay se vuot qua noi that vong."
+      "explanation": "'Get over' = vượt qua. Toi nghi anh ay sẽ vượt qua nói thất vọng."
     },
     {
       "id": 17,
       "type": "multiple-choice",
       "question": "Lucy was late for school this morning because the alarm didn't_______ as usual.",
-      "options": ["A. ring off", "B. go off", "C. get off", "D. take off"],
+      "options": [
+        "A. ring off",
+        "B. go off",
+        "C. get off",
+        "D. take off"
+      ],
       "correctIndex": 1,
-      "explanation": "'Go off' = do chuong, reo. Dong ho bao thuc khong reo."
+      "explanation": "'Go off' = đổ chuông, reo. Dong ho bao thuc không reo."
     },
     {
       "id": 18,
       "type": "multiple-choice",
       "question": "His son_______ him so much that we can't see any differences between them.",
-      "options": ["A. takes after", "B. looks up", "C. takes in", "D. looks over"],
+      "options": [
+        "A. takes after",
+        "B. looks up",
+        "C. takes in",
+        "D. looks over"
+      ],
       "correctIndex": 0,
-      "explanation": "'Takes after' = giong (nguoi than). Con trai giong bo den noi khong thay su khac biet."
+      "explanation": "'Takes after' = giống (người thân). Con trai giống bỏ den nói không thay sự khác biet."
     },
     {
       "id": 19,
       "type": "multiple-choice",
       "question": "My sister-in-law is beloved by all my relatives for she can_______ all right after getting married.",
-      "options": ["A. get on well with", "B. get up", "C. get over", "D. get out of"],
+      "options": [
+        "A. get on well with",
+        "B. get up",
+        "C. get over",
+        "D. get out of"
+      ],
       "correctIndex": 0,
-      "explanation": "'Get on well with' = hoa thuan voi. Chi dau hoa thuan voi tat ca nguoi than."
+      "explanation": "'Get on well with' = hòa thuận với. Chi đầu hòa thuận với tất cả người thân."
     },
     {
       "id": 20,
       "type": "multiple-choice",
       "question": "I know we had an argument, but now I'd quite like to_______.",
-      "options": ["A. look down", "B. make up", "C. fall out", "D. bring up"],
+      "options": [
+        "A. look down",
+        "B. make up",
+        "C. fall out",
+        "D. bring up"
+      ],
       "correctIndex": 1,
-      "explanation": "'Make up' = lam hoa. Sau khi cai nhau, toi muon lam hoa."
+      "explanation": "'Make up' = làm hòa. Sau khi cai nhau, tới muộn làm hòa."
     }
   ]
 }

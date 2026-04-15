@@ -1,9 +1,9 @@
 {
   "topicId": "review-error-finding",
-  "title": "Tong On Tim Loi Sai",
+  "title": "Tổng Ôn Tìm Lỗi Sai",
   "section": "grammar",
   "knowledge": {
-    "html": "<h3>Tim Loi Sai (Error Finding)</h3><p>Chon tu/cum tu gach chan co loi sai trong cau. Cac loi thuong gap:</p><ul><li>Chia dong tu (subject-verb agreement, tense)</li><li>Tu loai (noun/verb/adj/adv dung sai vi tri)</li><li>Gioi tu</li><li>Mao tu</li><li>Cau truc ngu phap</li></ul>"
+    "html": "<h3>Tim Loi Sai (Error Finding)</h3><p>Chon tu/cụm từ gach chan co loi sai trong cau. Cac loi thường gặp:</p><ul><li>Chia động từ (subject-verb agreement, tense)</li><li>Tu loai (noun/verb/adj/adv dung sai vị trí)</li><li>Giới từ</li><li>Mạo từ</li><li>Cấu trúc ngu phap</li></ul>"
   },
   "exercises": [
     {

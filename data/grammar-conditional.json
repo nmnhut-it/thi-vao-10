@@ -1,16 +1,21 @@
 {
   "topicId": "grammar-conditional",
-  "title": "Conditional Sentences (Cau Dieu Kien)",
+  "title": "Conditional Sentences (Câu Điều Kiện)",
   "section": "grammar",
   "knowledge": {
-    "html": "<h3>1. Cac loai cau dieu kien</h3><table class='grammar-table'><tr><th>Loai</th><th>Giai thich</th><th>Cong thuc</th><th>Vi du</th></tr><tr><td><b>Conditional Sentence Type 1</b></td><td>Cau dieu kien co that, co the xay ra o hien tai/tuong lai</td><td><div class='formula'>If + S + V(hien tai), S + will/won't + V(nguyen)</div></td><td><div class='example'>If it rains tomorrow, we won't go out.</div></td></tr><tr><td><b>Conditional Sentence Type 2</b></td><td>Cau dieu kien khong co that khong the xay ra o hien tai</td><td><div class='formula'>If + S + V(qua khu), S + would(not) + V(nguyen)</div><br>Luu y: Trong cau dieu kien loai 2, chi dung \"to be\" la \"WERE\"</td><td><div class='example'>If I had money, I would buy that car.<br>If I were you, I wouldn't behave like that.</div></td></tr><tr><td><b>Conditional Sentence Type 3</b></td><td>Cau dieu kien khong co that khong the xay ra o qua khu</td><td><div class='formula'>If + S + had + VP2, S + would(not) + have + VP2</div></td><td><div class='example'>If you had finished your homework, you wouldn't have been punished.</div></td></tr><tr><td><b>Conditional Sentence Mixed 3-2</b></td><td>Cau dieu kien dien ta tinh huong trong qua khu khong thuc te va ket qua co the xay ra trong hien tai</td><td><div class='formula'>If + S + had + VP2 (+ yesterday, last night,...), S + would(n't) + V(nguyen) + now/right now/today/...</div></td><td><div class='example'>If you had gone to bed earlier last night, you wouldn't be tired now.</div></td></tr></table><h3>2. Mot so cach dien dat dieu kien khac</h3><table class='grammar-table'><tr><th>STT</th><th>Cau truc</th><th>Giai thich</th><th>Vi du</th></tr><tr><td>1</td><td><b>Unless</b></td><td>Unless = If...not (tru phi).<br>Neu menh de \"If\" co \"not\", ta the \"Unless\" vao vi tri cua \"If\" va bo \"not\".<br>Neu menh de \"If\" khong co \"not\", ta van the \"Unless\" vao vi tri cua \"If\" nhung them hoac bot \"not\" o menh de sau.</td><td><div class='example'>If you don't speak loudly, he won't hear.<br>= Unless you speak loudly, he won't hear.</div></td></tr><tr><td>2</td><td><b>In case</b></td><td>In case + menh de,... (Phong khi)</td><td><div class='example'>In case we stay longer, take some more money.</div></td></tr><tr><td>3</td><td><b>Should</b></td><td>If + S + should + V, menh de. (dien ta 1 su viec kho co the xay ra)</td><td><div class='example'>If you should see Ann, could you ask her to call me?</div></td></tr><tr><td>4</td><td><b>Happen to V</b></td><td>If + S + happen to + V, menh de. (nhan manh su tinh co hoi cua 1 su viec)</td><td><div class='example'>If you happen to see Helen, could you ask her to call me?</div></td></tr><tr><td>5</td><td><b>If + adjective</b></td><td>If + tinh tu, menh de.</td><td><div class='example'>If necessary, you can take a taxi.</div></td></tr><tr><td>6</td><td><b>Were to</b></td><td>S + were to V... (dien ta 1 canh tuong o tuong lai/de nghi lich su).<br>Luu y: Cong thuc nay khong ap dung cho cac dong tu chi trang thai nhu: know, like, remember, understand...</td><td><div class='example'>If the government were to cut V.A.T, prices would fall.</div></td></tr><tr><td>7</td><td><b>Without/But for</b></td><td>Without But for (neu khong co...)<br>= If it weren't for + danh tu, menh de. (DKL2)<br>= If it hadn't been for + danh tu, menh de. (DKL3)</td><td><div class='example'>If you hadn't helped us, we would have been in trouble.<br>= But for your help, we would have been in a mess.<br>= If it were not for Jim, this company would be in a mess.<br>= Without Jim, this company would be in a mess.</div></td></tr><tr><td>8</td><td><b>Supposing/Suppose</b></td><td>Supposing/suppose (gia su)</td><td><div class='example'>Supposing you won the football match, what would you do?</div></td></tr><tr><td>9</td><td><b>Otherwise</b></td><td>Otherwise (neu khong thi).<br>Otherwise + real condition (dieu kien co the thuc hien duoc).<br>Otherwise + unreal condition (dieu kien khong the thuc hien duoc).</td><td><div class='example'>We must be back before midnight, otherwise I will be locked out.<br>He supports her finance, otherwise she couldn't conduct this survey.<br>I used a computer, otherwise I wouldn't have finished this report.</div></td></tr><tr><td>10</td><td><b>Provided/as long as</b></td><td>Provided that/providing that = as long as/so long as = on condition that + menh de, menh de (mien la)</td><td><div class='example'>You can go home late provided that you do the homework.</div></td></tr><tr><td>11</td><td><b>Wish/If only</b></td><td>If only/S wish + S + V(qua khu) (uoc nguoc voi hien tai)</td><td><div class='example'>If only I had today off.</div></td></tr><tr><td>12</td><td><b>If only (qua khu)</b></td><td>If only/S wish + S + V(qua khu hoan thanh) (uoc nguoc voi qua khu)</td><td><div class='example'>They wish that they hadn't spent $500.</div></td></tr><tr><td>13</td><td><b>It's time</b></td><td>It's (high/about) time + S + V(qua khu) (da den luc phai lam gi)</td><td><div class='example'>It's time we did our homework.</div></td></tr><tr><td>14</td><td><b>Would rather</b></td><td>S + would rather + S + V(qua khu) (muon ai do lam gi)</td><td><div class='example'>I'd rather you didn't smoke here.</div></td></tr></table>"
+    "html": "<h3>1. Cac loại câu điều kiện</h3><table class='grammar-table'><tr><th>Loai</th><th>Giải thích</th><th>Công thức</th><th>Ví dụ</th></tr><tr><td><b>Conditional Sentence Type 1</b></td><td>Câu điều kiện có thật, có thể xảy ra ở hiện tại/tương lai</td><td><div class='formula'>If + S + V(hiện tại), S + will/won't + V(nguyen)</div></td><td><div class='example'>If ít rains tomorrow, we won't go out.</div></td></tr><tr><td><b>Conditional Sentence Type 2</b></td><td>Câu điều kiện không có thật không the xảy ra ở hiện tại</td><td><div class='formula'>If + S + V(quá khứ), S + would(not) + V(nguyen)</div><br>Lưu ý: Trong câu điều kiện loại 2, chỉ dùng \"to be\" là \"WERE\"</td><td><div class='example'>If I had money, I would buy that car.<br>If I were you, I wouldn't behave like that.</div></td></tr><tr><td><b>Conditional Sentence Type 3</b></td><td>Câu điều kiện không có thật không the xảy ra ở quá khứ</td><td><div class='formula'>If + S + had + VP2, S + would(not) + have + VP2</div></td><td><div class='example'>If you had finished your homework, you wouldn't have been punished.</div></td></tr><tr><td><b>Conditional Sentence Mixed 3-2</b></td><td>Câu điều kiện diễn tả tình huống trong quá khứ không thuc tệ và kết quả có thể xảy ra trong hiện tại</td><td><div class='formula'>If + S + had + VP2 (+ yesterday, last night,...), S + would(n't) + V(nguyen) + now/right now/today/...</div></td><td><div class='example'>If you had gone to bed earlier last night, you wouldn't be tired now.</div></td></tr></table><h3>2. Một số cach diễn dat điều kiện khác</h3><table class='grammar-table'><tr><th>STT</th><th>Cấu trúc</th><th>Giải thích</th><th>Ví dụ</th></tr><tr><td>1</td><td><b>Unless</b></td><td>Unless = If...not (trừ phi).<br>Neu mệnh đề \"If\" có \"not\", ta thế \"Unless\" vào vị trí của \"If\" và bỏ \"not\".<br>Neu mệnh đề \"If\" không có \"not\", ta vẫn thế \"Unless\" vào vị trí của \"If\" nhưng thêm hoặc bớt \"not\" ở mệnh đề sau.</td><td><div class='example'>If you don't speak loudly, he won't hear.<br>= Unless you speak loudly, he won't hear.</div></td></tr><tr><td>2</td><td><b>In case</b></td><td>In case + mệnh đề,... (Phong khi)</td><td><div class='example'>In case we stay longer, take some more money.</div></td></tr><tr><td>3</td><td><b>Should</b></td><td>If + S + should + V, mệnh đề. (diễn tả 1 sự việc khó có thể xảy ra)</td><td><div class='example'>If you should see Ann, could you ask her to call me?</div></td></tr><tr><td>4</td><td><b>Happen to V</b></td><td>If + S + happen to + V, mệnh đề. (nhấn mạnh sự tình cờ hoi của 1 sự việc)</td><td><div class='example'>If you happen to see Helen, could you ask her to call me?</div></td></tr><tr><td>5</td><td><b>If + adjective</b></td><td>If + tính từ, mệnh đề.</td><td><div class='example'>If necessary, you can take a taxi.</div></td></tr><tr><td>6</td><td><b>Were to</b></td><td>S + were to V... (diễn tả 1 cảnh tương ở tương lai/đề nghị lịch sự).<br>Lưu ý: Công thức nay không áp dùng cho các động từ chỉ trạng thái nhu: know, like, remember, understand...</td><td><div class='example'>If the government were to cut V.A.T, prices would fall.</div></td></tr><tr><td>7</td><td><b>Without/But for</b></td><td>Without But for (nếu không có...)<br>= If ít weren't for + danh từ, mệnh đề. (DKL2)<br>= If it hadn't been for + danh từ, mệnh đề. (DKL3)</td><td><div class='example'>If you hadn't helped us, we would have been in trouble.<br>= But for your help, we would have been in a mess.<br>= If ít were not for Jim, this company would be in a mess.<br>= Without Jim, this company would be in a mess.</div></td></tr><tr><td>8</td><td><b>Supposing/Suppose</b></td><td>Supposing/suppose (giả sử)</td><td><div class='example'>Supposing you won the football match, what would you do?</div></td></tr><tr><td>9</td><td><b>Otherwise</b></td><td>Otherwise (nếu không thì).<br>Otherwise + real condition (điều kiện có thể thực hiện được).<br>Otherwise + unreal condition (điều kiện không the thực hiện được).</td><td><div class='example'>We must be back before midnight, otherwise I will be locked out.<br>He supports her finance, otherwise she couldn't conduct this survey.<br>I used a computer, otherwise I wouldn't have finished this report.</div></td></tr><tr><td>10</td><td><b>Provided/as long as</b></td><td>Provided that/providing that = as long as/so long as = on condition that + mệnh đề, mệnh đề (miễn là)</td><td><div class='example'>You can go home late provided that you do the homework.</div></td></tr><tr><td>11</td><td><b>Wish/If only</b></td><td>If only/S wish + S + V(quá khứ) (ước ngược với hiện tại)</td><td><div class='example'>If only I had today off.</div></td></tr><tr><td>12</td><td><b>If only (quá khứ)</b></td><td>If only/S wish + S + V(quá khứ hoàn thành) (ước ngược với quá khứ)</td><td><div class='example'>They wish that they hadn't spent $500.</div></td></tr><tr><td>13</td><td><b>It's time</b></td><td>It's (high/about) time + S + V(quá khứ) (đã den lúc phải làm gi)</td><td><div class='example'>It's time we did our homework.</div></td></tr><tr><td>14</td><td><b>Would rather</b></td><td>S + would rather + S + V(quá khứ) (muộn ai do làm gi)</td><td><div class='example'>I'd rather you didn't smoke here.</div></td></tr></table>"
   },
   "exercises": [
     {
       "id": 1,
       "type": "multiple-choice",
       "question": "If I were a better conversationalist, _______ to parties more often?",
-      "options": ["A. I would be invited", "B. I would have been invited", "C. would I be invited", "D. I have been invited"],
+      "options": [
+        "A. I would be invited",
+        "B. I would have been invited",
+        "C. would I be invited",
+        "D. I have been invited"
+      ],
       "correctIndex": 2,
       "explanation": "Type 2 conditional (unreal present). Because the sentence ends with '?', this is a question, so use inverted word order: 'would I be invited?' (not 'I would be invited')."
     },
@@ -18,7 +23,12 @@
       "id": 2,
       "type": "multiple-choice",
       "question": "Should she have some more money, she _______ a better car.",
-      "options": ["A. would buy", "B. will buy", "C. buys", "D. bought"],
+      "options": [
+        "A. would buy",
+        "B. will buy",
+        "C. buys",
+        "D. bought"
+      ],
       "correctIndex": 0,
       "explanation": "'Should she have' is an inverted form of 'If she should have' (expressing an unlikely condition). The result clause uses 'would buy'."
     },
@@ -26,7 +36,12 @@
       "id": 3,
       "type": "multiple-choice",
       "question": "Had you been more careful, such typing mistakes _______ avoided.",
-      "options": ["A. can have been", "B. would be", "C. might have been", "D. should have been"],
+      "options": [
+        "A. can have been",
+        "B. would be",
+        "C. might have been",
+        "D. should have been"
+      ],
       "correctIndex": 2,
       "explanation": "'Had you been' = 'If you had been' (Type 3). Result: 'might have been avoided'."
     },
@@ -34,7 +49,12 @@
       "id": 4,
       "type": "multiple-choice",
       "question": "Don't worry _______ home late tonight.",
-      "options": ["A. when I'll be", "B. if I'll be", "C. unless I'll be", "D. if I'm"],
+      "options": [
+        "A. when I'll be",
+        "B. if I'll be",
+        "C. unless I'll be",
+        "D. if I'm"
+      ],
       "correctIndex": 3,
       "explanation": "After 'if' in conditional, use present tense (not will): 'if I'm'."
     },
@@ -42,7 +62,12 @@
       "id": 5,
       "type": "multiple-choice",
       "question": "If I _______ you, I wouldn't buy that book.",
-      "options": ["A. are", "B. am", "C. were", "D. aren't"],
+      "options": [
+        "A. are",
+        "B. ấm",
+        "C. were",
+        "D. aren't"
+      ],
       "correctIndex": 2,
       "explanation": "Type 2: 'If I were you' - always use 'were' in unreal conditions."
     },
@@ -50,23 +75,38 @@
       "id": 6,
       "type": "multiple-choice",
       "question": "If she _______ harder, she can pass the exam.",
-      "options": ["A. study", "B. studies", "C. studied", "D. studying"],
+      "options": [
+        "A. study",
+        "B. studies",
+        "C. studied",
+        "D. studying"
+      ],
       "correctIndex": 1,
       "explanation": "Type 1 (real condition): If + present simple. 'She' takes 'studies'."
     },
     {
       "id": 7,
       "type": "multiple-choice",
-      "question": "Unless it rains soon, a lot of plants _______.",
-      "options": ["A. die", "B. will die", "C. won't die", "D. would die"],
+      "question": "Unless ít rains soon, a lot of plants _______.",
+      "options": [
+        "A. die",
+        "B. will die",
+        "C. won't die",
+        "D. would die"
+      ],
       "correctIndex": 1,
-      "explanation": "'Unless it rains' = 'If it doesn't rain' (Type 1): plants will die."
+      "explanation": "'Unless ít rains' = 'If ít doesn't rain' (Type 1): plants will die."
     },
     {
       "id": 8,
       "type": "multiple-choice",
       "question": "If I _______ an Angel, I would try to make happy all the children.",
-      "options": ["A. am", "B. have been", "C. were", "D. had been"],
+      "options": [
+        "A. ấm",
+        "B. have been",
+        "C. were",
+        "D. had been"
+      ],
       "correctIndex": 2,
       "explanation": "Type 2 (unreal present): If + past simple. Use 'were' for all subjects."
     },
@@ -74,15 +114,25 @@
       "id": 9,
       "type": "multiple-choice",
       "question": "If she _______ the truth, she'd never want to see you again.",
-      "options": ["A. would know", "B. knows", "C. will know", "D. knew"],
+      "options": [
+        "A. would know",
+        "B. knows",
+        "C. will know",
+        "D. knew"
+      ],
       "correctIndex": 3,
       "explanation": "Type 2: If + past simple ('knew'), S + would + V."
     },
     {
       "id": 10,
       "type": "multiple-choice",
-      "question": "If the wall weren't so high, he _______ it up to take his ball down.",
-      "options": ["A. climbed", "B. could climb", "C. is climbing", "D. climb"],
+      "question": "If the wall weren't so high, he _______ ít up to take his ball down.",
+      "options": [
+        "A. climbed",
+        "B. could climb",
+        "C. is climbing",
+        "D. climb"
+      ],
       "correctIndex": 1,
       "explanation": "Type 2: If + past, S + could/would + V: 'could climb'."
     },
@@ -90,15 +140,25 @@
       "id": 11,
       "type": "multiple-choice",
       "question": "I think he is not at home. If he _______ in, he _______ the phone.",
-      "options": ["A. was/answered", "B. were/would answer", "C. were/would have answered", "D. had been/would have answered"],
+      "options": [
+        "A. was/answered",
+        "B. were/would answer",
+        "C. were/would have answered",
+        "D. had been/would have answered"
+      ],
       "correctIndex": 1,
       "explanation": "Type 2 (unreal present): If he were in, he would answer."
     },
     {
       "id": 12,
       "type": "multiple-choice",
-      "question": "You would study Italian if it _______ here.",
-      "options": ["A. was teaching", "B. were taught", "C. would be taught", "D. is taught"],
+      "question": "You would study Italian if ít _______ here.",
+      "options": [
+        "A. was teaching",
+        "B. were taught",
+        "C. would be taught",
+        "D. is taught"
+      ],
       "correctIndex": 1,
       "explanation": "Type 2: If + past (passive: were taught)."
     },
@@ -106,7 +166,12 @@
       "id": 13,
       "type": "multiple-choice",
       "question": "I would have visited you before if there _______ a lot of people in your house.",
-      "options": ["A. hadn't", "B. hadn't been", "C. wouldn't be", "D. wasn't"],
+      "options": [
+        "A. hadn't",
+        "B. hadn't been",
+        "C. wouldn't be",
+        "D. wasn't"
+      ],
       "correctIndex": 1,
       "explanation": "Type 3: If + past perfect: 'if there hadn't been'."
     },
@@ -114,7 +179,12 @@
       "id": 14,
       "type": "multiple-choice",
       "question": "You made a mistake by telling her a lie. It _______ better if you _______ to her.",
-      "options": ["A. would have been / hadn't lied", "B. would be / didn't lie", "C. will be / don't lie", "D. would be / hadn't lied"],
+      "options": [
+        "A. would have been / hadn't lied",
+        "B. would be / didn't lie",
+        "C. will be / don't lie",
+        "D. would be / hadn't lied"
+      ],
       "correctIndex": 0,
       "explanation": "Type 3 (past unreal): would have been better if you hadn't lied."
     },
@@ -122,7 +192,12 @@
       "id": 15,
       "type": "multiple-choice",
       "question": "John would take a great risk now if he _______ his money in that business last year.",
-      "options": ["A. would invest", "B. invested", "C. had invested", "D. invests"],
+      "options": [
+        "A. would invest",
+        "B. invested",
+        "C. had invested",
+        "D. invests"
+      ],
       "correctIndex": 2,
       "explanation": "Mixed conditional (3-2): If + had + PP (past), S + would + V (present result). 'Had invested'."
     },
@@ -130,7 +205,12 @@
       "id": 16,
       "type": "multiple-choice",
       "question": "If you waited, he _______.",
-      "options": ["A. will come", "B. would come", "C. comes", "D. wouldn't come"],
+      "options": [
+        "A. will come",
+        "B. would come",
+        "C. comes",
+        "D. wouldn't come"
+      ],
       "correctIndex": 1,
       "explanation": "Type 2: If + past simple, S + would + V: 'would come'."
     },
@@ -138,7 +218,12 @@
       "id": 17,
       "type": "multiple-choice",
       "question": "If you _______ the bell, the servant would come.",
-      "options": ["A. ring", "B. rings", "C. don't ring", "D. rang"],
+      "options": [
+        "A. ring",
+        "B. rings",
+        "C. don't ring",
+        "D. rang"
+      ],
       "correctIndex": 3,
       "explanation": "Type 2: If + past simple ('rang'), S + would + V."
     },
@@ -146,7 +231,12 @@
       "id": 18,
       "type": "multiple-choice",
       "question": "If you press that button what _______?",
-      "options": ["A. would happen", "B. would have happened", "C. will happen", "D. happen"],
+      "options": [
+        "A. would happen",
+        "B. would have happened",
+        "C. will happen",
+        "D. happen"
+      ],
       "correctIndex": 2,
       "explanation": "Type 1 (real condition): If + present, S + will + V: 'will happen'."
     },
@@ -154,15 +244,25 @@
       "id": 19,
       "type": "multiple-choice",
       "question": "I _______ one of my special desserts for dinner if you like.",
-      "options": ["A. make", "B. will make", "C. am going to make", "D. am making"],
+      "options": [
+        "A. make",
+        "B. will make",
+        "C. ấm going to make",
+        "D. ấm making"
+      ],
       "correctIndex": 1,
       "explanation": "Type 1: If + present ('if you like'), S + will + V: 'will make'."
     },
     {
       "id": 20,
       "type": "multiple-choice",
-      "question": "The car _______ if somebody takes it there.",
-      "options": ["A. will be repaired", "B. would be repaired", "C. will been repaired", "D. is repair"],
+      "question": "The car _______ if somebody takes ít there.",
+      "options": [
+        "A. will be repaired",
+        "B. would be repaired",
+        "C. will been repaired",
+        "D. is repair"
+      ],
       "correctIndex": 0,
       "explanation": "Type 1 passive: will + be + PP: 'will be repaired'."
     },
@@ -205,10 +305,10 @@
     {
       "id": 25,
       "type": "error-correct",
-      "wrongSentence": "We stay at home if it snows tomorrow.",
+      "wrongSentence": "We stay at home if ít snows tomorrow.",
       "errorWord": "stay",
       "correction": "will stay",
-      "correctSentence": "We will stay at home if it snows tomorrow.",
+      "correctSentence": "We will stay at home if ít snows tomorrow.",
       "explanation": "Type 1: result clause needs 'will': 'We will stay'."
     },
     {
@@ -259,10 +359,10 @@
     {
       "id": 31,
       "type": "error-correct",
-      "wrongSentence": "I would do it if I could, but I can't so I wouldn't even try.",
+      "wrongSentence": "I would do ít if I could, but I can't so I wouldn't even try.",
       "errorWord": "wouldn't",
       "correction": "won't",
-      "correctSentence": "I would do it if I could, but I can't so I won't even try.",
+      "correctSentence": "I would do ít if I could, but I can't so I won't even try.",
       "explanation": "The second part is a real statement about the present: 'I can't, so I won't try'."
     },
     {
@@ -353,7 +453,12 @@
       "instruction": "Rewrite starting with 'They might'",
       "starterText": "They might",
       "answer": "They might have understood what she was saying if they had been listening carefully.",
-      "acceptedAnswers": ["They might have understood what she was saying if they had been listening carefully.", "They might have understood what she was saying if they had been listening carefully", "They might have understood what she was saying if they had listened carefully.", "They might have understood what she was saying if they had listened carefully"],
+      "acceptedAnswers": [
+        "They might have understood what she was saying if they had been listening carefully.",
+        "They might have understood what she was saying if they had been listening carefully",
+        "They might have understood what she was saying if they had listened carefully.",
+        "They might have understood what she was saying if they had listened carefully"
+      ],
       "explanation": "Type 3: might have + PP + if + had + PP."
     },
     {
@@ -363,7 +468,10 @@
       "instruction": "Rewrite starting with 'If you'",
       "starterText": "If you",
       "answer": "If you hadn't taken me to your friend's party, I wouldn't have met Hung.",
-      "acceptedAnswers": ["If you hadn't taken me to your friend's party, I wouldn't have met Hung.", "If you hadn't taken me to your friend's party, I wouldn't have met Hung"],
+      "acceptedAnswers": [
+        "If you hadn't taken me to your friend's party, I wouldn't have met Hung.",
+        "If you hadn't taken me to your friend's party, I wouldn't have met Hung"
+      ],
       "explanation": "Type 3 (past unreal): If + hadn't + PP, S + wouldn't have + PP."
     },
     {
@@ -373,17 +481,25 @@
       "instruction": "Rewrite starting with 'Unless'",
       "starterText": "Unless",
       "answer": "Unless you wear a helmet, you can't ride your bike.",
-      "acceptedAnswers": ["Unless you wear a helmet, you can't ride your bike.", "Unless you wear a helmet, you can't ride your bike"],
+      "acceptedAnswers": [
+        "Unless you wear a helmet, you can't ride your bike.",
+        "Unless you wear a helmet, you can't ride your bike"
+      ],
       "explanation": "'Unless' = 'If...not'. Remove 'don't' when replacing 'If' with 'Unless'."
     },
     {
       "id": 44,
       "type": "sentence-rewrite",
-      "original": "I would visit my grandpa, but it's raining.",
+      "original": "I would visit my grandpa, but ít's raining.",
       "instruction": "Rewrite starting with 'If'",
       "starterText": "If",
-      "answer": "If it weren't raining, I would visit my grandpa.",
-      "acceptedAnswers": ["If it weren't raining, I would visit my grandpa.", "If it weren't raining, I would visit my grandpa", "If it wasn't raining, I would visit my grandpa.", "If it wasn't raining, I would visit my grandpa"],
+      "answer": "If ít weren't raining, I would visit my grandpa.",
+      "acceptedAnswers": [
+        "If ít weren't raining, I would visit my grandpa.",
+        "If ít weren't raining, I would visit my grandpa",
+        "If it wasn't raining, I would visit my grandpa.",
+        "If it wasn't raining, I would visit my grandpa"
+      ],
       "explanation": "Type 2: If + past (weren't raining), S + would + V."
     },
     {
@@ -393,7 +509,12 @@
       "instruction": "Rewrite starting with 'If'",
       "starterText": "If",
       "answer": "If I had enough money, I could buy that dress.",
-      "acceptedAnswers": ["If I had enough money, I could buy that dress.", "If I had enough money, I could buy that dress", "If I had enough money, I would buy that dress.", "If I had enough money, I would buy that dress"],
+      "acceptedAnswers": [
+        "If I had enough money, I could buy that dress.",
+        "If I had enough money, I could buy that dress",
+        "If I had enough money, I would buy that dress.",
+        "If I had enough money, I would buy that dress"
+      ],
       "explanation": "Type 2 (unreal present wish): If + past, S + could/would + V."
     },
     {
@@ -403,7 +524,10 @@
       "instruction": "Rewrite starting with 'If'",
       "starterText": "If",
       "answer": "If I hadn't woken her up in time, Sue would have missed the train.",
-      "acceptedAnswers": ["If I hadn't woken her up in time, Sue would have missed the train.", "If I hadn't woken her up in time, Sue would have missed the train"],
+      "acceptedAnswers": [
+        "If I hadn't woken her up in time, Sue would have missed the train.",
+        "If I hadn't woken her up in time, Sue would have missed the train"
+      ],
       "explanation": "Type 3: If + hadn't PP, S + would have PP."
     },
     {
@@ -413,7 +537,12 @@
       "instruction": "Rewrite starting with 'Dan wouldn't'",
       "starterText": "Dan wouldn't",
       "answer": "Dan wouldn't have got so angry if we hadn't been an hour late.",
-      "acceptedAnswers": ["Dan wouldn't have got so angry if we hadn't been an hour late.", "Dan wouldn't have got so angry if we hadn't been an hour late", "Dan wouldn't have gotten so angry if we hadn't been an hour late.", "Dan wouldn't have gotten so angry if we hadn't been an hour late"],
+      "acceptedAnswers": [
+        "Dan wouldn't have got so angry if we hadn't been an hour late.",
+        "Dan wouldn't have got so angry if we hadn't been an hour late",
+        "Dan wouldn't have gotten so angry if we hadn't been an hour late.",
+        "Dan wouldn't have gotten so angry if we hadn't been an hour late"
+      ],
       "explanation": "Type 3: S + wouldn't have PP + if + hadn't PP. Both 'got' and 'gotten' are accepted as past participles of 'get'."
     },
     {
@@ -423,7 +552,12 @@
       "instruction": "Rewrite starting with 'If Julia'",
       "starterText": "If Julia",
       "answer": "If Julia had taken her umbrella yesterday, she wouldn't have got wet.",
-      "acceptedAnswers": ["If Julia had taken her umbrella yesterday, she wouldn't have got wet.", "If Julia had taken her umbrella yesterday, she wouldn't have got wet", "If Julia had taken her umbrella yesterday, she wouldn't have gotten wet.", "If Julia had taken her umbrella yesterday, she wouldn't have gotten wet"],
+      "acceptedAnswers": [
+        "If Julia had taken her umbrella yesterday, she wouldn't have got wet.",
+        "If Julia had taken her umbrella yesterday, she wouldn't have got wet",
+        "If Julia had taken her umbrella yesterday, she wouldn't have gotten wet.",
+        "If Julia had taken her umbrella yesterday, she wouldn't have gotten wet"
+      ],
       "explanation": "Type 3: If + had PP, S + wouldn't have PP."
     },
     {
@@ -433,7 +567,12 @@
       "instruction": "Rewrite starting with 'If'",
       "starterText": "If",
       "answer": "If you don't study hard, you'll fail the exam.",
-      "acceptedAnswers": ["If you don't study hard, you'll fail the exam.", "If you don't study hard, you'll fail the exam", "If you don't study hard, you will fail the exam.", "If you don't study hard, you will fail the exam"],
+      "acceptedAnswers": [
+        "If you don't study hard, you'll fail the exam.",
+        "If you don't study hard, you'll fail the exam",
+        "If you don't study hard, you will fail the exam.",
+        "If you don't study hard, you will fail the exam"
+      ],
       "explanation": "Type 1: 'or' = 'if...not': If you don't study hard, you'll fail."
     },
     {
@@ -443,7 +582,12 @@
       "instruction": "Rewrite starting with 'If'",
       "starterText": "If",
       "answer": "If you didn't live so far, I would see you more often.",
-      "acceptedAnswers": ["If you didn't live so far, I would see you more often.", "If you didn't live so far, I would see you more often", "If you didn't live so far away, I would see you more often.", "If you didn't live so far away, I would see you more often"],
+      "acceptedAnswers": [
+        "If you didn't live so far, I would see you more often.",
+        "If you didn't live so far, I would see you more often",
+        "If you didn't live so far away, I would see you more often.",
+        "If you didn't live so far away, I would see you more often"
+      ],
       "explanation": "Type 2 (unreal present): If + didn't V, S + would + V."
     }
   ]
