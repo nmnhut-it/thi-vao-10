@@ -1,443 +1,482 @@
-# Verb Tenses - Complete Reference for Grade 9 Students
+# Complete Guide to English Verb Tenses
 
-A comprehensive guide to all 12 English tenses for Vietnamese students preparing for the lop 10 entrance exam (thi vao lop 10).
-
----
-
-## PRESENT TENSES
+A practical reference for Vietnamese Grade 9 students preparing for the high school entrance exam (thi vao lop 10).
 
 ---
 
-### 1. Present Simple (Thi hien tai don)
-
-**Formation (Cau truc):**
-
-| Form | Structure |
-|------|-----------|
-| (+) | S + V(s/es) |
-| (-) | S + do/does + not + V |
-| (?) | Do/Does + S + V? |
-
-> Note: He/she/it takes **-s** or **-es** (he works, she watches, it goes)
-
-**When to use (Cach dung):**
-
-1. **Facts and general truths** (su that, chan ly): The sun rises in the east.
-2. **Habits and routines** (thoi quen): I brush my teeth twice a day.
-3. **Timetables and schedules** (lich trinh co dinh): The train leaves at 7:30 tomorrow.
-4. **Permanent situations** (tinh huong lau dai): My parents live in Hanoi.
-5. **Verbs of perception/state** (dong tu chi trang thai): I understand the lesson. She likes coffee.
-
-**Signal words (Dau hieu nhan biet):**
-always, usually, often, sometimes, rarely, never, every day/week/month/year, once a week, twice a month
-
-**Common mistakes (Loi thuong gap):**
-
-- WRONG: He don't like coffee. --> RIGHT: He **doesn't** like coffee.
-- WRONG: Does she likes music? --> RIGHT: Does she **like** music?
-- WRONG: I am go to school every day. --> RIGHT: I **go** to school every day.
-
-**Examples:**
-1. Water **boils** at 100 degrees Celsius.
-2. She **doesn't drink** tea very often.
-3. What time **does** the film **start** tonight?
-4. I **promise** I won't be late.
-
----
-
-### 2. Present Continuous (Thi hien tai tiep dien)
+## 1. Present Simple (Thi hien tai don)
 
 **Formation:**
+- (+) S + V(s/es). *She works every day.*
+- (-) S + do/does + not + V. *She does not work on Sundays.*
+- (?) Do/Does + S + V? *Does she work here?*
 
-| Form | Structure |
-|------|-----------|
-| (+) | S + am/is/are + V-ing |
-| (-) | S + am/is/are + not + V-ing |
-| (?) | Am/Is/Are + S + V-ing? |
+Note: Add **-s/-es** to the verb for he/she/it. Use **do** with I/you/we/they; **does** with he/she/it.
 
 **When to use:**
+1. General truths and facts: *The earth goes round the sun.*
+2. Habits and repeated actions: *I get up at 6 o'clock every morning.*
+3. Permanent situations: *My parents live in Hanoi.*
+4. Timetables and schedules (future meaning): *The train leaves at 8.15 tomorrow.*
+5. Performative verbs (loi hua, de nghi): *I promise I won't be late. I suggest we leave now.*
 
-1. **Actions happening right now** (dang xay ra luc noi): She is studying in her room.
-2. **Temporary situations around now** (tinh huong tam thoi): I am reading a really good book this week.
-3. **Changing or developing situations** (su thay doi): The population is increasing rapidly.
-4. **Fixed future arrangements** (ke hoach da sap xep): We are meeting Tom at 6 o'clock tonight.
-5. **Annoying habits with "always"** (thoi quen kho chiu): You are always losing your keys!
-
-**Signal words:**
-now, right now, at the moment, at present, currently, today, this week/month/year, Look!, Listen!
-
-**Verbs NOT normally used in continuous (Dong tu khong dung o dang tiep dien):**
-like, love, hate, want, need, prefer, know, understand, believe, remember, mean, belong, contain, consist, seem, suppose, realize
+**Signal words:** always, usually, often, sometimes, rarely, seldom, never, every day/week/month/year, once a week, twice a month, on Mondays
 
 **Common mistakes:**
-
-- WRONG: I am wanting some water. --> RIGHT: I **want** some water.
-- WRONG: She is know the answer. --> RIGHT: She **knows** the answer.
-- WRONG: He working now. --> RIGHT: He **is working** now.
+- Forgetting -s/-es: ~~He work~~ --> He work**s**
+- Using do/does with the main verb in affirmative: ~~She does works~~ --> She works
+- Using present continuous for habits: ~~I am going to school every day~~ --> I go to school every day
 
 **Examples:**
-1. Please be quiet. I **am trying** to concentrate.
-2. The weather **is getting** colder.
-3. What **are** you **doing** tomorrow evening?
-4. He **is always complaining** about everything.
+1. Nurses **look** after patients in hospitals.
+2. I **don't drink** coffee very often.
+3. What time **does** the museum **close**?
+4. Water **boils** at 100 degrees Celsius.
+5. Julie **doesn't eat** meat. She's a vegetarian.
 
 ---
 
-### 3. Present Perfect (Thi hien tai hoan thanh)
+## 2. Present Continuous (Thi hien tai tiep dien)
 
 **Formation:**
-
-| Form | Structure |
-|------|-----------|
-| (+) | S + have/has + V3 (past participle) |
-| (-) | S + have/has + not + V3 |
-| (?) | Have/Has + S + V3? |
+- (+) S + am/is/are + V-ing. *She is studying now.*
+- (-) S + am/is/are + not + V-ing. *She isn't studying now.*
+- (?) Am/Is/Are + S + V-ing? *Is she studying now?*
 
 **When to use:**
+1. Actions happening right now, at this moment: *Please be quiet. I'm trying to work.*
+2. Temporary situations around the present: *Kate is learning Italian this semester.*
+3. Changing or developing situations: *The population of the world is increasing very fast.*
+4. Annoying repeated actions (with **always**): *You're always losing your keys!*
+5. Fixed future arrangements (ke hoach da sap xep): *I'm meeting Tom tomorrow at 3 o'clock.*
 
-1. **Past action with present result** (hanh dong qua khu co ket qua hien tai): I have lost my key. (= I don't have it now)
-2. **Life experience up to now** (kinh nghiem song): Have you ever been to Japan?
-3. **Recent events with "just"** (vua moi xay ra): She has just arrived.
-4. **Unfinished time periods** (khoang thoi gian chua ket thuc): I have drunk three cups of coffee today.
-5. **Duration from past to now with "for/since"** (keo dai tu qua khu den hien tai): We have lived here since 2010.
-
-**Signal words:**
-just, already, yet, ever, never, recently, lately, so far, up to now, since, for, today, this week/month/year, it's the first time
-
-**Key distinction - Present Perfect vs Past Simple:**
-
-| Present Perfect | Past Simple |
-|-----------------|-------------|
-| Unfinished time: I **have seen** him **today**. | Finished time: I **saw** him **yesterday**. |
-| No specific time: She **has been** to Paris. | Specific time: She **went** to Paris **in 2020**. |
-| Result matters now: I **have lost** my key. | Just a past fact: I **lost** my key **last week**. |
+**Signal words:** now, right now, at the moment, at present, currently, today, this week/month/year, Look!, Listen!
 
 **Common mistakes:**
-
-- WRONG: I have seen him yesterday. --> RIGHT: I **saw** him yesterday.
-- WRONG: Did you ever eat sushi? --> RIGHT: **Have** you ever **eaten** sushi?
-- WRONG: I have lived here since five years. --> RIGHT: I have lived here **for** five years.
+- Using continuous with stative verbs: ~~I am knowing the answer~~ --> I know the answer
+- Forgetting the be-verb: ~~She working~~ --> She **is** working
+- Using for permanent situations: ~~I am living in Hanoi~~ (if permanent) --> I live in Hanoi
 
 **Examples:**
-1. Tom **has lost** his key. He can't get into the house.
-2. I **have never been** to Australia.
-3. **Have** you **finished** your homework **yet**?
-4. She **has worked** here **since** January.
+1. It **isn't raining** any more. Let's go out.
+2. The company **isn't doing** so well this year.
+3. Is your English **getting** better?
+4. I **'m reading** a really good book at the moment.
+5. We **'re having** a party next week. (arrangement)
 
 ---
 
-### 4. Present Perfect Continuous (Thi hien tai hoan thanh tiep dien)
+## 3. Past Simple (Thi qua khu don)
 
 **Formation:**
+- (+) S + V-ed / V2 (irregular). *She worked late. She went home.*
+- (-) S + did not + V. *She didn't work late.*
+- (?) Did + S + V? *Did she work late?*
 
-| Form | Structure |
-|------|-----------|
-| (+) | S + have/has + been + V-ing |
-| (-) | S + have/has + not + been + V-ing |
-| (?) | Have/Has + S + been + V-ing? |
+For **be**: was (I/he/she/it), were (we/you/they).
 
 **When to use:**
+1. Completed actions at a specific past time: *I got home late last night.*
+2. A series of completed past actions: *He sat down, took off his coat and opened the newspaper.*
+3. Past habits or states (no longer true): *When I was a child, I walked to school every day.*
+4. Duration in the past that is now finished: *They lived in Paris from 2010 to 2015.*
 
-1. **An activity that recently stopped, with visible results** (hoat dong vua dung, co ket qua nhin thay): You're out of breath. Have you been running?
-2. **An activity still in progress, emphasizing duration** (hoat dong van dang tiep dien, nhan manh thoi gian): I have been waiting for you for 30 minutes.
-3. **Repeated actions over a period** (hanh dong lap lai): She has been playing tennis since she was eight.
+**Signal words:** yesterday, last night/week/month/year, ago (two days ago), in 2020, when I was young, at that time, the other day
 
-**Key distinction - Present Perfect Simple vs Continuous:**
-
-| Present Perfect Continuous | Present Perfect Simple |
-|---------------------------|----------------------|
-| Focus on **activity/duration**: I **have been reading** that book. (maybe not finished) | Focus on **result/completion**: I **have read** that book. (finished) |
-| **How long**: She **has been writing** emails all morning. | **How many**: She **has written** 20 emails this morning. |
-
-**Signal words:**
-how long, for, since, all day/morning/week, recently, lately
+**Common mistakes:**
+- Using past simple with present-result situations where present perfect is needed (see Section 13)
+- Forgetting irregular forms: ~~I goed~~ --> I **went**; ~~He catched~~ --> He **caught**
+- Double past marking: ~~Did she went?~~ --> Did she **go**?
 
 **Examples:**
-1. It **has been raining** for two hours.
+1. Mozart **wrote** more than 600 pieces of music.
+2. I **didn't enjoy** the film much.
+3. **Did** you **go** out last night?
+4. It **was** cold, so I **shut** the window.
+5. We **were** very tired, so we **left** the party early.
+
+---
+
+## 4. Past Continuous (Thi qua khu tiep dien)
+
+**Formation:**
+- (+) S + was/were + V-ing. *I was working at 9 o'clock.*
+- (-) S + was/were + not + V-ing. *I wasn't working.*
+- (?) Was/Were + S + V-ing? *Were you working?*
+
+**When to use:**
+1. An action in progress at a specific past time: *At 10.30 they were playing tennis.*
+2. Background action interrupted by another event: *I was walking along the street when I heard a shout.*
+3. Two actions happening at the same time in the past: *While I was cooking, Tom was watching TV.*
+4. Setting the scene in a story: *The sun was shining and the birds were singing.*
+
+**Signal words:** while, when, at that time, at 8 o'clock last night, all morning/afternoon/evening yesterday
+
+**Common mistakes:**
+- Using past continuous for the short, interrupting action: ~~While I was reading, the phone was ringing~~ --> While I was reading, the phone **rang**.
+- Using with stative verbs: ~~I was knowing~~ --> I **knew**
+
+**Examples:**
+1. Matt **phoned** while we **were having** dinner.
+2. It **was raining** when I **got** up.
+3. I **saw** you in the park yesterday. You **were sitting** on the grass.
+4. What **were** you **doing** at this time yesterday?
+5. I **was walking** along the road when I saw Dan. So I stopped and we talked.
+
+---
+
+## 5. Present Perfect Simple (Thi hien tai hoan thanh)
+
+**Formation:**
+- (+) S + have/has + V3 (past participle). *She has finished her homework.*
+- (-) S + have/has + not + V3. *She hasn't finished yet.*
+- (?) Have/Has + S + V3? *Have you finished?*
+
+**When to use:**
+1. Past action with a present result (ket qua hien tai): *Tom has lost his key.* (= he doesn't have it now)
+2. Life experience up to now: *Have you ever been to Japan?*
+3. Recent events with **just, already, yet**: *I've just had lunch. Have you finished yet?*
+4. Actions in an unfinished time period (today, this week): *I've drunk four cups of coffee today.*
+5. Duration from past to present with **for/since**: *We've known each other for ten years.*
+
+**Signal words:** just, already, yet, ever, never, recently, lately, so far, up to now, since, for, today, this week/month/year, it's the first time
+
+**Common mistakes:**
+- Using present perfect with finished-time expressions: ~~I have seen him yesterday~~ --> I **saw** him yesterday
+- Confusing gone/been: *He has gone to Paris* (= he is there now). *He has been to Paris* (= he visited and came back).
+- Forgetting to use present perfect with "since/for" for ongoing situations: ~~I live here for 5 years~~ --> I **have lived** here for 5 years
+
+**Examples:**
+1. Ow! I **'ve cut** my finger.
+2. **Have** you **ever ridden** a horse?
+3. I **'ve already paid** the bill.
+4. It **'s** the most boring movie I **'ve ever seen**.
+5. We **haven't seen** each other **for** a long time.
+6. Sarah **hasn't phoned** **for** ages.
+
+---
+
+## 6. Present Perfect Continuous (Thi hien tai hoan thanh tiep dien)
+
+**Formation:**
+- (+) S + have/has + been + V-ing. *It has been raining.*
+- (-) S + have/has + not + been + V-ing.
+- (?) Have/Has + S + been + V-ing?
+
+**When to use:**
+1. Activity that recently stopped, with visible results: *You're out of breath. Have you been running?*
+2. Duration of an ongoing activity (with **how long, for, since**): *I've been learning English for three years.*
+3. Repeated actions over a period continuing to now: *She's been playing tennis since she was eight.*
+
+**Difference from Present Perfect Simple:**
+- Continuous = focus on the **activity itself** (possibly unfinished): *I've been reading your book.* (still reading)
+- Simple = focus on the **result/completion**: *I've read your book.* (finished)
+- Use simple for **how many/how much**: *She has written three emails.* (not has been writing)
+
+**Signal words:** how long, for, since, all day/morning/week, recently, lately
+
+**Common mistakes:**
+- Using with stative verbs: ~~I've been knowing him for years~~ --> I **'ve known** him for years
+- Using when the focus is on quantity: ~~She has been sending five emails~~ --> She **has sent** five emails
+
+**Examples:**
+1. It **'s been raining** for two hours.
 2. How long **have** you **been learning** English?
-3. I **have been working** hard. Now I need a break.
-4. They **have been going** to that cafe for years.
+3. I **'ve been looking** for you everywhere!
+4. Sorry I'm late. **Have** you **been waiting** long?
 
 ---
 
-## PAST TENSES
-
----
-
-### 5. Past Simple (Thi qua khu don)
+## 7. Past Perfect Simple (Thi qua khu hoan thanh)
 
 **Formation:**
-
-| Form | Structure |
-|------|-----------|
-| (+) | S + V2 (past form) / S + was/were |
-| (-) | S + did not + V / S + was/were + not |
-| (?) | Did + S + V? / Was/Were + S? |
-
-> Regular verbs: add **-ed** (worked, played, studied)
-> Irregular verbs: special forms (go-went, see-saw, write-wrote)
+- (+) S + had + V3. *She had left before I arrived.*
+- (-) S + had not + V3. *She hadn't left yet.*
+- (?) Had + S + V3? *Had she left?*
 
 **When to use:**
+1. An action completed before another past action: *When Sarah arrived at the party, Paul had already gone home.*
+2. An action completed before a specific past time: *By 9 o'clock, I had finished all my homework.*
+3. The "past of the past" in reported speech and narratives: *She said she had never seen such a beautiful place.*
 
-1. **Completed actions at a specific time in the past** (hanh dong da hoan thanh): I visited Da Nang last summer.
-2. **Past habits** (thoi quen qua khu): When I was a child, I played outside every day.
-3. **A sequence of past events** (chuoi su kien): She opened the door, turned on the light, and sat down.
-4. **Past states** (trang thai qua khu): Mozart was an Austrian musician. He lived from 1756 to 1791.
+Think of it as the "present perfect of the past" -- it connects an earlier past event to a later past moment.
 
-**Signal words:**
-yesterday, last night/week/month/year, ago, in 2020, when I was young, at that time, the other day
+**Signal words:** before, after, by the time, when, already, just, never ... before, until, by + past time
 
 **Common mistakes:**
-
-- WRONG: I didn't went to school. --> RIGHT: I **didn't go** to school.
-- WRONG: Did you went there? --> RIGHT: **Did** you **go** there?
-- WRONG: He was work yesterday. --> RIGHT: He **worked** yesterday.
+- Overusing it -- only needed when the sequence of events must be made clear: If the order is obvious, past simple is fine: *I had breakfast and went to school.* (past simple is OK here)
+- Confusing with present perfect: ~~I had never been to Paris~~ (without past context) --> I **have** never been to Paris
 
 **Examples:**
-1. They **invited** us to their party, but we **decided** not to go.
-2. Mozart **wrote** more than 600 pieces of music.
-3. **Did** you **enjoy** the film? - Not really.
-4. It **was** warm, so I **took** off my coat.
+1. When we got home, we found that somebody **had broken** into the flat.
+2. Karen didn't come to the cinema. She **'d already seen** the movie.
+3. At first I thought I **'d done** the right thing, but I soon realised I **'d made** a mistake.
+4. The people on the plane were nervous. They **had** never **flown** before.
 
 ---
 
-### 6. Past Continuous (Thi qua khu tiep dien)
+## 8. Past Perfect Continuous (Thi qua khu hoan thanh tiep dien)
 
 **Formation:**
-
-| Form | Structure |
-|------|-----------|
-| (+) | S + was/were + V-ing |
-| (-) | S + was/were + not + V-ing |
-| (?) | Was/Were + S + V-ing? |
+- (+) S + had + been + V-ing. *It had been raining.*
+- (-) S + had + not + been + V-ing.
+- (?) Had + S + been + V-ing?
 
 **When to use:**
+1. Duration of an activity before something else happened in the past: *Tom was tired when he got home. He'd been working hard all day.*
+2. An activity that had been in progress before a past event, with visible evidence: *The ground was wet. It had been raining.*
+3. Repeated past actions over a period before another past event: *We'd been playing tennis for about half an hour when it started to rain heavily.*
 
-1. **An action in progress at a specific past time** (dang xay ra tai mot thoi diem qua khu): At 10:30 last night, I was watching TV.
-2. **Background action when another action happened** (hanh dong nen khi hanh dong khac xay ra): I was walking home when it started to rain.
-3. **Two actions happening at the same time** (hai hanh dong song song): While I was cooking, my husband was cleaning the house.
-
-**Key pattern:** When + past simple, past continuous / While + past continuous, past simple
-- When Karen **arrived**, we **were having** dinner.
-- I **hurt** my back while I **was working** in the garden.
-
-**Signal words:**
-while, when, at that time, at 8 o'clock last night, all day yesterday
+**Signal words:** for, since, all day/morning, how long, before, when, by the time
 
 **Common mistakes:**
-
-- WRONG: While I studied, the phone rang. --> RIGHT: While I **was studying**, the phone rang.
-- WRONG: I was wanting to go home. --> RIGHT: I **wanted** to go home. (want = state verb)
+- Using with stative verbs: ~~We had been knowing each other for years~~ --> We **had known** each other for years
 
 **Examples:**
-1. This time last year I **was living** in Ho Chi Minh City.
-2. Matt **phoned** while we **were having** dinner.
-3. What **were** you **doing** at 10 o'clock last night?
-4. I **was walking** along the street when I **saw** Dan.
+1. My hands were dirty because I **'d been repairing** my bike.
+2. She was tired because she **'d been working** hard.
+3. I **'d been looking** forward to the holiday, but I had to cancel it.
+4. At last the bus came. I **'d been waiting** for 20 minutes.
 
 ---
 
-### 7. Past Perfect (Thi qua khu hoan thanh)
+## 9. Simple Future with "will" (Tuong lai don voi "will")
 
 **Formation:**
-
-| Form | Structure |
-|------|-----------|
-| (+) | S + had + V3 (past participle) |
-| (-) | S + had not (hadn't) + V3 |
-| (?) | Had + S + V3? |
+- (+) S + will + V. *I will help you.*
+- (-) S + will not (won't) + V. *I won't tell anyone.*
+- (?) Will + S + V? *Will you help me?*
 
 **When to use:**
+1. Instant decisions (made at the moment of speaking): *'It's cold.' 'I'll close the window.'*
+2. Predictions based on opinion or belief: *I think it will rain tomorrow.*
+3. Offers, promises, and requests: *I'll carry that bag for you. Will you please be quiet?*
+4. Refusing (won't): *The car won't start.* (= refuses to)
+5. Future facts: *She will be 16 next month.*
 
-1. **An action completed before another past action** (hanh dong xay ra truoc mot hanh dong khac trong qua khu): When I arrived at the party, Tom had already gone home.
-2. **Providing background for a past event** (cung cap boi canh): I didn't know who she was. I had never seen her before.
-
-**Think of it as "the past of the past" (qua khu cua qua khu).**
-
-**Key pattern:**
-- When/By the time + past simple, ... had + V3
-- After + had + V3, ... past simple
-
-**Signal words:**
-before, after, when, by the time, already, just, never ... before, until
+**Signal words:** I think, I'm sure, probably, perhaps, maybe, tomorrow, next week, in the future, soon
 
 **Common mistakes:**
-
-- WRONG: After I finished dinner, I had watched TV. --> RIGHT: After I **had finished** dinner, I **watched** TV.
-- WRONG: When I arrived, they already left. --> RIGHT: When I arrived, they **had already left**.
+- Using "will" for pre-arranged plans: ~~I'll meet Tom tomorrow at 3~~ (if already arranged) --> I **'m meeting** Tom tomorrow at 3
+- Using present simple after "I think": ~~I think it rains~~ --> I think it **will rain**
+- Double future: ~~I will can~~ --> This is wrong; use *I will be able to*
 
 **Examples:**
-1. When Sarah arrived at the party, Paul **had** already **gone** home.
-2. The house was dirty. They **hadn't cleaned** it for weeks.
-3. I **had never seen** her before we met at the conference.
-4. After she **had read** the letter, she threw it away.
+1. 'What would you like to drink?' 'I **'ll have** orange juice, please.'
+2. I don't think I **'ll go** out tonight. I'm too tired.
+3. Don't worry. I **'ll pay** you back on Friday.
+4. I **won't tell** anyone what happened. I promise.
+5. **Will** you **please** turn the music down?
 
 ---
 
-### 8. Past Perfect Continuous (Thi qua khu hoan thanh tiep dien)
+## 10. "Be going to" Future (Tuong lai voi "be going to")
 
 **Formation:**
-
-| Form | Structure |
-|------|-----------|
-| (+) | S + had been + V-ing |
-| (-) | S + had not been + V-ing |
-| (?) | Had + S + been + V-ing? |
+- (+) S + am/is/are + going to + V. *I'm going to study harder.*
+- (-) S + am/is/are + not + going to + V.
+- (?) Am/Is/Are + S + going to + V?
 
 **When to use:**
+1. Pre-planned intentions and decisions: *I'm going to buy a new car. I've been saving up.*
+2. Predictions based on present evidence: *Look at those clouds! It's going to rain.*
+3. Something about to happen: *Watch out! That wall is going to fall!*
 
-1. **An activity that had been going on before something else happened** (hoat dong dien ra trong mot khoang thoi gian truoc khi hanh dong khac xay ra): When the bus came, I had been waiting for 20 minutes.
-2. **Explaining the cause of a past state** (giai thich nguyen nhan cua trang thai qua khu): Tom was tired because he had been working hard all day.
+**"Will" vs "Be going to":**
+- **Will** = decision made NOW: *'The phone's ringing.' 'I'll answer it.'*
+- **Going to** = decision made BEFORE: *I'm going to paint my room this weekend.* (I already decided)
+- **Will** = prediction from opinion: *I think she'll pass the exam.*
+- **Going to** = prediction from evidence: *She's been studying hard. She's going to pass.*
 
-**Signal words:**
-for, since, all day/morning, how long, before
+**Signal words:** tonight, tomorrow, next week, soon, this weekend (when plans already exist)
 
 **Examples:**
-1. It was not raining when I looked out. But the ground was wet. It **had been raining**.
-2. He **had been working** at the company for five years when he got promoted.
-3. My hands were dirty because I **had been repairing** my bike.
-4. They **had been playing** tennis for half an hour when it started to rain.
+1. She **'s going to buy** a new car. (She's already decided.)
+2. Look at those black clouds! It **'s going to rain**.
+3. I **'m not going to eat** that. It smells horrible.
+4. **Are** you **going to** invite many people to the party?
 
 ---
 
-## FUTURE TENSES
-
----
-
-### 9. Future Simple - will (Thi tuong lai don)
+## 11. Future Continuous (Tuong lai tiep dien)
 
 **Formation:**
-
-| Form | Structure |
-|------|-----------|
-| (+) | S + will + V (bare infinitive) |
-| (-) | S + will not (won't) + V |
-| (?) | Will + S + V? |
+- (+) S + will + be + V-ing. *I will be working at 9 tomorrow.*
+- (-) S + won't + be + V-ing.
+- (?) Will + S + be + V-ing?
 
 **When to use:**
+1. An action in progress at a specific future time: *This time tomorrow I'll be sitting on the beach.*
+2. A future event that will happen as a matter of course: *I'll be seeing Tom tomorrow, so I'll give him the message.*
+3. Polite enquiries about someone's plans: *Will you be using the car tonight?*
 
-1. **Instant decisions** (quyet dinh tuc thi): "It's cold." "I'll close the window."
-2. **Predictions based on belief/opinion** (du doan): I think it will rain tomorrow.
-3. **Offers and promises** (de nghi va hua hen): I'll help you with your homework. I promise I won't tell anyone.
-4. **Requests** (yeu cau): Will you please turn down the music?
-
-**Key distinction - "will" vs "be going to":**
-
-| will | be going to |
-|------|-------------|
-| Decided **now**: "I'll have the chicken." | Decided **before**: I'm going to visit my grandma this weekend. (already planned) |
-| Prediction from **opinion**: I think she'll pass. | Prediction from **evidence**: Look at those clouds. It's going to rain. |
-
-**Signal words:**
-I think, I'm sure, probably, perhaps, tomorrow, next week, in the future, I promise, I hope
+**Signal words:** at this time tomorrow, at 8 o'clock tonight, this time next week
 
 **Examples:**
-1. "What would you like to drink?" - "I**'ll** have orange juice, please."
-2. I'm sure you**'ll** pass the exam.
-3. I **won't** tell anyone your secret. I promise.
-4. Don't worry about the exam. I'm sure you**'ll** do well.
+1. Don't phone me between 7 and 8. I **'ll be having** dinner.
+2. This time next week, I **'ll be lying** on the beach.
+3. **Will** you **be passing** the post office? Could you post this letter for me?
 
 ---
 
-### 10. Future with "be going to" (Tuong lai voi "be going to")
+## 12. Future Perfect (Tuong lai hoan thanh)
 
 **Formation:**
-
-| Form | Structure |
-|------|-----------|
-| (+) | S + am/is/are + going to + V |
-| (-) | S + am/is/are + not + going to + V |
-| (?) | Am/Is/Are + S + going to + V? |
+- (+) S + will + have + V3. *I will have finished by 5 o'clock.*
+- (-) S + won't + have + V3.
+- (?) Will + S + have + V3?
 
 **When to use:**
+1. An action that will be completed before a specific future time: *By next July, I will have graduated from university.*
+2. Duration up to a future point: *Next month, they will have been married for 25 years.*
 
-1. **Plans and intentions decided before speaking** (ke hoach da quyet dinh): I'm going to study medicine at university.
-2. **Predictions based on present evidence** (du doan dua tren bang chung hien tai): Look at that car! It's going to crash!
-
-**Examples:**
-1. She**'s going to buy** a new car next month.
-2. Look at those black clouds. It**'s going to rain**.
-3. I**'m not going to eat** this cheese. It smells horrible.
-4. What **are** you **going to do** with the money?
-
----
-
-### 11. Future Continuous (Thi tuong lai tiep dien)
-
-**Formation:**
-
-| Form | Structure |
-|------|-----------|
-| (+) | S + will be + V-ing |
-| (-) | S + will not be + V-ing |
-| (?) | Will + S + be + V-ing? |
-
-**When to use:**
-
-1. **An action that will be in progress at a specific future time** (hanh dong dang dien ra tai mot thoi diem tuong lai): This time tomorrow, I will be lying on the beach.
-2. **Expected/planned future events** (su kien tuong lai theo ke hoach): The government will be making a statement later today.
-
-**Signal words:**
-this time tomorrow, at 8 o'clock tonight, this time next week/year
+**Signal words:** by + future time (by tomorrow, by next year, by the time, by then), before
 
 **Examples:**
-1. Don't phone between 7 and 8. We**'ll be eating** dinner.
-2. This time next week I**'ll be lying** on the beach.
-3. **Will** you **be using** your computer this evening?
-4. She**'ll be working** late tonight.
+1. I **will have finished** this report by 6 o'clock.
+2. By the time you arrive, I **'ll have left**.
+3. Next year, she **will have worked** here for 10 years.
+4. **Will** you **have completed** the project by Friday?
 
 ---
 
-### 12. Future Perfect (Thi tuong lai hoan thanh)
+## 13. Present Perfect vs Past Simple -- The #1 Exam Trap
 
-**Formation:**
+This is the most frequently tested distinction. The core rule: **Present Perfect** connects the past to NOW. **Past Simple** is about a FINISHED past time.
 
-| Form | Structure |
-|------|-----------|
-| (+) | S + will have + V3 |
-| (-) | S + will not have + V3 |
-| (?) | Will + S + have + V3? |
+### Contrastive Pairs:
 
-**When to use:**
+| Present Perfect (lien quan den hien tai) | Past Simple (thoi gian da ket thuc) |
+|---|---|
+| Tom **has lost** his key. (He doesn't have it *now*.) | Tom **lost** his key yesterday. (What about now? We don't know.) |
+| I **'ve lived** here for 10 years. (I still live here.) | I **lived** in Paris for 3 years. (I don't live there now.) |
+| **Have** you **seen** Anna this morning? (It's still morning.) | **Did** you **see** Anna this morning? (It's now afternoon.) |
+| I **'ve never been** to Japan. (in my life until now) | I **didn't go** to Japan when I was in Asia. (a finished trip) |
+| She **has written** three books. (She's still alive/active.) | Shakespeare **wrote** 37 plays. (He is dead -- finished period.) |
+| It **hasn't rained** this week. (The week isn't over.) | It **didn't rain** last week. (Last week is over.) |
 
-**An action that will be completed before a specific time in the future** (hanh dong se hoan thanh truoc mot thoi diem tuong lai): By the time you arrive, I will have finished cooking.
+### Key Rules:
 
-**Signal words:**
-by + future time, by then, by the time, before + future time
-
-**Examples:**
-1. The film **will have finished** by the time we get to the cinema.
-2. Next year they **will have been** married for 25 years.
-3. I **will have graduated** by June.
-4. She **will have left** by the time you get there.
-
----
-
-## SUMMARY TABLE - ALL 12 TENSES
-
-| Tense | (+) | (-) | (?) |
-|-------|-----|-----|-----|
-| Present Simple | S + V(s/es) | S + don't/doesn't + V | Do/Does + S + V? |
-| Present Continuous | S + am/is/are + V-ing | S + am/is/are + not + V-ing | Am/Is/Are + S + V-ing? |
-| Present Perfect | S + have/has + V3 | S + haven't/hasn't + V3 | Have/Has + S + V3? |
-| Present Perfect Continuous | S + have/has + been + V-ing | S + haven't/hasn't + been + V-ing | Have/Has + S + been + V-ing? |
-| Past Simple | S + V2 | S + didn't + V | Did + S + V? |
-| Past Continuous | S + was/were + V-ing | S + wasn't/weren't + V-ing | Was/Were + S + V-ing? |
-| Past Perfect | S + had + V3 | S + hadn't + V3 | Had + S + V3? |
-| Past Perfect Continuous | S + had been + V-ing | S + hadn't been + V-ing | Had + S + been + V-ing? |
-| Future Simple (will) | S + will + V | S + won't + V | Will + S + V? |
-| Future (be going to) | S + am/is/are + going to + V | S + am/is/are + not + going to + V | Am/Is/Are + S + going to + V? |
-| Future Continuous | S + will be + V-ing | S + won't be + V-ing | Will + S + be + V-ing? |
-| Future Perfect | S + will have + V3 | S + won't have + V3 | Will + S + have + V3? |
+1. **Finished-time words force Past Simple:** yesterday, last week, ago, in 2020, when I was young --> always Past Simple.
+2. **Unfinished-time words allow Present Perfect:** today, this week, recently, ever, never, just, already, yet, since, for.
+3. **When/What time questions use Past Simple:** *When did you arrive?* (not have you arrived)
+4. **First announcement = Present Perfect; details = Past Simple:**
+   - A: *I've burnt myself!* B: *How did you do that?* A: *I picked up a hot dish.*
+5. **"It's the first time" = Present Perfect:** *It's the first time I've driven a car.*
 
 ---
 
-## EXAM TIPS FOR GRADE 9 STUDENTS
+## 14. Stative Verbs (Dong tu trang thai)
 
-1. **Read the signal words first** - they are the biggest clue to which tense to use.
-2. **"Since" always goes with perfect tenses** - since 2020, since I was young.
-3. **"For" + duration** can be used with perfect or past tenses depending on context.
-4. **After "when/before/after/until/as soon as"** for future meaning, use **present tense** (not will): I'll call you **when** I **arrive**. (NOT when I will arrive)
-5. **State verbs** (know, like, want, understand, belong, etc.) are almost never used in continuous tenses.
-6. **"Already" and "just"** go between have/has and V3: She has **already** left. He has **just** arrived.
-7. **"Yet"** goes at the end of questions and negatives: Have you finished **yet**? I haven't finished **yet**.
+These verbs describe states, not actions. They are **not normally used in continuous tenses**.
+
+### Categories:
+
+**Mental states (trang thai tinh than):** know, believe, understand, realise, recognise, suppose, remember, mean, forget, think (= believe), imagine
+
+**Emotions and preferences (cam xuc):** like, love, hate, want, need, prefer, wish
+
+**Senses (giac quan):** see, hear, smell, taste (when describing a state, not an action)
+
+**Possession and relation (so huu):** have (= possess), own, belong, contain, consist, include
+
+**Other:** seem, appear, fit, matter, depend, weigh (= have weight), cost, owe
+
+### Important Exceptions:
+
+Some verbs have both stative and active meanings:
+
+| Stative (no continuous) | Active (continuous OK) |
+|---|---|
+| I **think** it's a good idea. (= believe) | I **'m thinking** about the problem. (= considering) |
+| This soup **tastes** good. (= has a flavour) | She **'s tasting** the soup. (= testing it) |
+| I **see** what you mean. (= understand) | I **'m seeing** the doctor tomorrow. (= meeting) |
+| I **have** a car. (= possess) | I **'m having** lunch. (= eating) |
+| He **'s** selfish. (= generally) | He **'s being** selfish. (= behaving that way now) |
+
+---
+
+## 15. Tense Transformation Patterns (Cac cong thuc chuyen doi thi)
+
+These are the exact patterns tested in "rewrite the sentence" questions on the thi vao 10 exam.
+
+### Pattern 1: Last time ... = Present Perfect + for/since
+
+> **It is + [time period] + since + S + last + V-past**
+> = **S + have/has + not + V3 + for + [time period]**
+> = **S + have/has + not + V3 + since + [point in time]**
+> = **S + last + V-past + [time period] + ago**
+
+*It is three years since I last saw Tom.*
+= *I haven't seen Tom for three years.*
+= *I last saw Tom three years ago.*
+= *The last time I saw Tom was three years ago.*
+
+### Pattern 2: When did you start ...? = How long have you ...?
+
+> **S + started/began + V-ing + [time ago]**
+> = **S + have/has + been + V-ing + for/since ...**
+
+*I started learning English three years ago.*
+= *I have been learning English for three years.*
+= *I have been learning English since 2023.*
+
+### Pattern 3: This is the first time ... = have never ... before
+
+> **This/It is the first time + S + have/has + V3**
+> = **S + have/has + never + V3 + before**
+
+*This is the first time I've eaten sushi.*
+= *I have never eaten sushi before.*
+
+### Pattern 4: It's been ... since = haven't ... for/since
+
+> **It's been + [duration] + since + S + V-past**
+> = **S + haven't/hasn't + V3 + for + [duration]**
+
+*It's been two years since she wrote to me.*
+= *She hasn't written to me for two years.*
+
+### Pattern 5: After + Past Perfect, Past Simple
+
+> **After + S + had + V3, S + V-past**
+> = **S + V-past + after + S + had + V3**
+> = **Before + S + V-past, S + had + V3**
+
+*After I had finished dinner, I watched TV.*
+= *Before I watched TV, I had finished dinner.*
+= *I watched TV after I had finished dinner.*
+
+### Pattern 6: Present Simple <--> Present Continuous (future)
+
+> **What time does the film start?** (timetable)
+> **What time are you leaving?** (personal arrangement)
+
+### Pattern 7: Will vs Going to transformation
+
+> **S + intend(s) + to + V = S + am/is/are + going to + V**
+
+*She intends to study abroad.* = *She is going to study abroad.*
+
+---
+
+## Quick Reference: All 12 Tenses at a Glance
+
+| Tense | Affirmative | Example |
+|---|---|---|
+| Present Simple | S + V(s/es) | She works here. |
+| Present Continuous | S + am/is/are + V-ing | She is working now. |
+| Past Simple | S + V-ed / V2 | She worked yesterday. |
+| Past Continuous | S + was/were + V-ing | She was working at 9. |
+| Present Perfect | S + have/has + V3 | She has worked here for 5 years. |
+| Present Perfect Continuous | S + have/has + been + V-ing | She has been working all day. |
+| Past Perfect | S + had + V3 | She had worked there before she moved. |
+| Past Perfect Continuous | S + had + been + V-ing | She had been working for hours. |
+| Future Simple (will) | S + will + V | She will work tomorrow. |
+| Future (be going to) | S + am/is/are + going to + V | She is going to work abroad. |
+| Future Continuous | S + will + be + V-ing | She will be working at 9 tomorrow. |
+| Future Perfect | S + will + have + V3 | She will have finished by Friday. |
+
+---
+
+*Prepared for Vietnamese Grade 9 students. Focus on understanding, not memorising. Read the examples carefully -- they will help you more than the rules alone.*

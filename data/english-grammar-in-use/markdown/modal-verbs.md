@@ -1,319 +1,255 @@
-# Modal Verbs - Complete Reference for Grade 9 Students
+# Modal Verbs - Dong tu khiem khuyet
 
-A comprehensive guide to modal verbs for Vietnamese students preparing for the lop 10 entrance exam (thi vao lop 10).
-
----
-
-## Key Facts About Modal Verbs (Dong tu khiem khuyet)
-
-- Modal verbs are: **can, could, may, might, must, shall, should, will, would**
-- They are followed by the **bare infinitive** (V without "to"): She **can swim**. (NOT She can to swim.)
-- They do **not** change form: He **can** go. (NOT He cans go.)
-- Negative: modal + not (can't, couldn't, mustn't, shouldn't, won't, wouldn't)
-- Question: modal + subject (Can you...? Must I...? Should we...?)
+> Reference for Vietnamese Grade 9 students preparing for the entrance exam to Grade 10.
 
 ---
 
-## 1. CAN / COULD / (BE) ABLE TO
+## 1. CAN / COULD (Kha nang, su cho phep)
 
-### CAN (co the - kha nang, su cho phep)
+### CAN - kha nang o hien tai
 
-**Uses:**
+**Can** expresses present ability (kha nang) or general possibility (kha nang xay ra).
 
-| Use | Example |
-|-----|---------|
-| **Ability** (kha nang) | I **can** speak three languages. |
-| **Possibility** (kha nang xay ra) | It **can** be very cold in Sapa in winter. |
-| **Permission** (su cho phep) | **Can** I use your phone? |
-| **Request** (yeu cau) | **Can** you help me, please? |
-| **Offer** (de nghi giup) | **Can** I get you some coffee? |
+- She **can** speak three languages. (Co ay co the noi ba thu tieng.)
+- You **can** borrow my pen. (Ban co the muon but cua toi.) -- permission
+- It **can** be very cold in December. (Thang 12 co the rat lanh.) -- general possibility
 
-**Negative:** can't / cannot = not possible or not allowed
-- I **can't** find my keys anywhere.
-- You **can't** park here. It's not allowed.
+**Can't** (= cannot) means something is impossible or not allowed:
+- I **can't** swim. (Toi khong biet boi.)
+- You **can't** park here. (Ban khong duoc dau xe o day.)
 
-### COULD (co the - qua khu cua can / lich su hon can)
+### COULD - kha nang trong qua khu hoac kha nang khong chac chan
 
-**Uses:**
+**Could** has three main roles:
 
-| Use | Example |
-|-----|---------|
-| **Past ability** (kha nang qua khu) | My grandfather **could** speak five languages. |
-| **Polite request** (yeu cau lich su) | **Could** you open the door, please? |
-| **Possibility** (kha nang, it chac chan hon can) | The story **could** be true, but I doubt it. |
-| **Suggestion** (goi y) | We **could** go to the cinema tonight. |
-| **Unreal/imaginary situations** (tinh huong khong co that) | I'm so tired, I **could** sleep for a week! |
+**(a) Past ability** (kha nang trong qua khu):
+- My grandmother **could** play the piano beautifully. (Ba toi co the choi piano rat hay.)
 
-### COULD vs WAS/WERE ABLE TO
+> **Exam trap:** For a specific past achievement, use **was/were able to** or **managed to**, NOT could.
+> - The fire spread fast, but everyone **was able to** escape. (NOT could escape)
+> - But the negative **couldn't** works in all past situations: I **couldn't** find my keys.
 
-For **general ability in the past**, use either:
-- He **could** run fast when he was young. = He **was able to** run fast when he was young.
+**(b) Present/future possibility** (kha nang co the xay ra, khong chac chan):
+- The story **could** be true, but I doubt it. (Cau chuyen co the dung, nhung toi nghi ngo.)
+- We **could** go to the beach tomorrow. (Ngay mai chung ta co the di bien.) -- suggestion
 
-For a **specific past achievement** (succeeding in one situation), use **was/were able to** or **managed to** (NOT could):
-- The fire spread quickly, but everybody **was able to escape**. (NOT could escape)
-- I didn't know where Max was, but I **managed to find** him. (NOT could find)
+**(c) Unreal/imaginary situations** (tinh huong khong co that):
+- I'm so tired. I **could** sleep for a week. (Toi met qua. Toi co the ngu ca tuan.)
 
-However, **couldn't** works in all negative past situations:
-- I **couldn't find** him anywhere.
-- She **couldn't swim** when she was five.
+### COULD HAVE (DONE) - kha nang da co the xay ra nhung khong xay ra
 
-### COULD HAVE (DONE) - (le ra da co the)
-
-Something was possible in the past, but did not happen:
-- Why did you walk? You **could have taken** a taxi.
-- He **could have hurt** himself when he fell, but luckily he's fine.
-
-**Couldn't have done** = it would not have been possible:
-- We had a wonderful holiday. It **couldn't have been** better.
+- You **could have stayed** with us. Why did you go to a hotel? (Ban da co the o voi chung toi ma.)
+- He fell from the roof. He **could have been** killed. (Anh ay da co the bi chet.)
 
 ---
 
-## 2. MAY / MIGHT (co le, co the)
+## 2. MAY / MIGHT (Kha nang xay ra, su cho phep)
 
-### Expressing Possibility (dien ta kha nang)
+### MAY - co le, co the
 
-**May** and **might** are used to say that something is possible (perhaps):
-- It **may** be true. = It **might** be true. (= perhaps it is true)
-- She **may not** come tonight. (= perhaps she won't come)
-- He **might not** know about it. (= perhaps he doesn't know)
+**May** expresses possibility (kha nang xay ra) -- roughly 40-60% chance:
+- It **may** rain this afternoon. (Chieu nay co the mua.)
+- She **may** know the answer. Ask her. (Co ay co the biet cau tra loi.)
 
-> **May** and **might** are nearly the same in meaning. **Might** is slightly less certain.
+**May** also expresses formal permission (su cho phep trang trong):
+- **May** I sit here? (Toi co the ngoi day khong?) -- more formal than "can"
+- You **may** leave the room. (Ban co the roi phong.)
 
-**For the past** - may have / might have (done):
-- She **may have been** asleep when you called. (= perhaps she was asleep)
-- You **might have left** your phone at work. (= perhaps you left it there)
+### MIGHT - co le, co the (it chac chan hon may)
 
-### Expressing Possibility vs Impossibility
+**Might** is slightly less certain than **may**:
+- She **might** be at home, but I'm not sure. (Co ay co the o nha, nhung toi khong chac.)
+- I **might** go to the party, or I might not. (Toi co the di tiec, hoac co the khong.)
 
-| Expression | Meaning |
-|------------|---------|
-| may / might (not) | perhaps (co le) |
-| couldn't | impossible (khong the nao) |
+> **Key distinction:** In practice, **may** and **might** are often interchangeable for possibility. But use **might** (not may) in unreal situations:
+> - If I had more money, I **might** buy a car. (NOT may buy)
 
-Compare:
-- She **might not have received** my message. (= maybe she didn't receive it)
-- She **couldn't have received** my message. (= it's impossible she received it - I never sent it)
+### MAY HAVE / MIGHT HAVE (DONE) - co le da
 
-### MAY / MIGHT for Future Possibility
+- She **may have missed** the bus. (Co le co ay da lo xe buyt.)
+- He **might not have received** my message. (Co the anh ay da khong nhan duoc tin nhan cua toi.)
 
-- I **may go** to Ireland next summer. (= perhaps I will go)
-- I **might buy** a new car. (= perhaps I will buy one)
-- Take an umbrella. It **might rain** later.
-
-> **Important:** When the situation is **unreal** (contrary to fact), use **might** (not may): If they paid me better, I **might** work harder. (NOT may work)
-
-### MAY for Permission (xin phep - trang trong)
-
-- **May** I ask you a question? (more formal than "can")
-- **May** I sit here? - Yes, of course.
-
-### MIGHT AS WELL (cung duoc, khong co gi tot hon)
-
-= we should do it because there is no better alternative:
-- We **might as well** walk. It's not far and the bus isn't coming.
+> **Exam trap:** **couldn't have done** = it is impossible that something happened. **might not have done** = perhaps it did not happen. These are very different!
+> - She **couldn't have known** about the party. (Khong the nao co ay biet ve bua tiec.) -- 0% chance
+> - She **might not have known** about the party. (Co the co ay da khong biet.) -- maybe yes, maybe no
 
 ---
 
-## 3. MUST / HAVE TO (phai)
+## 3. MUST / HAVE TO (Su bat buoc)
 
-### MUST (phai - bat buoc)
+### MUST - phai (y kien ca nhan, quy dinh)
 
-**Uses:**
+**Must** expresses strong obligation from the speaker's own authority or feeling:
+- I **must** study harder this semester. (Toi phai hoc cham chi hon hoc ky nay.) -- personal decision
+- You **must** wear a helmet. (Ban phai doi mu bao hiem.) -- rule/law
 
-| Use | Example |
-|-----|---------|
-| **Obligation/necessity** (bat buoc) | You **must** keep it a secret. |
-| **Strong certainty** (chac chan) | You've been travelling all day. You **must** be tired. |
-| **Rules and instructions** (quy tac) | Applications **must** be received by 18 May. |
+**Must** also expresses logical deduction (suy luan logic) -- you are almost certain:
+- You've been working all day. You **must** be tired. (Ban lam viec ca ngay. Ban chac la met lam.)
+- He **must** be at least 40. (Anh ay chac phai it nhat 40 tuoi.)
 
-**For strong certainty about the past** - must have (done):
-- I've lost a glove. I **must have dropped** it somewhere.
-- There's nobody at home. They **must have gone** out.
+### HAVE TO - phai (su bat buoc tu ben ngoai)
 
-### CAN'T for Strong Certainty (Negative of "must" for deduction)
+**Have to** expresses external obligation -- rules, facts, circumstances beyond your control:
+- I **have to** work from 8 to 5 every day. (Toi phai lam viec tu 8 den 5 moi ngay.) -- company rule
+- She **has to** wear glasses for reading. (Co ay phai deo kinh de doc.) -- physical necessity
 
-**Can't** = we believe something is **impossible**:
-- You've just had lunch. You **can't** be hungry already.
-- She **can't have received** my message. (= it's impossible)
+> **Key distinction MUST vs HAVE TO:**
+> - **Must** = I say this is necessary (personal opinion/authority)
+> - **Have to** = the situation or rules say this is necessary (external)
+> - In practice, they overlap. But in the past, only **had to** is used (NOT must):
+>   - I **had to** leave early yesterday. (NOT I must leave early yesterday.)
 
-### HAVE TO (phai - vi hoan canh bat buoc)
+### MUST for deduction (present)
 
-- I **have to** wear glasses for reading. (it's necessary)
-- What time **do** you **have to** start work?
-- She **had to** go to the hospital yesterday.
+- The lights are off. They **must** be out. (Den tat het. Ho chac la di vang roi.)
+- He speaks perfect French. He **must** have lived in France. (past deduction)
 
-### MUST vs HAVE TO - The Key Difference
-
-| must | have to |
-|------|---------|
-| The speaker **personally** feels it is necessary (y kien ca nhan) | It is necessary because of **rules, facts, or other people** (thuc te bat buoc) |
-| I **must** phone her tonight. (= I feel I need to) | I **have to** work from 8 to 5 every day. (= it's a rule) |
-| Used for **written rules**: Seat belts **must** be worn. | Used for **past**: I **had to** leave early yesterday. (NOT I must leave) |
-
-> **Important:** For the past, always use **had to** (not must): I **had to** go to the doctor yesterday.
-
-### MUSTN'T vs DON'T HAVE TO - Completely Different!
-
-| mustn't (cam, khong duoc) | don't have to (khong can) |
-|---------------------------|--------------------------|
-| = it is **prohibited/forbidden** | = it is **not necessary** (but you can if you want) |
-| You **mustn't** tell anyone. (= don't tell anyone!) | You **don't have to** come with me. I can go alone. |
-| I **mustn't** be late. (= I must be on time) | I **don't have to** get up early tomorrow. (= but I can if I want) |
-
-> This is one of the most tested points in the lop 10 exam!
+**Can't** is the negative of **must** for deduction (NOT mustn't):
+- She just had lunch. She **can't** be hungry. (Co ay vua an trua. Khong the nao co ay doi.)
 
 ---
 
-## 4. NEEDN'T / DON'T NEED TO (khong can)
+## 4. MUSTN'T vs DON'T HAVE TO vs NEEDN'T
 
-**Needn't** = it is not necessary (same meaning as don't need to / don't have to):
-- We have plenty of time. We **needn't** hurry.
-- You **needn't** come if you don't want to.
-- You **don't need to** worry about the exam.
+This is one of the most tested distinctions in the Grade 10 exam.
 
-### NEEDN'T vs MUSTN'T
+### MUSTN'T - cam, khong duoc phep
 
-| needn't (khong can) | mustn't (khong duoc) |
-|---------------------|----------------------|
-| You **needn't** tell Steve. I can tell him myself. (= it's not necessary for you to tell him) | You **mustn't** tell Steve. I don't want him to know. (= don't tell him!) |
+**Mustn't** = it is prohibited, you are forbidden to do it:
+- You **mustn't** tell anyone this secret. (Ban khong duoc noi cho ai bi mat nay.)
+- Students **mustn't** use phones during exams. (Hoc sinh khong duoc dung dien thoai khi thi.)
 
-### NEEDN'T HAVE (DONE) - (le ra khong can nhung da lam)
+### DON'T HAVE TO - khong can phai (nhung co the lam neu muon)
 
-Something was done, but **it was not necessary** (we know this now):
-- You **needn't have rushed**. We had plenty of time. (= you rushed, but it was unnecessary)
+**Don't have to** = it is not necessary, but you have the choice:
+- You **don't have to** come with me. I can go alone. (Ban khong can di cung toi.)
+- She **doesn't have to** work on Sundays. (Co ay khong can lam viec ngay Chu nhat.)
 
-Compare with **didn't need to** (= it was not necessary, and maybe the person did it or didn't):
-- He **didn't need to get** up early, so he stayed in bed.
+### NEEDN'T - khong can phai (tuong tu don't have to)
 
----
+**Needn't** = it is not necessary (same meaning as don't have to):
+- You **needn't** bring any food. There will be plenty. (Ban khong can mang do an.)
+- We **needn't** hurry. We have lots of time. (Chung ta khong can voi.)
 
-## 5. SHOULD / OUGHT TO (nen)
+### NEEDN'T HAVE (DONE) vs DIDN'T NEED TO (DO)
 
-### SHOULD (nen - loi khuyen)
+- I **needn't have bought** so much food. Nobody was hungry. (Toi da khong can mua nhieu do an nhu vay. -- I bought it, but it was unnecessary.)
+- I **didn't need to buy** any food, so I didn't. (Toi khong can mua do an, nen toi da khong mua.)
 
-**Uses:**
-
-| Use | Example |
-|-----|---------|
-| **Advice** (loi khuyen) | You look tired. You **should** go to bed. |
-| **Opinion** (y kien) | I think the government **should** do more to help. |
-| **Expectation** (ky vong) | Helen has studied hard, so she **should** pass the exam. |
-| **Something is wrong** (sai lech) | The price is wrong. It **should** be 25,000 dong, not 35,000. |
-
-**Should** is **weaker** than must or have to:
-- You **should** apologize. (= it would be a good thing to do)
-- You **must** apologize. (= you have no choice)
-
-### SHOULD HAVE (DONE) - (le ra nen da lam / le ra khong nen da lam)
-
-**Should have done** = you didn't do it, but it would have been the right thing:
-- You missed a great party. You **should have come**. (= but you didn't come)
-
-**Shouldn't have done** = you did it, but it was wrong:
-- I ate too much. I **shouldn't have eaten** so much. (= but I did eat too much)
-
-### OUGHT TO (nen - tuong tu should)
-
-**Ought to** can replace **should** in most sentences:
-- Do you think I **ought to apply** for this job? (= should apply)
-- Jack **ought not to go** to bed so late. (= shouldn't go)
+> **Exam trap summary:**
+> | Form | Meaning | Vietnamese |
+> |------|---------|------------|
+> | mustn't | cam, khong duoc | prohibition |
+> | don't have to | khong can phai | no obligation |
+> | needn't | khong can phai | no necessity |
 
 ---
 
-## 6. HAD BETTER (tot hon la nen)
+## 5. SHOULD / OUGHT TO (Nen)
 
-**Formation:** had better + V (bare infinitive)
+### SHOULD - nen
 
-- I have to meet Amy in 10 minutes. I**'d better go** now or I'll be late.
-- "Shall I take an umbrella?" - "Yes, you**'d better**. It might rain."
+**Should** gives advice or says what is the right thing to do:
+- You look tired. You **should** go to bed. (Ban trang met. Ban nen di ngu.)
+- The government **should** do more to help the poor. (Chinh phu nen lam nhieu hon de giup nguoi ngheo.)
 
-**Negative:** had better not
-- You don't look well. You**'d better not go** out tonight.
+**Should** also expresses expectation (du kien):
+- She's been studying hard. She **should** pass the exam. (Co ay hoc cham chi. Co ay nen thi dau.)
+- The train **should** arrive at 10.30. (Tau nen den luc 10h30.)
 
-### HAD BETTER vs SHOULD
+### SHOULD HAVE (DONE) - le ra nen lam (nhung da khong lam)
 
-| had better | should |
-|------------|--------|
-| **Specific situation** with possible bad consequence | **General** advice or opinion |
-| The film starts at 8:30. You**'d better** go now or you'll miss the beginning. | It's a great film. You **should** go and see it. |
-| Stronger - implies **danger/problem** if not followed | Weaker - just a recommendation |
+- You **should have come** to the party last night. It was great! (Le ra ban nen den tiec toi qua.)
+- I **shouldn't have eaten** so much. I feel sick. (Le ra toi khong nen an nhieu nhu vay.)
 
-> Note: "had better" always refers to the present or future (not the past), despite having "had":
-> I'd better go **now** / **tomorrow**. (NOT I'd better go yesterday)
+### OUGHT TO - nen (tuong tu should)
 
----
+**Ought to** has the same meaning as **should**. It is slightly more formal:
+- You **ought to** apologise. (= You **should** apologise.)
+- She **ought not to** go out so late. (Co ay khong nen di choi khuya nhu vay.)
 
-## 7. IT'S TIME ... (da den luc)
-
-**Formation:** It's time + S + **past tense** (meaning is present, NOT past)
-
-- It's late. It's time we **went** home. (= we should go home now)
-- It's time you **did** something about the problem. (= you should do it now)
-
-> **It's about time** = stronger, implies criticism that something should have happened earlier:
-> Jack talks too much. It's **about time** he **did** something instead of just talking.
-
-You can also say: It's time **to go** / It's time **for us to go**.
+> **Exam trap:** "Ought to" always keeps "to". The negative is "ought not to" (NOT ought don't).
 
 ---
 
-## 8. WOULD (se - trong cau dieu kien / lich su)
+## 6. HAD BETTER (Tot hon nen)
 
-### Uses:
+### Formation
 
-| Use | Example |
-|-----|---------|
-| **Imaginary/unreal situations** (tinh huong gia dinh) | It **would** be nice to buy a new car, but we can't afford it. |
-| **Polite requests** (yeu cau lich su) | **Would** you like some coffee? |
-| **Past habit** (thoi quen qua khu) | When we were children, we **would** go to the beach every summer. |
-| **Refusal (wouldn't)** (tu choi) | I tried to warn him, but he **wouldn't** listen. |
-| **Conditional sentences** (cau dieu kien) | If I had more time, I **would** travel the world. |
+**Had better** (usually shortened to **'d better**) + bare infinitive:
+- You**'d better** leave now or you'll miss the bus. (Ban nen di ngay khong thi lo xe buyt.)
+- We**'d better not** disturb him. He's sleeping. (Chung ta khong nen lam phien anh ay.)
 
-### WOULD HAVE (DONE) - (le ra da)
+### Had better vs Should
 
-Imagining something in the past that didn't happen:
-- They helped us a lot. I don't know what we **would have done** without their help.
-- It's a shame you didn't come. You **would have enjoyed** the party.
+Both give advice, but **had better** is stronger and implies a warning -- there will be a bad consequence if you do not follow the advice:
+- It's a great film. You **should** go and see it. (no problem if you don't)
+- The exam is tomorrow. You**'d better** study tonight. (warning: if you don't, you'll fail)
 
-### WOULD RATHER (thich hon)
-
-**Formation:** would rather + V (bare infinitive)
-
-- I**'d rather stay** at home tonight. (= I prefer to stay)
-- "Shall I open the window?" - "I**'d rather** you **didn't**." (= I prefer you not to open it)
-
-**Would rather + S + past tense** (when talking about what you want someone else to do):
-- I'd rather you **came** tomorrow. (= I prefer that you come tomorrow)
-- I'd rather you **didn't tell** anyone. (= please don't tell anyone)
+> **Exam trap:** Despite "had", this structure refers to the **present or future**, NOT the past.
+> - I'd better go **now**. (NOT I'd better go yesterday.)
 
 ---
 
-## SUMMARY TABLE FOR EXAMS
+## 7. WOULD RATHER (Thich hon)
 
-| Modal | Main meaning | Example |
-|-------|-------------|---------|
-| **can** | ability, permission, possibility | I can swim. Can I go? |
-| **could** | past ability, polite request, possibility | I could swim when I was 5. Could you help? |
-| **may** | permission (formal), possibility | May I leave? It may rain. |
-| **might** | possibility (less certain) | She might be at home. |
-| **must** | obligation, strong certainty | You must study. He must be tired. |
-| **mustn't** | prohibition (cam) | You mustn't tell anyone. |
-| **have to** | external obligation | I have to work on Saturday. |
-| **don't have to** | not necessary (khong can) | You don't have to wait. |
-| **needn't** | not necessary (= don't have to) | You needn't worry. |
-| **should / ought to** | advice, expectation | You should see a doctor. |
-| **had better** | strong advice (or else...) | You'd better hurry. |
-| **would** | imaginary, polite, past habit | I would help if I could. |
-| **would rather** | preference | I'd rather stay home. |
+### Formation
+
+**Would rather** (= 'd rather) + bare infinitive:
+- I**'d rather stay** at home tonight. (Toi thich o nha toi nay hon.)
+- **Would** you **rather** have tea or coffee? (Ban thich uong tra hay ca phe hon?)
+
+Negative: **would rather not**:
+- I**'d rather not go** out. It's too cold. (Toi khong muon ra ngoai. Lanh qua.)
+
+### Would rather + clause (muon nguoi khac lam gi)
+
+When you want someone else to do (or not do) something, use **would rather + subject + past tense**:
+- I**'d rather** you **went** home now. (Toi muon ban ve nha bay gio.) -- present/future meaning
+- I**'d rather** you **didn't tell** anyone. (Toi muon ban khong noi cho ai.) -- present/future meaning
+
+For past regret, use **would rather + subject + had done**:
+- I**'d rather** you **had told** me earlier. (Toi uoc ban da noi cho toi som hon.)
+
+> **Exam trap:** After "would rather + another subject", use **past tense** for present meaning (like wish/if only). Do NOT use "would" in the clause.
+> - I'd rather he **came** tomorrow. (NOT I'd rather he would come)
 
 ---
 
-## TOP EXAM TRAPS (Bay thuong gap trong de thi)
+## Quick Reference Table
 
-1. **mustn't vs don't have to:** mustn't = cam (prohibited); don't have to = khong can (not necessary)
-2. **must vs have to in the past:** Always use **had to** for past obligation (NOT must)
-3. **could vs was able to:** For a specific past success, use **was able to** or **managed to**
-4. **needn't have done vs didn't need to:** needn't have done = did it but it was unnecessary; didn't need to = it wasn't necessary (may or may not have done it)
-5. **should have done:** = the right thing was not done (regret about the past)
-6. **would rather + past tense** when talking about what you want others to do
-7. **It's time + past tense:** present meaning despite past form
+| Modal | Meaning | Example |
+|-------|---------|---------|
+| can | ability, permission, possibility | I can swim. |
+| could | past ability, polite request, possibility | Could you help me? |
+| may | possibility, formal permission | It may rain. |
+| might | weaker possibility | She might come. |
+| must | strong obligation, logical certainty | You must be tired. |
+| have to | external obligation | I have to go. |
+| mustn't | prohibition | You mustn't lie. |
+| don't have to | no necessity | You don't have to wait. |
+| needn't | no necessity | You needn't worry. |
+| should / ought to | advice, expectation | You should rest. |
+| had better | strong advice with warning | You'd better hurry. |
+| would rather | preference | I'd rather walk. |
+
+---
+
+## Common Exam Patterns
+
+**1. Rewrite using modals:**
+- It is necessary for you to be on time. --> You **must** be on time.
+- It isn't necessary for you to come. --> You **don't have to** / **needn't** come.
+- I advise you to study harder. --> You **should** / **ought to** study harder.
+- It is prohibited to smoke here. --> You **mustn't** smoke here.
+- Perhaps she is at home. --> She **may/might** be at home.
+- I'm sure he is tired. --> He **must** be tired.
+- I'm sure she isn't lying. --> She **can't** be lying.
+- It would be better for you to leave now. --> You **had better** leave now.
+- I prefer to stay. --> I **would rather** stay.
+
+**2. Choose the correct modal:**
+- You _____ drive without a licence. It's against the law. --> **mustn't**
+- You _____ come if you don't want to. It's optional. --> **don't have to / needn't**
+- She has studied very hard. She _____ pass the exam. --> **should**
+- He's been coughing all day. He _____ be ill. --> **must**
