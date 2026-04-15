@@ -33,7 +33,7 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "It",
       "answer": "It is 5 years since they started living in Germany.",
-      "acceptedAnswers": ["It is 5 years since they started living in Germany.", "It is 5 years since they started living in Germany"],
+      "acceptedAnswers": ["It is 5 years since they started living in Germany.", "It is 5 years since they started living in Germany", "It has been 5 years since they started living in Germany.", "It has been 5 years since they started living in Germany"],
       "explanation": "Pattern: It is + time + since + S + V2/ed."
     },
     {
@@ -43,7 +43,7 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "I've been",
       "answer": "I've been living here for three months.",
-      "acceptedAnswers": ["I've been living here for three months.", "I've been living here for three months"],
+      "acceptedAnswers": ["I've been living here for three months.", "I've been living here for three months", "I have been living here for three months."],
       "explanation": "Past simple with 'ago' converts to present perfect with 'for.'"
     },
     {
@@ -183,7 +183,7 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "I don't",
       "answer": "I don't know as much about it as she does.",
-      "acceptedAnswers": ["I don't know as much about it as she does.", "I don't know as much about it as she does"],
+      "acceptedAnswers": ["I don't know as much about it as she does.", "I don't know as much about it as she does", "I do not know as much about it as she does."],
       "explanation": "Comparative to negative equality: not + as...as."
     },
     {
@@ -263,7 +263,7 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "Because",
       "answer": "Because Hoa was busy, she couldn't go to the party.",
-      "acceptedAnswers": ["Because Hoa was busy, she couldn't go to the party.", "Because Hoa was busy, she couldn't go to the party"],
+      "acceptedAnswers": ["Because Hoa was busy, she couldn't go to the party.", "Because Hoa was busy, she couldn't go to the party", "Because Hoa was busy, she could not go to the party."],
       "explanation": "'So' (result) converts to 'because' (reason) by rearranging the clauses."
     },
     {
@@ -343,7 +343,7 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "Unless",
       "answer": "Unless you have a passport, you can't register for a course abroad.",
-      "acceptedAnswers": ["Unless you have a passport, you can't register for a course abroad.", "Unless you have a passport, you can't register for a course abroad", "Unless you have a passport, you cannot register for a course abroad."],
+      "acceptedAnswers": ["Unless you have a passport, you can't register for a course abroad.", "Unless you have a passport, you can't register for a course abroad", "Unless you have a passport, you cannot register for a course abroad.", "Unless you have a passport, you cannot register for a course abroad"],
       "explanation": "If...not = Unless (remove the negative)."
     },
     {
@@ -373,7 +373,7 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "I wish",
       "answer": "I wish I hadn't missed your birthday party.",
-      "acceptedAnswers": ["I wish I hadn't missed your birthday party.", "I wish I hadn't missed your birthday party"],
+      "acceptedAnswers": ["I wish I hadn't missed your birthday party.", "I wish I hadn't missed your birthday party", "I wish I had not missed your birthday party.", "I wish I had not missed your birthday party"],
       "explanation": "Wish + past perfect for past regrets."
     },
     {
@@ -433,7 +433,7 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "It's",
       "answer": "It's very important to keep the environment clean.",
-      "acceptedAnswers": ["It's very important to keep the environment clean.", "It's very important to keep the environment clean"],
+      "acceptedAnswers": ["It's very important to keep the environment clean.", "It's very important to keep the environment clean", "It is very important to keep the environment clean."],
       "explanation": "Gerund subject -> It + be + adj + to V."
     },
     {
@@ -513,7 +513,7 @@
       "instruction": "Rewrite using the word in brackets: (since)",
       "starterText": "I",
       "answer": "I haven't read a book since September 20th.",
-      "acceptedAnswers": ["I haven't read a book since September 20th.", "I haven't read a book since September 20th"],
+      "acceptedAnswers": ["I haven't read a book since September 20th.", "I haven't read a book since September 20th", "I have not read a book since September 20th.", "I have not read a book since September 20th"],
       "explanation": "S + last + V2/ed = S + haven't/hasn't + V3 + since + time."
     },
     {
@@ -563,7 +563,7 @@
       "instruction": "Rewrite using the word in brackets: (who)",
       "starterText": "Mr. Son,",
       "answer": "Mr. Son, who spends all his life saving patients, is admired by us all.",
-      "acceptedAnswers": ["Mr. Son, who spends all his life saving patients, is admired by us all.", "Mr. Son, who we all admire, spends all his life saving patients."],
+      "acceptedAnswers": ["Mr. Son, who spends all his life saving patients, is admired by us all.", "Mr. Son, who we all admire, spends all his life saving patients.", "Mr. Son, whom we all admire, spends all his life saving patients."],
       "explanation": "Relative clause with 'who' for non-defining clause."
     },
     {
@@ -663,7 +663,7 @@
       "instruction": "Rewrite using the word in brackets: (if)",
       "starterText": "I",
       "answer": "I will go out for dinner if I don't have to work tonight.",
-      "acceptedAnswers": ["I will go out for dinner if I don't have to work tonight.", "If I don't have to work tonight, I will go out for dinner."],
+      "acceptedAnswers": ["I will go out for dinner if I don't have to work tonight.", "If I don't have to work tonight, I will go out for dinner.", "I will go out for dinner if I do not have to work tonight.", "If I do not have to work tonight, I will go out for dinner."],
       "explanation": "First conditional: If + present simple, S + will + V."
     },
     {
@@ -673,7 +673,7 @@
       "instruction": "Rewrite using the word in brackets: (if)",
       "starterText": "If",
       "answer": "If I had taken my parents' advice, I wouldn't have got into a lot of troubles.",
-      "acceptedAnswers": ["If I had taken my parents' advice, I wouldn't have got into a lot of troubles.", "If I had taken my parents' advice, I wouldn't have gotten into a lot of troubles.", "If I had taken my parents' advice, I would not have got into a lot of troubles.", "If I had taken my parents' advice, I wouldn't have got into a lot of trouble."],
+      "acceptedAnswers": ["If I had taken my parents' advice, I wouldn't have got into a lot of troubles.", "If I had taken my parents' advice, I wouldn't have gotten into a lot of troubles.", "If I had taken my parents' advice, I would not have got into a lot of troubles.", "If I had taken my parents' advice, I wouldn't have got into a lot of trouble.", "If I had taken my parents' advice, I would not have gotten into a lot of troubles.", "If I had taken my parents' advice, I would not have got into a lot of trouble."],
       "explanation": "Third conditional: If + had + V3, S + would have + V3."
     },
     {
@@ -703,7 +703,7 @@
       "instruction": "Rewrite using the word in brackets: (because of)",
       "starterText": "I",
       "answer": "I couldn't go to the airport to see her off because of my illness.",
-      "acceptedAnswers": ["I couldn't go to the airport to see her off because of my illness.", "I couldn't go to the airport to see her off because of being ill."],
+      "acceptedAnswers": ["I couldn't go to the airport to see her off because of my illness.", "I couldn't go to the airport to see her off because of being ill.", "I could not go to the airport to see her off because of my illness."],
       "explanation": "Because + clause = Because of + noun/gerund."
     },
     {
@@ -813,7 +813,7 @@
       "instruction": "Rewrite using the word in brackets: (you)",
       "starterText": "I could never",
       "answer": "I could never have passed the exam if you hadn't helped me.",
-      "acceptedAnswers": ["I could never have passed the exam if you hadn't helped me.", "I could never have passed the exam if you had not helped me."],
+      "acceptedAnswers": ["I could never have passed the exam if you hadn't helped me.", "I could never have passed the exam if you had not helped me.", "I could never have passed the exam if you hadn't helped me", "I could never have passed the exam if you had not helped me"],
       "explanation": "Without your help = if you hadn't helped me (third conditional)."
     },
     {
@@ -873,7 +873,7 @@
       "instruction": "Rewrite using the word in brackets: (have to)",
       "starterText": "You",
       "answer": "You don't have to bring drinks as they are included in the package.",
-      "acceptedAnswers": ["You don't have to bring drinks as they are included in the package.", "You don't have to bring drinks as they are included in the package"],
+      "acceptedAnswers": ["You don't have to bring drinks as they are included in the package.", "You don't have to bring drinks as they are included in the package", "You do not have to bring drinks as they are included in the package."],
       "explanation": "It isn't necessary = don't have to."
     },
     {
@@ -919,11 +919,11 @@
     {
       "id": 92,
       "type": "sentence-rewrite",
-      "original": "When it comes to population, Bejing is much bigger than Auckland's.",
+      "original": "When it comes to population, Beijing is much bigger than Auckland's.",
       "instruction": "Rewrite using the word in brackets: (populated)",
-      "starterText": "Bejing is",
-      "answer": "Bejing is much more populated than Auckland.",
-      "acceptedAnswers": ["Bejing is much more populated than Auckland.", "Beijing is much more populated than Auckland."],
+      "starterText": "Beijing is",
+      "answer": "Beijing is much more populated than Auckland.",
+      "acceptedAnswers": ["Beijing is much more populated than Auckland.", "Beijing is much more heavily populated than Auckland."],
       "explanation": "Bigger in population = more populated."
     },
     {
@@ -963,7 +963,7 @@
       "instruction": "Rewrite using the word in brackets: (learned)",
       "starterText": "Mark has",
       "answer": "Mark has learned French for two years.",
-      "acceptedAnswers": ["Mark has learned French for two years.", "Mark has learnt French for two years."],
+      "acceptedAnswers": ["Mark has learned French for two years.", "Mark has learnt French for two years.", "Mark has been learning French for two years."],
       "explanation": "Started + time + ago = has + V3 + for + time."
     },
     {
@@ -983,7 +983,7 @@
       "instruction": "Rewrite using the word in brackets: (going)",
       "starterText": "Look at those black clouds! It",
       "answer": "Look at those black clouds! It is going to rain.",
-      "acceptedAnswers": ["Look at those black clouds! It is going to rain.", "Look at those black clouds! It is going to rain", "Look at those black clouds! It's going to rain."],
+      "acceptedAnswers": ["Look at those black clouds! It is going to rain.", "Look at those black clouds! It is going to rain", "Look at those black clouds! It's going to rain.", "Look at those black clouds! It's going to rain"],
       "explanation": "There is rain arriving = It is going to rain."
     },
     {
@@ -1013,7 +1013,7 @@
       "instruction": "Rewrite using the word in brackets: (since)",
       "starterText": "John hasn't",
       "answer": "John hasn't seen me since 2000.",
-      "acceptedAnswers": ["John hasn't seen me since 2000.", "John hasn't seen me since 2000"],
+      "acceptedAnswers": ["John hasn't seen me since 2000.", "John hasn't seen me since 2000", "John has not seen me since 2000.", "John has not seen me since 2000"],
       "explanation": "The last time + V2/ed + was + time = haven't/hasn't + V3 + since + time."
     },
     {
@@ -1063,7 +1063,7 @@
       "instruction": "Rewrite using the word in brackets: (never)",
       "starterText": "I",
       "answer": "I have never drunk coffee before.",
-      "acceptedAnswers": ["I have never drunk coffee before.", "I have never drunk coffee before"],
+      "acceptedAnswers": ["I have never drunk coffee before.", "I have never drunk coffee before", "I've never drunk coffee before.", "I've never drunk coffee before"],
       "explanation": "This is the first time + have V3 = have never + V3 + before."
     },
     {
@@ -1173,7 +1173,7 @@
       "instruction": "Rewrite using the word in brackets: (left)",
       "starterText": "It's",
       "answer": "It's time we left here.",
-      "acceptedAnswers": ["It's time we left here.", "It's time we left here now."],
+      "acceptedAnswers": ["It's time we left here.", "It's time we left here now.", "It is time we left here.", "It is time we left here now."],
       "explanation": "Should V now = It's time + S + V2/ed."
     },
     {
@@ -1183,7 +1183,7 @@
       "instruction": "Rewrite using the word in brackets: (so that)",
       "starterText": "He locked",
       "answer": "He locked the door so that the prisoner couldn't escape.",
-      "acceptedAnswers": ["He locked the door so that the prisoner couldn't escape.", "He locked the door so that the prisoner would not escape.", "He locked the door so that the prisoner could not escape."],
+      "acceptedAnswers": ["He locked the door so that the prisoner couldn't escape.", "He locked the door so that the prisoner would not escape.", "He locked the door so that the prisoner could not escape.", "He locked the door so that the prisoner wouldn't escape."],
       "explanation": "To prevent = so that + S + couldn't/wouldn't."
     },
     {
@@ -1193,7 +1193,7 @@
       "instruction": "Rewrite using the word in brackets: (rather)",
       "starterText": "I'd",
       "answer": "I'd rather you didn't smoke in this room.",
-      "acceptedAnswers": ["I'd rather you didn't smoke in this room.", "I'd rather you didn't smoke in this room"],
+      "acceptedAnswers": ["I'd rather you didn't smoke in this room.", "I'd rather you didn't smoke in this room", "I'd rather you did not smoke in this room.", "I would rather you didn't smoke in this room.", "I would rather you did not smoke in this room."],
       "explanation": "Would rather + S + V2/ed (past subjunctive for polite requests)."
     },
     {
@@ -1203,7 +1203,7 @@
       "instruction": "Rewrite using the word in brackets: (in spite)",
       "starterText": "We didn't",
       "answer": "We didn't go on the picnic in spite of the beautiful weather.",
-      "acceptedAnswers": ["We didn't go on the picnic in spite of the beautiful weather.", "We didn't go on the picnic in spite of the beautiful weather"],
+      "acceptedAnswers": ["We didn't go on the picnic in spite of the beautiful weather.", "We didn't go on the picnic in spite of the beautiful weather", "We did not go on the picnic in spite of the beautiful weather."],
       "explanation": "But = in spite of (showing contrast)."
     }
   ]

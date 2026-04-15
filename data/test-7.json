@@ -30,8 +30,8 @@
         "C. benefit<u>s</u>",
         "D. relative<u>s</u>"
       ],
-      "correctIndex": 0,
-      "explanation": "'stripes' ends with /z/ sound, while B, C, D end with /s/ sound."
+      "correctIndex": 3,
+      "explanation": "'relatives' ends with /z/ sound (base ends in voiced /v/), while A, B, C end with /s/ sound."
     },
     {
       "id": 3,

@@ -128,8 +128,10 @@
       "type": "error-correct",
       "wrongSentence": "You mustn't do any cooking as I've already prepared something.",
       "correctSentence": "You needn't do any cooking as I've already prepared something.",
+      "acceptedCorrectSentences": ["You needn't do any cooking as I've already prepared something.", "You don't need to do any cooking as I've already prepared something."],
       "errorWord": "mustn't",
       "correction": "needn't",
+      "acceptedCorrections": ["needn't", "don't need to", "need not"],
       "explanation": "'Mustn't' means 'you are forbidden to do this.' 'Needn't' means 'it is not necessary.' Since the speaker already prepared food, cooking is unnecessary (not forbidden), so use 'needn't.'"
     },
     {

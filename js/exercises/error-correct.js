@@ -72,6 +72,9 @@ const ErrorCorrectExercise = {
   },
 
   validate(userAnswer, question) {
+    if (question.acceptedCorrectSentences && question.acceptedCorrectSentences.length > 0) {
+      return Utils.validateAnswer(userAnswer, question.acceptedCorrectSentences);
+    }
     return Utils.compareAnswers(userAnswer, question.correctSentence);
   },
 

@@ -23,7 +23,7 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "The boy",
       "answer": "The boy was made to tidy up the room by the mother.",
-      "acceptedAnswers": ["The boy was made to tidy up the room by the mother.", "The boy was made to tidy up the room.", "The boy was made to tidy up the room by his mother.", "The boy was made to tidy up the room by his mother"],
+      "acceptedAnswers": ["The boy was made to tidy up the room by the mother.", "The boy was made to tidy up the room.", "The boy was made to tidy up the room by his mother.", "The boy was made to tidy up the room by his mother", "The boy was made to tidy up the room by the mother", "The boy was made to tidy up the room"],
       "explanation": "Passive of 'make': S + was made + to V."
     },
     {
@@ -63,7 +63,7 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "I haven't",
       "answer": "I haven't met Mary for three years.",
-      "acceptedAnswers": ["I haven't met Mary for three years.", "I haven't met Mary for three years"],
+      "acceptedAnswers": ["I haven't met Mary for three years.", "I haven't met Mary for three years", "I have not met Mary for three years.", "I have not met Mary for three years"],
       "explanation": "The last time + V2/ed + was + time + ago = haven't + V3 + for + time."
     },
     {
@@ -73,7 +73,7 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "What is",
       "answer": "What is your mother's job?",
-      "acceptedAnswers": ["What is your mother's job?", "What is your mother's occupation?"],
+      "acceptedAnswers": ["What is your mother's job?", "What is your mother's occupation?", "What is your mother's job"],
       "explanation": "What does someone do = What is someone's job."
     },
     {
@@ -103,7 +103,7 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "My father prefers",
       "answer": "My father prefers reading newspaper to listening to the radio.",
-      "acceptedAnswers": ["My father prefers reading newspaper to listening to the radio.", "My father prefers reading newspapers to listening to the radio."],
+      "acceptedAnswers": ["My father prefers reading newspaper to listening to the radio.", "My father prefers reading newspapers to listening to the radio.", "My father prefers reading newspaper to listening to the radio", "My father prefers reading the newspaper to listening to the radio."],
       "explanation": "Would rather + V + than + V = prefers + V-ing + to + V-ing."
     },
     {
@@ -163,7 +163,7 @@
       "instruction": "Rewrite using the word in brackets: (If)",
       "starterText": "If",
       "answer": "If Jane had changed her working style, she wouldn't have been sacked.",
-      "acceptedAnswers": ["If Jane had changed her working style, she wouldn't have been sacked.", "If Jane had changed her working style, she would not have been sacked."],
+      "acceptedAnswers": ["If Jane had changed her working style, she wouldn't have been sacked.", "If Jane had changed her working style, she would not have been sacked.", "If Jane had changed her working style, she wouldn't have been sacked", "If Jane had changed her working style, she would not have been sacked"],
       "explanation": "Third conditional for unreal past situations."
     },
     {
@@ -173,7 +173,7 @@
       "instruction": "Rewrite using the word in brackets: (Despite)",
       "starterText": "Despite",
       "answer": "Despite having all the necessary qualifications for the job, Hai wasn't offered the job.",
-      "acceptedAnswers": ["Despite having all the necessary qualifications for the job, Hai wasn't offered the job.", "Despite having all the necessary qualifications, Hai wasn't offered the job."],
+      "acceptedAnswers": ["Despite having all the necessary qualifications for the job, Hai wasn't offered the job.", "Despite having all the necessary qualifications, Hai wasn't offered the job.", "Despite having all the necessary qualifications for the job, Hai was not offered the job."],
       "explanation": "Although + clause = Despite + V-ing."
     },
     {

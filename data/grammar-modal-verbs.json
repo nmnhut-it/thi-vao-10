@@ -51,8 +51,8 @@
       "type": "multiple-choice",
       "question": "All students _______ wear uniforms at school because it is a rule.",
       "options": ["A. should", "B. have to", "C. ought to", "D. must"],
-      "correctIndex": 3,
-      "explanation": "'Because it is a rule' indicates obligation - 'must' for strict rules."
+      "correctIndex": 1,
+      "explanation": "Per Murphy Unit 31, 'have to' is used for external obligations like rules/regulations imposed by others (e.g., school rules). 'Must' is for personal feelings of necessity from the speaker. 'Because it is a rule' explicitly signals an external obligation, so 'have to' is correct."
     },
     {
       "id": 7,

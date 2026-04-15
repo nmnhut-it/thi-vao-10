@@ -539,7 +539,9 @@
       "answer": "The shoes are so big that my mother can't fit her feet.",
       "acceptedAnswers": [
         "The shoes are so big that my mother can't fit her feet.",
-        "The shoes are so big that my mother can't fit her feet"
+        "The shoes are so big that my mother can't fit her feet",
+        "The shoes are so big that my mother cannot fit her feet.",
+        "The shoes are so big that my mother cannot fit her feet"
       ],
       "explanation": "'so + adjective + that' clause expresses result."
     },

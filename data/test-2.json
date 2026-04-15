@@ -530,7 +530,8 @@
       "acceptedAnswers": [
         "Although I don't really like her, I admire her achievements.",
         "Although I don't really like her, I admire her achievements",
-        "I admire her achievements although I don't really like her."
+        "I admire her achievements although I don't really like her.",
+        "I admire her achievements although I don't really like her"
       ],
       "explanation": "'although' introduces a concessive clause showing contrast."
     },
@@ -558,7 +559,8 @@
       "acceptedAnswers": [
         "It's raining heavily, so we cancelled our journey.",
         "It's raining heavily, so we cancelled our journey",
-        "It was raining heavily, so we cancelled our journey."
+        "It was raining heavily, so we cancelled our journey.",
+        "It was raining heavily, so we cancelled our journey"
       ],
       "explanation": "'so' connects cause and result."
     }
