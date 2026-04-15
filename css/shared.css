@@ -818,6 +818,16 @@ button {
   opacity: 0.8;
 }
 
+/* Underlined parts in phonetics/stress questions */
+.option u {
+  text-decoration: underline;
+  text-decoration-color: var(--danger);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  font-weight: 700;
+  color: var(--primary-dark);
+}
+
 /* ============================================
    INPUT FIELDS
    ============================================ */

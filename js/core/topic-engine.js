@@ -183,7 +183,19 @@ const TopicEngine = {
 
       const textEl = document.createElement('span');
       const cleanOpt = Logic.cleanOptionText(opt);
-      textEl.textContent = cleanOpt;
+      if (Logic.hasUnderlineTags(cleanOpt)) {
+        Logic.parseUnderlinedText(cleanOpt).forEach(seg => {
+          if (seg.underline) {
+            const u = document.createElement('u');
+            u.textContent = seg.text;
+            textEl.appendChild(u);
+          } else {
+            textEl.appendChild(document.createTextNode(seg.text));
+          }
+        });
+      } else {
+        textEl.textContent = cleanOpt;
+      }
       btn.appendChild(textEl);
 
       btn.addEventListener('click', () => {

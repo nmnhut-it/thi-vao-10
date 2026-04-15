@@ -255,3 +255,45 @@ describe('Logic.buildTelegramMessage', () => {
     expect(msg).toContain('2/3');
   });
 });
+
+describe('Logic.hasUnderlineTags', () => {
+  it('detects underline tags', () => {
+    expect(Logic.hasUnderlineTags('sw<u>ea</u>ter')).toBe(true);
+    expect(Logic.hasUnderlineTags('hello')).toBe(false);
+  });
+});
+
+describe('Logic.parseUnderlinedText', () => {
+  it('parses text with underline tags', () => {
+    const result = Logic.parseUnderlinedText('sw<u>ea</u>ter');
+    expect(result).toEqual([
+      { text: 'sw', underline: false },
+      { text: 'ea', underline: true },
+      { text: 'ter', underline: false }
+    ]);
+  });
+
+  it('handles text without tags', () => {
+    const result = Logic.parseUnderlinedText('hello');
+    expect(result).toEqual([{ text: 'hello', underline: false }]);
+  });
+
+  it('handles multiple underline sections', () => {
+    const result = Logic.parseUnderlinedText('a<u>b</u>c<u>d</u>e');
+    expect(result).toEqual([
+      { text: 'a', underline: false },
+      { text: 'b', underline: true },
+      { text: 'c', underline: false },
+      { text: 'd', underline: true },
+      { text: 'e', underline: false }
+    ]);
+  });
+
+  it('handles tag at start', () => {
+    const result = Logic.parseUnderlinedText('<u>ab</u>cd');
+    expect(result).toEqual([
+      { text: 'ab', underline: true },
+      { text: 'cd', underline: false }
+    ]);
+  });
+});

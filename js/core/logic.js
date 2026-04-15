@@ -204,6 +204,37 @@ const Logic = {
    */
   cleanOptionText(opt) {
     return opt.replace(/^[A-D]\.\s*/, '');
+  },
+
+  /**
+   * Check if text contains underline markup tags
+   * @param {string} text
+   * @returns {boolean}
+   */
+  hasUnderlineTags(text) {
+    return text.indexOf('<u>') !== -1;
+  },
+
+  /**
+   * Parse text with underline tags into segments for safe DOM rendering.
+   * Returns array of { text, underline } objects.
+   * Only recognizes the underline tag — all other markup is treated as plain text.
+   * @param {string} text
+   * @returns {Array<{text: string, underline: boolean}>}
+   */
+  parseUnderlinedText(text) {
+    const segments = [];
+    const parts = text.split(/<\/?u>/);
+    let insideTag = false;
+    // The split alternates: outside, inside, outside, inside...
+    // First part is always outside a tag
+    for (let i = 0; i < parts.length; i++) {
+      if (parts[i].length > 0) {
+        segments.push({ text: parts[i], underline: insideTag });
+      }
+      insideTag = !insideTag;
+    }
+    return segments;
   }
 };
 
