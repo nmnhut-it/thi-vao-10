@@ -594,8 +594,8 @@ const TopicEngine = {
         this.revealMCAnswer(exId, ex.correctIndex, ex.explanation);
       } else {
         qIdx++;
-        const exId = ex.id || idx;
-        this.revealTextAnswer(exId, ex);
+        // Text exercises use array index as exId (matching createExerciseCard)
+        this.revealTextAnswer(idx, ex);
       }
     });
   },
