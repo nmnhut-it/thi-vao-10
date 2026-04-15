@@ -3,14 +3,19 @@
   "title": "Relative Clauses (Mệnh Đề Quan Hệ)",
   "section": "grammar",
   "knowledge": {
-    "html": "<h2>X. RELATIVE CLAUSES (MỆNH ĐỀ QUAN HE)</h2><h3>1. Cach su dung cac dai tu quan hệ trong MDQH</h3><table class=\"grammar-table\"><tr><th></th><th>S (chu ngu)</th><th>O (tan ngu)</th><th>P (so huu)</th></tr><tr><td>Danh từ chi nguoi</td><td>Who/that</td><td>Who/whom/that</td><td>Whose</td></tr><tr><td>Danh từ chi vat</td><td>Which/that</td><td>Which/that</td><td>Whose</td></tr><tr><td>Dt vua nguoi &amp; vat</td><td>That</td><td>That</td><td></td></tr><tr><td>Noi chon</td><td colspan=\"3\">Where = in/at/on which</td></tr><tr><td>Thoi gian</td><td colspan=\"3\">When = in/at/on which</td></tr><tr><td>Ly do</td><td colspan=\"3\">Why = for which</td></tr></table><h3>2. Cac loai mệnh đề quan hệ</h3><h4>a. Mệnh đề quan hệ co gioi han (khong dau phay)</h4><p>- Thuong dung khi danh từ dung truoc DTQH co mạo từ \"a/an/the\".<br>- Bo \"who, whom, which, that\" khi no lam tuc tu.</p><div class=\"example\">Ex: The book is interesting. I bought it yesterday.<br>=> The book (which) I bought yesterday is interesting.</div><h4>b. MDQH khong gioi han (co dau phay)</h4><p>- MDQH khong gioi han xuat hien khi danh từ dung truoc dai tu quan hệ la:</p><ul><li>Danh từ rieng</li><li>Danh từ co tính từ chi dinh (this/that/these/those)</li><li>Danh từ co tính từ so huu (my/his/her/your/their/our/its)</li><li>So huu cach (Tom's,...)</li></ul><div class=\"example\">Ex: Tom, whom you met last night, is my son.<br>Ex: That man, who has sent you a gift, lives next door to me.<br>Ex: His book, which was bought last night, is interesting.<br>Ex: Lan's book, which was bought last night, is interesting.</div><p>- Khong dung \"THAT\" trong MDQH khong gioi han.<br>- Khong duoc bo cac dai tu quan hệ lam tan ngu (WHO, WHOM, WHICH) va cac trạng từ quan hệ trong MDQH khong gioi han.<br>- Trong MDQH khong gioi han, \"WHICH\" co the dung de bo nghia cho ca cau.</p><div class=\"example\">Ex: Peter failed again, which does not make us surprised.</div><p>- Khi muon them thong tin ve toan bo hoac 1 phan so vat hay nguoi cu the, ta dung MDQH khong gioi han voi: of which, of whom, of whose, most of, half of, plenty of, some of, one of, neither of, all of, several of, both of, ten of, a few of...</p><div class=\"example\">Ex: I received two jobs offers, <strong>neither of which</strong> I accepted.<br>Ex: I have two friends, <strong>one of whose</strong> problems is poor study habit.</div><h3>3. Giới từ voi dai tu quan hệ</h3><p>Trong mệnh đề quan hệ co giới từ thi giới từ co 2 vị trí dung:</p><ul><li>Giới từ dung truoc dai tu quan hệ hoac giới từ dung sau động từ.</li><li><strong>Lưu ý:</strong> Giới từ khong dung truoc dai tu quan hệ \"who va that\".</li><li>Khi giới từ la thanh phan cua cum động từ thi khong the dem ra truoc \"whom, which, whose\".</li><li>Giới từ \"WITHOUT\" khong duoc dat sau động từ ma phai dat truoc dai tu quan hệ.</li></ul><div class=\"example\">Ex: She is the woman <strong>about whom</strong> I told you.<br>She is the woman <strong>who/whom/that</strong> I told you about.<br>Ex: The woman <strong>without whom</strong> I can't live is Jane.</div><h3>4. Mệnh đề quan hệ rut gon</h3><table class=\"grammar-table\"><tr><th>Dang</th><th>Khi nao</th><th>Ví dụ</th></tr><tr><td><strong>V-ing</strong></td><td>Động từ trong MDQH o the chủ động</td><td>That man, <strong>standing</strong> over there, is my best friend.</td></tr><tr><td><strong>V3/ed</strong></td><td>Động từ trong MDQH o the bị động</td><td>The boy <strong>injured</strong> in the accident was taken to the hospital.</td></tr><tr><td><strong>To V</strong></td><td>Chu ngu dung sau the first, the last, the next, the only, the one, so sánh nhat</td><td>He was the last man <strong>to leave</strong> the burning building.</td></tr></table>"
+    "html": "<h2>X. RELATIVE CLAUSES (MỆNH ĐỀ QUAN HE)</h2><h3>1. Cach sử dụng cac đại từ quan hệ trong MDQH</h3><table class=\"grammar-table\"><tr><th></th><th>S (chủ ngữ)</th><th>O (tân ngữ)</th><th>P (sở hữu)</th></tr><tr><td>Danh từ chi nguoi</td><td>Who/that</td><td>Who/whom/that</td><td>Whose</td></tr><tr><td>Danh từ chi vat</td><td>Which/that</td><td>Which/that</td><td>Whose</td></tr><tr><td>Dt vua nguoi &amp; vat</td><td>That</td><td>That</td><td></td></tr><tr><td>Noi chon</td><td colspan=\"3\">Where = in/at/on which</td></tr><tr><td>Thoi gian</td><td colspan=\"3\">When = in/at/on which</td></tr><tr><td>Ly do</td><td colspan=\"3\">Why = for which</td></tr></table><h3>2. Cac loai mệnh đề quan hệ</h3><h4>a. Mệnh đề quan hệ có giới hạn (khong dấu phẩy)</h4><p>- Thuong dùng khi danh từ dùng trước DTQH co mạo từ \"a/an/the\".<br>- Bo \"who, whom, which, that\" khi no lam túc từ.</p><div class=\"example\">Ex: The book is interesting. I bought it yesterday.<br>=> The book (which) I bought yesterday is interesting.</div><h4>b. MDQH khong gioi han (có dấu phẩy)</h4><p>- MDQH khong gioi han xuất hiện khi danh từ dùng trước đại từ quan hệ la:</p><ul><li>Danh từ rieng</li><li>Danh từ co tính từ chi dinh (this/that/these/those)</li><li>Danh từ co tính từ sở hữu (my/his/her/your/their/our/its)</li><li>Sở hữu cach (Tom's,...)</li></ul><div class=\"example\">Ex: Tom, whom you met last night, is my son.<br>Ex: That man, who has sent you a gift, lives next door to me.<br>Ex: His book, which was bought last night, is interesting.<br>Ex: Lan's book, which was bought last night, is interesting.</div><p>- Khong dung \"THAT\" trong MDQH khong gioi han.<br>- Khong duoc bo cac đại từ quan hệ lam tân ngữ (WHO, WHOM, WHICH) va cac trạng từ quan hệ trong MDQH khong gioi han.<br>- Trong MDQH khong gioi han, \"WHICH\" có thể dùng để bo nghia cho ca cau.</p><div class=\"example\">Ex: Peter failed again, which does not make us surprised.</div><p>- Khi muon thêm thong tin ve toan bo hoac 1 phân số vat hay nguoi cu the, ta dung MDQH khong gioi han voi: of which, of whom, of whose, most of, half of, plenty of, some of, one of, neither of, all of, several of, both of, ten of, a few of...</p><div class=\"example\">Ex: I received two jobs offers, <strong>neither of which</strong> I accepted.<br>Ex: I have two friends, <strong>one of whose</strong> problems is poor study habit.</div><h3>3. Giới từ voi đại từ quan hệ</h3><p>Trong mệnh đề quan hệ co giới từ thi giới từ co 2 vị trí dung:</p><ul><li>Giới từ dùng trước đại từ quan hệ hoac giới từ dùng sau động từ.</li><li><strong>Lưu ý:</strong> Giới từ không dùng truoc đại từ quan hệ \"who va that\".</li><li>Khi giới từ la thành phần cua cum động từ thi không thể dem ra truoc \"whom, which, whose\".</li><li>Giới từ \"WITHOUT\" không được dat sau động từ ma phai dat truoc đại từ quan hệ.</li></ul><div class=\"example\">Ex: She is the woman <strong>about whom</strong> I told you.<br>She is the woman <strong>who/whom/that</strong> I told you about.<br>Ex: The woman <strong>without whom</strong> I can't live is Jane.</div><h3>4. Mệnh đề quan hệ rut gon</h3><table class=\"grammar-table\"><tr><th>Dang</th><th>Khi nao</th><th>Ví dụ</th></tr><tr><td><strong>V-ing</strong></td><td>Động từ trong MDQH o the chủ động</td><td>That man, <strong>standing</strong> over there, is my best friend.</td></tr><tr><td><strong>V3/ed</strong></td><td>Động từ trong MDQH o the bị động</td><td>The boy <strong>injured</strong> in the accident was taken to the hospital.</td></tr><tr><td><strong>To V</strong></td><td>Chủ ngữ dùng sau the first, the last, the next, the only, the one, so sánh nhat</td><td>He was the last man <strong>to leave</strong> the burning building.</td></tr></table>"
   },
   "exercises": [
     {
       "id": 1,
       "type": "multiple-choice",
       "question": "Genghis Khan, _______ name means \"very mighty ruler\", was a Mongol emperor in the Middle Ages.",
-      "options": ["A. whom", "B. whose", "C. who", "D. which"],
+      "options": [
+        "A. whom",
+        "B. whose",
+        "C. who",
+        "D. which"
+      ],
       "correctIndex": 1,
       "explanation": "'whose' chi so huu, dung truoc danh từ 'name'. => 'whose name means...'"
     },
@@ -18,7 +23,12 @@
       "id": 2,
       "type": "multiple-choice",
       "question": "The house _______ windows are blue was built in the 20th century.",
-      "options": ["A. which", "B. that", "C. whose", "D. of which"],
+      "options": [
+        "A. which",
+        "B. that",
+        "C. whose",
+        "D. of which"
+      ],
       "correctIndex": 2,
       "explanation": "'whose' chi so huu cho 'house' => 'whose windows'. Lưu ý: 'of which' (D) cung co the dung nhung can viet lai: 'the windows of which' hoac 'of which the windows'. Dang trong cau nay chi 'whose' la dung ngu phap."
     },
@@ -26,7 +36,12 @@
       "id": 3,
       "type": "multiple-choice",
       "question": "The paintings _______ are marked with small red dot have already been sold.",
-      "options": ["A. which", "B. who", "C. whose", "D. whom"],
+      "options": [
+        "A. which",
+        "B. who",
+        "C. whose",
+        "D. whom"
+      ],
       "correctIndex": 0,
       "explanation": "'paintings' la vat, can chu ngu => 'which'."
     },
@@ -34,7 +49,12 @@
       "id": 4,
       "type": "multiple-choice",
       "question": "The restaurant _______ Bob recommended was too expensive.",
-      "options": ["A. where", "B. which", "C. whose", "D. when"],
+      "options": [
+        "A. where",
+        "B. which",
+        "C. whose",
+        "D. when"
+      ],
       "correctIndex": 1,
       "explanation": "'restaurant' la vat, lam tan ngu cua 'recommended' => 'which'."
     },
@@ -42,7 +62,12 @@
       "id": 5,
       "type": "multiple-choice",
       "question": "Bogota, _______ is the capital city of Columbia, is a cosmopolitan city.",
-      "options": ["A. who", "B. that", "C. which", "D. where"],
+      "options": [
+        "A. who",
+        "B. that",
+        "C. which",
+        "D. where"
+      ],
       "correctIndex": 2,
       "explanation": "MDQH khong gioi han (co dau phay), 'Bogota' la danh từ rieng chi vat => 'which'. Khong dung 'that' trong MDQH khong gioi han."
     },
@@ -50,7 +75,12 @@
       "id": 6,
       "type": "multiple-choice",
       "question": "Sally lost her job, _______ wasn't a surprise.",
-      "options": ["A. which", "B. who", "C. whom", "D. that"],
+      "options": [
+        "A. which",
+        "B. who",
+        "C. whom",
+        "D. that"
+      ],
       "correctIndex": 0,
       "explanation": "'which' bo nghia cho ca mệnh đề truoc (viec Sally mat viec). Khong dung 'that' sau dau phay."
     },
@@ -58,7 +88,12 @@
       "id": 7,
       "type": "multiple-choice",
       "question": "The land and the people _______ I have met are nice.",
-      "options": ["A. that", "B. who", "C. whose", "D. whom"],
+      "options": [
+        "A. that",
+        "B. who",
+        "C. whose",
+        "D. whom"
+      ],
       "correctIndex": 0,
       "explanation": "Khi danh từ vua chi nguoi vua chi vat ('the land and the people') => dung 'that'."
     },
@@ -66,7 +101,12 @@
       "id": 8,
       "type": "multiple-choice",
       "question": "The chemistry book _______ was a little expensive.",
-      "options": ["A. that I bought it", "B. I bought that", "C. what I bought", "D. that I bought"],
+      "options": [
+        "A. that I bought it",
+        "B. I bought that",
+        "C. what I bought",
+        "D. that I bought"
+      ],
       "correctIndex": 3,
       "explanation": "'that' lam tan ngu cua 'bought'. Khong them 'it' sau động từ."
     },
@@ -74,7 +114,12 @@
       "id": 9,
       "type": "multiple-choice",
       "question": "I hardly understood _______ she was saying about her dream.",
-      "options": ["A. which", "B. that", "C. what", "D. why"],
+      "options": [
+        "A. which",
+        "B. that",
+        "C. what",
+        "D. why"
+      ],
       "correctIndex": 2,
       "explanation": "'what' = 'the thing which', lam tan ngu cua 'was saying'."
     },
@@ -82,7 +127,12 @@
       "id": 10,
       "type": "multiple-choice",
       "question": "The girl _______ I borrowed the dictionary asked me to use it carefully.",
-      "options": ["A. whose", "B. from whom", "C. from whose", "D. whom"],
+      "options": [
+        "A. whose",
+        "B. from whom",
+        "C. from whose",
+        "D. whom"
+      ],
       "correctIndex": 1,
       "explanation": "'borrow something from someone' => 'from whom I borrowed'."
     },
@@ -90,7 +140,12 @@
       "id": 11,
       "type": "multiple-choice",
       "question": "I wrote to the girl _______ I met at the meeting.",
-      "options": ["A. whom", "B. whose", "C. which", "D. her"],
+      "options": [
+        "A. whom",
+        "B. whose",
+        "C. which",
+        "D. her"
+      ],
       "correctIndex": 0,
       "explanation": "'girl' la nguoi, lam tan ngu => 'whom'."
     },
@@ -98,7 +153,12 @@
       "id": 12,
       "type": "multiple-choice",
       "question": "The boy to _______ I lend my money is poor.",
-      "options": ["A. that", "B. who", "C. whom", "D. whose"],
+      "options": [
+        "A. that",
+        "B. who",
+        "C. whom",
+        "D. whose"
+      ],
       "correctIndex": 2,
       "explanation": "Giới từ 'to' dung truoc dai tu quan hệ => dung 'whom' (khong dung 'that' sau giới từ)."
     },
@@ -106,7 +166,12 @@
       "id": 13,
       "type": "multiple-choice",
       "question": "The student _______ you just met is one of my classmates.",
-      "options": ["A. what", "B. which", "C. whose", "D. that"],
+      "options": [
+        "A. what",
+        "B. which",
+        "C. whose",
+        "D. that"
+      ],
       "correctIndex": 3,
       "explanation": "'student' la nguoi, lam tan ngu cua 'met' => 'that' hoac 'whom' deu dung."
     },
@@ -114,7 +179,12 @@
       "id": 14,
       "type": "multiple-choice",
       "question": "The woman _______ lives next door to us is a doctor.",
-      "options": ["A. that", "B. whom", "C. who", "D. A and C"],
+      "options": [
+        "A. that",
+        "B. whom",
+        "C. who",
+        "D. A and C"
+      ],
       "correctIndex": 3,
       "explanation": "'woman' la nguoi, lam chu ngu => 'who' hoac 'that' deu duoc."
     },
@@ -122,7 +192,12 @@
       "id": 15,
       "type": "multiple-choice",
       "question": "Carol is the best friend _______ I've ever had in my life.",
-      "options": ["A. whom", "B. who", "C. which", "D. both A&B"],
+      "options": [
+        "A. whom",
+        "B. who",
+        "C. which",
+        "D. both A&B"
+      ],
       "correctIndex": 3,
       "explanation": "'friend' la nguoi, lam tan ngu => 'whom' hoac 'who' deu duoc."
     },
@@ -130,7 +205,12 @@
       "id": 16,
       "type": "multiple-choice",
       "question": "The pollution _______ they were talking is getting worse.",
-      "options": ["A. that", "B. about which", "C. which", "D. to which"],
+      "options": [
+        "A. that",
+        "B. about which",
+        "C. which",
+        "D. to which"
+      ],
       "correctIndex": 1,
       "explanation": "'talk about something' => 'about which they were talking'."
     },
@@ -138,7 +218,12 @@
       "id": 17,
       "type": "multiple-choice",
       "question": "Wednesday is the day _______ a tour guide leads a tour around the town's historical places.",
-      "options": ["A. when", "B. which", "C. whose", "D. where"],
+      "options": [
+        "A. when",
+        "B. which",
+        "C. whose",
+        "D. where"
+      ],
       "correctIndex": 0,
       "explanation": "'Wednesday' la thời gian => dung 'when' (= on which)."
     },
@@ -146,7 +231,12 @@
       "id": 18,
       "type": "multiple-choice",
       "question": "The town _______ the folk festival is taking place is usually a quiet resort.",
-      "options": ["A. when", "B. where", "C. whom", "D. which"],
+      "options": [
+        "A. when",
+        "B. where",
+        "C. whom",
+        "D. which"
+      ],
       "correctIndex": 1,
       "explanation": "'town' la noi chon => dung 'where' (= in which)."
     },
@@ -154,7 +244,12 @@
       "id": 19,
       "type": "multiple-choice",
       "question": "The reason _______ she was absent from class yesterday was told to the teacher.",
-      "options": ["A. that", "B. when", "C. which", "D. why"],
+      "options": [
+        "A. that",
+        "B. when",
+        "C. which",
+        "D. why"
+      ],
       "correctIndex": 3,
       "explanation": "'reason' di voi 'why' (= for which)."
     },
@@ -162,7 +257,12 @@
       "id": 20,
       "type": "multiple-choice",
       "question": "This is the CD _______ I bought last month.",
-      "options": ["A. who", "B. which", "C. when", "D. whom"],
+      "options": [
+        "A. who",
+        "B. which",
+        "C. when",
+        "D. whom"
+      ],
       "correctIndex": 1,
       "explanation": "'CD' la vat, lam tan ngu => 'which'."
     },
@@ -170,7 +270,12 @@
       "id": 21,
       "type": "multiple-choice",
       "question": "Can you remember the day _______ John was born?",
-      "options": ["A. when", "B. where", "C. that", "D. who"],
+      "options": [
+        "A. when",
+        "B. where",
+        "C. that",
+        "D. who"
+      ],
       "correctIndex": 0,
       "explanation": "'day' la thời gian => 'when'."
     },
@@ -178,7 +283,12 @@
       "id": 22,
       "type": "multiple-choice",
       "question": "The secretary _______ is sitting at the first desk on the right can give you the information.",
-      "options": ["A. who", "B. whom", "C. where", "D. which"],
+      "options": [
+        "A. who",
+        "B. whom",
+        "C. where",
+        "D. which"
+      ],
       "correctIndex": 0,
       "explanation": "'secretary' la nguoi, lam chu ngu => 'who'."
     },
@@ -186,7 +296,12 @@
       "id": 23,
       "type": "multiple-choice",
       "question": "Paul O'Grady _______ died a few years ago, was a kind and loving man.",
-      "options": ["A. , whom", "B. that", "C. , who", "D. , which"],
+      "options": [
+        "A. , whom",
+        "B. that",
+        "C. , who",
+        "D. , which"
+      ],
       "correctIndex": 2,
       "explanation": "Danh từ rieng 'Paul O'Grady' => MDQH khong gioi han (co dau phay), lam chu ngu => ', who'."
     },
@@ -194,7 +309,12 @@
       "id": 24,
       "type": "multiple-choice",
       "question": "I hate the music _______ is too loud.",
-      "options": ["A. which", "B. who", "C. whose", "D. where"],
+      "options": [
+        "A. which",
+        "B. who",
+        "C. whose",
+        "D. where"
+      ],
       "correctIndex": 0,
       "explanation": "'music' la vat, lam chu ngu => 'which'."
     },
@@ -202,7 +322,12 @@
       "id": 25,
       "type": "multiple-choice",
       "question": "This is Tony. _______ daughter lives next to James.",
-      "options": ["A. who", "B. that", "C. whose", "D. whom"],
+      "options": [
+        "A. who",
+        "B. that",
+        "C. whose",
+        "D. whom"
+      ],
       "correctIndex": 2,
       "explanation": "'whose' chi so huu, dung truoc danh từ 'daughter'."
     },
@@ -210,7 +335,12 @@
       "id": 26,
       "type": "multiple-choice",
       "question": "Can you pass me the pen _______ is next to the dictionary, Joe?",
-      "options": ["A. that", "B. which", "C. who", "D. both A&B"],
+      "options": [
+        "A. that",
+        "B. which",
+        "C. who",
+        "D. both A&B"
+      ],
       "correctIndex": 3,
       "explanation": "'pen' la vat, lam chu ngu => 'that' hoac 'which' deu duoc."
     },
@@ -218,7 +348,12 @@
       "id": 27,
       "type": "multiple-choice",
       "question": "Let's go to the shopping center _______ we can buy something nice for mum's birthday.",
-      "options": ["A. which", "B. where", "C. who", "D. both A&B"],
+      "options": [
+        "A. which",
+        "B. where",
+        "C. who",
+        "D. both A&B"
+      ],
       "correctIndex": 1,
       "explanation": "'shopping center' la noi chon => 'where'."
     },
@@ -226,7 +361,12 @@
       "id": 28,
       "type": "multiple-choice",
       "question": "Don't forget to bring back the book _______ you borrowed.",
-      "options": ["A. when", "B. who", "C. whom", "D. \u00d8"],
+      "options": [
+        "A. when",
+        "B. who",
+        "C. whom",
+        "D. Ø"
+      ],
       "correctIndex": 3,
       "explanation": "'book' la vat lam tan ngu => co the bo dai tu quan hệ (zero relative pronoun)."
     },
@@ -234,7 +374,12 @@
       "id": 29,
       "type": "multiple-choice",
       "question": "We really enjoyed the meat _______ Sally made yesterday.",
-      "options": ["A. which", "B. when", "C. where", "D. who"],
+      "options": [
+        "A. which",
+        "B. when",
+        "C. where",
+        "D. who"
+      ],
       "correctIndex": 0,
       "explanation": "'meat' la vat, lam tan ngu cua 'made' => 'which'."
     },
@@ -242,7 +387,12 @@
       "id": 30,
       "type": "multiple-choice",
       "question": "They travelled to Oxford _______ his father studied medicine.",
-      "options": ["A. when", "B. which", "C. where", "D. \u00d8"],
+      "options": [
+        "A. when",
+        "B. which",
+        "C. where",
+        "D. Ø"
+      ],
       "correctIndex": 2,
       "explanation": "'Oxford' la noi chon => 'where'."
     },
@@ -251,7 +401,10 @@
       "type": "fill-blank",
       "question": "The car _______ broke down was bought few days ago.",
       "answer": "which",
-      "acceptedAnswers": ["which", "that"],
+      "acceptedAnswers": [
+        "which",
+        "that"
+      ],
       "explanation": "'car' la vat, lam chu ngu => 'which' hoac 'that'."
     },
     {
@@ -259,7 +412,9 @@
       "type": "fill-blank",
       "question": "The little girl _______ mother is a doctor was accompanied by her teacher.",
       "answer": "whose",
-      "acceptedAnswers": ["whose"],
+      "acceptedAnswers": [
+        "whose"
+      ],
       "explanation": "'whose' chi so huu, dung truoc 'mother'."
     },
     {
@@ -267,7 +422,9 @@
       "type": "fill-blank",
       "question": "Mr John, _______ has just bought a new car, had a terrible accident yesterday.",
       "answer": "who",
-      "acceptedAnswers": ["who"],
+      "acceptedAnswers": [
+        "who"
+      ],
       "explanation": "Danh từ rieng 'Mr John' => MDQH khong gioi han, chu ngu => 'who'."
     },
     {
@@ -275,7 +432,11 @@
       "type": "fill-blank",
       "question": "This is the person _______ I told you about last week.",
       "answer": "who",
-      "acceptedAnswers": ["who", "whom", "that"],
+      "acceptedAnswers": [
+        "who",
+        "whom",
+        "that"
+      ],
       "explanation": "'person' la nguoi, lam tan ngu => 'who/whom/that'."
     },
     {
@@ -283,7 +444,10 @@
       "type": "fill-blank",
       "question": "The book _______ I borrowed from Jane is fantastic!",
       "answer": "which",
-      "acceptedAnswers": ["which", "that"],
+      "acceptedAnswers": [
+        "which",
+        "that"
+      ],
       "explanation": "'book' la vat, lam tan ngu => 'which' hoac 'that'."
     },
     {
@@ -291,7 +455,9 @@
       "type": "fill-blank",
       "question": "Linda's schoolbag, _______ is on the table was bought at the same shop as mine.",
       "answer": "which",
-      "acceptedAnswers": ["which"],
+      "acceptedAnswers": [
+        "which"
+      ],
       "explanation": "So huu cach 'Linda's' => MDQH khong gioi han => 'which'."
     },
     {
@@ -299,7 +465,9 @@
       "type": "fill-blank",
       "question": "This song, _______ author has died, is very popular.",
       "answer": "whose",
-      "acceptedAnswers": ["whose"],
+      "acceptedAnswers": [
+        "whose"
+      ],
       "explanation": "'whose' chi so huu, dung truoc 'author'."
     },
     {
@@ -307,7 +475,10 @@
       "type": "fill-blank",
       "question": "The football player _______ scored is the most popular one in my country.",
       "answer": "who",
-      "acceptedAnswers": ["who", "that"],
+      "acceptedAnswers": [
+        "who",
+        "that"
+      ],
       "explanation": "'football player' la nguoi, lam chu ngu => 'who/that'."
     },
     {
@@ -315,7 +486,9 @@
       "type": "fill-blank",
       "question": "The singer _______ fans didn't show up was very upset.",
       "answer": "whose",
-      "acceptedAnswers": ["whose"],
+      "acceptedAnswers": [
+        "whose"
+      ],
       "explanation": "'whose' chi so huu => 'whose fans'."
     },
     {
@@ -323,7 +496,10 @@
       "type": "fill-blank",
       "question": "The exam _______ I did last week was very difficult.",
       "answer": "which",
-      "acceptedAnswers": ["which", "that"],
+      "acceptedAnswers": [
+        "which",
+        "that"
+      ],
       "explanation": "'exam' la vat, lam tan ngu => 'which/that'."
     },
     {
@@ -405,7 +581,10 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "I don't",
       "answer": "I don't like the man who is going out with my sister.",
-      "acceptedAnswers": ["I don't like the man who is going out with my sister.", "I don't like the man that is going out with my sister."],
+      "acceptedAnswers": [
+        "I don't like the man who is going out with my sister.",
+        "I don't like the man that is going out with my sister."
+      ],
       "explanation": "'the man' la nguoi, lam chu ngu => dung 'who' hoac 'that'."
     },
     {
@@ -433,7 +612,10 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "I have",
       "answer": "I have just greeted the girl who is sitting next to my brother.",
-      "acceptedAnswers": ["I have just greeted the girl who is sitting next to my brother.", "I have just greeted the girl that is sitting next to my brother."],
+      "acceptedAnswers": [
+        "I have just greeted the girl who is sitting next to my brother.",
+        "I have just greeted the girl that is sitting next to my brother."
+      ],
       "explanation": "'the girl' la nguoi, lam chu ngu => 'who' hoac 'that'."
     },
     {
@@ -443,7 +625,10 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "Is David",
       "answer": "Is David the student who gets the best marks in your class?",
-      "acceptedAnswers": ["Is David the student who gets the best marks in your class?", "Is David the student that gets the best marks in your class?"],
+      "acceptedAnswers": [
+        "Is David the student who gets the best marks in your class?",
+        "Is David the student that gets the best marks in your class?"
+      ],
       "explanation": "'the student' la nguoi, lam chu ngu => 'who' hoac 'that'."
     },
     {
@@ -489,7 +674,11 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "I don't remember",
       "answer": "I don't remember the man whom you said you met at the canteen last week.",
-      "acceptedAnswers": ["I don't remember the man whom you said you met at the canteen last week.", "I don't remember the man who you said you met at the canteen last week.", "I don't remember the man that you said you met at the canteen last week."],
+      "acceptedAnswers": [
+        "I don't remember the man whom you said you met at the canteen last week.",
+        "I don't remember the man who you said you met at the canteen last week.",
+        "I don't remember the man that you said you met at the canteen last week."
+      ],
       "explanation": "'the man' la nguoi, lam tan ngu => 'who/whom/that'."
     },
     {

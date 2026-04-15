@@ -3,14 +3,19 @@
   "title": "Subject-Verb Concord (Hòa Hợp S-V)",
   "section": "grammar",
   "knowledge": {
-    "html": "<h3>Một số quy tắc chung</h3><h4>V (số ít) - Động từ chia số ít khi:</h4><ul><li>Chu ngu la danh từ va cum danh từ số ít.</li><li>Chu ngu la cac dai luong chi thời gian, khoang cach, tien bac, hay su do luong.</li><li>Chu ngu la cac dai tu bat dinh: <b>someone, anything, nothing, everyone, another...</b></li><li>Chu ngu la mệnh đề danh từ.<br><div class='example'>Ex: All I want to do now is to sleep.</div></li><li>Chu ngu bat dau bang \"to infinitive\" hoac \"V-ing\".</li><li>Chu ngu bat dau bang cụm từ \"<b>Many a</b>\".</li><li>Chu ngu la mot phan so co tu so la 1. Ex: 1/2 is larger than 1/3.</li><li>Chu ngu la một số danh từ dac biet co hinh thuc số nhiều: mon hoc (<b>Physics, Maths</b>), mon the thao (<b>billiards, athletics...</b>), tin tuc (<b>news</b>), cac loai benh (<b>rabies, measles...</b>), ten 1 so quoc gia va to chuc (<b>UN, United States, the Philippines...</b>), loai dong vat (<b>ants, elephants...</b>)</li><li>Chu ngu bat dau bang <b>Most of/All of/Plenty of + N</b> (khong đếm được/số ít).</li><li>Chu ngu bat dau bang \"<b>The number of + N (số nhiều)</b>\".</li><li>Chu ngu bat dau bang \"<b>None of + N (số nhiều)/No + N (số ít)</b>\".</li><li>Chu ngu bat dau bang <b>N1 (số ít) of N2</b>.</li><li>Chu ngu la cum danh từ chi nhom dong vat (số ít) mang nghia \"bay, dan\": flock of birds/sheep, school of fish, pride of lion, pack of dogs, herd of cattle.</li><li><b>A large amount/A great deal + N</b> (khong đếm được/số ít).</li><li><b>Neither (of)/Either of + N (số nhiều)</b><div class='example'>Ex: Neither restaurants is expensive.<br>Either of them works in this company.</div></li><li>Chu ngu la mot tua de.<div class='example'>Ex: \"Chi pheo\" is a famous work of Nam Cao.</div></li><li>Chu ngu bat dau bang \"<b>A pair of + N (số nhiều)</b>\".<div class='example'>Ex: A pair of pants is in the drawer.</div></li><li>Chu ngu la danh từ va cum danh từ số nhiều.<div class='example'>Ex: Oranges are rich in vitamin C</div></li><li>Một số danh từ ket thuc bang \"s\" nhung dung số nhiều: <b>people, police, cattle, children, geese, mice...</b><div class='example'>Ex: People are searching for something to eat.</div></li></ul><h4>Hai chu ngu noi nhau bang \"and\"</h4><ul><li>Co quan hệ đẳng lập -> V số nhiều.<div class='example'>Ex: Jane and Mary are my best friends.</div></li><li>Tuy nhien, neu 2 danh từ cung chi mot nguoi, mot bo phan hoac 1 mon an... thi động từ chia o số ít. (Lưu ý: khong co \"the\" o truoc danh từ sau \"and\".)<div class='example'>Ex: Bread and butter is their daily food.</div></li></ul><h4>Cấu trúc \"both N1 and N2\" -> V số nhiều</h4><div class='example'>Ex: Both Betty and Joan are cooking for their dinner party.</div><h4>V (số nhiều) - Động từ chia số nhiều khi:</h4><ul><li>Chu ngu la 1 dai tu: <b>several, both, many, few, all, some + N (số nhiều)</b>.<div class='example'>Ex: Several students are absent.</div></li><li>Chu ngu la \"<b>The + adj</b>\", chi mot tap hop nguoi.<div class='example'>Ex: The poor living here need help.</div></li><li>Chu ngu bat dau la mot phan so co tu so tu 2 tro len.<div class='example'>Ex: 2/5 are smaller than 1/2.</div></li><li>Cac danh từ luon dung dang số nhiều: trouser, eyeglasses, jeans, tweezers, shorts, pliers, pants, tongs...<div class='example'>Ex: The pants are in the drawer.</div></li><li>Chu ngu bat dau bang <b>Most of/All of/Plenty of/Some of/Majority of/The last of/One of/Part of/The rest of/Percentage of/A lot of/Lots of/A third of/Minority of + N (số nhiều)</b>.<div class='example'>Ex: Most of people in the factory are male.</div></li><li>Chu ngu bat dau bang \"<b>A number of + N (số nhiều)</b>\".<div class='example'>Ex: A number of students going to class decrease.</div></li><li>Chu ngu bat dau bang \"<b>No + N (số nhiều)</b>\".<div class='example'>Ex: No people understand what he says.</div></li><li>Chu ngu bat dau bang \"<b>N1 (số nhiều) of N2</b>\".<div class='example'>Ex: The studies of how living things work are called philosophy.</div></li><li>Chu ngu la cum danh từ chi nhom dong vat (số nhiều): flocks of birds/sheep; schools of fish; prides of lion; packs of dogs; herds of cattle...<div class='example'>Ex: Flocks of birds are flying to its destination.</div></li></ul><h4>V chia theo chu ngu dau tien</h4><p>Chu ngu duoc noi voi nhau boi cac liên từ: \"<b>as long as, as well as, with, together with, along with, in addition to, accompanied by</b>\".</p><div class='example'>Ex: She, along with her classmates, is going to university this year.<br>Mrs. Smith together with her sons is going abroad.</div><h4>V chia theo danh từ thu 2</h4><p>Either ...or...<br>Neither ... nor...<br>Not only ... but also...<br>... or...<br>... nor...<br>Not... but...</p>"
+    "html": "<h3>Một số quy tắc chung</h3><h4>V (số ít) - Động từ chia số ít khi:</h4><ul><li>Chủ ngữ la danh từ va cum danh từ số ít.</li><li>Chủ ngữ la cac đại lượng chi thời gian, khoảng cách, tiền bạc, hay sự đo lường.</li><li>Chủ ngữ la cac đại từ bất định: <b>someone, anything, nothing, everyone, another...</b></li><li>Chủ ngữ la mệnh đề danh từ.<br><div class='example'>Ex: All I want to do now is to sleep.</div></li><li>Chủ ngữ bắt đầu bằng \"to infinitive\" hoac \"V-ing\".</li><li>Chủ ngữ bắt đầu bằng cụm từ \"<b>Many a</b>\".</li><li>Chủ ngữ la mot phân số co tử số la 1. Ex: 1/2 is larger than 1/3.</li><li>Chủ ngữ la một số danh từ đặc biệt co hình thức số nhiều: môn học (<b>Physics, Maths</b>), môn thể thao (<b>billiards, athletics...</b>), tin tức (<b>news</b>), cac loại bệnh (<b>rabies, measles...</b>), ten 1 so quốc gia va tổ chức (<b>UN, United States, the Philippines...</b>), loai đóng vat (<b>ants, elephants...</b>)</li><li>Chủ ngữ bắt đầu bằng <b>Most of/All of/Plenty of + N</b> (khong đếm được/số ít).</li><li>Chủ ngữ bắt đầu bằng \"<b>The number of + N (số nhiều)</b>\".</li><li>Chủ ngữ bắt đầu bằng \"<b>None of + N (số nhiều)/No + N (số ít)</b>\".</li><li>Chủ ngữ bắt đầu bằng <b>N1 (số ít) of N2</b>.</li><li>Chủ ngữ la cum danh từ chi nhom động vật (số ít) mang nghia \"bay, dan\": flock of birds/sheep, school of fish, pride of lion, pack of dogs, herd of cattle.</li><li><b>A large amount/A great deal + N</b> (khong đếm được/số ít).</li><li><b>Neither (of)/Either of + N (số nhiều)</b><div class='example'>Ex: Neither restaurants is expensive.<br>Either of thêm works in this company.</div></li><li>Chủ ngữ la mot tựa đề.<div class='example'>Ex: \"Chi pheo\" is a famous work of Nam Cao.</div></li><li>Chủ ngữ bắt đầu bằng \"<b>A pair of + N (số nhiều)</b>\".<div class='example'>Ex: A pair of pants is in the drawer.</div></li><li>Chủ ngữ la danh từ va cum danh từ số nhiều.<div class='example'>Ex: Oranges are rich in vitamin C</div></li><li>Một số danh từ kết thúc bằng \"s\" nhung dung số nhiều: <b>people, police, cattle, children, geese, mice...</b><div class='example'>Ex: People are searching for something to eat.</div></li></ul><h4>Hai chủ ngữ noi nhau bang \"and\"</h4><ul><li>Co quan hệ đẳng lập -> V số nhiều.<div class='example'>Ex: Jane and Mary are my best friends.</div></li><li>Tuy nhien, neu 2 danh từ cung chi một người, mot bộ phận hoac 1 món ăn... thi động từ chia o số ít. (Lưu ý: không có \"the\" o truoc danh từ sau \"and\".)<div class='example'>Ex: Bread and butter is their daily food.</div></li></ul><h4>Cấu trúc \"both N1 and N2\" -> V số nhiều</h4><div class='example'>Ex: Both Betty and Joan are cooking for their dinner party.</div><h4>V (số nhiều) - Động từ chia số nhiều khi:</h4><ul><li>Chủ ngữ la 1 đại từ: <b>several, both, many, few, all, some + N (số nhiều)</b>.<div class='example'>Ex: Several students are absent.</div></li><li>Chủ ngữ la \"<b>The + adj</b>\", chi mot tập hợp nguoi.<div class='example'>Ex: The poor living here need help.</div></li><li>Chủ ngữ bắt đầu là mot phân số co tử số tu 2 tro len.<div class='example'>Ex: 2/5 are smaller than 1/2.</div></li><li>Cac danh từ luôn đúng dang số nhiều: trouser, eyeglasses, jeans, tweezers, shorts, pliers, pants, tongs...<div class='example'>Ex: The pants are in the drawer.</div></li><li>Chủ ngữ bắt đầu bằng <b>Most of/All of/Plenty of/Some of/Majority of/The last of/One of/Part of/The rest of/Percentage of/A lot of/Lots of/A third of/Minority of + N (số nhiều)</b>.<div class='example'>Ex: Most of people in the factory are male.</div></li><li>Chủ ngữ bắt đầu bằng \"<b>A number of + N (số nhiều)</b>\".<div class='example'>Ex: A number of students going to class decrease.</div></li><li>Chủ ngữ bắt đầu bằng \"<b>No + N (số nhiều)</b>\".<div class='example'>Ex: No people understand what he says.</div></li><li>Chủ ngữ bắt đầu bằng \"<b>N1 (số nhiều) of N2</b>\".<div class='example'>Ex: The studies of how living things work are called philosophy.</div></li><li>Chủ ngữ la cum danh từ chi nhom động vật (số nhiều): flocks of birds/sheep; schools of fish; prides of lion; packs of dogs; herds of cattle...<div class='example'>Ex: Flocks of birds are flying to its destination.</div></li></ul><h4>V chia theo chủ ngữ dau tien</h4><p>Chủ ngữ được nói voi nhau boi cac liên từ: \"<b>as long as, as well as, with, together with, along with, in addition to, accompanied by</b>\".</p><div class='example'>Ex: She, along with her classmates, is going to university this year.<br>Mrs. Smith together with her sons is going abroad.</div><h4>V chia theo danh từ thu 2</h4><p>Either ...or...<br>Neither ... nor...<br>Not only ... but also...<br>... or...<br>... nor...<br>Not... but...</p>"
   },
   "exercises": [
     {
       "id": 1,
       "type": "multiple-choice",
       "question": "All the books on the shelf _______ to me.",
-      "options": ["A. belong", "B. belongs", "C. belonging", "D. is belonging"],
+      "options": [
+        "A. belong",
+        "B. belongs",
+        "C. belonging",
+        "D. is belonging"
+      ],
       "correctIndex": 0,
       "explanation": "'All the books' is plural, so use plural verb 'belong'."
     },
@@ -18,7 +23,12 @@
       "id": 2,
       "type": "multiple-choice",
       "question": "The trousers you bought for me _______ me.",
-      "options": ["A. don't fit", "B. doesn't fit", "C. fits", "D. fit not"],
+      "options": [
+        "A. don't fit",
+        "B. doesn't fit",
+        "C. fits",
+        "D. fit not"
+      ],
       "correctIndex": 0,
       "explanation": "'Trousers' is always plural, so use 'don't fit'."
     },
@@ -26,7 +36,12 @@
       "id": 3,
       "type": "multiple-choice",
       "question": "Mumps _______ usually caught by children.",
-      "options": ["A. are", "B. was", "C. is", "D. were"],
+      "options": [
+        "A. are",
+        "B. was",
+        "C. is",
+        "D. were"
+      ],
       "correctIndex": 2,
       "explanation": "'Mumps' (a disease) looks plural but takes a singular verb."
     },
@@ -34,7 +49,12 @@
       "id": 4,
       "type": "multiple-choice",
       "question": "The United States _______ between Canada and Mexico.",
-      "options": ["A. lying", "B. lies", "C. lain", "D. lie"],
+      "options": [
+        "A. lying",
+        "B. lies",
+        "C. lain",
+        "D. lie"
+      ],
       "correctIndex": 1,
       "explanation": "'The United States' is a country name - takes singular verb 'lies'."
     },
@@ -42,7 +62,12 @@
       "id": 5,
       "type": "multiple-choice",
       "question": "Physics _______ us understand the natural laws.",
-      "options": ["A. helps", "B. help", "C. have helped", "D. helped"],
+      "options": [
+        "A. helps",
+        "B. help",
+        "C. have helped",
+        "D. helped"
+      ],
       "correctIndex": 0,
       "explanation": "'Physics' (a subject) takes a singular verb: 'helps'."
     },
@@ -50,7 +75,12 @@
       "id": 6,
       "type": "multiple-choice",
       "question": "The police _______ the robber.",
-      "options": ["A. were arrested", "B. has arrested", "C. have arrested", "D. was arresting"],
+      "options": [
+        "A. were arrested",
+        "B. has arrested",
+        "C. have arrested",
+        "D. was arresting"
+      ],
       "correctIndex": 2,
       "explanation": "'The police' is always plural, so use 'have arrested'."
     },
@@ -58,7 +88,12 @@
       "id": 7,
       "type": "multiple-choice",
       "question": "Either you or he _______ wrong.",
-      "options": ["A. are", "B. were", "C. have been", "D. is"],
+      "options": [
+        "A. are",
+        "B. were",
+        "C. have been",
+        "D. is"
+      ],
       "correctIndex": 3,
       "explanation": "'Either...or' - verb agrees with the nearest subject 'he' (singular) -> 'is'."
     },
@@ -66,7 +101,12 @@
       "id": 8,
       "type": "multiple-choice",
       "question": "The doctor with the nurses _______ exhausted after the operation.",
-      "options": ["A. were", "B. was", "C. have been", "D. are being"],
+      "options": [
+        "A. were",
+        "B. was",
+        "C. have been",
+        "D. are being"
+      ],
       "correctIndex": 1,
       "explanation": "'With the nurses' is an addition, not a conjunction. The main subject is 'the doctor' (singular)."
     },
@@ -74,7 +114,12 @@
       "id": 9,
       "type": "multiple-choice",
       "question": "Ninety percent of the work _______ been done.",
-      "options": ["A. is", "B. are", "C. has", "D. have"],
+      "options": [
+        "A. is",
+        "B. are",
+        "C. has",
+        "D. have"
+      ],
       "correctIndex": 2,
       "explanation": "'The work' is uncountable, so 'ninety percent of the work' takes singular: 'has'."
     },
@@ -82,7 +127,12 @@
       "id": 10,
       "type": "multiple-choice",
       "question": "Those who _______ to go with me, please raise your hand.",
-      "options": ["A. want", "B. wants", "C. wanting", "D. are wanting"],
+      "options": [
+        "A. want",
+        "B. wants",
+        "C. wanting",
+        "D. are wanting"
+      ],
       "correctIndex": 0,
       "explanation": "'Those who' is plural, so use 'want'."
     },
@@ -90,7 +140,12 @@
       "id": 11,
       "type": "multiple-choice",
       "question": "Salt and water _______ to wash the wound.",
-      "options": ["A. is used", "B. are used", "C. was used", "D. were used"],
+      "options": [
+        "A. is used",
+        "B. are used",
+        "C. was used",
+        "D. were used"
+      ],
       "correctIndex": 0,
       "explanation": "'Salt and water' as a mixture/combination is treated as singular: 'is used'."
     },
@@ -98,7 +153,12 @@
       "id": 12,
       "type": "multiple-choice",
       "question": "The news _______ bad last night.",
-      "options": ["A. were", "B. was", "C. has", "D. has been"],
+      "options": [
+        "A. were",
+        "B. was",
+        "C. has",
+        "D. has been"
+      ],
       "correctIndex": 1,
       "explanation": "'The news' is always singular. 'Last night' requires past tense: 'was'."
     },
@@ -106,7 +166,12 @@
       "id": 13,
       "type": "multiple-choice",
       "question": "Three-fifths of the police _______ in the school near the town.",
-      "options": ["A. has trained", "B. have trained", "C. has been trained", "D. have been trained"],
+      "options": [
+        "A. has trained",
+        "B. have trained",
+        "C. has been trained",
+        "D. have been trained"
+      ],
       "correctIndex": 3,
       "explanation": "'The police' is plural, so use 'have been trained'."
     },
@@ -114,7 +179,12 @@
       "id": 14,
       "type": "multiple-choice",
       "question": "_______ not only you but also he going to Japan?",
-      "options": ["A. Are", "B. Is", "C. Were", "D. Was"],
+      "options": [
+        "A. Are",
+        "B. Is",
+        "C. Were",
+        "D. Was"
+      ],
       "correctIndex": 1,
       "explanation": "'Not only...but also' - verb agrees with the nearest subject 'he' (singular) -> 'Is'."
     },
@@ -122,7 +192,12 @@
       "id": 15,
       "type": "multiple-choice",
       "question": "Five miles _______ not very far.",
-      "options": ["A. is", "B. are", "C. were", "D. have been"],
+      "options": [
+        "A. is",
+        "B. are",
+        "C. were",
+        "D. have been"
+      ],
       "correctIndex": 0,
       "explanation": "Distances are treated as singular: 'Five miles is not very far'."
     },
@@ -130,7 +205,12 @@
       "id": 16,
       "type": "multiple-choice",
       "question": "Neither his parents nor his teacher _______ satisfied with his result.",
-      "options": ["A. are being", "B. were", "C. is", "D. are"],
+      "options": [
+        "A. are being",
+        "B. were",
+        "C. is",
+        "D. are"
+      ],
       "correctIndex": 2,
       "explanation": "'Neither...nor' - verb agrees with the nearest subject 'his teacher' (singular) -> 'is'."
     },
@@ -138,7 +218,12 @@
       "id": 17,
       "type": "multiple-choice",
       "question": "Writing a lot of letters _______ her tired.",
-      "options": ["A. makes", "B. make", "C. have made", "D. are making"],
+      "options": [
+        "A. makes",
+        "B. make",
+        "C. have made",
+        "D. are making"
+      ],
       "correctIndex": 0,
       "explanation": "A gerund phrase as subject is singular: 'Writing... makes'."
     },
@@ -146,7 +231,12 @@
       "id": 18,
       "type": "multiple-choice",
       "question": "_______ everybody ready to start now?",
-      "options": ["A. Are being", "B. Is being", "C. Is", "D. Are"],
+      "options": [
+        "A. Are being",
+        "B. Is being",
+        "C. Is",
+        "D. Are"
+      ],
       "correctIndex": 2,
       "explanation": "'Everybody' is an indefinite pronoun - takes singular verb 'Is'."
     },
@@ -154,7 +244,12 @@
       "id": 19,
       "type": "multiple-choice",
       "question": "None of the butter in the fridge _______ good.",
-      "options": ["A. is being", "B. is", "C. have been", "D. are"],
+      "options": [
+        "A. is being",
+        "B. is",
+        "C. have been",
+        "D. are"
+      ],
       "correctIndex": 1,
       "explanation": "'Butter' is uncountable, so 'none of the butter' takes singular: 'is'."
     },
@@ -162,7 +257,12 @@
       "id": 20,
       "type": "multiple-choice",
       "question": "Miss White _______ her parents is going to pay a visit to the Great Wall.",
-      "options": ["A. and", "B. both", "C. as well as", "D. or"],
+      "options": [
+        "A. and",
+        "B. both",
+        "C. as well as",
+        "D. or"
+      ],
       "correctIndex": 2,
       "explanation": "'Is going' is singular, so the linking word must keep the singular subject. 'As well as' means verb follows the first subject."
     },

@@ -13,6 +13,7 @@ const TOPIC_TEMPLATE = (topicId, title) => `<!DOCTYPE html>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>${title} | Ôn Thi Vào 10</title>
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="../css/shared.css">
 </head>
 <body>
@@ -85,6 +86,7 @@ const TEST_TEMPLATE = (testId, title, meta) => `<!DOCTYPE html>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>${title} | Ôn Thi Vào 10</title>
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="../css/shared.css">
 </head>
 <body>

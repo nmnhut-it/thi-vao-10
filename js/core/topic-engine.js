@@ -5,6 +5,8 @@
  */
 
 const TopicEngine = {
+  testMode: false, // When true, suppress immediate feedback (exam simulation)
+
   state: {
     topicId: null,
     data: null,
@@ -214,6 +216,10 @@ const TopicEngine = {
   },
 
   handleMCAnswer(card, optionsEl, selected, correct, explanation, exId) {
+    if (this.testMode) {
+      return this.handleMCAnswerTestMode(card, optionsEl, selected, correct, explanation, exId);
+    }
+
     // Prevent re-answering
     if (this.state.answers[exId]) return;
 
@@ -238,6 +244,21 @@ const TopicEngine = {
     this.showFeedback(card, isCorrect, explanation);
     this.updateProgress();
     this.saveProgress();
+  },
+
+  /** Test mode: record answer, highlight selected, allow changing */
+  handleMCAnswerTestMode(card, optionsEl, selected, correct, explanation, exId) {
+    const options = optionsEl.querySelectorAll('.option');
+    const isCorrect = selected === correct;
+
+    // Record answer (allow overwrite for answer changes)
+    this.state.answers[exId] = { selected, correct: isCorrect, attempts: 1 };
+
+    // Clear previous selection, highlight new one
+    options.forEach(opt => opt.classList.remove('option--selected'));
+    options[selected].classList.add('option--selected');
+
+    this.updateProgress();
   },
 
   createErrorCorrectCard(ex, num, idx) {
@@ -413,6 +434,10 @@ const TopicEngine = {
   },
 
   handleTextAnswer(card, inputEl, ex, exId) {
+    if (this.testMode) {
+      return this.handleTextAnswerTestMode(card, inputEl, ex, exId);
+    }
+
     if (this.state.answers[exId]) return;
 
     const userAnswer = inputEl.value.trim();
@@ -439,6 +464,23 @@ const TopicEngine = {
     this.showFeedback(card, isCorrect, fullExplanation);
     this.updateProgress();
     this.saveProgress();
+  },
+
+  /** Test mode: record text answer without feedback, allow re-editing */
+  handleTextAnswerTestMode(card, inputEl, ex, exId) {
+    const userAnswer = inputEl.value.trim();
+    if (!userAnswer) {
+      inputEl.focus();
+      return;
+    }
+
+    const isCorrect = Logic.checkTextAnswer(userAnswer, ex);
+    this.state.answers[exId] = { selected: userAnswer, correct: isCorrect, attempts: 1 };
+
+    // Visual indicator that answer is recorded (not correct/wrong)
+    inputEl.classList.add('input-answer--recorded');
+
+    this.updateProgress();
   },
 
   showFeedback(card, isCorrect, explanation) {
@@ -478,8 +520,8 @@ const TopicEngine = {
       barEl.style.width = pct + '%';
     }
 
-    // Check completion
-    if (answered === total && total > 0) {
+    // Check completion (skip auto-show in test mode - TestEngine handles submit)
+    if (answered === total && total > 0 && !this.testMode) {
       this.showResults();
     }
   },
@@ -532,6 +574,77 @@ const TopicEngine = {
 
     // Send to Telegram if configured
     this.sendTelegramProgress(correct, total, stars);
+  },
+
+  /** Reveal all answers after test submission - show correct/wrong + explanations */
+  revealAllAnswers() {
+    const exercises = this.state.data.exercises || [];
+    let qIdx = 0;
+
+    exercises.forEach((ex, idx) => {
+      if (ex.type === 'reading-comprehension' && ex.questions) {
+        ex.questions.forEach((q, qi) => {
+          qIdx++;
+          const exId = 'reading-' + ex.id + '-' + qi;
+          this.revealMCAnswer(exId, q.correctIndex, q.explanation);
+        });
+      } else if (ex.type === 'multiple-choice' || (ex.options && typeof ex.correctIndex === 'number')) {
+        qIdx++;
+        const exId = ex.id || idx;
+        this.revealMCAnswer(exId, ex.correctIndex, ex.explanation);
+      } else {
+        qIdx++;
+        const exId = ex.id || idx;
+        this.revealTextAnswer(exId, ex);
+      }
+    });
+  },
+
+  /** Reveal a single MC answer after test submit */
+  revealMCAnswer(exId, correctIndex, explanation) {
+    const card = document.querySelector('[data-ex-id="' + exId + '"]');
+    if (!card) return;
+
+    const ans = this.state.answers[exId];
+    const options = card.querySelectorAll('.option');
+
+    options.forEach((opt, i) => {
+      opt.classList.add('option--disabled');
+      opt.classList.remove('option--selected');
+      if (i === correctIndex) {
+        opt.classList.add('option--correct');
+      }
+      if (ans && ans.selected === i && i !== correctIndex) {
+        opt.classList.add('option--wrong');
+      }
+    });
+
+    // If not answered, mark correct answer
+    const isCorrect = ans && ans.correct;
+    this.showFeedback(card, isCorrect, explanation || '');
+  },
+
+  /** Reveal a single text answer after test submit */
+  revealTextAnswer(exId, ex) {
+    const card = document.querySelector('[data-ex-id="' + exId + '"]');
+    if (!card) return;
+
+    const ans = this.state.answers[exId];
+    const inputEl = card.querySelector('.input-answer');
+    if (inputEl) {
+      inputEl.disabled = true;
+      inputEl.classList.remove('input-answer--recorded');
+      if (ans) {
+        inputEl.classList.add(ans.correct ? 'input-answer--correct' : 'input-answer--wrong');
+      }
+    }
+
+    const btn = card.querySelector('.btn');
+    if (btn) btn.style.display = 'none';
+
+    const isCorrect = ans && ans.correct;
+    const fullExplanation = isCorrect ? (ex.explanation || '') : Logic.buildWrongAnswerExplanation(ex);
+    this.showFeedback(card, isCorrect, fullExplanation);
   },
 
   saveProgress() {

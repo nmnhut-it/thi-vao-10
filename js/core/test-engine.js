@@ -42,6 +42,9 @@ const TestEngine = {
     this.timeRemaining = (TEST_TIME_LIMITS[testType] || 45) * 60;
 
     // Render
+    // Enable exam mode: suppress immediate feedback
+    TopicEngine.testMode = true;
+
     this.renderNavBar();
     this.renderTimer();
     this.renderQuestionGrid();
@@ -52,8 +55,7 @@ const TestEngine = {
     const origUpdate = TopicEngine.updateProgress.bind(TopicEngine);
     TopicEngine.updateProgress = () => {
       origUpdate();
-      const answered = Object.keys(TopicEngine.state.answers).length;
-      this.updateGridItem(answered, true);
+      this.updateAllGridItems();
     };
 
     TopicEngine.recordDailyActivity();
@@ -117,6 +119,33 @@ const TestEngine = {
     }
   },
 
+  /** Mark all answered questions in the grid based on current answers */
+  updateAllGridItems() {
+    const state = TopicEngine.state;
+    const exercises = state.data.exercises || [];
+    const grid = document.getElementById('question-grid');
+    if (!grid) return;
+
+    let qIdx = 0;
+    exercises.forEach((ex) => {
+      if (ex.type === 'reading-comprehension' && ex.questions) {
+        ex.questions.forEach((q, qi) => {
+          qIdx++;
+          const exId = 'reading-' + ex.id + '-' + qi;
+          if (state.answers[exId]) {
+            this.updateGridItem(qIdx, true);
+          }
+        });
+      } else {
+        qIdx++;
+        const exId = ex.id || exercises.indexOf(ex);
+        if (state.answers[exId]) {
+          this.updateGridItem(qIdx, true);
+        }
+      }
+    });
+  },
+
   submitTest() {
     if (this.isSubmitted) return;
     this.isSubmitted = true;
@@ -147,6 +176,9 @@ const TestEngine = {
       if (scoreEl) scoreEl.textContent = correct + '/' + total + ' đúng (' + Math.round(correct / total * 100) + '%)';
       area.scrollIntoView({ behavior: 'smooth' });
     }
+
+    // Reveal all correct/wrong answers with explanations
+    TopicEngine.revealAllAnswers();
 
     // Color the grid
     const exercises = state.data.exercises || [];

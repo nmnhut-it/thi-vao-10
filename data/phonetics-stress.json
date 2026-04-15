@@ -3,14 +3,19 @@
   "title": "Stress (Trọng Âm)",
   "section": "phonetics",
   "knowledge": {
-    "html": "<h2>II. STRESS (TRỌNG ÂM)</h2><h3>I. Trọng âm voi tu co 2 am tiet</h3><h4>Doi voi động từ co 2 am tiet, trọng âm thuong roi vao am tiet thu hai.</h4><table class='formula'><tr><th>Verb</th><th>Pronunciation</th></tr><tr><td>invite</td><td>/in'vait/</td></tr><tr><td>appeal</td><td>/ə'piːl/</td></tr><tr><td>support</td><td>/sə'pɔːrt/</td></tr><tr><td>surprise</td><td>/sə'praiz/</td></tr><tr><td>prepare</td><td>/pri'peə(r)/</td></tr><tr><td>decide</td><td>/di'said/</td></tr><tr><td>prefer</td><td>/pri'fɜː(r)/</td></tr><tr><td>advise</td><td>/əd'vaiz/</td></tr></table><p class='vi'><b>Exception:</b> Động từ co hai am tiet nhung am tiet thu hai chua nguyên âm /i/, /ə/, /əʊ/: trọng âm thuong roi vao am tiet thu nhat.</p><table class='formula'><tr><th>Verb</th><th>Pronunciation</th></tr><tr><td>borrow</td><td>/'bɒrəʊ/</td></tr><tr><td>loosen</td><td>/luːs(ə)n/</td></tr><tr><td>tighten</td><td>/'tait(ə)n/</td></tr><tr><td>enter</td><td>/'entə(r)/</td></tr><tr><td>offer</td><td>/'ɒfə(r)/</td></tr><tr><td>finish</td><td>/'fɪnɪʃ/</td></tr><tr><td>widen</td><td>/'waid(ə)n/</td></tr></table><h4>Doi voi danh từ, tính từ va trạng từ co 2 am tiet, trọng âm thuong roi vao am tiet thu nhat.</h4><table class='formula'><tr><th>Word (N, Adj, Adv)</th><th>Pronunciation</th></tr><tr><td>people</td><td>/'piːpl/</td></tr><tr><td>mother</td><td>/'mʌðə(r)/</td></tr><tr><td>student</td><td>/'stjuːdnt/</td></tr><tr><td>ready</td><td>/'redi/</td></tr><tr><td>happy</td><td>/'hæpi/</td></tr><tr><td>easy</td><td>/'iːzi/</td></tr><tr><td>seldom</td><td>/'seldəm/</td></tr><tr><td>often</td><td>/'ɒftən/</td></tr></table><h3>II. Trọng âm voi tu co 3 am tiet</h3><p>Trọng âm thuong roi vao am tiet thu ba tính từ am tiet cuoi tro nguoc len.</p><p class='vi'>Chung ta co the dung phuong phap dem nguoc.</p><p class='example'>Ví dụ: <b>Fa</b>-mi-ly / <u>1</u>&lt;=2&lt;=3. Dem nguoc tu 3-&gt;2-&gt;1, trọng âm roi vao am duoc dem so 1 (trong ví dụ la 'FA')</p><table class='formula'><tr><th>Word</th><th>Pronunciation</th></tr><tr><td>family</td><td>/'fæməli/</td></tr><tr><td>internet</td><td>/'intərnet/</td></tr><tr><td>dedicate</td><td>/'dedikeit/</td></tr><tr><td>satisfy</td><td>/'sætisfai/</td></tr><tr><td>qualify</td><td>/'kwɒlifai/</td></tr></table><h4>Doi voi cac tu tan cung bang: <b>ian, ic, ience, ient, ial, ual, al, eous, ion, iar</b>, trọng âm thuong roi vao am tiet ngay phia truoc chung.</h4><table class='formula'><tr><th>Word</th><th>Pronunciation</th></tr><tr><td>athletic</td><td>/æθ'letik/</td></tr><tr><td>essential</td><td>/i'senʃl/</td></tr><tr><td>familiar</td><td>/fə'miliə(r)/</td></tr><tr><td>delicious</td><td>/di'liʃəs/</td></tr><tr><td>physician</td><td>/fi'ziʃn/</td></tr></table><h4>Doi voi cac tu tan cung bang: <b>ee, eer, ese, ier, ette, oo, esque</b>, trọng âm thuong roi vao am tiet chua cac duoi nay.</h4><table class='formula'><tr><th>Word</th><th>Pronunciation</th></tr><tr><td>refugee</td><td>/refju'dʒiː/</td></tr><tr><td>engineer</td><td>/endʒi'niə(r)/</td></tr><tr><td>kangaroo</td><td>/kæŋgə'ruː/</td></tr><tr><td>volunteer</td><td>/vɒlən'tiə(r)/</td></tr><tr><td>Vietnamese</td><td>/viːetnə'miːz/</td></tr></table>"
+    "html": "<h2>II. STRESS (TRỌNG ÂM)</h2><h3>I. Trọng âm voi tu co 2 âm tiết</h3><h4>Đối với động từ co 2 âm tiết, trọng âm thường rơi vao âm tiết thu hai.</h4><table class='formula'><tr><th>Verb</th><th>Pronunciation</th></tr><tr><td>invite</td><td>/in'vait/</td></tr><tr><td>appeal</td><td>/ə'piːl/</td></tr><tr><td>support</td><td>/sə'pɔːrt/</td></tr><tr><td>surprise</td><td>/sə'praiz/</td></tr><tr><td>prepare</td><td>/pri'peə(r)/</td></tr><tr><td>decide</td><td>/di'said/</td></tr><tr><td>prefer</td><td>/pri'fɜː(r)/</td></tr><tr><td>advise</td><td>/əd'vaiz/</td></tr></table><p class='vi'><b>Exception:</b> Động từ có hai âm tiết nhung âm tiết thu hai chua nguyên âm /i/, /ə/, /əʊ/: trọng âm thường rơi vao âm tiết thu nhat.</p><table class='formula'><tr><th>Verb</th><th>Pronunciation</th></tr><tr><td>borrow</td><td>/'bɒrəʊ/</td></tr><tr><td>loosen</td><td>/luːs(ə)n/</td></tr><tr><td>tighten</td><td>/'tait(ə)n/</td></tr><tr><td>enter</td><td>/'entə(r)/</td></tr><tr><td>offer</td><td>/'ɒfə(r)/</td></tr><tr><td>finish</td><td>/'fɪnɪʃ/</td></tr><tr><td>widen</td><td>/'waid(ə)n/</td></tr></table><h4>Đối với danh từ, tính từ va trạng từ co 2 âm tiết, trọng âm thường rơi vao âm tiết thu nhat.</h4><table class='formula'><tr><th>Word (N, Adj, Adv)</th><th>Pronunciation</th></tr><tr><td>people</td><td>/'piːpl/</td></tr><tr><td>mother</td><td>/'mʌðə(r)/</td></tr><tr><td>student</td><td>/'stjuːdnt/</td></tr><tr><td>ready</td><td>/'redi/</td></tr><tr><td>happy</td><td>/'hæpi/</td></tr><tr><td>easy</td><td>/'iːzi/</td></tr><tr><td>seldom</td><td>/'seldəm/</td></tr><tr><td>often</td><td>/'ɒftən/</td></tr></table><h3>II. Trọng âm voi tu co 3 âm tiết</h3><p>Trọng âm thường rơi vao âm tiết thu ba tính từ âm tiết cuoi tro nguoc len.</p><p class='vi'>Chung ta có thể dung phương pháp dem nguoc.</p><p class='example'>Ví dụ: <b>Fa</b>-mi-ly / <u>1</u>&lt;=2&lt;=3. Dem nguoc tu 3-&gt;2-&gt;1, trọng âm rồi vao am duoc dem so 1 (trong ví dụ la 'FA')</p><table class='formula'><tr><th>Word</th><th>Pronunciation</th></tr><tr><td>family</td><td>/'fæməli/</td></tr><tr><td>internet</td><td>/'intərnet/</td></tr><tr><td>dedicate</td><td>/'dedikeit/</td></tr><tr><td>satisfy</td><td>/'sætisfai/</td></tr><tr><td>qualify</td><td>/'kwɒlifai/</td></tr></table><h4>Đối với cac tu tận cùng bang: <b>ian, ic, ience, ient, ial, ual, al, eous, ion, iar</b>, trọng âm thường rơi vao âm tiết ngay phia truoc chung.</h4><table class='formula'><tr><th>Word</th><th>Pronunciation</th></tr><tr><td>athletic</td><td>/æθ'letik/</td></tr><tr><td>essential</td><td>/i'senʃl/</td></tr><tr><td>familiar</td><td>/fə'miliə(r)/</td></tr><tr><td>delicious</td><td>/di'liʃəs/</td></tr><tr><td>physician</td><td>/fi'ziʃn/</td></tr></table><h4>Đối với cac tu tận cùng bang: <b>ee, eer, ese, ier, ette, oo, esque</b>, trọng âm thường rơi vao âm tiết chua cac duoi nay.</h4><table class='formula'><tr><th>Word</th><th>Pronunciation</th></tr><tr><td>refugee</td><td>/refju'dʒiː/</td></tr><tr><td>engineer</td><td>/endʒi'niə(r)/</td></tr><tr><td>kangaroo</td><td>/kæŋgə'ruː/</td></tr><tr><td>volunteer</td><td>/vɒlən'tiə(r)/</td></tr><tr><td>Vietnamese</td><td>/viːetnə'miːz/</td></tr></table>"
   },
   "exercises": [
     {
       "id": 1,
       "type": "multiple-choice",
       "question": "Choose the word whose stress is different from the others.",
-      "options": ["A. below", "B. bathroom", "C. body", "D. city"],
+      "options": [
+        "A. below",
+        "B. bathroom",
+        "C. body",
+        "D. city"
+      ],
       "correctIndex": 0,
       "explanation": "'Below' has stress on the 2nd syllable (be-LOW), while bathroom, body, city all stress the 1st syllable."
     },
@@ -18,7 +23,12 @@
       "id": 2,
       "type": "multiple-choice",
       "question": "Choose the word whose stress is different from the others.",
-      "options": ["A. country", "B. early", "C. husband", "D. cartoon"],
+      "options": [
+        "A. country",
+        "B. early",
+        "C. husband",
+        "D. cartoon"
+      ],
       "correctIndex": 3,
       "explanation": "'Cartoon' has stress on the 2nd syllable (car-TOON), while country, early, husband stress the 1st."
     },
@@ -26,7 +36,12 @@
       "id": 3,
       "type": "multiple-choice",
       "question": "Choose the word whose stress is different from the others.",
-      "options": ["A. river", "B. paper", "C. lesson", "D. collect"],
+      "options": [
+        "A. river",
+        "B. paper",
+        "C. lesson",
+        "D. collect"
+      ],
       "correctIndex": 3,
       "explanation": "'Collect' has stress on the 2nd syllable (col-LECT), while river, paper, lesson stress the 1st."
     },
@@ -34,7 +49,12 @@
       "id": 4,
       "type": "multiple-choice",
       "question": "Choose the word whose stress is different from the others.",
-      "options": ["A. sometimes", "B. locate", "C. student", "D. tired"],
+      "options": [
+        "A. sometimes",
+        "B. locate",
+        "C. student",
+        "D. tired"
+      ],
       "correctIndex": 1,
       "explanation": "'Locate' has stress on the 2nd syllable (lo-CATE), while sometimes, student, tired stress the 1st."
     },
@@ -42,7 +62,12 @@
       "id": 5,
       "type": "multiple-choice",
       "question": "Choose the word whose stress is different from the others.",
-      "options": ["A. under", "B. very", "C. behave", "D. yellow"],
+      "options": [
+        "A. under",
+        "B. very",
+        "C. behave",
+        "D. yellow"
+      ],
       "correctIndex": 2,
       "explanation": "'Behave' has stress on the 2nd syllable (be-HAVE), while under, very, yellow stress the 1st."
     },
@@ -50,7 +75,12 @@
       "id": 6,
       "type": "multiple-choice",
       "question": "Choose the word whose stress is different from the others.",
-      "options": ["A. bamboo", "B. winter", "C. weather", "D. after"],
+      "options": [
+        "A. bamboo",
+        "B. winter",
+        "C. weather",
+        "D. after"
+      ],
       "correctIndex": 0,
       "explanation": "'Bamboo' has stress on the 2nd syllable (bam-BOO), while winter, weather, after stress the 1st."
     },
@@ -58,7 +88,12 @@
       "id": 7,
       "type": "multiple-choice",
       "question": "Choose the word whose stress is different from the others.",
-      "options": ["A. improve", "B. study", "C. sugar", "D. summer"],
+      "options": [
+        "A. improve",
+        "B. study",
+        "C. sugar",
+        "D. summer"
+      ],
       "correctIndex": 0,
       "explanation": "'Improve' has stress on the 2nd syllable (im-PROVE), while study, sugar, summer stress the 1st."
     },
@@ -66,7 +101,12 @@
       "id": 8,
       "type": "multiple-choice",
       "question": "Choose the word whose stress is different from the others.",
-      "options": ["A. window", "B. table", "C. sorry", "D. repair"],
+      "options": [
+        "A. window",
+        "B. table",
+        "C. sorry",
+        "D. repair"
+      ],
       "correctIndex": 3,
       "explanation": "'Repair' has stress on the 2nd syllable (re-PAIR), while window, table, sorry stress the 1st."
     },
@@ -74,7 +114,12 @@
       "id": 9,
       "type": "multiple-choice",
       "question": "Choose the word whose stress is different from the others.",
-      "options": ["A. ready", "B. player", "C. person", "D. repair"],
+      "options": [
+        "A. ready",
+        "B. player",
+        "C. person",
+        "D. repair"
+      ],
       "correctIndex": 3,
       "explanation": "'Repair' has stress on the 2nd syllable (re-PAIR), while ready, player, person stress the 1st."
     },
@@ -82,7 +127,12 @@
       "id": 10,
       "type": "multiple-choice",
       "question": "Choose the word whose stress is different from the others.",
-      "options": ["A. become", "B. shopping", "C. travel", "D. website"],
+      "options": [
+        "A. become",
+        "B. shopping",
+        "C. travel",
+        "D. website"
+      ],
       "correctIndex": 0,
       "explanation": "'Become' has stress on the 2nd syllable (be-COME), while shopping, travel, website stress the 1st."
     },
@@ -90,7 +140,12 @@
       "id": 11,
       "type": "multiple-choice",
       "question": "Choose the word whose stress is different from the others.",
-      "options": ["A. economy", "B. suggestion", "C. detective", "D. interest"],
+      "options": [
+        "A. economy",
+        "B. suggestion",
+        "C. detective",
+        "D. interest"
+      ],
       "correctIndex": 3,
       "explanation": "'Interest' has stress on the 1st syllable (IN-terest), while economy, suggestion, detective stress the 2nd syllable."
     },
@@ -98,7 +153,12 @@
       "id": 12,
       "type": "multiple-choice",
       "question": "Choose the word whose stress is different from the others.",
-      "options": ["A. prefer", "B. borrow", "C. forget", "D. pollute"],
+      "options": [
+        "A. prefer",
+        "B. borrow",
+        "C. forget",
+        "D. pollute"
+      ],
       "correctIndex": 1,
       "explanation": "'Borrow' has stress on the 1st syllable (BOR-row), while prefer, forget, pollute stress the 2nd."
     },
@@ -106,7 +166,12 @@
       "id": 13,
       "type": "multiple-choice",
       "question": "Choose the word whose stress is different from the others.",
-      "options": ["A. forecast", "B. predict", "C. depend", "D. prepare"],
+      "options": [
+        "A. forecast",
+        "B. predict",
+        "C. depend",
+        "D. prepare"
+      ],
       "correctIndex": 0,
       "explanation": "'Forecast' has stress on the 1st syllable (FORE-cast), while predict, depend, prepare stress the 2nd."
     },
@@ -114,7 +179,12 @@
       "id": 14,
       "type": "multiple-choice",
       "question": "Choose the word whose stress is different from the others.",
-      "options": ["A. national", "B. possible", "C. necessary", "D. convenient"],
+      "options": [
+        "A. national",
+        "B. possible",
+        "C. necessary",
+        "D. convenient"
+      ],
       "correctIndex": 3,
       "explanation": "'Convenient' has stress on the 2nd syllable (con-VE-nient), while national, possible, necessary stress the 1st."
     },
@@ -122,7 +192,12 @@
       "id": 15,
       "type": "multiple-choice",
       "question": "Choose the word whose stress is different from the others.",
-      "options": ["A. encourage", "B. adventure", "C. understand", "D. remember"],
+      "options": [
+        "A. encourage",
+        "B. adventure",
+        "C. understand",
+        "D. remember"
+      ],
       "correctIndex": 2,
       "explanation": "'Understand' has stress on the 3rd syllable (un-der-STAND), while encourage, adventure, remember stress the 2nd."
     },
@@ -130,7 +205,12 @@
       "id": 16,
       "type": "multiple-choice",
       "question": "Choose the word whose stress is different from the others.",
-      "options": ["A. begin", "B. better", "C. player", "D. doctor"],
+      "options": [
+        "A. begin",
+        "B. better",
+        "C. player",
+        "D. doctor"
+      ],
       "correctIndex": 0,
       "explanation": "'Begin' has stress on the 2nd syllable (be-GIN), while better, player, doctor stress the 1st."
     },
@@ -138,7 +218,12 @@
       "id": 17,
       "type": "multiple-choice",
       "question": "Choose the word whose stress is different from the others.",
-      "options": ["A. teacher", "B. picture", "C. behind", "D. mother"],
+      "options": [
+        "A. teacher",
+        "B. picture",
+        "C. behind",
+        "D. mother"
+      ],
       "correctIndex": 2,
       "explanation": "'Behind' has stress on the 2nd syllable (be-HIND), while teacher, picture, mother stress the 1st."
     },
@@ -146,7 +231,12 @@
       "id": 18,
       "type": "multiple-choice",
       "question": "Choose the word whose stress is different from the others.",
-      "options": ["A. many", "B. only", "C. music", "D. today"],
+      "options": [
+        "A. many",
+        "B. only",
+        "C. music",
+        "D. today"
+      ],
       "correctIndex": 3,
       "explanation": "'Today' has stress on the 2nd syllable (to-DAY), while many, only, music stress the 1st."
     },
@@ -154,7 +244,12 @@
       "id": 19,
       "type": "multiple-choice",
       "question": "Choose the word whose stress is different from the others.",
-      "options": ["A. operate", "B. immersion", "C. breadwinner", "D. visit"],
+      "options": [
+        "A. operate",
+        "B. immersion",
+        "C. breadwinner",
+        "D. visit"
+      ],
       "correctIndex": 1,
       "explanation": "'Immersion' has stress on the 2nd syllable (im-MER-sion), while operate, breadwinner, visit stress the 1st."
     },
@@ -162,7 +257,12 @@
       "id": 20,
       "type": "multiple-choice",
       "question": "Choose the word whose stress is different from the others.",
-      "options": ["A. tender", "B. applied", "C. rubber", "D. sprinkle"],
+      "options": [
+        "A. tender",
+        "B. applied",
+        "C. rubber",
+        "D. sprinkle"
+      ],
       "correctIndex": 1,
       "explanation": "'Applied' has stress on the 2nd syllable (ap-PLIED), while tender, rubber, sprinkle stress the 1st."
     }

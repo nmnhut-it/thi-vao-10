@@ -3,14 +3,19 @@
   "title": "Comparison (So Sánh)",
   "section": "grammar",
   "knowledge": {
-    "html": "<h2>XII. COMPARISON (SO SÁNH)</h2><h3>EQUAL COMPARISON (SO SÁNH BANG)</h3><h4>1. Khẳng định:</h4><div class=\"formula\">S + tobe + as + adj + as + noun/pronoun.<br>S + V + as + adv + as + noun/pronoun.</div><div class=\"example\">Ex: Lan is as young as Hoa. / Mai dances as beautifully as Hue.</div><h4>2. Phủ định:</h4><div class=\"formula\">S + tobe + not + as/so + adj + as + noun/pronoun.<br>S + V + not + as/so + adv + as + noun/pronoun.</div><div class=\"example\">Ex: Lan isn't as/so young as Hoa.</div><h4>3. Cấu trúc \"the same as\":</h4><div class=\"formula\">S + tobe/V + the same + (noun) + as + noun/pronoun.</div><div class=\"example\">Ex: This book is the same as that one. / She has the same height as my sister.</div><h3>COMPARATIVE (SO SÁNH HON)</h3><h4>1. Tính từ/trạng từ ngan:</h4><div class=\"formula\">S + tobe + adj-er + than + noun/pronoun.<br>S + V + adv-er + than + noun/pronoun.</div><div class=\"example\">Ex: My house is smaller than her house. / She runs faster than me.</div><p><strong>Lưu ý ve cach them \"er\":</strong></p><ul><li>Ket thuc bang \"e\" => them \"r\": large => larger</li><li>Ket thuc bang 1 nguyên âm + 1 phụ âm => gap doi phụ âm cuoi: big => bigger, hot => hotter</li><li>Ket thuc bang \"y\" => doi \"y\" thanh \"i\" roi them \"er\": noisy => noisier</li><li>Tính từ 2 am tiet ket thuc bang \"y, ow, er, et, el\" van chia theo công thức ngan: narrow => narrower, happy => happier</li></ul><p>Cac trạng từ bo nghia: much, far, a bit, a little, a lot.</p><h4>2. Tính từ/trạng từ dai:</h4><div class=\"formula\">S + tobe + more + adj + than + noun/pronoun.<br>S + V + more + adv + than + noun/pronoun.</div><div class=\"example\">Ex: Jenny is more beautiful than me. / Tom talks more slowly than me.</div><h3>SUPERLATIVE (SO SÁNH NHAT)</h3><h4>1. Tính từ/trạng từ ngan:</h4><div class=\"formula\">S + tobe + the + adj-est + noun/pronoun.<br>S + V + the + adv-est + noun/pronoun.</div><div class=\"example\">Ex: This is the longest river in the world. / I jump the highest in my class.</div><h4>2. Tính từ/trạng từ dai:</h4><div class=\"formula\">S + tobe + the most + adj + noun/pronoun.<br>S + V + the most + adv + noun/pronoun.</div><div class=\"example\">Ex: Jenny is the most beautiful in my class.</div><h3>Bang tính từ/trạng từ bat quy tắc</h3><table class=\"grammar-table\"><tr><th>Tính từ/trạng từ</th><th>So sánh hon</th><th>So sánh nhat</th><th>Nghia</th></tr><tr><td>Good/well</td><td>Better</td><td>The best</td><td>Tot</td></tr><tr><td>Bad/badly</td><td>Worse</td><td>The worst</td><td>Te</td></tr><tr><td>Little</td><td>Less</td><td>The least</td><td>It</td></tr><tr><td>Much/many</td><td>More</td><td>The most</td><td>Nhieu</td></tr><tr><td>Far</td><td>Farther/Further</td><td>The farthest/The furthest</td><td>Xa / Them nua</td></tr><tr><td>Old</td><td>Older/Elder</td><td>The oldest/The eldest</td><td>Gia / Anh (chi) trong nha</td></tr></table><h3>DOUBLE COMPARATIVE (SO SÁNH KEP)</h3><h4>1. Cung 1 tính từ (cang ngay cang...)</h4><div class=\"formula\">a. Tính từ/trạng từ ngan:<br>S + tobe + adj-er + and + adj-er.<br>S + V + adv-er + and + adv-er.<br><br>b. Tính từ/trạng từ dai:<br>S + tobe + more and more + adj.<br>S + V + more and more + adv.</div><div class=\"example\">Ex: It is getting hotter and hotter.<br>Ex: The lessons are getting more and more difficult.</div><h4>2. Hai tính từ khac nhau (cang...thi cang...)</h4><div class=\"formula\">The + comparative + S + tobe/V, the + comparative + S + tobe/V.</div><div class=\"example\">Ex: The taller she gets, the thinner she is.<br>Ex: The more beautiful she is, the more attractive she gets.<br>Lưu ý: Neu tuc tu la danh từ thi dat ngay sau tính từ so sánh.<br>Ex: The more English vocabulary we know, the better we speak.</div>"
+    "html": "<h2>XII. COMPARISON (SO SÁNH)</h2><h3>EQUAL COMPARISON (SO SÁNH BẰNG)</h3><h4>1. Khẳng định:</h4><div class=\"formula\">S + tobe + as + adj + as + noun/pronoun.<br>S + V + as + adv + as + noun/pronoun.</div><div class=\"example\">Ex: Lan is as young as Hoa. / Mai dances as beautifully as Hue.</div><h4>2. Phủ định:</h4><div class=\"formula\">S + tobe + not + as/so + adj + as + noun/pronoun.<br>S + V + not + as/so + adv + as + noun/pronoun.</div><div class=\"example\">Ex: Lan isn't as/so young as Hoa.</div><h4>3. Cấu trúc \"the same as\":</h4><div class=\"formula\">S + tobe/V + the same + (noun) + as + noun/pronoun.</div><div class=\"example\">Ex: This book is the same as that one. / She has the same height as my sister.</div><h3>COMPARATIVE (SO SÁNH HƠN)</h3><h4>1. Tính từ/trạng từ ngan:</h4><div class=\"formula\">S + tobe + adj-er + than + noun/pronoun.<br>S + V + adv-er + than + noun/pronoun.</div><div class=\"example\">Ex: My house is smaller than her house. / She runs faster than me.</div><p><strong>Lưu ý ve cach thêm \"er\":</strong></p><ul><li>Kết thúc bằng \"e\" => thêm \"r\": large => larger</li><li>Kết thúc bằng 1 nguyên âm + 1 phụ âm => gap doi phụ âm cuoi: big => bigger, hot => hotter</li><li>Kết thúc bằng \"y\" => doi \"y\" thanh \"i\" rồi thêm \"er\": noisy => noisier</li><li>Tính từ 2 âm tiết kết thúc bằng \"y, ow, er, et, el\" vẫn chia theo công thức ngan: narrow => narrower, happy => happier</li></ul><p>Cac trạng từ bo nghia: much, far, a bit, a little, a lot.</p><h4>2. Tính từ/trạng từ dai:</h4><div class=\"formula\">S + tobe + more + adj + than + noun/pronoun.<br>S + V + more + adv + than + noun/pronoun.</div><div class=\"example\">Ex: Jenny is more beautiful than me. / Tom talks more slowly than me.</div><h3>SUPERLATIVE (SO SÁNH NHẤT)</h3><h4>1. Tính từ/trạng từ ngan:</h4><div class=\"formula\">S + tobe + the + adj-est + noun/pronoun.<br>S + V + the + adv-est + noun/pronoun.</div><div class=\"example\">Ex: This is the longest river in the world. / I jump the highest in my class.</div><h4>2. Tính từ/trạng từ dai:</h4><div class=\"formula\">S + tobe + the most + adj + noun/pronoun.<br>S + V + the most + adv + noun/pronoun.</div><div class=\"example\">Ex: Jenny is the most beautiful in my class.</div><h3>Bang tính từ/trạng từ bat quy tắc</h3><table class=\"grammar-table\"><tr><th>Tính từ/trạng từ</th><th>So sánh hon</th><th>So sánh nhat</th><th>Nghia</th></tr><tr><td>Good/well</td><td>Better</td><td>The best</td><td>Tot</td></tr><tr><td>Bad/badly</td><td>Worse</td><td>The worst</td><td>Te</td></tr><tr><td>Little</td><td>Less</td><td>The least</td><td>It</td></tr><tr><td>Much/many</td><td>More</td><td>The most</td><td>Nhieu</td></tr><tr><td>Far</td><td>Farther/Further</td><td>The farthest/The furthest</td><td>Xa / Them nua</td></tr><tr><td>Old</td><td>Older/Elder</td><td>The oldest/The eldest</td><td>Gia / Anh (chi) trong nha</td></tr></table><h3>DOUBLE COMPARATIVE (SO SÁNH KÉP)</h3><h4>1. Cung 1 tính từ (càng ngày càng...)</h4><div class=\"formula\">a. Tính từ/trạng từ ngan:<br>S + tobe + adj-er + and + adj-er.<br>S + V + adv-er + and + adv-er.<br><br>b. Tính từ/trạng từ dai:<br>S + tobe + more and more + adj.<br>S + V + more and more + adv.</div><div class=\"example\">Ex: It is getting hotter and hotter.<br>Ex: The lessons are getting more and more difficult.</div><h4>2. Hai tính từ khac nhau (càng...thì càng...)</h4><div class=\"formula\">The + comparative + S + tobe/V, the + comparative + S + tobe/V.</div><div class=\"example\">Ex: The taller she gets, the thinner she is.<br>Ex: The more beautiful she is, the more attractive she gets.<br>Lưu ý: Neu túc từ la danh từ thi dat ngay sau tính từ so sánh.<br>Ex: The more English vocabulary we know, the better we speak.</div>"
   },
   "exercises": [
     {
       "id": 1,
       "type": "multiple-choice",
       "question": "_____ other mammals, whales do not have a sense of smell.",
-      "options": ["A. Not alike", "B. Unlike", "C. Unlikely", "D. Dislike"],
+      "options": [
+        "A. Not alike",
+        "B. Unlike",
+        "C. Unlikely",
+        "D. Dislike"
+      ],
       "correctIndex": 1,
       "explanation": "'Unlike' = khong giong nhu. Dung de so sánh su khac biet."
     },
@@ -18,7 +23,12 @@
       "id": 2,
       "type": "multiple-choice",
       "question": "The stomach of a cow, _____ that of other ruminants, is divided into four compartments.",
-      "options": ["A. likely", "B. similar", "C. same", "D. like"],
+      "options": [
+        "A. likely",
+        "B. similar",
+        "C. same",
+        "D. like"
+      ],
       "correctIndex": 3,
       "explanation": "'like' = giong nhu, dung de so sánh."
     },
@@ -26,7 +36,12 @@
       "id": 3,
       "type": "multiple-choice",
       "question": "The Romans used central heating systems very much like _____.",
-      "options": ["A. those of today", "B. today's do", "C. those they do", "D. the systems which are now"],
+      "options": [
+        "A. those of today",
+        "B. today's do",
+        "C. those they do",
+        "D. the systems which are now"
+      ],
       "correctIndex": 0,
       "explanation": "'those of today' = nhung he thong cua ngay nay. 'those' thay the cho 'systems'."
     },
@@ -34,7 +49,12 @@
       "id": 4,
       "type": "multiple-choice",
       "question": "She speaks English as _____ as her friend does.",
-      "options": ["A. good", "B. well", "C. better", "D. the best"],
+      "options": [
+        "A. good",
+        "B. well",
+        "C. better",
+        "D. the best"
+      ],
       "correctIndex": 1,
       "explanation": "So sánh bang: as + adv + as. 'well' la trạng từ bo nghia cho động từ 'speaks'."
     },
@@ -42,7 +62,12 @@
       "id": 5,
       "type": "multiple-choice",
       "question": "It's _____ to go by bus than a car.",
-      "options": ["A. cheaper", "B. cheapest", "C. more cheap", "D. more cheaper"],
+      "options": [
+        "A. cheaper",
+        "B. cheapest",
+        "C. more cheap",
+        "D. more cheaper"
+      ],
       "correctIndex": 0,
       "explanation": "'cheap' la tính từ ngan => them '-er': cheaper. Co 'than' => so sánh hon."
     },
@@ -50,7 +75,12 @@
       "id": 6,
       "type": "multiple-choice",
       "question": "The test is not _____ difficult _____ it was last year.",
-      "options": ["A. as / as", "B. so / as", "C. more / as", "D. A and B are correct"],
+      "options": [
+        "A. as / as",
+        "B. so / as",
+        "C. more / as",
+        "D. A and B are correct"
+      ],
       "correctIndex": 3,
       "explanation": "Phủ định: not as...as = not so...as. Ca A va B deu dung."
     },
@@ -58,7 +88,12 @@
       "id": 7,
       "type": "multiple-choice",
       "question": "He works more _____ than she does.",
-      "options": ["A. slow", "B. slowly", "C. slowest", "D. most slowly"],
+      "options": [
+        "A. slow",
+        "B. slowly",
+        "C. slowest",
+        "D. most slowly"
+      ],
       "correctIndex": 1,
       "explanation": "So sánh hon voi trạng từ: more + adv => 'more slowly'."
     },
@@ -66,7 +101,12 @@
       "id": 8,
       "type": "multiple-choice",
       "question": "This hotel must be _____ in this city.",
-      "options": ["A. expensive", "B. more expensive", "C. the most expensive", "D. the more expensive"],
+      "options": [
+        "A. expensive",
+        "B. more expensive",
+        "C. the most expensive",
+        "D. the more expensive"
+      ],
       "correctIndex": 2,
       "explanation": "So sánh nhat: the most + adj dai => 'the most expensive'."
     },
@@ -74,7 +114,12 @@
       "id": 9,
       "type": "multiple-choice",
       "question": "This river is _____ than that river.",
-      "options": ["A. narrow", "B. narrowest", "C. narrower", "D. most narrow"],
+      "options": [
+        "A. narrow",
+        "B. narrowest",
+        "C. narrower",
+        "D. most narrow"
+      ],
       "correctIndex": 2,
       "explanation": "'narrow' la tính từ ngan (2 am tiet ket thuc bang -ow) => narrower."
     },
@@ -82,7 +127,12 @@
       "id": 10,
       "type": "multiple-choice",
       "question": "Did you know your English teacher and your mother are the same _____?",
-      "options": ["A. age", "B. oldness", "C. old", "D. older"],
+      "options": [
+        "A. age",
+        "B. oldness",
+        "C. old",
+        "D. older"
+      ],
       "correctIndex": 0,
       "explanation": "'the same + noun' => 'the same age'."
     },
@@ -90,7 +140,12 @@
       "id": 11,
       "type": "multiple-choice",
       "question": "This hotel was _____ that one we had stayed at before.",
-      "options": ["A. more expensive than", "B. more expensive as", "C. most expensive than", "D. better expensive than"],
+      "options": [
+        "A. more expensive than",
+        "B. more expensive as",
+        "C. most expensive than",
+        "D. better expensive than"
+      ],
       "correctIndex": 0,
       "explanation": "So sánh hon: more + adj dai + than."
     },
@@ -98,7 +153,12 @@
       "id": 12,
       "type": "multiple-choice",
       "question": "He has just married a girl who is _____ him.",
-      "options": ["A. 3 years as old as", "B. 3 years older than", "C. older than 3 years", "D. older 3 years than"],
+      "options": [
+        "A. 3 years as old as",
+        "B. 3 years older than",
+        "C. older than 3 years",
+        "D. older 3 years than"
+      ],
       "correctIndex": 1,
       "explanation": "So luong + so sánh hon + than: '3 years older than'."
     },
@@ -106,7 +166,12 @@
       "id": 13,
       "type": "multiple-choice",
       "question": "We were disappointed as the film was _____ than we expected.",
-      "options": ["A. entertaining", "B. most entertaining", "C. less entertaining", "D. more entertaining"],
+      "options": [
+        "A. entertaining",
+        "B. most entertaining",
+        "C. less entertaining",
+        "D. more entertaining"
+      ],
       "correctIndex": 2,
       "explanation": "'disappointed' => phim kem hon ky vong => 'less entertaining than'."
     },
@@ -114,7 +179,12 @@
       "id": 14,
       "type": "multiple-choice",
       "question": "The Pacific Ocean is the world's _____ ocean.",
-      "options": ["A. lager", "B. the larger", "C. largest", "D. more lager"],
+      "options": [
+        "A. lager",
+        "B. the larger",
+        "C. largest",
+        "D. more lager"
+      ],
       "correctIndex": 2,
       "explanation": "So sánh nhat: the world's + adj-est => 'largest'."
     },
@@ -122,7 +192,12 @@
       "id": 15,
       "type": "multiple-choice",
       "question": "It's _____ film I've ever seen.",
-      "options": ["A. as boring as", "B. the most boring", "C. the boringest", "D. more boring"],
+      "options": [
+        "A. as boring as",
+        "B. the most boring",
+        "C. the boringest",
+        "D. more boring"
+      ],
       "correctIndex": 1,
       "explanation": "So sánh nhat voi 'ever': the most + adj dai => 'the most boring'."
     },
@@ -130,7 +205,12 @@
       "id": 16,
       "type": "multiple-choice",
       "question": "The _____ trend in the graph is the improvement in people's living standard between 1990 and 2000.",
-      "options": ["A. second biggest", "B. second bigger", "C. twice big", "D. twice bigger"],
+      "options": [
+        "A. second biggest",
+        "B. second bigger",
+        "C. twice big",
+        "D. twice bigger"
+      ],
       "correctIndex": 0,
       "explanation": "'the second + superlative' = lon thu hai => 'the second biggest'."
     },
@@ -138,7 +218,12 @@
       "id": 17,
       "type": "multiple-choice",
       "question": "Gold price is going up _____.",
-      "options": ["A. high and high", "B. higher and higher", "C. more and more high", "D. highest and highest"],
+      "options": [
+        "A. high and high",
+        "B. higher and higher",
+        "C. more and more high",
+        "D. highest and highest"
+      ],
       "correctIndex": 1,
       "explanation": "So sánh kep voi tính từ ngan: adj-er + and + adj-er => 'higher and higher'."
     },
@@ -146,7 +231,12 @@
       "id": 18,
       "type": "multiple-choice",
       "question": "Our examinations are getting _____.",
-      "options": ["A. more difficult and more difficult", "B. more difficult and difficult", "C. more and more difficult", "D. the most difficult"],
+      "options": [
+        "A. more difficult and more difficult",
+        "B. more difficult and difficult",
+        "C. more and more difficult",
+        "D. the most difficult"
+      ],
       "correctIndex": 2,
       "explanation": "So sánh kep voi tính từ dai: more and more + adj => 'more and more difficult'."
     },
@@ -154,7 +244,12 @@
       "id": 19,
       "type": "multiple-choice",
       "question": "Don't worry! Everything seems to be _____.",
-      "options": ["A. better and better", "B. good and good", "C. more and more good", "D. good and better"],
+      "options": [
+        "A. better and better",
+        "B. good and good",
+        "C. more and more good",
+        "D. good and better"
+      ],
       "correctIndex": 0,
       "explanation": "So sánh kep voi 'good': better and better."
     },
@@ -162,7 +257,12 @@
       "id": 20,
       "type": "multiple-choice",
       "question": "_____ I try to forget the terrible experience, _____ I remember it.",
-      "options": ["A. the more ... the hard", "B. the much ... the harder", "C. the less ... the hardest", "D. the more ... the harder"],
+      "options": [
+        "A. the more ... the hard",
+        "B. the much ... the harder",
+        "C. the less ... the hardest",
+        "D. the more ... the harder"
+      ],
       "correctIndex": 3,
       "explanation": "So sánh kep 2 tính từ: The + comparative..., the + comparative => 'The more..., the harder'."
     },

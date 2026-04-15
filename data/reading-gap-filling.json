@@ -3,7 +3,7 @@
   "title": "Gap-Filling / Cloze Reading (Đọc Điền Từ)",
   "section": "reading",
   "knowledge": {
-    "html": "<h3>Gap-Filling (Doc Dien Tu)</h3><p>Dang bai dien tu vao doan van cung cap nhung doan van co chua cac cho trong va cac lua chon cho san de ban lua chon dap an dung nhat dien vao do.</p><h4>Nguyen tac chung khi lam bai:</h4><ol><li>Ban chat cua bai nay la chon tu cho san dien vao cho trong.</li><li>Nhan biet cac lua chon cho san thuoc loai kien thuc nao (tu loai, cac thi, mạo từ...)</li><li>Nho lai kien thuc lien quan den cac lua chon do.</li><li>Xac dinh tu can dien cho cho trong trong bai, dua vao ngu phap, ham y va van phong cua doan van.</li></ol><h4>Can on tap cac kien thuc sau:</h4><ul><li>So sánh, Tu loai, V-ing/to V/V, Cụm từ</li><li>Liên từ, Mạo từ, Bị động, Luong tu</li><li>Thi động từ, Giới từ, Dieu kien, Dai tu QH</li></ul>"
+    "html": "<h3>Gap-Filling (Đọc Điền Từ)</h3><p>Dang bai dien tu vao đoạn văn cung cap nhung đoạn văn co chua cac chỗ trống va cac lựa chọn cho sẵn de ban lựa chọn đáp án dung nhat dien vao do.</p><h4>Nguyên tắc chung khi làm bài:</h4><ol><li>Bản chất cua bai nay la chon tu cho sẵn dien vao chỗ trống.</li><li>Nhận biết cac lựa chọn cho sẵn thuoc loai kiến thức nao (từ loại, cac thi, mạo từ...)</li><li>Nho lai kiến thức liên quan den cac lựa chọn do.</li><li>Xac dinh tu can dien cho chỗ trống trong bai, dua vao ngữ pháp, hàm ý va văn phong cua đoạn văn.</li></ol><h4>Can ôn tập cac kiến thức sau:</h4><ul><li>So sánh, Từ loại, V-ing/to V/V, Cụm từ</li><li>Liên từ, Mạo từ, Bị động, Lượng từ</li><li>Thi động từ, Giới từ, Điều kiện, Đại từ QH</li></ul>"
   },
   "exercises": [
     {
@@ -14,35 +14,60 @@
         {
           "id": "1a",
           "question": "(1)",
-          "options": ["A. big", "B. small", "C. light", "D. heavy"],
+          "options": [
+            "A. big",
+            "B. small",
+            "C. light",
+            "D. heavy"
+          ],
           "correctIndex": 1,
           "explanation": "The passage says viruses are 'tiny germs that are so small' -- they are so small they can float through air."
         },
         {
           "id": "1b",
           "question": "(2)",
-          "options": ["A. about", "B. for", "C. with", "D. of"],
+          "options": [
+            "A. about",
+            "B. for",
+            "C. with",
+            "D. of"
+          ],
           "correctIndex": 3,
           "explanation": "'Sorts of' is the correct collocation meaning 'types of.'"
         },
         {
           "id": "1c",
           "question": "(3)",
-          "options": ["A. had", "B. made", "C. took", "D. caught"],
+          "options": [
+            "A. had",
+            "B. made",
+            "C. took",
+            "D. caught"
+          ],
           "correctIndex": 0,
           "explanation": "'All you probably had was a snotty nose' -- 'had' means experienced a symptom."
         },
         {
           "id": "1d",
           "question": "(4)",
-          "options": ["A. a", "B. an", "C. the", "D. (no article)"],
+          "options": [
+            "A. a",
+            "B. an",
+            "C. the",
+            "D. (no article)"
+          ],
           "correctIndex": 1,
           "explanation": "'An illness' -- 'illness' starts with a vowel sound, so 'an' is needed."
         },
         {
           "id": "1e",
           "question": "(5)",
-          "options": ["A. roads", "B. ways", "C. behaviours", "D. habits"],
+          "options": [
+            "A. roads",
+            "B. ways",
+            "C. behaviours",
+            "D. habits"
+          ],
           "correctIndex": 1,
           "explanation": "'Two main ways that people can catch it' -- 'ways' means methods or means."
         }
@@ -56,35 +81,60 @@
         {
           "id": "2a",
           "question": "(1)",
-          "options": ["A. when", "B. where", "C. that", "D. whether"],
+          "options": [
+            "A. when",
+            "B. where",
+            "C. that",
+            "D. whether"
+          ],
           "correctIndex": 0,
           "explanation": "'When their teachers enter the room' -- 'when' introduces a time clause."
         },
         {
           "id": "2b",
           "question": "(2)",
-          "options": ["A. let", "B. allow", "C. make", "D. encourage"],
+          "options": [
+            "A. let",
+            "B. allow",
+            "C. make",
+            "D. encourage"
+          ],
           "correctIndex": 1,
           "explanation": "'Allow students to enter' -- 'allow someone to do something' is the correct pattern."
         },
         {
           "id": "2c",
           "question": "(3)",
-          "options": ["A. Though", "B. In spite", "C. Despite", "D. Because of"],
+          "options": [
+            "A. Though",
+            "B. In spite",
+            "C. Despite",
+            "D. Because of"
+          ],
           "correctIndex": 2,
           "explanation": "'Despite the lack of formality' -- 'despite' + noun phrase shows contrast."
         },
         {
           "id": "2d",
           "question": "(4)",
-          "options": ["A. rise", "B. arise", "C. raise", "D. put"],
+          "options": [
+            "A. rise",
+            "B. arise",
+            "C. raise",
+            "D. put"
+          ],
           "correctIndex": 2,
           "explanation": "'Raise a hand' -- 'raise' means to lift something up (transitive verb)."
         },
         {
           "id": "2e",
           "question": "(5)",
-          "options": ["A. in", "B. when", "C. while", "D. during"],
+          "options": [
+            "A. in",
+            "B. when",
+            "C. while",
+            "D. during"
+          ],
           "correctIndex": 3,
           "explanation": "'During a test' -- 'during' + noun phrase indicates time period."
         }
@@ -98,35 +148,60 @@
         {
           "id": "3a",
           "question": "(1)",
-          "options": ["A. around", "B. over", "C. on", "D. since"],
+          "options": [
+            "A. around",
+            "B. over",
+            "C. on",
+            "D. since"
+          ],
           "correctIndex": 3,
           "explanation": "'Since the 17th century' -- 'since' is used with a point in time with present perfect."
         },
         {
           "id": "3b",
           "question": "(2)",
-          "options": ["A. whom", "B. who", "C. when", "D. what"],
+          "options": [
+            "A. whom",
+            "B. who",
+            "C. when",
+            "D. what"
+          ],
           "correctIndex": 1,
           "explanation": "'The first man who taught' -- 'who' is a relative pronoun for people as subject."
         },
         {
           "id": "3c",
           "question": "(3)",
-          "options": ["A. the", "B. a", "C. an", "D. X (no article)"],
+          "options": [
+            "A. the",
+            "B. a",
+            "C. an",
+            "D. X (no article)"
+          ],
           "correctIndex": 0,
           "explanation": "'Across the country' -- 'the' is used because it refers to a specific country (Vietnam)."
         },
         {
           "id": "3d",
           "question": "(4)",
-          "options": ["A. beauty", "B. beautify", "C. beautiful", "D. beautifully"],
+          "options": [
+            "A. beauty",
+            "B. beautify",
+            "C. beautiful",
+            "D. beautifully"
+          ],
           "correctIndex": 2,
           "explanation": "'Beautiful embroideries' -- an adjective is needed before the noun."
         },
         {
           "id": "3e",
           "question": "(5)",
-          "options": ["A. wonder", "B. cause", "C. true", "D. exported"],
+          "options": [
+            "A. wonder",
+            "B. cause",
+            "C. true",
+            "D. exported"
+          ],
           "correctIndex": 3,
           "explanation": "'Which are exported to many countries' -- passive voice with 'exported.'"
         }
@@ -140,35 +215,60 @@
         {
           "id": "4a",
           "question": "(1)",
-          "options": ["A. however", "B. therefore", "C. whereas", "D. when"],
+          "options": [
+            "A. however",
+            "B. therefore",
+            "C. whereas",
+            "D. when"
+          ],
           "correctIndex": 2,
           "explanation": "'Whereas' shows contrast between past (agriculture) and present (less agriculture)."
         },
         {
           "id": "4b",
           "question": "(2)",
-          "options": ["A. traditionally", "B. gradually", "C. occasionally", "D. presently"],
+          "options": [
+            "A. traditionally",
+            "B. gradually",
+            "C. occasionally",
+            "D. presently"
+          ],
           "correctIndex": 0,
           "explanation": "'Traditionally agrarian' -- Vietnam was traditionally an agricultural country."
         },
         {
           "id": "4c",
           "question": "(3)",
-          "options": ["A. they", "B. their", "C. them", "D. theirs"],
+          "options": [
+            "A. they",
+            "B. their",
+            "C. them",
+            "D. theirs"
+          ],
           "correctIndex": 1,
           "explanation": "'Their forefathers' -- possessive adjective before a noun."
         },
         {
           "id": "4d",
           "question": "(4)",
-          "options": ["A. on", "B. at", "C. to", "D. for"],
+          "options": [
+            "A. on",
+            "B. at",
+            "C. to",
+            "D. for"
+          ],
           "correctIndex": 2,
           "explanation": "'Welcome foreigners to their country' -- 'welcome to' is the correct preposition."
         },
         {
           "id": "4e",
           "question": "(5)",
-          "options": ["A. developed", "B. developer", "C. developing", "D. development"],
+          "options": [
+            "A. developed",
+            "B. developer",
+            "C. developing",
+            "D. development"
+          ],
           "correctIndex": 3,
           "explanation": "'The development of their country' -- a noun is needed after 'the' and before 'of.'"
         }
@@ -182,35 +282,60 @@
         {
           "id": "5a",
           "question": "(1)",
-          "options": ["A. ways", "B. systems", "C. spaces", "D. means"],
+          "options": [
+            "A. ways",
+            "B. systems",
+            "C. spaces",
+            "D. means"
+          ],
           "correctIndex": 3,
           "explanation": "'Means of transport' is the correct collocation for transportation methods."
         },
         {
           "id": "5b",
           "question": "(2)",
-          "options": ["A. around", "B. over", "C. by", "D. ahead"],
+          "options": [
+            "A. around",
+            "B. over",
+            "C. by",
+            "D. ahead"
+          ],
           "correctIndex": 0,
           "explanation": "'Get around the city' means to travel within the city."
         },
         {
           "id": "5c",
           "question": "(3)",
-          "options": ["A. because", "B. because of", "C. as", "D. since"],
+          "options": [
+            "A. because",
+            "B. because of",
+            "C. as",
+            "D. since"
+          ],
           "correctIndex": 1,
           "explanation": "'Because of the population boom' -- 'because of' + noun phrase."
         },
         {
           "id": "5d",
           "question": "(4)",
-          "options": ["A. increased", "B. increasing", "C. increasingly", "D. increase"],
+          "options": [
+            "A. increased",
+            "B. increasing",
+            "C. increasingly",
+            "D. increase"
+          ],
           "correctIndex": 1,
           "explanation": "'The increasing travel demands' -- present participle as adjective before noun."
         },
         {
           "id": "5e",
           "question": "(5)",
-          "options": ["A. which", "B. what", "C. whose", "D. where"],
+          "options": [
+            "A. which",
+            "B. what",
+            "C. whose",
+            "D. where"
+          ],
           "correctIndex": 0,
           "explanation": "'Which links Ha Noi Central Station to Nhon' -- 'which' as relative pronoun for things."
         }
@@ -224,35 +349,60 @@
         {
           "id": "6a",
           "question": "(1)",
-          "options": ["A. used", "B. taken", "C. eaten", "D. boiled"],
+          "options": [
+            "A. used",
+            "B. taken",
+            "C. eaten",
+            "D. boiled"
+          ],
           "correctIndex": 2,
           "explanation": "'Rice is eaten by Vietnamese people every day' -- rice is food, so 'eaten' is correct."
         },
         {
           "id": "6b",
           "question": "(2)",
-          "options": ["A. A", "B. Some", "C. The", "D. Any"],
+          "options": [
+            "A. A",
+            "B. Some",
+            "C. The",
+            "D. Any"
+          ],
           "correctIndex": 2,
           "explanation": "'The Chinese' -- 'the' + nationality adjective refers to the people of that nation."
         },
         {
           "id": "6c",
           "question": "(3)",
-          "options": ["A. in", "B. by", "C. with", "D. of"],
+          "options": [
+            "A. in",
+            "B. by",
+            "C. with",
+            "D. of"
+          ],
           "correctIndex": 2,
           "explanation": "'Covered with muddy water' -- 'covered with' is the correct collocation."
         },
         {
           "id": "6d",
           "question": "(4)",
-          "options": ["A. beauty", "B. beautiful", "C. beautifully", "D. beautify"],
+          "options": [
+            "A. beauty",
+            "B. beautiful",
+            "C. beautifully",
+            "D. beautify"
+          ],
           "correctIndex": 1,
           "explanation": "'Look very beautiful' -- 'look' + adjective (not adverb) as a linking verb."
         },
         {
           "id": "6e",
           "question": "(5)",
-          "options": ["A. However", "B. Moreover", "C. Besides", "D. Instead"],
+          "options": [
+            "A. However",
+            "B. Moreover",
+            "C. Besides",
+            "D. Instead"
+          ],
           "correctIndex": 3,
           "explanation": "'Instead, they use chopsticks' -- 'instead' means as an alternative to spoons/forks."
         }
@@ -266,35 +416,60 @@
         {
           "id": "7a",
           "question": "(1)",
-          "options": ["A. up", "B. on", "C. down", "D. off"],
+          "options": [
+            "A. up",
+            "B. on",
+            "C. down",
+            "D. off"
+          ],
           "correctIndex": 2,
           "explanation": "'Burned down' means destroyed by fire."
         },
         {
           "id": "7b",
           "question": "(2)",
-          "options": ["A. place", "B. name", "C. fame", "D. time"],
+          "options": [
+            "A. place",
+            "B. name",
+            "C. fame",
+            "D. time"
+          ],
           "correctIndex": 1,
           "explanation": "'Takes its name from' -- Big Ben is named after Sir Benjamin Hall."
         },
         {
           "id": "7c",
           "question": "(3)",
-          "options": ["A. two", "B. two time", "C. couple", "D. twice"],
+          "options": [
+            "A. two",
+            "B. two time",
+            "C. couple",
+            "D. twice"
+          ],
           "correctIndex": 3,
           "explanation": "'Checked twice a day' -- 'twice' means two times."
         },
         {
           "id": "7d",
           "question": "(4)",
-          "options": ["A. connects", "B. are connected", "C. is connected", "D. connect"],
+          "options": [
+            "A. connects",
+            "B. are connected",
+            "C. is connected",
+            "D. connect"
+          ],
           "correctIndex": 1,
           "explanation": "'Microphones are connected to the clock tower' -- passive voice, plural subject."
         },
         {
           "id": "7e",
           "question": "(5)",
-          "options": ["A. who", "B. whom", "C. which", "D. where"],
+          "options": [
+            "A. who",
+            "B. whom",
+            "C. which",
+            "D. where"
+          ],
           "correctIndex": 0,
           "explanation": "'A painter who had been working' -- 'who' as relative pronoun for a person (subject)."
         }
@@ -308,35 +483,60 @@
         {
           "id": "8a",
           "question": "(1)",
-          "options": ["A. A", "B. An", "C. The", "D. No article"],
+          "options": [
+            "A. A",
+            "B. An",
+            "C. The",
+            "D. No article"
+          ],
           "correctIndex": 0,
           "explanation": "'A definition' -- indefinite article before a singular countable noun starting with a consonant."
         },
         {
           "id": "8b",
           "question": "(2)",
-          "options": ["A. but", "B. however", "C. therefore", "D. moreover"],
+          "options": [
+            "A. but",
+            "B. however",
+            "C. therefore",
+            "D. moreover"
+          ],
           "correctIndex": 1,
           "explanation": "'However' shows contrast between the general definition and modern practices."
         },
         {
           "id": "8c",
           "question": "(3)",
-          "options": ["A. burn", "B. to burn", "C. burning", "D. burned"],
+          "options": [
+            "A. burn",
+            "B. to burn",
+            "C. burning",
+            "D. burned"
+          ],
           "correctIndex": 2,
           "explanation": "'When burning something' -- gerund after 'when' in a reduced clause."
         },
         {
           "id": "8d",
           "question": "(4)",
-          "options": ["A. Almost", "B. The most", "C. Most of", "D. Most"],
+          "options": [
+            "A. Almost",
+            "B. The most",
+            "C. Most of",
+            "D. Most"
+          ],
           "correctIndex": 3,
           "explanation": "'Most people think' -- 'most' + noun (without 'of') for general statements."
         },
         {
           "id": "8e",
           "question": "(5)",
-          "options": ["A. could", "B. possible", "C. capable", "D. able"],
+          "options": [
+            "A. could",
+            "B. possible",
+            "C. capable",
+            "D. able"
+          ],
           "correctIndex": 3,
           "explanation": "'Are always able to see' -- 'be able to' + verb is the correct pattern."
         }
@@ -350,35 +550,60 @@
         {
           "id": "9a",
           "question": "(1)",
-          "options": ["A. many", "B. few", "C. much", "D. a little"],
+          "options": [
+            "A. many",
+            "B. few",
+            "C. much",
+            "D. a little"
+          ],
           "correctIndex": 2,
           "explanation": "'Too much time' -- 'time' is uncountable, so 'much' is correct."
         },
         {
           "id": "9b",
           "question": "(2)",
-          "options": ["A. harm", "B. harmless", "C. harmlessly", "D. harmful"],
+          "options": [
+            "A. harm",
+            "B. harmless",
+            "C. harmlessly",
+            "D. harmful"
+          ],
           "correctIndex": 3,
           "explanation": "'Can be harmful for their children' -- adjective after 'be' as complement."
         },
         {
           "id": "9c",
           "question": "(3)",
-          "options": ["A. in spite of", "B. instead of", "C. because of", "D. on account of"],
+          "options": [
+            "A. in spite of",
+            "B. instead of",
+            "C. because of",
+            "D. on account of"
+          ],
           "correctIndex": 1,
           "explanation": "'Instead of doing their homework' -- means doing games rather than homework."
         },
         {
           "id": "9d",
           "question": "(4)",
-          "options": ["A. cause", "B. take", "C. make", "D. create"],
+          "options": [
+            "A. cause",
+            "B. take",
+            "C. make",
+            "D. create"
+          ],
           "correctIndex": 2,
           "explanation": "'Make use of' is a fixed expression meaning 'to use.'"
         },
         {
           "id": "9e",
           "question": "(5)",
-          "options": ["A. a", "B. an", "C. the", "D. no article"],
+          "options": [
+            "A. a",
+            "B. an",
+            "C. the",
+            "D. no article"
+          ],
           "correctIndex": 0,
           "explanation": "'In front of a screen' -- indefinite article for a general, non-specific screen."
         }
@@ -392,35 +617,60 @@
         {
           "id": "10a",
           "question": "(1)",
-          "options": ["A. much", "B. many", "C. lot", "D. lots"],
+          "options": [
+            "A. much",
+            "B. many",
+            "C. lot",
+            "D. lots"
+          ],
           "correctIndex": 3,
           "explanation": "'Lots of parks' -- 'lots of' means 'a large number of.'"
         },
         {
           "id": "10b",
           "question": "(2)",
-          "options": ["A. a", "B. an", "C. the", "D. no article"],
+          "options": [
+            "A. a",
+            "B. an",
+            "C. the",
+            "D. no article"
+          ],
           "correctIndex": 2,
           "explanation": "'The island' -- definite article because it refers to the specific island of Singapore."
         },
         {
           "id": "10c",
           "question": "(3)",
-          "options": ["A. build", "B. builders", "C. building", "D. buildings"],
+          "options": [
+            "A. build",
+            "B. builders",
+            "C. building",
+            "D. buildings"
+          ],
           "correctIndex": 3,
           "explanation": "'The government buildings' -- plural noun needed as subject of 'are very beautiful.'"
         },
         {
           "id": "10d",
           "question": "(4)",
-          "options": ["A. beautiful", "B. famous", "C. full", "D. crowded"],
+          "options": [
+            "A. beautiful",
+            "B. famous",
+            "C. full",
+            "D. crowded"
+          ],
           "correctIndex": 1,
           "explanation": "'Famous for its shops and restaurants' -- 'famous for' is the correct collocation."
         },
         {
           "id": "10e",
           "question": "(5)",
-          "options": ["A. and", "B. but", "C. although", "D. if"],
+          "options": [
+            "A. and",
+            "B. but",
+            "C. although",
+            "D. if"
+          ],
           "correctIndex": 0,
           "explanation": "'Sell food, and the prices are quite reasonable' -- 'and' adds a related positive point."
         }

@@ -14,7 +14,7 @@ Interactive self-study English exam prep for Vietnamese Grade 9 students enterin
 │   ├── core/
 │   │   ├── logic.js              # Pure logic (unit-testable, no DOM)
 │   │   ├── topic-engine.js       # Topic page rendering + exercise flow
-│   │   ├── test-engine.js        # Practice test: timer + question grid
+│   │   ├── test-engine.js        # Practice test: timer, question grid, exam mode (deferred feedback)
 │   │   └── storage.js            # LocalStorage wrapper
 │   └── home.js                   # Homepage progress display
 ├── data/

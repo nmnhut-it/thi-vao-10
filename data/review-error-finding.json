@@ -3,7 +3,7 @@
   "title": "Tổng Ôn Tìm Lỗi Sai",
   "section": "grammar",
   "knowledge": {
-    "html": "<h3>Tim Loi Sai (Error Finding)</h3><p>Chon tu/cụm từ gach chan co loi sai trong cau. Cac loi thường gặp:</p><ul><li>Chia động từ (subject-verb agreement, tense)</li><li>Tu loai (noun/verb/adj/adv dung sai vị trí)</li><li>Giới từ</li><li>Mạo từ</li><li>Cấu trúc ngu phap</li></ul>"
+    "html": "<h3>Tìm Lỗi Sai (Error Finding)</h3><p>Chon tu/cụm từ gạch chân co lỗi sai trong cau. Cac loi thường gặp:</p><ul><li>Chia động từ (subject-verb agreement, tense)</li><li>Từ loại (noun/verb/adj/adv dung sai vị trí)</li><li>Giới từ</li><li>Mạo từ</li><li>Cấu trúc ngữ pháp</li></ul>"
   },
   "exercises": [
     {
@@ -128,10 +128,17 @@
       "type": "error-correct",
       "wrongSentence": "You mustn't do any cooking as I've already prepared something.",
       "correctSentence": "You needn't do any cooking as I've already prepared something.",
-      "acceptedCorrectSentences": ["You needn't do any cooking as I've already prepared something.", "You don't need to do any cooking as I've already prepared something."],
+      "acceptedCorrectSentences": [
+        "You needn't do any cooking as I've already prepared something.",
+        "You don't need to do any cooking as I've already prepared something."
+      ],
       "errorWord": "mustn't",
       "correction": "needn't",
-      "acceptedCorrections": ["needn't", "don't need to", "need not"],
+      "acceptedCorrections": [
+        "needn't",
+        "don't need to",
+        "need not"
+      ],
       "explanation": "'Mustn't' means 'you are forbidden to do this.' 'Needn't' means 'it is not necessary.' Since the speaker already prepared food, cooking is unnecessary (not forbidden), so use 'needn't.'"
     },
     {

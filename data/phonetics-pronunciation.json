@@ -3,14 +3,19 @@
   "title": "Pronunciation (Phát Âm)",
   "section": "phonetics",
   "knowledge": {
-    "html": "<h2>I. PRONUNCIATION (PHÁT ÂM)</h2><h3>1. Quy tắc phát âm cua cac chữ cái phụ âm va phụ âm cuoi</h3><h4>Một số chữ cái phụ âm thường gặp</h4><table class='formula'><tr><th>Chữ cái phụ âm</th><th>Cach phát âm</th><th>Ví dụ</th></tr><tr><td rowspan='3'><b>c</b></td><td>/k/</td><td><u>c</u>lose, <u>c</u>onfide</td></tr><tr><td>/s/</td><td><u>c</u>ertify, <u>c</u>ycle</td></tr><tr><td>/&#x283;/</td><td>spe<u>c</u>ial, o<u>c</u>ean</td></tr><tr><td rowspan='2'><b>d</b></td><td>/d/</td><td><u>d</u>ramatic, <u>d</u>emand</td></tr><tr><td>/d&#x292;/</td><td>gra<u>d</u>ual, e<u>d</u>ucate</td></tr><tr><td rowspan='3'><b>g</b></td><td>/g/</td><td><u>g</u>uess, re<u>g</u>ular</td></tr><tr><td>/d&#x292;/</td><td><u>g</u>erm, ori<u>g</u>in</td></tr><tr><td>/&#x292;/</td><td>bei<u>g</u>e, <u>g</u>arage</td></tr><tr><td rowspan='2'><b>n</b></td><td>/n/</td><td><u>n</u>eck, fu<u>n</u></td></tr><tr><td>/&#x14B;/</td><td>u<u>n</u>cle, dri<u>n</u>k</td></tr><tr><td rowspan='4'><b>s</b></td><td>/s/</td><td><u>s</u>ecret, optimi<u>s</u>t</td></tr><tr><td>/z/</td><td>ro<u>s</u>e, re<u>s</u>ume</td></tr><tr><td>/&#x283;/</td><td><u>s</u>ugar, en<u>s</u>ure</td></tr><tr><td>/&#x292;/</td><td>u<u>s</u>ually, occa<u>s</u>ion</td></tr><tr><td rowspan='3'><b>t</b></td><td>/t/</td><td><u>t</u>utor, pre<u>t</u>ence</td></tr><tr><td>/&#x283;/</td><td>op<u>t</u>ion, ini<u>t</u>ial</td></tr><tr><td>/t&#x283;/</td><td>cul<u>t</u>ure, ques<u>t</u>ion</td></tr><tr><td rowspan='3'><b>x</b></td><td>/gz/</td><td>e<u>x</u>ist, e<u>x</u>hibit</td></tr><tr><td>/ks/</td><td>bo<u>x</u>, mi<u>x</u>ture</td></tr><tr><td>/k&#x283;/</td><td>an<u>x</u>ious, lu<u>x</u>ury</td></tr></table><h4>Một số nhóm chữ cai phụ âm thường gặp</h4><table class='formula'><tr><th>Nhóm chữ cai phụ âm</th><th>Cach phát âm</th><th>Ví dụ</th></tr><tr><td><b>qu</b></td><td>/kw/</td><td><u>qu</u>eue, re<u>qu</u>ire</td></tr><tr><td rowspan='3'><b>ch</b></td><td>/k/</td><td><u>ch</u>emist, me<u>ch</u>anic</td></tr><tr><td>/t&#x283;/</td><td><u>ch</u>eck, bun<u>ch</u></td></tr><tr><td>/&#x283;/</td><td>ma<u>ch</u>ine, para<u>ch</u>ute</td></tr><tr><td><b>sh</b></td><td>/&#x283;/</td><td><u>sh</u>ock, sma<u>sh</u></td></tr><tr><td rowspan='2'><b>th</b></td><td>/&#x3B8;/</td><td><u>th</u>eme, dep<u>th</u></td></tr><tr><td>/&eth;/</td><td><u>th</u>us, fea<u>th</u>er</td></tr><tr><td><b>gh/ph</b></td><td>/f/</td><td>rou<u>gh</u>, lau<u>gh</u>ter, <u>ph</u>oto, para<u>gr</u>aph</td></tr></table><h3>2. Cach phát âm duoi -s, -es</h3><table class='formula'><tr><th>Am</th><th>Quy tắc</th></tr><tr><td><b>/s/</b></td><td>Sau cac am vô thanh: /p/, /t/, /k/, /f/, /&theta;/<br><span class='example'>Ex: cloth<u>s</u>, belief<u>s</u>, book<u>s</u>, cup<u>s</u>, cat<u>s</u></span></td></tr><tr><td><b>/iz/</b></td><td>Sau cac am: /s/, /z/, /&#x283;/, /&#x292;/, /t&#x283;/, /d&#x292;/ <span class='vi'>(sang chieu zo xo so)</span><br><span class='example'>Ex: crash<u>es</u>, watch<u>es</u>, buzz<u>es</u>, box<u>es</u>, bus<u>es</u>, focus<u>es</u>, resourc<u>es</u>, bridg<u>es</u></span></td></tr><tr><td><b>/z/</b></td><td>Sau cac am hữu thanh con lai<br><span class='example'>Ex: rob<u>s</u>, bag<u>s</u>, pool<u>s</u>, costume<u>s</u>, begin<u>s</u>, floor<u>s</u>, leav<u>es</u></span></td></tr></table><h3>3. Cach phát âm duoi -ed</h3><table class='formula'><tr><th>Am</th><th>Quy tắc</th></tr><tr><td><b>/id/</b></td><td>Sau am /t/ va /d/<br><span class='example'>Ex: want<u>ed</u>, end<u>ed</u></span><br><span class='vi'>Ngoại lệ: Duoi &quot;ed&quot; trong cac tính từ sau duoc doc la /id/:</span> naked, aged, learned, wicked, dogged, blessed, beloved, crooked</td></tr><tr><td><b>/t/</b></td><td>Sau cac am vô thanh: /k/, /ks/, /s/, /&#x283;/, /t&#x283;/, /p/, /f/, /&theta;/<br><span class='example'>Ex: work<u>ed</u>, kiss<u>ed</u>, fax<u>ed</u>, watch<u>ed</u>, laugh<u>ed</u>, fac<u>ed</u>, help<u>ed</u>, rough<u>ed</u>, wash<u>ed</u></span><br><span class='vi'>Lưu ý: -s hoac -ss thi luon dung, -se co the doc /t/ hoac /d/ tuy theo tu.</span></td></tr><tr><td><b>/d/</b></td><td>Sau cac am hữu thanh con lai<br><span class='example'>Ex: play<u>ed</u>, lov<u>ed</u>, happen<u>ed</u></span></td></tr></table><h3>4. Quy tắc phát âm cac tu chua âm câm</h3><p class='vi'>Một số chữ cái trong một số tu bao gom phụ âm va nguyên âm khong duoc phát âm thanh tieng, duoc goi la âm câm (silent sounds).</p><table class='formula'><tr><th>Chữ cái - Truong hop thường gặp</th><th>Ví dụ</th></tr><tr><td><b>b</b> dung cuoi trong một số tu (thuong di sau m)</td><td>clim<u>b</u>, dum<u>b</u>, com<u>b</u>, dou<u>b</u>t, de<u>b</u>t</td></tr><tr><td><b>b</b> dung truoc t</td><td>snack, dock</td></tr><tr><td><b>c</b> dung sau s trong một số tu</td><td>s<u>c</u>ene, mus<u>c</u>le, Wednesday</td></tr><tr><td><b>d</b> trong một số tu</td><td>han<u>d</u>some, Wednesday</td></tr><tr><td><b>h</b> trong một số tu</td><td><u>h</u>our, ex<u>h</u>austed</td></tr><tr><td><b>gh</b> trong một số tu (dac biet la sau i)</td><td>wei<u>gh</u>, si<u>gh</u>t</td></tr><tr><td><b>k</b> dung truoc n</td><td><u>k</u>now, <u>k</u>nee, <u>k</u>nife</td></tr><tr><td><b>l</b> trong một số tu</td><td>ha<u>l</u>f, cou<u>l</u>d</td></tr><tr><td><b>n</b> dung sau m</td><td>autum<u>n</u>, condem<u>n</u></td></tr><tr><td><b>p</b> dung dau mot tu, theo sau la mot phụ âm va một số truong hop khac</td><td><u>p</u>sychology, recei<u>p</u>t</td></tr><tr><td><b>r</b> dung truoc mot phụ âm khac hoac dung cuoi tu do</td><td>ca<u>r</u>d, pa<u>r</u>k, fa<u>r</u>m, bu<u>r</u>n, neighbou<u>r</u>, voluntee<u>r</u></td></tr><tr><td><b>t</b> trong một số tu</td><td>lis<u>t</u>en, cas<u>t</u>le</td></tr><tr><td><b>w</b> dung truoc r hoac h trong một số tu</td><td><u>w</u>reck, <u>w</u>ho</td></tr></table>"
+    "html": "<h2>I. PRONUNCIATION (PHÁT ÂM)</h2><h3>1. Quy tắc phát âm cua cac chữ cái phụ âm va phụ âm cuoi</h3><h4>Một số chữ cái phụ âm thường gặp</h4><table class='formula'><tr><th>Chữ cái phụ âm</th><th>Cach phát âm</th><th>Ví dụ</th></tr><tr><td rowspan='3'><b>c</b></td><td>/k/</td><td><u>c</u>lose, <u>c</u>onfide</td></tr><tr><td>/s/</td><td><u>c</u>ertify, <u>c</u>ycle</td></tr><tr><td>/&#x283;/</td><td>spe<u>c</u>ial, o<u>c</u>ean</td></tr><tr><td rowspan='2'><b>d</b></td><td>/d/</td><td><u>d</u>ramatic, <u>d</u>emand</td></tr><tr><td>/d&#x292;/</td><td>gra<u>d</u>ual, e<u>d</u>ucate</td></tr><tr><td rowspan='3'><b>g</b></td><td>/g/</td><td><u>g</u>uess, re<u>g</u>ular</td></tr><tr><td>/d&#x292;/</td><td><u>g</u>erm, ori<u>g</u>in</td></tr><tr><td>/&#x292;/</td><td>bei<u>g</u>e, <u>g</u>arage</td></tr><tr><td rowspan='2'><b>n</b></td><td>/n/</td><td><u>n</u>eck, fu<u>n</u></td></tr><tr><td>/&#x14B;/</td><td>u<u>n</u>cle, dri<u>n</u>k</td></tr><tr><td rowspan='4'><b>s</b></td><td>/s/</td><td><u>s</u>ecret, optimi<u>s</u>t</td></tr><tr><td>/z/</td><td>ro<u>s</u>e, re<u>s</u>ume</td></tr><tr><td>/&#x283;/</td><td><u>s</u>ugar, en<u>s</u>ure</td></tr><tr><td>/&#x292;/</td><td>u<u>s</u>ually, occa<u>s</u>ion</td></tr><tr><td rowspan='3'><b>t</b></td><td>/t/</td><td><u>t</u>utor, pre<u>t</u>ence</td></tr><tr><td>/&#x283;/</td><td>op<u>t</u>ion, ini<u>t</u>ial</td></tr><tr><td>/t&#x283;/</td><td>cul<u>t</u>ure, ques<u>t</u>ion</td></tr><tr><td rowspan='3'><b>x</b></td><td>/gz/</td><td>e<u>x</u>ist, e<u>x</u>hibit</td></tr><tr><td>/ks/</td><td>bo<u>x</u>, mi<u>x</u>ture</td></tr><tr><td>/k&#x283;/</td><td>an<u>x</u>ious, lu<u>x</u>ury</td></tr></table><h4>Một số nhóm chữ cai phụ âm thường gặp</h4><table class='formula'><tr><th>Nhóm chữ cai phụ âm</th><th>Cach phát âm</th><th>Ví dụ</th></tr><tr><td><b>qu</b></td><td>/kw/</td><td><u>qu</u>eue, re<u>qu</u>ire</td></tr><tr><td rowspan='3'><b>ch</b></td><td>/k/</td><td><u>ch</u>emist, me<u>ch</u>anic</td></tr><tr><td>/t&#x283;/</td><td><u>ch</u>eck, bun<u>ch</u></td></tr><tr><td>/&#x283;/</td><td>ma<u>ch</u>ine, para<u>ch</u>ute</td></tr><tr><td><b>sh</b></td><td>/&#x283;/</td><td><u>sh</u>ock, sma<u>sh</u></td></tr><tr><td rowspan='2'><b>th</b></td><td>/&#x3B8;/</td><td><u>th</u>eme, dep<u>th</u></td></tr><tr><td>/&eth;/</td><td><u>th</u>us, fea<u>th</u>er</td></tr><tr><td><b>gh/ph</b></td><td>/f/</td><td>rou<u>gh</u>, lau<u>gh</u>ter, <u>ph</u>oto, para<u>gr</u>aph</td></tr></table><h3>2. Cach phát âm duoi -s, -es</h3><table class='formula'><tr><th>Am</th><th>Quy tắc</th></tr><tr><td><b>/s/</b></td><td>Sau cac am vô thanh: /p/, /t/, /k/, /f/, /&theta;/<br><span class='example'>Ex: cloth<u>s</u>, belief<u>s</u>, book<u>s</u>, cup<u>s</u>, cat<u>s</u></span></td></tr><tr><td><b>/iz/</b></td><td>Sau cac am: /s/, /z/, /&#x283;/, /&#x292;/, /t&#x283;/, /d&#x292;/ <span class='vi'>(sáng chiều giò xô xó)</span><br><span class='example'>Ex: crash<u>es</u>, watch<u>es</u>, buzz<u>es</u>, box<u>es</u>, bus<u>es</u>, focus<u>es</u>, resourc<u>es</u>, bridg<u>es</u></span></td></tr><tr><td><b>/z/</b></td><td>Sau cac am hữu thanh còn lại<br><span class='example'>Ex: rob<u>s</u>, bag<u>s</u>, pool<u>s</u>, costume<u>s</u>, begin<u>s</u>, floor<u>s</u>, leav<u>es</u></span></td></tr></table><h3>3. Cach phát âm duoi -ed</h3><table class='formula'><tr><th>Am</th><th>Quy tắc</th></tr><tr><td><b>/id/</b></td><td>Sau am /t/ va /d/<br><span class='example'>Ex: want<u>ed</u>, end<u>ed</u></span><br><span class='vi'>Ngoại lệ: Duoi &quot;ed&quot; trong cac tính từ sau được đọc la /id/:</span> naked, aged, learned, wicked, dogged, blessed, beloved, crooked</td></tr><tr><td><b>/t/</b></td><td>Sau cac am vô thanh: /k/, /ks/, /s/, /&#x283;/, /t&#x283;/, /p/, /f/, /&theta;/<br><span class='example'>Ex: work<u>ed</u>, kiss<u>ed</u>, fax<u>ed</u>, watch<u>ed</u>, laugh<u>ed</u>, fac<u>ed</u>, help<u>ed</u>, rough<u>ed</u>, wash<u>ed</u></span><br><span class='vi'>Lưu ý: -s hoac -ss thi luôn đúng, -se có thể doc /t/ hoac /d/ tùy theo từ.</span></td></tr><tr><td><b>/d/</b></td><td>Sau cac am hữu thanh còn lại<br><span class='example'>Ex: play<u>ed</u>, lov<u>ed</u>, happen<u>ed</u></span></td></tr></table><h3>4. Quy tắc phát âm cac tu chua âm câm</h3><p class='vi'>Một số chữ cái trong một số tu bao gồm phụ âm va nguyên âm không được phát âm thanh tieng, được gọi la âm câm (silent sounds).</p><table class='formula'><tr><th>Chữ cái - Trường hợp thường gặp</th><th>Ví dụ</th></tr><tr><td><b>b</b> dùng cuối trong một số tu (thuong đi sau m)</td><td>clim<u>b</u>, dum<u>b</u>, com<u>b</u>, dou<u>b</u>t, de<u>b</u>t</td></tr><tr><td><b>b</b> dùng trước t</td><td>snack, dock</td></tr><tr><td><b>c</b> dùng sau s trong một số tu</td><td>s<u>c</u>ene, mus<u>c</u>le, Wednesday</td></tr><tr><td><b>d</b> trong một số tu</td><td>han<u>d</u>some, Wednesday</td></tr><tr><td><b>h</b> trong một số tu</td><td><u>h</u>our, ex<u>h</u>austed</td></tr><tr><td><b>gh</b> trong một số tu (đặc biệt la sau i)</td><td>wei<u>gh</u>, si<u>gh</u>t</td></tr><tr><td><b>k</b> dùng trước n</td><td><u>k</u>now, <u>k</u>nee, <u>k</u>nife</td></tr><tr><td><b>l</b> trong một số tu</td><td>ha<u>l</u>f, cou<u>l</u>d</td></tr><tr><td><b>n</b> dùng sau m</td><td>autum<u>n</u>, condem<u>n</u></td></tr><tr><td><b>p</b> dùng đầu mot tu, theo sau la mot phụ âm va một số trường hợp khac</td><td><u>p</u>sychology, recei<u>p</u>t</td></tr><tr><td><b>r</b> dùng trước mot phụ âm khac hoac dùng cuối tu do</td><td>ca<u>r</u>d, pa<u>r</u>k, fa<u>r</u>m, bu<u>r</u>n, neighbou<u>r</u>, voluntee<u>r</u></td></tr><tr><td><b>t</b> trong một số tu</td><td>lis<u>t</u>en, cas<u>t</u>le</td></tr><tr><td><b>w</b> dùng trước r hoac h trong một số tu</td><td><u>w</u>reck, <u>w</u>ho</td></tr></table>"
   },
   "exercises": [
     {
       "id": 1,
       "type": "multiple-choice",
       "question": "Choose the word whose underlined part is pronounced differently from the others.",
-      "options": ["A. <u>s</u>weater", "B. <u>s</u>lideshow", "C. <u>s</u>ure", "D. <u>s</u>cience"],
+      "options": [
+        "A. <u>s</u>weater",
+        "B. <u>s</u>lideshow",
+        "C. <u>s</u>ure",
+        "D. <u>s</u>cience"
+      ],
       "correctIndex": 2,
       "explanation": "'Sure' starts with /ʃ/ sound, while the others start with /s/. The 's' in 'sure' is pronounced like 'sh'."
     },
@@ -18,7 +23,12 @@
       "id": 2,
       "type": "multiple-choice",
       "question": "Choose the word whose underlined part is pronounced differently from the others.",
-      "options": ["A. d<u>o</u>cument", "B. str<u>o</u>ll", "C. c<u>o</u>ntrol", "D. rem<u>o</u>te"],
+      "options": [
+        "A. d<u>o</u>cument",
+        "B. str<u>o</u>ll",
+        "C. c<u>o</u>ntrol",
+        "D. rem<u>o</u>te"
+      ],
       "correctIndex": 0,
       "explanation": "'Document' has /ɒ/ for 'o', while stroll /əʊ/, control /əʊ/, remote /əʊ/ all have the long /əʊ/ sound."
     },
@@ -26,7 +36,12 @@
       "id": 3,
       "type": "multiple-choice",
       "question": "Choose the word whose underlined part is pronounced differently from the others.",
-      "options": ["A. <u>a</u>verage", "B. w<u>a</u>ve", "C. p<u>a</u>vement", "D. r<u>a</u>nge"],
+      "options": [
+        "A. <u>a</u>verage",
+        "B. w<u>a</u>ve",
+        "C. p<u>a</u>vement",
+        "D. r<u>a</u>nge"
+      ],
       "correctIndex": 0,
       "explanation": "'Average' has /æ/ for 'a', while 'wave', 'pavement', 'range' have /eɪ/. The 'a' in 'average' is the odd one out."
     },
@@ -34,7 +49,12 @@
       "id": 4,
       "type": "multiple-choice",
       "question": "Choose the word whose underlined part is pronounced differently from the others.",
-      "options": ["A. s<u>u</u>gar", "B. p<u>u</u>t", "C. b<u>u</u>t", "D. f<u>u</u>ll"],
+      "options": [
+        "A. s<u>u</u>gar",
+        "B. p<u>u</u>t",
+        "C. b<u>u</u>t",
+        "D. f<u>u</u>ll"
+      ],
       "correctIndex": 2,
       "explanation": "'But' has /ʌ/ for 'u', while sugar /ʊ/, put /ʊ/, full /ʊ/ all have the short /ʊ/ sound."
     },
@@ -42,7 +62,12 @@
       "id": 5,
       "type": "multiple-choice",
       "question": "Choose the word whose underlined part is pronounced differently from the others.",
-      "options": ["A. wash<u>ed</u>", "B. consider<u>ed</u>", "C. book<u>ed</u>", "D. hop<u>ed</u>"],
+      "options": [
+        "A. wash<u>ed</u>",
+        "B. consider<u>ed</u>",
+        "C. book<u>ed</u>",
+        "D. hop<u>ed</u>"
+      ],
       "correctIndex": 1,
       "explanation": "'Considered' ends in /d/ sound (voiced ending before -ed). The others end in /t/ because they follow voiceless consonants. 'Considered' = /d/, rest = /t/."
     },
@@ -50,7 +75,12 @@
       "id": 6,
       "type": "multiple-choice",
       "question": "Choose the word whose underlined part is pronounced differently from the others.",
-      "options": ["A. str<u>ea</u>m", "B. l<u>ea</u>ther", "C. cr<u>ea</u>m", "D. dr<u>ea</u>m"],
+      "options": [
+        "A. str<u>ea</u>m",
+        "B. l<u>ea</u>ther",
+        "C. cr<u>ea</u>m",
+        "D. dr<u>ea</u>m"
+      ],
       "correctIndex": 1,
       "explanation": "'Leather' has /e/ for 'ea', while stream, cream, dream all have /iː/. Think: leather = /leðə/, but dream = /driːm/."
     },
@@ -58,7 +88,12 @@
       "id": 7,
       "type": "multiple-choice",
       "question": "Choose the word whose underlined part is pronounced differently from the others.",
-      "options": ["A. r<u>e</u>ason", "B. imm<u>e</u>diate", "C. m<u>e</u>dium", "D. m<u>e</u>dicine"],
+      "options": [
+        "A. r<u>e</u>ason",
+        "B. imm<u>e</u>diate",
+        "C. m<u>e</u>dium",
+        "D. m<u>e</u>dicine"
+      ],
       "correctIndex": 3,
       "explanation": "'Medicine' has /e/ (short) for the first 'e', while the others have /iː/ (long e). Medicine = /ˈmedsɪn/, reason = /ˈriːzən/, immediate = /ɪˈmiːdiət/, medium = /ˈmiːdiəm/."
     },
@@ -66,7 +101,12 @@
       "id": 8,
       "type": "multiple-choice",
       "question": "Choose the word whose underlined part is pronounced differently from the others.",
-      "options": ["A. b<u>u</u>ry", "B. h<u>u</u>rry", "C. h<u>u</u>ngry", "D. th<u>u</u>nder"],
+      "options": [
+        "A. b<u>u</u>ry",
+        "B. h<u>u</u>rry",
+        "C. h<u>u</u>ngry",
+        "D. th<u>u</u>nder"
+      ],
       "correctIndex": 0,
       "explanation": "'Bury' is pronounced /ˈberi/ with /e/ sound, while hurry, hungry, thunder all have /ʌ/. Bury is a tricky word!"
     },
@@ -74,7 +114,12 @@
       "id": 9,
       "type": "multiple-choice",
       "question": "Choose the word whose underlined part is pronounced differently from the others.",
-      "options": ["A. plant<u>ed</u>", "B. work<u>ed</u>", "C. want<u>ed</u>", "D. need<u>ed</u>"],
+      "options": [
+        "A. plant<u>ed</u>",
+        "B. work<u>ed</u>",
+        "C. want<u>ed</u>",
+        "D. need<u>ed</u>"
+      ],
       "correctIndex": 1,
       "explanation": "'Worked' has -ed pronounced /t/ (after voiceless /k/). The others have /ɪd/ because they end in /t/ or /d/: planted, wanted, needed."
     },
@@ -82,7 +127,12 @@
       "id": 10,
       "type": "multiple-choice",
       "question": "Choose the word whose underlined part is pronounced differently from the others.",
-      "options": ["A. b<u>ea</u>ch", "B. cl<u>ea</u>n", "C. inst<u>ea</u>d", "D. l<u>ea</u>ve"],
+      "options": [
+        "A. b<u>ea</u>ch",
+        "B. cl<u>ea</u>n",
+        "C. inst<u>ea</u>d",
+        "D. l<u>ea</u>ve"
+      ],
       "correctIndex": 2,
       "explanation": "'Instead' has /e/ for 'ea', while beach, clean, leave all have /iː/. Instead = /ɪnˈsted/."
     },
@@ -90,7 +140,12 @@
       "id": 11,
       "type": "multiple-choice",
       "question": "Choose the word whose underlined part is pronounced differently from the others.",
-      "options": ["A. inform<u>ed</u>", "B. impress<u>ed</u>", "C. install<u>ed</u>", "D. admir<u>ed</u>"],
+      "options": [
+        "A. inform<u>ed</u>",
+        "B. impress<u>ed</u>",
+        "C. install<u>ed</u>",
+        "D. admir<u>ed</u>"
+      ],
       "correctIndex": 1,
       "explanation": "'Impressed' has -ed = /t/ (after voiceless /s/). The others have -ed = /d/ (after voiced sounds): informed, installed, admired."
     },
@@ -98,7 +153,12 @@
       "id": 12,
       "type": "multiple-choice",
       "question": "Choose the word whose underlined part is pronounced differently from the others.",
-      "options": ["A. pl<u>a</u>net", "B. f<u>a</u>shion", "C. tr<u>a</u>vel", "D. n<u>a</u>ture"],
+      "options": [
+        "A. pl<u>a</u>net",
+        "B. f<u>a</u>shion",
+        "C. tr<u>a</u>vel",
+        "D. n<u>a</u>ture"
+      ],
       "correctIndex": 3,
       "explanation": "'Nature' has /eɪ/ for 'a', while planet, fashion, travel all have /æ/. Nature = /ˈneɪtʃə/."
     },
@@ -106,7 +166,12 @@
       "id": 13,
       "type": "multiple-choice",
       "question": "Choose the word whose underlined part is pronounced differently from the others.",
-      "options": ["A. h<u>u</u>t", "B. d<u>o</u>ne", "C. d<u>o</u>nate", "D. t<u>u</u>nnel"],
+      "options": [
+        "A. h<u>u</u>t",
+        "B. d<u>o</u>ne",
+        "C. d<u>o</u>nate",
+        "D. t<u>u</u>nnel"
+      ],
       "correctIndex": 2,
       "explanation": "'Donate' has /əʊ/ for 'o', while hut, done, tunnel all have /ʌ/ sound. Donate = /dəʊˈneɪt/."
     },
@@ -114,7 +179,12 @@
       "id": 14,
       "type": "multiple-choice",
       "question": "Choose the word whose underlined part is pronounced differently from the others.",
-      "options": ["A. <u>ch</u>emistry", "B. me<u>ch</u>anic", "C. <u>ch</u>aracter", "D. para<u>ch</u>ute"],
+      "options": [
+        "A. <u>ch</u>emistry",
+        "B. me<u>ch</u>anic",
+        "C. <u>ch</u>aracter",
+        "D. para<u>ch</u>ute"
+      ],
       "correctIndex": 3,
       "explanation": "'Parachute' has 'ch' = /ʃ/, while chemistry, mechanic, character all have 'ch' = /k/. These are Greek-origin words."
     },
@@ -122,7 +192,12 @@
       "id": 15,
       "type": "multiple-choice",
       "question": "Choose the word whose underlined part is pronounced differently from the others.",
-      "options": ["A. reduc<u>ed</u>", "B. realiz<u>ed</u>", "C. arriv<u>ed</u>", "D. compar<u>ed</u>"],
+      "options": [
+        "A. reduc<u>ed</u>",
+        "B. realiz<u>ed</u>",
+        "C. arriv<u>ed</u>",
+        "D. compar<u>ed</u>"
+      ],
       "correctIndex": 0,
       "explanation": "'Reduced' has -ed = /t/ (after voiceless /s/). The others have -ed = /d/ (after voiced sounds): realized, arrived, compared."
     },
@@ -130,7 +205,12 @@
       "id": 16,
       "type": "multiple-choice",
       "question": "Choose the word whose underlined part is pronounced differently from the others.",
-      "options": ["A. br<u>ea</u>the", "B. decr<u>ea</u>se", "C. l<u>ea</u>ther", "D. b<u>ea</u>ch"],
+      "options": [
+        "A. br<u>ea</u>the",
+        "B. decr<u>ea</u>se",
+        "C. l<u>ea</u>ther",
+        "D. b<u>ea</u>ch"
+      ],
       "correctIndex": 2,
       "explanation": "'Leather' has 'ea' = /e/, while breathe, decrease, beach all have 'ea' = /iː/. Leather = /ˈleðə/."
     },
@@ -138,7 +218,12 @@
       "id": 17,
       "type": "multiple-choice",
       "question": "Choose the word whose underlined part is pronounced differently from the others.",
-      "options": ["A. m<u>ow</u>", "B. l<u>ow</u>", "C. sh<u>ow</u>", "D. c<u>ow</u>"],
+      "options": [
+        "A. m<u>ow</u>",
+        "B. l<u>ow</u>",
+        "C. sh<u>ow</u>",
+        "D. c<u>ow</u>"
+      ],
       "correctIndex": 3,
       "explanation": "'Cow' has 'ow' = /aʊ/, while mow, low, show all have /əʊ/. Think: cow rhymes with 'how', but the others rhyme with 'go'."
     },
@@ -146,7 +231,12 @@
       "id": 18,
       "type": "multiple-choice",
       "question": "Choose the word whose underlined part is pronounced differently from the others.",
-      "options": ["A. speak<u>s</u>", "B. learn<u>s</u>", "C. send<u>s</u>", "D. know<u>s</u>"],
+      "options": [
+        "A. speak<u>s</u>",
+        "B. learn<u>s</u>",
+        "C. send<u>s</u>",
+        "D. know<u>s</u>"
+      ],
       "correctIndex": 0,
       "explanation": "'Speaks' has -s = /s/ (after voiceless /k/). The others have -s = /z/ (after voiced sounds): learns, sends, knows."
     },
@@ -154,7 +244,12 @@
       "id": 19,
       "type": "multiple-choice",
       "question": "Choose the word whose underlined part is pronounced differently from the others.",
-      "options": ["A. invi<u>t</u>e", "B. fain<u>t</u>", "C. pa<u>t</u>ient", "D. vic<u>t</u>im"],
+      "options": [
+        "A. invi<u>t</u>e",
+        "B. fain<u>t</u>",
+        "C. pa<u>t</u>ient",
+        "D. vic<u>t</u>im"
+      ],
       "correctIndex": 2,
       "explanation": "'Patient' has 'ti' = /ʃ/ (before -ent), while invite, faint, victim all have /t/. Patient = /ˈpeɪʃənt/."
     },
@@ -162,7 +257,12 @@
       "id": 20,
       "type": "multiple-choice",
       "question": "Choose the word whose underlined part is pronounced differently from the others.",
-      "options": ["A. <u>a</u>ward", "B. c<u>a</u>ndidate", "C. underst<u>a</u>nd", "D. ex<u>a</u>mine"],
+      "options": [
+        "A. <u>a</u>ward",
+        "B. c<u>a</u>ndidate",
+        "C. underst<u>a</u>nd",
+        "D. ex<u>a</u>mine"
+      ],
       "correctIndex": 0,
       "explanation": "'Award' has 'a' = /ə/ (schwa), while candidate, understand, examine all have 'a' = /æ/. Award = /əˈwɔːd/."
     }
