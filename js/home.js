@@ -6,6 +6,11 @@ const STAR_EMPTY = '\u2606';
 
 const HomePage = {
   init() {
+    // Init Telegram from URL params (saves to localStorage)
+    if (typeof Telegram !== 'undefined') {
+      Telegram.init();
+    }
+
     this.updateStats();
     this.updateTopicStatuses();
     this.setupTelegramBanner();
@@ -20,28 +25,11 @@ const HomePage = {
     document.getElementById('stat-completed').textContent = completed;
     document.getElementById('stat-score').textContent = totalScore;
 
-    const streak = this.calculateStreak();
+    const streak = Logic.calculateStreak(
+      Storage.load('daily-history', {}),
+      new Date().toISOString().slice(0, 10)
+    );
     document.getElementById('stat-streak').textContent = streak;
-  },
-
-  calculateStreak() {
-    const history = Storage.load('daily-history', {});
-    let streak = 0;
-    let date = new Date();
-    const today = date.toISOString().slice(0, 10);
-
-    while (true) {
-      const key = date.toISOString().slice(0, 10);
-      if (history[key]) {
-        streak++;
-        date.setDate(date.getDate() - 1);
-      } else if (key === today) {
-        date.setDate(date.getDate() - 1);
-      } else {
-        break;
-      }
-    }
-    return streak;
   },
 
   updateTopicStatuses() {
@@ -73,19 +61,29 @@ const HomePage = {
   },
 
   setupTelegramBanner() {
-    const tgBotUrl = Storage.load('telegram-bot-url', null);
     const banner = document.getElementById('tg-banner');
-    if (!tgBotUrl) {
+    if (!banner) return;
+
+    const isConnected = typeof Telegram !== 'undefined' && Telegram.isConfigured();
+    const studentName = typeof Telegram !== 'undefined' ? Telegram.studentName : null;
+
+    if (isConnected) {
+      // Show connected state
       banner.style.display = 'flex';
-      banner.href = '#';
-      banner.addEventListener('click', (e) => {
-        e.preventDefault();
-        const url = prompt('Nhập link Telegram bot:');
-        if (url) {
-          Storage.save('telegram-bot-url', url);
-          banner.style.display = 'none';
+      const textEl = banner.querySelector('.tg-banner__text');
+      if (textEl) {
+        const strong = textEl.querySelector('strong');
+        const desc = textEl.childNodes[textEl.childNodes.length - 1];
+        if (strong) strong.textContent = 'Telegram: ' + (studentName || 'Kết nối thành công');
+        if (desc && desc.nodeType === 3) {
+          desc.textContent = 'Tiến độ học tập sẽ được gửi tự động';
         }
-      });
+      }
+      banner.style.cursor = 'default';
+      banner.removeAttribute('href');
+    } else {
+      // Not connected — hide banner (teacher shares URL with params)
+      banner.style.display = 'none';
     }
   }
 };

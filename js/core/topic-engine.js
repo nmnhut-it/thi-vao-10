@@ -35,8 +35,12 @@ const TopicEngine = {
     this.renderExercises();
     this.updateProgress();
 
-    // Record daily activity
+    // Record daily activity + Telegram attendance
     this.recordDailyActivity();
+    if (typeof Telegram !== 'undefined') {
+      Telegram.init();
+      Telegram.sendAttendance();
+    }
   },
 
   countQuestions(exercises) {
@@ -552,23 +556,11 @@ const TopicEngine = {
   },
 
   async sendTelegramProgress(correct, total, stars) {
-    const botUrl = Storage.load('telegram-bot-url', null);
-    if (!botUrl) return;
-
-    const msg = [
-      '\u2705 ' + (this.state.data.title || this.state.topicId),
-      'Kết quả: ' + correct + '/' + total + ' (' + Math.round(correct/total*100) + '%)',
-      '\u2B50 ' + stars + '/3 sao'
-    ].join('\n');
-
-    try {
-      await fetch(botUrl, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ message: msg })
-      });
-    } catch (e) {
-      // Silently fail - don't disrupt UX
+    if (typeof Telegram !== 'undefined' && Telegram.isConfigured()) {
+      await Telegram.sendProgress(
+        this.state.data.title || this.state.topicId,
+        correct, total, stars
+      );
     }
   }
 };

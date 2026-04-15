@@ -71,6 +71,7 @@ const TOPIC_TEMPLATE = (topicId, title) => `<!DOCTYPE html>
 
   <script src="../js/core/storage.js"></script>
   <script src="../js/core/logic.js"></script>
+  <script src="../js/core/telegram.js"></script>
   <script src="../js/core/topic-engine.js"></script>
   <script>
     document.addEventListener('DOMContentLoaded', () => TopicEngine.init('${topicId}'));
@@ -127,6 +128,7 @@ const TEST_TEMPLATE = (testId, title, meta) => `<!DOCTYPE html>
 
   <script src="../js/core/storage.js"></script>
   <script src="../js/core/logic.js"></script>
+  <script src="../js/core/telegram.js"></script>
   <script src="../js/core/topic-engine.js"></script>
   <script src="../js/core/test-engine.js"></script>
   <script>
