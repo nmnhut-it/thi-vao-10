@@ -1,0 +1,216 @@
+{
+  "topicId": "grammar-phrases-clauses",
+  "title": "Phrases & Clauses (Cum Tu & Menh De)",
+  "section": "grammar",
+  "knowledge": {
+    "html": "<h2>XI. PHRASES & CLAUSES (CUM TU & MENH DE)</h2><h3>1. Cum tu va menh de chi su tuong phan (although / in spite of)</h3><table class=\"grammar-table\"><tr><th>Cum tu chi su tuong phan (mac du)</th><th>Menh de chi su tuong phan (mac du)</th></tr><tr><td>In spite of / Despite + Danh tu / Ngu danh tu / V-ing</td><td>Although / Even though / Though + S + V<br>Despite the fact that<br>In spite of the fact that</td></tr></table><div class=\"example\">Ex: Despite his laziness, he passed the exam.<br>Ex: Although <strong>he was lazy</strong>, he passed the exam.</div><h3>2. Cum tu va menh de chi ly do (because / because of...)</h3><table class=\"grammar-table\"><tr><th>Cum tu chi ly do</th><th>Menh de chi ly do</th></tr><tr><td>Because of / Due to / Owing to + Danh tu / Ngu danh tu / V-ing</td><td>Because / As / Since + S + V, S + V<br>due to the fact that<br>owing to the fact that</td></tr></table><h3>3. Cum tu va menh de chi muc dich (in order to / so that...)</h3><table class=\"grammar-table\"><tr><th>Cum tu chi muc dich</th><th>Menh de chi muc dich</th></tr><tr><td>(in order (not) to / so as (not) to) + V1</td><td>so that + S + will/would/can/could/may/might + V1<br>in order that + S + can/could + V1</td></tr></table><p class=\"vi\">Luu y: Sau \"want, hope\" co tan ngu -> dem tan ngu lam chu tu cho menh de 2.</p><div class=\"example\">Ex: He gave me his address. He wanted me to contact him.<br>=> He gave me his address so that I could contact him.</div><h3>4. Cum tu va menh de chi ket qua</h3><h4>a. too...to / enough</h4><div class=\"formula\">too...to: qua...khong the<br>S + V + too + adj/adv + to V<br>S + V + too + adj + for O + to V<br><br>enough: du...de<br>S + be + adj + enough + (for O) + to V1<br>S + V + enough + N + (for O) + to V1</div><h4>b. so...that / such...that</h4><div class=\"formula\">so...that:<br>S + V + so + adj/adv + that + S + V<br>S + V + so + adj + a + N(it) + that + S + V<br>S + V + so + many/few + N(nhieu) + that + S + V<br>S + V + so + much/little + N(kdd) + that + S + V<br><br>such...that:<br>S + V + such + a/an + adj + N(it) + that + S + V<br>S + V + such + adj + N(nhieu) + that + S + V<br>S + V + such + adj + N(kdd) + that + S + V</div><h4>Dao ngu voi \"so\"</h4><div class=\"formula\">S1 + V + so + adj/adv + that + S + V<br><=> So + adj/adv + V + S1 + that + S + V</div><h4>Mac du (concession):</h4><div class=\"formula\">- Adj/adv + as/though + S + V<br>- However + Adj/Adv + S + V<br>- No matter Wh- + ADJ + S + V (no matter what/how/when/where = whatever/however)<br>- Despite = in spite of + NP<br>- Although/though/even though + Clause</div><h3>5. Clauses of manner (md chi the cach): AS IF & AS THOUGH</h3><table class=\"grammar-table\"><tr><th>Tinh huong</th><th>Cong thuc</th><th>Vi du</th></tr><tr><td>Dieu khong co that o hien tai</td><td>S + V + as if/as though + S + V2/Ved<br>(dung 'were' cho tat ca)</td><td>She dresses as if she was/were an actress.</td></tr><tr><td>Dieu khong co that o qua khu</td><td>S + Vqk + as if/as though + S + had + V3/ved</td><td>He talked about New York as though he had been there before.</td></tr></table><h3>*Would rather</h3><table class=\"grammar-table\"><tr><th>Tinh huong</th><th>Cong thuc</th><th>Vi du</th></tr><tr><td>Gia thiet o HT hoac TL</td><td>S1 + would rather that + S2 + V2/ed</td><td>Mary would rather that her husband worked in the same office as she does.</td></tr><tr><td>Gia thiet o Qua Khu</td><td>S1 + would rather that + S2 + had + V3/V-ed</td><td>She would rather that her husband had gone to the office yesterday.</td></tr></table>"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "Did you like the band last night? Yes, _____ I bought their record.",
+      "options": ["A. such much", "B. so much that", "C. very much that", "D. too much that"],
+      "correctIndex": 1,
+      "explanation": "'so much that' = nhieu den muc ma... Cau truc: so + adv + that."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "That's a beautiful dress jean has on. She always wears _____ clothes.",
+      "options": ["A. such a lovely", "B. so lovely", "C. such lovely", "D. so much lovely"],
+      "correctIndex": 2,
+      "explanation": "'such + adj + N(so nhieu)' => 'such lovely clothes'."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "Jill and Jolly were happy _____ it was their both birthday party that day.",
+      "options": ["A. because", "B. even though", "C. spite of", "D. Despite"],
+      "correctIndex": 0,
+      "explanation": "Can menh de chi ly do (S + V) => 'because'."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "Nobody could hear her _____ she spoke too quietly.",
+      "options": ["A. although", "B. because", "C. because of", "D. in spite of"],
+      "correctIndex": 1,
+      "explanation": "Theo sau la menh de (S + V) chi ly do => 'because'."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "Paul is a very competent salesperson. He's _____ good that I am going to give him a raise and a promotion.",
+      "options": ["A. definite", "B. definitely", "C. so", "D. so much"],
+      "correctIndex": 2,
+      "explanation": "'so + adj + that' => 'so good that...'."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "A tree had fallen during the storm, _____ the road was blocked and we couldn't go anywhere.",
+      "options": ["A. such that", "B. so that", "C. in order that", "D. but"],
+      "correctIndex": 1,
+      "explanation": "'so that' chi ket qua: vi vay ma duong bi chan."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "There has been a reduction in the oil supply and increased demand, _____ price has risen.",
+      "options": ["A. but", "B. so", "C. and", "D. in order that"],
+      "correctIndex": 1,
+      "explanation": "'so' noi ket qua: nguon cung giam + cau tang => gia tang."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "_____ he has a headache, he has to take an aspirin.",
+      "options": ["A. How", "B. Because", "C. Where", "D. Although"],
+      "correctIndex": 1,
+      "explanation": "Ly do (bi dau dau) => ket qua (phai uong thuoc) => 'Because'."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "_____ he always did well on his English tests, his parents were not surprised that he got an B level.",
+      "options": ["A. When", "B. Since", "C. Because of", "D. Although"],
+      "correctIndex": 1,
+      "explanation": "'Since' = vi (chi ly do). Anh ta luon lam tot => bo me khong ngac nhien."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "Our visit to Japan was delayed _____ my wife's illness.",
+      "options": ["A. because", "B. because of", "C. thanks to", "D. though"],
+      "correctIndex": 1,
+      "explanation": "Sau cho trong la danh tu ('my wife's illness') => 'because of'."
+    },
+    {
+      "id": 11,
+      "type": "error-correct",
+      "wrongSentence": "Although our grandfather was old but he could help us.",
+      "correctSentence": "Although our grandfather was old, he could help us.",
+      "errorWord": "but",
+      "correction": "(remove 'but')",
+      "explanation": "'Although' va 'but' khong dung cung nhau. Bo 'but'."
+    },
+    {
+      "id": 12,
+      "type": "error-correct",
+      "wrongSentence": "My friends advised her to stop doing the housework because her old age.",
+      "correctSentence": "My friends advised her to stop doing the housework because of her old age.",
+      "errorWord": "because",
+      "correction": "because of",
+      "explanation": "Sau 'because' can menh de (S+V). Truoc danh tu phai dung 'because of'."
+    },
+    {
+      "id": 13,
+      "type": "error-correct",
+      "wrongSentence": "He tried to explain, so she refused to listen.",
+      "correctSentence": "He tried to explain, but she refused to listen.",
+      "errorWord": "so",
+      "correction": "but",
+      "explanation": "Hai menh de tuong phan nhau (co giai thich nhung tu choi nghe) => dung 'but'."
+    },
+    {
+      "id": 14,
+      "type": "error-correct",
+      "wrongSentence": "Despite of growing industrial activity, the majority of the American people continued to make their living from farming until the beginning of the twentieth century.",
+      "correctSentence": "Despite growing industrial activity, the majority of the American people continued to make their living from farming until the beginning of the twentieth century.",
+      "errorWord": "Despite of",
+      "correction": "Despite",
+      "explanation": "'Despite' khong di voi 'of'. Chi co 'In spite of' moi co 'of'."
+    },
+    {
+      "id": 15,
+      "type": "error-correct",
+      "wrongSentence": "She turned down the radio so as to disturb the neighbors.",
+      "correctSentence": "She turned down the radio so as not to disturb the neighbors.",
+      "errorWord": "so as to",
+      "correction": "so as not to",
+      "explanation": "Vat am thanh nho lai de KHONG lam phien hang xom => 'so as not to'."
+    },
+    {
+      "id": 16,
+      "type": "sentence-rewrite",
+      "original": "The kind of milk is so bad that the child can't drink it more.",
+      "instruction": "Rewrite without changing meaning.",
+      "starterText": "The kind of milk is",
+      "answer": "The kind of milk is too bad for the child to drink.",
+      "explanation": "so + adj + that S + can't => too + adj + for O + to V."
+    },
+    {
+      "id": 17,
+      "type": "sentence-rewrite",
+      "original": "The food was so good that we ate all of it.",
+      "instruction": "Rewrite without changing meaning.",
+      "starterText": "It was",
+      "answer": "It was such good food that we ate all of it.",
+      "explanation": "so + adj => such + adj + N."
+    },
+    {
+      "id": 18,
+      "type": "sentence-rewrite",
+      "original": "The patient was too weak to get up.",
+      "instruction": "Rewrite without changing meaning.",
+      "starterText": "The patient was so",
+      "answer": "The patient was so weak that he/she couldn't get up.",
+      "explanation": "too + adj + to V => so + adj + that + S + can't/couldn't + V."
+    },
+    {
+      "id": 19,
+      "type": "sentence-rewrite",
+      "original": "This room is too dark for me to study.",
+      "instruction": "Rewrite without changing meaning.",
+      "starterText": "This room is",
+      "answer": "This room is not bright enough for me to study.",
+      "explanation": "too + adj (negative) => not + adj (opposite) + enough."
+    },
+    {
+      "id": 20,
+      "type": "sentence-rewrite",
+      "original": "This room is too small for us to hold the meeting.",
+      "instruction": "Rewrite without changing meaning.",
+      "starterText": "This room isn't large",
+      "answer": "This room isn't large enough for us to hold the meeting.",
+      "explanation": "too small => not large enough."
+    },
+    {
+      "id": 21,
+      "type": "sentence-rewrite",
+      "original": "The test was so difficult that we couldn't do it.",
+      "instruction": "Rewrite without changing meaning.",
+      "starterText": "The test was not",
+      "answer": "The test was not easy enough for us to do.",
+      "explanation": "so difficult that couldn't => not easy enough to."
+    },
+    {
+      "id": 22,
+      "type": "sentence-rewrite",
+      "original": "He spoke so fast that we couldn't hear him well.",
+      "instruction": "Rewrite without changing meaning.",
+      "starterText": "He didn't speak",
+      "answer": "He didn't speak slowly enough for us to hear him well.",
+      "explanation": "so fast that couldn't => not slowly enough to."
+    },
+    {
+      "id": 23,
+      "type": "sentence-rewrite",
+      "original": "Although she didn't want to see The Lord of the Rings, she enjoyed it in the end.",
+      "instruction": "Rewrite without changing meaning.",
+      "starterText": "In spite of",
+      "answer": "In spite of not wanting to see The Lord of the Rings, she enjoyed it in the end.",
+      "explanation": "Although + S + V => In spite of + V-ing (phu dinh: not V-ing)."
+    },
+    {
+      "id": 24,
+      "type": "sentence-rewrite",
+      "original": "They visited Madrid although they didn't have time to visit El Prado.",
+      "instruction": "Rewrite without changing meaning.",
+      "starterText": "They visited Madrid despite",
+      "answer": "They visited Madrid despite not having time to visit El Prado.",
+      "explanation": "although + S + V => despite + V-ing."
+    }
+  ]
+}

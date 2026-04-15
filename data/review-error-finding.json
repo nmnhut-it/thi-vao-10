@@ -1,0 +1,145 @@
+{
+  "topicId": "review-error-finding",
+  "title": "Tong On Tim Loi Sai",
+  "section": "grammar",
+  "knowledge": {
+    "html": "<h3>Tim Loi Sai (Error Finding)</h3><p>Chon tu/cum tu gach chan co loi sai trong cau. Cac loi thuong gap:</p><ul><li>Chia dong tu (subject-verb agreement, tense)</li><li>Tu loai (noun/verb/adj/adv dung sai vi tri)</li><li>Gioi tu</li><li>Mao tu</li><li>Cau truc ngu phap</li></ul>"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "error-correct",
+      "wrongSentence": "People are worry about COVID-19 Pandemic, which has caused huge human tolls.",
+      "correctSentence": "People are worried about COVID-19 Pandemic, which has caused huge human tolls.",
+      "errorWord": "worry",
+      "correction": "worried",
+      "explanation": "After 'are' we need the adjective 'worried' (past participle), not the base verb 'worry.'"
+    },
+    {
+      "id": 2,
+      "type": "error-correct",
+      "wrongSentence": "Mr. Will is going to collect all the bags and taken them to the garbage dump.",
+      "correctSentence": "Mr. Will is going to collect all the bags and take them to the garbage dump.",
+      "errorWord": "taken",
+      "correction": "take",
+      "explanation": "After 'and' (parallel with 'collect'), we need the base form 'take,' not past participle 'taken.'"
+    },
+    {
+      "id": 3,
+      "type": "error-correct",
+      "wrongSentence": "The children laughed happy when they saw the monkeys eating bananas.",
+      "correctSentence": "The children laughed happily when they saw the monkeys eating bananas.",
+      "errorWord": "happy",
+      "correction": "happily",
+      "explanation": "We need the adverb 'happily' to modify the verb 'laughed,' not the adjective 'happy.'"
+    },
+    {
+      "id": 4,
+      "type": "error-correct",
+      "wrongSentence": "I asked him how far was it to the station if I went there by taxi.",
+      "correctSentence": "I asked him how far it was to the station if I went there by taxi.",
+      "errorWord": "was it",
+      "correction": "it was",
+      "explanation": "In reported questions, use statement word order (S + V), not question order."
+    },
+    {
+      "id": 5,
+      "type": "error-correct",
+      "wrongSentence": "Although he was tired, but he still went to work yesterday.",
+      "correctSentence": "Although he was tired, he still went to work yesterday.",
+      "errorWord": "but",
+      "correction": "(remove 'but')",
+      "explanation": "Cannot use both 'although' and 'but' in the same sentence -- they are both contrast connectors."
+    },
+    {
+      "id": 6,
+      "type": "error-correct",
+      "wrongSentence": "The artist tried stimulate interest in painting by talking his students to the museums.",
+      "correctSentence": "The artist tried to stimulate interest in painting by talking his students to the museums.",
+      "errorWord": "stimulate",
+      "correction": "to stimulate",
+      "explanation": "'Try + to V' means attempt to do something. Need 'to' before 'stimulate.'"
+    },
+    {
+      "id": 7,
+      "type": "error-correct",
+      "wrongSentence": "Mumps are a very common disease, which usually affects children.",
+      "correctSentence": "Mumps is a very common disease, which usually affects children.",
+      "errorWord": "are",
+      "correction": "is",
+      "explanation": "'Mumps' is an uncountable noun (disease name) and takes a singular verb 'is.'"
+    },
+    {
+      "id": 8,
+      "type": "error-correct",
+      "wrongSentence": "Before she moved here, Arlene had been president of the organization since four years.",
+      "correctSentence": "Before she moved here, Arlene had been president of the organization for four years.",
+      "errorWord": "since",
+      "correction": "for",
+      "explanation": "'Four years' is a duration, so use 'for' (not 'since' which needs a point in time)."
+    },
+    {
+      "id": 9,
+      "type": "error-correct",
+      "wrongSentence": "I really wish I have a laptop to replace this old-fashioned computer.",
+      "correctSentence": "I really wish I had a laptop to replace this old-fashioned computer.",
+      "errorWord": "have",
+      "correction": "had",
+      "explanation": "Wish + past simple for present unreal wishes. Need 'had' not 'have.'"
+    },
+    {
+      "id": 10,
+      "type": "error-correct",
+      "wrongSentence": "One of the most serious problem now is the spread of COVID-19.",
+      "correctSentence": "One of the most serious problems now is the spread of COVID-19.",
+      "errorWord": "problem",
+      "correction": "problems",
+      "explanation": "'One of the most + adj + plural noun.' Need 'problems' (plural)."
+    },
+    {
+      "id": 11,
+      "type": "error-correct",
+      "wrongSentence": "The bike he has just bought is more expensive as mine.",
+      "correctSentence": "The bike he has just bought is more expensive than mine.",
+      "errorWord": "as",
+      "correction": "than",
+      "explanation": "Comparative form: 'more expensive than' (not 'as')."
+    },
+    {
+      "id": 12,
+      "type": "error-correct",
+      "wrongSentence": "When I was a student, I loved reading and fill my free time with adventure novels.",
+      "correctSentence": "When I was a student, I loved reading and filling my free time with adventure novels.",
+      "errorWord": "fill",
+      "correction": "filling",
+      "explanation": "Parallel structure: 'loved reading and filling' -- both gerunds after 'loved.'"
+    },
+    {
+      "id": 13,
+      "type": "error-correct",
+      "wrongSentence": "When her doll was lost, she cried very hardly for half an hour.",
+      "correctSentence": "When her doll was lost, she cried very hard for half an hour.",
+      "errorWord": "hardly",
+      "correction": "hard",
+      "explanation": "'Hardly' means 'almost not.' 'Hard' is the correct adverb meaning 'with great effort/intensity.'"
+    },
+    {
+      "id": 14,
+      "type": "error-correct",
+      "wrongSentence": "You mustn't do any cooking as I've already prepared something.",
+      "correctSentence": "You needn't do any cooking as I've already prepared something.",
+      "errorWord": "mustn't",
+      "correction": "needn't",
+      "explanation": "'Mustn't' means prohibition. 'Needn't' means it's not necessary, which fits the context."
+    },
+    {
+      "id": 15,
+      "type": "error-correct",
+      "wrongSentence": "My sister has so many homeworks to do that she has no time to go out.",
+      "correctSentence": "My sister has so much homework to do that she has no time to go out.",
+      "errorWord": "many homeworks",
+      "correction": "much homework",
+      "explanation": "'Homework' is uncountable -- use 'much homework' not 'many homeworks.'"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "topicId": "grammar-quantifiers",
+  "title": "Quantifiers (Luong Tu)",
+  "section": "grammar",
+  "knowledge": {
+    "html": "<h2>XIII. QUANTIFIERS (LUONG TU)</h2><table class=\"grammar-table\"><tr><th>Cach dung</th><th>MANY</th><th>MUCH</th></tr><tr><td>Dien dat y nghia la <strong>\"NHIEU\"</strong></td><td>MANY = a large number of / a great many / a majority of / a wide variety of / a wide range of<br>- Dung voi danh tu dem duoc.</td><td>MUCH = a great deal of / a large amount of...<br>- Dung voi danh tu khong dem duoc.</td></tr><tr><td colspan=\"3\"><strong>MANY + MUCH = A lot of / lots of / plenty of / a (large) quantity of</strong><br>(Dung voi ca danh tu ca dem duoc va khong dem duoc).</td></tr></table><table class=\"grammar-table\"><tr><th>Y nghia</th><th>Dem duoc</th><th>Khong dem duoc</th></tr><tr><td><strong>\"MOT IT\"</strong></td><td>A FEW - Dung voi danh tu dem duoc.</td><td>A LITTLE - Dung voi danh tu khong dem duoc.</td></tr><tr><td><strong>\"HAU NHU KHONG / RAT IT\"</strong></td><td>FEW - Dung voi danh tu dem duoc.</td><td>LITTLE - Dung voi danh tu khong dem duoc.</td></tr></table><table class=\"grammar-table\"><tr><th>Y nghia</th><th>Cach dung</th></tr><tr><td><strong>\"MOT VAI\" - SOME</strong></td><td>Dung trong cau khang dinh va trong cau nghi van khi mang y moi/de nghi.</td></tr><tr><td><strong>\"BAT CU\" - ANY</strong></td><td>Dung trong cau phu dinh, nghi van va dung trong cau khang dinh khi no mang y nghia la \"bat cu\".</td></tr><tr><td><strong>\"TAT CA\" - ALL</strong></td><td>Dung de chi tu ba nguoi/vat (tat ca) tro len.</td></tr><tr><td><strong>\"CA HAI\" - BOTH</strong></td><td>Dung de chi ca hai nguoi/vat (ca hai).</td></tr><tr><td><strong>\"KHONG\" - NONE</strong></td><td>Dung de chi tu ba nguoi/vat tro len deu khong.</td></tr><tr><td><strong>\"KHONG\" - NEITHER/EITHER</strong></td><td>Dung de chi ca hai nguoi/vat deu khong.<br>+ Neither: dung trong cau khang dinh.<br>+ Either: dung trong cau phu dinh.</td></tr><tr><td><strong>\"HAU HET\" - MOST</strong></td><td>Most + N = most of + the/tinh tu so huu + N</td></tr></table><p class=\"vi\"><strong>Luu y:</strong> MOSTLY (chu yeu la): dung nhu mot trang tu. ALMOST (gan nhu): dung nhu mot trang tu bo tro cho dong tu, tinh tu, danh tu.</p><table class=\"grammar-table\"><tr><th>Y nghia</th><th>EACH</th><th>EVERY</th></tr><tr><td><strong>\"MOI/MOI\"</strong></td><td colspan=\"2\">EACH/EVERY: dung voi danh tu dem duoc so it.</td></tr><tr><td></td><td></td><td>Dung voi danh tu so nhieu khi co so luong cu the.</td></tr></table><table class=\"grammar-table\"><tr><th>Y nghia</th><th>OTHER</th><th>ANOTHER</th></tr><tr><td><strong>\"CAI KHAC/NGUOI KHAC\"</strong></td><td>- Other + danh tu khong dem duoc.<br>- Other + danh tu so nhieu.<br>- Other + ones.<br>- Others duoc su dung nhu dai tu.</td><td>- Another + danh tu so it.<br>- Another + one.<br>- Another + so dem + danh tu so nhieu.<br>- Another duoc su dung nhu dai tu.</td></tr></table><p><strong>Su khac nhau giua THE OTHER - THE OTHERS:</strong></p><ul><li><strong>The other:</strong> cai con lai trong hai cai, hoac nguoi con lai trong hai nguoi.</li><li><strong>The others:</strong> nhung cai con lai hoac nhung nguoi con lai trong mot nhom co nhieu thu hoac nhieu nguoi.</li></ul>"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "Andy spent _____ money at the supermarket.",
+      "options": ["A. many", "B. a lot of", "C. a number", "D. too"],
+      "correctIndex": 1,
+      "explanation": "'money' la danh tu khong dem duoc. 'a lot of' dung duoc voi ca dem duoc va khong dem duoc."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "There are _____ organizations to help the deaf and the blind.",
+      "options": ["A. much", "B. a little", "C. many", "D. little"],
+      "correctIndex": 2,
+      "explanation": "'organizations' la danh tu dem duoc so nhieu => 'many'."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "I'm very busy at the moment so it may take a _____ time to answer your letters.",
+      "options": ["A. little", "B. few", "C. lots of", "D. some"],
+      "correctIndex": 0,
+      "explanation": "'time' la danh tu khong dem duoc => 'a little' (mot it)."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "Very _____ people knew about the truth of the scandal.",
+      "options": ["A. few", "B. a few", "C. much", "D. little"],
+      "correctIndex": 0,
+      "explanation": "'Very few' = rat it (mang nghia phu dinh). 'people' la dem duoc => 'few'."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "Thank you for bringing me along. I never thought the trip could be so _____ fun.",
+      "options": ["A. many", "B. much", "C. few", "D. some"],
+      "correctIndex": 1,
+      "explanation": "'fun' la danh tu khong dem duoc => 'much'. 'so much fun' = vui den the."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "The accident looked serious but fortunately _____ people were injured.",
+      "options": ["A. many", "B. a lot of", "C. much", "D. few"],
+      "correctIndex": 3,
+      "explanation": "'fortunately' (may man) + it nguoi bi thuong => 'few' (rat it, mang y tich cuc khi di voi fortunately)."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "We didn't take _____ photographs when we were on holiday.",
+      "options": ["A. much", "B. a lot of", "C. many of", "D. a great deal of"],
+      "correctIndex": 1,
+      "explanation": "'photographs' la dem duoc. Trong cau phu dinh, 'a lot of' van dung duoc. 'many of' can co 'the' phia sau."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "_____ the students in my class enjoy taking part in social activities.",
+      "options": ["A. Most of", "B. Most", "C. Many", "D. The number of"],
+      "correctIndex": 0,
+      "explanation": "'the students' co mao tu 'the' => dung 'Most of the students'."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "He's always busy. He has _____ time to relax.",
+      "options": ["A. much", "B. little", "C. a little", "D. plenty of"],
+      "correctIndex": 1,
+      "explanation": "Luon ban => hau nhu khong co thoi gian => 'little' (rat it, mang nghia phu dinh)."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "She put so _____ salt in the soup that she couldn't have it. It was too salty.",
+      "options": ["A. many", "B. little", "C. much", "D. a little"],
+      "correctIndex": 2,
+      "explanation": "'salt' la khong dem duoc + 'so...that' => 'so much salt that'."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "We had a boring holiday. _____ the time we lay on the beach.",
+      "options": ["A. Most", "B. Much", "C. Most of", "D. Many of"],
+      "correctIndex": 2,
+      "explanation": "'the time' co mao tu => 'Most of the time'."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "How _____ students are there in your class?",
+      "options": ["A. little", "B. few", "C. much", "D. many"],
+      "correctIndex": 3,
+      "explanation": "'students' la dem duoc => 'How many'."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "I feel sorry for her. She has _____ friends.",
+      "options": ["A. many", "B. a few", "C. few", "D. a great deal of"],
+      "correctIndex": 2,
+      "explanation": "'feel sorry' => thuong co ay vi co rat it ban => 'few' (phu dinh)."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "I spent _____ my spare time gardening last year.",
+      "options": ["A. most of", "B. most", "C. many of", "D. a large number of"],
+      "correctIndex": 0,
+      "explanation": "'my spare time' co tinh tu so huu => 'most of my spare time'."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "He doesn't have so _____ friends as I think.",
+      "options": ["A. much", "B. little", "C. few", "D. many"],
+      "correctIndex": 3,
+      "explanation": "'friends' la dem duoc + 'so...as' => 'so many friends as'."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "With only _____ hope, Harry didn't know how to keep going another day.",
+      "options": ["A. little", "B. a little", "C. few", "D. a few"],
+      "correctIndex": 0,
+      "explanation": "'hope' la khong dem duoc + 'didn't know how to keep going' (tieu cuc) => 'little' (hau nhu khong)."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "How _____ money have you got?",
+      "options": ["A. many", "B. much", "C. a lot of", "D. a great deal of"],
+      "correctIndex": 1,
+      "explanation": "'money' la khong dem duoc => 'How much'."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "She has a lot of books, but only _____ books are interesting.",
+      "options": ["A. much", "B. little", "C. a few", "D. a little"],
+      "correctIndex": 2,
+      "explanation": "'books' la dem duoc + 'only' + nghia tich cuc (interesting) => 'a few'."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "He never spends too _____ money on his vacation.",
+      "options": ["A. much", "B. many", "C. a few", "D. a little"],
+      "correctIndex": 0,
+      "explanation": "'money' la khong dem duoc => 'too much money'."
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "_____ Indian men agreed that it was unwise to confide in their wives.",
+      "options": ["A. Many", "B. Much", "C. A little", "D. Little"],
+      "correctIndex": 0,
+      "explanation": "'Indian men' la dem duoc so nhieu => 'Many'."
+    }
+  ]
+}

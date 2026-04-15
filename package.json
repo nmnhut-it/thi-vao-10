@@ -1,0 +1,14 @@
+{
+  "name": "thi-vao-10",
+  "version": "1.0.0",
+  "description": "Interactive English exam prep for Vietnamese Grade 9 students",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "generate": "node scripts/generate-pages.js",
+    "validate": "node scripts/validate-data.js"
+  },
+  "devDependencies": {
+    "vitest": "^1.6.0"
+  }
+}

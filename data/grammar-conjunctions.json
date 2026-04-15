@@ -1,0 +1,314 @@
+{
+  "topicId": "grammar-conjunctions",
+  "title": "Conjunctions (Lien Tu)",
+  "section": "grammar",
+  "knowledge": {
+    "html": "<h2>XIV. CONJUNCTIONS (LIEN TU)</h2><h3>1. Lien tu ket hop / dang lap</h3><div class=\"formula\"><strong>CHUC NANG:</strong> La nhung tu hoac cum tu dung de noi 2 tu, 2 cum tu hay 2 menh de trong cau hoac 2 cau voi nhau.<br><strong>DAC DIEM:</strong> Noi cac tu hoac cum tu/nhom tu cung loai, hoac nhung menh de ngang hang nhau ve mat ngu phap.<br><strong>For, and, nor, but, or, yet, so (FANBOYS)</strong></div><ul><li>She is a good <strong>and</strong> loyal wife.</li><li>He is intelligent <strong>but</strong> very lazy.</li><li>She says she doesn't love me, <strong>yet</strong> I still love her.</li><li>We work hard, <strong>or</strong> we will fail the exam.</li><li>The shops were closed, <strong>so</strong> I didn't get any milk.</li><li>He will surely succeed, <strong>for</strong> he works hard.</li><li>That is not what I meant to say, <strong>nor</strong> should you interpret my statement as an admission of guilt.</li></ul><p class=\"vi\"><strong>Luu y:</strong> Sau \"nor\" bat buoc la 1 dong tu, nen neu chu ngu cua 2 menh de khac nhau thi khi ghep lai, phai dua dong tu hoac muu tro dong tu dung truoc chu ngu cua menh de thu 2.</p><div class=\"example\">He isn't rich, <strong>nor do</strong> I imagine that he ever will be.</div><h3>2. Lien tu tuong quan</h3><table class=\"grammar-table\"><tr><th>Cap lien tu</th><th>Giai thich &amp; Vi du</th></tr><tr><td><strong>Both...and...</strong><br>(vua...vua)</td><td>Khi noi hai chu ngu, dong tu chia so nhieu.<br><em>Both</em> my father <em>and</em> my mother <em>like</em> dogs.</td></tr><tr><td><strong>Either...or...</strong><br>(hoac...hoac)</td><td>He likes eating <em>both</em> fish <em>and</em> meat.<br>You can speak <em>either</em> slowly <em>or</em> fast.</td></tr><tr><td><strong>Neither...nor...</strong><br>(khong...ma cung khong)</td><td>She <em>neither</em> smokes <em>nor</em> drinks.<br>He is <em>not only</em> deaf <em>but also</em> dumb.</td></tr><tr><td><strong>Not only...but also...</strong><br>(khong nhung...ma con)</td><td><em>Not only</em> he <em>but also</em> his friend <em>likes</em> fish.<br><em>Either</em> he <em>or</em> his sisters <em>have been</em> there.</td></tr></table><p><strong>Quy luat can doi:</strong> Ve dau menh de dau \"either, neither, both, not only\" dung voi loai tu nao thi ve sau menh de sau \"or, nor, and, but also\" cung phai dung voi loai tu do.</p><p><strong>Quy tac gan nhat:</strong> Neu chu ngu khac nhau ve so (nhieu hay it) hay ve ngoi (person) thi dong tu chia theo chu ngu gan nhat.</p><table class=\"grammar-table\"><tr><th>Cap lien tu</th><th>Y nghia &amp; Vi du</th></tr><tr><td><strong>Whether...or...</strong></td><td>Have you made a decision about <em>whether</em> to go to the movies <em>or</em> not?</td></tr><tr><td><strong>If...then</strong></td><td>If that is the case, then I'm not surprised about what's happening.</td></tr><tr><td><strong>Not...but</strong></td><td>I don't want to do anything <em>but</em> sleep.</td></tr><tr><td><strong>No sooner...than</strong></td><td>S + had + no sooner + VP2 + than + S + Vqk<br>I had no sooner arrived home than the phone rang.</td></tr><tr><td><strong>Hardly/Barely/Scarcely...when</strong></td><td>S + had + hardly/barely/scarcely + VP2 + when/before + S + Vqk<br>I had hardly arrived home <em>when</em> the phone rang.</td></tr></table><p><strong>Dao ngu:</strong></p><div class=\"formula\">No sooner + had + S + VP2 + than + S + Vqk<br>Hardly/Barely/Scarcely + had + S + VP2 + when/before + S + Vqk</div><div class=\"example\">We had <em>no sooner</em> left out <em>than</em> they came in room.<br>=> <em>No sooner</em> had we left out <em>than</em> they came in room.<br>I had <em>hardly</em> arrived home <em>when</em> the phone rang.<br>=> <em>Hardly</em> had I arrived home <em>when</em> the phone rang.</div><h3>3. Lien tu phu thuoc</h3><table class=\"grammar-table\"><tr><th>Lien tu</th><th>Giai thich &amp; Vi du</th></tr><tr><td><strong>Though</strong> (mac du)</td><td>Lien tu, thuong dung dau cau hoac giua cau.<br><em>Though</em> he is poor, he is happy.<br>Cung la trang tu, thuong hay dung cuoi cau.<br>I am busy today. We could meet tomorrow, <em>though</em>.</td></tr><tr><td><strong>Although</strong> (mac du)</td><td>Chi dung dau hay giua cau, khong bao gio dung cuoi cau.<br><em>Although/though</em> I don't like him, I admit that he's a good manager.</td></tr><tr><td><strong>Even though</strong> (cho du)</td><td>Co sac thai y nghia manh hon <em>although</em>, noi ve tinh tat nhien se xay ra du voi dieu kien gi do.<br>You keep making that stupid noise <em>even though</em> I've asked you to stop three times.</td></tr><tr><td><strong>Even if</strong> (tham chi)</td><td>Dien ta 1 su viec co kha nang xay ra, nhung du co hay khong, cung khong anh huong den su viec o menh de chinh.<br><em>Even if</em> she studies hard, she won't pass the exam.</td></tr></table>"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "I don't like watching animation anymore, _____ my brother is still crazy about it.",
+      "options": ["A. also", "B. so", "C. but", "D. and"],
+      "correctIndex": 2,
+      "explanation": "Hai y tuong tuong phan (toi khong thich >< anh toi van me) => 'but'."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "He asked me to go _____ find his wallet in the office.",
+      "options": ["A. or", "B. so", "C. and", "D. if"],
+      "correctIndex": 2,
+      "explanation": "'go and find' = di va tim. Hai hanh dong noi tiep nhau => 'and'."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "I prepared all the possible questions for the interview this morning; _____, I failed it.",
+      "options": ["A. but", "B. however", "C. for", "D. instead"],
+      "correctIndex": 1,
+      "explanation": "Sau dau cham phay + truoc dau phay => 'however' (tuy nhien). 'but' thuong dung giua cau don."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "Skating is a good sport for players to keep fit. _____, it helps us to better control balance.",
+      "options": ["A. When", "B. Additionally", "C. So", "D. But"],
+      "correctIndex": 1,
+      "explanation": "'Additionally' = ngoai ra, dung de them thong tin bo sung."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "_____ I'm watching a documentary on TV, my sister is cycling around the village with her friends.",
+      "options": ["A. While", "B. Especially", "C. However", "D. Until"],
+      "correctIndex": 0,
+      "explanation": "Hai hanh dong xay ra dong thoi => 'While'."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "The teacher offered an extra test _____ the last result was bad.",
+      "options": ["A. for", "B. also", "C. before", "D. then"],
+      "correctIndex": 0,
+      "explanation": "'for' = boi vi (lien tu chi ly do, van viet). Giao vien cho thi them vi ket qua lan truoc te."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "To protect the environment, our school started a clean-up campaign _____ planted trees on the campus.",
+      "options": ["A. and", "B. when", "C. for", "D. so"],
+      "correctIndex": 0,
+      "explanation": "Hai hanh dong song song: khoi dong chien dich + trong cay => 'and'."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "Folk music isn't popular among teenagers, _____ I still love its melody.",
+      "options": ["A. so", "B. because", "C. also", "D. but"],
+      "correctIndex": 3,
+      "explanation": "Tuong phan: khong pho bien >< van yeu thich => 'but'."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "My family often drink green tea _____ we already have meals.",
+      "options": ["A. before", "B. then", "C. after", "D. when"],
+      "correctIndex": 2,
+      "explanation": "Uong tra SAU khi an com => 'after'."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "Spring rolls are kids' favorite food _____ they're very tasty.",
+      "options": ["A. so", "B. after", "C. both", "D. because"],
+      "correctIndex": 3,
+      "explanation": "Ly do (vi ngon) => 'because'."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "Many foreign tourists enjoy _____ normal dishes and traditional ones.",
+      "options": ["A. and", "B. both", "C. but", "D. then"],
+      "correctIndex": 1,
+      "explanation": "'both...and' => 'both normal dishes and traditional ones'."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "Now, open your textbook _____ do the exercises on page 21.",
+      "options": ["A. also", "B. next", "C. before", "D. and"],
+      "correctIndex": 3,
+      "explanation": "Hai menh lenh noi tiep: mo sach VA lam bai => 'and'."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "First, add sugar to water and stir well. _____, squeeze lemonade in and your lemon juice is done.",
+      "options": ["A. Next", "B. And", "C. For", "D. But"],
+      "correctIndex": 0,
+      "explanation": "'First...Next' chi trinh tu cac buoc => 'Next'."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "Remember to fasten your seatbelt _____ driving.",
+      "options": ["A. before", "B. after", "C. then", "D. when"],
+      "correctIndex": 0,
+      "explanation": "That day an toan TRUOC khi lai xe => 'before'."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "After the death of his parents, he never smiles _____ laughs.",
+      "options": ["A. as", "B. or", "C. instead", "D. however"],
+      "correctIndex": 1,
+      "explanation": "Khong cuoi va cung khong... => 'never smiles or laughs' (dung 'or' trong cau phu dinh)."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "The Vietnamese national team has won 2 silvers _____ 1 gold medals in the gymnastics.",
+      "options": ["A. but", "B. and", "C. so", "D. also"],
+      "correctIndex": 1,
+      "explanation": "2 huy chuong bac VA 1 vang => 'and'."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "I know that staying up late is a bad habit, _____ I can't give up it.",
+      "options": ["A. after", "B. before", "C. also", "D. but"],
+      "correctIndex": 3,
+      "explanation": "Tuong phan: biet la xau NHUNG khong bo duoc => 'but'."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "My father is a photographer who _____ writes books.",
+      "options": ["A. and", "B. but", "C. because of", "D. also"],
+      "correctIndex": 3,
+      "explanation": "'also' = cung, dung bo sung thong tin: la nhiep anh gia CUNG la viet sach."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "I and my friends will go out tonight, _____ I have to finish all my homework before that.",
+      "options": ["A. also", "B. and", "C. so", "D. then"],
+      "correctIndex": 2,
+      "explanation": "Toi se di choi => VY VAY phai lam bai xong truoc => 'so'."
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "Maria blew out candles on birthday cake and _____ made a wish.",
+      "options": ["A. then", "B. but", "C. before", "D. when"],
+      "correctIndex": 0,
+      "explanation": "Thoi nen SAU DO uoc nguyen => 'and then'."
+    },
+    {
+      "id": 21,
+      "type": "error-correct",
+      "wrongSentence": "She didn't understand what you said because of she was deaf.",
+      "correctSentence": "She didn't understand what you said because she was deaf.",
+      "errorWord": "because of",
+      "correction": "because",
+      "explanation": "Sau 'because of' la danh tu/cum danh tu. Truoc menh de (she was deaf) phai dung 'because'."
+    },
+    {
+      "id": 22,
+      "type": "error-correct",
+      "wrongSentence": "Although he was very bad-tempered, but everybody liked him.",
+      "correctSentence": "Although he was very bad-tempered, everybody liked him.",
+      "errorWord": "but",
+      "correction": "(remove 'but')",
+      "explanation": "'Although' va 'but' khong dung cung nhau. Bo 'but'."
+    },
+    {
+      "id": 23,
+      "type": "error-correct",
+      "wrongSentence": "In spite of her obvious intelligence, she finds it difficulty to express her ideas in writing.",
+      "correctSentence": "In spite of her obvious intelligence, she finds it difficult to express her ideas in writing.",
+      "errorWord": "difficulty",
+      "correction": "difficult",
+      "explanation": "'find it + adj + to V' => dung tinh tu 'difficult', khong phai danh tu 'difficulty'."
+    },
+    {
+      "id": 24,
+      "type": "error-correct",
+      "wrongSentence": "Next week, when there will be an English club held here, I will give you more information about it.",
+      "correctSentence": "Next week, when there is an English club held here, I will give you more information about it.",
+      "errorWord": "will be",
+      "correction": "is",
+      "explanation": "Trong menh de trang ngu chi thoi gian (when...), dung thi hien tai, khong dung 'will'."
+    },
+    {
+      "id": 25,
+      "type": "error-correct",
+      "wrongSentence": "Because I knew her family well so I tried to help her.",
+      "correctSentence": "Because I knew her family well, I tried to help her.",
+      "errorWord": "so",
+      "correction": "(remove 'so')",
+      "explanation": "'Because' va 'so' khong dung cung nhau. Bo 'so'."
+    },
+    {
+      "id": 26,
+      "type": "sentence-rewrite",
+      "original": "The child hates getting up in the morning. He also dislikes going to bed at night.",
+      "instruction": "Rewrite the sentences using and/but/or/so.",
+      "starterText": "The child hates",
+      "answer": "The child hates getting up in the morning and also dislikes going to bed at night.",
+      "explanation": "Hai y bo sung nhau => noi bang 'and'."
+    },
+    {
+      "id": 27,
+      "type": "sentence-rewrite",
+      "original": "He is talented. He also has a charm.",
+      "instruction": "Rewrite the sentences using and/but/or/so.",
+      "starterText": "He",
+      "answer": "He is talented and also has a charm.",
+      "explanation": "Hai tinh chat bo sung => 'and'."
+    },
+    {
+      "id": 28,
+      "type": "sentence-rewrite",
+      "original": "The street is lined with oak trees. It is also lined with elm trees.",
+      "instruction": "Rewrite the sentences using and/but/or/so.",
+      "starterText": "The street",
+      "answer": "The street is lined with oak trees and elm trees.",
+      "explanation": "Gop hai thanh phan giong nhau bang 'and'."
+    },
+    {
+      "id": 29,
+      "type": "sentence-rewrite",
+      "original": "The lecture was long. In addition, it was also a boring lecture.",
+      "instruction": "Rewrite the sentences using and/but/or/so.",
+      "starterText": "The lecture",
+      "answer": "The lecture was long and boring.",
+      "explanation": "Gop hai tinh tu bo sung: long and boring."
+    },
+    {
+      "id": 30,
+      "type": "sentence-rewrite",
+      "original": "We know him. We don't know his friends.",
+      "instruction": "Rewrite the sentences using and/but/or/so.",
+      "starterText": "We know",
+      "answer": "We know him but we don't know his friends.",
+      "explanation": "Tuong phan: biet anh ta NHUNG khong biet ban anh ta => 'but'."
+    },
+    {
+      "id": 31,
+      "type": "sentence-rewrite",
+      "original": "They may leave today. They also may leave tomorrow.",
+      "instruction": "Rewrite the sentences using and/but/or/so.",
+      "starterText": "They may",
+      "answer": "They may leave today or tomorrow.",
+      "explanation": "Hai kha nang lua chon => 'or'."
+    },
+    {
+      "id": 32,
+      "type": "sentence-rewrite",
+      "original": "I am proud to be here. I am also happy to meet you here.",
+      "instruction": "Rewrite the sentences using and/but/or/so.",
+      "starterText": "I am proud",
+      "answer": "I am proud to be here and happy to meet you here.",
+      "explanation": "Hai cam xuc bo sung => 'and'."
+    },
+    {
+      "id": 33,
+      "type": "sentence-rewrite",
+      "original": "You don't do your homework. You will get a bad mark. You will be kicked out of school.",
+      "instruction": "Rewrite using (if, and).",
+      "starterText": "",
+      "answer": "If you don't do your homework, you will get a bad mark and you will be kicked out of school.",
+      "explanation": "Dieu kien (if) + hai ket qua noi bang 'and'."
+    },
+    {
+      "id": 34,
+      "type": "sentence-rewrite",
+      "original": "The young boy was sent home. He refused to obey the teacher.",
+      "instruction": "Rewrite using (Therefore).",
+      "starterText": "",
+      "answer": "The young boy refused to obey the teacher. Therefore, he was sent home.",
+      "explanation": "Ly do truoc, ket qua sau. 'Therefore' = vi vay."
+    },
+    {
+      "id": 35,
+      "type": "sentence-rewrite",
+      "original": "It cost a fortune to renovate our house. It was worth it.",
+      "instruction": "Rewrite using (However).",
+      "starterText": "",
+      "answer": "It cost a fortune to renovate our house. However, it was worth it.",
+      "explanation": "Tuong phan: ton nhieu tien NHUNG dang gia => 'However'."
+    },
+    {
+      "id": 36,
+      "type": "sentence-rewrite",
+      "original": "He produces things quite slowly. His products are really good.",
+      "instruction": "Rewrite using (but).",
+      "starterText": "",
+      "answer": "He produces things quite slowly, but his products are really good.",
+      "explanation": "Tuong phan: lam cham NHUNG san pham tot => 'but'."
+    }
+  ]
+}

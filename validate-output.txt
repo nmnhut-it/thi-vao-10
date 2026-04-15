@@ -1,0 +1,43 @@
+Validating data files in D:\Gitlab\thi-vao-10\data
+---
+  OK    grammar-active-passive.json: 60 exercises
+  OK    grammar-articles.json: 20 exercises
+  OK    grammar-comparison.json: 42 exercises
+  OK    grammar-conditional.json: 50 exercises
+  OK    grammar-conjunctions.json: 36 exercises
+  OK    grammar-modal-verbs.json: 30 exercises
+  OK    grammar-phrases-clauses.json: 24 exercises
+  OK    grammar-prepositions.json: 19 exercises
+  OK    grammar-quantifiers.json: 20 exercises
+  OK    grammar-relative-clauses.json: 68 exercises
+  OK    grammar-reported-speech.json: 40 exercises
+  OK    grammar-subject-verb-concord.json: 30 exercises
+  OK    grammar-subjunctive.json: 25 exercises
+  OK    grammar-tag-questions.json: 30 exercises
+  OK    grammar-verb-forms.json: 40 exercises
+  OK    grammar-verb-tenses.json: 40 exercises
+  OK    phonetics-pronunciation.json: 20 exercises
+  OK    phonetics-stress.json: 20 exercises
+  OK    reading-comprehension.json: 10 exercises
+  OK    reading-gap-filling.json: 10 exercises
+  OK    review-error-finding.json: 15 exercises
+  OK    review-rewriting.json: 20 exercises
+  OK    test-1.json: 32 exercises
+  OK    test-2.json: 32 exercises
+  OK    test-3.json: 32 exercises
+  OK    test-4.json: 32 exercises
+  OK    test-5.json: 32 exercises
+  OK    test-6.json: 32 exercises
+  OK    test-7.json: 42 exercises
+  OK    test-8.json: 42 exercises
+  OK    test-9.json: 42 exercises
+  OK    vocab-communicative.json: 10 exercises
+  OK    vocab-phrasal-verbs.json: 20 exercises
+  OK    vocab-synonyms-antonyms.json: 19 exercises
+  OK    vocab-word-choice.json: 20 exercises
+  OK    vocab-word-formation.json: 21 exercises
+  OK    writing-sentence.json: 120 exercises
+---
+Files: 37 | Exercises: 1197 | Errors: 0 | Warnings: 0
+
+Validation PASSED.

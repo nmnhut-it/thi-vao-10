@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Ôn Thi Vào 10 | Luyện Thi Tiếng Anh</title>
+  <meta name="description" content="Luyện thi tiếng Anh vào lớp 10 THPT - Tự học hiệu quả với bài tập tương tác và giải thích chi tiết">
+  <link rel="stylesheet" href="css/shared.css">
+  <style>
+    .home-stats {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: var(--sp-2);
+      margin: var(--sp-4) 0;
+    }
+    .home-stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: var(--sp-3);
+      text-align: center;
+    }
+    .home-stat__value {
+      font-size: var(--text-2xl);
+      font-weight: 700;
+    }
+    .home-stat__label {
+      font-size: var(--text-xs);
+      color: var(--text-muted);
+      margin-top: var(--sp-1);
+    }
+    .home-stat__value--primary { color: var(--primary); }
+    .home-stat__value--success { color: var(--success); }
+    .home-stat__value--warning { color: var(--warning); }
+  </style>
+</head>
+<body>
+
+  <!-- Hero -->
+  <div class="hero">
+    <h1 class="hero__title">Ôn Thi Vào 10</h1>
+    <p class="hero__subtitle">Luyện thi Tiếng Anh THPT 2024-2025</p>
+  </div>
+
+  <div class="container">
+
+    <!-- Progress Stats -->
+    <div class="home-stats">
+      <div class="home-stat">
+        <div class="home-stat__value home-stat__value--primary" id="stat-completed">0</div>
+        <div class="home-stat__label">Hoàn thành</div>
+      </div>
+      <div class="home-stat">
+        <div class="home-stat__value home-stat__value--success" id="stat-score">0</div>
+        <div class="home-stat__label">Tổng điểm</div>
+      </div>
+      <div class="home-stat">
+        <div class="home-stat__value home-stat__value--warning" id="stat-streak">0</div>
+        <div class="home-stat__label">Ngày liên tiếp</div>
+      </div>
+    </div>
+
+    <!-- Telegram Banner -->
+    <a class="tg-banner" id="tg-banner" href="#" style="display:none;">
+      <span class="tg-banner__icon">📱</span>
+      <div class="tg-banner__text">
+        <strong>Kết nối Telegram</strong>
+        Nhận thông báo nhắc học & theo dõi tiến độ
+      </div>
+    </a>
+
+    <!-- PHONETICS -->
+    <div class="section-label">Ngữ Âm (Phonetics)</div>
+    <div class="topic-list">
+      <a class="topic-card" href="pages/phonetics-pronunciation.html">
+        <div class="topic-card__icon topic-card__icon--phonetics">🔊</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Pronunciation</div>
+          <div class="topic-card__meta">Phát âm phụ âm & nguyên âm</div>
+        </div>
+        <div class="topic-card__status" data-topic="phonetics-pronunciation"></div>
+      </a>
+      <a class="topic-card" href="pages/phonetics-stress.html">
+        <div class="topic-card__icon topic-card__icon--phonetics">🎵</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Stress</div>
+          <div class="topic-card__meta">Trọng âm của từ</div>
+        </div>
+        <div class="topic-card__status" data-topic="phonetics-stress"></div>
+      </a>
+    </div>
+
+    <!-- GRAMMAR -->
+    <div class="section-label">Ngữ Pháp (Grammar)</div>
+    <div class="topic-list">
+      <a class="topic-card" href="pages/grammar-verb-tenses.html">
+        <div class="topic-card__icon topic-card__icon--grammar">⏰</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Verb Tenses</div>
+          <div class="topic-card__meta">Thì động từ</div>
+        </div>
+        <div class="topic-card__status" data-topic="grammar-verb-tenses"></div>
+      </a>
+      <a class="topic-card" href="pages/grammar-subject-verb-concord.html">
+        <div class="topic-card__icon topic-card__icon--grammar">🤝</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Subject-Verb Concord</div>
+          <div class="topic-card__meta">Sự hòa hợp chủ vị</div>
+        </div>
+        <div class="topic-card__status" data-topic="grammar-subject-verb-concord"></div>
+      </a>
+      <a class="topic-card" href="pages/grammar-modal-verbs.html">
+        <div class="topic-card__icon topic-card__icon--grammar">💪</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Modal Verbs</div>
+          <div class="topic-card__meta">Động từ khuyết thiếu</div>
+        </div>
+        <div class="topic-card__status" data-topic="grammar-modal-verbs"></div>
+      </a>
+      <a class="topic-card" href="pages/grammar-verb-forms.html">
+        <div class="topic-card__icon topic-card__icon--grammar">✏️</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Verb Forms</div>
+          <div class="topic-card__meta">Dạng động từ</div>
+        </div>
+        <div class="topic-card__status" data-topic="grammar-verb-forms"></div>
+      </a>
+      <a class="topic-card" href="pages/grammar-tag-questions.html">
+        <div class="topic-card__icon topic-card__icon--grammar">❓</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Tag Questions</div>
+          <div class="topic-card__meta">Câu hỏi đuôi</div>
+        </div>
+        <div class="topic-card__status" data-topic="grammar-tag-questions"></div>
+      </a>
+      <a class="topic-card" href="pages/grammar-active-passive.html">
+        <div class="topic-card__icon topic-card__icon--grammar">🔄</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Active & Passive</div>
+          <div class="topic-card__meta">Chủ động & Bị động</div>
+        </div>
+        <div class="topic-card__status" data-topic="grammar-active-passive"></div>
+      </a>
+      <a class="topic-card" href="pages/grammar-conditional.html">
+        <div class="topic-card__icon topic-card__icon--grammar">🔀</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Conditional Sentences</div>
+          <div class="topic-card__meta">Câu điều kiện</div>
+        </div>
+        <div class="topic-card__status" data-topic="grammar-conditional"></div>
+      </a>
+      <a class="topic-card" href="pages/grammar-subjunctive.html">
+        <div class="topic-card__icon topic-card__icon--grammar">🌟</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Subjunctive Mood</div>
+          <div class="topic-card__meta">Thể giả định</div>
+        </div>
+        <div class="topic-card__status" data-topic="grammar-subjunctive"></div>
+      </a>
+      <a class="topic-card" href="pages/grammar-reported-speech.html">
+        <div class="topic-card__icon topic-card__icon--grammar">💬</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Reported Speech</div>
+          <div class="topic-card__meta">Câu tường thuật</div>
+        </div>
+        <div class="topic-card__status" data-topic="grammar-reported-speech"></div>
+      </a>
+      <a class="topic-card" href="pages/grammar-relative-clauses.html">
+        <div class="topic-card__icon topic-card__icon--grammar">🔗</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Relative Clauses</div>
+          <div class="topic-card__meta">Mệnh đề quan hệ</div>
+        </div>
+        <div class="topic-card__status" data-topic="grammar-relative-clauses"></div>
+      </a>
+      <a class="topic-card" href="pages/grammar-phrases-clauses.html">
+        <div class="topic-card__icon topic-card__icon--grammar">📝</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Phrases & Clauses</div>
+          <div class="topic-card__meta">Cụm từ & Mệnh đề</div>
+        </div>
+        <div class="topic-card__status" data-topic="grammar-phrases-clauses"></div>
+      </a>
+      <a class="topic-card" href="pages/grammar-comparison.html">
+        <div class="topic-card__icon topic-card__icon--grammar">⚖️</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Comparison</div>
+          <div class="topic-card__meta">So sánh</div>
+        </div>
+        <div class="topic-card__status" data-topic="grammar-comparison"></div>
+      </a>
+      <a class="topic-card" href="pages/grammar-quantifiers.html">
+        <div class="topic-card__icon topic-card__icon--grammar">🔢</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Quantifiers</div>
+          <div class="topic-card__meta">Lượng từ</div>
+        </div>
+        <div class="topic-card__status" data-topic="grammar-quantifiers"></div>
+      </a>
+      <a class="topic-card" href="pages/grammar-conjunctions.html">
+        <div class="topic-card__icon topic-card__icon--grammar">🔗</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Conjunctions</div>
+          <div class="topic-card__meta">Liên từ</div>
+        </div>
+        <div class="topic-card__status" data-topic="grammar-conjunctions"></div>
+      </a>
+      <a class="topic-card" href="pages/grammar-articles.html">
+        <div class="topic-card__icon topic-card__icon--grammar">📑</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Articles</div>
+          <div class="topic-card__meta">Mạo từ</div>
+        </div>
+        <div class="topic-card__status" data-topic="grammar-articles"></div>
+      </a>
+      <a class="topic-card" href="pages/grammar-prepositions.html">
+        <div class="topic-card__icon topic-card__icon--grammar">📍</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Prepositions</div>
+          <div class="topic-card__meta">Giới từ</div>
+        </div>
+        <div class="topic-card__status" data-topic="grammar-prepositions"></div>
+      </a>
+    </div>
+
+    <!-- VOCABULARY -->
+    <div class="section-label">Từ Vựng (Vocabulary)</div>
+    <div class="topic-list">
+      <a class="topic-card" href="pages/vocab-word-formation.html">
+        <div class="topic-card__icon topic-card__icon--vocab">🧩</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Word Formation</div>
+          <div class="topic-card__meta">Cấu tạo từ</div>
+        </div>
+        <div class="topic-card__status" data-topic="vocab-word-formation"></div>
+      </a>
+      <a class="topic-card" href="pages/vocab-phrasal-verbs.html">
+        <div class="topic-card__icon topic-card__icon--vocab">🔄</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Phrasal Verbs</div>
+          <div class="topic-card__meta">Cụm động từ</div>
+        </div>
+        <div class="topic-card__status" data-topic="vocab-phrasal-verbs"></div>
+      </a>
+      <a class="topic-card" href="pages/vocab-communicative.html">
+        <div class="topic-card__icon topic-card__icon--vocab">🗣️</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Communicative Exchanges</div>
+          <div class="topic-card__meta">Giao tiếp</div>
+        </div>
+        <div class="topic-card__status" data-topic="vocab-communicative"></div>
+      </a>
+      <a class="topic-card" href="pages/vocab-word-choice.html">
+        <div class="topic-card__icon topic-card__icon--vocab">🎯</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Word Choice</div>
+          <div class="topic-card__meta">Chọn từ</div>
+        </div>
+        <div class="topic-card__status" data-topic="vocab-word-choice"></div>
+      </a>
+      <a class="topic-card" href="pages/vocab-synonyms-antonyms.html">
+        <div class="topic-card__icon topic-card__icon--vocab">↔️</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Synonyms & Antonyms</div>
+          <div class="topic-card__meta">Đồng nghĩa & Trái nghĩa</div>
+        </div>
+        <div class="topic-card__status" data-topic="vocab-synonyms-antonyms"></div>
+      </a>
+    </div>
+
+    <!-- READING -->
+    <div class="section-label">Đọc Hiểu (Reading)</div>
+    <div class="topic-list">
+      <a class="topic-card" href="pages/reading-comprehension.html">
+        <div class="topic-card__icon topic-card__icon--reading">📖</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Reading Comprehension</div>
+          <div class="topic-card__meta">Đọc hiểu văn bản</div>
+        </div>
+        <div class="topic-card__status" data-topic="reading-comprehension"></div>
+      </a>
+      <a class="topic-card" href="pages/reading-gap-filling.html">
+        <div class="topic-card__icon topic-card__icon--reading">📝</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Gap Filling</div>
+          <div class="topic-card__meta">Điền từ vào đoạn văn</div>
+        </div>
+        <div class="topic-card__status" data-topic="reading-gap-filling"></div>
+      </a>
+    </div>
+
+    <!-- WRITING -->
+    <div class="section-label">Viết (Writing)</div>
+    <div class="topic-list">
+      <a class="topic-card" href="pages/writing-sentence.html">
+        <div class="topic-card__icon topic-card__icon--writing">✍️</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Sentence Writing</div>
+          <div class="topic-card__meta">Viết lại câu & ghép câu</div>
+        </div>
+        <div class="topic-card__status" data-topic="writing-sentence"></div>
+      </a>
+    </div>
+
+    <!-- REVIEW -->
+    <div class="section-label">Ôn Tập (Review)</div>
+    <div class="topic-list">
+      <a class="topic-card" href="pages/review-rewriting.html">
+        <div class="topic-card__icon topic-card__icon--review">🔁</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Sentence Rewriting Review</div>
+          <div class="topic-card__meta">Tổng ôn viết lại câu đồng nghĩa</div>
+        </div>
+        <div class="topic-card__status" data-topic="review-rewriting"></div>
+      </a>
+      <a class="topic-card" href="pages/review-error-finding.html">
+        <div class="topic-card__icon topic-card__icon--review">🔍</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Error Finding Review</div>
+          <div class="topic-card__meta">Tổng ôn tìm lỗi sai</div>
+        </div>
+        <div class="topic-card__status" data-topic="review-error-finding"></div>
+      </a>
+    </div>
+
+    <!-- PRACTICE TESTS -->
+    <div class="section-label">Đề Thi Thử (Practice Tests)</div>
+    <div class="topic-list">
+      <a class="topic-card" href="pages/test-1.html">
+        <div class="topic-card__icon topic-card__icon--test">📋</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Test 1</div>
+          <div class="topic-card__meta">Trắc nghiệm + Tự luận • 40 câu • 60 phút</div>
+        </div>
+        <div class="topic-card__status" data-topic="test-1"></div>
+      </a>
+      <a class="topic-card" href="pages/test-2.html">
+        <div class="topic-card__icon topic-card__icon--test">📋</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Test 2</div>
+          <div class="topic-card__meta">Trắc nghiệm + Tự luận • 40 câu • 60 phút</div>
+        </div>
+        <div class="topic-card__status" data-topic="test-2"></div>
+      </a>
+      <a class="topic-card" href="pages/test-3.html">
+        <div class="topic-card__icon topic-card__icon--test">📋</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Test 3</div>
+          <div class="topic-card__meta">Trắc nghiệm + Tự luận • 40 câu • 60 phút</div>
+        </div>
+        <div class="topic-card__status" data-topic="test-3"></div>
+      </a>
+      <a class="topic-card" href="pages/test-4.html">
+        <div class="topic-card__icon topic-card__icon--test">📋</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Test 4</div>
+          <div class="topic-card__meta">Trắc nghiệm • 40 câu • 45 phút</div>
+        </div>
+        <div class="topic-card__status" data-topic="test-4"></div>
+      </a>
+      <a class="topic-card" href="pages/test-5.html">
+        <div class="topic-card__icon topic-card__icon--test">📋</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Test 5</div>
+          <div class="topic-card__meta">Trắc nghiệm • 40 câu • 45 phút</div>
+        </div>
+        <div class="topic-card__status" data-topic="test-5"></div>
+      </a>
+      <a class="topic-card" href="pages/test-6.html">
+        <div class="topic-card__icon topic-card__icon--test">📋</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Test 6</div>
+          <div class="topic-card__meta">Trắc nghiệm • 40 câu • 45 phút</div>
+        </div>
+        <div class="topic-card__status" data-topic="test-6"></div>
+      </a>
+      <a class="topic-card" href="pages/test-7.html">
+        <div class="topic-card__icon topic-card__icon--test">📋</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Test 7</div>
+          <div class="topic-card__meta">Trắc nghiệm • 50 câu • 60 phút</div>
+        </div>
+        <div class="topic-card__status" data-topic="test-7"></div>
+      </a>
+      <a class="topic-card" href="pages/test-8.html">
+        <div class="topic-card__icon topic-card__icon--test">📋</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Test 8</div>
+          <div class="topic-card__meta">Trắc nghiệm • 50 câu • 60 phút</div>
+        </div>
+        <div class="topic-card__status" data-topic="test-8"></div>
+      </a>
+      <a class="topic-card" href="pages/test-9.html">
+        <div class="topic-card__icon topic-card__icon--test">📋</div>
+        <div class="topic-card__body">
+          <div class="topic-card__title">Test 9</div>
+          <div class="topic-card__meta">Trắc nghiệm • 50 câu • 60 phút</div>
+        </div>
+        <div class="topic-card__status" data-topic="test-9"></div>
+      </a>
+    </div>
+
+    <div style="height: var(--sp-8);"></div>
+  </div>
+
+  <script src="js/core/storage.js"></script>
+  <script src="js/home.js"></script>
+</body>
+</html>

@@ -1,0 +1,363 @@
+{
+  "topicId": "test-6",
+  "title": "Practice Test 6",
+  "section": "practice-test",
+  "testType": "mc-40",
+  "timeLimit": 60,
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "category": "pronunciation",
+      "question": "Choose the word that has the underlined part pronounced differently: stress, relaxed, event, helpline",
+      "options": ["A. stress", "B. relaxed", "C. event", "D. helpline"],
+      "correctIndex": 2,
+      "explanation": "'event' has /ɪ/ in the first syllable, while A, B, D have /e/ sound."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "category": "pronunciation",
+      "question": "Choose the word that has the underlined part pronounced differently: confident, cognitive, face, creative",
+      "options": ["A. confident", "B. cognitive", "C. face", "D. creative"],
+      "correctIndex": 2,
+      "explanation": "'face' has /eɪ/ sound, while A, B, D have /ɪ/ or short vowel sounds for the underlined part."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "category": "stress",
+      "question": "Choose the word that its main stress is placed differently: habit, delighted, music, pressure",
+      "options": ["A. habit", "B. delighted", "C. music", "D. pressure"],
+      "correctIndex": 1,
+      "explanation": "'delighted' has stress on the second syllable; A, C, D are stressed on the first."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "category": "stress",
+      "question": "Choose the word that its main stress is placed differently: behave, wonderful, prepare, tradition",
+      "options": ["A. behave", "B. wonderful", "C. prepare", "D. tradition"],
+      "correctIndex": 1,
+      "explanation": "'wonderful' has stress on the first syllable; A, C, D are stressed on the second."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "_______ our school is small, it has strict rules.",
+      "options": ["A. Although", "B. If", "C. However", "D. So"],
+      "correctIndex": 0,
+      "explanation": "'Although' introduces a concessive clause (despite the fact that)."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "She is a talented _______. Her songs are widely listened to by young people.",
+      "options": ["A. music", "B. musical", "C. musician", "D. musicale"],
+      "correctIndex": 2,
+      "explanation": "'musician' (noun for a person) follows the article 'a talented'."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "The children _______ my home village used to go barefoot, even in winter. Now they all have shoes.",
+      "options": ["A. of", "B. in", "C. by", "D. with"],
+      "correctIndex": 1,
+      "explanation": "'the children in my home village' - 'in' for location."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "We all wish there _______ a smart board in our classroom now.",
+      "options": ["A. were", "B. has been", "C. had been", "D. will be"],
+      "correctIndex": 0,
+      "explanation": "Wish + past simple/subjunctive for present wishes. 'were' is correct."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "Every country has its own customs and _______.",
+      "options": ["A. event", "B. traditions", "C. story", "D. job"],
+      "correctIndex": 1,
+      "explanation": "'customs and traditions' is a common collocation."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "I used _______ to school but now I cycle to school.",
+      "options": ["A. walk", "B. walking", "C. to walking", "D. to walk"],
+      "correctIndex": 3,
+      "explanation": "'used to + V-infinitive' for past habits."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "She has failed her driving test three times. She feels _______.",
+      "options": ["A. depressed", "B. relaxed", "C. happy", "D. glad"],
+      "correctIndex": 0,
+      "explanation": "Failing three times would make someone feel 'depressed' (sad/disappointed)."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "The Internet is a vast _______ of computers, all connected together.",
+      "options": ["A. supply", "B. resource", "C. network", "D. discovery"],
+      "correctIndex": 2,
+      "explanation": "The Internet is a 'network' of computers."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "The children started to _______ each part of the story.",
+      "options": ["A. act out", "B. go out", "C. get up", "D. come in"],
+      "correctIndex": 0,
+      "explanation": "'act out' means to perform/dramatize a story."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "My teacher said I can talk to her about my project anytime. (Find the underlined part that needs correction)",
+      "options": ["A. can talk", "B. her", "C. about", "D. anytime"],
+      "correctIndex": 0,
+      "explanation": "Reported speech requires backshift: 'can' should be 'could'."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "I prefer talking face to face to talking in the phone. (Find the underlined part that needs correction)",
+      "options": ["A. talking", "B. face to face", "C. to", "D. in"],
+      "correctIndex": 3,
+      "explanation": "Should be 'on the phone' (not 'in the phone')."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "Minh is interested in basketball, but he isn't enough tall. (Find the underlined part that needs correction)",
+      "options": ["A. is", "B. in", "C. basketball", "D. enough tall"],
+      "correctIndex": 3,
+      "explanation": "Should be 'tall enough' (adjective + enough, not enough + adjective)."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "category": "communicative",
+      "question": "\"I have bought you a toy. Happy birthday to you!\" \"_______\"",
+      "options": ["A. The same to you.", "B. What a lovely toy! Thanks.", "C. Have a nice day!", "D. What a pity!"],
+      "correctIndex": 1,
+      "explanation": "Expressing gratitude for a gift: compliment the gift and thank."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "category": "communicative",
+      "question": "Mom: \"Don't stay up late, or you'll be exhausted the next day.\" Mary: \"_______\"",
+      "options": ["A. No problem.", "B. No, I won't.", "C. Yes, I won't.", "D. You're welcome"],
+      "correctIndex": 1,
+      "explanation": "'No, I won't' (stay up late) = agreeing to follow the advice."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "category": "opposite-meaning",
+      "question": "Come and join us at our local festival this weekend. I'm sure you won't regret it.",
+      "options": ["A. traditional", "B. cultural", "C. ritual", "D. international"],
+      "correctIndex": 3,
+      "explanation": "'local' (nearby, regional) is the opposite of 'international' (worldwide)."
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "category": "opposite-meaning",
+      "question": "My mother often tells me never to accept a lift from someone I've just met!",
+      "options": ["A. prevent", "B. refuse", "C. help", "D. deny"],
+      "correctIndex": 1,
+      "explanation": "'accept' (take/receive) is the opposite of 'refuse' (reject/decline)."
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "category": "closest-meaning",
+      "question": "The Internet is available in cities and towns, so we cannot easily get access to it in the countryside.",
+      "options": ["A. existing", "B. helpful", "C. traditional", "D. safe"],
+      "correctIndex": 0,
+      "explanation": "'available' means existing and accessible = 'existing'."
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "category": "closest-meaning",
+      "question": "She could be in an awful mood and refuse to answer my questions.",
+      "options": ["A. bad", "B. happy", "C. awesome", "D. different"],
+      "correctIndex": 0,
+      "explanation": "'awful' means very bad, terrible."
+    },
+    {
+      "id": 23,
+      "type": "reading-comprehension",
+      "passage": "Located (23) _______ Giao Thuy district, the Countryside Museum (24) _______ a popular attraction for visitors to Nam Dinh Province. The museum was established by a retired teacher, Mrs. Khieu, while working as a teacher, she liked (25) _______ household utensils of residents in the Tonkin region. (26) _______ the 1990s, she has preserved objects that people, particular farmers, regularly used in the old days, so that younger generations can learn about these objects. Knowing Mrs. Khieu's good (27) _______, many people have brought her daily used subjects in rural areas, such as water buckets, different types of brooms, bronze and wooden trays and fishing baskets.",
+      "questions": [
+        {
+          "id": "23a",
+          "question": "Fill blank (23)",
+          "options": ["A. in", "B. on", "C. of", "D. at"],
+          "correctIndex": 0,
+          "explanation": "'Located in' a district - preposition of location."
+        },
+        {
+          "id": "24a",
+          "question": "Fill blank (24)",
+          "options": ["A. is", "B. has", "C. be", "D. are"],
+          "correctIndex": 0,
+          "explanation": "'the museum is a popular attraction' - singular subject."
+        },
+        {
+          "id": "25a",
+          "question": "Fill blank (25)",
+          "options": ["A. reminding", "B. selling", "C. collecting", "D. determining"],
+          "correctIndex": 2,
+          "explanation": "'collecting household utensils' - she liked gathering objects."
+        },
+        {
+          "id": "26a",
+          "question": "Fill blank (26)",
+          "options": ["A. In", "B. Before", "C. Since", "D. For"],
+          "correctIndex": 2,
+          "explanation": "'Since the 1990s' with present perfect 'has preserved'."
+        },
+        {
+          "id": "27a",
+          "question": "Fill blank (27)",
+          "options": ["A. intentional", "B. intend", "C. intention", "D. intentionally"],
+          "correctIndex": 2,
+          "explanation": "'good intention' - noun after adjective."
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "type": "reading-comprehension",
+      "passage": "New York is called \"the Big Apple\". Maybe it is not exactly like an apple, it's certainly very big. There are too many people, that's the problem. The streets are always full of cars and trucks; you can never find a place to park. Travelling around is never easy in the city. If you have enough money, you can take a taxi. New York cabs are yellow. They look all the same. But the drivers are very different. Some were born and raised in New York, but many are newcomers to the United States. A few drive slowly, but most go very fast. Cab driving is a difficult job. It can be dangerous, too. Thieves often try to steal the drivers' money. Drivers sometimes get hurt. If you don't want to take a taxi, you can go by bus or you can take the subway. The subway is quick and it's cheap, but some of its parts are old and dirty. Lights don't always work and there are often fires on the track. On some subway lines, there are new, clean and silver trains. But you can't see the color of the old trains easily. There is too much dirt and too much graffiti, inside and outside.",
+      "questions": [
+        {
+          "id": "28a",
+          "question": "You may find it hard to see _______.",
+          "options": ["A. new, clean and silver trains", "B. drivers", "C. the color of the old trains", "D. newcomers"],
+          "correctIndex": 2,
+          "explanation": "'you can't see the color of the old trains easily' due to dirt and graffiti."
+        },
+        {
+          "id": "29a",
+          "question": "What does \"a cab\" mean?",
+          "options": ["A. truck", "B. a plane", "C. a taxi", "D. a bus"],
+          "correctIndex": 2,
+          "explanation": "The passage equates cabs with taxis: 'New York cabs are yellow'."
+        },
+        {
+          "id": "30a",
+          "question": "What is the problem in New York?",
+          "options": ["A. It looked like an apple", "B. It has too many apples.", "C. It is too long", "D. It is too crowded."],
+          "correctIndex": 3,
+          "explanation": "'There are too many people, that's the problem.' = too crowded."
+        },
+        {
+          "id": "31a",
+          "question": "Cab drivers in New York _______.",
+          "options": ["A. can be dangerous", "B. look the same", "C. can be attacked by thieves", "D. were all born in New York"],
+          "correctIndex": 2,
+          "explanation": "'Thieves often try to steal the drivers' money. Drivers sometimes get hurt.'"
+        },
+        {
+          "id": "32a",
+          "question": "The word \"subway\" can be replaced by _______.",
+          "options": ["A. platform", "B. light bulb", "C. Underground", "D. station"],
+          "correctIndex": 2,
+          "explanation": "'subway' (American English) = 'Underground' (British English) for metro trains."
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "type": "multiple-choice",
+      "category": "sentence-combine",
+      "question": "Ian didn't know how to water-ski, but he tried to do it. (Choose the sentence with the same meaning)",
+      "options": ["A. Although Ian tried hard, he didn't know how to water-ski.", "B. Although Ian didn't know how to water-ski, he tried to do it.", "C. Ian didn't water-ski because he didn't know how to.", "D. Ian didn't try to water-ski because he didn't know how to do it."],
+      "correctIndex": 1,
+      "explanation": "'Although' preserves both facts: not knowing + still trying."
+    },
+    {
+      "id": 34,
+      "type": "multiple-choice",
+      "category": "sentence-combine",
+      "question": "The picnic was cancelled because of the heavy rain. (Choose the sentence with the same meaning)",
+      "options": ["A. If it hadn't rained so heavily, the picnic wouldn't be cancelled.", "B. If it hadn't rained, the picnic would have been cancelled.", "C. But for the heavy rain, the picnic wouldn't be cancelled.", "D. But for the heavy rain, the picnic wouldn't have been cancelled."],
+      "correctIndex": 3,
+      "explanation": "Conditional type 3: 'But for' = 'If it hadn't been for'. Past event uses 'would have been'."
+    },
+    {
+      "id": 35,
+      "type": "multiple-choice",
+      "category": "sentence-combine",
+      "question": "\"If I were you, I would take a break,\" Tom said to Daisy. (Choose the sentence with the same meaning)",
+      "options": ["A. Tom suggested not taking a break.", "B. Tom wanted to take a break with Daisy.", "C. Tom advised Daisy to take a break.", "D. Tom wanted to take a break, and so did Daisy."],
+      "correctIndex": 2,
+      "explanation": "'If I were you, I would...' is advice. Reported: 'advised + object + to-infinitive'."
+    },
+    {
+      "id": 36,
+      "type": "multiple-choice",
+      "category": "sentence-combine",
+      "question": "I wish I didn't have to get up early tomorrow. (Choose the sentence with the same meaning)",
+      "options": ["A. It's my wish to get up early tomorrow.", "B. I have to get up early tomorrow.", "C. Getting up early tomorrow is not necessary.", "D. I don't have to get up early tomorrow."],
+      "correctIndex": 1,
+      "explanation": "'I wish I didn't have to' implies the reality IS that I have to get up early."
+    },
+    {
+      "id": 37,
+      "type": "multiple-choice",
+      "category": "sentence-combine",
+      "question": "engine/car/need/clean/once/month/. (Choose the best sentence from cues)",
+      "options": ["A. The engine of the car needs cleaning once a month.", "B. The engine for the car need to clean once a month.", "C. The engine with the car needs to be cleaned once a month.", "D. The engine of the car needs to clean once a month."],
+      "correctIndex": 0,
+      "explanation": "'need + V-ing' = 'need to be + V-ed' (passive meaning). A is correct and natural."
+    },
+    {
+      "id": 38,
+      "type": "multiple-choice",
+      "category": "sentence-combine",
+      "question": "I/not/know/what/do/make/mother/happy/. (Choose the best sentence from cues)",
+      "options": ["A. I don't know what doing to make my mother happy.", "B. I don't know what to doing make my mother happy.", "C. I not know what do to make mother happy", "D. I don't know what to do to make my mother happy."],
+      "correctIndex": 3,
+      "explanation": "'what to do to make' - question word + to-infinitive + purpose infinitive."
+    },
+    {
+      "id": 39,
+      "type": "multiple-choice",
+      "category": "sentence-combine",
+      "question": "Nobody/can/deny/that/she/talent/arts/. (Choose the best sentence from cues)",
+      "options": ["A. Nobody can deny that she talented of arts.", "B. Nobody can deny that she's talent at arts.", "C. Nobody can deny that she's talented with arts.", "D. Nobody can deny that she's talented at arts."],
+      "correctIndex": 3,
+      "explanation": "'talented at' is the correct preposition collocation."
+    },
+    {
+      "id": 40,
+      "type": "multiple-choice",
+      "category": "sentence-combine",
+      "question": "many/place/the world/people/used/dye/cloth/nature/material/. (Choose the best sentence from cues)",
+      "options": ["A. In many places in the world, people used to dye cloth with nature materials.", "B. In many places in the world, people used to dyeing cloth by natural materials.", "C. In many places in the world, people used to dye cloth with natural materials.", "D. In many places in the world, people used dyeing cloth by natural materials."],
+      "correctIndex": 2,
+      "explanation": "'used to + V-infinitive' and 'with natural materials' (adjective form, correct preposition)."
+    }
+  ]
+}

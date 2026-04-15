@@ -1,0 +1,170 @@
+{
+  "topicId": "grammar-articles",
+  "title": "Articles (Mao Tu)",
+  "section": "grammar",
+  "knowledge": {
+    "html": "<h2>XV. ARTICLES (MAO TU)</h2><h3>1. Indefinite articles: a/an</h3><p><strong>An</strong> dung truoc 1 danh tu dem duoc so it bat dau bang 1 nguyen am (u, e, o, a, i).<br><strong>A</strong> dung truoc danh tu dem duoc so it bat dau la 1 phu am.</p><p>*An: dung truoc nguyen am hoac \"h\" cam.</p><div class=\"example\">Ex: a doctor, a bag, an animal, an hour...</div><h4>\"a/an\" duoc dung truoc:</h4><ul><li>Danh tu dem duoc, so it.</li><li>Trong cac cau truc: so + adj + a/an + noun; such + a/an + noun; as + adj + a/an + noun + as; How + adj + a/an + noun + verb!</li><li>Chi mot nguoi duoc de cap qua ten.</li><li>Truoc cac danh tu trong ngu dong vi.</li><li>Trong cac cum tu chi so luong: a pair, a couple, a lot of, a little, a few, a large/great number of...</li></ul><div class=\"example\">Ex: She is so pretty a girl.<br>It's such a beautiful picture.<br>She is as pretty a girl as her sister.<br>How beautiful a girl you are!<br>A Mrs. Blue sent you this letter.<br>Nguyen Du, a great poet, wrote that novel.</div><h4>\"a/an\" khong duoc dung:</h4><ul><li>ONE duoc su dung thay A/An de nhan manh.</li><li>Truoc danh tu khong dem duoc.</li><li>Truoc cac danh tu dem so nhieu.</li></ul><div class=\"example\">Ex: There is a book on the table, but <strong>one</strong> is not enough.<br>Ex: <strong>Coffee</strong> is also a kind of drink.<br>Ex: <strong>Dogs</strong> are faithful animals.</div><h3>2. Definite article: the</h3><h4>\"the\" duoc dung truoc:</h4><ul><li>Nhung vat duy nhat: the sun, the moon, the world.</li><li>Cac danh tu duoc xac dinh nhan boi cum tinh tu / menh de quan he.</li><li>Cac danh tu duoc xac dinh qua ngu canh hoac de cap truoc do.</li><li>Cac danh tu chi su giai tri: the theater, the concert, the church.</li><li>Cac song, bien, dai duong, day nui: the Mekong River, the East Sea, the Pacific Ocean, the Himalayas.</li><li>Mot nhom cac dao hoac quoc gia: the Philippines, the United States.</li><li>Tinh tu dung nhu danh tu tap hop: the Poor, the Rich.</li><li>Trong so sanh nhat: Nam is the cleverest in his class.</li><li>Ten nguoi o so nhieu (chi gia dinh): The Blacks, the Blues, the Nams.</li><li>Cac danh tu dai dien cho 1 loai: The cat is a lovely home pet.</li><li>Cac cau truc chi thoi gian, noi chon: in the morning, in the street, in the water...</li><li>So thu tu: the first, the second, the third...</li><li>Chuoi thoi gian hoac khong gian: the next, the following, the last...</li></ul><h4>\"the\" khong dung truoc:</h4><ul><li>Truoc cac danh tu so nhieu noi chung: They build <strong>houses</strong> near the hall.</li><li>Danh tu truu tuong, khong dem duoc: <strong>Independence</strong> is a happy thing.</li><li>Cac danh tu chi mau sac: <strong>Red</strong> and <strong>white</strong> make pink.</li><li>Cac mon hoc: <strong>Math</strong> is her worst subject.</li><li>Cac chat lieu, vat lieu, kim loai: <strong>Steel</strong> is made from iron.</li><li>Cac ten nuoc, chau luc, thanh pho: <strong>Ha Noi</strong> is the capital of Vietnam.</li><li>Cac chuc danh, ten nguoi: President Bill Clinton, Ba, Nga...</li><li>Cac bua an, mon an, thuoc an: We have <strong>rice</strong> and fish for dinner.</li><li>Ten cac tro choi, the thao: <strong>Football</strong> is a popular sport in Vietnam.</li></ul>"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "Don't drive into that street. It is _____ one-way street.",
+      "options": ["A. a", "B. an", "C. the", "D. \u00d8"],
+      "correctIndex": 0,
+      "explanation": "'one-way' bat dau bang am /w/ (phu am) => dung 'a'."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "Sir Humphrey has been _____ MP for five years.",
+      "options": ["A. a", "B. an", "C. the", "D. \u00d8"],
+      "correctIndex": 1,
+      "explanation": "'MP' doc la /em pi:/, bat dau bang nguyen am /e/ => dung 'an'."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "Did you read _____ book I lent you _____ last week?",
+      "options": ["A. a / the", "B. the / the", "C. the / X", "D. X / X"],
+      "correctIndex": 2,
+      "explanation": "'the book' vi duoc xac dinh boi 'I lent you'. 'last week' khong can mao tu."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "I went by _____ train to _____ West of England.",
+      "options": ["A. a / a", "B. X / the", "C. X / X", "D. the / the"],
+      "correctIndex": 1,
+      "explanation": "'by train' (phuong tien) khong dung mao tu. 'the West of England' co 'the' vi chi vung cu the."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "We visited Canada and _____ United States.",
+      "options": ["A. a / a", "B. a / the", "C. the / the", "D. the / a"],
+      "correctIndex": 2,
+      "explanation": "'the United States' luon co 'the' (ten nuoc so nhieu). 'Canada' => khong can the, nhung vi o day co 'visited Canada AND the United States'."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "Peru is _____ country in South America. _____ capital is Lima.",
+      "options": ["A. a / a", "B. a / the", "C. the / the", "D. the / a"],
+      "correctIndex": 1,
+      "explanation": "'a country' (mot nuoc bat ky). 'The capital' duoc xac dinh (thu do cua Peru)."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "I fell in _____ love with him because of his kind nature.",
+      "options": ["A. a", "B. the", "C. X", "D. an"],
+      "correctIndex": 2,
+      "explanation": "'fall in love' la thanh ngu co dinh, khong dung mao tu."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "Do you know exactly _____ number of Siberian tigers in China?",
+      "options": ["A. a", "B. an", "C. the", "D. X"],
+      "correctIndex": 2,
+      "explanation": "'the number of' = so luong cu the cua... (duoc xac dinh)."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "It is estimated that only 1,000 pandas remain in _____ wild.",
+      "options": ["A. a", "B. an", "C. the", "D. X"],
+      "correctIndex": 2,
+      "explanation": "'in the wild' = trong tu nhien (cum co dinh)."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "_____ friend in need is _____ friend indeed.",
+      "options": ["A. The / the", "B. A / a", "C. X / X", "D. X / the"],
+      "correctIndex": 1,
+      "explanation": "Tuc ngu: 'A friend in need is a friend indeed.' Noi chung chung => dung 'a'."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "It is estimated that about 640 women remain illiterate in _____ world.",
+      "options": ["A. a", "B. an", "C. the", "D. X"],
+      "correctIndex": 2,
+      "explanation": "'the world' = the gioi (vat duy nhat)."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "It was a beautiful day. _____ sun shone brightly in _____ sky.",
+      "options": ["A. a / a", "B. a / the", "C. the / the", "D. the / a"],
+      "correctIndex": 2,
+      "explanation": "'the sun' va 'the sky' la nhung vat duy nhat."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "It is said that Robinhood robbed _____ rich and gave the money to _____ poor.",
+      "options": ["A. a / a", "B. a / the", "C. the / the", "D. the / a"],
+      "correctIndex": 2,
+      "explanation": "'the rich' va 'the poor' = nguoi giau, nguoi ngheo (tinh tu dung nhu danh tu tap hop)."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "This morning I bought a newspaper and a magazine. _____ newspaper is in my bag but I don't know where _____ magazine is.",
+      "options": ["A. a / a", "B. a / the", "C. the / the", "D. the / a"],
+      "correctIndex": 2,
+      "explanation": "Da de cap o cau truoc ('a newspaper', 'a magazine') => lan thu 2 dung 'the'."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "What is your _____ biggest dream in _____ life?",
+      "options": ["A. X / X", "B. the / a", "C. the / the", "D. a / the"],
+      "correctIndex": 0,
+      "explanation": "'your biggest dream' da co tinh tu so huu 'your'. 'in life' noi chung khong can 'the'."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "Did you have _____ good time at the party last night?",
+      "options": ["A. a", "B. an", "C. the", "D. X"],
+      "correctIndex": 0,
+      "explanation": "'have a good time' = vui ve (thanh ngu dung 'a')."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "The local authorities are conducting _____ campaign to help _____ disabled.",
+      "options": ["A. a / the", "B. the / X", "C. X / X", "D. X / the"],
+      "correctIndex": 0,
+      "explanation": "'a campaign' (mot chien dich). 'the disabled' = nguoi khuyet tat (tinh tu lam danh tu tap hop)."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "_____ most important thing when you take part in any examination is to be calm.",
+      "options": ["A. A", "B. An", "C. The", "D. X"],
+      "correctIndex": 2,
+      "explanation": "So sanh nhat: 'the most important thing'."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "Every year, thousands of tourists visit _____ Nile River.",
+      "options": ["A. a", "B. an", "C. the", "D. X"],
+      "correctIndex": 2,
+      "explanation": "Ten song co 'the': 'the Nile River'."
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "My brother-in-law is _____ engineer in a car company.",
+      "options": ["A. an", "B. a", "C. the", "D. X"],
+      "correctIndex": 0,
+      "explanation": "'engineer' bat dau bang nguyen am /e/ => dung 'an'."
+    }
+  ]
+}

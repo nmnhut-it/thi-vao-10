@@ -1,0 +1,162 @@
+{
+  "topicId": "vocab-synonyms-antonyms",
+  "title": "Closest & Opposite Meaning (Dong Nghia & Trai Nghia)",
+  "section": "vocabulary",
+  "knowledge": {
+    "html": "<h3>Phuong phap lam bai tim tu dong nghia (CLOSEST) va trai nghia (OPPOSITE)</h3><div class='formula'><strong>Buoc 1: Doc ky de bai</strong><br>Doc ky yeu cau cua de bai de biet rang do la bai tim tu dong nghia (CLOSEST) hay trai nghia (OPPOSITE). Se that la tiec neu chi vi hieu nham de nen chon nham dap an, mac du hieu het nghia cua cau hoi va cac lua chon cho san. Le ra chon tu dong nghia nhung lai khoanh tu trai nghia, va nguoc lai.</div><div class='formula'><strong>Buoc 2: Tim nghia cua cac tu</strong><br><strong>Truong hop 1:</strong> Biet nghia cua tu cho san o de bai nhung cac tu chon lai kho. Phan nay se hoi kho vi no la tu don, nhung ban van co the doan nghia cua cac tu kho do bang cach tim xem no thuoc tu loai nao va duoc thanh tu tu goc nao. Dong thoi, dua vao nghia cua tu cho san trong cau de suy nghia cua cac tu ban khong biet.<br><br><strong>Truong hop 2:</strong> Biet nghia cua cac lua chon, nhung khong biet nghia cua tu cho san o de bai. De lam duoc cau nay, ban se dua vao nghia cua bon tu lua chon va ngu canh cua cau de suy doan nghia tu in dam. Thuong thi trong bon lua chon se co 3 lua chon dong nghia voi tu cho san neu cau do yeu cau tu trai nghia, va nguoc lai se co 3 lua chon trai nghia voi tu cho san neu de bai yeu cau tim tu dong nghia. Ket hop ngu canh cua cau cho san de tim ra dap an dung.</div>"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "[CLOSEST] If you listen carefully to this piece of music, you can hear a flute in the <u>background</u>.",
+      "options": ["A. position", "B. experience", "C. training", "D. environment"],
+      "correctIndex": 0,
+      "explanation": "'Background' = nen, boi canh ~ 'position' (vi tri). Am thanh o phia sau, o vi tri nen."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "[CLOSEST] The Internet is <u>available</u> only in cities and towns, so we cannot easily get access to it in the countryside.",
+      "options": ["A. visiting", "B. existing", "C. safe", "D. helpful"],
+      "correctIndex": 1,
+      "explanation": "'Available' = co san, ton tai ~ 'existing' (dang ton tai). Internet chi co o thanh pho."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "[CLOSEST] Wildlife on Earth is <u>disappearing</u> fast and will continue to do so unless urgent action is taken.",
+      "options": ["A. vanishing", "B. damaging", "C. polluting", "D. destroying"],
+      "correctIndex": 0,
+      "explanation": "'Disappearing' = bien mat ~ 'vanishing' (bien mat). Dong vat hoang da dang bien mat nhanh."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "[CLOSEST] Pierre often helped her, and they <u>devoted</u> all their time to working in their laboratory.",
+      "options": ["A. dedicated", "B. sent", "C. gave", "D. offered"],
+      "correctIndex": 0,
+      "explanation": "'Devoted' = cong hien, danh het ~ 'dedicated' (cong hien). Ca hai dong nghia."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "[CLOSEST] I recently posted an advertisement for a <u>vacancy</u> in Sales Department.",
+      "options": ["A. available room", "B. available seat", "C. available space", "D. available position"],
+      "correctIndex": 3,
+      "explanation": "'Vacancy' = vi tri trong (cong viec) ~ 'available position'. Dang tuyen nhan vien."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "[CLOSEST] I lived in the U.S. for ten years, so I've <u>lost touch</u> with British politics.",
+      "options": ["A. become unaware of", "B. forgotten about", "C. become confused about", "D. stopped talking about"],
+      "correctIndex": 0,
+      "explanation": "'Lost touch with' = mat lien lac, khong con nam bat duoc ~ 'become unaware of' (khong con biet ve)."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "[CLOSEST] The law made wearing seat belts in cars <u>compulsory</u>.",
+      "options": ["A. necessary", "B. optional", "C. obligatory", "D. redundant"],
+      "correctIndex": 2,
+      "explanation": "'Compulsory' = bat buoc ~ 'obligatory' (bat buoc). Luat bat buoc that day an toan."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "[CLOSEST] Some research has shown a strong <u>association</u> between pesticide and certain diseases.",
+      "options": ["A. Cooperation", "B. Connection", "C. Consequence", "D. Cause"],
+      "correctIndex": 1,
+      "explanation": "'Association' = moi lien he ~ 'connection' (su ket noi, lien quan). Co moi lien he giua thuoc tru sau va benh."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "[CLOSEST] Reaching 35 and obviously aging, Jane has to <u>make up her mind on</u> her future very soon.",
+      "options": ["A. give a thought about", "B. prepare a plan for", "C. make a decision on", "D. pay attention to"],
+      "correctIndex": 2,
+      "explanation": "'Make up her mind on' = quyet dinh ve ~ 'make a decision on'. Ca hai deu co nghia la dua ra quyet dinh."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "[CLOSEST] The stock market crash marked the start of a severe <u>depression</u>.",
+      "options": ["A. recession", "B. unhappiness", "C. development", "D. boom"],
+      "correctIndex": 0,
+      "explanation": "'Depression' = suy thoai (kinh te) ~ 'recession' (suy thoai). Trong ngu canh thi truong chung khoan."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "[OPPOSITE] Around one corner, a hundred goats suddenly <u>appeared</u>, in no apparent hurry to let us by.",
+      "options": ["A. paraded", "B. left", "C. vanished", "D. showed up"],
+      "correctIndex": 2,
+      "explanation": "'Appeared' = xuat hien >< 'vanished' = bien mat. Hai tu nay trai nghia nhau."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "[OPPOSITE] Global warming is one of the <u>major</u> problems facing our planet.",
+      "options": ["A. Common", "B. minor", "C. important", "D. serious"],
+      "correctIndex": 1,
+      "explanation": "'Major' = lon, chinh >< 'minor' = nho, phu. Hai tu nay trai nghia nhau."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "[OPPOSITE] If we view the problem from a different angle, a solution may become more <u>obvious</u>.",
+      "options": ["A. practical", "B. straightforward", "C. noticeable", "D. unclear"],
+      "correctIndex": 3,
+      "explanation": "'Obvious' = ro rang >< 'unclear' = khong ro rang. Hai tu nay trai nghia nhau."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "[OPPOSITE] If you're <u>willing</u> to fly at night, you can get a much cheaper ticket.",
+      "options": ["A. unprepared", "B. ready", "C. happy", "D. reluctant"],
+      "correctIndex": 3,
+      "explanation": "'Willing' = san long >< 'reluctant' = mien cuong, do du. Hai tu nay trai nghia nhau."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "[OPPOSITE] People should have the <u>courage</u> to stand up for their beliefs.",
+      "options": ["A. weakness", "B. Cowardice", "C. power", "D. bravery"],
+      "correctIndex": 1,
+      "explanation": "'Courage' = su dung cam >< 'cowardice' = su hen nhat. Hai tu nay trai nghia nhau."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "[OPPOSITE] I find it hard to work at home because there are too many <u>distractions</u>.",
+      "options": ["A. unawareness", "B. unconcern", "C. attention", "D. Carelessness"],
+      "correctIndex": 2,
+      "explanation": "'Distractions' = su xao nhang, mat tap trung >< 'attention' = su tap trung, chu y."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "[OPPOSITE] He hoped the company would help him in finding <u>stable</u> accommodation.",
+      "options": ["A. poor", "B. permanent", "C. short-term", "D. suitable"],
+      "correctIndex": 2,
+      "explanation": "'Stable' = on dinh, lau dai >< 'short-term' = ngan han. Hai tu nay trai nghia nhau."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "[OPPOSITE] <u>Before</u> you read, work in pairs, ask and answer the questions.",
+      "options": ["A. While", "B. After", "C. When", "D. By the time"],
+      "correctIndex": 1,
+      "explanation": "'Before' = truoc khi >< 'After' = sau khi. Hai tu nay trai nghia nhau."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "[OPPOSITE] She <u>received</u> a general education in local schools and some scientific training from her father.",
+      "options": ["A. offered", "B. had", "C. gave", "D. asked"],
+      "correctIndex": 2,
+      "explanation": "'Received' = nhan duoc >< 'gave' = cho, tang. Hai tu nay trai nghia nhau."
+    }
+  ]
+}

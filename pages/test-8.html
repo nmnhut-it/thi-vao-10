@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Đề Thi Thử 8 | Ôn Thi Vào 10</title>
+  <link rel="stylesheet" href="../css/shared.css">
+</head>
+<body>
+  <!-- Nav Bar -->
+  <nav class="nav-bar" id="nav-bar">
+    <a class="nav-bar__back" href="../index.html">←</a>
+    <span class="nav-bar__title">Đề Thi Thử 8</span>
+    <span class="test-timer" id="test-timer">--:--</span>
+  </nav>
+
+  <!-- Progress -->
+  <div class="progress">
+    <div class="progress__bar" id="progress-bar" style="width:0%"></div>
+  </div>
+
+  <div class="container">
+    <!-- Question Grid -->
+    <div class="question-grid" id="question-grid"></div>
+
+    <!-- Exercise Area -->
+    <div id="exercise-area" class="exercise-area"></div>
+
+    <!-- Submit Button -->
+    <div style="padding:var(--sp-4) 0;">
+      <button class="btn btn--primary btn--block" id="submit-test" type="button">Nộp bài</button>
+    </div>
+
+    <!-- Results (hidden until submit) -->
+    <div id="results-area" style="display:none;">
+      <div class="results">
+        <div class="results__stars"></div>
+        <div class="results__title"></div>
+        <div class="results__score"></div>
+        <div class="results__actions">
+          <a class="btn btn--primary btn--block" href="../index.html">Về trang chủ</a>
+          <button class="btn btn--outline btn--block" onclick="location.reload()">Làm lại</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="../js/core/storage.js"></script>
+  <script src="../js/core/logic.js"></script>
+  <script src="../js/core/topic-engine.js"></script>
+  <script src="../js/core/test-engine.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      TestEngine.init('test-8');
+      document.getElementById('submit-test').addEventListener('click', () => {
+        if (confirm('Bạn có chắc muốn nộp bài?')) {
+          TestEngine.submitTest();
+        }
+      });
+    });
+  </script>
+</body>
+</html>

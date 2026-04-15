@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Reading Comprehension (Đọc Hiểu) | Ôn Thi Vào 10</title>
+  <link rel="stylesheet" href="../css/shared.css">
+</head>
+<body>
+  <!-- Nav Bar -->
+  <nav class="nav-bar" id="nav-bar">
+    <a class="nav-bar__back" href="../index.html">←</a>
+    <span class="nav-bar__title">Reading Comprehension (Đọc Hiểu)</span>
+    <span class="nav-bar__progress" id="nav-progress">0/0</span>
+  </nav>
+
+  <!-- Progress -->
+  <div class="progress">
+    <div class="progress__bar" id="progress-bar" style="width:0%"></div>
+  </div>
+
+  <!-- Tabs -->
+  <div class="container">
+    <div class="tabs">
+      <button class="tab tab--active" data-target="tab-knowledge">Kiến Thức</button>
+      <button class="tab" data-target="tab-practice">Luyện Tập</button>
+    </div>
+  </div>
+
+  <!-- Knowledge Tab -->
+  <div class="tab-content tab-content--active" id="tab-knowledge">
+    <div class="container">
+      <div class="knowledge" id="knowledge-panel">
+        <div class="knowledge__header">
+          <span class="knowledge__header-text">Kiến thức cần nhớ</span>
+          <span class="knowledge__toggle">▼</span>
+        </div>
+        <div class="knowledge__body knowledge__body--open"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Practice Tab -->
+  <div class="tab-content" id="tab-practice">
+    <div class="container">
+      <div id="exercise-area" class="exercise-area"></div>
+    </div>
+  </div>
+
+  <!-- Results (hidden until complete) -->
+  <div class="container" id="results-area" style="display:none;">
+    <div class="results">
+      <div class="results__stars"></div>
+      <div class="results__title"></div>
+      <div class="results__score"></div>
+      <div class="results__actions">
+        <a class="btn btn--primary btn--block" href="../index.html">Về trang chủ</a>
+        <button class="btn btn--outline btn--block" onclick="location.reload()">Làm lại</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="../js/core/storage.js"></script>
+  <script src="../js/core/logic.js"></script>
+  <script src="../js/core/topic-engine.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => TopicEngine.init('reading-comprehension'));
+  </script>
+</body>
+</html>

@@ -1,0 +1,368 @@
+{
+  "topicId": "grammar-comparison",
+  "title": "Comparison (So Sanh)",
+  "section": "grammar",
+  "knowledge": {
+    "html": "<h2>XII. COMPARISON (SO SANH)</h2><h3>EQUAL COMPARISON (SO SANH BANG)</h3><h4>1. Khang dinh:</h4><div class=\"formula\">S + tobe + as + adj + as + noun/pronoun.<br>S + V + as + adv + as + noun/pronoun.</div><div class=\"example\">Ex: Lan is as young as Hoa. / Mai dances as beautifully as Hue.</div><h4>2. Phu dinh:</h4><div class=\"formula\">S + tobe + not + as/so + adj + as + noun/pronoun.<br>S + V + not + as/so + adv + as + noun/pronoun.</div><div class=\"example\">Ex: Lan isn't as/so young as Hoa.</div><h4>3. Cau truc \"the same as\":</h4><div class=\"formula\">S + tobe/V + the same + (noun) + as + noun/pronoun.</div><div class=\"example\">Ex: This book is the same as that one. / She has the same height as my sister.</div><h3>COMPARATIVE (SO SANH HON)</h3><h4>1. Tinh tu/trang tu ngan:</h4><div class=\"formula\">S + tobe + adj-er + than + noun/pronoun.<br>S + V + adv-er + than + noun/pronoun.</div><div class=\"example\">Ex: My house is smaller than her house. / She runs faster than me.</div><p><strong>Luu y ve cach them \"er\":</strong></p><ul><li>Ket thuc bang \"e\" => them \"r\": large => larger</li><li>Ket thuc bang 1 nguyen am + 1 phu am => gap doi phu am cuoi: big => bigger, hot => hotter</li><li>Ket thuc bang \"y\" => doi \"y\" thanh \"i\" roi them \"er\": noisy => noisier</li><li>Tinh tu 2 am tiet ket thuc bang \"y, ow, er, et, el\" van chia theo cong thuc ngan: narrow => narrower, happy => happier</li></ul><p>Cac trang tu bo nghia: much, far, a bit, a little, a lot.</p><h4>2. Tinh tu/trang tu dai:</h4><div class=\"formula\">S + tobe + more + adj + than + noun/pronoun.<br>S + V + more + adv + than + noun/pronoun.</div><div class=\"example\">Ex: Jenny is more beautiful than me. / Tom talks more slowly than me.</div><h3>SUPERLATIVE (SO SANH NHAT)</h3><h4>1. Tinh tu/trang tu ngan:</h4><div class=\"formula\">S + tobe + the + adj-est + noun/pronoun.<br>S + V + the + adv-est + noun/pronoun.</div><div class=\"example\">Ex: This is the longest river in the world. / I jump the highest in my class.</div><h4>2. Tinh tu/trang tu dai:</h4><div class=\"formula\">S + tobe + the most + adj + noun/pronoun.<br>S + V + the most + adv + noun/pronoun.</div><div class=\"example\">Ex: Jenny is the most beautiful in my class.</div><h3>Bang tinh tu/trang tu bat quy tac</h3><table class=\"grammar-table\"><tr><th>Tinh tu/trang tu</th><th>So sanh hon</th><th>So sanh nhat</th><th>Nghia</th></tr><tr><td>Good/well</td><td>Better</td><td>The best</td><td>Tot</td></tr><tr><td>Bad/badly</td><td>Worse</td><td>The worst</td><td>Te</td></tr><tr><td>Little</td><td>Less</td><td>The least</td><td>It</td></tr><tr><td>Much/many</td><td>More</td><td>The most</td><td>Nhieu</td></tr><tr><td>Far</td><td>Farther/Further</td><td>The farthest/The furthest</td><td>Xa / Them nua</td></tr><tr><td>Old</td><td>Older/Elder</td><td>The oldest/The eldest</td><td>Gia / Anh (chi) trong nha</td></tr></table><h3>DOUBLE COMPARATIVE (SO SANH KEP)</h3><h4>1. Cung 1 tinh tu (cang ngay cang...)</h4><div class=\"formula\">a. Tinh tu/trang tu ngan:<br>S + tobe + adj-er + and + adj-er.<br>S + V + adv-er + and + adv-er.<br><br>b. Tinh tu/trang tu dai:<br>S + tobe + more and more + adj.<br>S + V + more and more + adv.</div><div class=\"example\">Ex: It is getting hotter and hotter.<br>Ex: The lessons are getting more and more difficult.</div><h4>2. Hai tinh tu khac nhau (cang...thi cang...)</h4><div class=\"formula\">The + comparative + S + tobe/V, the + comparative + S + tobe/V.</div><div class=\"example\">Ex: The taller she gets, the thinner she is.<br>Ex: The more beautiful she is, the more attractive she gets.<br>Luu y: Neu tuc tu la danh tu thi dat ngay sau tinh tu so sanh.<br>Ex: The more English vocabulary we know, the better we speak.</div>"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "_____ other mammals, whales do not have a sense of smell.",
+      "options": ["A. Not alike", "B. Unlike", "C. Unlikely", "D. Dislike"],
+      "correctIndex": 1,
+      "explanation": "'Unlike' = khong giong nhu. Dung de so sanh su khac biet."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "The stomach of a cow, _____ that of other ruminants, is divided into four compartments.",
+      "options": ["A. likely", "B. similar", "C. same", "D. like"],
+      "correctIndex": 3,
+      "explanation": "'like' = giong nhu, dung de so sanh."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "The Romans used central heating systems very much like _____.",
+      "options": ["A. those of today", "B. today's do", "C. those they do", "D. the systems which are now"],
+      "correctIndex": 0,
+      "explanation": "'those of today' = nhung he thong cua ngay nay. 'those' thay the cho 'systems'."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "She speaks English as _____ as her friend does.",
+      "options": ["A. good", "B. well", "C. better", "D. the best"],
+      "correctIndex": 1,
+      "explanation": "So sanh bang: as + adv + as. 'well' la trang tu bo nghia cho dong tu 'speaks'."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "It's _____ to go by bus than a car.",
+      "options": ["A. cheaper", "B. cheapest", "C. more cheap", "D. more cheaper"],
+      "correctIndex": 0,
+      "explanation": "'cheap' la tinh tu ngan => them '-er': cheaper. Co 'than' => so sanh hon."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "The test is not _____ difficult _____ it was last year.",
+      "options": ["A. as / as", "B. so / as", "C. more / as", "D. A and B are correct"],
+      "correctIndex": 3,
+      "explanation": "Phu dinh: not as...as = not so...as. Ca A va B deu dung."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "He works more _____ than she does.",
+      "options": ["A. slow", "B. slowly", "C. slowest", "D. most slowly"],
+      "correctIndex": 1,
+      "explanation": "So sanh hon voi trang tu: more + adv => 'more slowly'."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "This hotel must be _____ in this city.",
+      "options": ["A. expensive", "B. more expensive", "C. the most expensive", "D. the more expensive"],
+      "correctIndex": 2,
+      "explanation": "So sanh nhat: the most + adj dai => 'the most expensive'."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "This river is _____ than that river.",
+      "options": ["A. narrow", "B. narrowest", "C. narrower", "D. most narrow"],
+      "correctIndex": 2,
+      "explanation": "'narrow' la tinh tu ngan (2 am tiet ket thuc bang -ow) => narrower."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "Did you know your English teacher and your mother are the same _____?",
+      "options": ["A. age", "B. oldness", "C. old", "D. older"],
+      "correctIndex": 0,
+      "explanation": "'the same + noun' => 'the same age'."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "This hotel was _____ that one we had stayed at before.",
+      "options": ["A. more expensive than", "B. more expensive as", "C. most expensive than", "D. better expensive than"],
+      "correctIndex": 0,
+      "explanation": "So sanh hon: more + adj dai + than."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "He has just married a girl who is _____ him.",
+      "options": ["A. 3 years as old as", "B. 3 years older than", "C. older than 3 years", "D. older 3 years than"],
+      "correctIndex": 1,
+      "explanation": "So luong + so sanh hon + than: '3 years older than'."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "We were disappointed as the film was _____ than we expected.",
+      "options": ["A. entertaining", "B. most entertaining", "C. less entertaining", "D. more entertaining"],
+      "correctIndex": 2,
+      "explanation": "'disappointed' => phim kem hon ky vong => 'less entertaining than'."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "The Pacific Ocean is the world's _____ ocean.",
+      "options": ["A. lager", "B. the larger", "C. largest", "D. more lager"],
+      "correctIndex": 2,
+      "explanation": "So sanh nhat: the world's + adj-est => 'largest'."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "It's _____ film I've ever seen.",
+      "options": ["A. as boring as", "B. the most boring", "C. the boringest", "D. more boring"],
+      "correctIndex": 1,
+      "explanation": "So sanh nhat voi 'ever': the most + adj dai => 'the most boring'."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "The _____ trend in the graph is the improvement in people's living standard between 1990 and 2000.",
+      "options": ["A. second biggest", "B. second bigger", "C. twice big", "D. twice bigger"],
+      "correctIndex": 0,
+      "explanation": "'the second + superlative' = lon thu hai => 'the second biggest'."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "Gold price is going up _____.",
+      "options": ["A. high and high", "B. higher and higher", "C. more and more high", "D. highest and highest"],
+      "correctIndex": 1,
+      "explanation": "So sanh kep voi tinh tu ngan: adj-er + and + adj-er => 'higher and higher'."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "Our examinations are getting _____.",
+      "options": ["A. more difficult and more difficult", "B. more difficult and difficult", "C. more and more difficult", "D. the most difficult"],
+      "correctIndex": 2,
+      "explanation": "So sanh kep voi tinh tu dai: more and more + adj => 'more and more difficult'."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "Don't worry! Everything seems to be _____.",
+      "options": ["A. better and better", "B. good and good", "C. more and more good", "D. good and better"],
+      "correctIndex": 0,
+      "explanation": "So sanh kep voi 'good': better and better."
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "_____ I try to forget the terrible experience, _____ I remember it.",
+      "options": ["A. the more ... the hard", "B. the much ... the harder", "C. the less ... the hardest", "D. the more ... the harder"],
+      "correctIndex": 3,
+      "explanation": "So sanh kep 2 tinh tu: The + comparative..., the + comparative => 'The more..., the harder'."
+    },
+    {
+      "id": 21,
+      "type": "error-correct",
+      "wrongSentence": "Minh can play table tennis better more than I can.",
+      "correctSentence": "Minh can play table tennis better than I can.",
+      "errorWord": "better more than",
+      "correction": "better than",
+      "explanation": "'better' da la dang so sanh hon roi, khong can them 'more'."
+    },
+    {
+      "id": 22,
+      "type": "error-correct",
+      "wrongSentence": "His father's health gets worst and worst.",
+      "correctSentence": "His father's health gets worse and worse.",
+      "errorWord": "worst and worst",
+      "correction": "worse and worse",
+      "explanation": "So sanh kep dung dang so sanh hon: worse and worse (khong phai superlative)."
+    },
+    {
+      "id": 23,
+      "type": "error-correct",
+      "wrongSentence": "Not everyone has realized that the most largest organ of the human body is the skin.",
+      "correctSentence": "Not everyone has realized that the largest organ of the human body is the skin.",
+      "errorWord": "the most largest",
+      "correction": "the largest",
+      "explanation": "Khong dung 'most' truoc tinh tu da co duoi '-est'. Chi can 'the largest'."
+    },
+    {
+      "id": 24,
+      "type": "error-correct",
+      "wrongSentence": "The more fast you drive, the more dangerous you get.",
+      "correctSentence": "The faster you drive, the more dangerous you get.",
+      "errorWord": "more fast",
+      "correction": "faster",
+      "explanation": "'fast' la tinh tu ngan => so sanh hon: faster, khong dung 'more fast'."
+    },
+    {
+      "id": 25,
+      "type": "error-correct",
+      "wrongSentence": "New York is the larger of all American cities.",
+      "correctSentence": "New York is the largest of all American cities.",
+      "errorWord": "the larger",
+      "correction": "the largest",
+      "explanation": "'of all' => so sanh nhat => 'the largest'."
+    },
+    {
+      "id": 26,
+      "type": "error-correct",
+      "wrongSentence": "The more they advertise, the least expensive things are.",
+      "correctSentence": "The more they advertise, the least expensive things are.",
+      "errorWord": "least",
+      "correction": "less",
+      "explanation": "So sanh kep: The + comparative => 'the less expensive' (khong phai superlative 'least')."
+    },
+    {
+      "id": 27,
+      "type": "error-correct",
+      "wrongSentence": "Nam plays the piano better than I am.",
+      "correctSentence": "Nam plays the piano better than I do.",
+      "errorWord": "am",
+      "correction": "do",
+      "explanation": "'plays' la dong tu thuong => tro dong tu la 'do', khong phai 'am'."
+    },
+    {
+      "id": 28,
+      "type": "error-correct",
+      "wrongSentence": "Louise is the more capable of the three girls who have tried out for the part in the play.",
+      "correctSentence": "Louise is the most capable of the three girls who have tried out for the part in the play.",
+      "errorWord": "the more",
+      "correction": "the most",
+      "explanation": "'of the three girls' => so sanh nhat (tu 3 tro len) => 'the most capable'."
+    },
+    {
+      "id": 29,
+      "type": "error-correct",
+      "wrongSentence": "This telephone isn't as cheap the other one, but it works much better.",
+      "correctSentence": "This telephone isn't as cheap as the other one, but it works much better.",
+      "errorWord": "as cheap the",
+      "correction": "as cheap as the",
+      "explanation": "So sanh bang: as + adj + as. Thieu 'as' thu hai."
+    },
+    {
+      "id": 30,
+      "type": "error-correct",
+      "wrongSentence": "Many people believe that New York is the most great city in America.",
+      "correctSentence": "Many people believe that New York is the greatest city in America.",
+      "errorWord": "the most great",
+      "correction": "the greatest",
+      "explanation": "'great' la tinh tu ngan => so sanh nhat: the greatest, khong dung 'the most great'."
+    },
+    {
+      "id": 31,
+      "type": "error-correct",
+      "wrongSentence": "In 1925, he joined the advertising department of Doubleday Page and Company, one of the most large publishing houses in New York.",
+      "correctSentence": "In 1925, he joined the advertising department of Doubleday Page and Company, one of the largest publishing houses in New York.",
+      "errorWord": "the most large",
+      "correction": "the largest",
+      "explanation": "'large' la tinh tu ngan => the largest."
+    },
+    {
+      "id": 32,
+      "type": "error-correct",
+      "wrongSentence": "Most babies will grow up not be as cleverer as their parents.",
+      "correctSentence": "Most babies will grow up not be as clever as their parents.",
+      "errorWord": "cleverer",
+      "correction": "clever",
+      "explanation": "So sanh bang: as + adj (nguyen the) + as. Khong dung dang so sanh hon."
+    },
+    {
+      "id": 33,
+      "type": "sentence-rewrite",
+      "original": "I didn't spend as much money as you.",
+      "instruction": "Rewrite keeping the same meaning.",
+      "starterText": "You spend",
+      "answer": "You spent more money than I did.",
+      "explanation": "not as much as => more than (dao lai)."
+    },
+    {
+      "id": 34,
+      "type": "sentence-rewrite",
+      "original": "No river in the world is longer than the Nile.",
+      "instruction": "Rewrite keeping the same meaning.",
+      "starterText": "The Nile",
+      "answer": "The Nile is the longest river in the world.",
+      "explanation": "No...longer than => the longest (chuyen sang so sanh nhat)."
+    },
+    {
+      "id": 35,
+      "type": "sentence-rewrite",
+      "original": "Lan is better cook than Hoa.",
+      "instruction": "Rewrite keeping the same meaning.",
+      "starterText": "Hoa can't",
+      "answer": "Hoa can't cook as well as Lan.",
+      "explanation": "A is better than B => B can't...as well as A."
+    },
+    {
+      "id": 36,
+      "type": "sentence-rewrite",
+      "original": "No restaurant in the city is better than that one.",
+      "instruction": "Rewrite keeping the same meaning.",
+      "starterText": "That restaurant",
+      "answer": "That restaurant is the best in the city.",
+      "explanation": "No...better than => the best."
+    },
+    {
+      "id": 37,
+      "type": "sentence-rewrite",
+      "original": "This watch is worse than that one.",
+      "instruction": "Rewrite keeping the same meaning.",
+      "starterText": "That watch",
+      "answer": "That watch is better than this one.",
+      "explanation": "A worse than B => B better than A."
+    },
+    {
+      "id": 38,
+      "type": "sentence-rewrite",
+      "original": "My sister writes more carefully than she did.",
+      "instruction": "Rewrite keeping the same meaning.",
+      "starterText": "My sister used",
+      "answer": "My sister used to write less carefully than she does now.",
+      "explanation": "Truoc day viet it can than hon bay gio => used to write less carefully."
+    },
+    {
+      "id": 39,
+      "type": "sentence-rewrite",
+      "original": "This story is more interesting than any other story that I have ever read.",
+      "instruction": "Rewrite keeping the same meaning.",
+      "starterText": "This is",
+      "answer": "This is the most interesting story that I have ever read.",
+      "explanation": "more...than any other => the most (so sanh nhat)."
+    },
+    {
+      "id": 40,
+      "type": "sentence-rewrite",
+      "original": "She is the most beautiful girl I have ever known.",
+      "instruction": "Rewrite keeping the same meaning.",
+      "starterText": "I've never known a",
+      "answer": "I've never known a more beautiful girl than her.",
+      "explanation": "the most...ever => never...a more...than."
+    },
+    {
+      "id": 41,
+      "type": "sentence-rewrite",
+      "original": "Peter does not drive so carefully as Tom.",
+      "instruction": "Rewrite keeping the same meaning.",
+      "starterText": "Tom drives",
+      "answer": "Tom drives more carefully than Peter.",
+      "explanation": "A not so...as B => B more...than A."
+    },
+    {
+      "id": 42,
+      "type": "sentence-rewrite",
+      "original": "Yesterday the temperature was nine degrees. Today it's only six degrees.",
+      "instruction": "Rewrite keeping the same meaning.",
+      "starterText": "It",
+      "answer": "It is colder today than it was yesterday.",
+      "explanation": "6 do < 9 do => hom nay lanh hon hom qua."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+*.log
+test-output.txt
+*.pdf
+test-output.txt
+validate-output.txt

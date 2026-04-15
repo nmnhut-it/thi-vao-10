@@ -1,0 +1,430 @@
+{
+  "topicId": "reading-comprehension",
+  "title": "Reading Comprehension (Doc Hieu)",
+  "section": "reading",
+  "knowledge": {
+    "html": "<h3>Reading Comprehension Strategies</h3><p>Thuong co 5 cau hoi va duoc phan loai thanh nhung dang chinh sau:</p><ul><li><strong>Main idea questions:</strong> What is the topic/subject/main idea of the passage?</li><li><strong>Stated detail questions:</strong> According to the passage... / Which of the following is true?</li><li><strong>Unstated detail questions:</strong> Which of the following is NOT true? / All of the following are true, EXCEPT...?</li><li><strong>Pronoun reference questions:</strong> The word \"...\" in line ... refers to...?</li><li><strong>Vocabulary questions:</strong> The word \"...\" is closest in meaning to...? / The word \"...\" is opposite in meaning to...?</li></ul><h4>Phuong phap lam bai:</h4><ol><li>Doc luot bai doc de nam y chinh.</li><li>Doc cau hoi va tim tu khoa.</li><li>Quay lai bai doc tim cau tra loi.</li><li>Loai bo nhung phuong an sai.</li></ol>"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "reading-comprehension",
+      "passage": "One of the most important discoveries of the nineteenth century was a method of using natural gas for cooking and heating. Large amounts of natural gas are found in the United States, usually several feet below the surface of the Earth. Natural gas is most often found in places where petroleum, the oil from which gasoline is made, is found. Often the natural gas must be removed before the oil itself can be reached.\nFor many years after natural gas was first discovered, it was thought to have no value. Finally, however, people began to understand its use and to find ways of storing it and moving it from place to place. Today natural gas is stored in large tanks and used for lighting, cooking and heating. It has also been used for electric generators and hybrid cars recently. In many ways natural gas is one of our finest fuels. It can be used for cooking without making the room hot. It is cheap and can be moved easily from one place to another through long pipelines, some of which are hundreds of miles in length.",
+      "questions": [
+        {
+          "id": "1a",
+          "question": "1. This passage as a whole is about ________.",
+          "options": ["A. discovering natural gas", "B. finding petroleum", "C. using natural gas and petroleum", "D. natural gas and its use"],
+          "correctIndex": 3,
+          "explanation": "The passage discusses what natural gas is, how it was discovered, and its many uses -- making D the best summary."
+        },
+        {
+          "id": "1b",
+          "question": "2. Which of the following is NOT true about natural gas?",
+          "options": ["A. It is not used for heating.", "B. It moves through pipes.", "C. It is cheap.", "D. It can be stored."],
+          "correctIndex": 0,
+          "explanation": "The passage states natural gas is used for 'cooking and heating,' so A is false."
+        },
+        {
+          "id": "1c",
+          "question": "3. How many uses of natural gas are mentioned?",
+          "options": ["A. two", "B. three", "C. four", "D. five"],
+          "correctIndex": 3,
+          "explanation": "The passage mentions lighting, cooking, heating, electric generators, and hybrid cars -- five uses."
+        },
+        {
+          "id": "1d",
+          "question": "4. What does the word \"it\" in the passage refer to?",
+          "options": ["A. natural gas", "B. electric generator", "C. pipeline", "D. tank"],
+          "correctIndex": 0,
+          "explanation": "The pronoun 'it' in context refers back to 'natural gas,' the main subject of the paragraph."
+        },
+        {
+          "id": "1e",
+          "question": "5. Which of the following is closest meaning to \"discovered\"?",
+          "options": ["A. invented", "B. found", "C. used", "D. stored"],
+          "correctIndex": 1,
+          "explanation": "'Discovered' means 'found' -- to find something for the first time."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "reading-comprehension",
+      "passage": "Why should you learn a foreign language, such as English? First, learning a foreign language opens up job opportunities. Most companies look for people with foreign language skills. Second, learning a foreign language can offer a special experience to travellers. You can easily find the places, ask for directions, and even order food in the countries. Speaking a language also gives you a better understanding of the country's culture. Another reason why you should learn a foreign language is that it helps you to learn other subjects better. Learning a foreign language is hard and requires a lots of mental exercise. This, in turns, helps the brain to work better and strengthen the ability to memorize and analyze.",
+      "questions": [
+        {
+          "id": "2a",
+          "question": "1. What is the topic of the passage?",
+          "options": ["A. The reasons for learning a foreign language", "B. The benefits of learning English", "C. The ways to learn a foreign language", "D. The importance of communication with people"],
+          "correctIndex": 0,
+          "explanation": "The passage lists multiple reasons why one should learn a foreign language."
+        },
+        {
+          "id": "2b",
+          "question": "2. The word \"it\" refers to ________.",
+          "options": ["A. Another reason", "B. learning a foreign language", "C. subject", "D. mental exercise"],
+          "correctIndex": 1,
+          "explanation": "'It' refers to 'learning a foreign language' which helps you learn other subjects better."
+        },
+        {
+          "id": "2c",
+          "question": "3. According to the text, which of the following statement is NOT true?",
+          "options": ["A. Most companies look for people with foreign language skills.", "B. Learning a foreign language helps you to learn other subjects better.", "C. Speaking a language gives you a better understanding of the country's culture.", "D. It isn't necessary to know a foreign language"],
+          "correctIndex": 3,
+          "explanation": "The passage argues strongly for learning a foreign language, so D contradicts the passage."
+        },
+        {
+          "id": "2d",
+          "question": "4. How many benefits of learning a foreign language are listed in the text?",
+          "options": ["A. One", "B. Two", "C. Three", "D. Four"],
+          "correctIndex": 2,
+          "explanation": "Three benefits: job opportunities, travel experience, and helping learn other subjects."
+        },
+        {
+          "id": "2e",
+          "question": "5. The word \"hard\" is closest in meaning to ________.",
+          "options": ["A. easy", "B. difficult", "C. interesting", "D. boring"],
+          "correctIndex": 1,
+          "explanation": "'Hard' means 'difficult.'"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "reading-comprehension",
+      "passage": "Tropical cyclones are called typhoons in Asia and hurricanes in North and South America. These forms go around like a wheel turning to the left when they hit in the northern part of the world. They have wind speeds of 60 kph or more. In the United States, the Tropical Prediction Center in Miami, Florida keeps an eye out for hurricanes.\nWhen meteorologists discover a hurricane, they give it a name. They can use either a male or female name. Why should tropical cyclones have names? The name makes it easy for people to keep up with information about a hurricane and its possible dangers.\nThe World Meteorological Organization (WMO), an international weather group decides what names will be used. The WMO makes lists of names using the English alphabet. Each name on the list starts with a different letter. The first hurricane of the year gets the first name on that year's list. The second hurricane gets the next name. For example, if the first hurricane is named Abel, the second might be named Betty. The name lists do not include names beginning with the letters Q, U, X, Y and Z. There aren't many names that begin with these letters.\nAsian countries use a different list, which is made up by the WMO's Typhoon Committee. This list has a few personal names, but most of the names are of flowers, animals, trees, and other similar things.",
+      "questions": [
+        {
+          "id": "3a",
+          "question": "1. What is the main idea of this reading?",
+          "options": ["A. When tropical cyclones are named", "B. When tropical cyclones can do", "C. How tropical cyclones are named", "D. Who watches for tropical cyclones"],
+          "correctIndex": 2,
+          "explanation": "The passage mainly explains the process and system of naming tropical cyclones."
+        },
+        {
+          "id": "3b",
+          "question": "2. What does the word \"which\" in the last paragraph refer to?",
+          "options": ["A. a different list", "B. a female name", "C. the alphabet", "D. a male name"],
+          "correctIndex": 0,
+          "explanation": "'Which' refers to 'a different list' used by Asian countries."
+        },
+        {
+          "id": "3c",
+          "question": "3. What is the wind speed of a cyclone?",
+          "options": ["A. 50 kph", "B. 60kph", "C. 70 pkh", "D. 80 pkh"],
+          "correctIndex": 1,
+          "explanation": "The passage states wind speeds of '60 kph or more.'"
+        },
+        {
+          "id": "3d",
+          "question": "4. Which of the following letters are NOT used to name hurricanes?",
+          "options": ["A. D", "B. T", "C. M", "D. Q"],
+          "correctIndex": 3,
+          "explanation": "The passage says names beginning with Q, U, X, Y and Z are not included."
+        },
+        {
+          "id": "3e",
+          "question": "5. What does the word \"discover\" in paragraph 2 mean?",
+          "options": ["A. look for", "B. find out", "C. look at", "D. take off"],
+          "correctIndex": 1,
+          "explanation": "'Discover' means 'find out' -- to detect or identify something."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "reading-comprehension",
+      "passage": "The price of holidays can fluctuate a great deal throughout the year, so you can save a lot if you are flexible with your travel dates and avoid peak holiday times. It can be also cheaper if you book well in advance. Before your departure, make sure you get as much information about your destination as you can. Find out if you require any special visas or permits to travel there. Think about spending money as well. Will you be able to access your own money easily enough or will you need to take cash with you? Think about eating larger lunches and smaller evening meals to help your money go further, as lunch is generally cheaper. Make sure that you keep sufficient identification with you at all times. It may also be useful to email a copy of your passport details to yourself, in case it is lost or stolen. Label your suitcases clearly so that they can be easily identified as yours. It can be useful to store a copy of your itinerary in a prominent place in your suitcase so that the airline will know where to find you if your luggage gets lost. Be sure to pack any medication or other essential items in your hand luggage. If your flight is delayed, or your luggage is lost, these can be difficult to obtain in an airport or foreign country.",
+      "questions": [
+        {
+          "id": "4a",
+          "question": "1. Which can be the best title for the passage?",
+          "options": ["A. Travel procedures", "B. Travel advice", "C. How to adjust travel dates", "D. Protect your luggage"],
+          "correctIndex": 1,
+          "explanation": "The passage gives various tips and advice for travelers, so 'Travel advice' is the best title."
+        },
+        {
+          "id": "4b",
+          "question": "2. Which one of these is NOT advisable according to the passage?",
+          "options": ["A. Research your destination", "B. Always bring identification", "C. Apply for visas if necessary", "D. Save money by cutting out dinner"],
+          "correctIndex": 3,
+          "explanation": "The passage says eat larger lunches and smaller evening meals, not cut out dinner entirely."
+        },
+        {
+          "id": "4c",
+          "question": "3. According to the passage, your luggage should be ________.",
+          "options": ["A. stored in a safe place", "B. tagged in case of being lost", "C. packed with your passport", "D. painted a bright colour"],
+          "correctIndex": 1,
+          "explanation": "The passage says to label suitcases clearly so they can be identified -- essentially tagging them."
+        },
+        {
+          "id": "4d",
+          "question": "4. The underlined word 'it' refers to your ________.",
+          "options": ["A. identification", "B. luggage", "C. passport", "D. flight"],
+          "correctIndex": 2,
+          "explanation": "'It' refers to your passport, as the sentence discusses emailing passport details in case 'it is lost or stolen.'"
+        },
+        {
+          "id": "4e",
+          "question": "5. It can be inferred from the passage that ________.",
+          "options": ["A. travelling may cost more in peak season", "B. you must always take cash with you", "C. larger lunches cost more than smaller ones", "D. you can't get back your lost luggage overseas"],
+          "correctIndex": 0,
+          "explanation": "The passage says to 'avoid peak holiday times' to save money, implying peak season costs more."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "reading-comprehension",
+      "passage": "Are you looking for a cheap, clean, effective source of power that doesn't cause pollution or waste natural resources? Look no further than solar energy from our sun. At present, most of our electricity comes from the use of coal, gas, oil or nuclear. This power could be provided by the sun. One percent of the solar energy that reaches the earth is enough to provide power for the total population. Many countries have already used solar energy. Solar panels are placed on the roofs of our house and the Sun's energy is used to heat water. The energy can be stored for a number of days, so on cloudy days you can use solar energy, too. Sweden has an advanced solar energy program. There, all buildings will be heated by solar energy and cars will use solar energy instead of gas by the year 2015.",
+      "questions": [
+        {
+          "id": "5a",
+          "question": "1. What is the main idea of the passage?",
+          "options": ["A. Energy", "B. Solar energy", "C. Pollution", "D. Nuclear power"],
+          "correctIndex": 1,
+          "explanation": "The entire passage is about solar energy -- its benefits and applications."
+        },
+        {
+          "id": "5b",
+          "question": "2. How much solar energy is enough for the world's population?",
+          "options": ["A. Two percent of the solar energy.", "B. One-third of the solar energy.", "C. One percent of the solar energy.", "D. One-fifth of the solar energy."],
+          "correctIndex": 2,
+          "explanation": "The passage states 'One percent of the solar energy that reaches the earth is enough.'"
+        },
+        {
+          "id": "5c",
+          "question": "3. Where are solar panels installed?",
+          "options": ["A. They are placed in the garden of the house.", "B. They are placed on the roofs of the house.", "C. They are placed on the floor of the house.", "D. They are placed on the branches of the tall trees behind the house."],
+          "correctIndex": 1,
+          "explanation": "The passage says 'Solar panels are placed on the roofs of our house.'"
+        },
+        {
+          "id": "5d",
+          "question": "4. What is the word \"placed\" closest in meaning to?",
+          "options": ["A. put on", "B. installed", "C. put", "D. B & C"],
+          "correctIndex": 3,
+          "explanation": "'Placed' can mean both 'installed' and 'put,' so D (B & C) is correct."
+        },
+        {
+          "id": "5e",
+          "question": "5. What does the word \"There\" refers to?",
+          "options": ["A. Many countries", "B. Sweden", "C. On the roofs", "D. The sun"],
+          "correctIndex": 1,
+          "explanation": "'There' refers to Sweden, mentioned in the previous sentence."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "reading-comprehension",
+      "passage": "In the Mekong Delta, Long Dinh village of Tien Giang province is famous for its traditional craft of weaving flowered mats. The mat's high quality makes them popular domestically, and they are also exported to markets worldwide including Korea, Japan and America.\nIn spite of its well-established reputation for this traditional craft, mat weaving only started here some 50 years ago. It was first introduced by immigrants from Kim Son, a famous mat weaving village in the northern province of Ninh Binh. However, the technique of weaving sedge mats in Long Dinh, as compared with other places in the South, is somewhat different. Long Dinh branded mats are thicker and have more attractive colours and patterns.\nWeaving sedge mats is similar to growing rice. Long Dinh mat production mainly occurs during the dry season, from January to April. Weavers have to work their hardest in May and June, otherwise, when the rainy season starts in July, they will have to put off finishing their products till the next dry season. No matter how much work it requires, Long Dinh mat producers stick with this occupation, as it brings a higher income than growing rice.\nThis trade provides employment for thousands of local labourers. At present, nearly 1,000 households in Long Dinh village live on weaving mats. To meet market demands, Long Dinh mat weavers have created more products in addition to the traditional sedge mats. Particularly, they are producing a new type of mat made from the dried stalks of water hyacinth, a common material in the Mekong Delta.\nThanks to the planning and further investment, the mat weaving occupation has indeed brought in more income for local residents. Their living standards have improved considerably, resulting in better conditions for the whole village.",
+      "questions": [
+        {
+          "id": "6a",
+          "question": "1. In order to meet market demands, artisans in Long Dinh ________.",
+          "options": ["A. try to produce various types of products", "B. stop producing the traditional sedge mats", "C. produce new Products from rare material", "D. for thousands of local labourers"],
+          "correctIndex": 0,
+          "explanation": "The passage says they 'created more products in addition to the traditional sedge mats.'"
+        },
+        {
+          "id": "6b",
+          "question": "2. We can infer from the sentence \"Weaving sedge mats is similar to growing rice\" that ________.",
+          "options": ["A. both bring similar income", "B. both occur at the same time", "C. both depend on weather conditions", "D. both occur on the same land"],
+          "correctIndex": 2,
+          "explanation": "Both activities depend on dry/rainy seasons, meaning they depend on weather conditions."
+        },
+        {
+          "id": "6c",
+          "question": "3. Despite difficulties, people in Long Dinh try to follow the craft because ________.",
+          "options": ["A. they can make the techniques of weaving different", "B. they can earn more money than growing rice", "C. they can have jobs in the rainy months", "D. they can go to Korea, Japan and America"],
+          "correctIndex": 1,
+          "explanation": "The passage states 'it brings a higher income than growing rice.'"
+        },
+        {
+          "id": "6d",
+          "question": "4. We can infer from the passage that ________.",
+          "options": ["A. the craft contributes much to the village economy", "B. most of the households in Long Dinh village live on weaving mats", "C. the new technique makes labourers work in the dry season", "D. Long Dinh mat production is only well-known in foreign markets"],
+          "correctIndex": 0,
+          "explanation": "The passage concludes that mat weaving brought more income and improved living standards for the whole village."
+        },
+        {
+          "id": "6e",
+          "question": "5. All of the following are true about the craft in Long Dinh EXCEPT ________.",
+          "options": ["A. the techniques are a little bit different from those in other regions", "B. the mats have more attractive colours and designs", "C. it has the origin from Kim Son, Ninh Binh", "D. it has had the reputation for more than 50 years"],
+          "correctIndex": 3,
+          "explanation": "The passage says mat weaving started 'some 50 years ago,' not 'more than 50 years.'"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "reading-comprehension",
+      "passage": "Life in the big city is face-paced, fun and exciting. There are countless job opportunities and activities to occupy your time. However, with the good, there also comes the bad. Although the big city has more job opportunities; there are also more people competing for a single job. This can make your job search frustrating. Oddly enough, you will see hundreds, if not thousands of jobs available each week, but you still might remain unemployed, especially when the economy is down. In addition, the cost of living is typically higher in big cities, and it can cost you an arm and a leg for a small apartment in a decent area of the city, not to mention other costs to fulfill your basic demands. Diversity is a good thing, but the amount of people can be a bit overwhelming if you are not accustomed to it. There will always be crowds and always be people around. Moreover, traffic can be a nightmare in the big city. It can get so bad that it can turn you into an evil person. If you hate driving in traffic, then the big city life is not for you. Heavy traffic also contributes to the pollution, which is one of the biggest disadvantages of living in the city. Obviously, our health is affected with certain diseases relating to respiratory system and other body parts. A lot of premature deaths are supposed to be the result of long-term exposure to small particles. Most importantly, there is always more crime in a big city, causing you second case your decision for living in a big city. You are much more likely to be a victim of a crime living in a big city than in a small town.",
+      "questions": [
+        {
+          "id": "7a",
+          "question": "1. According to the passage, some good things of living in the city are ________.",
+          "options": ["A. excellent educational system and recreational activities", "B. excellent educational system and countless job opportunities", "C. countless job opportunities and activities to occupy your time", "D. a lot of kinds of entertainment and shopping centers"],
+          "correctIndex": 2,
+          "explanation": "The passage mentions 'countless job opportunities and activities to occupy your time.'"
+        },
+        {
+          "id": "7b",
+          "question": "2. While big cities have more job opportunities, it also gives ________.",
+          "options": ["A. more competition for a single job", "B. higher salary", "C. growing economic crisis", "D. greater chances of being unemployed"],
+          "correctIndex": 0,
+          "explanation": "The passage states 'there are also more people competing for a single job.'"
+        },
+        {
+          "id": "7c",
+          "question": "3. What does the phrase \"cost an arm and a leg\" mean?",
+          "options": ["A. your legs and arms have good value", "B. cost a small amount of money", "C. you must work hard to earn money", "D. cost a lot of money"],
+          "correctIndex": 3,
+          "explanation": "'Cost an arm and a leg' is an idiom meaning 'cost a lot of money.'"
+        },
+        {
+          "id": "7d",
+          "question": "4. According to the paragraph, city is not a perfect place for ________.",
+          "options": ["A. extroverted people", "B. introverted people", "C. people who hate driving in traffic", "D. people who prefer a busy life"],
+          "correctIndex": 2,
+          "explanation": "The passage says 'If you hate driving in traffic, then the big city life is not for you.'"
+        },
+        {
+          "id": "7e",
+          "question": "5. Which of the following sentences is NOT true?",
+          "options": ["A. Pollution causes health problems.", "B. Cities are always crowded.", "C. It costs a lot of money to live in a big city.", "D. Crime is not a serious problem in big cities."],
+          "correctIndex": 3,
+          "explanation": "The passage says 'there is always more crime in a big city,' so D is false."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "reading-comprehension",
+      "passage": "Orbis is an organisation which helps blind people of everywhere. It has built an eye hospital inside an aeroplane and flown in all over the world with an international medical team. Samantha Graham, a fourteen-year-old schoolgirl from England, went with the plane to Mongolia.\nSamantha tells the story of the Eukhtul, a young Mongolian girl.\n\"Last year, when Eukhtul was walking home school, she was attacked by boys with sticks and her eyes were badly damaged. Dr. Duffey, an Orbis doctor, said that without an operation she would never see again. I thought about all the things I do that she couldn't, things like reading schoolbooks, watching television, seeing friends, and I realised how lucky I am.\"\n\"The Orbis team agreed to operate on Eukhtul and I was allowed to watch, together with some Mongolian medical student, I prayed the operation would be successful. The next day I waited nervously with Eukhtul while Dr. Duffey removed her bandages. 'In six months your sight will be back to normal,' he said. Eukhtul smiled, her mother cried, and I had to wipe away some tears, too.\"\n\"Now Eukhtul wants to study hard to become a doctor. Her whole future has changed, thanks to a simple operation. We should all think more about how much our sight means to us.\"",
+      "questions": [
+        {
+          "id": "8a",
+          "question": "1. What information can be learned from this passage?",
+          "options": ["A. The best way of studying medicine", "B. the international work of some eye doctors", "C. the difficulties for blind travelers", "D. the life of schoolchildren in Mongolia"],
+          "correctIndex": 1,
+          "explanation": "The passage describes the international work of Orbis eye doctors helping blind people."
+        },
+        {
+          "id": "8b",
+          "question": "2. The word \"she\" in paragraph 2 refers to ________.",
+          "options": ["A. the writer", "B. the nurse", "C. Eukhtul", "D. the medical student"],
+          "correctIndex": 2,
+          "explanation": "'She' refers to Eukhtul, the young Mongolian girl whose story is being told."
+        },
+        {
+          "id": "8c",
+          "question": "3. After meeting Eukhtul, Samantha felt ________.",
+          "options": ["A. angry about Eukhtul's experience", "B. grateful for her own sight", "C. proud of the doctor's skill", "D. surprised by Eukhtul's ability"],
+          "correctIndex": 1,
+          "explanation": "Samantha says 'I realised how lucky I am,' showing gratitude for her own sight."
+        },
+        {
+          "id": "8d",
+          "question": "4. What the result of Eukhtul's operation?",
+          "options": ["A. After some time she will see as well as before", "B. Before she recovers, she needs another operation", "C. She can see better but can never have normal eyes", "D. She can't see perfectly again"],
+          "correctIndex": 0,
+          "explanation": "The doctor said 'In six months your sight will be back to normal.'"
+        },
+        {
+          "id": "8e",
+          "question": "5. What is the writer's main purpose in writing this passage?",
+          "options": ["A. To describe a dangerous trip", "B. To explain how sight can be lost", "C. To report a patient's cure", "D. To warn against playing with sticks"],
+          "correctIndex": 2,
+          "explanation": "The passage reports the successful cure of Eukhtul's blindness through an Orbis operation."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "reading-comprehension",
+      "passage": "After only 50 minute flying from Ho Chi Minh City, you will set foot on the tropical paradise of Vietnam and the world: Phu Quoc Island.\nThe island has a roughly triangular shape with a north-south length of 50km and a west-east width of 25km. A great part of the terrain is filled with beautiful sandy beaches, but there is a mountainous region with 99 peaks, among which the Peak of Chua Mountain is the tallest one at 603 meters. Due to Phu Quoc's location in the Gulf of Thailand, its climate is sub-equatorial with a temperate weather all year round, making trips to Phu Quoc possible any time in the year. However, the best time to travel to this island is during the dry season, from November until March, when the sky is blue and clear and the rains are away.\nPhu Quoc is most famous for its the cuisines and a natural wonderful coastline. The most famous food of Phu Quoc is fish sauce, which has become quite popular all over Vietnam and the world. Besides, another thing worth trying there is the spicy yet interesting black pepper. However, the factor that will definitely intrigue you to visit Phu Quoc is its untouched coastline featuring several heavenly beaches. They have yet to be explored to their full ability, but this fact might be actually positive as it gives the shores a romantic beauty that you can find in nowhere else in the world.",
+      "questions": [
+        {
+          "id": "9a",
+          "question": "1. What is Phu Quoc Island regarded as?",
+          "options": ["A. Pearl of the Orient", "B. Tropical Paradise", "C. City of Eternal Spring", "D. Lanterns Paradise"],
+          "correctIndex": 1,
+          "explanation": "The passage calls Phu Quoc 'the tropical paradise of Vietnam and the world.'"
+        },
+        {
+          "id": "9b",
+          "question": "2. According to the passage, Phu Quoc Island ________.",
+          "options": ["A. has both beaches and mountains", "B. doesn't have much tourist attraction", "C. has the tallest mountain in Vietnam", "D. doesn't have rains all the year round"],
+          "correctIndex": 0,
+          "explanation": "The passage mentions both 'beautiful sandy beaches' and 'a mountainous region with 99 peaks.'"
+        },
+        {
+          "id": "9c",
+          "question": "3. Tourists can visit Phu Quoc anytime in the year thanks to ________.",
+          "options": ["A. its location by the sea", "B. its friendly local people", "C. its temperate climate", "D. its dry season"],
+          "correctIndex": 2,
+          "explanation": "The passage says its climate is 'sub-equatorial with a temperate weather all year round.'"
+        },
+        {
+          "id": "9d",
+          "question": "4. The word \"intrigue\" in paragraph 3 has the closest meaning to ________.",
+          "options": ["A. attract", "B. promote", "C. inspire", "D. pay attention to"],
+          "correctIndex": 0,
+          "explanation": "'Intrigue' means to arouse curiosity or interest, closest to 'attract.'"
+        },
+        {
+          "id": "9e",
+          "question": "5. Which of the following statements is NOT true?",
+          "options": ["A. Phu Quoc Island is located in the Gulf of Thailand.", "B. The beaches in Phu Quoc Island have been explored to their full potentials.", "C. Phu Quoc's dry season begins from November and lasts through March.", "D. The island is roughly triangular in shape."],
+          "correctIndex": 1,
+          "explanation": "The passage says the beaches 'have yet to be explored to their full ability,' so B is false."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "reading-comprehension",
+      "passage": "In the early 17th century, most of the southern region of Vietnam was nearly uninhabited and in the position of Ho Chi Minh City, there was a small village formed with a few residents. However, thanks to its advantage in location, the town grew both economically and politically. By the 19th century, this had become a cultural hub of the South as well as an important trading center of the country.\nYou might not know that there was a time Saigon was referred to as the Pearl of the Far East. Sadly, having been through various occurrences and two disastrous wars has stunted the city's development. Only after the political instabilities had settled, Saigon recovered miraculously and maintained its leading position in terms of both the economics and culture. Officially named as Ho Chi Minh City, Saigon today has 22 districts in total and attracts hundreds of thousands of tourists annually.",
+      "questions": [
+        {
+          "id": "10a",
+          "question": "1. What is the best title of the passage?",
+          "options": ["A. Saigon: Lost and Found", "B. Saigon: Now and Then", "C. Saigon: Then and Now", "D. Saigon: Hub of the South East Vietnam"],
+          "correctIndex": 2,
+          "explanation": "The passage traces Saigon's history from past to present, making 'Then and Now' the best title."
+        },
+        {
+          "id": "10b",
+          "question": "2. What happened to Saigon in the 19th century?",
+          "options": ["A. It became popular all over Asia.", "B. It became a cultural hub of the South and an important trading center of Vietnam.", "C. It became the most important trading center in the world.", "D. It was no longer visited by international tourists."],
+          "correctIndex": 1,
+          "explanation": "The passage states it 'became a cultural hub of the South as well as an important trading center.'"
+        },
+        {
+          "id": "10c",
+          "question": "3. The city's development has been stunted because of ________.",
+          "options": ["A. two disastrous wars", "B. some major historic events", "C. natural disasters and disastrous wars", "D. different occurrences and disastrous wars"],
+          "correctIndex": 3,
+          "explanation": "The passage says 'various occurrences and two disastrous wars has stunted the city's development.'"
+        },
+        {
+          "id": "10d",
+          "question": "4. The word \"occurrences\" is closest in meaning to ________.",
+          "options": ["A. situations", "B. adventures", "C. incidents", "D. affairs"],
+          "correctIndex": 2,
+          "explanation": "'Occurrences' means events or incidents that happen."
+        },
+        {
+          "id": "10e",
+          "question": "5. Which of the following sentences is NOT true?",
+          "options": ["A. In the early 17th century, there were only a few residents living on the position of Saigon.", "B. The location of Saigon helped the town develop its economy and politics.", "C. Saigon was once referred as the Pearl of the Far East.", "D. Saigon had recovered and held its leading position before the political instabilities settled."],
+          "correctIndex": 3,
+          "explanation": "The passage says Saigon recovered 'only after the political instabilities had settled,' not before."
+        }
+      ]
+    }
+  ]
+}

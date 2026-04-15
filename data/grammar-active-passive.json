@@ -1,0 +1,530 @@
+{
+  "topicId": "grammar-active-passive",
+  "title": "Active & Passive (Chu Dong & Bi Dong)",
+  "section": "grammar",
+  "knowledge": {
+    "html": "<h3>Cau truc chung</h3><div class='formula'><b>Cau chu dong:</b> S + V + O<br><b>Cau bi dong:</b> S + BE + PP + [by + O]</div><p><b>Can chu y khi chuyen tu chu dong sang bi dong:</b></p><ul><li>Dong tu BE trong cau bi dong phai duoc chia cung thi dong tu voi cau chu dong.</li><li>Trong cau chu dong, neu chu ngu S la I, you, we, they, he, she, it, someone, everybody, people... (chu the khong ro rang) thi khi chuyen sang cau bi dong khong dung [by + O].</li><li>[by + O] dung sau trang tu chi tan xuat, dia diem; dung truoc trang tu chi thoi gian.</li></ul><h4>1. Bi dong cac thi trong tieng Anh (Bang quy doi)</h4><table class='grammar-table'><tr><th>TENSES</th><th>ACTIVE (Chu dong)</th><th>PASSIVE (Bi dong)</th></tr><tr><td>1. Present simple (HTD)</td><td>S + V(inf)/Vs/es + O</td><td>S + am/is/are + PP (V3/V-ed)</td></tr><tr><td>2. Present Continuous (HTTD)</td><td>S + am/is/are + V-ing + O</td><td>S + am/is/are + being + V3/V-ed</td></tr><tr><td>3. Present perfect (HTHT)</td><td>S + have/has + V3/V-ed + O</td><td>S + have/has + been + V3/V-ed</td></tr><tr><td>4. Past simple (QKD)</td><td>S + V2/V-ed + O</td><td>S + was/were + V3/V-ed</td></tr><tr><td>5. Past continuous (QKTD)</td><td>S + was/were + V-ing + O</td><td>S + was/were + being + V3/V-ed</td></tr><tr><td>6. Past perfect (QKHT)</td><td>S + had + PP + O</td><td>S + had + been + V3/V-ed</td></tr><tr><td>7. Future simple (TLD)</td><td>S + will/shall + V(inf) + O</td><td>S + will/shall + be + V3/V-ed</td></tr><tr><td>8. Near future (TLG)</td><td>S + am/is/are going to + V(inf)</td><td>S + am/is/are going to be + V3/V-ed</td></tr><tr><td>9. Modal verbs (DT KK)</td><td>S + can/could/may... + V(inf)</td><td>S + can/could/may... + be + V3/V-ed</td></tr></table><h4>2. Cac dang bi dong dac biet</h4><h5>Causative Forms (The sai khien)</h5><div class='formula'><b>S + have + Sb + V + O</b> -> <b>S + have + O + PP + by Sb</b><br><b>S + get + Sb + to V + O</b> -> <b>S + have/get + O + PP + by Sb</b><br><b>S + employ/hire + Sb + to V + O</b> -> <b>S + have + O + PP + by Sb</b></div><div class='example'>Ex: I have Peter fix my bike -> I have my bike fixed by Peter.<br>I got Peter fix my bike -> I got/had my bike fixed by Peter.</div><h5>Verbs with two subjects (Dong tu di kem 2 tan ngu)</h5><div class='formula'><b>S + V + O1 + O2</b><br>(C1) S + be + V3/ed + O2 + (by + O)<br>(C2) S + be + V3/ed + to/for + O1 + (by + O)</div><div class='example'>Ex: The student gave me a book.<br>-> I was given a book by the student.<br>-> A book was given to me by the student.</div><h5>Verbs follow by V (Dong tu theo sau boi V nguyen the)</h5><div class='formula'><b>make, hear, help, see, etc... + V</b><br>-> (be) made, heard, helped, seen, + etc... <b>+ to V</b></div><div class='example'>Ex: John made me leave. -> I was made to leave (by John).</div><div class='formula'><b>S + let + O + V</b> -> <b>S + BE + ALLOWED + to V</b></div><div class='example'>Ex: They didn't let me go out. -> I wasn't allowed to go out.</div><h5>Verbs with prepositions (Dong tu di kem gioi tu)</h5><p>Cau chu dong, dong tu di kem voi gioi tu (V + O + prep). Cau bi dong, gioi tu phai dung ngay phia sau dong tu (V + prep).</p><div class='example'>Ex: A car has knocked me down. -> I have been knocked down by a car.</div><h5>Complex sentences (Cau phuc)</h5><p>Cau phuc o dang chu dong gom 2 menh de va nhung dong tu chi quan diem: think, say, believe, consider, expect, find, hope, know, report, understand, etc...</p><div class='formula'><b>Cau truc chu dong:</b> S1 + V1 (think, say, ...) that S2 + V2<br><b>Cau phuc o dang bi dong co 2 cach chuyen:</b><br>1. Cach chung: <b>It + be + PP (V1) + that S2 + V2</b><br>2. Neu dong tu o 2 menh de <b>tuong duong</b> thi dong tu: <b>S2 + be + PP(V1) + to V</b> (Neu V2 la hien tai don hoac tuong lai don)<br>3. Neu dong tu o 2 menh de <b>khong tuong duong</b> thi dong tu: <b>S2 + be + PP(V1) + to have PP</b> (Neu V2 la qua khu don hoac hoan thanh)</div><div class='example'>Ex 1. They say that Mr David lives in New York.<br>-> It is said that Mr. David lives in New York. (Cach 1)<br>-> Mr. David is said to live in New York. (Cach 2 tuong duong thi dong tu)<br><br>Ex 2. They say that Mr. David lived in New York many years ago.<br>-> It is said that Mr. David lived in New York many years ago. (Cach 1)<br>-> Mr. David is said to have lived in New York many years ago. (Cach 3 khong tuong duong thi dong tu)</div><h5>Need (Can lam gi)</h5><div class='formula'><b>S + need + V / to V + O</b><br><b>S + need + V-ing / to be PII + (by O)</b></div><div class='example'>Ex: I need wash/to wash my hat.<br>-> My hat needs to be washed. / My hat needs washing.</div><h5>Be supposed + to V</h5><p>Co bon phan trach nhiem lam gi. Duoc cho la, duoc noi la... (= be said to V)</p><div class='formula'><b>S + be + supposed + to V + O</b></div><div class='example'>Ex: It is your duty to clean the room. -> You are supposed to clean the room.<br>Ex: Jack is supposed to be very rich. -> Jack is said to be very rich.</div>"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "Those people always get their house _______ whenever they go away for a few days.",
+      "options": ["A. be looked after", "B. look after", "C. to look after", "D. looked after"],
+      "correctIndex": 3,
+      "explanation": "'Get + O + past participle' (causative): get their house looked after."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "A red rose _______ the beautiful girl by her old school boyfriend.",
+      "options": ["A. gave to", "B. was given", "C. was given to", "D. gave"],
+      "correctIndex": 2,
+      "explanation": "When the direct object becomes the passive subject, use 'to' before the indirect object: 'A red rose was given to the girl'."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "Last night a tornado swept through Rockvill. It _______ everything in its path.",
+      "options": ["A. destroyed", "B. was destroyed", "C. was being destroyed", "D. had been destroyed"],
+      "correctIndex": 0,
+      "explanation": "'It' (the tornado) is the doer - active voice: 'It destroyed everything'."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "_______ this work _______ before you went to Moscow?",
+      "options": ["A. Will/have been done", "B. Has/been done", "C. Will/be done", "D. Had/been done"],
+      "correctIndex": 3,
+      "explanation": "'Before you went' (past) requires past perfect passive: 'Had this work been done?'"
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "If you _______ about it, will you be able to answer?",
+      "options": ["A. are asked", "B. ask", "C. will be asked", "D. asked"],
+      "correctIndex": 0,
+      "explanation": "In conditional type 1, the if-clause uses present tense. Passive: 'are asked'."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "\"Can't we do something about the situation?\" - \"Something _______ right now.\"",
+      "options": ["A. is doing", "B. is do", "C. is being done", "D. has been doing"],
+      "correctIndex": 2,
+      "explanation": "'Right now' = present continuous passive: 'is being done'."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "The money _______ to him 2 months ago, but it _______ back yet.",
+      "options": ["A. was lent/had not been given", "B. has been lent/was not given", "C. was lent/has not given", "D. was lent/has not been given"],
+      "correctIndex": 3,
+      "explanation": "'2 months ago' = past simple passive; 'yet' = present perfect passive: was lent / has not been given."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "Education _______ to be the most important element to develop a country.",
+      "options": ["A. often be considered", "B. can often consider", "C. often considers", "D. can often be considered"],
+      "correctIndex": 3,
+      "explanation": "Modal passive: 'can + be + PP'. Education is considered (passive): 'can often be considered'."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "This exercise may _______ with a pencil.",
+      "options": ["A. be written", "B. be to write", "C. be writing", "D. write"],
+      "correctIndex": 0,
+      "explanation": "Modal passive: 'may + be + PP': may be written."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "She could easily _______ for a top model.",
+      "options": ["A. be mistaken", "B. have mistaken", "C. been mistaken", "D. to be mistaken"],
+      "correctIndex": 0,
+      "explanation": "Modal passive: 'could + be + PP': could be mistaken."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "The cutting down of trees _______ to prevent forest destruction.",
+      "options": ["A. should control", "B. should be controlled", "C. would control", "D. controlling"],
+      "correctIndex": 1,
+      "explanation": "The cutting down is the thing being controlled - passive: 'should be controlled'."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "All the students _______ finish their assignments before they went camping.",
+      "options": ["A. had made", "B. had made to", "C. had been made", "D. had been made to"],
+      "correctIndex": 3,
+      "explanation": "'Make + O + V' in passive becomes 'be made + to V': had been made to finish."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "Mr. Pike _______ the most famous archaeologist in our city.",
+      "options": ["A. thinks to be", "B. is thought to be", "C. is thought that", "D. thought to be"],
+      "correctIndex": 1,
+      "explanation": "Complex sentence passive: 'S + is thought + to V': is thought to be."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "The X-ray _______ in 1895.",
+      "options": ["A. is believed to have been discovered", "B. is believed to be discovered", "C. believed to have been discovered", "D. believed to discover"],
+      "correctIndex": 0,
+      "explanation": "Non-equivalent tenses (present belief about past event): 'is believed to have been discovered'."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "Reagan _______ an actor years ago.",
+      "options": ["A. is said to be", "B. was said being", "C. was said have been", "D. is said to have been"],
+      "correctIndex": 3,
+      "explanation": "Present belief about a past fact: 'is said to have been'."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "It _______ that learning a foreign language _______ a lot of time.",
+      "options": ["A. says/is taken", "B. is saying/has been taken", "C. is said/takes", "D. was said/was taken"],
+      "correctIndex": 2,
+      "explanation": "'It is said that...' (general truth) + present simple: 'takes'."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "The telephone _______ by Alexander Graham Bell.",
+      "options": ["A. invented", "B. is inventing", "C. be invented", "D. was invented"],
+      "correctIndex": 3,
+      "explanation": "Historical fact in passive: 'was invented by'."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "Beethoven's Fifth Symphony _______ next weekend.",
+      "options": ["A. is going to be performed", "B. has been performed", "C. will be performing", "D. will have performed"],
+      "correctIndex": 0,
+      "explanation": "'Next weekend' = planned future passive: 'is going to be performed'."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "English has become a second language in some countries where _______ for administration, broadcasting and education.",
+      "options": ["A. is used", "B. it is used", "C. used", "D. being used"],
+      "correctIndex": 1,
+      "explanation": "The relative clause needs a subject + verb: 'it is used'."
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "In the US, the first stage of compulsory education _______ as elementary education.",
+      "options": ["A. to be generally known", "B. is generally known", "C. generally known", "D. is generally knowing"],
+      "correctIndex": 1,
+      "explanation": "Passive with 'known as': 'is generally known as'."
+    },
+    {
+      "id": 21,
+      "type": "error-correct",
+      "wrongSentence": "Breakfast is serving in Pierrot's Restaurant between 7 and 9:30 a.m.",
+      "errorWord": "serving",
+      "correction": "served",
+      "correctSentence": "Breakfast is served in Pierrot's Restaurant between 7 and 9:30 a.m.",
+      "explanation": "Breakfast is served (passive), not serving (active). Food doesn't serve itself."
+    },
+    {
+      "id": 22,
+      "type": "error-correct",
+      "wrongSentence": "Jose had her passport steal on a train in Italy.",
+      "errorWord": "steal",
+      "correction": "stolen",
+      "correctSentence": "Jose had her passport stolen on a train in Italy.",
+      "explanation": "'Have + O + past participle' (something done to you): had her passport stolen."
+    },
+    {
+      "id": 23,
+      "type": "error-correct",
+      "wrongSentence": "Some trees have planted by the gardener already.",
+      "errorWord": "planted",
+      "correction": "been planted",
+      "correctSentence": "Some trees have been planted by the gardener already.",
+      "explanation": "Present perfect passive: have + been + PP: 'have been planted'."
+    },
+    {
+      "id": 24,
+      "type": "error-correct",
+      "wrongSentence": "Some days ago I had my teeth checking by the dentist.",
+      "errorWord": "checking",
+      "correction": "checked",
+      "correctSentence": "Some days ago I had my teeth checked by the dentist.",
+      "explanation": "Causative 'have + O + PP': had my teeth checked."
+    },
+    {
+      "id": 25,
+      "type": "error-correct",
+      "wrongSentence": "These pills should be taked every four hours.",
+      "errorWord": "taked",
+      "correction": "taken",
+      "correctSentence": "These pills should be taken every four hours.",
+      "explanation": "Past participle of 'take' is 'taken', not 'taked'."
+    },
+    {
+      "id": 26,
+      "type": "error-correct",
+      "wrongSentence": "The letter should been delivered in the afternoon.",
+      "errorWord": "should been",
+      "correction": "should be",
+      "correctSentence": "The letter should be delivered in the afternoon.",
+      "explanation": "Modal passive: should + be + PP (not 'been')."
+    },
+    {
+      "id": 27,
+      "type": "error-correct",
+      "wrongSentence": "The mail has sent to the wrong address.",
+      "errorWord": "has sent",
+      "correction": "has been sent",
+      "correctSentence": "The mail has been sent to the wrong address.",
+      "explanation": "Present perfect passive: has + been + PP: 'has been sent'."
+    },
+    {
+      "id": 28,
+      "type": "error-correct",
+      "wrongSentence": "When he arrived at the furniture shop, they had been sold the table he wanted.",
+      "errorWord": "had been sold",
+      "correction": "had sold",
+      "correctSentence": "When he arrived at the furniture shop, they had sold the table he wanted.",
+      "explanation": "'They' is the doer - active voice: 'they had sold' (not passive)."
+    },
+    {
+      "id": 29,
+      "type": "error-correct",
+      "wrongSentence": "The first May Day celebrated in England in 1890.",
+      "errorWord": "celebrated",
+      "correction": "was celebrated",
+      "correctSentence": "The first May Day was celebrated in England in 1890.",
+      "explanation": "May Day was celebrated (by people) - needs passive: 'was celebrated'."
+    },
+    {
+      "id": 30,
+      "type": "error-correct",
+      "wrongSentence": "In many universities, classes taught in English though the native language isn't English.",
+      "errorWord": "taught",
+      "correction": "are taught",
+      "correctSentence": "In many universities, classes are taught in English though the native language isn't English.",
+      "explanation": "Passive needs 'be': 'classes are taught'."
+    },
+    {
+      "id": 31,
+      "type": "error-correct",
+      "wrongSentence": "Hamlet was wrote by William Shakespeare.",
+      "errorWord": "wrote",
+      "correction": "written",
+      "correctSentence": "Hamlet was written by William Shakespeare.",
+      "explanation": "Past participle of 'write' is 'written', not 'wrote'."
+    },
+    {
+      "id": 32,
+      "type": "error-correct",
+      "wrongSentence": "Every possible effort were made by the orphanage to find the boy's parents.",
+      "errorWord": "were",
+      "correction": "was",
+      "correctSentence": "Every possible effort was made by the orphanage to find the boy's parents.",
+      "explanation": "'Every' + singular noun takes singular verb: 'every effort was made'."
+    },
+    {
+      "id": 33,
+      "type": "error-correct",
+      "wrongSentence": "This class has canceled because few students had registered before registration closed.",
+      "errorWord": "has canceled",
+      "correction": "has been canceled",
+      "correctSentence": "This class has been canceled because few students had registered before registration closed.",
+      "explanation": "Passive present perfect: 'has been canceled'."
+    },
+    {
+      "id": 34,
+      "type": "error-correct",
+      "wrongSentence": "The students got the librarian buy books for them.",
+      "errorWord": "buy",
+      "correction": "to buy",
+      "correctSentence": "The students got the librarian to buy books for them.",
+      "explanation": "'Get + O (person) + to V': got the librarian to buy."
+    },
+    {
+      "id": 35,
+      "type": "error-correct",
+      "wrongSentence": "I see that chopsticks are widely use in China.",
+      "errorWord": "use",
+      "correction": "used",
+      "correctSentence": "I see that chopsticks are widely used in China.",
+      "explanation": "Passive: 'are used', not 'are use'."
+    },
+    {
+      "id": 36,
+      "type": "error-correct",
+      "wrongSentence": "I like your photos of wild animals. Where did they taken?",
+      "errorWord": "did they taken",
+      "correction": "were they taken",
+      "correctSentence": "I like your photos of wild animals. Where were they taken?",
+      "explanation": "Passive question: 'were they taken?' not 'did they taken?'"
+    },
+    {
+      "id": 37,
+      "type": "error-correct",
+      "wrongSentence": "Doctor Brown will be given you some useful advice.",
+      "errorWord": "will be given",
+      "correction": "will give",
+      "correctSentence": "Doctor Brown will give you some useful advice.",
+      "explanation": "Doctor Brown is the doer - active voice: 'will give'."
+    },
+    {
+      "id": 38,
+      "type": "error-correct",
+      "wrongSentence": "I think you should be water this plant daily.",
+      "errorWord": "should be water",
+      "correction": "should water",
+      "correctSentence": "I think you should water this plant daily.",
+      "explanation": "'You' is the doer - active: 'should water', not passive."
+    },
+    {
+      "id": 39,
+      "type": "error-correct",
+      "wrongSentence": "Harry is going to send a postcard for Tom tomorrow.",
+      "errorWord": "for",
+      "correction": "to",
+      "correctSentence": "Harry is going to send a postcard to Tom tomorrow.",
+      "explanation": "'Send something TO someone' - use 'to', not 'for'."
+    },
+    {
+      "id": 40,
+      "type": "error-correct",
+      "wrongSentence": "Lunch is now be served in the restaurant.",
+      "errorWord": "be served",
+      "correction": "being served",
+      "correctSentence": "Lunch is now being served in the restaurant.",
+      "explanation": "Present continuous passive: 'is being served'."
+    },
+    {
+      "id": 41,
+      "type": "sentence-rewrite",
+      "original": "They will send him abroad to study.",
+      "instruction": "Change to passive voice",
+      "starterText": "He",
+      "answer": "He will be sent abroad to study.",
+      "explanation": "Future simple passive: S + will + be + PP."
+    },
+    {
+      "id": 42,
+      "type": "sentence-rewrite",
+      "original": "She used this room.",
+      "instruction": "Change to passive voice",
+      "starterText": "This room",
+      "answer": "This room was used by her.",
+      "explanation": "Past simple passive: S + was/were + PP + by + O."
+    },
+    {
+      "id": 43,
+      "type": "sentence-rewrite",
+      "original": "Someone stole my bike yesterday.",
+      "instruction": "Change to passive voice",
+      "starterText": "My bike",
+      "answer": "My bike was stolen yesterday.",
+      "explanation": "'Someone' is vague, so omit 'by someone' in passive."
+    },
+    {
+      "id": 44,
+      "type": "sentence-rewrite",
+      "original": "He received a letter from his parents.",
+      "instruction": "Change to passive voice",
+      "starterText": "A letter",
+      "answer": "A letter was received from his parents.",
+      "explanation": "Past simple passive: 'A letter was received'."
+    },
+    {
+      "id": 45,
+      "type": "sentence-rewrite",
+      "original": "She will buy a new house.",
+      "instruction": "Change to passive voice",
+      "starterText": "A new house",
+      "answer": "A new house will be bought by her.",
+      "explanation": "Future simple passive: will + be + PP."
+    },
+    {
+      "id": 46,
+      "type": "sentence-rewrite",
+      "original": "They aren't building my house.",
+      "instruction": "Change to passive voice",
+      "starterText": "My house",
+      "answer": "My house isn't being built by them.",
+      "explanation": "Present continuous passive negative: isn't + being + PP."
+    },
+    {
+      "id": 47,
+      "type": "sentence-rewrite",
+      "original": "He could solve the math problem easily.",
+      "instruction": "Change to passive voice",
+      "starterText": "The math problem",
+      "answer": "The math problem could be solved easily.",
+      "explanation": "Modal passive: could + be + PP."
+    },
+    {
+      "id": 48,
+      "type": "sentence-rewrite",
+      "original": "I clean the floor every day.",
+      "instruction": "Change to passive voice",
+      "starterText": "The floor",
+      "answer": "The floor is cleaned every day.",
+      "explanation": "Present simple passive: is + PP. Omit 'by me'."
+    },
+    {
+      "id": 49,
+      "type": "sentence-rewrite",
+      "original": "My mother bought this dress this morning.",
+      "instruction": "Change to passive voice",
+      "starterText": "This dress",
+      "answer": "This dress was bought by my mother this morning.",
+      "explanation": "Past simple passive: was + PP + by + agent."
+    },
+    {
+      "id": 50,
+      "type": "sentence-rewrite",
+      "original": "She did this exercise two days ago.",
+      "instruction": "Change to passive voice",
+      "starterText": "This exercise",
+      "answer": "This exercise was done two days ago.",
+      "explanation": "Past simple passive: was + PP. Omit vague agent."
+    },
+    {
+      "id": 51,
+      "type": "sentence-rewrite",
+      "original": "Journalists reported that four people had been injured in the fire.",
+      "instruction": "Rewrite starting with 'It'",
+      "starterText": "It",
+      "answer": "It was reported that four people had been injured in the fire.",
+      "explanation": "Complex passive (cach 1): It + be + PP + that + clause."
+    },
+    {
+      "id": 52,
+      "type": "sentence-rewrite",
+      "original": "Journalists reported that four people had been injured in the fire.",
+      "instruction": "Rewrite starting with 'Four people'",
+      "starterText": "Four people",
+      "answer": "Four people were reported to have been injured in the fire.",
+      "explanation": "Complex passive (cach 2, non-equivalent tenses): S + be + PP + to have + PP."
+    },
+    {
+      "id": 53,
+      "type": "sentence-rewrite",
+      "original": "People don't expect that the new party will win the election.",
+      "instruction": "Rewrite starting with 'It'",
+      "starterText": "It",
+      "answer": "It isn't expected that the new party will win the election.",
+      "explanation": "Complex passive: It + isn't + expected + that clause."
+    },
+    {
+      "id": 54,
+      "type": "sentence-rewrite",
+      "original": "People don't expect that the new party will win the election.",
+      "instruction": "Rewrite starting with 'The new party'",
+      "starterText": "The new party",
+      "answer": "The new party isn't expected to win the election.",
+      "explanation": "Complex passive (equivalent tenses): S + isn't + expected + to V."
+    },
+    {
+      "id": 55,
+      "type": "sentence-rewrite",
+      "original": "The detective knows that the robber has left the city.",
+      "instruction": "Rewrite starting with 'It'",
+      "starterText": "It",
+      "answer": "It is known that the robber has left the city.",
+      "explanation": "Complex passive: It + is + known + that clause."
+    },
+    {
+      "id": 56,
+      "type": "sentence-rewrite",
+      "original": "The detective knows that the robber has left the city.",
+      "instruction": "Rewrite starting with 'The robber'",
+      "starterText": "The robber",
+      "answer": "The robber is known to have left the city.",
+      "explanation": "Complex passive (non-equivalent): S + is known + to have + PP."
+    },
+    {
+      "id": 57,
+      "type": "sentence-rewrite",
+      "original": "We know that Henry has been unemployed for a long time.",
+      "instruction": "Rewrite starting with 'It'",
+      "starterText": "It",
+      "answer": "It is known that Henry has been unemployed for a long time.",
+      "explanation": "Complex passive: It + is + known + that clause."
+    },
+    {
+      "id": 58,
+      "type": "sentence-rewrite",
+      "original": "We know that Henry has been unemployed for a long time.",
+      "instruction": "Rewrite starting with 'Henry'",
+      "starterText": "Henry",
+      "answer": "Henry is known to have been unemployed for a long time.",
+      "explanation": "Complex passive (non-equivalent): S + is known + to have been + adj."
+    },
+    {
+      "id": 59,
+      "type": "sentence-rewrite",
+      "original": "People say that he was a spy during the Cold War.",
+      "instruction": "Rewrite starting with 'It'",
+      "starterText": "It",
+      "answer": "It is said that he was a spy during the Cold War.",
+      "explanation": "Complex passive: It + is + said + that clause."
+    },
+    {
+      "id": 60,
+      "type": "sentence-rewrite",
+      "original": "People say that he was a spy during the Cold War.",
+      "instruction": "Rewrite starting with 'He'",
+      "starterText": "He",
+      "answer": "He is said to have been a spy during the Cold War.",
+      "explanation": "Complex passive (non-equivalent): is said + to have been."
+    }
+  ]
+}

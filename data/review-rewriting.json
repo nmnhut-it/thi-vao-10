@@ -1,0 +1,210 @@
+{
+  "topicId": "review-rewriting",
+  "title": "Tong On Viet Lai Cau Dong Nghia",
+  "section": "writing",
+  "knowledge": {
+    "html": "<h3>Tong On Viet Lai Cau Dong Nghia</h3><p>Viet lai cau sao cho nghia khong doi, su dung tu/cum tu cho san. Bao gom ca 2 dang: viet lai cau tu dau va viet lai cau voi tu cho san trong ngoac.</p>"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "sentence-rewrite",
+      "original": "\"Don't forget to lock the door,\" the mother said to the boy.",
+      "instruction": "Rewrite beginning with the words given",
+      "starterText": "The mother",
+      "answer": "The mother reminded the boy to lock the door.",
+      "acceptedAnswers": ["The mother reminded the boy to lock the door.", "The mother reminded the boy to lock the door"],
+      "explanation": "Don't forget = reminded + object + to V."
+    },
+    {
+      "id": 2,
+      "type": "sentence-rewrite",
+      "original": "The mother made the boy tidy up the room.",
+      "instruction": "Rewrite beginning with the words given",
+      "starterText": "The boy",
+      "answer": "The boy was made to tidy up the room by the mother.",
+      "acceptedAnswers": ["The boy was made to tidy up the room by the mother.", "The boy was made to tidy up the room."],
+      "explanation": "Passive of 'make': S + was made + to V."
+    },
+    {
+      "id": 3,
+      "type": "sentence-rewrite",
+      "original": "After he had graduated from university, he went abroad to work.",
+      "instruction": "Rewrite beginning with the words given",
+      "starterText": "Having",
+      "answer": "Having graduated from university, he went abroad to work.",
+      "acceptedAnswers": ["Having graduated from university, he went abroad to work.", "Having graduated from university, he went abroad to work"],
+      "explanation": "After + had V3 = Having + V3 (perfect participle)."
+    },
+    {
+      "id": 4,
+      "type": "sentence-rewrite",
+      "original": "Housewives do not have to spend a lot of time doing housework anymore.",
+      "instruction": "Rewrite beginning with the words given",
+      "starterText": "No longer",
+      "answer": "No longer do housewives have to spend a lot of time doing housework.",
+      "acceptedAnswers": ["No longer do housewives have to spend a lot of time doing housework.", "No longer do housewives have to spend a lot of time doing housework"],
+      "explanation": "Not...anymore = No longer + inversion (auxiliary + S + V)."
+    },
+    {
+      "id": 5,
+      "type": "sentence-rewrite",
+      "original": "It is said that Galileo invented the telescope.",
+      "instruction": "Rewrite beginning with the words given",
+      "starterText": "Galileo",
+      "answer": "Galileo is said to have invented the telescope.",
+      "acceptedAnswers": ["Galileo is said to have invented the telescope.", "Galileo is said to have invented the telescope"],
+      "explanation": "It is said that + S + V2/ed = S + is said + to have + V3."
+    },
+    {
+      "id": 6,
+      "type": "sentence-rewrite",
+      "original": "The last time I met Mary was three years ago.",
+      "instruction": "Rewrite beginning with the words given",
+      "starterText": "I haven't",
+      "answer": "I haven't met Mary for three years.",
+      "acceptedAnswers": ["I haven't met Mary for three years.", "I haven't met Mary for three years"],
+      "explanation": "The last time + V2/ed + was + time + ago = haven't + V3 + for + time."
+    },
+    {
+      "id": 7,
+      "type": "sentence-rewrite",
+      "original": "What does your mother do?",
+      "instruction": "Rewrite beginning with the words given",
+      "starterText": "What is",
+      "answer": "What is your mother's job?",
+      "acceptedAnswers": ["What is your mother's job?", "What is your mother's occupation?"],
+      "explanation": "What does someone do = What is someone's job."
+    },
+    {
+      "id": 8,
+      "type": "sentence-rewrite",
+      "original": "I am not a rich businessman and I can't afford to buy an expensive car.",
+      "instruction": "Rewrite beginning with the words given",
+      "starterText": "If",
+      "answer": "If I were a rich businessman, I could afford to buy an expensive car.",
+      "acceptedAnswers": ["If I were a rich businessman, I could afford to buy an expensive car.", "If I were a rich businessman, I could afford to buy an expensive car"],
+      "explanation": "Second conditional for unreal present situations."
+    },
+    {
+      "id": 9,
+      "type": "sentence-rewrite",
+      "original": "I spent an hour revising what he had already learnt for the test.",
+      "instruction": "Rewrite beginning with the words given",
+      "starterText": "It took",
+      "answer": "It took me an hour to revise what he had already learnt for the test.",
+      "acceptedAnswers": ["It took me an hour to revise what he had already learnt for the test.", "It took me an hour to revise what he had already learnt for the test"],
+      "explanation": "S + spent + time + V-ing = It took + S + time + to V."
+    },
+    {
+      "id": 10,
+      "type": "sentence-rewrite",
+      "original": "My father would rather read newspaper than listen to the radio.",
+      "instruction": "Rewrite beginning with the words given",
+      "starterText": "My father prefers",
+      "answer": "My father prefers reading newspaper to listening to the radio.",
+      "acceptedAnswers": ["My father prefers reading newspaper to listening to the radio.", "My father prefers reading newspapers to listening to the radio."],
+      "explanation": "Would rather + V + than + V = prefers + V-ing + to + V-ing."
+    },
+    {
+      "id": 11,
+      "type": "sentence-rewrite",
+      "original": "The old man is working in this company. I love his daughter.",
+      "instruction": "Rewrite using the word in brackets: (whose)",
+      "starterText": "The old man",
+      "answer": "The old man whose daughter I love is working in this company.",
+      "acceptedAnswers": ["The old man whose daughter I love is working in this company.", "The old man, whose daughter I love, is working in this company."],
+      "explanation": "Relative pronoun 'whose' for possession."
+    },
+    {
+      "id": 12,
+      "type": "sentence-rewrite",
+      "original": "Nam defeated the former champion in three sets. Then he won their inter-school table tennis championship.",
+      "instruction": "Rewrite using the word in brackets: (Having)",
+      "starterText": "Having",
+      "answer": "Having defeated the former champion in three sets, Nam won their inter-school table tennis championship.",
+      "acceptedAnswers": ["Having defeated the former champion in three sets, Nam won their inter-school table tennis championship."],
+      "explanation": "Perfect participle: Having + V3, S + V2/ed."
+    },
+    {
+      "id": 13,
+      "type": "sentence-rewrite",
+      "original": "Although she was disabled, she was quite confident the first time she practiced this sport.",
+      "instruction": "Rewrite using the word in brackets: (Despite)",
+      "starterText": "Despite",
+      "answer": "Despite being disabled, she was quite confident the first time she practiced this sport.",
+      "acceptedAnswers": ["Despite being disabled, she was quite confident the first time she practiced this sport.", "Despite her disability, she was quite confident the first time she practiced this sport."],
+      "explanation": "Although + clause = Despite + V-ing/noun."
+    },
+    {
+      "id": 14,
+      "type": "sentence-rewrite",
+      "original": "Mary doesn't like music. Her brother doesn't either.",
+      "instruction": "Rewrite using the word in brackets: (Neither)",
+      "starterText": "Neither",
+      "answer": "Neither Mary nor her brother likes music.",
+      "acceptedAnswers": ["Neither Mary nor her brother likes music.", "Neither Mary nor her brother like music."],
+      "explanation": "Neither...nor connects two negative ideas."
+    },
+    {
+      "id": 15,
+      "type": "sentence-rewrite",
+      "original": "The students will be awarded the present. The students' reports are very valuable.",
+      "instruction": "Rewrite using the word in brackets: (whose)",
+      "starterText": "The students",
+      "answer": "The students whose reports are very valuable will be awarded the present.",
+      "acceptedAnswers": ["The students whose reports are very valuable will be awarded the present."],
+      "explanation": "Relative pronoun 'whose' for possession."
+    },
+    {
+      "id": 16,
+      "type": "sentence-rewrite",
+      "original": "Jane didn't change his working style. He was sacked.",
+      "instruction": "Rewrite using the word in brackets: (If)",
+      "starterText": "If",
+      "answer": "If Jane had changed his working style, he wouldn't have been sacked.",
+      "acceptedAnswers": ["If Jane had changed his working style, he wouldn't have been sacked.", "If Jane had changed his working style, he would not have been sacked."],
+      "explanation": "Third conditional for unreal past situations."
+    },
+    {
+      "id": 17,
+      "type": "sentence-rewrite",
+      "original": "Hai had all the necessary qualifications for the job. He wasn't offered the job.",
+      "instruction": "Rewrite using the word in brackets: (Despite)",
+      "starterText": "Despite",
+      "answer": "Despite having all the necessary qualifications for the job, Hai wasn't offered the job.",
+      "acceptedAnswers": ["Despite having all the necessary qualifications for the job, Hai wasn't offered the job.", "Despite having all the necessary qualifications, Hai wasn't offered the job."],
+      "explanation": "Although + clause = Despite + V-ing."
+    },
+    {
+      "id": 18,
+      "type": "sentence-rewrite",
+      "original": "She closed the door. She wanted to focus on the lesson.",
+      "instruction": "Rewrite using the word in brackets: (to)",
+      "starterText": "She closed",
+      "answer": "She closed the door to focus on the lesson.",
+      "acceptedAnswers": ["She closed the door to focus on the lesson.", "She closed the door in order to focus on the lesson."],
+      "explanation": "Purpose: to + V / in order to + V."
+    },
+    {
+      "id": 19,
+      "type": "sentence-rewrite",
+      "original": "He was betrayed by his partner. He suffered huge losses.",
+      "instruction": "Rewrite using the word in brackets: (Betrayed)",
+      "starterText": "Betrayed",
+      "answer": "Betrayed by his partner, he suffered huge losses.",
+      "acceptedAnswers": ["Betrayed by his partner, he suffered huge losses.", "Betrayed by his partner, he suffered huge losses"],
+      "explanation": "Past participle clause: V3 + by..., S + V."
+    },
+    {
+      "id": 20,
+      "type": "sentence-rewrite",
+      "original": "She doesn't love him. He is sad.",
+      "instruction": "Rewrite using the word in brackets: (If)",
+      "starterText": "If",
+      "answer": "If she loved him, he wouldn't be sad.",
+      "acceptedAnswers": ["If she loved him, he wouldn't be sad.", "If she loved him, he would not be sad."],
+      "explanation": "Second conditional for unreal present situations."
+    }
+  ]
+}

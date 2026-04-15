@@ -1,0 +1,397 @@
+{
+  "topicId": "test-3",
+  "title": "Practice Test 3",
+  "section": "practice-test",
+  "testType": "mixed-40",
+  "timeLimit": 60,
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "category": "pronunciation",
+      "question": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three in pronunciation: customer, truck, include, custard",
+      "options": ["A. customer", "B. truck", "C. include", "D. custard"],
+      "correctIndex": 2,
+      "explanation": "'include' has /uː/ sound, while A, B, D have /ʌ/ sound."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "category": "pronunciation",
+      "question": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three in pronunciation: change, chemistry, choose, cheese",
+      "options": ["A. change", "B. chemistry", "C. choose", "D. cheese"],
+      "correctIndex": 1,
+      "explanation": "'chemistry' has /k/ sound for 'ch', while A, C, D have /tʃ/ sound."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "category": "stress",
+      "question": "Mark the letter A, B, C or D to indicate the word that differs from the other three in the position of primary stress: comment, command, compose, machine",
+      "options": ["A. comment", "B. command", "C. compose", "D. machine"],
+      "correctIndex": 0,
+      "explanation": "'comment' has stress on the first syllable; B, C, D are stressed on the second."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "category": "stress",
+      "question": "Mark the letter A, B, C or D to indicate the word that differs from the other three in the position of primary stress: innovation, separation, installation, environment",
+      "options": ["A. innovation", "B. separation", "C. installation", "D. environment"],
+      "correctIndex": 3,
+      "explanation": "'environment' has stress on the second syllable; A, B, C have stress on the third."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "It was an extremely frightened experience in my life. (Find the underlined part that needs correction)",
+      "options": ["A. It was", "B. extremely", "C. frightened", "D. in"],
+      "correctIndex": 2,
+      "explanation": "Should be 'frightening' (V-ing adjective describes the experience, not a person)."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "I know you're too busy to stay, but I look forward to see you again. (Find the underlined part that needs correction)",
+      "options": ["A. too busy", "B. to stay", "C. but", "D. to see"],
+      "correctIndex": 3,
+      "explanation": "'look forward to' + V-ing. Should be 'to seeing'."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "My aunt has begun taught English for twenty years. (Find the underlined part that needs correction)",
+      "options": ["A. has begun", "B. taught", "C. for", "D. years"],
+      "correctIndex": 0,
+      "explanation": "Should be 'has been teaching' (present perfect continuous for duration)."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "I'm hungry, I _______ anything since 8 am.",
+      "options": ["A. hasn't eaten", "B. haven't eaten", "C. haven't eated", "D. don't eat"],
+      "correctIndex": 1,
+      "explanation": "Present perfect with 'since': I + haven't eaten. 'eaten' is the correct past participle."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "He said that he was coming _______.",
+      "options": ["A. tomorrow after", "B. yesterday", "C. the next day", "D. following day"],
+      "correctIndex": 2,
+      "explanation": "In reported speech, 'tomorrow' changes to 'the next day' or 'the following day'."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Help me, _______ ?",
+      "options": ["A. will you", "B. won't you", "C. do you", "D. don't you"],
+      "correctIndex": 0,
+      "explanation": "Tag question for imperative: 'will you?' is used after requests."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "If there were flying saucers, there _______ traces of their landing.",
+      "options": ["A. would be", "B. will be", "C. are", "D. is"],
+      "correctIndex": 0,
+      "explanation": "Conditional type 2: If + past simple, would + V-infinitive."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "If you take a train or bus, you must pay a _______.",
+      "options": ["A. trip", "B. fee", "C. fare", "D. commission"],
+      "correctIndex": 2,
+      "explanation": "'fare' is the money paid for public transport (bus, train, taxi)."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "If we don't _______ on electricity, there will be power cut.",
+      "options": ["A. economic", "B. economics", "C. economical", "D. economize"],
+      "correctIndex": 3,
+      "explanation": "'economize on' = save/reduce spending on. A verb is needed after 'don't'."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "My uncle _______ Paris two or three times.",
+      "options": ["A. is visiting", "B. has visited", "C. was visiting", "D. often visits"],
+      "correctIndex": 1,
+      "explanation": "Present perfect 'has visited' is used for experiences (two or three times)."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "He is a person _______ friends trust him.",
+      "options": ["A. who", "B. his", "C. whose", "D. that"],
+      "correctIndex": 2,
+      "explanation": "'whose' shows possession: whose friends = his friends."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "If only I _______ a flower, I'd be a sunflower.",
+      "options": ["A. am", "B. be", "C. were", "D. was"],
+      "correctIndex": 2,
+      "explanation": "'If only' + past subjunctive: 'were' is used for hypothetical situations."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "category": "communicative",
+      "question": "Laura: \"Have a good holiday!\" Tim: \"_______\"",
+      "options": ["A. You have.", "B. You too.", "C. You will.", "D. You do."],
+      "correctIndex": 1,
+      "explanation": "'You too' is the natural response to wish someone the same."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "category": "communicative",
+      "question": "Waiter: \"Would you like a drink?\" Customer: \"_______\"",
+      "options": ["A. I don't like coffee", "B. Coffee, please.", "C. I prefer tea.", "D. I want."],
+      "correctIndex": 1,
+      "explanation": "'Coffee, please' is a polite, direct response to ordering."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "category": "closest-meaning",
+      "question": "I want to hear the news. Can you switch on the radio?",
+      "options": ["A. turn down", "B. turn on", "C. turn up", "D. turn off"],
+      "correctIndex": 1,
+      "explanation": "'switch on' = 'turn on' (activate a device)."
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "category": "closest-meaning",
+      "question": "Ralph Nader was the most prominent leader of the U.S consumer protection movement.",
+      "options": ["A. casual", "B. significant", "C. promiscuous", "D. aggressive"],
+      "correctIndex": 1,
+      "explanation": "'prominent' means important, well-known = 'significant'."
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "category": "opposite-meaning",
+      "question": "Fruit and vegetables grew in abundance on the island. The islanders even exported the surplus.",
+      "options": ["A. large quantity", "B. small quantity", "C. excess", "D. sufficiency"],
+      "correctIndex": 1,
+      "explanation": "'abundance' means a very large quantity. The opposite is 'small quantity'."
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "category": "opposite-meaning",
+      "question": "His conclusion is congruous with one previously drawn by Mayer.",
+      "options": ["A. improper", "B. unstable", "C. unsuitable", "D. indifferent"],
+      "correctIndex": 2,
+      "explanation": "'congruous' means suitable, fitting. The opposite is 'unsuitable'."
+    },
+    {
+      "id": 23,
+      "type": "reading-comprehension",
+      "passage": "Garbage is a serious problem in U.S. Every year, Americans produce about 308 billion pounds. A lot of the garbage goes (23) _______ the landfills. But many landfills do not have room (24) _______ all the garbage. One answer to the garbage problem is recycling. Half of all the garbage in the U.S can be (25) _______ and use again. Recycling helps us solve the landfills problem and (26) _______ enough energy too. When people recycle newspapers, they save (27) _______ when they recycle glass, plastic, or cans, they save oil and electricity. Recycling is good for everyone.",
+      "questions": [
+        {
+          "id": "23a",
+          "question": "Fill blank (23)",
+          "options": ["A. at", "B. for", "C. into", "D. to"],
+          "correctIndex": 3,
+          "explanation": "'goes to' the landfills - direction."
+        },
+        {
+          "id": "24a",
+          "question": "Fill blank (24)",
+          "options": ["A. to", "B. for", "C. from", "D. in"],
+          "correctIndex": 1,
+          "explanation": "'have room for' = have space for something."
+        },
+        {
+          "id": "25a",
+          "question": "Fill blank (25)",
+          "options": ["A. reused", "B. recycled", "C. product", "D. reduced"],
+          "correctIndex": 1,
+          "explanation": "'recycled and use again' - the context is about recycling garbage."
+        },
+        {
+          "id": "26a",
+          "question": "Fill blank (26)",
+          "options": ["A. save", "B. saving", "C. to save", "D. saves"],
+          "correctIndex": 3,
+          "explanation": "Subject 'Recycling' (singular) + 'helps... and saves' (parallel structure)."
+        },
+        {
+          "id": "27a",
+          "question": "Fill blank (27)",
+          "options": ["A. tree", "B. paper", "C. electricity", "D. water"],
+          "correctIndex": 0,
+          "explanation": "Recycling newspapers saves trees (paper comes from trees)."
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "type": "reading-comprehension",
+      "passage": "In the United States, people celebrate Mother's Day and Father's Day. Mother's Day is celebrated on the second Sunday in May. On this occasion, mother usually receives greeting cards and gifts from her husband and children. The best gift of all for an American Mom is a day of leisure. The majority of American mothers have outside jobs as well as housework, so their working days are often very hard. The working mother enjoys the traditional Mother's Day custom of breakfast (or brunch) cooked by her family and served to her on a tray in bed. Later in the day, it is also traditional for the extended family group to get together for dinner, either in a restaurant or in one of their homes. Flowers are an important part of Mother's Day. Mothers are often given a corsage or plant for the occasion, particularly if they are elderly. Father's Day is celebrated throughout the United States and Canada on the third Sunday in June. The holiday customs are similar to Mother's Day. Dad also receives greeting cards and gifts from his family and enjoys a day of leisure.",
+      "questions": [
+        {
+          "id": "28a",
+          "question": "Where do people celebrate Father's Day and Mother's Day?",
+          "options": ["A. In Viet Nam", "B. In the USA", "C. In many countries", "D. In the world"],
+          "correctIndex": 1,
+          "explanation": "The passage begins: 'In the United States, people celebrate...'"
+        },
+        {
+          "id": "29a",
+          "question": "When is Mother's Day celebrated?",
+          "options": ["A. On the second Sunday in May", "B. On the second of October", "C. On the third Sunday in June", "D. On the eight of March"],
+          "correctIndex": 0,
+          "explanation": "The passage states: 'Mother's Day is celebrated on the second Sunday in May.'"
+        },
+        {
+          "id": "30a",
+          "question": "Do the majority of American mothers have to work hard every day?",
+          "options": ["A. No, they only do the housework.", "B. Yes, they do.", "C. No, they don't have a job.", "D. No, they don't."],
+          "correctIndex": 1,
+          "explanation": "The passage says 'their working days are often very hard.'"
+        },
+        {
+          "id": "31a",
+          "question": "What is an important part of Mother's Day?",
+          "options": ["A. gift", "B. flower", "C. present", "D. all are correct"],
+          "correctIndex": 3,
+          "explanation": "The passage mentions flowers, gifts, and cards. All options (gift, flower, present) are correct."
+        },
+        {
+          "id": "32a",
+          "question": "When is Father's day celebrated?",
+          "options": ["A. On the second Sunday in May.", "B. On the second of October.", "C. On the third Sunday in June.", "D. On the eight of March."],
+          "correctIndex": 2,
+          "explanation": "The passage states: 'Father's Day is celebrated... on the third Sunday in June.'"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "type": "sentence-rewrite",
+      "original": "\"You shouldn't give up smoking as soon as possible\".",
+      "instruction": "Rewrite beginning with: The doctor advised me",
+      "starterText": "The doctor advised me",
+      "answer": "The doctor advised me to give up smoking as soon as possible.",
+      "acceptedAnswers": [
+        "The doctor advised me to give up smoking as soon as possible.",
+        "The doctor advised me to give up smoking as soon as possible"
+      ],
+      "explanation": "Reported advice: advise + object + to-infinitive. Note: the original likely means 'You should give up smoking' (advice to quit)."
+    },
+    {
+      "id": 34,
+      "type": "sentence-rewrite",
+      "original": "People said that he grew a lot of cabbages in his field.",
+      "instruction": "Rewrite beginning with: He was",
+      "starterText": "He was",
+      "answer": "He was said to grow a lot of cabbages in his field.",
+      "acceptedAnswers": [
+        "He was said to grow a lot of cabbages in his field.",
+        "He was said to grow a lot of cabbages in his field"
+      ],
+      "explanation": "Passive reporting: S + be + said + to-infinitive."
+    },
+    {
+      "id": 35,
+      "type": "sentence-rewrite",
+      "original": "Following your directions is difficult.",
+      "instruction": "Rewrite beginning with: It is difficult",
+      "starterText": "It is difficult",
+      "answer": "It is difficult to follow your directions.",
+      "acceptedAnswers": [
+        "It is difficult to follow your directions.",
+        "It is difficult to follow your directions"
+      ],
+      "explanation": "V-ing + is + adj = It is + adj + to-infinitive."
+    },
+    {
+      "id": 36,
+      "type": "sentence-rewrite",
+      "original": "He likes swimming and sunbathing.",
+      "instruction": "Rewrite beginning with: He is interested",
+      "starterText": "He is interested",
+      "answer": "He is interested in swimming and sunbathing.",
+      "acceptedAnswers": [
+        "He is interested in swimming and sunbathing.",
+        "He is interested in swimming and sunbathing"
+      ],
+      "explanation": "'be interested in' + V-ing = like doing something."
+    },
+    {
+      "id": 37,
+      "type": "sentence-combine",
+      "original": "The professor is excellent. I am taking his course.",
+      "instruction": "Combine using 'whose'",
+      "keyword": "whose",
+      "answer": "The professor whose course I am taking is excellent.",
+      "acceptedAnswers": [
+        "The professor whose course I am taking is excellent.",
+        "The professor whose course I am taking is excellent"
+      ],
+      "explanation": "'whose' replaces 'his' to form a relative clause showing possession."
+    },
+    {
+      "id": 38,
+      "type": "sentence-combine",
+      "original": "Mr. Tibbs doesn't drive carefully. Mr Smith doesn't drive carefully, either.",
+      "instruction": "Combine using 'Neither'",
+      "keyword": "Neither",
+      "answer": "Neither Mr. Tibbs nor Mr Smith drives carefully.",
+      "acceptedAnswers": [
+        "Neither Mr. Tibbs nor Mr Smith drives carefully.",
+        "Neither Mr. Tibbs nor Mr Smith drives carefully",
+        "Neither Mr Tibbs nor Mr Smith drives carefully."
+      ],
+      "explanation": "'Neither... nor...' combines two negative ideas."
+    },
+    {
+      "id": 39,
+      "type": "sentence-combine",
+      "original": "The shoes are too big. My mother can't feet her feet.",
+      "instruction": "Combine using 'so'",
+      "keyword": "so",
+      "answer": "The shoes are so big that my mother can't fit her feet.",
+      "acceptedAnswers": [
+        "The shoes are so big that my mother can't fit her feet.",
+        "The shoes are so big that my mother can't fit her feet"
+      ],
+      "explanation": "'so + adjective + that' clause expresses result."
+    },
+    {
+      "id": 40,
+      "type": "sentence-combine",
+      "original": "Ted has won a medal. Tony has won a medal, too.",
+      "instruction": "Combine using 'both'",
+      "keyword": "both",
+      "answer": "Both Ted and Tony have won a medal.",
+      "acceptedAnswers": [
+        "Both Ted and Tony have won a medal.",
+        "Both Ted and Tony have won a medal",
+        "Both Ted and Tony have won medals."
+      ],
+      "explanation": "'Both... and...' combines two similar positive ideas."
+    }
+  ]
+}

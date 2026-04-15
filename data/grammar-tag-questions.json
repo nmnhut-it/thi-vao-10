@@ -1,0 +1,260 @@
+{
+  "topicId": "grammar-tag-questions",
+  "title": "Tag Questions (Cau Hoi Duoi)",
+  "section": "grammar",
+  "knowledge": {
+    "html": "<h3>Tag Questions (Cau hoi duoi)</h3><p>Cau hoi duoi (tag question) la dang cau hoi rat hay duoc su dung trong tieng Anh, dac biet la tieng Anh giao tiep. Cau hoi duoi la cau hoi ngan o cuoi cau tran thuat. Cau hoi nay duoc dung khi nguoi noi muon xac minh thong tin la dung hay khong hoac khi khuyen khich mot su hoi dap tu phia nguoi nghe.</p><div class='example'>Vi du: She is learning English now, isn't she? (Co ay dang hoc tieng Anh bay gio phai khong?)</div><div class='formula'><b>Cong thuc chung: S + V + ..., tro dong tu + S (DAI TU)?</b><br>- Neu cau noi truoc dau phay la khang dinh thi cau hoi duoi la phu dinh va nguoc lai.</div><h4>Bang tom tat cach thanh lap cau hoi duoi:</h4><table class='grammar-table'><tr><th>Statement</th><th>Tag question</th></tr><tr><td>I am...</td><td>aren't I?</td></tr><tr><td>I am not...</td><td>am I?</td></tr><tr><td>Dong tu khiem khuyet: S + can/could/should/will...</td><td>Can't/couldn't/shouldn't/won't...+ S?</td></tr><tr><td>Dong tu thuong:<br>S + V1...<br>S + Vs/es...<br>S + V2/ed...</td><td>Su dung tro dong tu: Do/Does/Did<br>Don't + S?<br>Doesn't + S?<br>Didn't + S?</td></tr><tr><td>S + have/has/had + V3/ed...</td><td>Haven't/hasn't/hadn't + S?</td></tr><tr><td>S + is/are/was/were...</td><td>Isn't/aren't/wasn't/weren't + S?</td></tr><tr><td>S + used to + V...</td><td>Didn't + S?</td></tr><tr><td>S + 'd better/had better + V...</td><td>Hadn't + S?</td></tr><tr><td>S + 'd rather/would rather/would like + V...</td><td>Wouldn't + S?</td></tr><tr><td>There + is/are/was/were...</td><td>Isn't/aren't/wasn't/weren't + S?</td></tr><tr><td>Let's + V...</td><td>Shall we?</td></tr></table><h4>Cac truong hop dac biet:</h4><table class='grammar-table'><tr><th>Truong hop</th><th>Tag question</th></tr><tr><td>Chu tu la: No one/nobody/anyone/anybody/everyone/everybody/someone/somebody</td><td>...they?</td></tr><tr><td>Chu tu la: nothing/anything/something/everything</td><td>...it?</td></tr><tr><td>Chu tu la this/that...</td><td>...it?</td></tr><tr><td>Chu tu la these/those...</td><td>...they?</td></tr><tr><td>Trong cau co cac tu phu dinh: <b>no/none/without/Neither/hardly/seldom/rarely/little/never/few</b></td><td>Cau hoi duoi khang dinh (khong co N'T)</td></tr><tr><td>S + ought to...</td><td>Shouldn't + S?</td></tr><tr><td>Cau menh lenh</td><td>Will you?</td></tr></table><div class='formula'><b>Cau truc: \"I + think/believe/suppose/...\" + menh de phu</b> thi ta dung dong tu trong menh de phu de xac dinh dong tu cho cau hoi duoi.</div><div class='example'>Ex: I think she will meet him, won't she?</div><p>Cung mau cau truc nay nhung chu tu khong phai la \"I\" thi dung dong tu chinh trong cau (think/believe/suppose/...) de xac dinh dong tu cho cau hoi duoi.</p><div class='example'>Ex: She thinks he will come, doesn't she?</div>"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "question": "Lucy can speak Chinese, _______?",
+      "options": ["A. can she", "B. can't she", "C. she can", "D. she can't"],
+      "correctIndex": 1,
+      "explanation": "Positive statement with 'can' -> negative tag: 'can't she?'"
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "question": "They won't go to the hairdresser's tomorrow, _______?",
+      "options": ["A. won't they", "B. will they", "C. they will", "D. they won't"],
+      "correctIndex": 1,
+      "explanation": "Negative statement with 'won't' -> positive tag: 'will they?'"
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "question": "Your brother goes to school on foot, _______?",
+      "options": ["A. does he", "B. he does", "C. doesn't he", "D. he doesn't"],
+      "correctIndex": 2,
+      "explanation": "Positive statement with 'goes' (present simple) -> negative tag: 'doesn't he?'"
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "Let's sing a funny song, _______?",
+      "options": ["A. don't we", "B. don't you", "C. shall we", "D. shan't we"],
+      "correctIndex": 2,
+      "explanation": "'Let's...' always takes 'shall we?' as the tag."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "Your baby is very lovely, _______?",
+      "options": ["A. is he", "B. isn't he", "C. is it", "D. isn't it"],
+      "correctIndex": 3,
+      "explanation": "'Your baby' can be referred to as 'it'. Positive statement -> negative tag: 'isn't it?'"
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "These books aren't yours, _______?",
+      "options": ["A. are these", "B. aren't these", "C. are they", "D. aren't they"],
+      "correctIndex": 2,
+      "explanation": "Negative statement -> positive tag. 'These books' -> 'they': 'are they?'"
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "You don't have a ticket to the game, _______?",
+      "options": ["A. have you", "B. don't you", "C. haven't you", "D. do you"],
+      "correctIndex": 3,
+      "explanation": "Negative statement with 'don't have' -> positive tag: 'do you?'"
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "Tom knows Alice, _______?",
+      "options": ["A. doesn't he", "B. is he", "C. does he", "D. isn't he"],
+      "correctIndex": 0,
+      "explanation": "Positive statement 'knows' (present simple) -> negative tag: 'doesn't he?'"
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "Sally turned her report, _______?",
+      "options": ["A. didn't she", "B. did she", "C. hadn't she", "D. didn't Sally"],
+      "correctIndex": 0,
+      "explanation": "Positive past simple -> negative tag: 'didn't she?'"
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "We should call Rita, _______?",
+      "options": ["A. should we", "B. shouldn't we", "C. shall we", "D. should not we"],
+      "correctIndex": 1,
+      "explanation": "Positive 'should' -> negative tag: 'shouldn't we?'"
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "He hardly knows anything about that scandal, _______?",
+      "options": ["A. hasn't he", "B. knows he", "C. doesn't he", "D. does he"],
+      "correctIndex": 3,
+      "explanation": "'Hardly' makes the statement negative, so the tag is positive: 'does he?'"
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "You've never been in Italy, _______?",
+      "options": ["A. have you", "B. haven't you", "C. been you", "D. had you"],
+      "correctIndex": 0,
+      "explanation": "'Never' makes it negative, so the tag is positive: 'have you?'"
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "Everybody likes beauty, _______?",
+      "options": ["A. doesn't he", "B. do they", "C. don't they", "D. does he"],
+      "correctIndex": 2,
+      "explanation": "'Everybody' -> pronoun 'they'. Positive -> negative tag: 'don't they?'"
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "question": "I'm your father, _______?",
+      "options": ["A. aren't I", "B. am I not", "C. are you", "D. am I"],
+      "correctIndex": 0,
+      "explanation": "'I am...' takes the special tag 'aren't I?'"
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "question": "This is the second time she's been here, _______?",
+      "options": ["A. isn't this", "B. isn't it", "C. has she", "D. hasn't she"],
+      "correctIndex": 1,
+      "explanation": "'This is...' -> 'isn't it?' ('this' becomes 'it' in the tag)."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "question": "Come into the kitchen, _______?",
+      "options": ["A. do you", "B. will you", "C. won't you", "D. don't you"],
+      "correctIndex": 1,
+      "explanation": "Imperative sentences take 'will you?' as the tag."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "question": "Let's go out for dinner tonight, _______?",
+      "options": ["A. let we", "B. shall we", "C. shan't we", "D. let's not"],
+      "correctIndex": 1,
+      "explanation": "'Let's...' always takes 'shall we?' as the tag."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "question": "You think that she told lies, _______?",
+      "options": ["A. do you", "B. don't you", "C. did she", "D. didn't she"],
+      "correctIndex": 1,
+      "explanation": "When the subject is NOT 'I', the tag follows the main clause: 'You think..., don't you?' Only with 'I think/believe' does the tag follow the subordinate clause."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "question": "I believe that we can do it, _______?",
+      "options": ["A. do I", "B. don't I", "C. can we", "D. can't we"],
+      "correctIndex": 3,
+      "explanation": "'I believe/think that...' - tag follows the subordinate clause: 'can't we?'"
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "question": "All of us have to hand in the assignments on time, _______?",
+      "options": ["A. have we", "B. haven't us", "C. do we", "D. don't we"],
+      "correctIndex": 3,
+      "explanation": "'Have to' is treated as a regular verb. Positive -> negative tag with 'do': 'don't we?'"
+    },
+    {
+      "id": 21,
+      "type": "error-correct",
+      "wrongSentence": "David and Peter love playing football in their free time, do they?",
+      "errorWord": "do they",
+      "correction": "don't they",
+      "correctSentence": "David and Peter love playing football in their free time, don't they?",
+      "explanation": "Positive statement -> negative tag: 'don't they?'"
+    },
+    {
+      "id": 22,
+      "type": "error-correct",
+      "wrongSentence": "Peter will help you with your homework, shan't he?",
+      "errorWord": "shan't he",
+      "correction": "won't he",
+      "correctSentence": "Peter will help you with your homework, won't he?",
+      "explanation": "'Will' -> negative tag is 'won't', not 'shan't'."
+    },
+    {
+      "id": 23,
+      "type": "error-correct",
+      "wrongSentence": "Nobody helped her with her work, do they?",
+      "errorWord": "do they",
+      "correction": "did they",
+      "correctSentence": "Nobody helped her with her work, did they?",
+      "explanation": "'Helped' is past tense, and 'nobody' is negative. Positive past tag: 'did they?'"
+    },
+    {
+      "id": 24,
+      "type": "error-correct",
+      "wrongSentence": "You won't be leaving for another hour, won't you?",
+      "errorWord": "won't you",
+      "correction": "will you",
+      "correctSentence": "You won't be leaving for another hour, will you?",
+      "explanation": "Negative statement 'won't' -> positive tag: 'will you?'"
+    },
+    {
+      "id": 25,
+      "type": "error-correct",
+      "wrongSentence": "They enjoy watching soccer on television, do they?",
+      "errorWord": "do they",
+      "correction": "don't they",
+      "correctSentence": "They enjoy watching soccer on television, don't they?",
+      "explanation": "Positive statement -> negative tag: 'don't they?'"
+    },
+    {
+      "id": 26,
+      "type": "error-correct",
+      "wrongSentence": "There are ten children playing in the yard near her house, aren't they?",
+      "errorWord": "aren't they",
+      "correction": "aren't there",
+      "correctSentence": "There are ten children playing in the yard near her house, aren't there?",
+      "explanation": "'There are...' -> tag uses 'there', not 'they': 'aren't there?'"
+    },
+    {
+      "id": 27,
+      "type": "error-correct",
+      "wrongSentence": "Don't tell my secrets to anyone, do you?",
+      "errorWord": "do you",
+      "correction": "will you",
+      "correctSentence": "Don't tell my secrets to anyone, will you?",
+      "explanation": "Negative imperative ('Don't...') takes 'will you?' as the tag."
+    },
+    {
+      "id": 28,
+      "type": "error-correct",
+      "wrongSentence": "It has been a long time since we talked to John, isn't it?",
+      "errorWord": "isn't it",
+      "correction": "hasn't it",
+      "correctSentence": "It has been a long time since we talked to John, hasn't it?",
+      "explanation": "'It has been...' -> tag matches 'has': 'hasn't it?'"
+    },
+    {
+      "id": 29,
+      "type": "error-correct",
+      "wrongSentence": "There's a new Orient restaurant in town, isn't it?",
+      "errorWord": "isn't it",
+      "correction": "isn't there",
+      "correctSentence": "There's a new Orient restaurant in town, isn't there?",
+      "explanation": "'There's (there is)...' -> tag uses 'there': 'isn't there?'"
+    },
+    {
+      "id": 30,
+      "type": "error-correct",
+      "wrongSentence": "They hardly went to the beach with their close friends, didn't they?",
+      "errorWord": "didn't they",
+      "correction": "did they",
+      "correctSentence": "They hardly went to the beach with their close friends, did they?",
+      "explanation": "'Hardly' makes the statement negative, so the tag must be positive: 'did they?'"
+    }
+  ]
+}

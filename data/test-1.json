@@ -1,0 +1,407 @@
+{
+  "topicId": "test-1",
+  "title": "Practice Test 1",
+  "section": "practice-test",
+  "testType": "mixed-40",
+  "timeLimit": 60,
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "category": "pronunciation",
+      "question": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three in pronunciation: intermediate, immediate, medium, medicine",
+      "options": ["A. intermediate", "B. immediate", "C. medium", "D. medicine"],
+      "correctIndex": 1,
+      "explanation": "'immediate' has /iː/ sound while the others have /e/ in the underlined part."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "category": "pronunciation",
+      "question": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three in pronunciation: bury, hurry, hungry, thunder",
+      "options": ["A. bury", "B. hurry", "C. hungry", "D. thunder"],
+      "correctIndex": 0,
+      "explanation": "'bury' is pronounced /ˈberi/ with /e/ sound, while B, C, D have /ʌ/."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "category": "stress",
+      "question": "Mark the letter A, B, C or D to indicate the word that differs from the other three in the position of primary stress: convenient, encourage, material, modernize",
+      "options": ["A. convenient", "B. encourage", "C. material", "D. modernize"],
+      "correctIndex": 3,
+      "explanation": "'modernize' has stress on the first syllable; the others are stressed on the second syllable."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "category": "stress",
+      "question": "Mark the letter A, B, C or D to indicate the word that differs from the other three in the position of primary stress: television, decoration, introduction, expectation",
+      "options": ["A. television", "B. decoration", "C. introduction", "D. expectation"],
+      "correctIndex": 0,
+      "explanation": "'television' has stress on the first syllable; B, C, D have stress on the third syllable."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "My father used to giving me some good advice whenever I had a problem. (Find the underlined part that needs correction)",
+      "options": ["A. giving", "B. some good", "C. whenever", "D. a problem"],
+      "correctIndex": 0,
+      "explanation": "'used to' + V-infinitive (not V-ing). Correct: 'used to give'."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "The better you are at English, more chance you have to get a job with international organizations. (Find the underlined part that needs correction)",
+      "options": ["A. better", "B. are at", "C. more chance", "D. get a job"],
+      "correctIndex": 2,
+      "explanation": "The comparative structure 'The + comparative..., the + comparative...' requires 'the more chance'."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "There are differences and similarities between Vietnamese and American culture. (Find the underlined part that needs correction)",
+      "options": ["A. There are", "B. and similarities", "C. Vietnamese", "D. culture"],
+      "correctIndex": 3,
+      "explanation": "Should be 'cultures' (plural) because we are comparing two different cultures."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "_______ I were you, I would take a taxi to the airport.",
+      "options": ["A. If", "B. Unless", "C. Because", "D. When"],
+      "correctIndex": 0,
+      "explanation": "Conditional type 2: 'If I were you, I would...' expresses advice."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "The boy _______ eyes are brown is my friend.",
+      "options": ["A. who", "B. whom", "C. which", "D. whose"],
+      "correctIndex": 3,
+      "explanation": "'whose' is used to show possession in relative clauses (the boy's eyes)."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "I'm going to have my house_______ this weekend.",
+      "options": ["A. redecorates", "B. redecorated", "C. redecorating", "D. redecorate"],
+      "correctIndex": 1,
+      "explanation": "Causative 'have something done' (have + object + past participle)."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Paul was_______ disappointed with his examination results that he was sad all week.",
+      "options": ["A. too", "B. enough", "C. so", "D. such"],
+      "correctIndex": 2,
+      "explanation": "'so + adjective + that' clause. 'So disappointed... that he was sad.'"
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "I wish I _______ a car. I'm tired of catching the bus to work every day.",
+      "options": ["A. had had", "B. had", "C. have", "D. will have"],
+      "correctIndex": 1,
+      "explanation": "Wish + past simple expresses a wish about a present situation."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "She said that she had been doing her homework _______ 8 o'clock.",
+      "options": ["A. about", "B. since", "C. at", "D. for"],
+      "correctIndex": 1,
+      "explanation": "'since' is used with a specific point in time (8 o'clock) with perfect tenses."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "The situation continues to get worse and _______.",
+      "options": ["A. bad", "B. worst", "C. worse", "D. badly"],
+      "correctIndex": 2,
+      "explanation": "Parallel structure: 'worse and worse' shows continuous deterioration."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Please shut the gate _______ the dog won't get out.",
+      "options": ["A. in order for", "B. in order to", "C. so as to", "D. so that"],
+      "correctIndex": 3,
+      "explanation": "'so that' + clause (subject + verb) expresses purpose."
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "I was _______ to find that they had already left.",
+      "options": ["A. disappointing", "B. disappoint", "C. disappointed", "D. disappointment"],
+      "correctIndex": 2,
+      "explanation": "Past participle 'disappointed' describes how a person feels."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "category": "communicative",
+      "question": "Tim: \"Don't fail to send your parents my regards.\" Judy: \"_______\"",
+      "options": ["A. It's my pleasure.", "B. You are welcome.", "C. Thanks, I will.", "D. Good idea, thanks."],
+      "correctIndex": 2,
+      "explanation": "Responding to a request to pass regards: 'Thanks, I will' is the most natural reply."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "category": "communicative",
+      "question": "Lora: \"Your new blouse looks gorgeous, Helen!\" Helen: \"_______\"",
+      "options": ["A. It's up to you.", "B. Thanks, I bought it at Macy's.", "C. I'd rather not.", "D. You can say that again."],
+      "correctIndex": 1,
+      "explanation": "Responding to a compliment: accept graciously and add information."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "category": "closest-meaning",
+      "question": "Those who don't have computer skills are really behind the time.",
+      "options": ["A. out of work", "B. out of fashion", "C. out of date", "D. out of concentration"],
+      "correctIndex": 2,
+      "explanation": "'behind the time' means outdated, old-fashioned = 'out of date'."
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "category": "closest-meaning",
+      "question": "Fruits and vegetables on the island are abundant which enables the islanders to make a fortune.",
+      "options": ["A. plentiful", "B. different", "C. effective", "D. economical"],
+      "correctIndex": 0,
+      "explanation": "'abundant' means existing in large quantities = 'plentiful'."
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "category": "opposite-meaning",
+      "question": "Population growth rates vary among regions and even among countries within the same region.",
+      "options": ["A. restrain", "B. stay unchanged", "C. remain unstable", "D. fluctuate"],
+      "correctIndex": 1,
+      "explanation": "'vary' means change/differ. The opposite is 'stay unchanged'."
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "category": "opposite-meaning",
+      "question": "In some countries, the disease burden could be prevented through environmental improvements.",
+      "options": ["A. something to suffer", "B. something enjoyable", "C. something sad", "D. something to entertain"],
+      "correctIndex": 1,
+      "explanation": "'burden' means something difficult/heavy to bear. The opposite is 'something enjoyable'."
+    },
+    {
+      "id": 23,
+      "type": "reading-comprehension",
+      "passage": "Around the age of sixteen, you must make one of the biggest decisions of your life. Do I stay on at school and hopefully go on to university (23) _______? Do I leave and start work or begin a training course? The decision is yours, but it may be (24) _______ remembering two things: there's more unemployment among people who haven't been to university, and people who have the right (25) _______ will have a big advantage in the competition for jobs. If you decide to go straight into a job, there are many opportunities for training. Getting qualifications (bằng cấp) will (26) _______ you to get more quickly in many careers, and evening classes allow you to learn while you earn. Starting work and taking a break to study when you're older is another possibility. This way, you can save up money for your student days, as well as (27) _______ practical work experience.",
+      "questions": [
+        {
+          "id": "23a",
+          "question": "Fill blank (23)",
+          "options": ["A. after", "B. later", "C. past", "D. then"],
+          "correctIndex": 1,
+          "explanation": "'later' fits: go on to university later (in the future)."
+        },
+        {
+          "id": "24a",
+          "question": "Fill blank (24)",
+          "options": ["A. worth", "B. necessary", "C. important", "D. useful"],
+          "correctIndex": 0,
+          "explanation": "'worth remembering' is the correct collocation (be worth + V-ing)."
+        },
+        {
+          "id": "25a",
+          "question": "Fill blank (25)",
+          "options": ["A. notes", "B. papers", "C. arts", "D. skills"],
+          "correctIndex": 3,
+          "explanation": "'the right skills' makes sense in the context of job competition."
+        },
+        {
+          "id": "26a",
+          "question": "Fill blank (26)",
+          "options": ["A. make", "B. help", "C. let", "D. give"],
+          "correctIndex": 1,
+          "explanation": "'help you to get' is correct. 'Help + object + to-infinitive'."
+        },
+        {
+          "id": "27a",
+          "question": "Fill blank (27)",
+          "options": ["A. getting", "B. making", "C. taking", "D. doing"],
+          "correctIndex": 0,
+          "explanation": "'getting practical work experience' is the correct collocation."
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "type": "reading-comprehension",
+      "passage": "A resume is a tool that can be used to obtain a job interview. Along with a cover letter, it is the first impression a prospective employee makes on a potential employer. Therefore, it is important that a resume provide as much relevant information as possible while remaining brief. A resume should be no more than two sides of A4 paper. Make it any longer and it won't get read. A resume must be neatly typed, with at least 3/4 inch margins on all four sides. Use underlining, capital letters, and asterisks to highlight important information. A resume should be single-spaced with an extra line of space between blocks of information. Begin a resume with your name, address, and home and business telephone numbers. Do not include age, marital status, or other personal facts. Next, many resumes list a career goal, followed by a chronological outline of work experience, starting with the most recent job and working backward including a brief description of relevant duties and skills. Finally, include an outline of your educational background from the most recent backward. Include dates, schools, and diplomas awarded. Before you send it, make sure you check your spelling and grammar, or get someone else to go over it if you can.",
+      "questions": [
+        {
+          "id": "28a",
+          "question": "What is the best title for this piece?",
+          "options": ["A. How to Get a Job.", "B. How to Prepare a Resume.", "C. How to Find Your Goal in Life.", "D. How to Write a Cover Letter."],
+          "correctIndex": 1,
+          "explanation": "The passage is entirely about how to prepare a resume."
+        },
+        {
+          "id": "29a",
+          "question": "What is the function of a resume?",
+          "options": ["A. To describe your employment and educational background in extensive detail.", "B. To provide an impressive example of your writing and typing skills.", "C. To act as a tool for getting you a job interview.", "D. To give an employer a good first impression of you."],
+          "correctIndex": 2,
+          "explanation": "The first sentence states: 'A resume is a tool that can be used to obtain a job interview.'"
+        },
+        {
+          "id": "30a",
+          "question": "On a resume, which job should be listed first?",
+          "options": ["A. Your most recent job.", "B. Your most relevant job.", "C. Your first job.", "D. Your most important job."],
+          "correctIndex": 0,
+          "explanation": "The passage says 'starting with the most recent job and working backward'."
+        },
+        {
+          "id": "31a",
+          "question": "The word \"brief\" is closest in meaning to",
+          "options": ["A. short", "B. informative", "C. precise", "D. accurate"],
+          "correctIndex": 0,
+          "explanation": "'brief' means short and concise."
+        },
+        {
+          "id": "32a",
+          "question": "Which of the following should NOT be on your resume?",
+          "options": ["A. Your name, telephone, and fax number.", "B. The year you received your bachelor's degree.", "C. Your nationality and the fact that you are single.", "D. A description of the tasks you did in your last job."],
+          "correctIndex": 2,
+          "explanation": "The passage says 'Do not include age, marital status, or other personal facts.' Nationality and marital status are personal facts."
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "type": "sentence-rewrite",
+      "original": "\"Don't swim too far out,\" she said to them.",
+      "instruction": "Rewrite beginning with: She warned",
+      "starterText": "She warned",
+      "answer": "She warned them not to swim too far out.",
+      "acceptedAnswers": [
+        "She warned them not to swim too far out.",
+        "She warned them not to swim too far out"
+      ],
+      "explanation": "Reported speech with 'warn': warn + object + (not) to + infinitive."
+    },
+    {
+      "id": 34,
+      "type": "sentence-rewrite",
+      "original": "Her parents have just sold that old car.",
+      "instruction": "Rewrite beginning with: That old car",
+      "starterText": "That old car",
+      "answer": "That old car has just been sold by her parents.",
+      "acceptedAnswers": [
+        "That old car has just been sold by her parents.",
+        "That old car has just been sold by her parents"
+      ],
+      "explanation": "Active to passive: have/has + just + been + past participle."
+    },
+    {
+      "id": 35,
+      "type": "sentence-rewrite",
+      "original": "I was too tired to climb the mountain.",
+      "instruction": "Rewrite beginning with: I was",
+      "starterText": "I was",
+      "answer": "I was not strong enough to climb the mountain.",
+      "acceptedAnswers": [
+        "I was not strong enough to climb the mountain.",
+        "I was not strong enough to climb the mountain",
+        "I wasn't strong enough to climb the mountain.",
+        "I wasn't strong enough to climb the mountain"
+      ],
+      "explanation": "too + adjective + to V = not + opposite adjective + enough + to V."
+    },
+    {
+      "id": 36,
+      "type": "sentence-rewrite",
+      "original": "It's a pity that our teacher isn't here at the moment.",
+      "instruction": "Rewrite beginning with: I wish",
+      "starterText": "I wish",
+      "answer": "I wish our teacher were here at the moment.",
+      "acceptedAnswers": [
+        "I wish our teacher were here at the moment.",
+        "I wish our teacher were here at the moment",
+        "I wish our teacher was here at the moment.",
+        "I wish our teacher was here at the moment"
+      ],
+      "explanation": "Wish + past simple/subjunctive to express regret about present situations."
+    },
+    {
+      "id": 37,
+      "type": "sentence-combine",
+      "original": "That's our dog. The postman was bitten by it.",
+      "instruction": "Combine using 'bit'",
+      "keyword": "bit",
+      "answer": "That's our dog which bit the postman.",
+      "acceptedAnswers": [
+        "That's our dog which bit the postman.",
+        "That's our dog which bit the postman",
+        "That's our dog that bit the postman.",
+        "That's our dog that bit the postman"
+      ],
+      "explanation": "Use relative clause with 'which/that' for animals. 'was bitten by it' -> 'which bit' (active)."
+    },
+    {
+      "id": 38,
+      "type": "sentence-combine",
+      "original": "They cancelled the party. It rained heavily.",
+      "instruction": "Combine using 'since'",
+      "keyword": "since",
+      "answer": "Since it rained heavily, they cancelled the party.",
+      "acceptedAnswers": [
+        "Since it rained heavily, they cancelled the party.",
+        "Since it rained heavily, they cancelled the party",
+        "They cancelled the party since it rained heavily.",
+        "They cancelled the party since it rained heavily."
+      ],
+      "explanation": "'since' = because, showing reason."
+    },
+    {
+      "id": 39,
+      "type": "sentence-combine",
+      "original": "No one has a key. We can't get into the house.",
+      "instruction": "Combine using 'can'",
+      "keyword": "can",
+      "answer": "No one can get into the house because no one has a key.",
+      "acceptedAnswers": [
+        "No one can get into the house because no one has a key.",
+        "No one can get into the house because no one has a key",
+        "We can't get into the house because no one has a key.",
+        "We can't get into the house because no one has a key"
+      ],
+      "explanation": "Use 'can't' to express inability, linking the reason."
+    },
+    {
+      "id": 40,
+      "type": "sentence-combine",
+      "original": "He had a good salary. He was unhappy in his job.",
+      "instruction": "Combine using 'in spite of'",
+      "keyword": "in spite of",
+      "answer": "In spite of having a good salary, he was unhappy in his job.",
+      "acceptedAnswers": [
+        "In spite of having a good salary, he was unhappy in his job.",
+        "In spite of having a good salary, he was unhappy in his job",
+        "In spite of his good salary, he was unhappy in his job.",
+        "In spite of his good salary, he was unhappy in his job"
+      ],
+      "explanation": "'in spite of' + noun/V-ing to show contrast."
+    }
+  ]
+}
