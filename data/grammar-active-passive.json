@@ -389,6 +389,7 @@
       "instruction": "Change to passive voice",
       "starterText": "A new house",
       "answer": "A new house will be bought by her.",
+      "acceptedAnswers": ["A new house will be bought by her.", "A new house will be bought by her"],
       "explanation": "Future simple passive: will + be + PP."
     },
     {
@@ -397,8 +398,9 @@
       "original": "They aren't building my house.",
       "instruction": "Change to passive voice",
       "starterText": "My house",
-      "answer": "My house isn't being built by them.",
-      "explanation": "Present continuous passive negative: isn't + being + PP."
+      "answer": "My house isn't being built.",
+      "acceptedAnswers": ["My house isn't being built.", "My house isn't being built by them.", "My house is not being built.", "My house is not being built by them."],
+      "explanation": "Present continuous passive negative: isn't + being + PP. 'By them' can be omitted since the agent is vague."
     },
     {
       "id": 47,
@@ -407,7 +409,8 @@
       "instruction": "Change to passive voice",
       "starterText": "The math problem",
       "answer": "The math problem could be solved easily.",
-      "explanation": "Modal passive: could + be + PP."
+      "acceptedAnswers": ["The math problem could be solved easily.", "The math problem could be solved easily", "The math problem could be solved easily by him.", "The math problem could be easily solved."],
+      "explanation": "Modal passive: could + be + PP. Omit 'by him' since agent is vague."
     },
     {
       "id": 48,
@@ -443,6 +446,7 @@
       "instruction": "Rewrite starting with 'It'",
       "starterText": "It",
       "answer": "It was reported that four people had been injured in the fire.",
+      "acceptedAnswers": ["It was reported that four people had been injured in the fire.", "It was reported that four people had been injured in the fire"],
       "explanation": "Complex passive (cach 1): It + be + PP + that + clause."
     },
     {

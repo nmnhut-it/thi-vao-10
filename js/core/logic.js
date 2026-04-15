@@ -37,7 +37,8 @@ const Logic = {
    */
   checkTextAnswer(userAnswer, exercise) {
     if (!userAnswer || !userAnswer.trim()) return false;
-    const accepted = [exercise.answer, ...(exercise.acceptedAnswers || [])].filter(Boolean);
+    const primary = exercise.answer || exercise.correctSentence;
+    const accepted = [primary, ...(exercise.acceptedAnswers || [])].filter(Boolean);
     return accepted.some(a => this.normalizeAnswer(userAnswer) === this.normalizeAnswer(a));
   },
 

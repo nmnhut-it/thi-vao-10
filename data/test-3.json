@@ -296,7 +296,9 @@
       "answer": "The doctor advised me to give up smoking as soon as possible.",
       "acceptedAnswers": [
         "The doctor advised me to give up smoking as soon as possible.",
-        "The doctor advised me to give up smoking as soon as possible"
+        "The doctor advised me to give up smoking as soon as possible",
+        "The doctor advised me to stop smoking as soon as possible.",
+        "The doctor advised me to stop smoking as soon as possible"
       ],
       "explanation": "Reported advice: advise + object + to-infinitive. 'You should...' -> 'advised me to...'"
     },
@@ -309,9 +311,11 @@
       "answer": "He was said to grow a lot of cabbages in his field.",
       "acceptedAnswers": [
         "He was said to grow a lot of cabbages in his field.",
-        "He was said to grow a lot of cabbages in his field"
+        "He was said to grow a lot of cabbages in his field",
+        "He was said to have grown a lot of cabbages in his field.",
+        "He was said to have grown a lot of cabbages in his field"
       ],
-      "explanation": "Passive reporting: S + be + said + to-infinitive."
+      "explanation": "Passive reporting: S + be + said + to-infinitive. When both verbs are past tense, 'to have V3' is also accepted."
     },
     {
       "id": 35,
@@ -369,7 +373,7 @@
     {
       "id": 39,
       "type": "sentence-combine",
-      "original": "The shoes are too big. My mother can't feet her feet.",
+      "original": "The shoes are too big. My mother can't fit her feet.",
       "instruction": "Combine using 'so'",
       "keyword": "so",
       "answer": "The shoes are so big that my mother can't fit her feet.",

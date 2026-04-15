@@ -66,9 +66,9 @@
       "id": 8,
       "type": "multiple-choice",
       "question": "I would rather that you _______ me tomorrow.",
-      "options": ["A. call", "B. to call", "C. calling", "D. will call"],
+      "options": ["A. called", "B. to call", "C. calling", "D. will call"],
       "correctIndex": 0,
-      "explanation": "'Would rather that + S + V(bare)' - present subjunctive for future request."
+      "explanation": "'Would rather (that) + S + V(past)' - past subjunctive for wishes about another person's actions: 'called'."
     },
     {
       "id": 9,

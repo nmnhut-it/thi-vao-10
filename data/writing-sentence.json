@@ -63,7 +63,7 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "When",
       "answer": "When did Catherine and Henry get engaged?",
-      "acceptedAnswers": ["When did Catherine and Henry get engaged?"],
+      "acceptedAnswers": ["When did Catherine and Henry get engaged?", "When did Catherine and Henry get engaged"],
       "explanation": "How long + have/has + V3? = When did + S + V?"
     },
     {
@@ -113,7 +113,7 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "John",
       "answer": "John has just been released by the police.",
-      "acceptedAnswers": ["John has just been released by the police.", "John has just been released by the police"],
+      "acceptedAnswers": ["John has just been released by the police.", "John has just been released by the police", "John has just been released.", "John has just been released"],
       "explanation": "Present perfect passive: S + have/has + been + V3."
     },
     {
@@ -133,7 +133,7 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "The manager",
       "answer": "The manager must be seen tomorrow morning.",
-      "acceptedAnswers": ["The manager must be seen tomorrow morning.", "The manager must be seen by you tomorrow morning."],
+      "acceptedAnswers": ["The manager must be seen tomorrow morning.", "The manager must be seen by you tomorrow morning.", "The manager must be seen tomorrow morning", "The manager must be seen by you tomorrow morning"],
       "explanation": "Modal passive: S + modal + be + V3."
     },
     {
@@ -333,7 +333,7 @@
       "instruction": "Rewrite using conditional",
       "starterText": "If",
       "answer": "If she had a computer or a smartphone, she could study online.",
-      "acceptedAnswers": ["If she had a computer or a smartphone, she could study online.", "If she had a computer or a smartphone, she could study online"],
+      "acceptedAnswers": ["If she had a computer or a smartphone, she could study online.", "If she had a computer or a smartphone, she could study online", "If she had a computer or a smartphone, she would be able to study online."],
       "explanation": "Second conditional: If + S + V2/ed, S + would/could + V."
     },
     {
@@ -343,7 +343,7 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "Unless",
       "answer": "Unless you have a passport, you can't register for a course abroad.",
-      "acceptedAnswers": ["Unless you have a passport, you can't register for a course abroad.", "Unless you have a passport, you can't register for a course abroad"],
+      "acceptedAnswers": ["Unless you have a passport, you can't register for a course abroad.", "Unless you have a passport, you can't register for a course abroad", "Unless you have a passport, you cannot register for a course abroad."],
       "explanation": "If...not = Unless (remove the negative)."
     },
     {
@@ -353,7 +353,7 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "I wish",
       "answer": "I wish they worked faster and more effectively.",
-      "acceptedAnswers": ["I wish they worked faster and more effectively.", "I wish they didn't work slowly and ineffectively."],
+      "acceptedAnswers": ["I wish they worked faster and more effectively.", "I wish they didn't work slowly and ineffectively.", "I wish they worked faster and more effectively", "I wish they would work faster and more effectively."],
       "explanation": "Wish + past simple for present unreal wishes."
     },
     {
@@ -363,7 +363,7 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "I wish",
       "answer": "I wish I weren't late for school.",
-      "acceptedAnswers": ["I wish I weren't late for school.", "I wish I wouldn't be late for school.", "I wish I weren't going to be late for school."],
+      "acceptedAnswers": ["I wish I weren't late for school.", "I wish I wouldn't be late for school.", "I wish I weren't going to be late for school.", "I wish I wasn't late for school.", "I wish I wasn't going to be late for school."],
       "explanation": "Wish + past simple for unreal present/future wishes."
     },
     {
@@ -403,7 +403,7 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "Do you mind",
       "answer": "Do you mind helping me put the chair away?",
-      "acceptedAnswers": ["Do you mind helping me put the chair away?"],
+      "acceptedAnswers": ["Do you mind helping me put the chair away?", "Do you mind helping me put the chair away"],
       "explanation": "Do you mind + V-ing = Would you like to help."
     },
     {
@@ -623,7 +623,7 @@
       "instruction": "Rewrite using the word in brackets: (suggested)",
       "starterText": "She",
       "answer": "She suggested surfing the net for the location of Ninh Binh Province.",
-      "acceptedAnswers": ["She suggested surfing the net for the location of Ninh Binh Province.", "She suggested that they should surf the net for the location of Ninh Binh Province."],
+      "acceptedAnswers": ["She suggested surfing the net for the location of Ninh Binh Province.", "She suggested that they should surf the net for the location of Ninh Binh Province.", "She suggested that they surf the net for the location of Ninh Binh Province."],
       "explanation": "Shall we...? = S + suggested + V-ing."
     },
     {
@@ -673,7 +673,7 @@
       "instruction": "Rewrite using the word in brackets: (if)",
       "starterText": "If",
       "answer": "If I had taken my parents' advice, I wouldn't have got into a lot of troubles.",
-      "acceptedAnswers": ["If I had taken my parents' advice, I wouldn't have got into a lot of troubles.", "If I had taken my parents' advice, I wouldn't have gotten into a lot of troubles."],
+      "acceptedAnswers": ["If I had taken my parents' advice, I wouldn't have got into a lot of troubles.", "If I had taken my parents' advice, I wouldn't have gotten into a lot of troubles.", "If I had taken my parents' advice, I would not have got into a lot of troubles.", "If I had taken my parents' advice, I wouldn't have got into a lot of trouble."],
       "explanation": "Third conditional: If + had + V3, S + would have + V3."
     },
     {
@@ -713,7 +713,7 @@
       "instruction": "Rewrite using the word in brackets: (get)",
       "starterText": "When",
       "answer": "When did you get your new car?",
-      "acceptedAnswers": ["When did you get your new car?"],
+      "acceptedAnswers": ["When did you get your new car?", "When did you get your new car"],
       "explanation": "How long have you had = When did you get."
     },
     {
@@ -763,7 +763,7 @@
       "instruction": "Rewrite using the word in brackets: (doing)",
       "starterText": "What",
       "answer": "What are you doing next Wednesday evening?",
-      "acceptedAnswers": ["What are you doing next Wednesday evening?"],
+      "acceptedAnswers": ["What are you doing next Wednesday evening?", "What are you doing next Wednesday evening"],
       "explanation": "Have plans for = What are you doing (present continuous for future plans)."
     },
     {
@@ -833,7 +833,7 @@
       "instruction": "Rewrite using the word in brackets: (suggested)",
       "starterText": "Kate",
       "answer": "Kate suggested going to the cinema.",
-      "acceptedAnswers": ["Kate suggested going to the cinema.", "Kate suggested that they go to the cinema."],
+      "acceptedAnswers": ["Kate suggested going to the cinema.", "Kate suggested that they go to the cinema.", "Kate suggested that they should go to the cinema."],
       "explanation": "How about + V-ing = S + suggested + V-ing."
     },
     {
@@ -843,13 +843,13 @@
       "instruction": "Rewrite using the word in brackets: (would)",
       "starterText": "If",
       "answer": "If I were you, I would talk to my parents.",
-      "acceptedAnswers": ["If I were you, I would talk to my parents.", "If I were you, I would talk to your parents."],
+      "acceptedAnswers": ["If I were you, I would talk to my parents.", "If I were you, I would talk to your parents.", "If I were you, I'd talk to my parents.", "If I was you, I would talk to my parents."],
       "explanation": "My advice = If I were you, I would..."
     },
     {
       "id": 85,
       "type": "sentence-rewrite",
-      "original": "Mary wasn't strong enough to life the box.",
+      "original": "Mary wasn't strong enough to lift the box.",
       "instruction": "Rewrite using the word in brackets: (weak)",
       "starterText": "Mary was",
       "answer": "Mary was too weak to lift the box.",
@@ -859,7 +859,7 @@
     {
       "id": 86,
       "type": "sentence-rewrite",
-      "original": "They wanted to apologized for their behavior: that's why they paid for dinner.",
+      "original": "They wanted to apologize for their behavior: that's why they paid for dinner.",
       "instruction": "Rewrite using the word in brackets: (in order)",
       "starterText": "They paid for dinner",
       "answer": "They paid for dinner in order to apologize for their behavior.",
@@ -933,7 +933,7 @@
       "instruction": "Rewrite using the word in brackets: (mind)",
       "starterText": "Would you",
       "answer": "Would you mind giving me a hand to move the sofa?",
-      "acceptedAnswers": ["Would you mind giving me a hand to move the sofa?"],
+      "acceptedAnswers": ["Would you mind giving me a hand to move the sofa?", "Would you mind giving me a hand to move the sofa", "Would you mind helping me move the sofa?"],
       "explanation": "Could you = Would you mind + V-ing."
     },
     {
@@ -941,7 +941,7 @@
       "type": "sentence-rewrite",
       "original": "I think Jerry really likes Simon.",
       "instruction": "Rewrite using the word in brackets: (keen)",
-      "starterText": "Jelly",
+      "starterText": "Jerry",
       "answer": "Jerry is keen on Simon.",
       "acceptedAnswers": ["Jerry is keen on Simon.", "Jerry is really keen on Simon."],
       "explanation": "Really likes = is keen on."
@@ -973,7 +973,7 @@
       "instruction": "Rewrite using the word in brackets: (yours)",
       "starterText": "Is",
       "answer": "Is that car yours?",
-      "acceptedAnswers": ["Is that car yours?"],
+      "acceptedAnswers": ["Is that car yours?", "Is that car yours"],
       "explanation": "Do you own = Is + noun + yours?"
     },
     {
@@ -983,7 +983,7 @@
       "instruction": "Rewrite using the word in brackets: (going)",
       "starterText": "Look at those black clouds! It",
       "answer": "Look at those black clouds! It is going to rain.",
-      "acceptedAnswers": ["Look at those black clouds! It is going to rain."],
+      "acceptedAnswers": ["Look at those black clouds! It is going to rain.", "Look at those black clouds! It is going to rain", "Look at those black clouds! It's going to rain."],
       "explanation": "There is rain arriving = It is going to rain."
     },
     {
@@ -1073,7 +1073,7 @@
       "instruction": "Rewrite using the word in brackets: (delivers)",
       "starterText": "Do you know how many",
       "answer": "Do you know how many letters the post office delivers every year?",
-      "acceptedAnswers": ["Do you know how many letters the post office delivers every year?"],
+      "acceptedAnswers": ["Do you know how many letters the post office delivers every year?", "Do you know how many letters the post office delivers every year"],
       "explanation": "Passive to active: move agent to subject position."
     },
     {
@@ -1103,7 +1103,7 @@
       "instruction": "Rewrite using the word in brackets: (mind)",
       "starterText": "Would you",
       "answer": "Would you mind if I opened the window a little?",
-      "acceptedAnswers": ["Would you mind if I opened the window a little?"],
+      "acceptedAnswers": ["Would you mind if I opened the window a little?", "Would you mind if I opened the window a little"],
       "explanation": "Is it a problem if = Would you mind if + past simple."
     },
     {
@@ -1143,7 +1143,7 @@
       "instruction": "Rewrite using the word in brackets: (leaving)",
       "starterText": "How",
       "answer": "How about leaving after breakfast on Saturday?",
-      "acceptedAnswers": ["How about leaving after breakfast on Saturday?"],
+      "acceptedAnswers": ["How about leaving after breakfast on Saturday?", "How about leaving after breakfast on Saturday"],
       "explanation": "Why don't we + V = How about + V-ing?"
     },
     {
@@ -1183,7 +1183,7 @@
       "instruction": "Rewrite using the word in brackets: (so that)",
       "starterText": "He locked",
       "answer": "He locked the door so that the prisoner couldn't escape.",
-      "acceptedAnswers": ["He locked the door so that the prisoner couldn't escape.", "He locked the door so that the prisoner would not escape."],
+      "acceptedAnswers": ["He locked the door so that the prisoner couldn't escape.", "He locked the door so that the prisoner would not escape.", "He locked the door so that the prisoner could not escape."],
       "explanation": "To prevent = so that + S + couldn't/wouldn't."
     },
     {

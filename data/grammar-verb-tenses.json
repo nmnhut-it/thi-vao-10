@@ -263,6 +263,7 @@
       "instruction": "Rewrite starting with 'We haven't'",
       "starterText": "We haven't",
       "answer": "We haven't met for a long time.",
+      "acceptedAnswers": ["We haven't met for a long time.", "We haven't met for a long time"],
       "explanation": "'It is + time + since + S + last + Vpast' = 'S + haven't + PII + for + time'."
     },
     {
@@ -272,6 +273,7 @@
       "instruction": "Rewrite starting with 'How long'",
       "starterText": "How long",
       "answer": "How long have you had this computer?",
+      "acceptedAnswers": ["How long have you had this computer?", "How long have you had this computer"],
       "explanation": "'When did + S + V?' = 'How long + have/has + S + PII?'"
     },
     {
@@ -281,7 +283,8 @@
       "instruction": "Rewrite starting with 'This'",
       "starterText": "This",
       "answer": "This is the first time my nephew James has drunk beer.",
-      "explanation": "'S + have/has never + PII + before' = 'This is the first time + S + have/has + PII'."
+      "acceptedAnswers": ["This is the first time my nephew James has drunk beer.", "This is the first time my nephew James has drunk beer"],
+      "explanation": "'S + have/has never + PII + before' = 'This is the first time + S + have/has + PII'. Note: 'drunk' is the past participle of 'drink' (drink-drank-drunk)."
     },
     {
       "id": 34,
@@ -290,6 +293,7 @@
       "instruction": "Rewrite starting with 'He has'",
       "starterText": "He has",
       "answer": "He has never visited Ha Long Bay before.",
+      "acceptedAnswers": ["He has never visited Ha Long Bay before.", "He has never visited Ha Long Bay before"],
       "explanation": "'This is the first time + S + V' = 'S + have/has never + PII + before'."
     },
     {
@@ -299,6 +303,7 @@
       "instruction": "Rewrite starting with 'She has'",
       "starterText": "She has",
       "answer": "She has worked here since last year.",
+      "acceptedAnswers": ["She has worked here since last year.", "She has worked here since last year"],
       "explanation": "'S + started + Ving + time' = 'S + have/has + PII + since + time'."
     },
     {
@@ -308,6 +313,7 @@
       "instruction": "Rewrite starting with 'We have'",
       "starterText": "We have",
       "answer": "We have been eating lunch since it started to rain.",
+      "acceptedAnswers": ["We have been eating lunch since it started to rain.", "We have been eating lunch since it started to rain", "We have been eating lunch since it started raining.", "We have been eating lunch since it started raining"],
       "explanation": "'S + began + Ving + when + past' = 'S + have/has been + Ving + since + past clause'. Use present perfect continuous because the action started and is still ongoing."
     },
     {
@@ -317,6 +323,7 @@
       "instruction": "Rewrite starting with 'I haven't'",
       "starterText": "I haven't",
       "answer": "I haven't had my hair cut since she left me.",
+      "acceptedAnswers": ["I haven't had my hair cut since she left me.", "I haven't had my hair cut since she left me"],
       "explanation": "'S + last + Vpast + when + clause' = 'S + haven't/hasn't + PII + since + clause'."
     },
     {
@@ -326,6 +333,7 @@
       "instruction": "Rewrite starting with 'He hasn't'",
       "starterText": "He hasn't",
       "answer": "He hasn't met me for 5 months.",
+      "acceptedAnswers": ["He hasn't met me for 5 months.", "He hasn't met me for 5 months", "He hasn't met me for five months.", "He hasn't met me for five months"],
       "explanation": "'The last time + S + Vpast + was + time ago' = 'S + haven't/hasn't + PII + for + time'."
     },
     {
@@ -335,15 +343,17 @@
       "instruction": "Rewrite starting with 'How'",
       "starterText": "How",
       "answer": "How long have they been opening this shopping center?",
-      "explanation": "'When did + S + start + Ving?' = 'How long + have/has + S + been + Ving?'"
+      "acceptedAnswers": ["How long have they been opening this shopping center?", "How long have they been opening this shopping center"],
+      "explanation": "'When did + S + start + Ving?' = 'How long + have/has + S + been + Ving?' Here 'opening' is kept from the original sentence's verb form."
     },
     {
       "id": 40,
       "type": "sentence-rewrite",
-      "original": "I haven't been to the zoo for over the year.",
+      "original": "I haven't been to the zoo for over a year.",
       "instruction": "Rewrite starting with 'The last time'",
       "starterText": "The last time",
       "answer": "The last time I went to the zoo was over a year ago.",
+      "acceptedAnswers": ["The last time I went to the zoo was over a year ago.", "The last time I went to the zoo was over a year ago"],
       "explanation": "'S + haven't + PII + for + time' = 'The last time + S + Vpast + was + time + ago'."
     }
   ]

@@ -108,7 +108,7 @@
       "question": "He wants to know whether I _______ back to Hoi An the next day.",
       "options": ["A. come", "B. came", "C. will come", "D. would come"],
       "correctIndex": 3,
-      "explanation": "Dong tu tuong thuat 'wants' o hien tai nhung cau goc dung 'will' => 'would come' (vi tomorrow => the next day da doi)."
+      "explanation": "Mac du 'wants' o hien tai, nhung 'the next day' cho thay cau goc da duoc lui thi (tomorrow => the next day), nen 'will' cung lui thanh 'would'. Dap an: 'would come'."
     },
     {
       "id": 14,
@@ -172,7 +172,8 @@
       "original": "\"Peter, do you prefer tea or coffee?\" she said.",
       "instruction": "Change into reported speech.",
       "starterText": "She",
-      "answer": "She asked Peter if/whether he preferred tea or coffee.",
+      "answer": "She asked Peter if he preferred tea or coffee.",
+      "acceptedAnswers": ["She asked Peter if he preferred tea or coffee.", "She asked Peter if he preferred tea or coffee", "She asked Peter whether he preferred tea or coffee.", "She asked Peter whether he preferred tea or coffee"],
       "explanation": "Yes-No question tuong thuat: asked + O + if/whether + S + V (lui thi)."
     },
     {
@@ -181,7 +182,8 @@
       "original": "\"The film began at seven o'clock,\" he said.",
       "instruction": "Change into reported speech.",
       "starterText": "He said",
-      "answer": "He said (that) the film had begun at seven o'clock.",
+      "answer": "He said that the film had begun at seven o'clock.",
+      "acceptedAnswers": ["He said that the film had begun at seven o'clock.", "He said that the film had begun at seven o'clock", "He said the film had begun at seven o'clock.", "He said the film had begun at seven o'clock"],
       "explanation": "Tran thuat: said + (that) + S + V (lui thi). began => had begun."
     },
     {
@@ -190,8 +192,9 @@
       "original": "The father said, \"I was on a business trip the whole day yesterday.\"",
       "instruction": "Change into reported speech.",
       "starterText": "The father",
-      "answer": "The father said (that) he had been on a business trip the whole day the day before.",
-      "explanation": "was => had been. 'yesterday' => 'the day before'."
+      "answer": "The father said that he had been on a business trip the whole day the day before.",
+      "acceptedAnswers": ["The father said that he had been on a business trip the whole day the day before.", "The father said that he had been on a business trip the whole day the day before", "The father said he had been on a business trip the whole day the day before.", "The father said he had been on a business trip the whole day the day before", "The father said that he had been on a business trip the whole day the previous day.", "The father said that he had been on a business trip the whole day the previous day"],
+      "explanation": "was => had been. 'yesterday' => 'the day before' hoac 'the previous day'."
     },
     {
       "id": 24,
@@ -199,8 +202,9 @@
       "original": "\"My brother will get married next month,\" James said.",
       "instruction": "Change into reported speech.",
       "starterText": "James",
-      "answer": "James said (that) his brother would get married the following month.",
-      "explanation": "will => would. 'next month' => 'the following month'. 'my' => 'his'."
+      "answer": "James said that his brother would get married the following month.",
+      "acceptedAnswers": ["James said that his brother would get married the following month.", "James said that his brother would get married the following month", "James said his brother would get married the following month.", "James said his brother would get married the following month", "James said that his brother would get married the next month.", "James said that his brother would get married the next month"],
+      "explanation": "will => would. 'next month' => 'the following month' hoac 'the next month'. 'my' => 'his'."
     },
     {
       "id": 25,
@@ -209,6 +213,7 @@
       "instruction": "Change into reported speech.",
       "starterText": "Henry told",
       "answer": "Henry told his mother to come and spend a week with them.",
+      "acceptedAnswers": ["Henry told his mother to come and spend a week with them.", "Henry told his mother to come and spend a week with them"],
       "explanation": "Menh lenh: told + O + to V. 'us' => 'them'."
     },
     {
@@ -217,7 +222,8 @@
       "original": "He said to me, \"Keep a seat for me in the lecture hall.\"",
       "instruction": "Change into reported speech.",
       "starterText": "He",
-      "answer": "He asked/told me to keep a seat for him in the lecture hall.",
+      "answer": "He told me to keep a seat for him in the lecture hall.",
+      "acceptedAnswers": ["He told me to keep a seat for him in the lecture hall.", "He told me to keep a seat for him in the lecture hall", "He asked me to keep a seat for him in the lecture hall.", "He asked me to keep a seat for him in the lecture hall"],
       "explanation": "Menh lenh: told/asked + O + to V. 'me' (trong loi noi) => 'him'."
     },
     {
@@ -226,7 +232,8 @@
       "original": "Alfred said to John, \"I did not promise to send you a telegram.\"",
       "instruction": "Change into reported speech.",
       "starterText": "Alfred",
-      "answer": "Alfred told John (that) he had not promised to send him a telegram.",
+      "answer": "Alfred told John that he had not promised to send him a telegram.",
+      "acceptedAnswers": ["Alfred told John that he had not promised to send him a telegram.", "Alfred told John that he had not promised to send him a telegram", "Alfred told John he had not promised to send him a telegram.", "Alfred told John he had not promised to send him a telegram", "Alfred told John that he hadn't promised to send him a telegram.", "Alfred told John that he hadn't promised to send him a telegram"],
       "explanation": "did not promise => had not promised. 'I' => 'he'. 'you' => 'him'."
     },
     {
@@ -235,7 +242,8 @@
       "original": "\"I will get myself a drink,\" she said.",
       "instruction": "Change into reported speech.",
       "starterText": "She said",
-      "answer": "She said (that) she would get herself a drink.",
+      "answer": "She said that she would get herself a drink.",
+      "acceptedAnswers": ["She said that she would get herself a drink.", "She said that she would get herself a drink", "She said she would get herself a drink.", "She said she would get herself a drink"],
       "explanation": "will => would. 'I' => 'she'. 'myself' => 'herself'."
     },
     {
@@ -244,7 +252,8 @@
       "original": "\"I cannot drive them home,\" he said.",
       "instruction": "Change into reported speech.",
       "starterText": "He said",
-      "answer": "He said (that) he could not drive them home.",
+      "answer": "He said that he could not drive them home.",
+      "acceptedAnswers": ["He said that he could not drive them home.", "He said that he could not drive them home", "He said he could not drive them home.", "He said he could not drive them home", "He said that he couldn't drive them home.", "He said that he couldn't drive them home"],
       "explanation": "cannot => could not. 'I' => 'he'."
     },
     {
@@ -254,7 +263,8 @@
       "instruction": "Change into reported speech.",
       "starterText": "Mike",
       "answer": "Mike asked Henry to give him his book back.",
-      "explanation": "Yeu cau lich su: asked + O + to V. 'me' => 'him'. 'my' => 'his'."
+      "acceptedAnswers": ["Mike asked Henry to give him his book back.", "Mike asked Henry to give him his book back", "Mike told Henry to give him his book back.", "Mike told Henry to give him his book back"],
+      "explanation": "Yeu cau lich su (co 'please'): asked + O + to V. 'me' => 'him'. 'my' => 'his'."
     },
     {
       "id": 31,
@@ -296,10 +306,10 @@
       "id": 35,
       "type": "error-correct",
       "wrongSentence": "When I was a teenager, my dad always told me that I hadn't used to stay out later than ten o'clock.",
-      "correctSentence": "When I was a teenager, my dad always told me that I wasn't used to staying out later than ten o'clock.",
-      "errorWord": "hadn't used to",
-      "correction": "wasn't used to staying",
-      "explanation": "'be used to + V-ing' la cau truc dung. 'hadn't used to' khong phu hop o day."
+      "correctSentence": "When I was a teenager, my dad always told me not to stay out later than ten o'clock.",
+      "errorWord": "that I hadn't used to stay",
+      "correction": "not to stay",
+      "explanation": "Day la loi khuyen/menh lenh tuong thuat: told + O + not to V. 'Hadn't used to' khong phu hop vi y nghia la 'bao khong duoc di choi khuya', khong phai 'khong quen di choi khuya'."
     },
     {
       "id": 36,
@@ -313,10 +323,10 @@
     {
       "id": 37,
       "type": "multiple-choice",
-      "question": "Marty said a good friendship _______ like a diamond: valuable, beautiful and durable. (Choose the underlined part that needs correcting: A. said, B. is like, C. a diamond, D. durable)",
-      "options": ["A. said", "B. is like", "C. a diamond", "D. durable"],
-      "correctIndex": 1,
-      "explanation": "Khong sai. Day la chan ly nen co the giu nguyen thi. Tuy nhien de kiem tra cung co the chap nhan 'is like' khong doi vi no la su that hien nhien."
+      "question": "Marty said a good friendship _______ like a diamond: valuable, beautiful and durable.",
+      "options": ["A. is", "B. was", "C. has been", "D. had been"],
+      "correctIndex": 0,
+      "explanation": "Day la chan ly, su that hien nhien (a good friendship is like a diamond) nen khong lui thi trong tuong thuat. Giu nguyen 'is'."
     },
     {
       "id": 38,

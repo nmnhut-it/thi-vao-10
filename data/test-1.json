@@ -309,7 +309,9 @@
       "answer": "That old car has just been sold by her parents.",
       "acceptedAnswers": [
         "That old car has just been sold by her parents.",
-        "That old car has just been sold by her parents"
+        "That old car has just been sold by her parents",
+        "That old car has just been sold.",
+        "That old car has just been sold"
       ],
       "explanation": "Active to passive: have/has + just + been + past participle."
     },

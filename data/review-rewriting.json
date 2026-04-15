@@ -13,7 +13,7 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "The mother",
       "answer": "The mother reminded the boy to lock the door.",
-      "acceptedAnswers": ["The mother reminded the boy to lock the door.", "The mother reminded the boy to lock the door"],
+      "acceptedAnswers": ["The mother reminded the boy to lock the door.", "The mother reminded the boy to lock the door", "The mother reminded the boy not to forget to lock the door.", "The mother reminded the boy not to forget to lock the door"],
       "explanation": "Don't forget = reminded + object + to V."
     },
     {
@@ -23,7 +23,7 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "The boy",
       "answer": "The boy was made to tidy up the room by the mother.",
-      "acceptedAnswers": ["The boy was made to tidy up the room by the mother.", "The boy was made to tidy up the room."],
+      "acceptedAnswers": ["The boy was made to tidy up the room by the mother.", "The boy was made to tidy up the room.", "The boy was made to tidy up the room by his mother.", "The boy was made to tidy up the room by his mother"],
       "explanation": "Passive of 'make': S + was made + to V."
     },
     {
@@ -83,7 +83,7 @@
       "instruction": "Rewrite beginning with the words given",
       "starterText": "If",
       "answer": "If I were a rich businessman, I could afford to buy an expensive car.",
-      "acceptedAnswers": ["If I were a rich businessman, I could afford to buy an expensive car.", "If I were a rich businessman, I could afford to buy an expensive car"],
+      "acceptedAnswers": ["If I were a rich businessman, I could afford to buy an expensive car.", "If I were a rich businessman, I could afford to buy an expensive car", "If I was a rich businessman, I could afford to buy an expensive car.", "If I was a rich businessman, I could afford to buy an expensive car"],
       "explanation": "Second conditional for unreal present situations."
     },
     {
@@ -123,7 +123,7 @@
       "instruction": "Rewrite using the word in brackets: (Having)",
       "starterText": "Having",
       "answer": "Having defeated the former champion in three sets, Nam won their inter-school table tennis championship.",
-      "acceptedAnswers": ["Having defeated the former champion in three sets, Nam won their inter-school table tennis championship."],
+      "acceptedAnswers": ["Having defeated the former champion in three sets, Nam won their inter-school table tennis championship.", "Having defeated the former champion in three sets, Nam won their inter-school table tennis championship"],
       "explanation": "Perfect participle: Having + V3, S + V2/ed."
     },
     {
@@ -153,7 +153,7 @@
       "instruction": "Rewrite using the word in brackets: (whose)",
       "starterText": "The students",
       "answer": "The students whose reports are very valuable will be awarded the present.",
-      "acceptedAnswers": ["The students whose reports are very valuable will be awarded the present."],
+      "acceptedAnswers": ["The students whose reports are very valuable will be awarded the present.", "The students whose reports are very valuable will be awarded the present"],
       "explanation": "Relative pronoun 'whose' for possession."
     },
     {
@@ -203,7 +203,7 @@
       "instruction": "Rewrite using the word in brackets: (If)",
       "starterText": "If",
       "answer": "If she loved him, he wouldn't be sad.",
-      "acceptedAnswers": ["If she loved him, he wouldn't be sad.", "If she loved him, he would not be sad."],
+      "acceptedAnswers": ["If she loved him, he wouldn't be sad.", "If she loved him, he would not be sad.", "If she loved him, he wouldn't be sad", "If she loved him, he would not be sad"],
       "explanation": "Second conditional for unreal present situations."
     }
   ]

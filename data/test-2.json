@@ -326,7 +326,9 @@
       "answer": "If I were you, I would study harder for the exam.",
       "acceptedAnswers": [
         "If I were you, I would study harder for the exam.",
-        "If I were you, I would study harder for the exam"
+        "If I were you, I would study harder for the exam",
+        "If I was you, I would study harder for the exam.",
+        "If I were you, I'd study harder for the exam."
       ],
       "explanation": "Giving advice with conditional type 2: If I were you, I would..."
     },

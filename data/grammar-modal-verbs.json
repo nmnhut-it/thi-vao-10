@@ -17,7 +17,7 @@
     {
       "id": 2,
       "type": "multiple-choice",
-      "question": "In case you're suffered from the injury, you _______ see the doctor today.",
+      "question": "In case you're suffering from the injury, you _______ see the doctor today.",
       "options": ["A. had better", "B. must", "C. ought", "D. have better"],
       "correctIndex": 0,
       "explanation": "'Had better' gives strong advice about a specific situation. It fits naturally here."

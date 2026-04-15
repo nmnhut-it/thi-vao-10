@@ -58,7 +58,7 @@
       "id": 7,
       "type": "multiple-choice",
       "question": "The land and the people _______ I have met are nice.",
-      "options": ["A. that", "B. who", "C. whose", "D. whose"],
+      "options": ["A. that", "B. who", "C. whose", "D. whom"],
       "correctIndex": 0,
       "explanation": "Khi danh tu vua chi nguoi vua chi vat ('the land and the people') => dung 'that'."
     },
@@ -98,7 +98,7 @@
       "id": 12,
       "type": "multiple-choice",
       "question": "The boy to _______ I lend my money is poor.",
-      "options": ["A. that", "B. that", "C. whom", "D. whose"],
+      "options": ["A. that", "B. who", "C. whom", "D. whose"],
       "correctIndex": 2,
       "explanation": "Gioi tu 'to' dung truoc dai tu quan he => dung 'whom' (khong dung 'that' sau gioi tu)."
     },
@@ -121,7 +121,7 @@
     {
       "id": 15,
       "type": "multiple-choice",
-      "question": "Carol is the best friend _______ I've been had in my life.",
+      "question": "Carol is the best friend _______ I've ever had in my life.",
       "options": ["A. whom", "B. who", "C. which", "D. both A&B"],
       "correctIndex": 3,
       "explanation": "'friend' la nguoi, lam tan ngu => 'whom' hoac 'who' deu duoc."
@@ -384,9 +384,9 @@
       "id": 47,
       "type": "error-correct",
       "wrongSentence": "She is the most beautiful woman whose I have ever met.",
-      "correctSentence": "She is the most beautiful woman who I have ever met.",
+      "correctSentence": "She is the most beautiful woman whom I have ever met.",
       "errorWord": "whose",
-      "correction": "who/whom",
+      "correction": "whom",
       "explanation": "'woman' lam tan ngu cua 'met' => dung 'who/whom', khong dung 'whose'."
     },
     {
@@ -405,7 +405,8 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "I don't",
       "answer": "I don't like the man who is going out with my sister.",
-      "explanation": "'the man' la nguoi, lam chu ngu => dung 'who'."
+      "acceptedAnswers": ["I don't like the man who is going out with my sister.", "I don't like the man that is going out with my sister."],
+      "explanation": "'the man' la nguoi, lam chu ngu => dung 'who' hoac 'that'."
     },
     {
       "id": 50,
@@ -432,7 +433,8 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "I have",
       "answer": "I have just greeted the girl who is sitting next to my brother.",
-      "explanation": "'the girl' la nguoi, lam chu ngu => 'who'."
+      "acceptedAnswers": ["I have just greeted the girl who is sitting next to my brother.", "I have just greeted the girl that is sitting next to my brother."],
+      "explanation": "'the girl' la nguoi, lam chu ngu => 'who' hoac 'that'."
     },
     {
       "id": 53,
@@ -441,7 +443,8 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "Is David",
       "answer": "Is David the student who gets the best marks in your class?",
-      "explanation": "'the student' la nguoi, lam chu ngu => 'who'."
+      "acceptedAnswers": ["Is David the student who gets the best marks in your class?", "Is David the student that gets the best marks in your class?"],
+      "explanation": "'the student' la nguoi, lam chu ngu => 'who' hoac 'that'."
     },
     {
       "id": 54,
@@ -485,8 +488,9 @@
       "original": "I don't remember the man. You said you met him at the canteen last week.",
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "I don't remember",
-      "answer": "I don't remember the man who/whom you said you met at the canteen last week.",
-      "explanation": "'the man' la nguoi, lam tan ngu => 'who/whom'."
+      "answer": "I don't remember the man whom you said you met at the canteen last week.",
+      "acceptedAnswers": ["I don't remember the man whom you said you met at the canteen last week.", "I don't remember the man who you said you met at the canteen last week.", "I don't remember the man that you said you met at the canteen last week."],
+      "explanation": "'the man' la nguoi, lam tan ngu => 'who/whom/that'."
     },
     {
       "id": 59,

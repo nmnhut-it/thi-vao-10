@@ -41,10 +41,10 @@
     {
       "id": 5,
       "type": "multiple-choice",
-      "question": "We visited Canada and _____ United States.",
-      "options": ["A. a / a", "B. a / the", "C. the / the", "D. the / a"],
+      "question": "We visited _____ Canada and _____ United States.",
+      "options": ["A. a / a", "B. a / the", "C. Ø / the", "D. the / a"],
       "correctIndex": 2,
-      "explanation": "'the United States' luon co 'the' (ten nuoc so nhieu). 'Canada' => khong can the, nhung vi o day co 'visited Canada AND the United States'."
+      "explanation": "'Canada' khong dung mao tu (ten nuoc don). 'the United States' luon co 'the' (ten nuoc so nhieu)."
     },
     {
       "id": 6,

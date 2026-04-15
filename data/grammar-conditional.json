@@ -12,7 +12,7 @@
       "question": "If I were a better conversationalist, _______ to parties more often?",
       "options": ["A. I would be invited", "B. I would have been invited", "C. would I be invited", "D. I have been invited"],
       "correctIndex": 2,
-      "explanation": "Type 2 conditional (unreal present) question form: 'would I be invited?'"
+      "explanation": "Type 2 conditional (unreal present). Because the sentence ends with '?', this is a question, so use inverted word order: 'would I be invited?' (not 'I would be invited')."
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
       "question": "Should she have some more money, she _______ a better car.",
       "options": ["A. would buy", "B. will buy", "C. buys", "D. bought"],
       "correctIndex": 0,
-      "explanation": "'Should she have' = 'If she had' (Type 2) -> 'would buy'."
+      "explanation": "'Should she have' is an inverted form of 'If she should have' (expressing an unlikely condition). The result clause uses 'would buy'."
     },
     {
       "id": 3,
@@ -353,6 +353,7 @@
       "instruction": "Rewrite starting with 'They might'",
       "starterText": "They might",
       "answer": "They might have understood what she was saying if they had been listening carefully.",
+      "acceptedAnswers": ["They might have understood what she was saying if they had been listening carefully.", "They might have understood what she was saying if they had been listening carefully", "They might have understood what she was saying if they had listened carefully.", "They might have understood what she was saying if they had listened carefully"],
       "explanation": "Type 3: might have + PP + if + had + PP."
     },
     {
@@ -362,15 +363,17 @@
       "instruction": "Rewrite starting with 'If you'",
       "starterText": "If you",
       "answer": "If you hadn't taken me to your friend's party, I wouldn't have met Hung.",
+      "acceptedAnswers": ["If you hadn't taken me to your friend's party, I wouldn't have met Hung.", "If you hadn't taken me to your friend's party, I wouldn't have met Hung"],
       "explanation": "Type 3 (past unreal): If + hadn't + PP, S + wouldn't have + PP."
     },
     {
       "id": 43,
       "type": "sentence-rewrite",
-      "original": "If you don't wear helmet, you can't ride your bike.",
+      "original": "If you don't wear a helmet, you can't ride your bike.",
       "instruction": "Rewrite starting with 'Unless'",
       "starterText": "Unless",
-      "answer": "Unless you wear helmet, you can't ride your bike.",
+      "answer": "Unless you wear a helmet, you can't ride your bike.",
+      "acceptedAnswers": ["Unless you wear a helmet, you can't ride your bike.", "Unless you wear a helmet, you can't ride your bike"],
       "explanation": "'Unless' = 'If...not'. Remove 'don't' when replacing 'If' with 'Unless'."
     },
     {
@@ -380,6 +383,7 @@
       "instruction": "Rewrite starting with 'If'",
       "starterText": "If",
       "answer": "If it weren't raining, I would visit my grandpa.",
+      "acceptedAnswers": ["If it weren't raining, I would visit my grandpa.", "If it weren't raining, I would visit my grandpa", "If it wasn't raining, I would visit my grandpa.", "If it wasn't raining, I would visit my grandpa"],
       "explanation": "Type 2: If + past (weren't raining), S + would + V."
     },
     {
@@ -389,7 +393,8 @@
       "instruction": "Rewrite starting with 'If'",
       "starterText": "If",
       "answer": "If I had enough money, I could buy that dress.",
-      "explanation": "Type 2 (unreal present wish): If + past, S + could + V."
+      "acceptedAnswers": ["If I had enough money, I could buy that dress.", "If I had enough money, I could buy that dress", "If I had enough money, I would buy that dress.", "If I had enough money, I would buy that dress"],
+      "explanation": "Type 2 (unreal present wish): If + past, S + could/would + V."
     },
     {
       "id": 46,
@@ -398,6 +403,7 @@
       "instruction": "Rewrite starting with 'If'",
       "starterText": "If",
       "answer": "If I hadn't woken her up in time, Sue would have missed the train.",
+      "acceptedAnswers": ["If I hadn't woken her up in time, Sue would have missed the train.", "If I hadn't woken her up in time, Sue would have missed the train"],
       "explanation": "Type 3: If + hadn't PP, S + would have PP."
     },
     {
@@ -407,7 +413,8 @@
       "instruction": "Rewrite starting with 'Dan wouldn't'",
       "starterText": "Dan wouldn't",
       "answer": "Dan wouldn't have got so angry if we hadn't been an hour late.",
-      "explanation": "Type 3: S + wouldn't have PP + if + hadn't PP."
+      "acceptedAnswers": ["Dan wouldn't have got so angry if we hadn't been an hour late.", "Dan wouldn't have got so angry if we hadn't been an hour late", "Dan wouldn't have gotten so angry if we hadn't been an hour late.", "Dan wouldn't have gotten so angry if we hadn't been an hour late"],
+      "explanation": "Type 3: S + wouldn't have PP + if + hadn't PP. Both 'got' and 'gotten' are accepted as past participles of 'get'."
     },
     {
       "id": 48,
@@ -416,6 +423,7 @@
       "instruction": "Rewrite starting with 'If Julia'",
       "starterText": "If Julia",
       "answer": "If Julia had taken her umbrella yesterday, she wouldn't have got wet.",
+      "acceptedAnswers": ["If Julia had taken her umbrella yesterday, she wouldn't have got wet.", "If Julia had taken her umbrella yesterday, she wouldn't have got wet", "If Julia had taken her umbrella yesterday, she wouldn't have gotten wet.", "If Julia had taken her umbrella yesterday, she wouldn't have gotten wet"],
       "explanation": "Type 3: If + had PP, S + wouldn't have PP."
     },
     {
@@ -425,6 +433,7 @@
       "instruction": "Rewrite starting with 'If'",
       "starterText": "If",
       "answer": "If you don't study hard, you'll fail the exam.",
+      "acceptedAnswers": ["If you don't study hard, you'll fail the exam.", "If you don't study hard, you'll fail the exam", "If you don't study hard, you will fail the exam.", "If you don't study hard, you will fail the exam"],
       "explanation": "Type 1: 'or' = 'if...not': If you don't study hard, you'll fail."
     },
     {
@@ -434,6 +443,7 @@
       "instruction": "Rewrite starting with 'If'",
       "starterText": "If",
       "answer": "If you didn't live so far, I would see you more often.",
+      "acceptedAnswers": ["If you didn't live so far, I would see you more often.", "If you didn't live so far, I would see you more often", "If you didn't live so far away, I would see you more often.", "If you didn't live so far away, I would see you more often"],
       "explanation": "Type 2 (unreal present): If + didn't V, S + would + V."
     }
   ]

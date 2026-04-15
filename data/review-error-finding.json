@@ -49,7 +49,7 @@
       "correctSentence": "Although he was tired, he still went to work yesterday.",
       "errorWord": "but",
       "correction": "(remove 'but')",
-      "explanation": "Cannot use both 'although' and 'but' in the same sentence -- they are both contrast connectors."
+      "explanation": "Cannot use both 'although' and 'but' in the same sentence. 'Although' already means 'but,' so using both is redundant. Remove 'but' to fix the sentence."
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "correctSentence": "The artist tried to stimulate interest in painting by taking his students to the museums.",
       "errorWord": "stimulate",
       "correction": "to stimulate",
-      "explanation": "'Try + to V' means attempt to do something. Need 'to' before 'stimulate.'"
+      "explanation": "'Try + to V' means attempt to do something. 'Try + V-ing' means experiment with something. Here the artist attempted to stimulate interest, so we need 'to stimulate' (to-infinitive)."
     },
     {
       "id": 7,
@@ -67,7 +67,7 @@
       "correctSentence": "Mumps is a very common disease, which usually affects children.",
       "errorWord": "are",
       "correction": "is",
-      "explanation": "'Mumps' is an uncountable noun (disease name) and takes a singular verb 'is.'"
+      "explanation": "'Mumps' looks plural because of the 's,' but it is a disease name treated as singular (like 'mathematics' or 'physics'). Use 'is,' not 'are.'"
     },
     {
       "id": 8,
@@ -130,7 +130,7 @@
       "correctSentence": "You needn't do any cooking as I've already prepared something.",
       "errorWord": "mustn't",
       "correction": "needn't",
-      "explanation": "'Mustn't' means prohibition. 'Needn't' means it's not necessary, which fits the context."
+      "explanation": "'Mustn't' means 'you are forbidden to do this.' 'Needn't' means 'it is not necessary.' Since the speaker already prepared food, cooking is unnecessary (not forbidden), so use 'needn't.'"
     },
     {
       "id": 15,
