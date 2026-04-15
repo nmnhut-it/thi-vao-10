@@ -73,7 +73,7 @@
         "D. <u>a problem</u>"
       ],
       "correctIndex": 0,
-      "explanation": "'used to' + V-infinitive (not V-ing). Correct: 'used to give'."
+      "explanation": "'used to' + V-infinitive (not V-ing) for past habits (Grammar Rule: 'used to + bare infinitive' for things that happened regularly in the past but no longer happen). Correct: 'used to give'. Do NOT confuse with 'be used to + V-ing' (= be accustomed to)."
     },
     {
       "id": 6,
@@ -171,7 +171,7 @@
         "D. will have"
       ],
       "correctIndex": 1,
-      "explanation": "Wish + past simple expresses a wish about a present situation."
+      "explanation": "Wish + past simple expresses regret about a present situation (Grammar Rule: 'wish + past simple' for present unreal wishes). 'I wish I had a car' = I don't have a car now, but I want one. Never use present tense after wish: 'I wish I have' is WRONG."
     },
     {
       "id": 13,
@@ -185,7 +185,7 @@
         "D. for"
       ],
       "correctIndex": 1,
-      "explanation": "'since' is used with a specific point in time (8 o'clock) with perfect tenses."
+      "explanation": "'since' + specific point in time (8 o'clock) with perfect tenses (Grammar Rule: 'since' = starting point, 'for' = duration). 'Since 8 o'clock' marks when the action started. Do NOT confuse with 'for 8 hours' (duration)."
     },
     {
       "id": 14,
@@ -503,7 +503,7 @@
         "I wish our teacher was here at the moment.",
         "I wish our teacher was here at the moment"
       ],
-      "explanation": "Wish + past simple/subjunctive to express regret about present situations."
+      "explanation": "Wish + past simple/subjunctive to express regret about present situations (Grammar Rule: 'I wish + were/was' for present unreal). 'I wish our teacher were here' = the teacher isn't here now. Use 'were' (subjunctive) for all persons after 'wish', though 'was' is also accepted in informal usage."
     },
     {
       "id": 37,

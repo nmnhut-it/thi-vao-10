@@ -20,7 +20,7 @@
       "question": "The house _______ windows are blue was built in the 20th century.",
       "options": ["A. which", "B. that", "C. whose", "D. of which"],
       "correctIndex": 2,
-      "explanation": "'whose' chi so huu cho 'house' => 'whose windows'."
+      "explanation": "'whose' chi so huu cho 'house' => 'whose windows'. Luu y: 'of which' (D) cung co the dung nhung can viet lai: 'the windows of which' hoac 'of which the windows'. Dang trong cau nay chi 'whose' la dung ngu phap."
     },
     {
       "id": 3,

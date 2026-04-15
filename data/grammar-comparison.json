@@ -279,7 +279,7 @@
       "type": "sentence-rewrite",
       "original": "I didn't spend as much money as you.",
       "instruction": "Rewrite keeping the same meaning.",
-      "starterText": "You spend",
+      "starterText": "You spent",
       "answer": "You spent more money than I did.",
       "explanation": "not as much as => more than (dao lai)."
     },

@@ -199,7 +199,7 @@
         "D. <u>anytime</u>"
       ],
       "correctIndex": 0,
-      "explanation": "Reported speech requires backshift: 'can' should be 'could'."
+      "explanation": "Reported speech backshifting rule: when the reporting verb is past ('said'), modal verbs shift back: 'can' -> 'could', 'will' -> 'would', 'may' -> 'might'. So 'said I can' should be 'said I could'. Exception: you MAY keep original tense if the situation is still true, but for exam purposes, always backshift."
     },
     {
       "id": 15,
@@ -473,7 +473,7 @@
         "D. But for the heavy rain, the picnic wouldn't have been cancelled."
       ],
       "correctIndex": 3,
-      "explanation": "Conditional type 3: 'But for' = 'If it hadn't been for'. Past event uses 'would have been'."
+      "explanation": "Conditional type 3 for unreal past (Grammar Rule: If + past perfect, would have + past participle). 'But for' = 'If it hadn't been for'. Since the picnic WAS cancelled (past fact), the imaginary opposite uses type 3: 'But for the heavy rain, the picnic wouldn't have been cancelled.' Option A is wrong because 'wouldn't be cancelled' mixes type 2 result with type 3 condition."
     },
     {
       "id": 35,

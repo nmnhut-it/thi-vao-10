@@ -129,7 +129,7 @@
         "D. following day"
       ],
       "correctIndex": 2,
-      "explanation": "In reported speech, 'tomorrow' changes to 'the next day' or 'the following day'."
+      "explanation": "Reported speech time changes (Grammar Rule: backshifting): 'tomorrow' -> 'the next day/the following day', 'today' -> 'that day', 'yesterday' -> 'the day before/the previous day', 'now' -> 'then', 'here' -> 'there'."
     },
     {
       "id": 10,
@@ -430,8 +430,8 @@
             "C. present",
             "D. all are correct"
           ],
-          "correctIndex": 3,
-          "explanation": "The passage mentions flowers, gifts, and cards. All options (gift, flower, present) are correct."
+          "correctIndex": 1,
+          "explanation": "The passage explicitly states 'Flowers are an important part of Mother's Day.' Only 'flower' is specifically called 'an important part' in the text."
         },
         {
           "id": "32a",

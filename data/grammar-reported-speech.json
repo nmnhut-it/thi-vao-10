@@ -12,7 +12,7 @@
       "question": "Nam wanted to know what time _______.",
       "options": ["A. the movie began", "B. the movie begins", "C. did the movie begin", "D. does the movie begin"],
       "correctIndex": 0,
-      "explanation": "Reported Wh-question: dung trat tu cau tran thuat (khong dao ngu) va lui thi => 'the movie began'."
+      "explanation": "Reported Wh-question: use statement word order (no inversion) and backshift tense. 'What time does the movie begin?' becomes 'what time the movie began'."
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
       "question": "I wondered _______ the right thing.",
       "options": ["A. if I am doing", "B. was I doing", "C. am I doing", "D. whether I was doing"],
       "correctIndex": 3,
-      "explanation": "Yes-No question tuong thuat dung if/whether + S + V (trat tu tran thuat, lui thi) => 'whether I was doing'."
+      "explanation": "Reported yes/no questions use if/whether + statement order + backshifted tense: 'whether I was doing'."
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "question": "He told me _______ him up at six o'clock.",
       "options": ["A. please pick", "B. to pick", "C. should pick", "D. I can pick"],
       "correctIndex": 1,
-      "explanation": "Menh lenh/yeu cau tuong thuat: told + O + to V => 'to pick'."
+      "explanation": "Reported commands/requests: told + object + to V. So 'Pick me up' becomes 'told me to pick him up'."
     },
     {
       "id": 4,
@@ -36,7 +36,7 @@
       "question": "The woman asked _______ catch a bus to school.",
       "options": ["A. can the children", "B. if the children can", "C. whether the children could", "D. could the children"],
       "correctIndex": 2,
-      "explanation": "Yes-No question tuong thuat: asked + whether/if + S + V (lui thi) => 'whether the children could'."
+      "explanation": "Reported yes/no question: asked + whether/if + statement order + backshifted tense. 'Can' becomes 'could'."
     },
     {
       "id": 5,
@@ -44,7 +44,7 @@
       "question": "Bob said he _______ a lot of good marks that semester.",
       "options": ["A. gets", "B. getting", "C. have got", "D. got"],
       "correctIndex": 3,
-      "explanation": "Tuong thuat cau tran thuat: lui thi tu hien tai don => qua khu don => 'got'."
+      "explanation": "Reported statement: backshift present simple to past simple. 'I get' becomes 'he got'."
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "question": "They told their manager that they _______ their best to do the tasks.",
       "options": ["A. try", "B. will try", "C. are trying", "D. would try"],
       "correctIndex": 3,
-      "explanation": "will => would trong tuong thuat => 'would try'."
+      "explanation": "In reported speech, 'will' backshifts to 'would': 'will try' becomes 'would try'."
     },
     {
       "id": 7,
@@ -60,7 +60,7 @@
       "question": "She asked me where I _______ the previous night.",
       "options": ["A. was", "B. am", "C. had been", "D. has been"],
       "correctIndex": 2,
-      "explanation": "Qua khu don lui thanh qua khu hoan thanh => 'had been'. 'last night' => 'the previous night'."
+      "explanation": "Past simple backshifts to past perfect: 'was' becomes 'had been'. Time marker 'last night' changes to 'the previous night'."
     },
     {
       "id": 8,
@@ -68,7 +68,7 @@
       "question": "She _______ me whether I liked French fries.",
       "options": ["A. ask", "B. asks", "C. asked", "D. asking"],
       "correctIndex": 2,
-      "explanation": "Dong tu tuong thuat can chia dung thi. Vi cau da lui thi ('liked') nen dong tu chinh cung qua khu => 'asked'."
+      "explanation": "The reporting verb must match the tense context. Since 'liked' is backshifted, the reporting verb is also past: 'asked'."
     },
     {
       "id": 9,
@@ -76,7 +76,7 @@
       "question": "\"_______ off the television\", he said.",
       "options": ["A. Please turn", "B. Please to turn", "C. Turned please", "D. Please, turning"],
       "correctIndex": 0,
-      "explanation": "Day la cau menh lenh truc tiep: 'Please turn off the television'."
+      "explanation": "This is direct speech (a polite command): 'Please turn off the television'."
     },
     {
       "id": 10,
@@ -84,7 +84,7 @@
       "question": "William said that the train _______ yet.",
       "options": ["A. had arrived", "B. hadn't arrived", "C. haven't arrived", "D. hasn't arrived"],
       "correctIndex": 1,
-      "explanation": "Hien tai hoan thanh phu dinh => qua khu hoan thanh phu dinh: 'hadn't arrived'."
+      "explanation": "Present perfect negative backshifts to past perfect negative: 'hasn't arrived' becomes 'hadn't arrived'."
     },
     {
       "id": 11,
@@ -92,7 +92,7 @@
       "question": "He asked the children _______ the electric sockets.",
       "options": ["A. not touching", "B. not to touch", "C. if they don't touch", "D. don't touch"],
       "correctIndex": 1,
-      "explanation": "Menh lenh phu dinh tuong thuat: asked + O + not to V => 'not to touch'."
+      "explanation": "Reported negative command: asked + object + not to V. 'Don't touch' becomes 'not to touch'."
     },
     {
       "id": 12,
@@ -100,7 +100,7 @@
       "question": "David asked me who _______ the writer of that book.",
       "options": ["A. was", "B. were", "C. is", "D. has been"],
       "correctIndex": 0,
-      "explanation": "Wh-question tuong thuat, lui thi: is => was."
+      "explanation": "Reported Wh-question with backshifting: 'is' becomes 'was'. Statement word order is used."
     },
     {
       "id": 13,
@@ -108,7 +108,7 @@
       "question": "He wants to know whether I _______ back to Hoi An the next day.",
       "options": ["A. come", "B. came", "C. will come", "D. would come"],
       "correctIndex": 3,
-      "explanation": "Mac du 'wants' o hien tai, nhung 'the next day' cho thay cau goc da duoc lui thi (tomorrow => the next day), nen 'will' cung lui thanh 'would'. Dap an: 'would come'."
+      "explanation": "Although 'wants' is present tense, the time marker 'the next day' (changed from 'tomorrow') indicates the reported content has been backshifted. So 'will come' becomes 'would come'. This is a common exam pattern testing consistency of backshifting within the reported clause."
     },
     {
       "id": 14,
@@ -116,7 +116,7 @@
       "question": "They asked me how many students _______.",
       "options": ["A. I taught", "B. I teach", "C. I did teach", "D. did I teach"],
       "correctIndex": 0,
-      "explanation": "Wh-question tuong thuat: trat tu tran thuat + lui thi => 'I taught'."
+      "explanation": "Reported Wh-question: statement word order + backshifted tense. 'How many students do you teach?' becomes 'how many students I taught'."
     },
     {
       "id": 15,
@@ -124,7 +124,7 @@
       "question": "Laura wanted to know _______ shopping the previous afternoon.",
       "options": ["A. if we had been going", "B. that if we had been going", "C. we were going", "D. that we were going"],
       "correctIndex": 0,
-      "explanation": "Yes-No question: wanted to know + if + S + V (lui thi). Qua khu tiep dien => QKHT tiep dien."
+      "explanation": "Reported yes/no question: wanted to know + if + statement order + backshifted tense. Past continuous 'were going' backshifts to past perfect continuous 'had been going'."
     },
     {
       "id": 16,
@@ -132,7 +132,7 @@
       "question": "Lucy asked me why I had not gone to Paris _______.",
       "options": ["A. the summer before", "B. summer ago", "C. the next summer", "D. last summer"],
       "correctIndex": 0,
-      "explanation": "'last summer' doi thanh 'the summer before' trong tuong thuat."
+      "explanation": "In reported speech, 'last summer' changes to 'the summer before' (or 'the previous summer')."
     },
     {
       "id": 17,
@@ -140,7 +140,7 @@
       "question": "Tony told me that they _______ meat two days _______.",
       "options": ["A. have not eaten / ago", "B. had not eaten / before", "C. did not eat / before", "D. would not eat / ago"],
       "correctIndex": 1,
-      "explanation": "Lui thi: hien tai hoan thanh => qua khu hoan thanh. 'ago' => 'before'."
+      "explanation": "Present perfect backshifts to past perfect: 'have not eaten' becomes 'had not eaten'. Time marker 'ago' changes to 'before'."
     },
     {
       "id": 18,
@@ -148,7 +148,7 @@
       "question": "Charlie _______ that his father was in hospital.",
       "options": ["A. told me", "B. told to me", "C. said me", "D. asked me"],
       "correctIndex": 0,
-      "explanation": "'told + O' (khong co 'to'). 'said' khong di voi tan ngu truc tiep. => 'told me'."
+      "explanation": "Per Murphy: 'told' takes a direct object (told me), never 'told to me'. 'Said' cannot take a person object directly ('said me' is wrong). So the correct form is 'told me'."
     },
     {
       "id": 19,

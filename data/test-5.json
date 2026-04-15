@@ -199,7 +199,7 @@
         "D. <u>in</u>"
       ],
       "correctIndex": 2,
-      "explanation": "In reported speech, use normal word order: 'whether there was' (not 'was there')."
+      "explanation": "Reported questions require statement word order, NOT question inversion (Grammar Rule: no inversion, no do/does/did in reported questions). 'Was there...?' must become 'whether there was...' Also requires tense backshift: 'is' -> 'was'."
     },
     {
       "id": 15,
@@ -213,7 +213,7 @@
         "D. <u>of</u>"
       ],
       "correctIndex": 2,
-      "explanation": "Should be 'for' hundreds of years (duration), not 'since' (point in time)."
+      "explanation": "Grammar Rule: 'for' + duration (for hundreds of years), 'since' + starting point (since 2001). 'Hundreds of years' is a duration, so 'for' is required. This is the #8 most common exam trap."
     },
     {
       "id": 16,
@@ -501,7 +501,7 @@
         "D. Janet asked me have I ever seen a UFO."
       ],
       "correctIndex": 2,
-      "explanation": "Reported yes/no question: asked + if/whether + statement order + backshift tense."
+      "explanation": "Reported yes/no question (Grammar Rule): 'asked + if/whether + statement order + backshifted tense'. 'Have you ever seen?' -> 'if I had ever seen' (have -> had). Key rules: (1) no question mark, (2) no inversion, (3) no do/does/did auxiliary. Option A is wrong because 'told' implies a statement, not a question. Option B is wrong: no backshift ('have' not changed to 'had')."
     },
     {
       "id": 37,

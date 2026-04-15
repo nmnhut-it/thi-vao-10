@@ -60,7 +60,7 @@
       "question": "We didn't take _____ photographs when we were on holiday.",
       "options": ["A. much", "B. a lot of", "C. many of", "D. a great deal of"],
       "correctIndex": 1,
-      "explanation": "'photographs' la dem duoc. Trong cau phu dinh, 'a lot of' van dung duoc. 'many of' can co 'the' phia sau."
+      "explanation": "'photographs' la dem duoc. Trong cau phu dinh, 'a lot of' van dung duoc. Chon C sai vi 'many of' phai theo sau boi the/these/those/my... + noun (e.g., 'many of the photographs'), khong dung 'many of' truoc danh tu tran."
     },
     {
       "id": 8,
