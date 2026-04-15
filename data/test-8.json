@@ -10,7 +10,12 @@
       "type": "multiple-choice",
       "category": "pronunciation",
       "question": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three: hear, dream, leave, speak",
-      "options": ["A. hear", "B. dream", "C. leave", "D. speak"],
+      "options": [
+        "A. h<u>ea</u>r",
+        "B. dr<u>ea</u>m",
+        "C. l<u>ea</u>ve",
+        "D. sp<u>ea</u>k"
+      ],
       "correctIndex": 0,
       "explanation": "'hear' has /ɪə/ sound, while B, C, D have /iː/ sound."
     },
@@ -19,7 +24,12 @@
       "type": "multiple-choice",
       "category": "pronunciation",
       "question": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three: tide, sight, evidence, flight",
-      "options": ["A. tide", "B. sight", "C. evidence", "D. flight"],
+      "options": [
+        "A. t<u>i</u>de",
+        "B. s<u>i</u>ght",
+        "C. ev<u>i</u>dence",
+        "D. fl<u>i</u>ght"
+      ],
       "correctIndex": 2,
       "explanation": "'evidence' has /ɪ/ sound, while A, B, D have /aɪ/ sound."
     },
@@ -28,7 +38,12 @@
       "type": "multiple-choice",
       "category": "pronunciation",
       "question": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three: mention, question, action, education",
-      "options": ["A. mention", "B. question", "C. action", "D. education"],
+      "options": [
+        "A. men<u>tion</u>",
+        "B. ques<u>tion</u>",
+        "C. ac<u>tion</u>",
+        "D. educa<u>tion</u>"
+      ],
       "correctIndex": 1,
       "explanation": "'question' has /tʃ/ sound for 'tion', while A, C, D have /ʃ/ sound."
     },
@@ -37,7 +52,12 @@
       "type": "multiple-choice",
       "category": "pronunciation",
       "question": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three: traces, houses, gemstones, buses",
-      "options": ["A. traces", "B. houses", "C. gemstones", "D. buses"],
+      "options": [
+        "A. trace<u>s</u>",
+        "B. house<u>s</u>",
+        "C. gemstone<u>s</u>",
+        "D. buse<u>s</u>"
+      ],
       "correctIndex": 2,
       "explanation": "'gemstones' ends with /z/, while A, B, D end with /ɪz/."
     },
@@ -46,7 +66,12 @@
       "type": "multiple-choice",
       "category": "pronunciation",
       "question": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three: saved, helped, looked, washed",
-      "options": ["A. saved", "B. helped", "C. looked", "D. washed"],
+      "options": [
+        "A. sav<u>ed</u>",
+        "B. help<u>ed</u>",
+        "C. look<u>ed</u>",
+        "D. wash<u>ed</u>"
+      ],
       "correctIndex": 0,
       "explanation": "'saved' ends with /d/ sound, while B, C, D end with /t/ sound."
     },
@@ -55,7 +80,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Your brother works for a foreign company, _______?",
-      "options": ["A. didn't he", "B. hasn't he", "C. doesn't he", "D. isn't he"],
+      "options": [
+        "A. didn't he",
+        "B. hasn't he",
+        "C. doesn't he",
+        "D. isn't he"
+      ],
       "correctIndex": 2,
       "explanation": "'works' (present simple) -> tag 'doesn't he?'"
     },
@@ -64,7 +94,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Do you think English is _______ important subject?",
-      "options": ["A. a", "B. an", "C. the", "D. no article"],
+      "options": [
+        "A. a",
+        "B. an",
+        "C. the",
+        "D. no article"
+      ],
       "correctIndex": 1,
       "explanation": "'an important subject' - 'important' starts with vowel sound /ɪ/."
     },
@@ -73,7 +108,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "You will take an exam _______ June 8th.",
-      "options": ["A. from", "B. at", "C. in", "D. on"],
+      "options": [
+        "A. from",
+        "B. at",
+        "C. in",
+        "D. on"
+      ],
       "correctIndex": 3,
       "explanation": "'on' + specific date (June 8th)."
     },
@@ -82,7 +122,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "She hates _______ her parents for money.",
-      "options": ["A. to ask", "B. asked", "C. asking", "D. to asking"],
+      "options": [
+        "A. to ask",
+        "B. asked",
+        "C. asking",
+        "D. to asking"
+      ],
       "correctIndex": 2,
       "explanation": "'hate + V-ing' for general feelings. 'asking' is more natural here."
     },
@@ -91,7 +136,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "When it started to rain yesterday, we _______ home from school.",
-      "options": ["A. were walking", "B. went", "C. are walking", "D. was walking"],
+      "options": [
+        "A. were walking",
+        "B. went",
+        "C. are walking",
+        "D. was walking"
+      ],
       "correctIndex": 0,
       "explanation": "Past continuous 'were walking' for ongoing action interrupted by 'started to rain'."
     },
@@ -100,7 +150,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "He _______ me since he moved to Dubai.",
-      "options": ["A. didn't phoned", "B. won't phoned", "C. doesn't phoned", "D. hasn't phoned"],
+      "options": [
+        "A. didn't phoned",
+        "B. won't phoned",
+        "C. doesn't phoned",
+        "D. hasn't phoned"
+      ],
       "correctIndex": 3,
       "explanation": "'since' requires present perfect: 'hasn't phoned'."
     },
@@ -109,7 +164,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "If the sea level _______, some countries will disappear.",
-      "options": ["A. rose", "B. rise", "C. rises", "D. had risen"],
+      "options": [
+        "A. rose",
+        "B. rise",
+        "C. rises",
+        "D. had risen"
+      ],
       "correctIndex": 2,
       "explanation": "Conditional type 1: If + present simple ('rises'), will + V."
     },
@@ -118,7 +178,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Tom was very lazy, but he got the highest mark in the exam. I think it was a _______ result.",
-      "options": ["A. surprise", "B. surprising", "C. surprised", "D. surprisingly"],
+      "options": [
+        "A. surprise",
+        "B. surprising",
+        "C. surprised",
+        "D. surprisingly"
+      ],
       "correctIndex": 1,
       "explanation": "'surprising result' - V-ing adjective describes the result (it surprises people)."
     },
@@ -127,7 +192,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Mai rarely gets good marks _______ she studies very hard.",
-      "options": ["A. and", "B. because", "C. although", "D. so"],
+      "options": [
+        "A. and",
+        "B. because",
+        "C. although",
+        "D. so"
+      ],
       "correctIndex": 2,
       "explanation": "'although' shows contrast: studies hard BUT rarely gets good marks."
     },
@@ -136,7 +206,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "I would like to go to the circus. _______, I have to finish my homework.",
-      "options": ["A. Therefore", "B. So", "C. Because", "D. However"],
+      "options": [
+        "A. Therefore",
+        "B. So",
+        "C. Because",
+        "D. However"
+      ],
       "correctIndex": 3,
       "explanation": "'However' introduces contrast between wanting to go and having to study."
     },
@@ -145,7 +220,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "She is very short. She wishes she _______ 10 centimeters taller.",
-      "options": ["A. would be", "B. were", "C. will be", "D. is"],
+      "options": [
+        "A. would be",
+        "B. were",
+        "C. will be",
+        "D. is"
+      ],
       "correctIndex": 1,
       "explanation": "Wish + past subjunctive 'were' for present unreal wishes."
     },
@@ -154,7 +234,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "I don't know what there is in the box. I guess it _______ be an eraser.",
-      "options": ["A. ought", "B. can", "C. must", "D. might"],
+      "options": [
+        "A. ought",
+        "B. can",
+        "C. must",
+        "D. might"
+      ],
       "correctIndex": 3,
       "explanation": "'might' expresses possibility/guess (not sure). 'I guess it might be...'"
     },
@@ -163,7 +248,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "This newspaper _______ everyday.",
-      "options": ["A. is publishing", "B. publishes", "C. published", "D. is published"],
+      "options": [
+        "A. is publishing",
+        "B. publishes",
+        "C. published",
+        "D. is published"
+      ],
       "correctIndex": 3,
       "explanation": "Passive present simple: 'is published' (the newspaper is published by someone)."
     },
@@ -172,7 +262,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "You have a bad cough, you had better _______ smoking.",
-      "options": ["A. give up", "B. go on", "C. put off", "D. turn on"],
+      "options": [
+        "A. give up",
+        "B. go on",
+        "C. put off",
+        "D. turn on"
+      ],
       "correctIndex": 0,
       "explanation": "'give up' = stop/quit. You should quit smoking due to cough."
     },
@@ -181,7 +276,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Would you like _______ part in the charity program this summer?",
-      "options": ["A. took", "B. taking", "C. to take", "D. take"],
+      "options": [
+        "A. took",
+        "B. taking",
+        "C. to take",
+        "D. take"
+      ],
       "correctIndex": 2,
       "explanation": "'Would you like + to-infinitive?' is an invitation."
     },
@@ -190,7 +290,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Detective books are _______ than science fiction ones.",
-      "options": ["A. as interesting", "B. more interesting", "C. most interesting", "D. much interesting"],
+      "options": [
+        "A. as interesting",
+        "B. more interesting",
+        "C. most interesting",
+        "D. much interesting"
+      ],
       "correctIndex": 1,
       "explanation": "'more interesting than' - comparative of long adjective."
     },
@@ -199,7 +304,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "For me, the Internet is a _______ invention of modern life.",
-      "options": ["A. wonder", "B. wondering", "C. wonderful", "D. wonderfully"],
+      "options": [
+        "A. wonder",
+        "B. wondering",
+        "C. wonderful",
+        "D. wonderfully"
+      ],
       "correctIndex": 2,
       "explanation": "'wonderful' (adjective) modifies the noun 'invention'."
     },
@@ -208,7 +318,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "I think you should _______ a short rest after studying for such a long time.",
-      "options": ["A. give", "B. receive", "C. take", "D. do"],
+      "options": [
+        "A. give",
+        "B. receive",
+        "C. take",
+        "D. do"
+      ],
       "correctIndex": 2,
       "explanation": "'take a rest' is the correct collocation."
     },
@@ -217,7 +332,12 @@
       "type": "multiple-choice",
       "category": "vocabulary",
       "question": "I suggest taking a shower instead of a bath to save _______.",
-      "options": ["A. water", "B. electricity", "C. gas", "D. solar energy"],
+      "options": [
+        "A. water",
+        "B. electricity",
+        "C. gas",
+        "D. solar energy"
+      ],
       "correctIndex": 0,
       "explanation": "Showers use less water than baths."
     },
@@ -226,7 +346,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "You should _______ an ordinary 100-watt light bulb with an energy-saving bulb.",
-      "options": ["A. consume", "B. select", "C. change", "D. replace"],
+      "options": [
+        "A. consume",
+        "B. select",
+        "C. change",
+        "D. replace"
+      ],
       "correctIndex": 3,
       "explanation": "'replace A with B' = substitute one for another."
     },
@@ -235,7 +360,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "The girl _______ sits next to me in class speak English very well.",
-      "options": ["A. whom", "B. which", "C. whose", "D. who"],
+      "options": [
+        "A. whom",
+        "B. which",
+        "C. whose",
+        "D. who"
+      ],
       "correctIndex": 3,
       "explanation": "'who' for people as subject of relative clause."
     },
@@ -244,7 +374,12 @@
       "type": "multiple-choice",
       "category": "closest-meaning",
       "question": "Most of earthquakes occur around the Pacific Rim, which is known as the 'Ring of Fire'.",
-      "options": ["A. carry out", "B. take place", "C. go off", "D. put on"],
+      "options": [
+        "A. carry out",
+        "B. take place",
+        "C. go off",
+        "D. put on"
+      ],
       "correctIndex": 1,
       "explanation": "'occur' = 'take place' (happen)."
     },
@@ -253,7 +388,12 @@
       "type": "multiple-choice",
       "category": "closest-meaning",
       "question": "Nobody can deny the benefits of the Internet in our life.",
-      "options": ["A. advantages", "B. profits", "C. disadvantages", "D. harm"],
+      "options": [
+        "A. advantages",
+        "B. profits",
+        "C. disadvantages",
+        "D. harm"
+      ],
       "correctIndex": 0,
       "explanation": "'benefits' = 'advantages' (positive effects)."
     },
@@ -262,7 +402,12 @@
       "type": "multiple-choice",
       "category": "opposite-meaning",
       "question": "Hoa forgot to submit her homework to the teacher.",
-      "options": ["A. hoped", "B. expected", "C. promised", "D. remembered"],
+      "options": [
+        "A. hoped",
+        "B. expected",
+        "C. promised",
+        "D. remembered"
+      ],
       "correctIndex": 3,
       "explanation": "'forgot' is the opposite of 'remembered'."
     },
@@ -271,7 +416,12 @@
       "type": "multiple-choice",
       "category": "opposite-meaning",
       "question": "Workers liked wearing jeans because the material was very strong.",
-      "options": ["A. long", "B. beautiful", "C. weak", "D. healthy"],
+      "options": [
+        "A. long",
+        "B. beautiful",
+        "C. weak",
+        "D. healthy"
+      ],
       "correctIndex": 2,
       "explanation": "'strong' (durable) is the opposite of 'weak'."
     },
@@ -280,7 +430,12 @@
       "type": "multiple-choice",
       "category": "communicative",
       "question": "Jack: \"How about planting more trees in the school yard?\" Bill: \"_______\"",
-      "options": ["A. I'm afraid you're right", "B. I'm sorry. It's a good idea.", "C. Sorry. That sounds good.", "D. Great! Let's do that."],
+      "options": [
+        "A. I'm afraid you're right",
+        "B. I'm sorry. It's a good idea.",
+        "C. Sorry. That sounds good.",
+        "D. Great! Let's do that."
+      ],
       "correctIndex": 3,
       "explanation": "'Great! Let's do that.' enthusiastically agrees with the suggestion."
     },
@@ -289,7 +444,12 @@
       "type": "multiple-choice",
       "category": "communicative",
       "question": "Lan: \"What a beautiful dress you have!\" Hoa: \"_______\"",
-      "options": ["A. It's very nice of you to say so.", "B. It's my pleasure", "C. That's a good idea.", "D. How come?"],
+      "options": [
+        "A. It's very nice of you to say so.",
+        "B. It's my pleasure",
+        "C. That's a good idea.",
+        "D. How come?"
+      ],
       "correctIndex": 0,
       "explanation": "Responding to a compliment: 'It's very nice of you to say so.'"
     },
@@ -301,35 +461,60 @@
         {
           "id": "33a",
           "question": "What is the topic of the passage?",
-          "options": ["A. Large forests", "B. New forests", "C. Taking vacation", "D. The importance of forests"],
+          "options": [
+            "A. Large forests",
+            "B. New forests",
+            "C. Taking vacation",
+            "D. The importance of forests"
+          ],
           "correctIndex": 3,
           "explanation": "The passage discusses why forests are important in many ways."
         },
         {
           "id": "34a",
           "question": "What is a problem in many parts of the world?",
-          "options": ["A. Dirty air", "B. Clean air", "C. Our forests", "D. The leaves on the trees in a forest"],
+          "options": [
+            "A. Dirty air",
+            "B. Clean air",
+            "C. Our forests",
+            "D. The leaves on the trees in a forest"
+          ],
           "correctIndex": 0,
           "explanation": "'Dirty air is a problem in many parts of the world.'"
         },
         {
           "id": "35a",
           "question": "What helps clean the air?",
-          "options": ["A. Animals", "B. Pollution", "C. Tree leaves", "D. City people"],
+          "options": [
+            "A. Animals",
+            "B. Pollution",
+            "C. Tree leaves",
+            "D. City people"
+          ],
           "correctIndex": 2,
           "explanation": "'The leaves on the trees in a forest help clean the air.'"
         },
         {
           "id": "36a",
           "question": "The word \"They\" in the last sentence refers to _______.",
-          "options": ["A. protecting", "B. animals", "C. people", "D. new forests"],
+          "options": [
+            "A. protecting",
+            "B. animals",
+            "C. people",
+            "D. new forests"
+          ],
           "correctIndex": 2,
           "explanation": "'They' refers to 'People' who should plant more trees."
         },
         {
           "id": "37a",
           "question": "Which of the following is NOT true?",
-          "options": ["A. Forests give us wood for building.", "B. Forests are plants & animals' houses.", "C. Forests are places that are not good for every one.", "D. Forests are places to go for a vacation."],
+          "options": [
+            "A. Forests give us wood for building.",
+            "B. Forests are plants & animals' houses.",
+            "C. Forests are places that are not good for every one.",
+            "D. Forests are places to go for a vacation."
+          ],
           "correctIndex": 2,
           "explanation": "The passage says forests ARE important for everyone, so C is false."
         }
@@ -343,35 +528,60 @@
         {
           "id": "38a",
           "question": "Fill blank (38)",
-          "options": ["A. national", "B. nature", "C. nation", "D. natural"],
+          "options": [
+            "A. national",
+            "B. nature",
+            "C. nation",
+            "D. natural"
+          ],
           "correctIndex": 3,
           "explanation": "'natural disasters' - adjective + noun."
         },
         {
           "id": "39a",
           "question": "Fill blank (39)",
-          "options": ["A. or", "B. and", "C. but", "D. because"],
+          "options": [
+            "A. or",
+            "B. and",
+            "C. but",
+            "D. because"
+          ],
           "correctIndex": 1,
           "explanation": "'wind, rain and sun' - listing with 'and' before the last item."
         },
         {
           "id": "40a",
           "question": "Fill blank (40)",
-          "options": ["A. Depending", "B. Concerning", "C. Following", "D. According"],
+          "options": [
+            "A. Depending",
+            "B. Concerning",
+            "C. Following",
+            "D. According"
+          ],
           "correctIndex": 3,
           "explanation": "'According to them' = in their opinion."
         },
         {
           "id": "41a",
           "question": "Fill blank (41)",
-          "options": ["A. which", "B. who", "C. whose", "D. where"],
+          "options": [
+            "A. which",
+            "B. who",
+            "C. whose",
+            "D. where"
+          ],
           "correctIndex": 0,
           "explanation": "'which' refers to 'carbon dioxide' (thing) as subject of relative clause."
         },
         {
           "id": "42a",
           "question": "Fill blank (42)",
-          "options": ["A. on", "B. at", "C. for", "D. in"],
+          "options": [
+            "A. on",
+            "B. at",
+            "C. for",
+            "D. in"
+          ],
           "correctIndex": 0,
           "explanation": "'spent on research' - money spent on something."
         }
@@ -382,7 +592,12 @@
       "type": "multiple-choice",
       "category": "error-finding",
       "question": "I think maths are the most difficult subject. (Find the underlined part that needs correction)",
-      "options": ["A. think", "B. are", "C. the most", "D. subject"],
+      "options": [
+        "A. <u>think</u>",
+        "B. <u>are</u>",
+        "C. <u>the most</u>",
+        "D. <u>subject</u>"
+      ],
       "correctIndex": 1,
       "explanation": "'maths' (subject name) is treated as singular: 'is' not 'are'."
     },
@@ -391,7 +606,12 @@
       "type": "multiple-choice",
       "category": "error-finding",
       "question": "Hoa lives near the school, so she walks usually to school in the morning. (Find the underlined part that needs correction)",
-      "options": ["A. lives", "B. the school", "C. walks usually", "D. in the morning"],
+      "options": [
+        "A. <u>lives</u>",
+        "B. <u>the school</u>",
+        "C. <u>walks usually</u>",
+        "D. <u>in the morning</u>"
+      ],
       "correctIndex": 2,
       "explanation": "Adverb of frequency goes before the main verb: 'usually walks' not 'walks usually'."
     },
@@ -400,7 +620,12 @@
       "type": "multiple-choice",
       "category": "error-finding",
       "question": "Playing football, swimming and do karate are my son's favorite sports. (Find the underlined part that needs correction)",
-      "options": ["A. Playing football", "B. do karate", "C. are", "D. favorite sports"],
+      "options": [
+        "A. <u>Playing football</u>",
+        "B. <u>do karate</u>",
+        "C. <u>are</u>",
+        "D. <u>favorite sports</u>"
+      ],
       "correctIndex": 1,
       "explanation": "Parallel structure: 'Playing, swimming and doing' - all V-ing forms."
     },
@@ -409,7 +634,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "They are building a pagoda in our neighborhood at the moment. (Choose the sentence closest in meaning)",
-      "options": ["A. A pagoda is built in our neighborhood at the moment.", "B. A pagoda is being built in our neighborhood at the moment.", "C. A pagoda was being built in our neighborhood at the moment.", "D. A pagoda has been building in our neighborhood at the moment."],
+      "options": [
+        "A. A pagoda is built in our neighborhood at the moment.",
+        "B. A pagoda is being built in our neighborhood at the moment.",
+        "C. A pagoda was being built in our neighborhood at the moment.",
+        "D. A pagoda has been building in our neighborhood at the moment."
+      ],
       "correctIndex": 1,
       "explanation": "Present continuous passive: is/are + being + past participle."
     },
@@ -418,7 +648,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "\"You had better buy some canned food before a typhoon\" Mrs. Ha said to me. (Choose the sentence closest in meaning)",
-      "options": ["A. Mrs. Ha wanted to buy some canned food before a typhoon.", "B. Mrs. Ha asked me to buy some canned food before a typhoon.", "C. Mrs. Ha told me not to buy some canned food before a typhoon.", "D. Mrs. Ha advised me to buy some canned food before a typhoon."],
+      "options": [
+        "A. Mrs. Ha wanted to buy some canned food before a typhoon.",
+        "B. Mrs. Ha asked me to buy some canned food before a typhoon.",
+        "C. Mrs. Ha told me not to buy some canned food before a typhoon.",
+        "D. Mrs. Ha advised me to buy some canned food before a typhoon."
+      ],
       "correctIndex": 3,
       "explanation": "'had better' = advice. Reported: 'advised + object + to-infinitive'."
     },
@@ -427,7 +662,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "I have just bought a smart phone. It was produced in Viet Nam. (Choose the sentence that best combines)",
-      "options": ["A. I have just bought a smart phone which was produced in Viet Nam.", "B. I have just bought a smart phone where was produced in Viet Nam.", "C. I have just bought a smart phone whose was produced in Viet Nam.", "D. I have just bought a smart phone who was produced in Viet Nam."],
+      "options": [
+        "A. I have just bought a smart phone which was produced in Viet Nam.",
+        "B. I have just bought a smart phone where was produced in Viet Nam.",
+        "C. I have just bought a smart phone whose was produced in Viet Nam.",
+        "D. I have just bought a smart phone who was produced in Viet Nam."
+      ],
       "correctIndex": 0,
       "explanation": "'which' for things as subject of relative clause."
     },
@@ -436,7 +676,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "He doesn't have enough experience. He can't do that work. (Choose the sentence that best combines)",
-      "options": ["A. If he has enough experience, he can do that work.", "B. If he didn't have enough experience, he could do that work.", "C. If he had enough experience, he could do that work.", "D. If he had enough experience, he couldn't do that work."],
+      "options": [
+        "A. If he has enough experience, he can do that work.",
+        "B. If he didn't have enough experience, he could do that work.",
+        "C. If he had enough experience, he could do that work.",
+        "D. If he had enough experience, he couldn't do that work."
+      ],
       "correctIndex": 2,
       "explanation": "Conditional type 2 for unreal present: If + had, could + do."
     },
@@ -445,7 +690,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "It snowed heavily. The football match still took place. (Choose the sentence that best combines)",
-      "options": ["A. Although it snowed heavily, but the football match still took place.", "B. In spite of the heavy snow, the football match still took place.", "C. Despite it snowed heavily, the football match still took place.", "D. However we felt cold, the football match still took place."],
+      "options": [
+        "A. Although it snowed heavily, but the football match still took place.",
+        "B. In spite of the heavy snow, the football match still took place.",
+        "C. Despite it snowed heavily, the football match still took place.",
+        "D. However we felt cold, the football match still took place."
+      ],
       "correctIndex": 1,
       "explanation": "'In spite of' + noun phrase ('the heavy snow') shows contrast."
     }

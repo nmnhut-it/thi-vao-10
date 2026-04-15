@@ -10,7 +10,12 @@
       "type": "multiple-choice",
       "category": "pronunciation",
       "question": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three in pronunciation: customer, truck, include, custard",
-      "options": ["A. customer", "B. truck", "C. include", "D. custard"],
+      "options": [
+        "A. c<u>u</u>stomer",
+        "B. tr<u>u</u>ck",
+        "C. incl<u>u</u>de",
+        "D. c<u>u</u>stard"
+      ],
       "correctIndex": 2,
       "explanation": "'include' has /uː/ sound, while A, B, D have /ʌ/ sound."
     },
@@ -19,7 +24,12 @@
       "type": "multiple-choice",
       "category": "pronunciation",
       "question": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three in pronunciation: change, chemistry, choose, cheese",
-      "options": ["A. change", "B. chemistry", "C. choose", "D. cheese"],
+      "options": [
+        "A. <u>ch</u>ange",
+        "B. <u>ch</u>emistry",
+        "C. <u>ch</u>oose",
+        "D. <u>ch</u>eese"
+      ],
       "correctIndex": 1,
       "explanation": "'chemistry' has /k/ sound for 'ch', while A, C, D have /tʃ/ sound."
     },
@@ -28,7 +38,12 @@
       "type": "multiple-choice",
       "category": "stress",
       "question": "Mark the letter A, B, C or D to indicate the word that differs from the other three in the position of primary stress: comment, command, compose, machine",
-      "options": ["A. comment", "B. command", "C. compose", "D. machine"],
+      "options": [
+        "A. comment",
+        "B. command",
+        "C. compose",
+        "D. machine"
+      ],
       "correctIndex": 0,
       "explanation": "'comment' has stress on the first syllable; B, C, D are stressed on the second."
     },
@@ -37,7 +52,12 @@
       "type": "multiple-choice",
       "category": "stress",
       "question": "Mark the letter A, B, C or D to indicate the word that differs from the other three in the position of primary stress: innovation, separation, installation, environment",
-      "options": ["A. innovation", "B. separation", "C. installation", "D. environment"],
+      "options": [
+        "A. innovation",
+        "B. separation",
+        "C. installation",
+        "D. environment"
+      ],
       "correctIndex": 3,
       "explanation": "'environment' has stress on the second syllable; A, B, C have stress on the third."
     },
@@ -46,7 +66,12 @@
       "type": "multiple-choice",
       "category": "error-finding",
       "question": "It was an extremely frightened experience in my life. (Find the underlined part that needs correction)",
-      "options": ["A. It was", "B. extremely", "C. frightened", "D. in"],
+      "options": [
+        "A. <u>It was</u>",
+        "B. <u>extremely</u>",
+        "C. <u>frightened</u>",
+        "D. <u>in</u>"
+      ],
       "correctIndex": 2,
       "explanation": "Should be 'frightening' (V-ing adjective describes the experience, not a person)."
     },
@@ -55,7 +80,12 @@
       "type": "multiple-choice",
       "category": "error-finding",
       "question": "I know you're too busy to stay, but I look forward to see you again. (Find the underlined part that needs correction)",
-      "options": ["A. too busy", "B. to stay", "C. but", "D. to see"],
+      "options": [
+        "A. <u>too busy</u>",
+        "B. <u>to stay</u>",
+        "C. <u>but</u>",
+        "D. <u>to see</u>"
+      ],
       "correctIndex": 3,
       "explanation": "'look forward to' + V-ing. Should be 'to seeing'."
     },
@@ -64,7 +94,12 @@
       "type": "multiple-choice",
       "category": "error-finding",
       "question": "My aunt has begun taught English for twenty years. (Find the underlined part that needs correction)",
-      "options": ["A. has begun", "B. taught", "C. for", "D. years"],
+      "options": [
+        "A. <u>has begun</u>",
+        "B. <u>taught</u>",
+        "C. <u>for</u>",
+        "D. <u>years</u>"
+      ],
       "correctIndex": 0,
       "explanation": "Should be 'has been teaching' (present perfect continuous for duration)."
     },
@@ -73,7 +108,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "I'm hungry, I _______ anything since 8 am.",
-      "options": ["A. hasn't eaten", "B. haven't eaten", "C. haven't eated", "D. don't eat"],
+      "options": [
+        "A. hasn't eaten",
+        "B. haven't eaten",
+        "C. haven't eated",
+        "D. don't eat"
+      ],
       "correctIndex": 1,
       "explanation": "Present perfect with 'since': I + haven't eaten. 'eaten' is the correct past participle."
     },
@@ -82,7 +122,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "He said that he was coming _______.",
-      "options": ["A. tomorrow after", "B. yesterday", "C. the next day", "D. following day"],
+      "options": [
+        "A. tomorrow after",
+        "B. yesterday",
+        "C. the next day",
+        "D. following day"
+      ],
       "correctIndex": 2,
       "explanation": "In reported speech, 'tomorrow' changes to 'the next day' or 'the following day'."
     },
@@ -91,7 +136,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Help me, _______ ?",
-      "options": ["A. will you", "B. won't you", "C. do you", "D. don't you"],
+      "options": [
+        "A. will you",
+        "B. won't you",
+        "C. do you",
+        "D. don't you"
+      ],
       "correctIndex": 0,
       "explanation": "Tag question for imperative: 'will you?' is used after requests."
     },
@@ -100,7 +150,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "If there were flying saucers, there _______ traces of their landing.",
-      "options": ["A. would be", "B. will be", "C. are", "D. is"],
+      "options": [
+        "A. would be",
+        "B. will be",
+        "C. are",
+        "D. is"
+      ],
       "correctIndex": 0,
       "explanation": "Conditional type 2: If + past simple, would + V-infinitive."
     },
@@ -109,7 +164,12 @@
       "type": "multiple-choice",
       "category": "vocabulary",
       "question": "If you take a train or bus, you must pay a _______.",
-      "options": ["A. trip", "B. fee", "C. fare", "D. commission"],
+      "options": [
+        "A. trip",
+        "B. fee",
+        "C. fare",
+        "D. commission"
+      ],
       "correctIndex": 2,
       "explanation": "'fare' is the money paid for public transport (bus, train, taxi)."
     },
@@ -118,7 +178,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "If we don't _______ on electricity, there will be power cut.",
-      "options": ["A. economic", "B. economics", "C. economical", "D. economize"],
+      "options": [
+        "A. economic",
+        "B. economics",
+        "C. economical",
+        "D. economize"
+      ],
       "correctIndex": 3,
       "explanation": "'economize on' = save/reduce spending on. A verb is needed after 'don't'."
     },
@@ -127,7 +192,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "My uncle _______ Paris two or three times.",
-      "options": ["A. is visiting", "B. has visited", "C. was visiting", "D. often visits"],
+      "options": [
+        "A. is visiting",
+        "B. has visited",
+        "C. was visiting",
+        "D. often visits"
+      ],
       "correctIndex": 1,
       "explanation": "Present perfect 'has visited' is used for experiences (two or three times)."
     },
@@ -136,7 +206,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "He is a person _______ friends trust him.",
-      "options": ["A. who", "B. his", "C. whose", "D. that"],
+      "options": [
+        "A. who",
+        "B. his",
+        "C. whose",
+        "D. that"
+      ],
       "correctIndex": 2,
       "explanation": "'whose' shows possession: whose friends = his friends."
     },
@@ -145,7 +220,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "If only I _______ a flower, I'd be a sunflower.",
-      "options": ["A. am", "B. be", "C. were", "D. was"],
+      "options": [
+        "A. am",
+        "B. be",
+        "C. were",
+        "D. was"
+      ],
       "correctIndex": 2,
       "explanation": "'If only' + past subjunctive: 'were' is used for hypothetical situations."
     },
@@ -154,7 +234,12 @@
       "type": "multiple-choice",
       "category": "communicative",
       "question": "Laura: \"Have a good holiday!\" Tim: \"_______\"",
-      "options": ["A. You have.", "B. You too.", "C. You will.", "D. You do."],
+      "options": [
+        "A. You have.",
+        "B. You too.",
+        "C. You will.",
+        "D. You do."
+      ],
       "correctIndex": 1,
       "explanation": "'You too' is the natural response to wish someone the same."
     },
@@ -163,7 +248,12 @@
       "type": "multiple-choice",
       "category": "communicative",
       "question": "Waiter: \"Would you like a drink?\" Customer: \"_______\"",
-      "options": ["A. I don't like coffee", "B. Coffee, please.", "C. I prefer tea.", "D. I want."],
+      "options": [
+        "A. I don't like coffee",
+        "B. Coffee, please.",
+        "C. I prefer tea.",
+        "D. I want."
+      ],
       "correctIndex": 1,
       "explanation": "'Coffee, please' is a polite, direct response to ordering."
     },
@@ -172,7 +262,12 @@
       "type": "multiple-choice",
       "category": "closest-meaning",
       "question": "I want to hear the news. Can you switch on the radio?",
-      "options": ["A. turn down", "B. turn on", "C. turn up", "D. turn off"],
+      "options": [
+        "A. turn down",
+        "B. turn on",
+        "C. turn up",
+        "D. turn off"
+      ],
       "correctIndex": 1,
       "explanation": "'switch on' = 'turn on' (activate a device)."
     },
@@ -181,7 +276,12 @@
       "type": "multiple-choice",
       "category": "closest-meaning",
       "question": "Ralph Nader was the most prominent leader of the U.S consumer protection movement.",
-      "options": ["A. casual", "B. significant", "C. promiscuous", "D. aggressive"],
+      "options": [
+        "A. casual",
+        "B. significant",
+        "C. promiscuous",
+        "D. aggressive"
+      ],
       "correctIndex": 1,
       "explanation": "'prominent' means important, well-known = 'significant'."
     },
@@ -190,7 +290,12 @@
       "type": "multiple-choice",
       "category": "opposite-meaning",
       "question": "Fruit and vegetables grew in abundance on the island. The islanders even exported the surplus.",
-      "options": ["A. large quantity", "B. small quantity", "C. excess", "D. sufficiency"],
+      "options": [
+        "A. large quantity",
+        "B. small quantity",
+        "C. excess",
+        "D. sufficiency"
+      ],
       "correctIndex": 1,
       "explanation": "'abundance' means a very large quantity. The opposite is 'small quantity'."
     },
@@ -199,7 +304,12 @@
       "type": "multiple-choice",
       "category": "opposite-meaning",
       "question": "His conclusion is congruous with one previously drawn by Mayer.",
-      "options": ["A. improper", "B. unstable", "C. unsuitable", "D. indifferent"],
+      "options": [
+        "A. improper",
+        "B. unstable",
+        "C. unsuitable",
+        "D. indifferent"
+      ],
       "correctIndex": 2,
       "explanation": "'congruous' means suitable, fitting. The opposite is 'unsuitable'."
     },
@@ -211,35 +321,60 @@
         {
           "id": "23a",
           "question": "Fill blank (23)",
-          "options": ["A. at", "B. for", "C. into", "D. to"],
+          "options": [
+            "A. at",
+            "B. for",
+            "C. into",
+            "D. to"
+          ],
           "correctIndex": 3,
           "explanation": "'goes to' the landfills - direction."
         },
         {
           "id": "24a",
           "question": "Fill blank (24)",
-          "options": ["A. to", "B. for", "C. from", "D. in"],
+          "options": [
+            "A. to",
+            "B. for",
+            "C. from",
+            "D. in"
+          ],
           "correctIndex": 1,
           "explanation": "'have room for' = have space for something."
         },
         {
           "id": "25a",
           "question": "Fill blank (25)",
-          "options": ["A. reused", "B. recycled", "C. product", "D. reduced"],
+          "options": [
+            "A. reused",
+            "B. recycled",
+            "C. product",
+            "D. reduced"
+          ],
           "correctIndex": 1,
           "explanation": "'recycled and use again' - the context is about recycling garbage."
         },
         {
           "id": "26a",
           "question": "Fill blank (26)",
-          "options": ["A. save", "B. saving", "C. to save", "D. saves"],
+          "options": [
+            "A. save",
+            "B. saving",
+            "C. to save",
+            "D. saves"
+          ],
           "correctIndex": 3,
           "explanation": "Subject 'Recycling' (singular) + 'helps... and saves' (parallel structure)."
         },
         {
           "id": "27a",
           "question": "Fill blank (27)",
-          "options": ["A. tree", "B. paper", "C. electricity", "D. water"],
+          "options": [
+            "A. tree",
+            "B. paper",
+            "C. electricity",
+            "D. water"
+          ],
           "correctIndex": 0,
           "explanation": "Recycling newspapers saves trees (paper comes from trees)."
         }
@@ -253,35 +388,60 @@
         {
           "id": "28a",
           "question": "Where do people celebrate Father's Day and Mother's Day?",
-          "options": ["A. In Viet Nam", "B. In the USA", "C. In many countries", "D. In the world"],
+          "options": [
+            "A. In Viet Nam",
+            "B. In the USA",
+            "C. In many countries",
+            "D. In the world"
+          ],
           "correctIndex": 1,
           "explanation": "The passage begins: 'In the United States, people celebrate...'"
         },
         {
           "id": "29a",
           "question": "When is Mother's Day celebrated?",
-          "options": ["A. On the second Sunday in May", "B. On the second of October", "C. On the third Sunday in June", "D. On the eight of March"],
+          "options": [
+            "A. On the second Sunday in May",
+            "B. On the second of October",
+            "C. On the third Sunday in June",
+            "D. On the eight of March"
+          ],
           "correctIndex": 0,
           "explanation": "The passage states: 'Mother's Day is celebrated on the second Sunday in May.'"
         },
         {
           "id": "30a",
           "question": "Do the majority of American mothers have to work hard every day?",
-          "options": ["A. No, they only do the housework.", "B. Yes, they do.", "C. No, they don't have a job.", "D. No, they don't."],
+          "options": [
+            "A. No, they only do the housework.",
+            "B. Yes, they do.",
+            "C. No, they don't have a job.",
+            "D. No, they don't."
+          ],
           "correctIndex": 1,
           "explanation": "The passage says 'their working days are often very hard.'"
         },
         {
           "id": "31a",
           "question": "What is an important part of Mother's Day?",
-          "options": ["A. gift", "B. flower", "C. present", "D. all are correct"],
+          "options": [
+            "A. gift",
+            "B. flower",
+            "C. present",
+            "D. all are correct"
+          ],
           "correctIndex": 3,
           "explanation": "The passage mentions flowers, gifts, and cards. All options (gift, flower, present) are correct."
         },
         {
           "id": "32a",
           "question": "When is Father's day celebrated?",
-          "options": ["A. On the second Sunday in May.", "B. On the second of October.", "C. On the third Sunday in June.", "D. On the eight of March."],
+          "options": [
+            "A. On the second Sunday in May.",
+            "B. On the second of October.",
+            "C. On the third Sunday in June.",
+            "D. On the eight of March."
+          ],
           "correctIndex": 2,
           "explanation": "The passage states: 'Father's Day is celebrated... on the third Sunday in June.'"
         }

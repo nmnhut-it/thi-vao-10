@@ -10,7 +10,12 @@
       "type": "multiple-choice",
       "category": "pronunciation",
       "question": "Choose the word that has the underlined part pronounced differently: fear, heading, clearing, realize",
-      "options": ["A. fear", "B. heading", "C. clearing", "D. realize"],
+      "options": [
+        "A. f<u>ea</u>r",
+        "B. h<u>ea</u>ding",
+        "C. cl<u>ea</u>ring",
+        "D. r<u>ea</u>lize"
+      ],
       "correctIndex": 1,
       "explanation": "'heading' has /e/ sound, while A, C have /ɪə/ and D has /ɪə/ in 'ea'."
     },
@@ -19,7 +24,12 @@
       "type": "multiple-choice",
       "category": "pronunciation",
       "question": "Choose the word that has the underlined part pronounced differently: stamps, hats, books, clubs",
-      "options": ["A. stamps", "B. hats", "C. books", "D. clubs"],
+      "options": [
+        "A. stamp<u>s</u>",
+        "B. hat<u>s</u>",
+        "C. book<u>s</u>",
+        "D. club<u>s</u>"
+      ],
       "correctIndex": 3,
       "explanation": "'clubs' ends with /z/ sound, while A, B, C end with /s/ sound."
     },
@@ -28,7 +38,12 @@
       "type": "multiple-choice",
       "category": "stress",
       "question": "Choose the word that its main stress is placed differently: exhibition, affirmative, understanding, opposition",
-      "options": ["A. exhibition", "B. affirmative", "C. understanding", "D. opposition"],
+      "options": [
+        "A. exhibition",
+        "B. affirmative",
+        "C. understanding",
+        "D. opposition"
+      ],
       "correctIndex": 1,
       "explanation": "'affirmative' has stress on the second syllable; A, C, D have stress on the third."
     },
@@ -37,7 +52,12 @@
       "type": "multiple-choice",
       "category": "stress",
       "question": "Choose the word that its main stress is placed differently: woman, carbon, follow, begin",
-      "options": ["A. woman", "B. carbon", "C. follow", "D. begin"],
+      "options": [
+        "A. woman",
+        "B. carbon",
+        "C. follow",
+        "D. begin"
+      ],
       "correctIndex": 3,
       "explanation": "'begin' has stress on the second syllable; A, B, C are stressed on the first."
     },
@@ -46,7 +66,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Lan and her family had a _______ trip to their home village.",
-      "options": ["A. days trip", "B. two-days trip", "C. day-two trip", "D. two-day trip"],
+      "options": [
+        "A. days trip",
+        "B. two-days trip",
+        "C. day-two trip",
+        "D. two-day trip"
+      ],
       "correctIndex": 3,
       "explanation": "Compound adjective: number + singular noun + noun. 'a two-day trip'."
     },
@@ -55,7 +80,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "The children felt _______ when their mother was coming back home.",
-      "options": ["A. excited", "B. excitemen", "C. exciting", "D. excitedly"],
+      "options": [
+        "A. excited",
+        "B. excitemen",
+        "C. exciting",
+        "D. excitedly"
+      ],
       "correctIndex": 0,
       "explanation": "Past participle 'excited' describes how the children felt (emotions of people)."
     },
@@ -64,7 +94,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "He can't buy that bicycle because he has _______ money.",
-      "options": ["A. much", "B. a few", "C. little", "D. a lot of"],
+      "options": [
+        "A. much",
+        "B. a few",
+        "C. little",
+        "D. a lot of"
+      ],
       "correctIndex": 2,
       "explanation": "'little' (not much) money = not enough money, explaining why he can't buy."
     },
@@ -73,7 +108,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Why _______ go to the park for a change?",
-      "options": ["A. we should not", "B. don't we", "C. we don't", "D. we should"],
+      "options": [
+        "A. we should not",
+        "B. don't we",
+        "C. we don't",
+        "D. we should"
+      ],
       "correctIndex": 1,
       "explanation": "'Why don't we...?' is a suggestion form."
     },
@@ -82,7 +122,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "The boy _______ eyes are brown is my friend.",
-      "options": ["A. whose", "B. whom", "C. who", "D. that"],
+      "options": [
+        "A. whose",
+        "B. whom",
+        "C. who",
+        "D. that"
+      ],
       "correctIndex": 0,
       "explanation": "'whose' shows possession in relative clauses (the boy's eyes)."
     },
@@ -91,7 +136,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "She'd love to take part in the evening class. _______, she has to look after the baby in the evening.",
-      "options": ["A. Although", "B. However", "C. Therefore", "D. but"],
+      "options": [
+        "A. Although",
+        "B. However",
+        "C. Therefore",
+        "D. but"
+      ],
       "correctIndex": 1,
       "explanation": "'However' (adverb) introduces a contrasting independent clause, preceded by a period/semicolon."
     },
@@ -100,7 +150,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "You _______ better if you took this medicine.",
-      "options": ["A. would feel", "B. feel", "C. felt", "D. will feel"],
+      "options": [
+        "A. would feel",
+        "B. feel",
+        "C. felt",
+        "D. will feel"
+      ],
       "correctIndex": 0,
       "explanation": "Conditional type 2: If + past simple, would + V-infinitive."
     },
@@ -109,7 +164,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "The football match was postponed _______ the bad weather.",
-      "options": ["A. because", "B. because of", "C. despite", "D. in spite of"],
+      "options": [
+        "A. because",
+        "B. because of",
+        "C. despite",
+        "D. in spite of"
+      ],
       "correctIndex": 1,
       "explanation": "'because of' + noun phrase ('the bad weather')."
     },
@@ -118,7 +178,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "They are living in a house that _______ in 1930.",
-      "options": ["A. built", "B. was building", "C. was built", "D. is built"],
+      "options": [
+        "A. built",
+        "B. was building",
+        "C. was built",
+        "D. is built"
+      ],
       "correctIndex": 2,
       "explanation": "Passive voice past: 'was built' (the house was built by someone in 1930)."
     },
@@ -127,7 +192,12 @@
       "type": "multiple-choice",
       "category": "error-finding",
       "question": "My father asked me to pay much attention to English next year. (Find the underlined part that needs correction)",
-      "options": ["A. asked", "B. to pay", "C. much attention", "D. next year"],
+      "options": [
+        "A. <u>asked</u>",
+        "B. <u>to pay</u>",
+        "C. <u>much attention</u>",
+        "D. <u>next year</u>"
+      ],
       "correctIndex": 2,
       "explanation": "Should be 'more attention' (comparative, not 'much attention')."
     },
@@ -136,7 +206,12 @@
       "type": "multiple-choice",
       "category": "error-finding",
       "question": "According to a team of scientists, there are evidence that Mount Everest is still rising. (Find the underlined part that needs correction)",
-      "options": ["A. According to", "B. there are", "C. that", "D. Rising"],
+      "options": [
+        "A. <u>According to</u>",
+        "B. <u>there are</u>",
+        "C. <u>that</u>",
+        "D. <u>Rising</u>"
+      ],
       "correctIndex": 1,
       "explanation": "'evidence' is uncountable, so it should be 'there is evidence'."
     },
@@ -145,7 +220,12 @@
       "type": "multiple-choice",
       "category": "error-finding",
       "question": "At the moment I am spending my weekend go to camping with my friends. (Find the underlined part that needs correction)",
-      "options": ["A. At the moment", "B. spending", "C. go to", "D. camping"],
+      "options": [
+        "A. <u>At the moment</u>",
+        "B. <u>spending</u>",
+        "C. <u>go to</u>",
+        "D. <u>camping</u>"
+      ],
       "correctIndex": 2,
       "explanation": "Should be 'going camping' (not 'go to camping'). 'go camping' is the correct expression."
     },
@@ -154,7 +234,12 @@
       "type": "multiple-choice",
       "category": "communicative",
       "question": "Ellen: \"_______?\" Tom: \"He's tall and thin with blue eyes\"",
-      "options": ["A. How is John doing?", "B. What does John like?", "C. Who does John look like?", "D. What does John look like?"],
+      "options": [
+        "A. How is John doing?",
+        "B. What does John like?",
+        "C. Who does John look like?",
+        "D. What does John look like?"
+      ],
       "correctIndex": 3,
       "explanation": "'What does he look like?' asks about physical appearance."
     },
@@ -163,7 +248,12 @@
       "type": "multiple-choice",
       "category": "communicative",
       "question": "Kate: \"How lovely your cats are!\" David: \"_______\"",
-      "options": ["A. Can you say it again?", "B. I love them, too.", "C. Really? They are.", "D. Thank you. It's nice of you to say so."],
+      "options": [
+        "A. Can you say it again?",
+        "B. I love them, too.",
+        "C. Really? They are.",
+        "D. Thank you. It's nice of you to say so."
+      ],
       "correctIndex": 3,
       "explanation": "Responding to a compliment: thank the person graciously."
     },
@@ -172,7 +262,12 @@
       "type": "multiple-choice",
       "category": "opposite-meaning",
       "question": "Later that evening, when I was almost asleep, the sound of a crowd brought me back to full consciousness.",
-      "options": ["A. afraid", "B. aware", "C. awake", "D. tired"],
+      "options": [
+        "A. afraid",
+        "B. aware",
+        "C. awake",
+        "D. tired"
+      ],
       "correctIndex": 2,
       "explanation": "'asleep' is the opposite of 'awake'."
     },
@@ -181,7 +276,12 @@
       "type": "multiple-choice",
       "category": "opposite-meaning",
       "question": "There were so many members of the political party who had gone against the leader that he had to resign.",
-      "options": ["A. invited", "B. opposed", "C. insisted", "D. supported"],
+      "options": [
+        "A. invited",
+        "B. opposed",
+        "C. insisted",
+        "D. supported"
+      ],
       "correctIndex": 3,
       "explanation": "'gone against' means opposed. The opposite is 'supported'."
     },
@@ -190,7 +290,12 @@
       "type": "multiple-choice",
       "category": "closest-meaning",
       "question": "When we travel overseas we hope to go to Iceland.",
-      "options": ["A. to foreign lands", "B. with foreigners", "C. on the sea", "D. by water"],
+      "options": [
+        "A. to foreign lands",
+        "B. with foreigners",
+        "C. on the sea",
+        "D. by water"
+      ],
       "correctIndex": 0,
       "explanation": "'overseas' means to foreign countries/lands."
     },
@@ -199,7 +304,12 @@
       "type": "multiple-choice",
       "category": "closest-meaning",
       "question": "The guests at Japanese Embassy reception enjoyed it very much but refused to eat the raw fish.",
-      "options": ["A. rotten", "B. fresh", "C. uncooked", "D. stale"],
+      "options": [
+        "A. rotten",
+        "B. fresh",
+        "C. uncooked",
+        "D. stale"
+      ],
       "correctIndex": 2,
       "explanation": "'raw' means uncooked, not prepared by heating."
     },
@@ -211,35 +321,60 @@
         {
           "id": "23a",
           "question": "Fill blank (23)",
-          "options": ["A. in", "B. to", "C. on", "D. at"],
+          "options": [
+            "A. in",
+            "B. to",
+            "C. on",
+            "D. at"
+          ],
           "correctIndex": 0,
           "explanation": "'in towns' - preposition of place for towns/cities."
         },
         {
           "id": "24a",
           "question": "Fill blank (24)",
-          "options": ["A. careful", "B. enjoyable", "C. excited", "D. boring"],
+          "options": [
+            "A. careful",
+            "B. enjoyable",
+            "C. excited",
+            "D. boring"
+          ],
           "correctIndex": 1,
           "explanation": "'enjoyable' fits the context of 'the real appeal' - cycling is enjoyable."
         },
         {
           "id": "25a",
           "question": "Fill blank (25)",
-          "options": ["A. comfortably", "B. strangely", "C. terribly", "D. expectedly"],
+          "options": [
+            "A. comfortably",
+            "B. strangely",
+            "C. terribly",
+            "D. expectedly"
+          ],
           "correctIndex": 2,
           "explanation": "'terribly dangerous' - the non-cyclist expresses concern about danger."
         },
         {
           "id": "26a",
           "question": "Fill blank (26)",
-          "options": ["A. size", "B. deal", "C. number", "D. digit"],
+          "options": [
+            "A. size",
+            "B. deal",
+            "C. number",
+            "D. digit"
+          ],
           "correctIndex": 2,
           "explanation": "'number of accidents' is the correct collocation."
         },
         {
           "id": "27a",
           "question": "Fill blank (27)",
-          "options": ["A. exhibit", "B. display", "C. indicate", "D. point"],
+          "options": [
+            "A. exhibit",
+            "B. display",
+            "C. indicate",
+            "D. point"
+          ],
           "correctIndex": 2,
           "explanation": "'indicate' = show/suggest. Police records indicate that..."
         }
@@ -253,35 +388,60 @@
         {
           "id": "28a",
           "question": "After an earthquake, as a result of _______ people may die.",
-          "options": ["A. lack of food", "B. lack of friendship", "C. lack of knowledge", "D. lack of information"],
+          "options": [
+            "A. lack of food",
+            "B. lack of friendship",
+            "C. lack of knowledge",
+            "D. lack of information"
+          ],
           "correctIndex": 0,
           "explanation": "The passage states: 'people can die from lack of food, water, and medical supplies.'"
         },
         {
           "id": "29a",
           "question": "Earthquakes happen in certain areas where _______.",
-          "options": ["A. the population is large", "B. the soil conditions are stable", "C. pieces of the earth's surface meet", "D. many buildings are built"],
+          "options": [
+            "A. the population is large",
+            "B. the soil conditions are stable",
+            "C. pieces of the earth's surface meet",
+            "D. many buildings are built"
+          ],
           "correctIndex": 2,
           "explanation": "The passage says: 'They happen in places where pieces of the Earth's surface meet.'"
         },
         {
           "id": "30a",
           "question": "Earthquakes often happen along _______.",
-          "options": ["A. the Pacific coast of Asia", "B. the east-coast of South America", "C. the coast of Australia", "D. the east-coast of North America"],
+          "options": [
+            "A. the Pacific coast of Asia",
+            "B. the east-coast of South America",
+            "C. the coast of Australia",
+            "D. the east-coast of North America"
+          ],
           "correctIndex": 0,
           "explanation": "The passage mentions 'along the Pacific coast of Asia'."
         },
         {
           "id": "31a",
           "question": "The amount of destruction caused by an earthquake does not depend on",
-          "options": ["A. where it happens", "B. what time it happens", "C. air condition", "D. types of building"],
+          "options": [
+            "A. where it happens",
+            "B. what time it happens",
+            "C. air condition",
+            "D. types of building"
+          ],
           "correctIndex": 2,
           "explanation": "The passage lists location, time, strength, building types, soil, population - not air conditions."
         },
         {
           "id": "32a",
           "question": "The passage mainly discusses _______.",
-          "options": ["A. water currents", "B. strange animal behaviors", "C. the damage caused by earthquakes", "D. water beneath the earth's surface"],
+          "options": [
+            "A. water currents",
+            "B. strange animal behaviors",
+            "C. the damage caused by earthquakes",
+            "D. water beneath the earth's surface"
+          ],
           "correctIndex": 2,
           "explanation": "The passage is mainly about predicting earthquakes and the damage they cause."
         }
@@ -292,7 +452,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "The girl is very lovely. She lives next door to us. (Choose the sentence with the same meaning)",
-      "options": ["A. The girl who lives next door to us is very lovely.", "B. The girl lives next door to us is very lovely.", "C. The girl whose lives next door to us is very lovely.", "D. The girl which lives next door to us is very lovely."],
+      "options": [
+        "A. The girl who lives next door to us is very lovely.",
+        "B. The girl lives next door to us is very lovely.",
+        "C. The girl whose lives next door to us is very lovely.",
+        "D. The girl which lives next door to us is very lovely."
+      ],
       "correctIndex": 0,
       "explanation": "Use 'who' for people as subject of relative clause."
     },
@@ -301,7 +466,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "Please don't touch the things on display. (Choose the sentence with the same meaning)",
-      "options": ["A. Would you mind not touching things on display?", "B. Would you mind touching things on display?", "C. Would you mind if I touched things on display?", "D. Would you mind if I didn't touch things on display?"],
+      "options": [
+        "A. Would you mind not touching things on display?",
+        "B. Would you mind touching things on display?",
+        "C. Would you mind if I touched things on display?",
+        "D. Would you mind if I didn't touch things on display?"
+      ],
       "correctIndex": 0,
       "explanation": "'Would you mind not + V-ing?' is a polite request not to do something."
     },
@@ -310,7 +480,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "He is sorry he cannot speak English well. (Choose the sentence with the same meaning)",
-      "options": ["A. He wishes he could speak English well", "B. He wishes he couldn't speak English well.", "C. He wishes he could speak English.", "D. He wishes he can speak English well."],
+      "options": [
+        "A. He wishes he could speak English well",
+        "B. He wishes he couldn't speak English well.",
+        "C. He wishes he could speak English.",
+        "D. He wishes he can speak English well."
+      ],
       "correctIndex": 0,
       "explanation": "Wish + could + V = regret about present inability."
     },
@@ -319,7 +494,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "Although he is intelligent, he doesn't do well at school. (Choose the sentence with the same meaning)",
-      "options": ["A. In spite of he is intelligence, he doesn't do well at school.", "B. In spite his intelligence, he doesn't do well at school.", "C. In spite of his intelligence, he doesn't do well at school.", "D. Although his intelligence, he doesn't do well at school."],
+      "options": [
+        "A. In spite of he is intelligence, he doesn't do well at school.",
+        "B. In spite his intelligence, he doesn't do well at school.",
+        "C. In spite of his intelligence, he doesn't do well at school.",
+        "D. Although his intelligence, he doesn't do well at school."
+      ],
       "correctIndex": 2,
       "explanation": "'In spite of' + noun phrase. 'his intelligence' is a noun phrase."
     },
@@ -328,7 +508,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "He/read/book/his room/when/he/hear/big explosion/. (Choose the best sentence from cues)",
-      "options": ["A. He was reading books on his room when he heard a big explosion.", "B. He was reading books in his room when he heard a big explosion.", "C. He read books in his room when he heard a big explosion.", "D. He was reading books in his room when he was hearing a big explosion."],
+      "options": [
+        "A. He was reading books on his room when he heard a big explosion.",
+        "B. He was reading books in his room when he heard a big explosion.",
+        "C. He read books in his room when he heard a big explosion.",
+        "D. He was reading books in his room when he was hearing a big explosion."
+      ],
       "correctIndex": 1,
       "explanation": "Past continuous (was reading) interrupted by past simple (heard). 'in his room' is correct."
     },
@@ -337,7 +522,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "We/used/wear/uniforms/when/we/be/school/. (Choose the best sentence from cues)",
-      "options": ["A. We used to wear uniforms when we were at school.", "B. We used wear uniforms when we were at school.", "C. We used to wearing uniforms when we were at school.", "D. We used to wear uniforms when we were in school."],
+      "options": [
+        "A. We used to wear uniforms when we were at school.",
+        "B. We used wear uniforms when we were at school.",
+        "C. We used to wearing uniforms when we were at school.",
+        "D. We used to wear uniforms when we were in school."
+      ],
       "correctIndex": 0,
       "explanation": "'used to + V-infinitive' for past habits. 'at school' is the standard expression."
     },
@@ -346,7 +536,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "We/be/very/tired/last night/because/we/play/football/all afternoon/. (Choose the best sentence from cues)",
-      "options": ["A. We were very tired last night because we play all the afternoon.", "B. We were very tired last night because we played all the afternoon.", "C. We were very tired last night because we were playing football all the afternoon.", "D. We are very tired last night because we played all the afternoon."],
+      "options": [
+        "A. We were very tired last night because we play all the afternoon.",
+        "B. We were very tired last night because we played all the afternoon.",
+        "C. We were very tired last night because we were playing football all the afternoon.",
+        "D. We are very tired last night because we played all the afternoon."
+      ],
       "correctIndex": 2,
       "explanation": "Past continuous 'were playing' for an ongoing action in the past; 'last night' requires past tense."
     },
@@ -355,7 +550,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "The case/be/so heavy/Nam/could/put/on the rack/. (Choose the best sentence from cues)",
-      "options": ["A. The case was such heavy that Nam could not put it on the rack.", "B. The case was so heavy that Nam could put it on the rack.", "C. The case was heavy that Nam could not put it on the rack.", "D. The case was so heavy that Nam could not put it on the rack."],
+      "options": [
+        "A. The case was such heavy that Nam could not put it on the rack.",
+        "B. The case was so heavy that Nam could put it on the rack.",
+        "C. The case was heavy that Nam could not put it on the rack.",
+        "D. The case was so heavy that Nam could not put it on the rack."
+      ],
       "correctIndex": 3,
       "explanation": "'so + adjective + that' clause. 'could not' because the case was too heavy."
     }

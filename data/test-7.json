@@ -10,7 +10,12 @@
       "type": "multiple-choice",
       "category": "pronunciation",
       "question": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three: wandered, spoiled, mentioned, published",
-      "options": ["A. wandered", "B. spoiled", "C. mentioned", "D. published"],
+      "options": [
+        "A. wander<u>ed</u>",
+        "B. spoil<u>ed</u>",
+        "C. mention<u>ed</u>",
+        "D. publish<u>ed</u>"
+      ],
       "correctIndex": 3,
       "explanation": "'published' ends with /t/ sound, while A, B, C end with /d/ sound."
     },
@@ -19,7 +24,12 @@
       "type": "multiple-choice",
       "category": "pronunciation",
       "question": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three: stripes, picnics, benefits, relatives",
-      "options": ["A. stripes", "B. picnics", "C. benefits", "D. relatives"],
+      "options": [
+        "A. stripe<u>s</u>",
+        "B. picnic<u>s</u>",
+        "C. benefit<u>s</u>",
+        "D. relative<u>s</u>"
+      ],
       "correctIndex": 0,
       "explanation": "'stripes' ends with /z/ sound, while B, C, D end with /s/ sound."
     },
@@ -28,7 +38,12 @@
       "type": "multiple-choice",
       "category": "pronunciation",
       "question": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three: flood, typhoon, roof, moon",
-      "options": ["A. flood", "B. typhoon", "C. roof", "D. moon"],
+      "options": [
+        "A. fl<u>oo</u>d",
+        "B. typh<u>oo</u>n",
+        "C. r<u>oo</u>f",
+        "D. m<u>oo</u>n"
+      ],
       "correctIndex": 0,
       "explanation": "'flood' has /ʌ/ sound, while B, C, D have /uː/ sound."
     },
@@ -37,7 +52,12 @@
       "type": "multiple-choice",
       "category": "pronunciation",
       "question": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three: steak, bread, break, great",
-      "options": ["A. steak", "B. bread", "C. break", "D. great"],
+      "options": [
+        "A. st<u>ea</u>k",
+        "B. br<u>ea</u>d",
+        "C. br<u>ea</u>k",
+        "D. gr<u>ea</u>t"
+      ],
       "correctIndex": 1,
       "explanation": "'bread' has /e/ sound, while A, C, D have /eɪ/ sound."
     },
@@ -46,7 +66,12 @@
       "type": "multiple-choice",
       "category": "pronunciation",
       "question": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three: champion, children, chemist, chocolate",
-      "options": ["A. champion", "B. children", "C. chemist", "D. chocolate"],
+      "options": [
+        "A. <u>ch</u>ampion",
+        "B. <u>ch</u>ildren",
+        "C. <u>ch</u>emist",
+        "D. <u>ch</u>ocolate"
+      ],
       "correctIndex": 2,
       "explanation": "'chemist' has /k/ sound for 'ch', while A, B, D have /tʃ/ sound."
     },
@@ -55,7 +80,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "No one in the group is against the plan, _______?",
-      "options": ["A. isn't it", "B. are they", "C. is he", "D. aren't they"],
+      "options": [
+        "A. isn't it",
+        "B. are they",
+        "C. is he",
+        "D. aren't they"
+      ],
       "correctIndex": 1,
       "explanation": "'No one' is negative, so the tag is positive. 'No one' takes 'they' as pronoun."
     },
@@ -64,7 +94,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Mrs Lan claimed that she had seen _______ UFO in the garden near her house.",
-      "options": ["A. a", "B. The", "C. an", "D. no article"],
+      "options": [
+        "A. a",
+        "B. The",
+        "C. an",
+        "D. no article"
+      ],
       "correctIndex": 0,
       "explanation": "'a UFO' - 'UFO' starts with /juː/ (consonant sound), so use 'a'."
     },
@@ -73,7 +108,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "He is keen _______ reading detective novels.",
-      "options": ["A. for", "B. in", "C. on", "D. with"],
+      "options": [
+        "A. for",
+        "B. in",
+        "C. on",
+        "D. with"
+      ],
       "correctIndex": 2,
       "explanation": "'keen on' + V-ing = enthusiastic about."
     },
@@ -82,7 +122,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Her parents decided _______ energy-saving bulbs to save electricity.",
-      "options": ["A. use", "B. used", "C. using", "D. to use"],
+      "options": [
+        "A. use",
+        "B. used",
+        "C. using",
+        "D. to use"
+      ],
       "correctIndex": 3,
       "explanation": "'decide + to-infinitive'."
     },
@@ -91,7 +136,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "I hate _______ to classical music.",
-      "options": ["A. listening", "B. to listen", "C. listens", "D. listen"],
+      "options": [
+        "A. listening",
+        "B. to listen",
+        "C. listens",
+        "D. listen"
+      ],
       "correctIndex": 0,
       "explanation": "'hate + V-ing' (or to-infinitive). Both A and B could work, but 'listening' is more natural for general dislike."
     },
@@ -100,7 +150,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Last night while I _______ my homework, the lights went out.",
-      "options": ["A. was doing", "B. were doing", "C. did", "D. do"],
+      "options": [
+        "A. was doing",
+        "B. were doing",
+        "C. did",
+        "D. do"
+      ],
       "correctIndex": 0,
       "explanation": "Past continuous 'was doing' for background action interrupted by past simple."
     },
@@ -109,7 +164,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Lan _______ learning English a few years ago.",
-      "options": ["A. begin", "B. will begin", "C. began", "D. is going to begin"],
+      "options": [
+        "A. begin",
+        "B. will begin",
+        "C. began",
+        "D. is going to begin"
+      ],
       "correctIndex": 2,
       "explanation": "'a few years ago' requires past simple: 'began'."
     },
@@ -118,7 +178,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "If people use public transport, there _______ less pollution.",
-      "options": ["A. will be", "B. is", "C. are", "D. was"],
+      "options": [
+        "A. will be",
+        "B. is",
+        "C. are",
+        "D. was"
+      ],
       "correctIndex": 0,
       "explanation": "Conditional type 1: If + present simple, will + V-infinitive."
     },
@@ -127,7 +192,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "The film was so _______ that I left before ending.",
-      "options": ["A. excited", "B. exciting", "C. bored", "D. boring"],
+      "options": [
+        "A. excited",
+        "B. exciting",
+        "C. bored",
+        "D. boring"
+      ],
       "correctIndex": 3,
       "explanation": "'boring' (V-ing adjective) describes the film, causing the person to leave."
     },
@@ -136,7 +206,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "_______ she was sick, she still went to school yesterday.",
-      "options": ["A. In spite of", "B. Although", "C. Despite", "D. Because"],
+      "options": [
+        "A. In spite of",
+        "B. Although",
+        "C. Despite",
+        "D. Because"
+      ],
       "correctIndex": 1,
       "explanation": "'Although' + clause (subject + verb). 'In spite of/Despite' + noun/V-ing."
     },
@@ -145,7 +220,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "We didn't go camping _______ the bad weather.",
-      "options": ["A. since", "B. in spite of", "C. because of", "D. because"],
+      "options": [
+        "A. since",
+        "B. in spite of",
+        "C. because of",
+        "D. because"
+      ],
       "correctIndex": 2,
       "explanation": "'because of' + noun phrase ('the bad weather')."
     },
@@ -154,7 +234,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Yesterday he _______ finish his homework because he was very tired.",
-      "options": ["A. could", "B. can't", "C. couldn't", "D. mustn't"],
+      "options": [
+        "A. could",
+        "B. can't",
+        "C. couldn't",
+        "D. mustn't"
+      ],
       "correctIndex": 2,
       "explanation": "Past inability: 'couldn't' (past of can't). 'Yesterday' requires past tense."
     },
@@ -163,7 +248,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "The church _______ since last year.",
-      "options": ["A. has been built", "B. is built", "C. was built", "D. built"],
+      "options": [
+        "A. has been built",
+        "B. is built",
+        "C. was built",
+        "D. built"
+      ],
       "correctIndex": 0,
       "explanation": "'since last year' requires present perfect: 'has been built' (passive)."
     },
@@ -172,7 +262,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "You can _______ new words in the dictionary over there.",
-      "options": ["A. look for", "B. look after", "C. look out", "D. look up"],
+      "options": [
+        "A. look for",
+        "B. look after",
+        "C. look out",
+        "D. look up"
+      ],
       "correctIndex": 3,
       "explanation": "'look up' words in a dictionary = search for the meaning."
     },
@@ -181,7 +276,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Her mother _______ than my mother.",
-      "options": ["A. more busy", "B. busier", "C. the most busy", "D. busy"],
+      "options": [
+        "A. more busy",
+        "B. busier",
+        "C. the most busy",
+        "D. busy"
+      ],
       "correctIndex": 1,
       "explanation": "'busier' is the comparative form of 'busy' (short adjective rule: -ier)."
     },
@@ -190,7 +290,12 @@
       "type": "multiple-choice",
       "category": "vocabulary",
       "question": "A funnel-shaped storm passing overland below a thunderstorm is called a _______.",
-      "options": ["A. tornado", "B. hurricane", "C. typhoon", "D. tsunami"],
+      "options": [
+        "A. tornado",
+        "B. hurricane",
+        "C. typhoon",
+        "D. tsunami"
+      ],
       "correctIndex": 0,
       "explanation": "A tornado is a funnel-shaped storm that passes overland."
     },
@@ -199,7 +304,12 @@
       "type": "multiple-choice",
       "category": "vocabulary",
       "question": "In the 18th century Jean cloth was made completely from _______.",
-      "options": ["A. rubber", "B. leather", "C. cotton", "D. nylon"],
+      "options": [
+        "A. rubber",
+        "B. leather",
+        "C. cotton",
+        "D. nylon"
+      ],
       "correctIndex": 2,
       "explanation": "Jean (denim) cloth was originally made from cotton."
     },
@@ -208,7 +318,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Wearing uniforms helps students feel _______ in many ways.",
-      "options": ["A. the same", "B. different", "C. unequal", "D. equal"],
+      "options": [
+        "A. the same",
+        "B. different",
+        "C. unequal",
+        "D. equal"
+      ],
       "correctIndex": 3,
       "explanation": "Uniforms help students feel 'equal' (the same status)."
     },
@@ -217,7 +332,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Should all motorcyclists be _______ to wear helmets?",
-      "options": ["A. interested", "B. dangerous", "C. impressed", "D. compulsory"],
+      "options": [
+        "A. interested",
+        "B. dangerous",
+        "C. impressed",
+        "D. compulsory"
+      ],
       "correctIndex": 3,
       "explanation": "'compulsory' means required/obligatory. 'Should all motorcyclists be compulsory to wear helmets?' is the intended meaning (required to wear helmets)."
     },
@@ -226,7 +346,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "We have thirty students, most of _______ speak English well.",
-      "options": ["A. who", "B. whom", "C. whose", "D. that"],
+      "options": [
+        "A. who",
+        "B. whom",
+        "C. whose",
+        "D. that"
+      ],
       "correctIndex": 1,
       "explanation": "'most of whom' - preposition + whom in relative clauses."
     },
@@ -235,7 +360,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "I wish you _______ here to help me now.",
-      "options": ["A. Are", "B. were", "C. would be", "D. will"],
+      "options": [
+        "A. Are",
+        "B. were",
+        "C. would be",
+        "D. will"
+      ],
       "correctIndex": 1,
       "explanation": "Wish + past subjunctive 'were' for present unreal situations."
     },
@@ -244,7 +374,12 @@
       "type": "multiple-choice",
       "category": "closest-meaning",
       "question": "Young children do not fully know that many household objects are dangerous.",
-      "options": ["A. impossible", "B. inexpensive", "C. unsafe", "D. status"],
+      "options": [
+        "A. impossible",
+        "B. inexpensive",
+        "C. unsafe",
+        "D. status"
+      ],
       "correctIndex": 2,
       "explanation": "'dangerous' = 'unsafe' (not safe)."
     },
@@ -253,7 +388,12 @@
       "type": "multiple-choice",
       "category": "closest-meaning",
       "question": "Your failure is the consequence of not studying hard enough for the exam.",
-      "options": ["A. cause", "B. motive", "C. result", "D. status"],
+      "options": [
+        "A. cause",
+        "B. motive",
+        "C. result",
+        "D. status"
+      ],
       "correctIndex": 2,
       "explanation": "'consequence' = 'result' (outcome of an action)."
     },
@@ -262,7 +402,12 @@
       "type": "multiple-choice",
       "category": "opposite-meaning",
       "question": "Don't forget to turn off the light before you leave for work.",
-      "options": ["A. learn", "B. fail", "C. remember", "D. miss"],
+      "options": [
+        "A. learn",
+        "B. fail",
+        "C. remember",
+        "D. miss"
+      ],
       "correctIndex": 2,
       "explanation": "'forget' is the opposite of 'remember'."
     },
@@ -271,7 +416,12 @@
       "type": "multiple-choice",
       "category": "opposite-meaning",
       "question": "Tung passed the entrance examination to a very famous secondary school.",
-      "options": ["A. failed", "B. taken", "C. done", "D. sit"],
+      "options": [
+        "A. failed",
+        "B. taken",
+        "C. done",
+        "D. sit"
+      ],
       "correctIndex": 0,
       "explanation": "'passed' is the opposite of 'failed'."
     },
@@ -280,7 +430,12 @@
       "type": "multiple-choice",
       "category": "communicative",
       "question": "Lan and Chi are having dinner at Lan's house. Lan: \"_______\" Chi: \"No, thank you, that'll be all.\"",
-      "options": ["A. What would you like?", "B. It's very kind of you to help me.", "C. Would you like something else?", "D. What kind of food do you like?"],
+      "options": [
+        "A. What would you like?",
+        "B. It's very kind of you to help me.",
+        "C. Would you like something else?",
+        "D. What kind of food do you like?"
+      ],
       "correctIndex": 2,
       "explanation": "'No thank you, that'll be all' is a response to being offered more (Would you like something else?)."
     },
@@ -289,7 +444,12 @@
       "type": "multiple-choice",
       "category": "communicative",
       "question": "Tom and Sue are talking about their last night activities. Tom: \"Didn't you go to the cinema last night?\" Sue: \"_______\"",
-      "options": ["A. Yes, I lost the ticket", "B. No, it was too cold to go out", "C. OK. That was a good idea", "D. Yes, I stayed at home"],
+      "options": [
+        "A. Yes, I lost the ticket",
+        "B. No, it was too cold to go out",
+        "C. OK. That was a good idea",
+        "D. Yes, I stayed at home"
+      ],
       "correctIndex": 1,
       "explanation": "'No' + reason for not going: 'it was too cold to go out'."
     },
@@ -298,7 +458,12 @@
       "type": "multiple-choice",
       "category": "error-finding",
       "question": "Mr. Brown enjoys festivals in Vietnam despite he doesn't understand Vietnamese culture very much. (Find the underlined part that needs correction)",
-      "options": ["A. enjoys", "B. in Vietnam", "C. despite", "D. Vietnamese"],
+      "options": [
+        "A. <u>enjoys</u>",
+        "B. <u>in Vietnam</u>",
+        "C. <u>despite</u>",
+        "D. <u>Vietnamese</u>"
+      ],
       "correctIndex": 2,
       "explanation": "'despite' + noun/V-ing (not clause). Should be 'although' before a clause."
     },
@@ -307,7 +472,12 @@
       "type": "multiple-choice",
       "category": "error-finding",
       "question": "Traditionally, the ao dai frequently wore by both men and women. (Find the underlined part that needs correction)",
-      "options": ["A. Traditionally", "B. frequently wore", "C. both", "D. and"],
+      "options": [
+        "A. <u>Traditionally</u>",
+        "B. <u>frequently wore</u>",
+        "C. <u>both</u>",
+        "D. <u>and</u>"
+      ],
       "correctIndex": 1,
       "explanation": "Should be 'was frequently worn' (passive voice)."
     },
@@ -316,7 +486,12 @@
       "type": "multiple-choice",
       "category": "error-finding",
       "question": "Don't drive into that street. It is an one-way street. (Find the underlined part that needs correction)",
-      "options": ["A. Don't", "B. into", "C. It", "D. an"],
+      "options": [
+        "A. <u>Don't</u>",
+        "B. <u>into</u>",
+        "C. <u>It</u>",
+        "D. <u>an</u>"
+      ],
       "correctIndex": 3,
       "explanation": "'one' starts with /w/ (consonant sound), so use 'a' not 'an'."
     },
@@ -328,35 +503,60 @@
         {
           "id": "36a",
           "question": "Fill blank (36)",
-          "options": ["A. because of", "B. because", "C. in spite of", "D. with"],
+          "options": [
+            "A. because of",
+            "B. because",
+            "C. in spite of",
+            "D. with"
+          ],
           "correctIndex": 0,
           "explanation": "'because of' + noun phrase ('the opportunities...')."
         },
         {
           "id": "37a",
           "question": "Fill blank (37)",
-          "options": ["A. polluted", "B. polluting", "C. pollution", "D. pollutants"],
+          "options": [
+            "A. polluted",
+            "B. polluting",
+            "C. pollution",
+            "D. pollutants"
+          ],
           "correctIndex": 2,
           "explanation": "'the pollution of the city' - noun after 'the'."
         },
         {
           "id": "38a",
           "question": "Fill blank (38)",
-          "options": ["A. in", "B. at", "C. on", "D. by"],
+          "options": [
+            "A. in",
+            "B. at",
+            "C. on",
+            "D. by"
+          ],
           "correctIndex": 0,
           "explanation": "'problems in the city' - location preposition."
         },
         {
           "id": "39a",
           "question": "Fill blank (39)",
-          "options": ["A. has been", "B. is", "C. was", "D. are"],
+          "options": [
+            "A. has been",
+            "B. is",
+            "C. was",
+            "D. are"
+          ],
           "correctIndex": 3,
           "explanation": "'there are many solutions' - plural subject."
         },
         {
           "id": "40a",
           "question": "Fill blank (40)",
-          "options": ["A. what", "B. that", "C. this", "D. whether"],
+          "options": [
+            "A. what",
+            "B. that",
+            "C. this",
+            "D. whether"
+          ],
           "correctIndex": 1,
           "explanation": "'solutions that can be used' - relative pronoun for things."
         }
@@ -370,35 +570,60 @@
         {
           "id": "41a",
           "question": "What does the passage primarily discuss?",
-          "options": ["A. Advantages and disadvantages of solar energy.", "B. The cost of solar energy.", "C. Solar energy's advantages over other sources of energy.", "D. Solar energy as an alternative for fossil fuels."],
+          "options": [
+            "A. Advantages and disadvantages of solar energy.",
+            "B. The cost of solar energy.",
+            "C. Solar energy's advantages over other sources of energy.",
+            "D. Solar energy as an alternative for fossil fuels."
+          ],
           "correctIndex": 0,
           "explanation": "The passage discusses both advantages and disadvantages of solar energy."
         },
         {
           "id": "42a",
           "question": "What does the word 'they' in line 4 refer to?",
-          "options": ["A. solar energy users.", "B. advantages.", "C. solar cells.", "D. other renewable resources."],
+          "options": [
+            "A. solar energy users.",
+            "B. advantages.",
+            "C. solar cells.",
+            "D. other renewable resources."
+          ],
           "correctIndex": 2,
           "explanation": "'they' refers to 'solar cells' mentioned in the previous sentence."
         },
         {
           "id": "43a",
           "question": "What is NOT mentioned as an advantage of solar cells?",
-          "options": ["A. They operate quietly.", "B. They require little maintenance.", "C. They cost little to produce.", "D. They are non-polluting."],
+          "options": [
+            "A. They operate quietly.",
+            "B. They require little maintenance.",
+            "C. They cost little to produce.",
+            "D. They are non-polluting."
+          ],
           "correctIndex": 2,
           "explanation": "The passage says solar cells are expensive, not cheap to produce."
         },
         {
           "id": "44a",
           "question": "What does the word 'advantages' in line 12 mean?",
-          "options": ["A. resources", "B. benefits", "C. friendly", "D. very bad"],
+          "options": [
+            "A. resources",
+            "B. benefits",
+            "C. friendly",
+            "D. very bad"
+          ],
           "correctIndex": 1,
           "explanation": "'advantages' = 'benefits' (positive aspects)."
         },
         {
           "id": "45a",
           "question": "Which of the following is the main disadvantage of solar energy mentioned in the passage?",
-          "options": ["A. It is unfriendly to the environment.", "B. Solar cells require large areas to operate.", "C. It depends on sunlight.", "D. It is expensive."],
+          "options": [
+            "A. It is unfriendly to the environment.",
+            "B. Solar cells require large areas to operate.",
+            "C. It depends on sunlight.",
+            "D. It is expensive."
+          ],
           "correctIndex": 3,
           "explanation": "'The main disadvantage of solar energy is that it costs about twice as much...'"
         }
@@ -409,7 +634,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "They built this house in 2015. (Choose the sentence closest in meaning)",
-      "options": ["A. This house was built in 2015.", "B. This house built in 2015.", "C. This house was building in 2015.", "D. This house were built in 2015."],
+      "options": [
+        "A. This house was built in 2015.",
+        "B. This house built in 2015.",
+        "C. This house was building in 2015.",
+        "D. This house were built in 2015."
+      ],
       "correctIndex": 0,
       "explanation": "Active to passive: was + past participle. 'This house was built in 2015.'"
     },
@@ -418,7 +648,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "\"Do you watch TV every morning?\" The teacher asked Mark. (Choose the sentence closest in meaning)",
-      "options": ["A. The teacher asked Mark to watch TV every morning.", "B. The teacher asked Mark if he watched TV every morning.", "C. The teacher asked Mark for TV every morning.", "D. The teacher asked Mark if he would watch TV every morning."],
+      "options": [
+        "A. The teacher asked Mark to watch TV every morning.",
+        "B. The teacher asked Mark if he watched TV every morning.",
+        "C. The teacher asked Mark for TV every morning.",
+        "D. The teacher asked Mark if he would watch TV every morning."
+      ],
       "correctIndex": 1,
       "explanation": "Reported yes/no question: asked + if + statement order + backshift tense."
     },
@@ -427,7 +662,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "You feel unhealthy because you don't take any exercise. (Choose the sentence that best combines)",
-      "options": ["A. If you take more exercise, you will feel healthier.", "B. If you were healthier, you would take more exercise.", "C. If you took more exercise, you would feel healthier.", "D. If you don't take any exercise, you will feel unhealthy."],
+      "options": [
+        "A. If you take more exercise, you will feel healthier.",
+        "B. If you were healthier, you would take more exercise.",
+        "C. If you took more exercise, you would feel healthier.",
+        "D. If you don't take any exercise, you will feel unhealthy."
+      ],
       "correctIndex": 2,
       "explanation": "Conditional type 2 for advice about present situation: If + past simple, would + V."
     },
@@ -436,7 +676,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "My parents live in the house. The house is opposite my house. (Choose the sentence that best combines)",
-      "options": ["A. My parents live in the house it is opposite my house.", "B. My parents live in the house that opposite my house.", "C. My parents live in the house which is opposite my house.", "D. My parents live in the house was opposite my house."],
+      "options": [
+        "A. My parents live in the house it is opposite my house.",
+        "B. My parents live in the house that opposite my house.",
+        "C. My parents live in the house which is opposite my house.",
+        "D. My parents live in the house was opposite my house."
+      ],
       "correctIndex": 2,
       "explanation": "'which is opposite my house' - relative clause with 'which' for things."
     },
@@ -445,7 +690,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "Mr. Ba is very old. He has to work hard eight hours a day. (Choose the sentence that best combines)",
-      "options": ["A. Mr. Ba is very old, so he has to work hard eight hours a day.", "B. Mr. Ba is very old. Therefore, he has to work hard eight hours a day.", "C. Mr. Ba is very old. Because he has to work hard eight hours a day.", "D. Mr. Ba is very old. However, he has to work hard eight hours a day."],
+      "options": [
+        "A. Mr. Ba is very old, so he has to work hard eight hours a day.",
+        "B. Mr. Ba is very old. Therefore, he has to work hard eight hours a day.",
+        "C. Mr. Ba is very old. Because he has to work hard eight hours a day.",
+        "D. Mr. Ba is very old. However, he has to work hard eight hours a day."
+      ],
       "correctIndex": 3,
       "explanation": "'However' shows contrast: despite being old, he still works hard."
     }

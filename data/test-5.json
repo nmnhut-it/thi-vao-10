@@ -10,7 +10,12 @@
       "type": "multiple-choice",
       "category": "pronunciation",
       "question": "Choose the word that has the underlined part pronounced differently: house, happen, hair, honor",
-      "options": ["A. house", "B. happen", "C. hair", "D. honor"],
+      "options": [
+        "A. <u>h</u>ouse",
+        "B. <u>h</u>appen",
+        "C. <u>h</u>air",
+        "D. <u>h</u>onor"
+      ],
       "correctIndex": 3,
       "explanation": "'honor' has a silent 'h', while A, B, C pronounce the /h/ sound."
     },
@@ -19,7 +24,12 @@
       "type": "multiple-choice",
       "category": "pronunciation",
       "question": "Choose the word that has the underlined part pronounced differently: finishes, provides, approaches, crashes",
-      "options": ["A. finishes", "B. provides", "C. approaches", "D. crashes"],
+      "options": [
+        "A. finish<u>es</u>",
+        "B. provid<u>es</u>",
+        "C. approach<u>es</u>",
+        "D. crash<u>es</u>"
+      ],
       "correctIndex": 1,
       "explanation": "'provides' ends with /z/, while A, C, D end with /ɪz/."
     },
@@ -28,7 +38,12 @@
       "type": "multiple-choice",
       "category": "stress",
       "question": "Choose the word that its main stress is placed differently: replace, control, escape, mention",
-      "options": ["A. replace", "B. control", "C. escape", "D. mention"],
+      "options": [
+        "A. replace",
+        "B. control",
+        "C. escape",
+        "D. mention"
+      ],
       "correctIndex": 3,
       "explanation": "'mention' has stress on the first syllable; A, B, C are stressed on the second."
     },
@@ -37,7 +52,12 @@
       "type": "multiple-choice",
       "category": "stress",
       "question": "Choose the word that its main stress is placed differently: enormous, dangerous, successful, expensive",
-      "options": ["A. enormous", "B. dangerous", "C. successful", "D. expensive"],
+      "options": [
+        "A. enormous",
+        "B. dangerous",
+        "C. successful",
+        "D. expensive"
+      ],
       "correctIndex": 1,
       "explanation": "'dangerous' has stress on the first syllable; A, C, D are stressed on the second."
     },
@@ -46,7 +66,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Companies now realize that _______ want products that will not only work effectively but also save money.",
-      "options": ["A. consumed", "B. consumes", "C. consumers", "D. consumption"],
+      "options": [
+        "A. consumed",
+        "B. consumes",
+        "C. consumers",
+        "D. consumption"
+      ],
       "correctIndex": 2,
       "explanation": "A noun (subject) is needed: 'consumers' (people who buy products)."
     },
@@ -55,7 +80,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "The ones about _______ I have been worried these days are the students of mine.",
-      "options": ["A. that", "B. whom", "C. whose", "D. which"],
+      "options": [
+        "A. that",
+        "B. whom",
+        "C. whose",
+        "D. which"
+      ],
       "correctIndex": 1,
       "explanation": "'about whom' - preposition + whom for people in relative clauses."
     },
@@ -64,7 +94,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "They never came to class late, and _______.",
-      "options": ["A. neither I did", "B. neither did I", "C. I did either", "D. so did I"],
+      "options": [
+        "A. neither I did",
+        "B. neither did I",
+        "C. I did either",
+        "D. so did I"
+      ],
       "correctIndex": 1,
       "explanation": "'neither did I' = I also didn't. Inversion after 'neither'."
     },
@@ -73,7 +108,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "I hope _______ to know this beautiful city better.",
-      "options": ["A. to get", "B. to need", "C. to appear", "D. to have"],
+      "options": [
+        "A. to get",
+        "B. to need",
+        "C. to appear",
+        "D. to have"
+      ],
       "correctIndex": 0,
       "explanation": "'hope to get to know' = hope to become familiar with."
     },
@@ -82,7 +122,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Jeff completely ignored what I said and _______ on eating.",
-      "options": ["A. went", "B. put", "C. tried", "D. depended"],
+      "options": [
+        "A. went",
+        "B. put",
+        "C. tried",
+        "D. depended"
+      ],
       "correctIndex": 0,
       "explanation": "'went on eating' = continued eating."
     },
@@ -91,7 +136,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Mr. Trung, who teaches Maths here, speaks very _______ English.",
-      "options": ["A. well", "B. best", "C. good", "D. fluently"],
+      "options": [
+        "A. well",
+        "B. best",
+        "C. good",
+        "D. fluently"
+      ],
       "correctIndex": 2,
       "explanation": "'good' (adjective) modifies the noun 'English': 'speaks very good English'."
     },
@@ -100,7 +150,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Watching TV all day is a bad habit _______ we get no exercise and eat unhealthy snacks.",
-      "options": ["A. therefore", "B. because", "C. but", "D. though"],
+      "options": [
+        "A. therefore",
+        "B. because",
+        "C. but",
+        "D. though"
+      ],
       "correctIndex": 1,
       "explanation": "'because' introduces the reason why it's a bad habit."
     },
@@ -109,7 +164,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Are you _______ teaching on Saturday mornings this term?",
-      "options": ["A. enjoy", "B. likely", "C. busy", "D. expected"],
+      "options": [
+        "A. enjoy",
+        "B. likely",
+        "C. busy",
+        "D. expected"
+      ],
       "correctIndex": 2,
       "explanation": "'busy + V-ing' = occupied doing something."
     },
@@ -118,7 +178,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "I suggest that we should _______ people from catching fish by using electricity.",
-      "options": ["A. let", "B. prohibit", "C. encourage", "D. relate"],
+      "options": [
+        "A. let",
+        "B. prohibit",
+        "C. encourage",
+        "D. relate"
+      ],
       "correctIndex": 1,
       "explanation": "'prohibit someone from + V-ing' = forbid/prevent."
     },
@@ -127,7 +192,12 @@
       "type": "multiple-choice",
       "category": "error-finding",
       "question": "I asked her whether was there a fridge in the kitchen. (Find the underlined part that needs correction)",
-      "options": ["A. asked", "B. whether", "C. was there", "D. in"],
+      "options": [
+        "A. <u>asked</u>",
+        "B. <u>whether</u>",
+        "C. <u>was there</u>",
+        "D. <u>in</u>"
+      ],
       "correctIndex": 2,
       "explanation": "In reported speech, use normal word order: 'whether there was' (not 'was there')."
     },
@@ -136,7 +206,12 @@
       "type": "multiple-choice",
       "category": "error-finding",
       "question": "People have used leather to make shoes since hundreds of years. (Find the underlined part that needs correction)",
-      "options": ["A. have used", "B. to make", "C. since", "D. of"],
+      "options": [
+        "A. <u>have used</u>",
+        "B. <u>to make</u>",
+        "C. <u>since</u>",
+        "D. <u>of</u>"
+      ],
       "correctIndex": 2,
       "explanation": "Should be 'for' hundreds of years (duration), not 'since' (point in time)."
     },
@@ -145,7 +220,12 @@
       "type": "multiple-choice",
       "category": "error-finding",
       "question": "My father's motorbike is using too many gas now. (Find the underlined part that needs correction)",
-      "options": ["A. My father's", "B. is using", "C. too many", "D. now"],
+      "options": [
+        "A. <u>My father's</u>",
+        "B. <u>is using</u>",
+        "C. <u>too many</u>",
+        "D. <u>now</u>"
+      ],
       "correctIndex": 2,
       "explanation": "'gas' is uncountable, so use 'too much' (not 'too many')."
     },
@@ -154,7 +234,12 @@
       "type": "multiple-choice",
       "category": "communicative",
       "question": "Vuong Khoa: \"_______\" Truong Thanh: \"Why not?\"",
-      "options": ["A. How about cooking the meal now?", "B. Have you cooked the meal?", "C. You should cook the meal now", "D. We'd better be cooking the meal."],
+      "options": [
+        "A. How about cooking the meal now?",
+        "B. Have you cooked the meal?",
+        "C. You should cook the meal now",
+        "D. We'd better be cooking the meal."
+      ],
       "correctIndex": 0,
       "explanation": "'Why not?' is a response agreeing to a suggestion. 'How about...?' is a suggestion."
     },
@@ -163,7 +248,12 @@
       "type": "multiple-choice",
       "category": "communicative",
       "question": "Sue: \"Thank you very much for your donation.\" Peter: \"_______\"",
-      "options": ["A. Yes, do it now", "B. Not a chance", "C. Sure, I'll do it", "D. It's my pleasure"],
+      "options": [
+        "A. Yes, do it now",
+        "B. Not a chance",
+        "C. Sure, I'll do it",
+        "D. It's my pleasure"
+      ],
       "correctIndex": 3,
       "explanation": "'It's my pleasure' is a polite response to being thanked."
     },
@@ -172,7 +262,12 @@
       "type": "multiple-choice",
       "category": "opposite-meaning",
       "question": "In Vietnam, there are few public transport options, so many people rely on motorbikes to get around.",
-      "options": ["A. private", "B. popular", "C. open", "D. secret"],
+      "options": [
+        "A. private",
+        "B. popular",
+        "C. open",
+        "D. secret"
+      ],
       "correctIndex": 0,
       "explanation": "'public' (for everyone) is the opposite of 'private' (for individuals)."
     },
@@ -181,7 +276,12 @@
       "type": "multiple-choice",
       "category": "opposite-meaning",
       "question": "She failed to get into medical university.",
-      "options": ["A. didn't succeed", "B. passed", "C. qualified", "D. satisfied"],
+      "options": [
+        "A. didn't succeed",
+        "B. passed",
+        "C. qualified",
+        "D. satisfied"
+      ],
       "correctIndex": 1,
       "explanation": "'failed' is the opposite of 'passed' in the context of exams/admission."
     },
@@ -190,7 +290,12 @@
       "type": "multiple-choice",
       "category": "closest-meaning",
       "question": "I am pleased that you passed your exams with good results.",
-      "options": ["A. unhappy", "B. delighted", "C. dissatisfied", "D. bored"],
+      "options": [
+        "A. unhappy",
+        "B. delighted",
+        "C. dissatisfied",
+        "D. bored"
+      ],
       "correctIndex": 1,
       "explanation": "'pleased' means happy, delighted."
     },
@@ -199,7 +304,12 @@
       "type": "multiple-choice",
       "category": "closest-meaning",
       "question": "Well, shopping isn't my cup of tea either. I'd rather stay at home and read a book.",
-      "options": ["A. I do not enjoy shopping at all", "B. I must have regular meals while shopping", "C. I don't usually drink tea while shopping", "D. I enjoy shopping tremendously"],
+      "options": [
+        "A. I do not enjoy shopping at all",
+        "B. I must have regular meals while shopping",
+        "C. I don't usually drink tea while shopping",
+        "D. I enjoy shopping tremendously"
+      ],
       "correctIndex": 0,
       "explanation": "'not my cup of tea' is an idiom meaning not something I enjoy."
     },
@@ -211,35 +321,60 @@
         {
           "id": "23a",
           "question": "Fill blank (23)",
-          "options": ["A. was", "B. lied", "C. situated", "D. placed"],
+          "options": [
+            "A. was",
+            "B. lied",
+            "C. situated",
+            "D. placed"
+          ],
           "correctIndex": 2,
           "explanation": "'situated on' = located on. Past participle as reduced relative clause."
         },
         {
           "id": "24a",
           "question": "Fill blank (24)",
-          "options": ["A. who", "B. which", "C. whom", "D. when"],
+          "options": [
+            "A. who",
+            "B. which",
+            "C. whom",
+            "D. when"
+          ],
           "correctIndex": 1,
           "explanation": "'which' refers to 'tsunamis' (things) as subject of relative clause."
         },
         {
           "id": "25a",
           "question": "Fill blank (25)",
-          "options": ["A. in", "B. at", "C. over", "D. On"],
+          "options": [
+            "A. in",
+            "B. at",
+            "C. over",
+            "D. On"
+          ],
           "correctIndex": 0,
           "explanation": "'in the afternoon' is the correct preposition for time of day."
         },
         {
           "id": "26a",
           "question": "Fill blank (26)",
-          "options": ["A. below", "B. on", "C. upper", "D. lower"],
+          "options": [
+            "A. below",
+            "B. on",
+            "C. upper",
+            "D. lower"
+          ],
           "correctIndex": 0,
           "explanation": "'below the floor' = underneath the ocean floor."
         },
         {
           "id": "27a",
           "question": "Fill blank (27)",
-          "options": ["A. strong", "B. stronger", "C. strongest", "D. strength"],
+          "options": [
+            "A. strong",
+            "B. stronger",
+            "C. strongest",
+            "D. strength"
+          ],
           "correctIndex": 2,
           "explanation": "'the strongest to hit this region' - superlative with 'the'."
         }
@@ -253,35 +388,60 @@
         {
           "id": "28a",
           "question": "According to many parents, _______.",
-          "options": ["A. a lot of homework has not been planned properly", "B. teachers do not set enough homework.", "C. children are too lazy to do", "D. children shouldn't be given marks for homework"],
+          "options": [
+            "A. a lot of homework has not been planned properly",
+            "B. teachers do not set enough homework.",
+            "C. children are too lazy to do",
+            "D. children shouldn't be given marks for homework"
+          ],
           "correctIndex": 0,
           "explanation": "The passage says 'most teachers do not properly plan the homework tasks'."
         },
         {
           "id": "29a",
           "question": "According to the writer, many parents would like their children to _______.",
-          "options": ["A. do homework both at school and at home", "B. have test homework", "C. do homework at school only", "D. do more difficult homework"],
+          "options": [
+            "A. do homework both at school and at home",
+            "B. have test homework",
+            "C. do homework at school only",
+            "D. do more difficult homework"
+          ],
           "correctIndex": 2,
           "explanation": "Parents want to stop homework at home; Holland allows pupils to do homework at school."
         },
         {
           "id": "30a",
           "question": "Homework is unfair because _______.",
-          "options": ["A. C&D", "B. Some pupils have to help their parents with housework and some others do not", "C. Some parents help their children with their homework while some others do not", "D. Some pupils do their homework in a quiet and comfortable room while some others do homework in a small, noisy room"],
+          "options": [
+            "A. C&D",
+            "B. Some pupils have to help their parents with housework and some others do not",
+            "C. Some parents help their children with their homework while some others do not",
+            "D. Some pupils do their homework in a quiet and comfortable room while some others do homework in a small, noisy room"
+          ],
           "correctIndex": 0,
           "explanation": "Both C and D are mentioned as reasons homework is unfair."
         },
         {
           "id": "31a",
           "question": "Pick out the statement that is not true.",
-          "options": ["A. Only a small number of people think homework is fair.", "B. Teachers should advise the parents about how to work together with their children at home.", "C. All parents show great interest in their children's homework.", "D. Children can do their homework at school and help each other in some schools in Britain."],
+          "options": [
+            "A. Only a small number of people think homework is fair.",
+            "B. Teachers should advise the parents about how to work together with their children at home.",
+            "C. All parents show great interest in their children's homework.",
+            "D. Children can do their homework at school and help each other in some schools in Britain."
+          ],
           "correctIndex": 2,
           "explanation": "The passage says 'Other parents take no interest at all in their children's homework.' So C is false."
         },
         {
           "id": "32a",
           "question": "Greek parents thought _______.",
-          "options": ["A. their children's homework was useless", "B. their children's homework was too easy", "C. their children's homework was useful", "D. more time should be allowed for homework"],
+          "options": [
+            "A. their children's homework was useless",
+            "B. their children's homework was too easy",
+            "C. their children's homework was useful",
+            "D. more time should be allowed for homework"
+          ],
           "correctIndex": 0,
           "explanation": "The passage says Greek parents said 'most of the homework was a waste of time'."
         }
@@ -292,7 +452,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "\"I will call the police if you don't give me back my bicycle\". (Choose the sentence with the same meaning)",
-      "options": ["A. Unless you give me back my bicycle, I won't call the police.", "B. Unless you give me back my bicycle, I will call the police.", "C. Unless you don't give me back my bicycle, I will call the police.", "D. Unless you gave me back my bicycle, I would call the police."],
+      "options": [
+        "A. Unless you give me back my bicycle, I won't call the police.",
+        "B. Unless you give me back my bicycle, I will call the police.",
+        "C. Unless you don't give me back my bicycle, I will call the police.",
+        "D. Unless you gave me back my bicycle, I would call the police."
+      ],
       "correctIndex": 1,
       "explanation": "'If you don't...' = 'Unless you...'. The threat remains: I will call the police."
     },
@@ -301,7 +466,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "No one has asked me that question before. (Choose the sentence with the same meaning)",
-      "options": ["A. I have ever been asked that question before.", "B. That question has ever been asked by no one before.", "C. That question has never been asked me before by anyone.", "D. I have never been asked that question before."],
+      "options": [
+        "A. I have ever been asked that question before.",
+        "B. That question has ever been asked by no one before.",
+        "C. That question has never been asked me before by anyone.",
+        "D. I have never been asked that question before."
+      ],
       "correctIndex": 3,
       "explanation": "Passive: 'I have never been asked that question before' preserves meaning."
     },
@@ -310,7 +480,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "Nam forgot to take his raincoat, so he got wet. (Choose the sentence with the same meaning)",
-      "options": ["A. Nam got wet, so he forgot to take his raincoat.", "B. Nam got wet; however, he forgot to take his raincoat.", "C. Nam got wet because he forgot to take his raincoat.", "D. Nam got wet although he forgot to take his raincoat."],
+      "options": [
+        "A. Nam got wet, so he forgot to take his raincoat.",
+        "B. Nam got wet; however, he forgot to take his raincoat.",
+        "C. Nam got wet because he forgot to take his raincoat.",
+        "D. Nam got wet although he forgot to take his raincoat."
+      ],
       "correctIndex": 2,
       "explanation": "'because' shows cause: forgetting the raincoat caused getting wet."
     },
@@ -319,7 +494,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "Janet said to me, \"Have you ever seen a UFO?\" (Choose the sentence with the same meaning)",
-      "options": ["A. Janet told me if I had ever seen a UFO.", "B. Janet wanted to know whether I have ever seen a UFO.", "C. Janet asked me if I had ever seen a UFO.", "D. Janet asked me have I ever seen a UFO."],
+      "options": [
+        "A. Janet told me if I had ever seen a UFO.",
+        "B. Janet wanted to know whether I have ever seen a UFO.",
+        "C. Janet asked me if I had ever seen a UFO.",
+        "D. Janet asked me have I ever seen a UFO."
+      ],
       "correctIndex": 2,
       "explanation": "Reported yes/no question: asked + if/whether + statement order + backshift tense."
     },
@@ -328,7 +508,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "It/be/necessary/have a day/celebrate/our parents (Choose the best sentence from cues)",
-      "options": ["A. It is necessary to have a day for celebrate for our parents.", "B. It is necessity to have a day to celebrate for our parents.", "C. It is necessary to have a day to celebrate for our parents.", "D. It is necessary to have a day to celebrate to our parents."],
+      "options": [
+        "A. It is necessary to have a day for celebrate for our parents.",
+        "B. It is necessity to have a day to celebrate for our parents.",
+        "C. It is necessary to have a day to celebrate for our parents.",
+        "D. It is necessary to have a day to celebrate to our parents."
+      ],
       "correctIndex": 2,
       "explanation": "'It is necessary to have a day to celebrate for our parents' - correct structure."
     },
@@ -337,7 +522,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "Although/he/tired/he/have to/finish/homework/. (Choose the best sentence from cues)",
-      "options": ["A. Although he tired, he has to finish the homework.", "B. Although he is tired, he has to finish his homework.", "C. Although he tired, he have to finish the homework.", "D. Although he was tired, he has to finish his homework."],
+      "options": [
+        "A. Although he tired, he has to finish the homework.",
+        "B. Although he is tired, he has to finish his homework.",
+        "C. Although he tired, he have to finish the homework.",
+        "D. Although he was tired, he has to finish his homework."
+      ],
       "correctIndex": 1,
       "explanation": "'Although he is tired' needs 'is' (be + adjective). Present tense consistency."
     },
@@ -346,7 +536,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "Children/should have/special day/express/feeling/memories/love/their parents. (Choose the best sentence from cues)",
-      "options": ["A. Children should have a special day expressing their feeling, memories and love for their parents.", "B. Children should have a special day to express their feeling, memories and love for their parents.", "C. Children should have a special day express their feeling, memories and love for their parents.", "D. Children should have a special day expressing their feeling, memories and love to their parents."],
+      "options": [
+        "A. Children should have a special day expressing their feeling, memories and love for their parents.",
+        "B. Children should have a special day to express their feeling, memories and love for their parents.",
+        "C. Children should have a special day express their feeling, memories and love for their parents.",
+        "D. Children should have a special day expressing their feeling, memories and love to their parents."
+      ],
       "correctIndex": 1,
       "explanation": "'a special day to express' (purpose infinitive) is the correct structure."
     },
@@ -355,7 +550,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "The novels/I/just/read/interesting. (Choose the best sentence from cues)",
-      "options": ["A. The novels whom I have just read are interesting", "B. The novels who I have just read are interesting.", "C. The novels which I had just read is interesting", "D. The novels which I have just read are interesting."],
+      "options": [
+        "A. The novels whom I have just read are interesting",
+        "B. The novels who I have just read are interesting.",
+        "C. The novels which I had just read is interesting",
+        "D. The novels which I have just read are interesting."
+      ],
       "correctIndex": 3,
       "explanation": "'which' for things, present perfect 'have just read', plural 'are'."
     }

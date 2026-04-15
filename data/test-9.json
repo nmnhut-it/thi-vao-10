@@ -10,7 +10,12 @@
       "type": "multiple-choice",
       "category": "pronunciation",
       "question": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three: proofs, books, points, days",
-      "options": ["A. proofs", "B. books", "C. points", "D. days"],
+      "options": [
+        "A. proof<u>s</u>",
+        "B. book<u>s</u>",
+        "C. point<u>s</u>",
+        "D. day<u>s</u>"
+      ],
       "correctIndex": 3,
       "explanation": "'days' ends with /z/ sound, while A, B, C end with /s/ sound."
     },
@@ -19,7 +24,12 @@
       "type": "multiple-choice",
       "category": "pronunciation",
       "question": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three: worked, stopped, forced, wanted",
-      "options": ["A. worked", "B. stopped", "C. forced", "D. wanted"],
+      "options": [
+        "A. work<u>ed</u>",
+        "B. stopp<u>ed</u>",
+        "C. forc<u>ed</u>",
+        "D. want<u>ed</u>"
+      ],
       "correctIndex": 3,
       "explanation": "'wanted' ends with /ɪd/ sound, while A, B, C end with /t/ sound."
     },
@@ -28,7 +38,12 @@
       "type": "multiple-choice",
       "category": "pronunciation",
       "question": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three: dead, scream, meat, heat",
-      "options": ["A. dead", "B. scream", "C. meat", "D. heat"],
+      "options": [
+        "A. d<u>ea</u>d",
+        "B. scr<u>ea</u>m",
+        "C. m<u>ea</u>t",
+        "D. h<u>ea</u>t"
+      ],
       "correctIndex": 0,
       "explanation": "'dead' has /e/ sound, while B, C, D have /iː/ sound."
     },
@@ -37,7 +52,12 @@
       "type": "multiple-choice",
       "category": "pronunciation",
       "question": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three: choice, achieve, each, chemistry",
-      "options": ["A. choice", "B. achieve", "C. each", "D. chemistry"],
+      "options": [
+        "A. <u>ch</u>oice",
+        "B. a<u>ch</u>ieve",
+        "C. ea<u>ch</u>",
+        "D. <u>ch</u>emistry"
+      ],
       "correctIndex": 3,
       "explanation": "'chemistry' has /k/ sound for 'ch', while A, B, C have /tʃ/ sound."
     },
@@ -46,7 +66,12 @@
       "type": "multiple-choice",
       "category": "pronunciation",
       "question": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three: ride, written, driving, shine",
-      "options": ["A. ride", "B. written", "C. driving", "D. shine"],
+      "options": [
+        "A. r<u>i</u>de",
+        "B. wr<u>i</u>tten",
+        "C. dr<u>i</u>ving",
+        "D. sh<u>i</u>ne"
+      ],
       "correctIndex": 1,
       "explanation": "'written' has /ɪ/ sound, while A, C, D have /aɪ/ sound."
     },
@@ -55,7 +80,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "She's finished the course, _______?",
-      "options": ["A. isn't she", "B. doesn't she", "C. didn't she", "D. hasn't she"],
+      "options": [
+        "A. isn't she",
+        "B. doesn't she",
+        "C. didn't she",
+        "D. hasn't she"
+      ],
       "correctIndex": 3,
       "explanation": "'has finished' (present perfect) -> tag 'hasn't she?'"
     },
@@ -64,7 +94,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "He has been _______ M.C for two years.",
-      "options": ["A. a", "B. the", "C. an", "D. no article"],
+      "options": [
+        "A. a",
+        "B. the",
+        "C. an",
+        "D. no article"
+      ],
       "correctIndex": 2,
       "explanation": "'an M.C' - 'M' starts with /em/ (vowel sound), so use 'an'."
     },
@@ -73,7 +108,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "If it's raining tomorrow, we shall have to put _______ the match till Sunday.",
-      "options": ["A. off", "B. away", "C. in", "D. on"],
+      "options": [
+        "A. off",
+        "B. away",
+        "C. in",
+        "D. on"
+      ],
       "correctIndex": 0,
       "explanation": "'put off' = postpone."
     },
@@ -82,7 +122,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "I'm worried _______ my final exam in statistics.",
-      "options": ["A. about falling", "B. to fall", "C. with falling", "D. to failure"],
+      "options": [
+        "A. about falling",
+        "B. to fall",
+        "C. with falling",
+        "D. to failure"
+      ],
       "correctIndex": 0,
       "explanation": "'worried about + V-ing/noun'. 'about failing' is correct (the PDF has 'falling' but means 'failing')."
     },
@@ -91,7 +136,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "She _______ the house last weekend.",
-      "options": ["A. was cleaning", "B. cleans", "C. clean", "D. cleaned"],
+      "options": [
+        "A. was cleaning",
+        "B. cleans",
+        "C. clean",
+        "D. cleaned"
+      ],
       "correctIndex": 3,
       "explanation": "'last weekend' requires past simple: 'cleaned'."
     },
@@ -100,7 +150,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "They _______ stamps and coins when they were young.",
-      "options": ["A. used to collect", "B. are used to collecting", "C. used to collecting", "D. are used to collect"],
+      "options": [
+        "A. used to collect",
+        "B. are used to collecting",
+        "C. used to collecting",
+        "D. are used to collect"
+      ],
       "correctIndex": 0,
       "explanation": "'used to + V-infinitive' for past habits."
     },
@@ -109,7 +164,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "What would you do if you _______ a million pounds?",
-      "options": ["A. won", "B. win", "C. will win", "D. had won"],
+      "options": [
+        "A. won",
+        "B. win",
+        "C. will win",
+        "D. had won"
+      ],
       "correctIndex": 0,
       "explanation": "Conditional type 2: If + past simple ('won'), would + V."
     },
@@ -118,7 +178,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Nam's parents are very _______ with his success.",
-      "options": ["A. please", "B. pleasant", "C. pleasing", "D. pleased"],
+      "options": [
+        "A. please",
+        "B. pleasant",
+        "C. pleasing",
+        "D. pleased"
+      ],
       "correctIndex": 3,
       "explanation": "'pleased with' = happy about (past participle for feelings of people)."
     },
@@ -127,7 +192,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "She was tired _______ her long walk.",
-      "options": ["A. because", "B. since", "C. as", "D. because of"],
+      "options": [
+        "A. because",
+        "B. since",
+        "C. as",
+        "D. because of"
+      ],
       "correctIndex": 3,
       "explanation": "'because of' + noun phrase ('her long walk')."
     },
@@ -136,7 +206,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Nga is hungry _______ she hasn't eaten all day.",
-      "options": ["A. since", "B. because of", "C. though", "D. and"],
+      "options": [
+        "A. since",
+        "B. because of",
+        "C. though",
+        "D. and"
+      ],
       "correctIndex": 0,
       "explanation": "'since' = because (+ clause). She's hungry since/because she hasn't eaten."
     },
@@ -145,7 +220,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "The weather is not fine today so they can't go on a picnic. They wish it _______ fine.",
-      "options": ["A. be", "B. was", "C. were", "D. is"],
+      "options": [
+        "A. be",
+        "B. was",
+        "C. were",
+        "D. is"
+      ],
       "correctIndex": 2,
       "explanation": "Wish + past subjunctive 'were' for present unreal wishes."
     },
@@ -154,7 +234,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Leave early so that you _______ miss the bus.",
-      "options": ["A. didn't", "B. won't", "C. shouldn't", "D. mustn't"],
+      "options": [
+        "A. didn't",
+        "B. won't",
+        "C. shouldn't",
+        "D. mustn't"
+      ],
       "correctIndex": 1,
       "explanation": "'so that you won't miss' - purpose clause with future negative."
     },
@@ -163,7 +248,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "The traffic light is red. If you didn't stop, you _______.",
-      "options": ["A. would be fined", "B. would fined", "C. would fine", "D. will be fined"],
+      "options": [
+        "A. would be fined",
+        "B. would fined",
+        "C. would fine",
+        "D. will be fined"
+      ],
       "correctIndex": 0,
       "explanation": "Conditional type 2: would + be + past participle (passive)."
     },
@@ -172,7 +262,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "It's dark here, please _______ all the lights.",
-      "options": ["A. turn on", "B. get on", "C. go on", "D. keep on"],
+      "options": [
+        "A. turn on",
+        "B. get on",
+        "C. go on",
+        "D. keep on"
+      ],
       "correctIndex": 0,
       "explanation": "'turn on' the lights = switch them on."
     },
@@ -181,7 +276,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Please ask the restaurant receptionist _______ in the no smoking area.",
-      "options": ["A. don't smoke", "B. not to smoke", "C. not smoking", "D. don't to smoke"],
+      "options": [
+        "A. don't smoke",
+        "B. not to smoke",
+        "C. not smoking",
+        "D. don't to smoke"
+      ],
       "correctIndex": 1,
       "explanation": "'ask someone not to + V-infinitive'."
     },
@@ -190,7 +290,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Of the four dresses, which is _______ expensive?",
-      "options": ["A. the best", "B. the most", "C. the more", "D. the greater"],
+      "options": [
+        "A. the best",
+        "B. the most",
+        "C. the more",
+        "D. the greater"
+      ],
       "correctIndex": 1,
       "explanation": "'the most expensive' - superlative for comparing 4+ items."
     },
@@ -199,7 +304,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "As an _______, Mr. Pike is very worried about the increasing of juvenile delinquency.",
-      "options": ["A. educate", "B. education", "C. educator", "D. educative"],
+      "options": [
+        "A. educate",
+        "B. education",
+        "C. educator",
+        "D. educative"
+      ],
       "correctIndex": 2,
       "explanation": "'an educator' - noun for a person, after 'As an'."
     },
@@ -208,7 +318,12 @@
       "type": "multiple-choice",
       "category": "vocabulary",
       "question": "Coal, oil, gas...are _______ resources.",
-      "options": ["A. nature", "B. natural", "C. naturally", "D. unnaturally"],
+      "options": [
+        "A. nature",
+        "B. natural",
+        "C. naturally",
+        "D. unnaturally"
+      ],
       "correctIndex": 1,
       "explanation": "'natural resources' - adjective + noun."
     },
@@ -217,7 +332,12 @@
       "type": "multiple-choice",
       "category": "vocabulary",
       "question": "On Passover's night, Jewish families eat a special _______ called the Seder.",
-      "options": ["A. meal", "B. lunch", "C. dinner", "D. breakfast"],
+      "options": [
+        "A. meal",
+        "B. lunch",
+        "C. dinner",
+        "D. breakfast"
+      ],
       "correctIndex": 0,
       "explanation": "'a special meal' is the most general term for a special eating occasion."
     },
@@ -226,7 +346,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "On this _______, mother usually receives cards, flowers and gifts from her husband and children.",
-      "options": ["A. chance", "B. occasion", "C. opportunity", "D. date"],
+      "options": [
+        "A. chance",
+        "B. occasion",
+        "C. opportunity",
+        "D. date"
+      ],
       "correctIndex": 1,
       "explanation": "'on this occasion' = on this special event/celebration."
     },
@@ -235,7 +360,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "The boy to _______ I lent my money is poor.",
-      "options": ["A. who", "B. whom", "C. which", "D. that"],
+      "options": [
+        "A. who",
+        "B. whom",
+        "C. which",
+        "D. that"
+      ],
       "correctIndex": 1,
       "explanation": "'to whom' - preposition + whom for people."
     },
@@ -244,7 +374,12 @@
       "type": "multiple-choice",
       "category": "closest-meaning",
       "question": "They felt refreshed after their trip to Da Lat.",
-      "options": ["A. happy", "B. relaxed", "C. pleased", "D. glad"],
+      "options": [
+        "A. happy",
+        "B. relaxed",
+        "C. pleased",
+        "D. glad"
+      ],
       "correctIndex": 1,
       "explanation": "'refreshed' means feeling rested and energized again = 'relaxed'."
     },
@@ -253,7 +388,12 @@
       "type": "multiple-choice",
       "category": "closest-meaning",
       "question": "Unless we try to save natural resources, they will run out soon.",
-      "options": ["A. end", "B. last forever", "C. reduce", "D. exist"],
+      "options": [
+        "A. end",
+        "B. last forever",
+        "C. reduce",
+        "D. exist"
+      ],
       "correctIndex": 0,
       "explanation": "'run out' = become exhausted/depleted = 'end'."
     },
@@ -262,7 +402,12 @@
       "type": "multiple-choice",
       "category": "opposite-meaning",
       "question": "It took Peter three hours to open the doors.",
-      "options": ["A. close", "B. shut", "C. pull", "D. fix"],
+      "options": [
+        "A. close",
+        "B. shut",
+        "C. pull",
+        "D. fix"
+      ],
       "correctIndex": 1,
       "explanation": "'open' is the opposite of 'shut/close'. Both A and B work, but 'shut' is the listed answer."
     },
@@ -271,7 +416,12 @@
       "type": "multiple-choice",
       "category": "opposite-meaning",
       "question": "He is the most generous man I've ever met.",
-      "options": ["A. mean", "B. kind", "C. friendly", "D. helpful"],
+      "options": [
+        "A. mean",
+        "B. kind",
+        "C. friendly",
+        "D. helpful"
+      ],
       "correctIndex": 0,
       "explanation": "'generous' (giving freely) is the opposite of 'mean' (stingy)."
     },
@@ -280,7 +430,12 @@
       "type": "multiple-choice",
       "category": "communicative",
       "question": "Thanh: \"I've passed my exam.\" Ba: \"_______\"",
-      "options": ["A. Good luck.", "B. It's nice of you to say so.", "C. That's a good idea.", "D. Congratulations!"],
+      "options": [
+        "A. Good luck.",
+        "B. It's nice of you to say so.",
+        "C. That's a good idea.",
+        "D. Congratulations!"
+      ],
       "correctIndex": 3,
       "explanation": "'Congratulations!' is the natural response to good news about passing an exam."
     },
@@ -289,7 +444,12 @@
       "type": "multiple-choice",
       "category": "communicative",
       "question": "Mr Ba: \"Would you like to have dinner with me?\" Miss Ha: \"_______\"",
-      "options": ["A. Yes, I'd love to", "B. I'm very happy", "C. Yes, It is", "D. Yes, so do I"],
+      "options": [
+        "A. Yes, I'd love to",
+        "B. I'm very happy",
+        "C. Yes, It is",
+        "D. Yes, so do I"
+      ],
       "correctIndex": 0,
       "explanation": "'Yes, I'd love to' is the standard acceptance of an invitation."
     },
@@ -301,35 +461,60 @@
         {
           "id": "33a",
           "question": "What are most of joggers who are overweight worried about?",
-          "options": ["A. their weight", "B. their height", "C. their jogging", "D. the distance"],
+          "options": [
+            "A. their weight",
+            "B. their height",
+            "C. their jogging",
+            "D. the distance"
+          ],
           "correctIndex": 0,
           "explanation": "The passage says they are 'talking about, worrying about... their weight'."
         },
         {
           "id": "34a",
           "question": "To many people, _______",
-          "options": ["A. body size is not a problem", "B. body size is very important", "C. they do not care about their body size", "D. jogging is a waste of time"],
+          "options": [
+            "A. body size is not a problem",
+            "B. body size is very important",
+            "C. they do not care about their body size",
+            "D. jogging is a waste of time"
+          ],
           "correctIndex": 1,
           "explanation": "'it is not surprising that body size is important' - many people care about body size."
         },
         {
           "id": "35a",
           "question": "In the US, _______",
-          "options": ["A. nobody is on a diet", "B. 50% women are on a diet", "C. obesity is appreciated", "D. 75% men are on a diet"],
+          "options": [
+            "A. nobody is on a diet",
+            "B. 50% women are on a diet",
+            "C. obesity is appreciated",
+            "D. 75% men are on a diet"
+          ],
           "correctIndex": 1,
           "explanation": "The passage states '50% of the women... in the US are watching what they eat.'"
         },
         {
           "id": "36a",
           "question": "What are the most talked about among joggers?",
-          "options": ["A. body size", "B. lung cancer", "C. died", "D. heart disease and high blood pressure"],
+          "options": [
+            "A. body size",
+            "B. lung cancer",
+            "C. died",
+            "D. heart disease and high blood pressure"
+          ],
           "correctIndex": 3,
           "explanation": "'heart disease and high blood pressure are the first!' (most talked about)."
         },
         {
           "id": "37a",
           "question": "There are many factors that affect your weight. They are _______",
-          "options": ["A. body type, diet, exercise level, sex and age", "B. high blood pressure, sex and age", "C. heart disease and high blood pressure", "D. body type and heart disease"],
+          "options": [
+            "A. body type, diet, exercise level, sex and age",
+            "B. high blood pressure, sex and age",
+            "C. heart disease and high blood pressure",
+            "D. body type and heart disease"
+          ],
           "correctIndex": 0,
           "explanation": "The passage lists: 'body type, diet, exercise level, sex and age.'"
         }
@@ -343,38 +528,63 @@
         {
           "id": "38a",
           "question": "Fill blank (38)",
-          "options": ["A. What", "B. Where", "C. When", "D. If"],
+          "options": [
+            "A. What",
+            "B. Where",
+            "C. When",
+            "D. If"
+          ],
           "correctIndex": 2,
           "explanation": "'When the trucks have a short break' - time clause."
         },
         {
           "id": "39a",
           "question": "Fill blank (39)",
-          "options": ["A. village", "B. house", "C. town", "D. city"],
+          "options": [
+            "A. village",
+            "B. house",
+            "C. town",
+            "D. city"
+          ],
           "correctIndex": 1,
           "explanation": "'around my house' - consistent with the opening sentence."
         },
         {
           "id": "40a",
           "question": "Fill blank (40)",
-          "options": ["A. at", "B. of", "C. in", "D. on"],
+          "options": [
+            "A. at",
+            "B. of",
+            "C. in",
+            "D. on"
+          ],
           "correctIndex": 3,
           "explanation": "'on the ground' - preposition for surface."
         },
         {
           "id": "41a",
           "question": "Fill blank (41)",
-          "options": ["A. if", "B. but", "C. because", "D. and"],
+          "options": [
+            "A. if",
+            "B. but",
+            "C. because",
+            "D. and"
+          ],
           "correctIndex": 3,
           "explanation": "'and a few minutes later' - adding information."
         },
         {
           "id": "42a",
           "question": "Fill blank (42)",
-          "options": ["A. see", "B. to see", "C. seeing", "D. to seeing"],
+          "options": [
+            "A. see",
+            "B. to see",
+            "C. seeing",
+            "D. to seeing"
+          ],
           "correctIndex": 2,
           "explanation": "'look forward to' + V-ing: 'hearing from you and seeing good response'."
-    }
+        }
       ]
     },
     {
@@ -382,7 +592,12 @@
       "type": "multiple-choice",
       "category": "error-finding",
       "question": "If he make a mistake, will he feel sorry for it? (Find the underlined part that needs correction)",
-      "options": ["A. make", "B. will", "C. feel", "D. for"],
+      "options": [
+        "A. <u>make</u>",
+        "B. <u>will</u>",
+        "C. <u>feel</u>",
+        "D. <u>for</u>"
+      ],
       "correctIndex": 0,
       "explanation": "'he makes' - third person singular requires 's' in present simple."
     },
@@ -391,7 +606,12 @@
       "type": "multiple-choice",
       "category": "error-finding",
       "question": "I saw the men, the women and the cattle which went to the field. (Find the underlined part that needs correction)",
-      "options": ["A. the men, the women", "B. the cattle", "C. which", "D. went to"],
+      "options": [
+        "A. <u>the men, the women</u>",
+        "B. <u>the cattle</u>",
+        "C. <u>which</u>",
+        "D. <u>went to</u>"
+      ],
       "correctIndex": 2,
       "explanation": "When referring to both people and things/animals, use 'that' not 'which'."
     },
@@ -400,7 +620,12 @@
       "type": "multiple-choice",
       "category": "error-finding",
       "question": "He never allows us to smoke and eating in this room. (Find the underlined part that needs correction)",
-      "options": ["A. never", "B. allows", "C. to smoke", "D. eating"],
+      "options": [
+        "A. <u>never</u>",
+        "B. <u>allows</u>",
+        "C. <u>to smoke</u>",
+        "D. <u>eating</u>"
+      ],
       "correctIndex": 3,
       "explanation": "Parallel structure: 'to smoke and eat' (both infinitives after 'allows us to')."
     },
@@ -409,7 +634,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "They built the church two hundred years ago. (Choose the sentence closest in meaning)",
-      "options": ["A. The church was built for two hundred years ago.", "B. The church was built two hundred years ago.", "C. The church was building for two hundred years ago.", "D. The church was being built for two hundred years ago."],
+      "options": [
+        "A. The church was built for two hundred years ago.",
+        "B. The church was built two hundred years ago.",
+        "C. The church was building for two hundred years ago.",
+        "D. The church was being built for two hundred years ago."
+      ],
       "correctIndex": 1,
       "explanation": "Passive past simple: was + past participle. 'two hundred years ago' (no 'for')."
     },
@@ -418,7 +648,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "Tom said: \"I have already had breakfast, so I am not hungry.\" (Choose the sentence closest in meaning)",
-      "options": ["A. Tom said he had already had breakfast, so he is not hungry.", "B. Tom said he has already had breakfast, so he is not hungry.", "C. Tom said he had already had breakfast, so he was not hungry.", "D. Tom said he had already had breakfast, so he was was not hungry."],
+      "options": [
+        "A. Tom said he had already had breakfast, so he is not hungry.",
+        "B. Tom said he has already had breakfast, so he is not hungry.",
+        "C. Tom said he had already had breakfast, so he was not hungry.",
+        "D. Tom said he had already had breakfast, so he was was not hungry."
+      ],
       "correctIndex": 2,
       "explanation": "Reported speech: backshift tenses. 'have had' -> 'had had', 'am' -> 'was'."
     },
@@ -427,7 +662,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "The man is my closest friend. You saw him on TV last night. (Choose the sentence that best combines)",
-      "options": ["A. The man whose you saw on TV last night is my closest friend.", "B. The man whom you saw on TV last night is my closest friend.", "C. The man when you saw on TV last night is my closest friend.", "D. The man seeing you on TV last night is my closest friend."],
+      "options": [
+        "A. The man whose you saw on TV last night is my closest friend.",
+        "B. The man whom you saw on TV last night is my closest friend.",
+        "C. The man when you saw on TV last night is my closest friend.",
+        "D. The man seeing you on TV last night is my closest friend."
+      ],
       "correctIndex": 1,
       "explanation": "'whom' as object of relative clause: 'the man whom you saw'."
     },
@@ -436,7 +676,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "Unless you keep your feet dry, you will catch a cold. (Choose the sentence closest in meaning)",
-      "options": ["A. You won't catch a cold even if you don't keep your feet dry.", "B. You will catch a cold if you don't keep your feet dry.", "C. You will catch a cold if you keep your feet dry.", "D. Unless you keep your feet wet, you won't catch a cold."],
+      "options": [
+        "A. You won't catch a cold even if you don't keep your feet dry.",
+        "B. You will catch a cold if you don't keep your feet dry.",
+        "C. You will catch a cold if you keep your feet dry.",
+        "D. Unless you keep your feet wet, you won't catch a cold."
+      ],
       "correctIndex": 1,
       "explanation": "'Unless' = 'If not'. Unless you keep feet dry = If you don't keep feet dry."
     },
@@ -445,7 +690,12 @@
       "type": "multiple-choice",
       "category": "sentence-combine",
       "question": "Despite feeling cold, we kept walking. (Choose the sentence closest in meaning)",
-      "options": ["A. In spite of we felt cold, we kept walking.", "B. Although we felt cold, we kept walking.", "C. However cold we felt, but we kept walking.", "D. However we felt cold, we kept walking."],
+      "options": [
+        "A. In spite of we felt cold, we kept walking.",
+        "B. Although we felt cold, we kept walking.",
+        "C. However cold we felt, but we kept walking.",
+        "D. However we felt cold, we kept walking."
+      ],
       "correctIndex": 1,
       "explanation": "'Despite + V-ing' = 'Although + clause'. 'Although we felt cold, we kept walking.'"
     }

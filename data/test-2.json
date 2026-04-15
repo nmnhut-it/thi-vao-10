@@ -10,7 +10,12 @@
       "type": "multiple-choice",
       "category": "pronunciation",
       "question": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three in pronunciation: should, shout, about, amount",
-      "options": ["A. should", "B. shout", "C. about", "D. amount"],
+      "options": [
+        "A. sh<u>ou</u>ld",
+        "B. sh<u>ou</u>t",
+        "C. ab<u>ou</u>t",
+        "D. am<u>ou</u>nt"
+      ],
       "correctIndex": 0,
       "explanation": "'should' has /ʊ/ sound, while B, C, D have /aʊ/ diphthong."
     },
@@ -19,7 +24,12 @@
       "type": "multiple-choice",
       "category": "pronunciation",
       "question": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three in pronunciation: shop, problem, top, glove",
-      "options": ["A. shop", "B. problem", "C. top", "D. glove"],
+      "options": [
+        "A. sh<u>o</u>p",
+        "B. pr<u>o</u>blem",
+        "C. t<u>o</u>p",
+        "D. gl<u>o</u>ve"
+      ],
       "correctIndex": 3,
       "explanation": "'glove' has /ʌ/ sound, while A, B, C have /ɒ/ sound."
     },
@@ -28,7 +38,12 @@
       "type": "multiple-choice",
       "category": "stress",
       "question": "Mark the letter A, B, C or D to indicate the word that differs from the other three in the position of primary stress: rusty, career, accent, mission",
-      "options": ["A. rusty", "B. career", "C. accent", "D. mission"],
+      "options": [
+        "A. rusty",
+        "B. career",
+        "C. accent",
+        "D. mission"
+      ],
       "correctIndex": 1,
       "explanation": "'career' has stress on the second syllable; A, C, D are stressed on the first."
     },
@@ -37,7 +52,12 @@
       "type": "multiple-choice",
       "category": "stress",
       "question": "Mark the letter A, B, C or D to indicate the word that differs from the other three in the position of primary stress: versatile, openness, financial, housekeeper",
-      "options": ["A. versatile", "B. openness", "C. financial", "D. housekeeper"],
+      "options": [
+        "A. versatile",
+        "B. openness",
+        "C. financial",
+        "D. housekeeper"
+      ],
       "correctIndex": 2,
       "explanation": "'financial' has stress on the second syllable; A, B, D are stressed on the first."
     },
@@ -46,7 +66,12 @@
       "type": "multiple-choice",
       "category": "error-finding",
       "question": "She learned through bitter experience that he was not to be trust. (Find the underlined part that needs correction)",
-      "options": ["A. learned", "B. bitter experience", "C. was not", "D. trust"],
+      "options": [
+        "A. <u>learned</u>",
+        "B. <u>bitter experience</u>",
+        "C. <u>was not</u>",
+        "D. <u>trust</u>"
+      ],
       "correctIndex": 3,
       "explanation": "Should be 'trusted' (past participle) after 'to be' in passive voice."
     },
@@ -55,7 +80,12 @@
       "type": "multiple-choice",
       "category": "error-finding",
       "question": "Your classmates won't trust you if you're always told tales, Alvin. (Find the underlined part that needs correction)",
-      "options": ["A. classmates", "B. won't trust", "C. if", "D. told"],
+      "options": [
+        "A. <u>classmates</u>",
+        "B. <u>won't trust</u>",
+        "C. <u>if</u>",
+        "D. <u>told</u>"
+      ],
       "correctIndex": 3,
       "explanation": "Should be 'telling' tales (active, not passive). He tells tales, not is told tales."
     },
@@ -64,7 +94,12 @@
       "type": "multiple-choice",
       "category": "error-finding",
       "question": "About the guidance of the conductor, an orchestra creates music and harmonies. (Find the underlined part that needs correction)",
-      "options": ["A. About", "B. the conductor", "C. an orchestra", "D. harmonies"],
+      "options": [
+        "A. <u>About</u>",
+        "B. <u>the conductor</u>",
+        "C. <u>an orchestra</u>",
+        "D. <u>harmonies</u>"
+      ],
       "correctIndex": 0,
       "explanation": "Should be 'Under' the guidance of, not 'About'."
     },
@@ -73,7 +108,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "There are two points _____ I wanted to make.",
-      "options": ["A. who", "B. where", "C. which", "D. whose"],
+      "options": [
+        "A. who",
+        "B. where",
+        "C. which",
+        "D. whose"
+      ],
       "correctIndex": 2,
       "explanation": "'which' is used as a relative pronoun for things (points)."
     },
@@ -82,7 +122,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Will we _____ to the wedding celebrations by them?",
-      "options": ["A. invite", "B. invited", "C. be inviting", "D. be invited"],
+      "options": [
+        "A. invite",
+        "B. invited",
+        "C. be inviting",
+        "D. be invited"
+      ],
       "correctIndex": 3,
       "explanation": "Passive voice (future): will + be + past participle."
     },
@@ -91,7 +136,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "I like my old phone, but this new model _____ it out of the water.",
-      "options": ["A. blows", "B. moves", "C. throws", "D. takes"],
+      "options": [
+        "A. blows",
+        "B. moves",
+        "C. throws",
+        "D. takes"
+      ],
       "correctIndex": 0,
       "explanation": "'blows it out of the water' is an idiom meaning greatly surpasses."
     },
@@ -100,7 +150,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "If I were you, I more carefully in the rain.",
-      "options": ["A. will drive", "B. would drive", "C. was driving", "D. drove"],
+      "options": [
+        "A. will drive",
+        "B. would drive",
+        "C. was driving",
+        "D. drove"
+      ],
       "correctIndex": 1,
       "explanation": "Conditional type 2: If + past simple, would + V-infinitive."
     },
@@ -109,7 +164,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "All areas of _______ country will have _______ rain tonight.",
-      "options": ["A. the - some", "B. the - any", "C. a - some", "D. a - any"],
+      "options": [
+        "A. the - some",
+        "B. the - any",
+        "C. a - some",
+        "D. a - any"
+      ],
       "correctIndex": 0,
       "explanation": "'the country' (specific) and 'some rain' (affirmative sentence)."
     },
@@ -118,7 +178,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "She'll miss the bus if she _______ soon.",
-      "options": ["A. isn't leaving", "B. didn't leave", "C. don't leave", "D. doesn't leave"],
+      "options": [
+        "A. isn't leaving",
+        "B. didn't leave",
+        "C. don't leave",
+        "D. doesn't leave"
+      ],
       "correctIndex": 3,
       "explanation": "Conditional type 1: If + present simple. 'She' requires 'doesn't'."
     },
@@ -127,7 +192,12 @@
       "type": "multiple-choice",
       "category": "vocabulary",
       "question": "You've done some stupid things before, but this really takes the _______.",
-      "options": ["A. sausage", "B. beef", "C. biscuit", "D. hamburger"],
+      "options": [
+        "A. sausage",
+        "B. beef",
+        "C. biscuit",
+        "D. hamburger"
+      ],
       "correctIndex": 2,
       "explanation": "'takes the biscuit' is a British idiom meaning 'is the most remarkable/annoying'."
     },
@@ -136,7 +206,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "She left _______ an 'm' in accommodation.",
-      "options": ["A. out", "B. in", "C. up", "D. down"],
+      "options": [
+        "A. out",
+        "B. in",
+        "C. up",
+        "D. down"
+      ],
       "correctIndex": 0,
       "explanation": "'left out' means omitted or forgot to include."
     },
@@ -145,7 +220,12 @@
       "type": "multiple-choice",
       "category": "grammar",
       "question": "Is there _____ university _____ this town?",
-      "options": ["A. an-in", "B. a - in", "C. an-at", "D. an - in"],
+      "options": [
+        "A. an-in",
+        "B. a - in",
+        "C. an-at",
+        "D. an - in"
+      ],
       "correctIndex": 1,
       "explanation": "'university' starts with /juː/ (consonant sound), so use 'a'. Location: 'in' a town."
     },
@@ -154,7 +234,12 @@
       "type": "multiple-choice",
       "category": "communicative",
       "question": "John: \"Can you do the cooking today?\" Linda: \"_______\"",
-      "options": ["A. All right", "B. Yes, please.", "C. No, thanks", "D. I know that"],
+      "options": [
+        "A. All right",
+        "B. Yes, please.",
+        "C. No, thanks",
+        "D. I know that"
+      ],
       "correctIndex": 0,
       "explanation": "'All right' is an agreement to do something when asked."
     },
@@ -163,7 +248,12 @@
       "type": "multiple-choice",
       "category": "communicative",
       "question": "Linh: \"Let's go to Nha Trang for the weekend!\" Daniel: \"_______\"",
-      "options": ["A. Oh, you are good to say so", "B. Yes, let's", "C. That's a good idea", "D. That's a nice day."],
+      "options": [
+        "A. Oh, you are good to say so",
+        "B. Yes, let's",
+        "C. That's a good idea",
+        "D. That's a nice day."
+      ],
       "correctIndex": 2,
       "explanation": "'That's a good idea' is a natural way to agree to a suggestion."
     },
@@ -172,7 +262,12 @@
       "type": "multiple-choice",
       "category": "closest-meaning",
       "question": "It was inevitable that there would be job losses.",
-      "options": ["A. unbelievable", "B. unavoidable", "C. unnecessary", "D. incredible"],
+      "options": [
+        "A. unbelievable",
+        "B. unavoidable",
+        "C. unnecessary",
+        "D. incredible"
+      ],
       "correctIndex": 1,
       "explanation": "'inevitable' means certain to happen, unavoidable."
     },
@@ -181,7 +276,12 @@
       "type": "multiple-choice",
       "category": "closest-meaning",
       "question": "A fund will be set up for the dead men's families.",
-      "options": ["A. provided", "B. destroyed", "C. produced", "D. established"],
+      "options": [
+        "A. provided",
+        "B. destroyed",
+        "C. produced",
+        "D. established"
+      ],
       "correctIndex": 3,
       "explanation": "'set up' means established or created."
     },
@@ -190,7 +290,12 @@
       "type": "multiple-choice",
       "category": "opposite-meaning",
       "question": "If petrol price goes up any more, I will have to use a bicycle.",
-      "options": ["A. increase", "B. ascend", "C. develop", "D. raise"],
+      "options": [
+        "A. increase",
+        "B. ascend",
+        "C. develop",
+        "D. raise"
+      ],
       "correctIndex": 2,
       "explanation": "'goes up' means increases. Among the options, 'develop' is the least related to increasing — the others (increase, ascend, raise) are all synonyms."
     },
@@ -199,7 +304,12 @@
       "type": "multiple-choice",
       "category": "closest-meaning",
       "question": "How many countries took part in the last SEA Games?",
-      "options": ["A. performed", "B. hosted", "C. participated", "D. succeeded"],
+      "options": [
+        "A. performed",
+        "B. hosted",
+        "C. participated",
+        "D. succeeded"
+      ],
       "correctIndex": 2,
       "explanation": "'took part in' means participated in."
     },
@@ -211,35 +321,60 @@
         {
           "id": "23a",
           "question": "Fill blank (23)",
-          "options": ["A. has", "B. have", "C. had", "D. having"],
+          "options": [
+            "A. has",
+            "B. have",
+            "C. had",
+            "D. having"
+          ],
           "correctIndex": 1,
           "explanation": "'People' is plural, so 'have been growing' (present perfect continuous)."
         },
         {
           "id": "24a",
           "question": "Fill blank (24)",
-          "options": ["A. take", "B. taking", "C. to take", "D. taken"],
+          "options": [
+            "A. take",
+            "B. taking",
+            "C. to take",
+            "D. taken"
+          ],
           "correctIndex": 3,
           "explanation": "Passive: 'are taken to fields'. Past participle after 'are'."
         },
         {
           "id": "25a",
           "question": "Fill blank (25)",
-          "options": ["A. beauty", "B. beautify", "C. beautiful", "D. beautifully"],
+          "options": [
+            "A. beauty",
+            "B. beautify",
+            "C. beautiful",
+            "D. beautifully"
+          ],
           "correctIndex": 2,
           "explanation": "'look' + adjective: 'look very beautiful'."
         },
         {
           "id": "26a",
           "question": "Fill blank (26)",
-          "options": ["A. a", "B. an", "C. the", "D. x"],
+          "options": [
+            "A. a",
+            "B. an",
+            "C. the",
+            "D. x"
+          ],
           "correctIndex": 0,
           "explanation": "'a special action' - indefinite article before consonant sound."
         },
         {
           "id": "27a",
           "question": "Fill blank (27)",
-          "options": ["A. with", "B. as", "C. of", "D. like"],
+          "options": [
+            "A. with",
+            "B. as",
+            "C. of",
+            "D. like"
+          ],
           "correctIndex": 1,
           "explanation": "'known as' means called/referred to as."
         }
@@ -253,35 +388,60 @@
         {
           "id": "28a",
           "question": "What is discipline?",
-          "options": ["A. obedience to rules and regulations", "B. house without a roof", "C. successful life", "D. rules and regulations"],
+          "options": [
+            "A. obedience to rules and regulations",
+            "B. house without a roof",
+            "C. successful life",
+            "D. rules and regulations"
+          ],
           "correctIndex": 0,
           "explanation": "The passage states: 'Discipline means complete obedience to certain rules and regulations.'"
         },
         {
           "id": "29a",
           "question": "What does the word \"fundamental\" mean?",
-          "options": ["A. tiny", "B. trivial", "C. basic", "D. small"],
+          "options": [
+            "A. tiny",
+            "B. trivial",
+            "C. basic",
+            "D. small"
+          ],
           "correctIndex": 2,
           "explanation": "'fundamental' means basic, essential, forming the foundation."
         },
         {
           "id": "30a",
           "question": "Discipline is _______",
-          "options": ["A. a student's life", "B. our teachers", "C. dedication", "D. very important"],
+          "options": [
+            "A. a student's life",
+            "B. our teachers",
+            "C. dedication",
+            "D. very important"
+          ],
           "correctIndex": 3,
           "explanation": "The passage states 'Discipline is very important in a student's life.'"
         },
         {
           "id": "31a",
           "question": "The word \"follow\" can best be replaced by _______",
-          "options": ["A. move", "B. obey", "C. remember", "D. forget"],
+          "options": [
+            "A. move",
+            "B. obey",
+            "C. remember",
+            "D. forget"
+          ],
           "correctIndex": 1,
           "explanation": "'follow the rules' = 'obey the rules'."
         },
         {
           "id": "32a",
           "question": "Discipline requires _______",
-          "options": ["A. a good society", "B. a good nation", "C. routine", "D. self-control and dedication"],
+          "options": [
+            "A. a good society",
+            "B. a good nation",
+            "C. routine",
+            "D. self-control and dedication"
+          ],
           "correctIndex": 3,
           "explanation": "The passage states: 'Discipline demands self-control and dedication.'"
         }
