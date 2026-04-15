@@ -290,7 +290,7 @@
     {
       "id": 33,
       "type": "sentence-rewrite",
-      "original": "\"You shouldn't give up smoking as soon as possible\".",
+      "original": "\"You should give up smoking as soon as possible\", the doctor said to me.",
       "instruction": "Rewrite beginning with: The doctor advised me",
       "starterText": "The doctor advised me",
       "answer": "The doctor advised me to give up smoking as soon as possible.",
@@ -298,7 +298,7 @@
         "The doctor advised me to give up smoking as soon as possible.",
         "The doctor advised me to give up smoking as soon as possible"
       ],
-      "explanation": "Reported advice: advise + object + to-infinitive. Note: the original likely means 'You should give up smoking' (advice to quit)."
+      "explanation": "Reported advice: advise + object + to-infinitive. 'You should...' -> 'advised me to...'"
     },
     {
       "id": 34,

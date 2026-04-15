@@ -307,8 +307,8 @@
       "original": "We began eating lunch when it started to rain.",
       "instruction": "Rewrite starting with 'We have'",
       "starterText": "We have",
-      "answer": "We have eaten lunch since it started to rain.",
-      "explanation": "'S + began + Ving + when + past' = 'S + have/has + PII + since + past clause'."
+      "answer": "We have been eating lunch since it started to rain.",
+      "explanation": "'S + began + Ving + when + past' = 'S + have/has been + Ving + since + past clause'. Use present perfect continuous because the action started and is still ongoing."
     },
     {
       "id": 37,

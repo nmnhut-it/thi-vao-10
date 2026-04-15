@@ -99,17 +99,17 @@
     {
       "id": 10,
       "type": "sentence-rewrite",
-      "original": "He is carrying out a research on how people spend their money for clothes.",
+      "original": "He is carrying out research on how people spend their money on clothes.",
       "instruction": "Rewrite beginning with the words given",
-      "starterText": "A research",
-      "answer": "A research is being carried out on how people spend their money for clothes.",
-      "acceptedAnswers": ["A research is being carried out on how people spend their money for clothes.", "A research is being carried out on how people spend their money for clothes"],
+      "starterText": "Research",
+      "answer": "Research is being carried out on how people spend their money on clothes.",
+      "acceptedAnswers": ["Research is being carried out on how people spend their money on clothes.", "Research is being carried out on how people spend their money on clothes"],
       "explanation": "Present continuous passive: S + is/are + being + V3."
     },
     {
       "id": 11,
       "type": "sentence-rewrite",
-      "original": "The police has just released John.",
+      "original": "The police have just released John.",
       "instruction": "Rewrite beginning with the words given",
       "starterText": "John",
       "answer": "John has just been released by the police.",

@@ -215,7 +215,7 @@
       "id": 26,
       "type": "error-correct",
       "wrongSentence": "The more they advertise, the least expensive things are.",
-      "correctSentence": "The more they advertise, the least expensive things are.",
+      "correctSentence": "The more they advertise, the less expensive things are.",
       "errorWord": "least",
       "correction": "less",
       "explanation": "So sanh kep: The + comparative => 'the less expensive' (khong phai superlative 'least')."

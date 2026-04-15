@@ -11,8 +11,8 @@
       "category": "pronunciation",
       "question": "Mark the letter A, B, C or D to indicate the word whose underlined part differs from the other three in pronunciation: intermediate, immediate, medium, medicine",
       "options": ["A. intermediate", "B. immediate", "C. medium", "D. medicine"],
-      "correctIndex": 1,
-      "explanation": "'immediate' has /iː/ sound while the others have /e/ in the underlined part."
+      "correctIndex": 3,
+      "explanation": "'medicine' is pronounced /ˈmedsɪn/ with /e/ sound, while A, B, C have /iː/ in the underlined 'e' (intermediate, immediate, medium)."
     },
     {
       "id": 2,

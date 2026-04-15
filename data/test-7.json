@@ -218,8 +218,8 @@
       "category": "grammar",
       "question": "Should all motorcyclists be _______ to wear helmets?",
       "options": ["A. interested", "B. dangerous", "C. impressed", "D. compulsory"],
-      "correctIndex": 2,
-      "explanation": "Actually, looking at context: 'Should motorcyclists be required/compelled.' The answer is likely not 'impressed'. Re-checking: this might be 'required'. Among options, none says 'required'. 'compulsory' as predicate adjective doesn't work with 'be' + people. The intended answer is likely C. impressed is wrong. D. compulsory doesn't fit either. Reconsidering: the correct answer is likely not listed perfectly, but the intended answer based on exam format is D. compulsory (it should be compulsory = required)."
+      "correctIndex": 3,
+      "explanation": "'compulsory' means required/obligatory. 'Should all motorcyclists be compulsory to wear helmets?' is the intended meaning (required to wear helmets)."
     },
     {
       "id": 25,

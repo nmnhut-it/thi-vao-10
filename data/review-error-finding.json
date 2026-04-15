@@ -54,8 +54,8 @@
     {
       "id": 6,
       "type": "error-correct",
-      "wrongSentence": "The artist tried stimulate interest in painting by talking his students to the museums.",
-      "correctSentence": "The artist tried to stimulate interest in painting by talking his students to the museums.",
+      "wrongSentence": "The artist tried stimulate interest in painting by taking his students to the museums.",
+      "correctSentence": "The artist tried to stimulate interest in painting by taking his students to the museums.",
       "errorWord": "stimulate",
       "correction": "to stimulate",
       "explanation": "'Try + to V' means attempt to do something. Need 'to' before 'stimulate.'"

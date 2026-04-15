@@ -159,11 +159,11 @@
     {
       "id": 16,
       "type": "sentence-rewrite",
-      "original": "Jane didn't change his working style. He was sacked.",
+      "original": "Jane didn't change her working style. She was sacked.",
       "instruction": "Rewrite using the word in brackets: (If)",
       "starterText": "If",
-      "answer": "If Jane had changed his working style, he wouldn't have been sacked.",
-      "acceptedAnswers": ["If Jane had changed his working style, he wouldn't have been sacked.", "If Jane had changed his working style, he would not have been sacked."],
+      "answer": "If Jane had changed her working style, she wouldn't have been sacked.",
+      "acceptedAnswers": ["If Jane had changed her working style, she wouldn't have been sacked.", "If Jane had changed her working style, she would not have been sacked."],
       "explanation": "Third conditional for unreal past situations."
     },
     {
