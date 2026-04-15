@@ -151,6 +151,10 @@ const TestEngine = {
     this.isSubmitted = true;
     clearInterval(this.timer);
 
+    // Hide submit button
+    const submitBtn = document.getElementById('submit-test');
+    if (submitBtn) submitBtn.style.display = 'none';
+
     const state = TopicEngine.state;
     const correct = Object.values(state.answers).filter(a => a.correct).length;
     const total = state.totalExercises;

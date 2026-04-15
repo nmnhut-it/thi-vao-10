@@ -22,7 +22,7 @@
     {
       "id": 2,
       "type": "multiple-choice",
-      "question": "I can_______ the house being messy, but I hate ít if ít's not clean.",
+      "question": "I can_______ the house being messy, but I hate it if it's not clean.",
       "options": [
         "A. lead up to",
         "B. come up with",
@@ -35,7 +35,7 @@
     {
       "id": 3,
       "type": "multiple-choice",
-      "question": "Belinda Harrell_______ taking her driving test until she finally passed ít on her twenty-first attempt.",
+      "question": "Belinda Harrell_______ taking her driving test until she finally passed it on her twenty-first attempt.",
       "options": [
         "A. kept on",
         "B. cleared off",
@@ -139,7 +139,7 @@
     {
       "id": 11,
       "type": "multiple-choice",
-      "question": "My hat has just_______ behind the sofa although I thought I had lost ít.",
+      "question": "My hat has just_______ behind the sofa although I thought I had lost it.",
       "options": [
         "A. turned up",
         "B. gone away",
@@ -165,7 +165,7 @@
     {
       "id": 13,
       "type": "multiple-choice",
-      "question": "Considering how little they have got in common, ít's surprising how well they_______ together.",
+      "question": "Considering how little they have got in common, it's surprising how well they_______ together.",
       "options": [
         "A. get through",
         "B. get on",
@@ -180,13 +180,13 @@
       "type": "multiple-choice",
       "question": "Her brother was offered the manager's job, but he_______. He said he didn't want the responsibilities.",
       "options": [
-        "A. turned ít off",
-        "B. turned ít down",
-        "C. threw ít away",
-        "D. put ít off"
+        "A. turned it off",
+        "B. turned it down",
+        "C. threw it away",
+        "D. put it off"
       ],
       "correctIndex": 1,
-      "explanation": "'Turned ít down' = từ chối. Anh ay từ chối công việc quan ly."
+      "explanation": "'Turned it down' = từ chối. Anh ay từ chối công việc quan ly."
     },
     {
       "id": 15,
@@ -204,7 +204,7 @@
     {
       "id": 16,
       "type": "multiple-choice",
-      "question": "He is disappointed at not being offered the job, but I think he will_______ ít.",
+      "question": "He is disappointed at not being offered the job, but I think he will_______ it.",
       "options": [
         "A. turn off",
         "B. fill in",

@@ -61,7 +61,7 @@
     {
       "id": 5,
       "type": "multiple-choice",
-      "question": "Paul is a very competent salesperson. He's _____ good that I ấm going to give him a raise and a promotion.",
+      "question": "Paul is a very competent salesperson. He's _____ good that I am going to give him a raise and a promotion.",
       "options": [
         "A. definite",
         "B. definitely",
@@ -184,7 +184,7 @@
     {
       "id": 16,
       "type": "sentence-rewrite",
-      "original": "The kind of milk is so bad that the child can't drink ít more.",
+      "original": "The kind of milk is so bad that the child can't drink it more.",
       "instruction": "Rewrite without changing meaning.",
       "starterText": "The kind of milk is",
       "answer": "The kind of milk is too bad for the child to drink.",
@@ -193,10 +193,10 @@
     {
       "id": 17,
       "type": "sentence-rewrite",
-      "original": "The food was so good that we ate all of ít.",
+      "original": "The food was so good that we ate all of it.",
       "instruction": "Rewrite without changing meaning.",
       "starterText": "It was",
-      "answer": "It was such good food that we ate all of ít.",
+      "answer": "It was such good food that we ate all of it.",
       "explanation": "so + adj => such + adj + N."
     },
     {
@@ -229,7 +229,7 @@
     {
       "id": 21,
       "type": "sentence-rewrite",
-      "original": "The test was so difficult that we couldn't do ít.",
+      "original": "The test was so difficult that we couldn't do it.",
       "instruction": "Rewrite without changing meaning.",
       "starterText": "The test was not",
       "answer": "The test was not easy enough for us to do.",
@@ -247,10 +247,10 @@
     {
       "id": 23,
       "type": "sentence-rewrite",
-      "original": "Although she didn't want to see The Lord of the Rings, she enjoyed ít in the end.",
+      "original": "Although she didn't want to see The Lord of the Rings, she enjoyed it in the end.",
       "instruction": "Rewrite without changing meaning.",
       "starterText": "In spite of",
-      "answer": "In spite of not wanting to see The Lord of the Rings, she enjoyed ít in the end.",
+      "answer": "In spite of not wanting to see The Lord of the Rings, she enjoyed it in the end.",
       "explanation": "Although + S + V => In spite of + V-ing (phủ định: not V-ing)."
     },
     {
@@ -310,7 +310,7 @@
     {
       "id": 30,
       "type": "sentence-rewrite",
-      "original": "The map is so worn out that I couldn't read ít.",
+      "original": "The map is so worn out that I couldn't read it.",
       "instruction": "Rewrite without changing meaning.",
       "starterText": "The map is",
       "answer": "The map is too worn out for me to read.",

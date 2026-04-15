@@ -634,17 +634,20 @@ const TopicEngine = {
     if (inputEl) {
       inputEl.disabled = true;
       inputEl.classList.remove('input-answer--recorded');
-      if (ans) {
-        inputEl.classList.add(ans.correct ? 'input-answer--correct' : 'input-answer--wrong');
+      if (ans && ans.correct) {
+        inputEl.classList.add('input-answer--correct');
+      } else {
+        inputEl.classList.add('input-answer--wrong');
       }
     }
 
     const btn = card.querySelector('.btn');
     if (btn) btn.style.display = 'none';
 
+    // Always show correct answer for text inputs (answered or not)
     const isCorrect = ans && ans.correct;
-    const fullExplanation = isCorrect ? (ex.explanation || '') : Logic.buildWrongAnswerExplanation(ex);
-    this.showFeedback(card, isCorrect, fullExplanation);
+    const fullExplanation = Logic.buildWrongAnswerExplanation(ex);
+    this.showFeedback(card, isCorrect || false, isCorrect ? (ex.explanation || '') : fullExplanation);
   },
 
   saveProgress() {

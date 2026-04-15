@@ -56,7 +56,7 @@
         "D. must"
       ],
       "correctIndex": 1,
-      "explanation": "'Might' expresses possibility - ít's not certain but possible."
+      "explanation": "'Might' expresses possibility - it's not certain but possible."
     },
     {
       "id": 5,
@@ -69,7 +69,7 @@
         "D. might / mustn't"
       ],
       "correctIndex": 2,
-      "explanation": "'Can' = ability to find way; 'needn't' = ít's not necessary to wait."
+      "explanation": "'Can' = ability to find way; 'needn't' = it's not necessary to wait."
     },
     {
       "id": 6,
@@ -100,7 +100,7 @@
     {
       "id": 8,
       "type": "multiple-choice",
-      "question": "This drink isn't beneficial for health. You _______ drink ít too much.",
+      "question": "This drink isn't beneficial for health. You _______ drink it too much.",
       "options": [
         "A. should",
         "B. ought to not",
@@ -139,7 +139,7 @@
     {
       "id": 11,
       "type": "multiple-choice",
-      "question": "I will lend you some money, but you _______ pay ít back to me next week.",
+      "question": "I will lend you some money, but you _______ pay it back to me next week.",
       "options": [
         "A. should",
         "B. have to",
@@ -152,7 +152,7 @@
     {
       "id": 12,
       "type": "multiple-choice",
-      "question": "Hoa _______ feed the cats because her mother has done ít already.",
+      "question": "Hoa _______ feed the cats because her mother has done it already.",
       "options": [
         "A. has to",
         "B. doesn't have to",
@@ -160,7 +160,7 @@
         "D. Both A and C"
       ],
       "correctIndex": 1,
-      "explanation": "Mother already did ít, số ít's not necessary - 'doesn't have to'."
+      "explanation": "Mother already did it, số it's not necessary - 'doesn't have to'."
     },
     {
       "id": 13,
@@ -199,7 +199,7 @@
         "D. should"
       ],
       "correctIndex": 1,
-      "explanation": "'Needn't' = ít's not necessary, because the speaker has a key."
+      "explanation": "'Needn't' = it's not necessary, because the speaker has a key."
     },
     {
       "id": 16,
@@ -225,7 +225,7 @@
         "D. don't have to"
       ],
       "correctIndex": 3,
-      "explanation": "It's free, số ít's not necessary to pay - 'don't have to'."
+      "explanation": "It's free, số it's not necessary to pay - 'don't have to'."
     },
     {
       "id": 18,
@@ -269,10 +269,10 @@
     {
       "id": 21,
       "type": "error-correct",
-      "wrongSentence": "You needn't solve a problem until you identify ít correctly.",
+      "wrongSentence": "You needn't solve a problem until you identify it correctly.",
       "errorWord": "needn't",
       "correction": "can't",
-      "correctSentence": "You can't solve a problem until you identify ít correctly.",
+      "correctSentence": "You can't solve a problem until you identify it correctly.",
       "explanation": "The meaning is 'you are not able to solve' - use 'can't', not 'needn't'."
     },
     {
@@ -336,7 +336,7 @@
       "errorWord": "mustn't",
       "correction": "shouldn't",
       "correctSentence": "His teacher was very angry with him. He shouldn't have said that to her.",
-      "explanation": "'Shouldn't have said' = it was wrong of him to say ít. 'Mustn't have' is not standard."
+      "explanation": "'Shouldn't have said' = it was wrong of him to say it. 'Mustn't have' is not standard."
     },
     {
       "id": 29,
@@ -345,7 +345,7 @@
       "errorWord": "don't have to",
       "correction": "mustn't",
       "correctSentence": "You mustn't cheat on the exam. It's against the rules.",
-      "explanation": "'Don't have to' means ít's not necessary. But cheating is forbidden, so use 'mustn't' (= not allowed)."
+      "explanation": "'Don't have to' means it's not necessary. But cheating is forbidden, so use 'mustn't' (= not allowed)."
     },
     {
       "id": 30,

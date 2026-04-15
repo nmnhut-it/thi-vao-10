@@ -235,7 +235,7 @@
         "A. try",
         "B. tried",
         "C. have tried",
-        "D. ấm trying"
+        "D. am trying"
       ],
       "correctIndex": 2,
       "explanation": "'This is the first time' requires present perfect: 'have tried'."
@@ -424,15 +424,15 @@
     {
       "id": 36,
       "type": "sentence-rewrite",
-      "original": "We began eating lunch when ít started to rain.",
+      "original": "We began eating lunch when it started to rain.",
       "instruction": "Rewrite starting with 'We have'",
       "starterText": "We have",
-      "answer": "We have been eating lunch since ít started to rain.",
+      "answer": "We have been eating lunch since it started to rain.",
       "acceptedAnswers": [
-        "We have been eating lunch since ít started to rain.",
-        "We have been eating lunch since ít started to rain",
-        "We have been eating lunch since ít started raining.",
-        "We have been eating lunch since ít started raining"
+        "We have been eating lunch since it started to rain.",
+        "We have been eating lunch since it started to rain",
+        "We have been eating lunch since it started raining.",
+        "We have been eating lunch since it started raining"
       ],
       "explanation": "'S + began + Ving + when + past' = 'S + have/has been + Ving + since + past clause'. Use present perfect continuous because the action started and is still ongoing."
     },

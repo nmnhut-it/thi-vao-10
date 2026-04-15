@@ -17,7 +17,7 @@
         "This is the most romantic story I have ever read.",
         "This is the most romantic story I have ever read"
       ],
-      "explanation": "Pattern: This is thế + superlative + noun + S + have/has + ever + V3."
+      "explanation": "Pattern: This is the + superlative + noun + S + have/has + ever + V3."
     },
     {
       "id": 2,
@@ -238,14 +238,14 @@
     {
       "id": 18,
       "type": "sentence-rewrite",
-      "original": "She knows more about ít than I do.",
+      "original": "She knows more about it than I do.",
       "instruction": "Rewrite beginning with the words given",
       "starterText": "I don't",
-      "answer": "I don't know as much about ít as she does.",
+      "answer": "I don't know as much about it as she does.",
       "acceptedAnswers": [
-        "I don't know as much about ít as she does.",
-        "I don't know as much about ít as she does",
-        "I do not know as much about ít as she does."
+        "I don't know as much about it as she does.",
+        "I don't know as much about it as she does",
+        "I do not know as much about it as she does."
       ],
       "explanation": "Comparative to negative equality: not + as...as."
     },
@@ -299,7 +299,7 @@
         "The older I get, the less I want to travel.",
         "The older I get, the less I want to travel"
       ],
-      "explanation": "Double comparative: The + comparative + S + V, thế + comparative + S + V."
+      "explanation": "Double comparative: The + comparative + S + V, the + comparative + S + V."
     },
     {
       "id": 23,
@@ -370,7 +370,7 @@
     {
       "id": 28,
       "type": "sentence-rewrite",
-      "original": "She said, \"I ấm taking an important exam next week\".",
+      "original": "She said, \"I am taking an important exam next week\".",
       "instruction": "Rewrite in reported speech",
       "starterText": "She said",
       "answer": "She said she was taking an important exam the following week.",
@@ -378,7 +378,7 @@
         "She said she was taking an important exam the following week.",
         "She said that she was taking an important exam the following week."
       ],
-      "explanation": "Reported speech: ấm -> was, next week -> the following week."
+      "explanation": "Reported speech: am -> was, next week -> the following week."
     },
     {
       "id": 29,
@@ -1230,7 +1230,7 @@
     {
       "id": 92,
       "type": "sentence-rewrite",
-      "original": "When ít comes to population, Beijing is much bigger than Auckland's.",
+      "original": "When it comes to population, Beijing is much bigger than Auckland's.",
       "instruction": "Rewrite using the word in brackets: (populated)",
       "starterText": "Beijing is",
       "answer": "Beijing is much more populated than Auckland.",
@@ -1472,7 +1472,7 @@
     {
       "id": 110,
       "type": "sentence-rewrite",
-      "original": "Is ít a problem if I open the window a little?",
+      "original": "Is it a problem if I open the window a little?",
       "instruction": "Rewrite using the word in brackets: (mind)",
       "starterText": "Would you",
       "answer": "Would you mind if I opened the window a little?",
@@ -1480,7 +1480,7 @@
         "Would you mind if I opened the window a little?",
         "Would you mind if I opened the window a little"
       ],
-      "explanation": "Is ít a problem if = Would you mind if + past simple."
+      "explanation": "Is it a problem if = Would you mind if + past simple."
     },
     {
       "id": 111,
