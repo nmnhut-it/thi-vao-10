@@ -17,7 +17,7 @@
         "D. for ten years"
       ],
       "correctIndex": 3,
-      "explanation": "Present perfect continuous uses 'for' + duration. 'For tên years' = trong 10 năm."
+      "explanation": "Present perfect continuous uses 'for' + duration. 'For ten years' = trong 10 năm."
     },
     {
       "id": 2,
@@ -345,7 +345,7 @@
       "errorWord": "since",
       "correction": "for",
       "correctSentence": "I have been waiting for you for two hours.",
-      "explanation": "Use 'for' with a duration (two hours). 'Since' is for a specific point in time (since 2 ở'clock)."
+      "explanation": "Use 'for' with a duration (two hours). 'Since' is for a specific point in time (since 2 o'clock)."
     },
     {
       "id": 30,

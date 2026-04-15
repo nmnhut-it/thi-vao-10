@@ -3,7 +3,7 @@
   "title": "Closest & Opposite Meaning (Đồng Nghĩa & Trái Nghĩa)",
   "section": "vocabulary",
   "knowledge": {
-    "html": "<h3>Phương phap làm bài tim tu đồng nghĩa (CLOSEST) va trái nghĩa (OPPOSITE)</h3><div class='formula'><strong>Buoc 1: Đọc kỹ đề bài</strong><br>Đọc kỹ yêu cầu của đề bài de biet rang do la bai tim tu đồng nghĩa (CLOSEST) hay trái nghĩa (OPPOSITE). Se that la tiec nếu chi vi hiểu nhầm de nen chọn nhầm đáp án, mặc dù hieu het nghia của câu hỏi va các lựa chọn cho sẵn. Lẽ ra chon tu đồng nghĩa những lai khoanh tu trái nghĩa, và ngược lại.</div><div class='formula'><strong>Buoc 2: Tim nghia của các tu</strong><br><strong>Trường hợp 1:</strong> Biet nghia của tu cho sẵn o đề bài những các tu chôn lại kho. Phan nay se hoi kho vi no la từ đơn, những ban van có thể doan nghia của các tu kho do bằng cách tim xem no thuoc từ loại nào va được thanh tu tu goc nào. Dong thoi, dua vao nghia của tu cho sẵn trong cau de suý nghĩa của các tu ban không biet.<br><br><strong>Trường hợp 2:</strong> Biet nghia của các lựa chọn, những không biet nghia của tu cho sẵn o đề bài. Để làm được cau nay, ban se dua vao nghia của bon tu lựa chọn va ngữ cảnh của cau de suy đoán nghia tu in đậm. Thuong thì trong bon lựa chọn se co 3 lựa chọn đồng nghĩa với tu cho sẵn nếu cau do yêu cầu tu trái nghĩa, và ngược lại se co 3 lựa chọn trái nghĩa với tu cho sẵn nếu đề bài yêu cầu tim tu đồng nghĩa. Kết hợp ngữ cảnh của cau cho sẵn de tim ra đáp án dung.</div>"
+    "html": "<h3>Phương pháp làm bài tìm từ đồng nghĩa (CLOSEST) và trái nghĩa (OPPOSITE)</h3><div class='formula'><strong>Bước 1: Đọc kỹ đề bài</strong><br>Đọc kỹ yêu cầu của đề bài để biết rằng đó là bài tìm từ đồng nghĩa (CLOSEST) hay trái nghĩa (OPPOSITE). Sẽ thật là tiếc nếu chỉ vì hiểu nhầm đề nên chọn nhầm đáp án, mặc dù hiểu hết nghĩa của câu hỏi và các lựa chọn cho sẵn. Lẽ ra chọn từ đồng nghĩa nhưng lại khoanh từ trái nghĩa, và ngược lại.</div><div class='formula'><strong>Bước 2: Tìm nghĩa của các từ</strong><br><strong>Trường hợp 1:</strong> Biết nghĩa của từ cho sẵn ở đề bài nhưng các từ còn lại khó. Phần này sẽ hơi khó vì nó là từ đơn, nhưng bạn vẫn có thể đoán nghĩa của các từ khó đó bằng cách tìm xem nó thuộc từ loại nào và được thành từ từ gốc nào. Đồng thời, dựa vào nghĩa của từ cho sẵn trong câu để suy nghĩa của các từ bạn không biết.<br><br><strong>Trường hợp 2:</strong> Biết nghĩa của các lựa chọn, nhưng không biết nghĩa của từ cho sẵn ở đề bài. Để làm được câu này, bạn sẽ dựa vào nghĩa của bốn từ lựa chọn và ngữ cảnh của câu để suy đoán nghĩa từ in đậm. Thường thì trong bốn lựa chọn sẽ có 3 lựa chọn đồng nghĩa với từ cho sẵn nếu câu đó yêu cầu từ trái nghĩa, và ngược lại sẽ có 3 lựa chọn trái nghĩa với từ cho sẵn nếu đề bài yêu cầu tìm từ đồng nghĩa. Kết hợp ngữ cảnh của câu cho sẵn để tìm ra đáp án đúng.</div>"
   },
   "exercises": [
     {
@@ -17,7 +17,7 @@
         "D. environment"
       ],
       "correctIndex": 0,
-      "explanation": "'Background' = nen, boi canh ~ 'position' (vị trí). Am thanh o phia sau, o vị trí nen."
+      "explanation": "'Background' = nền, bối cảnh ~ 'position' (vị trí). Âm thanh ở phía sau, ở vị trí nền."
     },
     {
       "id": 2,
@@ -30,7 +30,7 @@
         "D. helpful"
       ],
       "correctIndex": 1,
-      "explanation": "'Available' = co san, ton tai ~ 'existing' (dang ton tai). Internet chi co o thanh pho."
+      "explanation": "'Available' = có sẵn, tồn tại ~ 'existing' (đang tồn tại). Internet chỉ có ở thành phố."
     },
     {
       "id": 3,
@@ -43,7 +43,7 @@
         "D. destroying"
       ],
       "correctIndex": 0,
-      "explanation": "'Disappearing' = bien mat ~ 'vanishing' (bien mat). Dong vat hoang da dang bien mat nhanh."
+      "explanation": "'Disappearing' = biến mất ~ 'vanishing' (biến mất). Động vật hoang dã đang biến mất nhanh."
     },
     {
       "id": 4,
@@ -56,7 +56,7 @@
         "D. offered"
       ],
       "correctIndex": 0,
-      "explanation": "'Devoted' = cong hien, danh het ~ 'dedicated' (cong hien). Ca hai dong nghia."
+      "explanation": "'Devoted' = công hiến, dành hết ~ 'dedicated' (công hiến). Cả hai đồng nghĩa."
     },
     {
       "id": 5,
@@ -69,7 +69,7 @@
         "D. available position"
       ],
       "correctIndex": 3,
-      "explanation": "'Vacancy' = vị trí trong (cong viec) ~ 'available position'. Dang tuyen nhan vien."
+      "explanation": "'Vacancy' = vị trí trống (công việc) ~ 'available position'. Đang tuyển nhân viên."
     },
     {
       "id": 6,
@@ -82,7 +82,7 @@
         "D. stopped talking about"
       ],
       "correctIndex": 0,
-      "explanation": "'Lost touch with' = mat lien lac, khong con nam bat duoc ~ 'become unaware of' (khong con biet ve)."
+      "explanation": "'Lost touch with' = mất liên lạc, không còn nắm bắt được ~ 'become unaware of' (không còn biết về)."
     },
     {
       "id": 7,
@@ -95,7 +95,7 @@
         "D. redundant"
       ],
       "correctIndex": 2,
-      "explanation": "'Compulsory' = bat buoc ~ 'obligatory' (bat buoc). Luat bat buoc that day an toan."
+      "explanation": "'Compulsory' = bắt buộc ~ 'obligatory' (bắt buộc). Luật bắt buộc thắt dây an toàn."
     },
     {
       "id": 8,
@@ -108,7 +108,7 @@
         "D. Cause"
       ],
       "correctIndex": 1,
-      "explanation": "'Association' = moi lien he ~ 'connection' (su ket noi, lien quan). Co moi lien he giua thuoc tru sau va benh."
+      "explanation": "'Association' = mối liên hệ ~ 'connection' (sự kết nối, liên quan). Có mối liên hệ giữa thuốc trừ sâu và bệnh."
     },
     {
       "id": 9,
@@ -121,7 +121,7 @@
         "D. pay attention to"
       ],
       "correctIndex": 2,
-      "explanation": "'Make up her mind on' = quyet dinh ve ~ 'make a decision on'. Ca hai deu co nghia la dua ra quyet dinh."
+      "explanation": "'Make up her mind on' = quyết định về ~ 'make a decision on'. Cả hai đều có nghĩa là đưa ra quyết định."
     },
     {
       "id": 10,
@@ -134,7 +134,7 @@
         "D. boom"
       ],
       "correctIndex": 0,
-      "explanation": "'Depression' = suy thoai (kinh te) ~ 'recession' (suy thoai). Trong ngu canh thi truong chung khoan."
+      "explanation": "'Depression' = suy thoái (kinh tế) ~ 'recession' (suy thoái). Trong ngữ cảnh thị trường chứng khoán."
     },
     {
       "id": 11,
@@ -147,7 +147,7 @@
         "D. showed up"
       ],
       "correctIndex": 2,
-      "explanation": "'Appeared' = xuat hien >< 'vanished' = bien mat. Hai tu nay trai nghia nhau."
+      "explanation": "'Appeared' = xuất hiện >< 'vanished' = biến mất. Hai từ này trái nghĩa nhau."
     },
     {
       "id": 12,
@@ -160,7 +160,7 @@
         "D. serious"
       ],
       "correctIndex": 1,
-      "explanation": "'Major' = lon, chinh >< 'minor' = nho, phu. Hai tu nay trai nghia nhau."
+      "explanation": "'Major' = lớn, chính >< 'minor' = nhỏ, phụ. Hai từ này trái nghĩa nhau."
     },
     {
       "id": 13,
@@ -173,7 +173,7 @@
         "D. unclear"
       ],
       "correctIndex": 3,
-      "explanation": "'Obvious' = ro rang >< 'unclear' = khong ro rang. Hai tu nay trai nghia nhau."
+      "explanation": "'Obvious' = rõ ràng >< 'unclear' = không rõ ràng. Hai từ này trái nghĩa nhau."
     },
     {
       "id": 14,
@@ -186,7 +186,7 @@
         "D. reluctant"
       ],
       "correctIndex": 3,
-      "explanation": "'Willing' = san long >< 'reluctant' = mien cuong, do du. Hai tu nay trai nghia nhau."
+      "explanation": "'Willing' = sẵn lòng >< 'reluctant' = miễn cưỡng, do dự. Hai từ này trái nghĩa nhau."
     },
     {
       "id": 15,
@@ -199,7 +199,7 @@
         "D. bravery"
       ],
       "correctIndex": 1,
-      "explanation": "'Courage' = su dung cam >< 'cowardice' = su hen nhat. Hai tu nay trai nghia nhau."
+      "explanation": "'Courage' = sự dũng cảm >< 'cowardice' = sự hèn nhát. Hai từ này trái nghĩa nhau."
     },
     {
       "id": 16,
@@ -212,7 +212,7 @@
         "D. Carelessness"
       ],
       "correctIndex": 2,
-      "explanation": "'Distractions' = su xao nhang, mat tap trung >< 'attention' = su tap trung, chu y."
+      "explanation": "'Distractions' = sự xao nhãng, mất tập trung >< 'attention' = sự tập trung, chú ý."
     },
     {
       "id": 17,
@@ -225,7 +225,7 @@
         "D. suitable"
       ],
       "correctIndex": 2,
-      "explanation": "'Stable' = on dinh, lau dai >< 'short-term' = ngan han. Hai tu nay trai nghia nhau."
+      "explanation": "'Stable' = ổn định, lâu dài >< 'short-term' = ngắn hạn. Hai từ này trái nghĩa nhau."
     },
     {
       "id": 18,
@@ -238,7 +238,7 @@
         "D. By the time"
       ],
       "correctIndex": 1,
-      "explanation": "'Before' = truoc khi >< 'After' = sau khi. Hai tu nay trai nghia nhau."
+      "explanation": "'Before' = trước khi >< 'After' = sau khi. Hai từ này trái nghĩa nhau."
     },
     {
       "id": 19,
@@ -251,7 +251,7 @@
         "D. asked"
       ],
       "correctIndex": 2,
-      "explanation": "'Received' = nhan duoc >< 'gave' = cho, tang. Hai tu nay trai nghia nhau."
+      "explanation": "'Received' = nhận được >< 'gave' = cho, tặng. Hai từ này trái nghĩa nhau."
     }
   ]
 }

@@ -3,7 +3,7 @@
   "title": "Relative Clauses (Mệnh Đề Quan Hệ)",
   "section": "grammar",
   "knowledge": {
-    "html": "<h2>X. RELATIVE CLAUSES (MỆNH ĐỀ QUAN HE)</h2><h3>1. Cách sử dụng các đại từ quan hệ trong MDQH</h3><table class=\"grammar-table\"><tr><th></th><th>S (chủ ngữ)</th><th>O (tân ngữ)</th><th>P (sở hữu)</th></tr><tr><td>Danh từ chỉ người</td><td>Who/that</td><td>Who/whom/that</td><td>Whose</td></tr><tr><td>Danh từ chi vat</td><td>Which/that</td><td>Which/that</td><td>Whose</td></tr><tr><td>Dt vua người &amp; vat</td><td>That</td><td>That</td><td></td></tr><tr><td>Noi chon</td><td colspan=\"3\">Where = in/at/on which</td></tr><tr><td>Thoi gian</td><td colspan=\"3\">When = in/at/on which</td></tr><tr><td>Ly do</td><td colspan=\"3\">Why = for which</td></tr></table><h3>2. Các loại mệnh đề quan hệ</h3><h4>a. Mệnh đề quan hệ có giới hạn (không dấu phẩy)</h4><p>- Thuong dùng khi danh từ dùng trước DTQH co mạo từ \"a/an/the\".<br>- Bo \"who, whom, which, that\" khi no lam túc từ.</p><div class=\"example\">Ex: The book is interesting. I bought it yesterday.<br>=> The book (which) I bought yesterday is interesting.</div><h4>b. MDQH không gioi han (có dấu phẩy)</h4><p>- MDQH không gioi han xuất hiện khi danh từ dùng trước đại từ quan hệ la:</p><ul><li>Danh từ rieng</li><li>Danh từ co tính từ chi dinh (this/that/these/those)</li><li>Danh từ co tính từ sở hữu (my/his/her/your/their/our/its)</li><li>Sở hữu cách (Tom's,...)</li></ul><div class=\"example\">Ex: Tom, whom you met last night, is my son.<br>Ex: That man, who has sent you a gift, lives next door to me.<br>Ex: His book, which was bought last night, is interesting.<br>Ex: Lan's book, which was bought last night, is interesting.</div><p>- Không dung \"THAT\" trong MDQH không gioi han.<br>- Không được bo các đại từ quan hệ lam tân ngữ (WHO, WHOM, WHICH) va các trạng từ quan hệ trong MDQH không gioi han.<br>- Trong MDQH không gioi han, \"WHICH\" có thể dùng để bo nghia cho ca cau.</p><div class=\"example\">Ex: Peter failed again, which does not make us surprised.</div><p>- Khi muốn thêm thong tin ve toan bo hoặc 1 phân số vat hay người cu the, ta dung MDQH không gioi han với: of which, of whom, of whose, most of, half of, plenty of, some of, one of, neither of, all of, several of, both of, ten of, a few of...</p><div class=\"example\">Ex: I received two jobs offers, <strong>neither of which</strong> I accepted.<br>Ex: I have two friends, <strong>one of whose</strong> problems is poor study habit.</div><h3>3. Giới từ với đại từ quan hệ</h3><p>Trong mệnh đề quan hệ co giới từ thi giới từ có 2 vị trí dung:</p><ul><li>Giới từ dùng trước đại từ quan hệ hoặc giới từ dùng sau động từ.</li><li><strong>Lưu ý:</strong> Giới từ không dùng trước đại từ quan hệ \"who va that\".</li><li>Khi giới từ la thành phần của cum động từ thì không thể dem ra trước \"whom, which, whose\".</li><li>Giới từ \"WITHOUT\" không được dat sau động từ ma phải dat trước đại từ quan hệ.</li></ul><div class=\"example\">Ex: She is the woman <strong>about whom</strong> I told you.<br>She is the woman <strong>who/whom/that</strong> I told you about.<br>Ex: The woman <strong>without whom</strong> I can't live is Jane.</div><h3>4. Mệnh đề quan hệ rut gon</h3><table class=\"grammar-table\"><tr><th>Dang</th><th>Khi nào</th><th>Ví dụ</th></tr><tr><td><strong>V-ing</strong></td><td>Động từ trong MDQH o the chủ động</td><td>That man, <strong>standing</strong> over there, is my best friend.</td></tr><tr><td><strong>V3/ed</strong></td><td>Động từ trong MDQH o the bị động</td><td>The boy <strong>injured</strong> in the accident was taken to the hospital.</td></tr><tr><td><strong>To V</strong></td><td>Chủ ngữ dùng sau the first, the last, the next, the only, the one, so sánh nhất</td><td>He was the last man <strong>to leave</strong> the burning building.</td></tr></table>"
+    "html": "<h2>X. RELATIVE CLAUSES (MỆNH ĐỀ QUAN HỆ)</h2><h3>1. Cách sử dụng các đại từ quan hệ trong MDQH</h3><table class=\"grammar-table\"><tr><th></th><th>S (chủ ngữ)</th><th>O (tân ngữ)</th><th>P (sở hữu)</th></tr><tr><td>Danh từ chỉ người</td><td>Who/that</td><td>Who/whom/that</td><td>Whose</td></tr><tr><td>Danh từ chỉ vật</td><td>Which/that</td><td>Which/that</td><td>Whose</td></tr><tr><td>Dt vừa người &amp; vật</td><td>That</td><td>That</td><td></td></tr><tr><td>Nơi chốn</td><td colspan=\"3\">Where = in/at/on which</td></tr><tr><td>Thời gian</td><td colspan=\"3\">When = in/at/on which</td></tr><tr><td>Lý do</td><td colspan=\"3\">Why = for which</td></tr></table><h3>2. Các loại mệnh đề quan hệ</h3><h4>a. Mệnh đề quan hệ có giới hạn (không dấu phẩy)</h4><p>- Thường dùng khi danh từ dùng trước DTQH có mạo từ \"a/an/the\".<br>- Bỏ \"who, whom, which, that\" khi nó làm túc từ.</p><div class=\"example\">Ex: The book is interesting. I bought it yesterday.<br>=> The book (which) I bought yesterday is interesting.</div><h4>b. MDQH không giới hạn (có dấu phẩy)</h4><p>- MDQH không giới hạn xuất hiện khi danh từ dùng trước đại từ quan hệ là:</p><ul><li>Danh từ riêng</li><li>Danh từ có tính từ chỉ định (this/that/these/those)</li><li>Danh từ có tính từ sở hữu (my/his/her/your/their/our/its)</li><li>Sở hữu cách (Tom's,...)</li></ul><div class=\"example\">Ex: Tom, whom you met last night, is my son.<br>Ex: That man, who has sent you a gift, lives next door to me.<br>Ex: His book, which was bought last night, is interesting.<br>Ex: Lan's book, which was bought last night, is interesting.</div><p>- Không dùng \"THAT\" trong MDQH không giới hạn.<br>- Không được bỏ các đại từ quan hệ làm tân ngữ (WHO, WHOM, WHICH) và các trạng từ quan hệ trong MDQH không giới hạn.<br>- Trong MDQH không giới hạn, \"WHICH\" có thể dùng để bổ nghĩa cho cả câu.</p><div class=\"example\">Ex: Peter failed again, which does not make us surprised.</div><p>- Khi muốn thêm thông tin về toàn bộ hoặc 1 phần số vật hay người cụ thể, ta dùng MDQH không giới hạn với: of which, of whom, of whose, most of, half of, plenty of, some of, one of, neither of, all of, several of, both of, ten of, a few of...</p><div class=\"example\">Ex: I received two jobs offers, <strong>neither of which</strong> I accepted.<br>Ex: I have two friends, <strong>one of whose</strong> problems is poor study habit.</div><h3>3. Giới từ với đại từ quan hệ</h3><p>Trong mệnh đề quan hệ có giới từ thì giới từ có 2 vị trí dùng:</p><ul><li>Giới từ dùng trước đại từ quan hệ hoặc giới từ dùng sau động từ.</li><li><strong>Lưu ý:</strong> Giới từ không dùng trước đại từ quan hệ \"who và that\".</li><li>Khi giới từ là thành phần của cụm động từ thì không thể đem ra trước \"whom, which, whose\".</li><li>Giới từ \"WITHOUT\" không được đặt sau động từ mà phải đặt trước đại từ quan hệ.</li></ul><div class=\"example\">Ex: She is the woman <strong>about whom</strong> I told you.<br>She is the woman <strong>who/whom/that</strong> I told you about.<br>Ex: The woman <strong>without whom</strong> I can't live is Jane.</div><h3>4. Mệnh đề quan hệ rút gọn</h3><table class=\"grammar-table\"><tr><th>Dạng</th><th>Khi nào</th><th>Ví dụ</th></tr><tr><td><strong>V-ing</strong></td><td>Động từ trong MDQH ở thể chủ động</td><td>That man, <strong>standing</strong> over there, is my best friend.</td></tr><tr><td><strong>V3/ed</strong></td><td>Động từ trong MDQH ở thể bị động</td><td>The boy <strong>injured</strong> in the accident was taken to the hospital.</td></tr><tr><td><strong>To V</strong></td><td>Chủ ngữ dùng sau the first, the last, the next, the only, the one, so sánh nhất</td><td>He was the last man <strong>to leave</strong> the burning building.</td></tr></table>"
   },
   "exercises": [
     {
@@ -17,7 +17,7 @@
         "D. which"
       ],
       "correctIndex": 1,
-      "explanation": "'whose' chi so huu, dung truoc danh từ 'name'. => 'whose name means...'"
+      "explanation": "'whose' chỉ sở hữu, dùng trước danh từ 'name'. => 'whose name means...'"
     },
     {
       "id": 2,
@@ -30,7 +30,7 @@
         "D. of which"
       ],
       "correctIndex": 2,
-      "explanation": "'whose' chi so huu cho 'house' => 'whose windows'. Lưu ý: 'of which' (D) cung co the dung nhung can viet lai: 'the windows of which' hoac 'of which the windows'. Dang trong cau nay chi 'whose' la dung ngu phap."
+      "explanation": "'whose' chỉ sở hữu cho 'house' => 'whose windows'. Lưu ý: 'of which' (D) cũng có thể dùng nhưng cần viết lại: 'the windows of which' hoặc 'of which the windows'. Dạng trong câu này chỉ 'whose' là đúng ngữ pháp."
     },
     {
       "id": 3,
@@ -43,7 +43,7 @@
         "D. whom"
       ],
       "correctIndex": 0,
-      "explanation": "'paintings' la vat, can chu ngu => 'which'."
+      "explanation": "'paintings' là vật, cần chủ ngữ => 'which'."
     },
     {
       "id": 4,
@@ -56,7 +56,7 @@
         "D. when"
       ],
       "correctIndex": 1,
-      "explanation": "'restaurant' la vat, lam tan ngu cua 'recommended' => 'which'."
+      "explanation": "'restaurant' là vật, làm tân ngữ của 'recommended' => 'which'."
     },
     {
       "id": 5,
@@ -69,7 +69,7 @@
         "D. where"
       ],
       "correctIndex": 2,
-      "explanation": "MDQH khong gioi han (co dau phay), 'Bogota' la danh từ rieng chi vat => 'which'. Khong dung 'that' trong MDQH khong gioi han."
+      "explanation": "MDQH không giới hạn (có dấu phẩy), 'Bogota' là danh từ riêng chỉ vật => 'which'. Không dùng 'that' trong MDQH không giới hạn."
     },
     {
       "id": 6,
@@ -82,7 +82,7 @@
         "D. that"
       ],
       "correctIndex": 0,
-      "explanation": "'which' bo nghia cho ca mệnh đề truoc (viec Sally mat viec). Khong dung 'that' sau dau phay."
+      "explanation": "'which' bổ nghĩa cho cả mệnh đề trước (việc Sally mất việc). Không dùng 'that' sau dấu phẩy."
     },
     {
       "id": 7,
@@ -95,7 +95,7 @@
         "D. whom"
       ],
       "correctIndex": 0,
-      "explanation": "Khi danh từ vua chi nguoi vua chi vat ('the land and the people') => dung 'that'."
+      "explanation": "Khi danh từ vừa chỉ người vừa chỉ vật ('the land and the people') => dùng 'that'."
     },
     {
       "id": 8,
@@ -108,7 +108,7 @@
         "D. that I bought"
       ],
       "correctIndex": 3,
-      "explanation": "'that' lam tan ngu cua 'bought'. Khong them 'it' sau động từ."
+      "explanation": "'that' làm tân ngữ của 'bought'. Không thêm 'it' sau động từ."
     },
     {
       "id": 9,
@@ -121,7 +121,7 @@
         "D. why"
       ],
       "correctIndex": 2,
-      "explanation": "'what' = 'the thing which', lam tan ngu cua 'was saying'."
+      "explanation": "'what' = 'the thing which', làm tân ngữ của 'was saying'."
     },
     {
       "id": 10,
@@ -147,7 +147,7 @@
         "D. her"
       ],
       "correctIndex": 0,
-      "explanation": "'girl' la nguoi, lam tan ngu => 'whom'."
+      "explanation": "'girl' là người, làm tân ngữ => 'whom'."
     },
     {
       "id": 12,
@@ -160,7 +160,7 @@
         "D. whose"
       ],
       "correctIndex": 2,
-      "explanation": "Giới từ 'to' dung truoc dai tu quan hệ => dung 'whom' (khong dung 'that' sau giới từ)."
+      "explanation": "Giới từ 'to' dùng trước đại từ quan hệ => dùng 'whom' (không dùng 'that' sau giới từ)."
     },
     {
       "id": 13,
@@ -173,7 +173,7 @@
         "D. that"
       ],
       "correctIndex": 3,
-      "explanation": "'student' la nguoi, lam tan ngu cua 'met' => 'that' hoac 'whom' deu dung."
+      "explanation": "'student' là người, làm tân ngữ của 'met' => 'that' hoặc 'whom' đều dùng."
     },
     {
       "id": 14,
@@ -186,7 +186,7 @@
         "D. A and C"
       ],
       "correctIndex": 3,
-      "explanation": "'woman' la nguoi, lam chu ngu => 'who' hoac 'that' deu duoc."
+      "explanation": "'woman' là người, làm chủ ngữ => 'who' hoặc 'that' đều được."
     },
     {
       "id": 15,
@@ -199,7 +199,7 @@
         "D. both A&B"
       ],
       "correctIndex": 3,
-      "explanation": "'friend' la nguoi, lam tan ngu => 'whom' hoac 'who' deu duoc."
+      "explanation": "'friend' là người, làm tân ngữ => 'whom' hoặc 'who' đều được."
     },
     {
       "id": 16,
@@ -225,7 +225,7 @@
         "D. where"
       ],
       "correctIndex": 0,
-      "explanation": "'Wednesday' la thời gian => dung 'when' (= on which)."
+      "explanation": "'Wednesday' là thời gian => dùng 'when' (= on which)."
     },
     {
       "id": 18,
@@ -238,7 +238,7 @@
         "D. which"
       ],
       "correctIndex": 1,
-      "explanation": "'town' la noi chon => dung 'where' (= in which)."
+      "explanation": "'town' là nơi chốn => dùng 'where' (= in which)."
     },
     {
       "id": 19,
@@ -251,7 +251,7 @@
         "D. why"
       ],
       "correctIndex": 3,
-      "explanation": "'reason' di voi 'why' (= for which)."
+      "explanation": "'reason' đi với 'why' (= for which)."
     },
     {
       "id": 20,
@@ -264,7 +264,7 @@
         "D. whom"
       ],
       "correctIndex": 1,
-      "explanation": "'CD' la vat, lam tan ngu => 'which'."
+      "explanation": "'CD' là vật, làm tân ngữ => 'which'."
     },
     {
       "id": 21,
@@ -277,7 +277,7 @@
         "D. who"
       ],
       "correctIndex": 0,
-      "explanation": "'day' la thời gian => 'when'."
+      "explanation": "'day' là thời gian => 'when'."
     },
     {
       "id": 22,
@@ -290,7 +290,7 @@
         "D. which"
       ],
       "correctIndex": 0,
-      "explanation": "'secretary' la nguoi, lam chu ngu => 'who'."
+      "explanation": "'secretary' là người, làm chủ ngữ => 'who'."
     },
     {
       "id": 23,
@@ -303,7 +303,7 @@
         "D. , which"
       ],
       "correctIndex": 2,
-      "explanation": "Danh từ rieng 'Paul O'Grady' => MDQH khong gioi han (co dau phay), lam chu ngu => ', who'."
+      "explanation": "Danh từ riêng 'Paul O'Grady' => MDQH không giới hạn (có dấu phẩy), làm chủ ngữ => ', who'."
     },
     {
       "id": 24,
@@ -316,7 +316,7 @@
         "D. where"
       ],
       "correctIndex": 0,
-      "explanation": "'music' la vat, lam chu ngu => 'which'."
+      "explanation": "'music' là vật, làm chủ ngữ => 'which'."
     },
     {
       "id": 25,
@@ -329,7 +329,7 @@
         "D. whom"
       ],
       "correctIndex": 2,
-      "explanation": "'whose' chi so huu, dung truoc danh từ 'daughter'."
+      "explanation": "'whose' chỉ sở hữu, dùng trước danh từ 'daughter'."
     },
     {
       "id": 26,
@@ -342,7 +342,7 @@
         "D. both A&B"
       ],
       "correctIndex": 3,
-      "explanation": "'pen' la vat, lam chu ngu => 'that' hoac 'which' deu duoc."
+      "explanation": "'pen' là vật, làm chủ ngữ => 'that' hoặc 'which' đều được."
     },
     {
       "id": 27,
@@ -355,7 +355,7 @@
         "D. both A&B"
       ],
       "correctIndex": 1,
-      "explanation": "'shopping center' la noi chon => 'where'."
+      "explanation": "'shopping center' là nơi chốn => 'where'."
     },
     {
       "id": 28,
@@ -368,7 +368,7 @@
         "D. Ø"
       ],
       "correctIndex": 3,
-      "explanation": "'book' la vat lam tan ngu => co the bo dai tu quan hệ (zero relative pronoun)."
+      "explanation": "'book' là vật làm tân ngữ => có thể bỏ đại từ quan hệ (zero relative pronoun)."
     },
     {
       "id": 29,
@@ -381,7 +381,7 @@
         "D. who"
       ],
       "correctIndex": 0,
-      "explanation": "'meat' la vat, lam tan ngu cua 'made' => 'which'."
+      "explanation": "'meat' là vật, làm tân ngữ của 'made' => 'which'."
     },
     {
       "id": 30,
@@ -394,7 +394,7 @@
         "D. Ø"
       ],
       "correctIndex": 2,
-      "explanation": "'Oxford' la noi chon => 'where'."
+      "explanation": "'Oxford' là nơi chốn => 'where'."
     },
     {
       "id": 31,
@@ -405,7 +405,7 @@
         "which",
         "that"
       ],
-      "explanation": "'car' la vat, lam chu ngu => 'which' hoac 'that'."
+      "explanation": "'car' là vật, làm chủ ngữ => 'which' hoặc 'that'."
     },
     {
       "id": 32,
@@ -415,7 +415,7 @@
       "acceptedAnswers": [
         "whose"
       ],
-      "explanation": "'whose' chi so huu, dung truoc 'mother'."
+      "explanation": "'whose' chỉ sở hữu, dùng trước 'mother'."
     },
     {
       "id": 33,
@@ -425,7 +425,7 @@
       "acceptedAnswers": [
         "who"
       ],
-      "explanation": "Danh từ rieng 'Mr John' => MDQH khong gioi han, chu ngu => 'who'."
+      "explanation": "Danh từ riêng 'Mr John' => MDQH không giới hạn, chủ ngữ => 'who'."
     },
     {
       "id": 34,
@@ -437,7 +437,7 @@
         "whom",
         "that"
       ],
-      "explanation": "'person' la nguoi, lam tan ngu => 'who/whom/that'."
+      "explanation": "'person' là người, làm tân ngữ => 'who/whom/that'."
     },
     {
       "id": 35,
@@ -448,7 +448,7 @@
         "which",
         "that"
       ],
-      "explanation": "'book' la vat, lam tan ngu => 'which' hoac 'that'."
+      "explanation": "'book' là vật, làm tân ngữ => 'which' hoặc 'that'."
     },
     {
       "id": 36,
@@ -458,7 +458,7 @@
       "acceptedAnswers": [
         "which"
       ],
-      "explanation": "So huu cach 'Linda's' => MDQH khong gioi han => 'which'."
+      "explanation": "Sở hữu cách 'Linda's' => MDQH không giới hạn => 'which'."
     },
     {
       "id": 37,
@@ -468,7 +468,7 @@
       "acceptedAnswers": [
         "whose"
       ],
-      "explanation": "'whose' chi so huu, dung truoc 'author'."
+      "explanation": "'whose' chỉ sở hữu, dùng trước 'author'."
     },
     {
       "id": 38,
@@ -479,7 +479,7 @@
         "who",
         "that"
       ],
-      "explanation": "'football player' la nguoi, lam chu ngu => 'who/that'."
+      "explanation": "'football player' là người, làm chủ ngữ => 'who/that'."
     },
     {
       "id": 39,
@@ -489,7 +489,7 @@
       "acceptedAnswers": [
         "whose"
       ],
-      "explanation": "'whose' chi so huu => 'whose fans'."
+      "explanation": "'whose' chỉ sở hữu => 'whose fans'."
     },
     {
       "id": 40,
@@ -500,7 +500,7 @@
         "which",
         "that"
       ],
-      "explanation": "'exam' la vat, lam tan ngu => 'which/that'."
+      "explanation": "'exam' là vật, làm tân ngữ => 'which/that'."
     },
     {
       "id": 41,
@@ -509,7 +509,7 @@
       "correctSentence": "That is the man who told me the bad news.",
       "errorWord": "who he",
       "correction": "who",
-      "explanation": "'who' da la chu ngu, khong can them 'he' nua."
+      "explanation": "'who' đã là chủ ngữ, không cần thêm 'he' nữa."
     },
     {
       "id": 42,
@@ -518,7 +518,7 @@
       "correctSentence": "The singer about whom I told you yesterday is coming here tomorrow.",
       "errorWord": "who",
       "correction": "whom",
-      "explanation": "Sau giới từ 'about' phai dung 'whom', khong dung 'who'."
+      "explanation": "Sau giới từ 'about' phải dùng 'whom', không dùng 'who'."
     },
     {
       "id": 43,
@@ -527,7 +527,7 @@
       "correctSentence": "That commentator, whose name I have forgotten, is very well-known.",
       "errorWord": "his name",
       "correction": "whose name",
-      "explanation": "Dung 'whose' de chi so huu trong MDQH, khong dung 'his'."
+      "explanation": "Dùng 'whose' để chỉ sở hữu trong MDQH, không dùng 'his'."
     },
     {
       "id": 44,
@@ -536,7 +536,7 @@
       "correctSentence": "The gangsters for whom the police are looking robbed the bank yesterday.",
       "errorWord": "who",
       "correction": "whom",
-      "explanation": "Sau giới từ 'for' phai dung 'whom'."
+      "explanation": "Sau giới từ 'for' phải dùng 'whom'."
     },
     {
       "id": 45,
@@ -545,7 +545,7 @@
       "correctSentence": "Surprisingly, the number of people who enjoy wave surfing is almost double that of last year.",
       "errorWord": "whom",
       "correction": "who",
-      "explanation": "'people' lam chu ngu cua 'enjoy' => dung 'who', khong dung 'whom'."
+      "explanation": "'people' làm chủ ngữ của 'enjoy' => dùng 'who', không dùng 'whom'."
     },
     {
       "id": 46,
@@ -554,7 +554,7 @@
       "correctSentence": "Do you know the reason why English people travel to the left?",
       "errorWord": "when",
       "correction": "why",
-      "explanation": "'reason' di voi 'why' (= for which), khong dung 'when'."
+      "explanation": "'reason' đi với 'why' (= for which), không dùng 'when'."
     },
     {
       "id": 47,
@@ -563,7 +563,7 @@
       "correctSentence": "She is the most beautiful woman whom I have ever met.",
       "errorWord": "whose",
       "correction": "whom",
-      "explanation": "'woman' lam tan ngu cua 'met' => dung 'who/whom', khong dung 'whose'."
+      "explanation": "'woman' làm tân ngữ của 'met' => dùng 'who/whom', không dùng 'whose'."
     },
     {
       "id": 48,
@@ -572,7 +572,7 @@
       "correctSentence": "It is complicated because pollution is caused by things which/that benefit people.",
       "errorWord": "when",
       "correction": "which/that",
-      "explanation": "'things' la vat, lam chu ngu cua 'benefit' => dung 'which/that'."
+      "explanation": "'things' là vật, làm chủ ngữ của 'benefit' => dùng 'which/that'."
     },
     {
       "id": 49,
@@ -585,7 +585,7 @@
         "I don't like the man who is going out with my sister.",
         "I don't like the man that is going out with my sister."
       ],
-      "explanation": "'the man' la nguoi, lam chu ngu => dung 'who' hoac 'that'."
+      "explanation": "'the man' là người, làm chủ ngữ => dùng 'who' hoặc 'that'."
     },
     {
       "id": 50,
@@ -594,7 +594,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "Charlie",
       "answer": "Charlie Chaplin, who was from a poor family, became a very rich man.",
-      "explanation": "Danh từ rieng => MDQH khong gioi han voi 'who'."
+      "explanation": "Danh từ riêng => MDQH không giới hạn với 'who'."
     },
     {
       "id": 51,
@@ -603,7 +603,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "That",
       "answer": "That bike which/that he wanted to buy was too expensive.",
-      "explanation": "'bike' la vat, lam tan ngu cua 'buy' => 'which/that'."
+      "explanation": "'bike' là vật, làm tân ngữ của 'buy' => 'which/that'."
     },
     {
       "id": 52,
@@ -616,7 +616,7 @@
         "I have just greeted the girl who is sitting next to my brother.",
         "I have just greeted the girl that is sitting next to my brother."
       ],
-      "explanation": "'the girl' la nguoi, lam chu ngu => 'who' hoac 'that'."
+      "explanation": "'the girl' là người, làm chủ ngữ => 'who' hoặc 'that'."
     },
     {
       "id": 53,
@@ -629,7 +629,7 @@
         "Is David the student who gets the best marks in your class?",
         "Is David the student that gets the best marks in your class?"
       ],
-      "explanation": "'the student' la nguoi, lam chu ngu => 'who' hoac 'that'."
+      "explanation": "'the student' là người, làm chủ ngữ => 'who' hoặc 'that'."
     },
     {
       "id": 54,
@@ -638,7 +638,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "We met at the",
       "answer": "We met at the restaurant which/that Sally recommended to us.",
-      "explanation": "'restaurant' la vat, lam tan ngu => 'which/that'."
+      "explanation": "'restaurant' là vật, làm tân ngữ => 'which/that'."
     },
     {
       "id": 55,
@@ -647,7 +647,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "The headmaster phoned",
       "answer": "The headmaster phoned Mrs Brown whose daughter didn't come to school yesterday.",
-      "explanation": "'Her daughter' => 'whose daughter' chi so huu."
+      "explanation": "'Her daughter' => 'whose daughter' chỉ sở hữu."
     },
     {
       "id": 56,
@@ -656,7 +656,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "Can I",
       "answer": "Can I borrow the book which/that you enjoyed reading last week?",
-      "explanation": "'book' la vat, lam tan ngu => 'which/that'."
+      "explanation": "'book' là vật, làm tân ngữ => 'which/that'."
     },
     {
       "id": 57,
@@ -665,7 +665,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "The first",
       "answer": "The first boy who has just moved knows the truth.",
-      "explanation": "'boy' la nguoi, lam chu ngu => 'who'."
+      "explanation": "'boy' là người, làm chủ ngữ => 'who'."
     },
     {
       "id": 58,
@@ -679,7 +679,7 @@
         "I don't remember the man who you said you met at the canteen last week.",
         "I don't remember the man that you said you met at the canteen last week."
       ],
-      "explanation": "'the man' la nguoi, lam tan ngu => 'who/whom/that'."
+      "explanation": "'the man' là người, làm tân ngữ => 'who/whom/that'."
     },
     {
       "id": 59,
@@ -688,7 +688,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "She left here without",
       "answer": "She left here without saying goodbye, which made me sad.",
-      "explanation": "'which' bo nghia cho ca mệnh đề truoc."
+      "explanation": "'which' bổ nghĩa cho cả mệnh đề trước."
     },
     {
       "id": 60,
@@ -697,7 +697,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "The children often",
       "answer": "The children often go swimming on Sundays, when they have much free time.",
-      "explanation": "'Sundays' la thời gian => 'when'."
+      "explanation": "'Sundays' là thời gian => 'when'."
     },
     {
       "id": 61,
@@ -706,7 +706,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "They're looking for",
       "answer": "They're looking for the man and his dog that have lost the way in the forest.",
-      "explanation": "Vua nguoi vua vat ('the man and his dog') => dung 'that'."
+      "explanation": "Vừa người vừa vật ('the man and his dog') => dùng 'that'."
     },
     {
       "id": 62,
@@ -715,7 +715,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "That",
       "answer": "That tree which/that stands near the gate of my house has lovely flowers.",
-      "explanation": "'tree' la vat, lam chu ngu => 'which/that'."
+      "explanation": "'tree' là vật, làm chủ ngữ => 'which/that'."
     },
     {
       "id": 63,
@@ -724,7 +724,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "My",
       "answer": "My wife, to whom you were speaking, wants you to come to dinner.",
-      "explanation": "'speak to someone' => 'to whom' trong MDQH khong gioi han."
+      "explanation": "'speak to someone' => 'to whom' trong MDQH không giới hạn."
     },
     {
       "id": 64,
@@ -733,7 +733,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "Patrick",
       "answer": "Patrick will never forget the day when his son was born.",
-      "explanation": "'the day' la thời gian => 'when'."
+      "explanation": "'the day' là thời gian => 'when'."
     },
     {
       "id": 65,
@@ -742,7 +742,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "Let's",
       "answer": "Let's take the children to the park which/that has a nice playground.",
-      "explanation": "'park' la vat, lam chu ngu => 'which/that'."
+      "explanation": "'park' là vật, làm chủ ngữ => 'which/that'."
     },
     {
       "id": 66,
@@ -751,7 +751,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "Do you",
       "answer": "Do you remember Jenny, who used to work in my office?",
-      "explanation": "Danh từ rieng 'Jenny' => MDQH khong gioi han => ', who'."
+      "explanation": "Danh từ riêng 'Jenny' => MDQH không giới hạn => ', who'."
     },
     {
       "id": 67,
@@ -760,7 +760,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "You should go to the new",
       "answer": "You should go to the new shopping centre where there are a lot of fashionable shops.",
-      "explanation": "'shopping centre' la noi chon => 'where'."
+      "explanation": "'shopping centre' là nơi chốn => 'where'."
     },
     {
       "id": 68,
@@ -769,7 +769,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "Why don't you wear",
       "answer": "Why don't you wear the blue sweater which/that I gave to you at Christmas?",
-      "explanation": "'sweater' la vat, lam tan ngu => 'which/that'."
+      "explanation": "'sweater' là vật, làm tân ngữ => 'which/that'."
     },
     {
       "id": 69,
@@ -778,7 +778,7 @@
       "correctSentence": "Mother's Day is the day when children show their love to their mother.",
       "errorWord": "on",
       "correction": "(remove 'on')",
-      "explanation": "'when' da thay the cho 'on the day', nen khong can them 'on' o cuoi cau."
+      "explanation": "'when' đã thay thế cho 'on the day', nên không cần thêm 'on' ở cuối câu."
     },
     {
       "id": 70,
@@ -787,7 +787,7 @@
       "correctSentence": "Every student who majors in English is ready to participate in the orchard contest.",
       "errorWord": "are",
       "correction": "is",
-      "explanation": "'Every student' la chu ngu số ít => động từ chia số ít: 'is ready'."
+      "explanation": "'Every student' là chủ ngữ số ít => động từ chia số ít: 'is ready'."
     }
   ]
 }

@@ -3,7 +3,7 @@
   "title": "Quantifiers (Lượng Từ)",
   "section": "grammar",
   "knowledge": {
-    "html": "<h2>XIII. QUANTIFIERS (LƯỢNG TỪ)</h2><table class=\"grammar-table\"><tr><th>Cách dùng</th><th>MANY</th><th>MUCH</th></tr><tr><td>Diễn đạt ý nghĩa la <strong>\"NHIỀU\"</strong></td><td>MANY = a large number of / a great many / a majority of / a wide variety of / a wide range of<br>- Dùng với danh từ đếm được.</td><td>MUCH = a great deal of / a large amount of...<br>- Dùng với danh từ không đếm được.</td></tr><tr><td colspan=\"3\"><strong>MANY + MUCH = A lot of / lots of / plenty of / a (large) quantity of</strong><br>(Dùng với ca danh từ ca đếm được va không đếm được).</td></tr></table><table class=\"grammar-table\"><tr><th>Ý nghĩa</th><th>Đếm được</th><th>Không đếm được</th></tr><tr><td><strong>\"MỘT ÍT\"</strong></td><td>A FEW - Dùng với danh từ đếm được.</td><td>A LITTLE - Dùng với danh từ không đếm được.</td></tr><tr><td><strong>\"HAU NHU KHƠNG / RAT IT\"</strong></td><td>FEW - Dùng với danh từ đếm được.</td><td>LITTLE - Dùng với danh từ không đếm được.</td></tr></table><table class=\"grammar-table\"><tr><th>Ý nghĩa</th><th>Cách dùng</th></tr><tr><td><strong>\"MOT VAI\" - SOME</strong></td><td>Dùng trong cau khẳng định va trong cau nghi vấn khi mang y moi/đề nghị.</td></tr><tr><td><strong>\"BẤT CỨ\" - ANY</strong></td><td>Dùng trong câu phủ định, nghi vấn va dùng trong cau khẳng định khi no mang ý nghĩa la \"bat cu\".</td></tr><tr><td><strong>\"TAT CA\" - ALL</strong></td><td>Dùng để chi tu ba người/vat (tat ca) tro len.</td></tr><tr><td><strong>\"CA HAI\" - BOTH</strong></td><td>Dùng để chi ca hai người/vat (ca hai).</td></tr><tr><td><strong>\"KHƠNG\" - NONE</strong></td><td>Dùng để chi tu ba người/vat tro len deu không.</td></tr><tr><td><strong>\"KHƠNG\" - NEITHER/EITHER</strong></td><td>Dùng để chi ca hai người/vat deu không.<br>+ Neither: dùng trong cau khẳng định.<br>+ Either: dùng trong cau phủ định.</td></tr><tr><td><strong>\"HAU HET\" - MOST</strong></td><td>Most + N = most of + the/tính từ sở hữu + N</td></tr></table><p class=\"vi\"><strong>Lưu ý:</strong> MOSTLY (chu yeu la): dùng như một trạng từ. ALMOST (gan nhu): dùng như một trạng từ bo tro cho động từ, tính từ, danh từ.</p><table class=\"grammar-table\"><tr><th>Ý nghĩa</th><th>EACH</th><th>EVERY</th></tr><tr><td><strong>\"MOI/MOI\"</strong></td><td colspan=\"2\">EACH/EVERY: dùng với danh từ đếm được số it.</td></tr><tr><td></td><td></td><td>Dùng với danh từ số nhiều khi co số lượng cu the.</td></tr></table><table class=\"grammar-table\"><tr><th>Ý nghĩa</th><th>OTHER</th><th>ANOTHER</th></tr><tr><td><strong>\"CÁI KHÁC/NGƯỜI KHÁC\"</strong></td><td>- Other + danh từ không đếm được.<br>- Other + danh từ số nhiều.<br>- Other + ones.<br>- Others được sử dụng như đại từ.</td><td>- Another + danh từ số it.<br>- Another + one.<br>- Another + so dem + danh từ số nhiều.<br>- Another được sử dụng như đại từ.</td></tr></table><p><strong>Su khác nhau giữa THE OTHER - THE OTHERS:</strong></p><ul><li><strong>The other:</strong> cai còn lại trong hai cai, hoặc người còn lại trong hai người.</li><li><strong>The others:</strong> những cái còn lại hoặc những người còn lại trong một nhom co nhiều thu hoặc nhiều người.</li></ul>"
+    "html": "<h2>XIII. QUANTIFIERS (LƯỢNG TỪ)</h2><table class=\"grammar-table\"><tr><th>Cách dùng</th><th>MANY</th><th>MUCH</th></tr><tr><td>Diễn đạt ý nghĩa là <strong>\"NHIỀU\"</strong></td><td>MANY = a large number of / a great many / a majority of / a wide variety of / a wide range of<br>- Dùng với danh từ đếm được.</td><td>MUCH = a great deal of / a large amount of...<br>- Dùng với danh từ không đếm được.</td></tr><tr><td colspan=\"3\"><strong>MANY + MUCH = A lot of / lots of / plenty of / a (large) quantity of</strong><br>(Dùng với cả danh từ cả đếm được và không đếm được).</td></tr></table><table class=\"grammar-table\"><tr><th>Ý nghĩa</th><th>Đếm được</th><th>Không đếm được</th></tr><tr><td><strong>\"MỘT ÍT\"</strong></td><td>A FEW - Dùng với danh từ đếm được.</td><td>A LITTLE - Dùng với danh từ không đếm được.</td></tr><tr><td><strong>\"HẦU NHƯ KHÔNG / RẤT ÍT\"</strong></td><td>FEW - Dùng với danh từ đếm được.</td><td>LITTLE - Dùng với danh từ không đếm được.</td></tr></table><table class=\"grammar-table\"><tr><th>Ý nghĩa</th><th>Cách dùng</th></tr><tr><td><strong>\"MỘT VÀI\" - SOME</strong></td><td>Dùng trong câu khẳng định và trong câu nghi vấn khi mang ý mời/đề nghị.</td></tr><tr><td><strong>\"BẤT CỨ\" - ANY</strong></td><td>Dùng trong câu phủ định, nghi vấn và dùng trong câu khẳng định khi nó mang ý nghĩa là \"bất cứ\".</td></tr><tr><td><strong>\"TẤT CẢ\" - ALL</strong></td><td>Dùng để chỉ từ ba người/vật (tất cả) trở lên.</td></tr><tr><td><strong>\"CẢ HAI\" - BOTH</strong></td><td>Dùng để chỉ cả hai người/vật (cả hai).</td></tr><tr><td><strong>\"KHÔNG\" - NONE</strong></td><td>Dùng để chỉ từ ba người/vật trở lên đều không.</td></tr><tr><td><strong>\"KHÔNG\" - NEITHER/EITHER</strong></td><td>Dùng để chỉ cả hai người/vật đều không.<br>+ Neither: dùng trong câu khẳng định.<br>+ Either: dùng trong câu phủ định.</td></tr><tr><td><strong>\"HẦU HẾT\" - MOST</strong></td><td>Most + N = most of + the/tính từ sở hữu + N</td></tr></table><p class=\"vi\"><strong>Lưu ý:</strong> MOSTLY (chủ yếu là): dùng như một trạng từ. ALMOST (gần như): dùng như một trạng từ bổ trợ cho động từ, tính từ, danh từ.</p><table class=\"grammar-table\"><tr><th>Ý nghĩa</th><th>EACH</th><th>EVERY</th></tr><tr><td><strong>\"MỖI/MỌI\"</strong></td><td colspan=\"2\">EACH/EVERY: dùng với danh từ đếm được số ít.</td></tr><tr><td></td><td></td><td>Dùng với danh từ số nhiều khi có số lượng cụ thể.</td></tr></table><table class=\"grammar-table\"><tr><th>Ý nghĩa</th><th>OTHER</th><th>ANOTHER</th></tr><tr><td><strong>\"CÁI KHÁC/NGƯỜI KHÁC\"</strong></td><td>- Other + danh từ không đếm được.<br>- Other + danh từ số nhiều.<br>- Other + ones.<br>- Others được sử dụng như đại từ.</td><td>- Another + danh từ số ít.<br>- Another + one.<br>- Another + số đếm + danh từ số nhiều.<br>- Another được sử dụng như đại từ.</td></tr></table><p><strong>Sự khác nhau giữa THE OTHER - THE OTHERS:</strong></p><ul><li><strong>The other:</strong> cái còn lại trong hai cái, hoặc người còn lại trong hai người.</li><li><strong>The others:</strong> những cái còn lại hoặc những người còn lại trong một nhóm có nhiều thứ hoặc nhiều người.</li></ul>"
   },
   "exercises": [
     {
@@ -17,7 +17,7 @@
         "D. too"
       ],
       "correctIndex": 1,
-      "explanation": "'money' la danh từ khong đếm được. 'a lot of' dung duoc voi ca đếm được va khong đếm được."
+      "explanation": "'money' là danh từ không đếm được. 'a lot of' dùng được với cả đếm được và không đếm được."
     },
     {
       "id": 2,
@@ -30,7 +30,7 @@
         "D. little"
       ],
       "correctIndex": 2,
-      "explanation": "'organizations' la danh từ đếm được số nhiều => 'many'."
+      "explanation": "'organizations' là danh từ đếm được số nhiều => 'many'."
     },
     {
       "id": 3,
@@ -43,7 +43,7 @@
         "D. some"
       ],
       "correctIndex": 0,
-      "explanation": "'time' la danh từ khong đếm được => 'a little' (mot it)."
+      "explanation": "'time' là danh từ không đếm được => 'a little' (một ít)."
     },
     {
       "id": 4,
@@ -56,7 +56,7 @@
         "D. little"
       ],
       "correctIndex": 0,
-      "explanation": "'Very few' = rat it (mang nghia phủ định). 'people' la đếm được => 'few'."
+      "explanation": "'Very few' = rất ít (mang nghĩa phủ định). 'people' là đếm được => 'few'."
     },
     {
       "id": 5,
@@ -69,7 +69,7 @@
         "D. some"
       ],
       "correctIndex": 1,
-      "explanation": "'fun' la danh từ khong đếm được => 'much'. 'so much fun' = vui den the."
+      "explanation": "'fun' là danh từ không đếm được => 'much'. 'so much fun' = vui đến thế."
     },
     {
       "id": 6,
@@ -82,7 +82,7 @@
         "D. few"
       ],
       "correctIndex": 3,
-      "explanation": "'fortunately' (may man) + it nguoi bi thuong => 'few' (rat it, mang y tich cuc khi di voi fortunately)."
+      "explanation": "'fortunately' (may mắn) + ít người bị thương => 'few' (rất ít, mang ý tích cực khi đi với fortunately)."
     },
     {
       "id": 7,
@@ -95,7 +95,7 @@
         "D. a great deal of"
       ],
       "correctIndex": 1,
-      "explanation": "'photographs' la đếm được. Trong cau phủ định, 'a lot of' van dung duoc. Chon C sai vi 'many of' phai theo sau boi the/these/those/my... + noun (e.g., 'many of the photographs'), khong dung 'many of' truoc danh từ tran."
+      "explanation": "'photographs' là đếm được. Trong câu phủ định, 'a lot of' vẫn dùng được. Chọn C sai vì 'many of' phải theo sau bởi the/these/those/my... + noun (e.g., 'many of the photographs'), không dùng 'many of' trước danh từ trần."
     },
     {
       "id": 8,
@@ -108,7 +108,7 @@
         "D. The number of"
       ],
       "correctIndex": 0,
-      "explanation": "'the students' co mạo từ 'the' => dung 'Most of the students'."
+      "explanation": "'the students' có mạo từ 'the' => dùng 'Most of the students'."
     },
     {
       "id": 9,
@@ -121,7 +121,7 @@
         "D. plenty of"
       ],
       "correctIndex": 1,
-      "explanation": "Luon ban => hau nhu khong co thời gian => 'little' (rat it, mang nghia phủ định)."
+      "explanation": "Luôn bận => hầu như không có thời gian => 'little' (rất ít, mang nghĩa phủ định)."
     },
     {
       "id": 10,
@@ -134,7 +134,7 @@
         "D. a little"
       ],
       "correctIndex": 2,
-      "explanation": "'salt' la khong đếm được + 'so...that' => 'so much salt that'."
+      "explanation": "'salt' là không đếm được + 'so...that' => 'so much salt that'."
     },
     {
       "id": 11,
@@ -147,7 +147,7 @@
         "D. Many of"
       ],
       "correctIndex": 2,
-      "explanation": "'the time' co mạo từ => 'Most of the time'."
+      "explanation": "'the time' có mạo từ => 'Most of the time'."
     },
     {
       "id": 12,
@@ -160,7 +160,7 @@
         "D. many"
       ],
       "correctIndex": 3,
-      "explanation": "'students' la đếm được => 'How many'."
+      "explanation": "'students' là đếm được => 'How many'."
     },
     {
       "id": 13,
@@ -173,7 +173,7 @@
         "D. a great deal of"
       ],
       "correctIndex": 2,
-      "explanation": "'feel sorry' => thuong co ay vi co rat it ban => 'few' (phủ định)."
+      "explanation": "'feel sorry' => thương cô ấy vì có rất ít bạn => 'few' (phủ định)."
     },
     {
       "id": 14,
@@ -186,7 +186,7 @@
         "D. a large number of"
       ],
       "correctIndex": 0,
-      "explanation": "'my spare time' co tính từ so huu => 'most of my spare time'."
+      "explanation": "'my spare time' có tính từ sở hữu => 'most of my spare time'."
     },
     {
       "id": 15,
@@ -199,7 +199,7 @@
         "D. many"
       ],
       "correctIndex": 3,
-      "explanation": "'friends' la đếm được + 'so...as' => 'so many friends as'."
+      "explanation": "'friends' là đếm được + 'so...as' => 'so many friends as'."
     },
     {
       "id": 16,
@@ -212,7 +212,7 @@
         "D. a few"
       ],
       "correctIndex": 0,
-      "explanation": "'hope' la khong đếm được + 'didn't know how to keep going' (tieu cuc) => 'little' (hau nhu khong)."
+      "explanation": "'hope' là không đếm được + 'didn't know how to keep going' (tiêu cực) => 'little' (hầu như không)."
     },
     {
       "id": 17,
@@ -225,7 +225,7 @@
         "D. a great deal of"
       ],
       "correctIndex": 1,
-      "explanation": "'money' la khong đếm được => 'How much'."
+      "explanation": "'money' là không đếm được => 'How much'."
     },
     {
       "id": 18,
@@ -238,7 +238,7 @@
         "D. a little"
       ],
       "correctIndex": 2,
-      "explanation": "'books' la đếm được + 'only' + nghia tich cuc (interesting) => 'a few'."
+      "explanation": "'books' là đếm được + 'only' + nghĩa tích cực (interesting) => 'a few'."
     },
     {
       "id": 19,
@@ -251,7 +251,7 @@
         "D. a little"
       ],
       "correctIndex": 0,
-      "explanation": "'money' la khong đếm được => 'too much money'."
+      "explanation": "'money' là không đếm được => 'too much money'."
     },
     {
       "id": 20,
@@ -264,7 +264,7 @@
         "D. Little"
       ],
       "correctIndex": 0,
-      "explanation": "'Indian men' la đếm được số nhiều => 'Many'."
+      "explanation": "'Indian men' là đếm được số nhiều => 'Many'."
     }
   ]
 }
