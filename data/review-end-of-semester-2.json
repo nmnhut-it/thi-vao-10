@@ -12,10 +12,10 @@
       "section": "[Đề 1 - Phát âm]",
       "question": "[Đề 1 - Phát âm]\nChọn từ có phần gạch chân phát âm khác.",
       "options": [
-        "A. pole",
-        "B. global",
-        "C. social",
-        "D. word"
+        "A. p<u>o</u>le",
+        "B. gl<u>o</u>bal",
+        "C. s<u>o</u>cial",
+        "D. w<u>o</u>rd"
       ],
       "correctIndex": 3,
       "explanation": "'pole, global, social' có 'o' phát âm /əʊ/. Riêng 'word' có 'o' phát âm /ɜː/ (như 'er'). → 'word' khác."
@@ -26,10 +26,10 @@
       "section": "[Đề 1 - Phát âm]",
       "question": "[Đề 1 - Phát âm]\nChọn từ có 'ed' phát âm khác.",
       "options": [
-        "A. raised",
-        "B. possessed",
-        "C. passed",
-        "D. looked"
+        "A. rais<u>ed</u>",
+        "B. possess<u>ed</u>",
+        "C. pass<u>ed</u>",
+        "D. look<u>ed</u>"
       ],
       "correctIndex": 0,
       "explanation": "'raised' đọc 'ed' là /d/ (sau âm hữu thanh /z/). 'possessed, passed, looked' đọc 'ed' là /t/ (sau âm vô thanh). → A khác."
@@ -572,10 +572,10 @@
       "section": "[Đề 2 - Phát âm]",
       "question": "[Đề 2 - Phát âm]\nChọn từ có âm 'a' phát âm khác.",
       "options": [
-        "A. appreciate",
-        "B. habitat",
-        "C. agency",
-        "D. chain"
+        "A. <u>a</u>ppreciate",
+        "B. h<u>a</u>bitat",
+        "C. <u>a</u>gency",
+        "D. ch<u>a</u>in"
       ],
       "correctIndex": 1,
       "explanation": "agency, chain có 'a' = /eɪ/; appreciate có 'a' trong '-ate' cũng /eɪ/. Riêng habitat có 'a' = /æ/ (ngắn). → B khác."
@@ -586,10 +586,10 @@
       "section": "[Đề 2 - Phát âm]",
       "question": "[Đề 2 - Phát âm]\nChọn từ có 'u' phát âm khác.",
       "options": [
-        "A. rubber",
-        "B. suck",
-        "C. hunt",
-        "D. surgeon"
+        "A. r<u>u</u>bber",
+        "B. s<u>u</u>ck",
+        "C. h<u>u</u>nt",
+        "D. s<u>u</u>rgeon"
       ],
       "correctIndex": 3,
       "explanation": "rubber, suck, hunt có 'u' = /ʌ/. surgeon có 'ur' = /ɜː/. → D khác."
@@ -1132,10 +1132,10 @@
       "section": "[Đề 3 - Phát âm]",
       "question": "[Đề 3 - Phát âm]\nChọn từ có 'o' phát âm khác.",
       "options": [
-        "A. propose",
-        "B. occur",
-        "C. consist",
-        "D. model"
+        "A. pr<u>o</u>pose",
+        "B. <u>o</u>ccur",
+        "C. c<u>o</u>nsist",
+        "D. m<u>o</u>del"
       ],
       "correctIndex": 3,
       "explanation": "propose, occur, consist có 'o' ở âm tiết không nhấn = /ə/ (âm schwa). model có 'o' = /ɒ/ rõ ràng. → D khác."
@@ -1146,10 +1146,10 @@
       "section": "[Đề 3 - Phát âm]",
       "question": "[Đề 3 - Phát âm]\nChọn từ có 'a' phát âm khác.",
       "options": [
-        "A. paradise",
-        "B. annual",
-        "C. admire",
-        "D. access"
+        "A. p<u>a</u>radise",
+        "B. <u>a</u>nnual",
+        "C. <u>a</u>dmire",
+        "D. <u>a</u>ccess"
       ],
       "correctIndex": 2,
       "explanation": "paradise, annual, access có 'a' = /æ/. admire có 'a' = /ə/ (âm schwa, không nhấn). → C khác."
