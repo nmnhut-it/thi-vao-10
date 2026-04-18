@@ -74,6 +74,7 @@
       if (resetBtn) {
         resetBtn.addEventListener('click', () => {
           if (confirm('Làm lại từ đầu? Tất cả câu trả lời hiện tại sẽ bị xóa.')) {
+            TopicEngine.clearInProgress();
             location.reload();
           }
         });

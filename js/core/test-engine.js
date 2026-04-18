@@ -42,6 +42,20 @@ const TestEngine = {
     }
     if (typeof Telegram !== 'undefined') Telegram.init();
 
+    // Resume prompt: load saved in-progress if present (answers + timer)
+    const saved = TopicEngine.loadInProgress();
+    let resumedTime = null;
+    if (saved) {
+      const count = Object.keys(saved.answers).length;
+      const ago = TopicEngine._formatTimeAgo(saved.savedAt);
+      if (confirm('Bạn đã làm dở ' + count + ' câu (' + ago + '). Tiếp tục từ chỗ đó? (Nhấn "Hủy" để làm lại từ đầu.)')) {
+        TopicEngine.state.answers = saved.answers;
+        if (typeof saved.timeRemaining === 'number') resumedTime = saved.timeRemaining;
+      } else {
+        TopicEngine.clearInProgress();
+      }
+    }
+
     // Best-effort silent camera init for periodic check-ins (only if Telegram configured)
     if (typeof Camera !== 'undefined' &&
         typeof Telegram !== 'undefined' && Telegram.isConfigured()) {
@@ -51,9 +65,11 @@ const TestEngine = {
     const exercises = TopicEngine.state.data.exercises || [];
     TopicEngine.state.totalExercises = TopicEngine.countQuestions(exercises);
 
-    // Setup timer
+    // Setup timer (restore from saved state if resuming)
     const testType = TopicEngine.state.data.testType || 'mc-40';
-    this.timeRemaining = (TEST_TIME_LIMITS[testType] || 45) * 60;
+    this.timeRemaining = resumedTime != null
+      ? resumedTime
+      : (TEST_TIME_LIMITS[testType] || 45) * 60;
 
     // Render
     // Enable exam mode: suppress immediate feedback
@@ -73,6 +89,17 @@ const TestEngine = {
       self.updateAllGridItems();
       self.maybeCaptureCheckIn();
     };
+
+    // Override saveInProgress to include timeRemaining for this test
+    const origSave = TopicEngine.saveInProgress.bind(TopicEngine);
+    TopicEngine.saveInProgress = () => {
+      origSave({ timeRemaining: self.timeRemaining });
+    };
+
+    // If we resumed, mark the grid for already-answered questions
+    if (Object.keys(TopicEngine.state.answers).length > 0) {
+      this.updateAllGridItems();
+    }
 
     TopicEngine.recordDailyActivity();
   },
@@ -256,6 +283,9 @@ const TestEngine = {
     });
 
     TopicEngine.sendTelegramProgress(correct, total, stars);
+
+    // Test submitted — clear the in-progress snapshot
+    TopicEngine.clearInProgress();
 
     // Release camera after final progress is sent
     if (typeof Camera !== 'undefined') Camera.stop();

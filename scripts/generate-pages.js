@@ -83,6 +83,7 @@ const TOPIC_TEMPLATE = (topicId, title) => `<!DOCTYPE html>
       if (resetBtn) {
         resetBtn.addEventListener('click', () => {
           if (confirm('Làm lại từ đầu? Tất cả câu trả lời hiện tại sẽ bị xóa.')) {
+            TopicEngine.clearInProgress();
             location.reload();
           }
         });
@@ -160,6 +161,7 @@ const TEST_TEMPLATE = (testId, title, meta) => `<!DOCTYPE html>
       if (resetBtn) {
         resetBtn.addEventListener('click', () => {
           if (confirm('Làm lại từ đầu? Tất cả câu trả lời và đồng hồ sẽ được đặt lại.')) {
+            TopicEngine.clearInProgress();
             location.reload();
           }
         });

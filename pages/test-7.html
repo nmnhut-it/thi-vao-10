@@ -66,6 +66,7 @@
       if (resetBtn) {
         resetBtn.addEventListener('click', () => {
           if (confirm('Làm lại từ đầu? Tất cả câu trả lời và đồng hồ sẽ được đặt lại.')) {
+            TopicEngine.clearInProgress();
             location.reload();
           }
         });

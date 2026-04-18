@@ -33,6 +33,21 @@ const TopicEngine = {
       await StudentInfo.ensure();
     }
 
+    // Offer to resume unfinished work. Load saved answers BEFORE render so
+    // createMCQuestion can restore the answered-state UI naturally.
+    this._resumePayload = null;
+    const saved = this.loadInProgress();
+    if (saved) {
+      const count = Object.keys(saved.answers).length;
+      const ago = this._formatTimeAgo(saved.savedAt);
+      if (confirm('Bạn đã làm dở ' + count + ' câu (' + ago + '). Tiếp tục từ chỗ đó? (Nhấn "Hủy" để làm lại từ đầu.)')) {
+        this.state.answers = saved.answers;
+        this._resumePayload = saved;
+      } else {
+        this.clearInProgress();
+      }
+    }
+
     const exercises = this.state.data.exercises || [];
     this.state.totalExercises = this.countQuestions(exercises);
 
@@ -48,6 +63,46 @@ const TopicEngine = {
       Telegram.init();
       Telegram.sendAttendance();
     }
+  },
+
+  _inProgressKey() {
+    return 'in-progress-' + this.state.topicId;
+  },
+
+  /** Persist in-progress state. Extra fields (e.g. timeRemaining) merged in. */
+  saveInProgress(extra) {
+    if (!this.state.topicId) return;
+    try {
+      const payload = Object.assign(
+        { answers: this.state.answers, savedAt: Date.now() },
+        extra || {}
+      );
+      Storage.save(this._inProgressKey(), payload);
+    } catch (e) { /* ignore quota errors */ }
+  },
+
+  loadInProgress() {
+    if (!this.state.topicId) return null;
+    const saved = Storage.load(this._inProgressKey(), null);
+    if (!saved || !saved.answers) return null;
+    if (Object.keys(saved.answers).length === 0) return null;
+    return saved;
+  },
+
+  clearInProgress() {
+    if (!this.state.topicId) return;
+    Storage.remove(this._inProgressKey());
+  },
+
+  _formatTimeAgo(ts) {
+    if (!ts) return 'vừa xong';
+    const mins = Math.round((Date.now() - ts) / 60000);
+    if (mins < 1) return 'vừa xong';
+    if (mins < 60) return mins + ' phút trước';
+    const hrs = Math.round(mins / 60);
+    if (hrs < 24) return hrs + ' giờ trước';
+    const days = Math.round(hrs / 24);
+    return days + ' ngày trước';
   },
 
   countQuestions(exercises) {
@@ -217,6 +272,23 @@ const TopicEngine = {
     });
 
     card.appendChild(optionsEl);
+
+    // Restore UI for a previously-saved answer (resume flow)
+    const prior = this.state.answers[exId];
+    if (prior) {
+      const opts = optionsEl.querySelectorAll('.option');
+      if (this.testMode) {
+        if (opts[prior.selected]) opts[prior.selected].classList.add('option--selected');
+      } else {
+        opts.forEach((opt, i) => {
+          opt.classList.add('option--disabled');
+          if (i === q.correctIndex) opt.classList.add('option--correct');
+          if (i === prior.selected && !prior.correct) opt.classList.add('option--wrong');
+        });
+        this.showFeedback(card, prior.correct, q.explanation || '');
+      }
+    }
+
     return card;
   },
 
@@ -249,6 +321,7 @@ const TopicEngine = {
     this.showFeedback(card, isCorrect, explanation);
     this.updateProgress();
     this.saveProgress();
+    this.saveInProgress();
   },
 
   /** Test mode: record answer, highlight selected, allow changing */
@@ -264,6 +337,7 @@ const TopicEngine = {
     options[selected].classList.add('option--selected');
 
     this.updateProgress();
+    this.saveInProgress();
   },
 
   createErrorCorrectCard(ex, num, idx) {
@@ -551,6 +625,9 @@ const TopicEngine = {
       lastPlayed: new Date().toISOString()
     };
     Storage.save('all-progress', progress);
+
+    // Topic complete — drop the in-progress snapshot
+    this.clearInProgress();
 
     // Show results banner at top
     const area = document.getElementById('results-area');
