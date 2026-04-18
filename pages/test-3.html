@@ -12,6 +12,7 @@
   <nav class="nav-bar" id="nav-bar">
     <a class="nav-bar__back" href="../index.html">←</a>
     <span class="nav-bar__title">Đề Thi Thử 3</span>
+    <button class="nav-bar__reset" id="nav-reset" type="button" title="Làm lại từ đầu" aria-label="Làm lại">↻</button>
     <span class="test-timer" id="test-timer">--:--</span>
   </nav>
 
@@ -61,6 +62,14 @@
           TestEngine.submitTest();
         }
       });
+      const resetBtn = document.getElementById('nav-reset');
+      if (resetBtn) {
+        resetBtn.addEventListener('click', () => {
+          if (confirm('Làm lại từ đầu? Tất cả câu trả lời và đồng hồ sẽ được đặt lại.')) {
+            location.reload();
+          }
+        });
+      }
     });
   </script>
 </body>

@@ -21,6 +21,7 @@ const TOPIC_TEMPLATE = (topicId, title) => `<!DOCTYPE html>
   <nav class="nav-bar" id="nav-bar">
     <a class="nav-bar__back" href="../index.html">\u2190</a>
     <span class="nav-bar__title">${title}</span>
+    <button class="nav-bar__reset" id="nav-reset" type="button" title="Làm lại từ đầu" aria-label="Làm lại">\u21BB</button>
     <span class="nav-bar__progress" id="nav-progress">0/0</span>
   </nav>
 
@@ -76,7 +77,17 @@ const TOPIC_TEMPLATE = (topicId, title) => `<!DOCTYPE html>
   <script src="../js/core/telegram.js"></script>
   <script src="../js/core/topic-engine.js"></script>
   <script>
-    document.addEventListener('DOMContentLoaded', () => TopicEngine.init('${topicId}'));
+    document.addEventListener('DOMContentLoaded', () => {
+      TopicEngine.init('${topicId}');
+      const resetBtn = document.getElementById('nav-reset');
+      if (resetBtn) {
+        resetBtn.addEventListener('click', () => {
+          if (confirm('Làm lại từ đầu? Tất cả câu trả lời hiện tại sẽ bị xóa.')) {
+            location.reload();
+          }
+        });
+      }
+    });
   </script>
 </body>
 </html>`;
@@ -95,6 +106,7 @@ const TEST_TEMPLATE = (testId, title, meta) => `<!DOCTYPE html>
   <nav class="nav-bar" id="nav-bar">
     <a class="nav-bar__back" href="../index.html">\u2190</a>
     <span class="nav-bar__title">${title}</span>
+    <button class="nav-bar__reset" id="nav-reset" type="button" title="Làm lại từ đầu" aria-label="Làm lại">\u21BB</button>
     <span class="test-timer" id="test-timer">--:--</span>
   </nav>
 
@@ -144,6 +156,14 @@ const TEST_TEMPLATE = (testId, title, meta) => `<!DOCTYPE html>
           TestEngine.submitTest();
         }
       });
+      const resetBtn = document.getElementById('nav-reset');
+      if (resetBtn) {
+        resetBtn.addEventListener('click', () => {
+          if (confirm('Làm lại từ đầu? Tất cả câu trả lời và đồng hồ sẽ được đặt lại.')) {
+            location.reload();
+          }
+        });
+      }
     });
   </script>
 </body>
