@@ -230,7 +230,7 @@ const TopicEngine = {
 
     const questionEl = document.createElement('div');
     questionEl.className = 'exercise-card__question';
-    questionEl.textContent = q.question || '';
+    this._renderTextWithUnderline(questionEl, q.question || '');
     card.appendChild(questionEl);
 
     const optionsEl = document.createElement('div');
@@ -490,7 +490,7 @@ const TopicEngine = {
 
     const questionEl = document.createElement('div');
     questionEl.className = 'exercise-card__question';
-    questionEl.textContent = ex.question || '';
+    this._renderTextWithUnderline(questionEl, ex.question || '');
     card.appendChild(questionEl);
 
     const inputEl = document.createElement('input');
@@ -566,6 +566,26 @@ const TopicEngine = {
 
     this.updateProgress();
     this.saveInProgress();
+  },
+
+  /**
+   * Render a string into an element, honoring <u>...</u> tags for underlined spans.
+   * Uses DOM API (no innerHTML) so any other stray markup is shown as literal text.
+   */
+  _renderTextWithUnderline(el, text) {
+    if (typeof Logic !== 'undefined' && Logic.hasUnderlineTags(text)) {
+      Logic.parseUnderlinedText(text).forEach(seg => {
+        if (seg.underline) {
+          const u = document.createElement('u');
+          u.textContent = seg.text;
+          el.appendChild(u);
+        } else {
+          el.appendChild(document.createTextNode(seg.text));
+        }
+      });
+    } else {
+      el.textContent = text;
+    }
   },
 
   /**
