@@ -380,6 +380,7 @@ const TopicEngine = {
       if (e.key === 'Enter') btnEl.click();
     });
 
+    this._restoreTextInputState(card, inputEl, btnEl, ex, idx);
     return card;
   },
 
@@ -429,6 +430,7 @@ const TopicEngine = {
       if (e.key === 'Enter') btnEl.click();
     });
 
+    this._restoreTextInputState(card, inputEl, btnEl, ex, idx);
     return card;
   },
 
@@ -472,6 +474,7 @@ const TopicEngine = {
       if (e.key === 'Enter') btnEl.click();
     });
 
+    this._restoreTextInputState(card, inputEl, btnEl, ex, idx);
     return card;
   },
 
@@ -509,6 +512,7 @@ const TopicEngine = {
       if (e.key === 'Enter') btnEl.click();
     });
 
+    this._restoreTextInputState(card, inputEl, btnEl, ex, idx);
     return card;
   },
 
@@ -543,6 +547,7 @@ const TopicEngine = {
     this.showFeedback(card, isCorrect, fullExplanation);
     this.updateProgress();
     this.saveProgress();
+    this.saveInProgress();
   },
 
   /** Test mode: record text answer without feedback, allow re-editing */
@@ -560,6 +565,32 @@ const TopicEngine = {
     inputEl.classList.add('input-answer--recorded');
 
     this.updateProgress();
+    this.saveInProgress();
+  },
+
+  /**
+   * Restore a previously-answered text-input card (resume flow).
+   * Shared by error-correct / sentence-rewrite / sentence-build / fill-blank.
+   */
+  _restoreTextInputState(card, inputEl, btnEl, ex, exId) {
+    const prior = this.state.answers[exId];
+    if (!prior) return;
+
+    inputEl.value = prior.selected || '';
+
+    if (this.testMode) {
+      inputEl.classList.add('input-answer--recorded');
+      return;
+    }
+
+    inputEl.disabled = true;
+    inputEl.classList.add(prior.correct ? 'input-answer--correct' : 'input-answer--wrong');
+    if (btnEl) btnEl.style.display = 'none';
+
+    const explanation = prior.correct
+      ? (ex.explanation || '')
+      : Logic.buildWrongAnswerExplanation(ex);
+    this.showFeedback(card, prior.correct, explanation);
   },
 
   showFeedback(card, isCorrect, explanation) {
