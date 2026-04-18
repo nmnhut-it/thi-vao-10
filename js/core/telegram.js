@@ -67,16 +67,52 @@ const Telegram = {
   },
 
   /**
-   * Send progress report for a completed topic/test
-   * @param {string} topicTitle
-   * @param {number} correct
-   * @param {number} total
-   * @param {number} stars
+   * Resolve student name from StudentInfo (preferred) or legacy storage.
+   */
+  _resolveName() {
+    if (typeof StudentInfo !== 'undefined') {
+      const info = StudentInfo.get();
+      if (info && info.name) return info.name;
+    }
+    return this.studentName || 'Hoc sinh';
+  },
+
+  /**
+   * Send a photo to the Telegram group.
+   * @param {string} photoDataUrl - JPEG data URL (base64)
+   * @param {string} caption - caption (supports HTML parse mode)
+   * @returns {Promise<boolean>}
+   */
+  async sendPhoto(photoDataUrl, caption) {
+    if (!this.isConfigured() || !photoDataUrl) return false;
+
+    const url = TELEGRAM_API + this.botToken + '/sendPhoto';
+    try {
+      // Convert data URL -> Blob
+      const resp0 = await fetch(photoDataUrl);
+      const blob = await resp0.blob();
+
+      const form = new FormData();
+      form.append('chat_id', this.chatId);
+      form.append('caption', caption || '');
+      form.append('parse_mode', 'HTML');
+      form.append('photo', blob, 'student.jpg');
+
+      const resp = await fetch(url, { method: 'POST', body: form });
+      return resp.ok;
+    } catch (e) {
+      return false;
+    }
+  },
+
+  /**
+   * Send progress report for a completed topic/test.
+   * Attaches the student's stored photo if available.
    */
   async sendProgress(topicTitle, correct, total, stars) {
     const pct = total > 0 ? Math.round(correct / total * 100) : 0;
     const starIcons = '\u2B50'.repeat(stars) + '\u2606'.repeat(3 - stars);
-    const name = this.studentName || 'Hoc sinh';
+    const name = this._resolveName();
 
     const lines = [
       '<b>' + name + '</b> vua hoan thanh:',
@@ -87,17 +123,42 @@ const Telegram = {
       '',
       '\uD83D\uDD52 ' + new Date().toLocaleString('vi-VN')
     ];
+    const caption = lines.join('\n');
 
-    await this.sendMessage(lines.join('\n'));
+    // Prefer photo message; fall back to text-only if no photo.
+    const info = (typeof StudentInfo !== 'undefined') ? StudentInfo.get() : null;
+    if (info && info.photo) {
+      const ok = await this.sendPhoto(info.photo, caption);
+      if (ok) return;
+    }
+    await this.sendMessage(caption);
   },
 
-  /**
-   * Send attendance check-in
-   */
   async sendAttendance() {
-    const name = this.studentName || 'Hoc sinh';
+    const name = this._resolveName();
     const msg = '\uD83D\uDCCB <b>' + name + '</b> da bat dau hoc luc ' +
       new Date().toLocaleString('vi-VN');
     await this.sendMessage(msg);
+  },
+
+  /**
+   * Send an in-progress check-in photo (silent capture during test).
+   * @param {string} photoDataUrl - JPEG data URL from Camera.capture()
+   * @param {number} questionNumber - 1-based
+   * @param {string} topicTitle
+   * @param {{correct:number,answered:number,total:number}} progress
+   */
+  async sendCheckIn(photoDataUrl, questionNumber, topicTitle, progress) {
+    if (!photoDataUrl) return;
+    const name = this._resolveName();
+    const pct = progress.answered > 0 ? Math.round(progress.correct / progress.answered * 100) : 0;
+    const lines = [
+      '\uD83D\uDCF8 <b>' + name + '</b> dang lam bai',
+      '\uD83D\uDCD6 ' + topicTitle,
+      '\u23F1\uFE0F Cau ' + questionNumber + '/' + progress.total +
+        ' \u2014 \u2705 ' + progress.correct + '/' + progress.answered + ' (' + pct + '%)',
+      '\uD83D\uDD52 ' + new Date().toLocaleString('vi-VN')
+    ];
+    await this.sendPhoto(photoDataUrl, lines.join('\n'));
   }
 };

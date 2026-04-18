@@ -72,6 +72,7 @@ const TOPIC_TEMPLATE = (topicId, title) => `<!DOCTYPE html>
 
   <script src="../js/core/storage.js"></script>
   <script src="../js/core/logic.js"></script>
+  <script src="../js/core/student-info.js"></script>
   <script src="../js/core/telegram.js"></script>
   <script src="../js/core/topic-engine.js"></script>
   <script>
@@ -130,6 +131,8 @@ const TEST_TEMPLATE = (testId, title, meta) => `<!DOCTYPE html>
 
   <script src="../js/core/storage.js"></script>
   <script src="../js/core/logic.js"></script>
+  <script src="../js/core/student-info.js"></script>
+  <script src="../js/core/camera.js"></script>
   <script src="../js/core/telegram.js"></script>
   <script src="../js/core/topic-engine.js"></script>
   <script src="../js/core/test-engine.js"></script>

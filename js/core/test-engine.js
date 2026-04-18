@@ -14,6 +14,8 @@ const TestEngine = {
   timeRemaining: 0,
   isSubmitted: false,
 
+  _lastCapturedAt: 0,   // last question number a photo was sent for
+
   async init(testId) {
     // Initialize TopicEngine's state for rendering
     TopicEngine.state = {
@@ -34,6 +36,18 @@ const TestEngine = {
       return;
     }
 
+    // Prompt for student name + photo before starting the test (blocks until submitted)
+    if (typeof StudentInfo !== 'undefined') {
+      await StudentInfo.ensure();
+    }
+    if (typeof Telegram !== 'undefined') Telegram.init();
+
+    // Best-effort silent camera init for periodic check-ins (only if Telegram configured)
+    if (typeof Camera !== 'undefined' &&
+        typeof Telegram !== 'undefined' && Telegram.isConfigured()) {
+      Camera.init();  // fire-and-forget; capture() will return null until ready
+    }
+
     const exercises = TopicEngine.state.data.exercises || [];
     TopicEngine.state.totalExercises = TopicEngine.countQuestions(exercises);
 
@@ -51,14 +65,39 @@ const TestEngine = {
     TopicEngine.renderExercises();
     this.startTimer();
 
-    // Wrap TopicEngine.updateProgress to also update grid
+    // Wrap TopicEngine.updateProgress to also update grid + periodic capture
     const origUpdate = TopicEngine.updateProgress.bind(TopicEngine);
+    const self = this;
     TopicEngine.updateProgress = () => {
       origUpdate();
-      this.updateAllGridItems();
+      self.updateAllGridItems();
+      self.maybeCaptureCheckIn();
     };
 
     TopicEngine.recordDailyActivity();
+  },
+
+  /** Periodic silent check-in: capture photo + send to Telegram every CAPTURE_INTERVAL answered questions. */
+  async maybeCaptureCheckIn() {
+    if (typeof Camera === 'undefined' || typeof Telegram === 'undefined') return;
+    if (!Telegram.isConfigured() || !Camera.isActive()) return;
+
+    const state = TopicEngine.state;
+    const answered = Object.keys(state.answers).length;
+    if (answered <= this._lastCapturedAt) return;
+    if (!Camera.shouldCapture(answered)) return;
+
+    this._lastCapturedAt = answered;
+    const photo = Camera.capture();
+    if (!photo) return;
+
+    const correct = Object.values(state.answers).filter(a => a.correct).length;
+    const title = state.data.title || state.topicId;
+    await Telegram.sendCheckIn(photo, answered, title, {
+      correct,
+      answered,
+      total: state.totalExercises
+    });
   },
 
   renderNavBar() {
@@ -217,5 +256,8 @@ const TestEngine = {
     });
 
     TopicEngine.sendTelegramProgress(correct, total, stars);
+
+    // Release camera after final progress is sent
+    if (typeof Camera !== 'undefined') Camera.stop();
   }
 };

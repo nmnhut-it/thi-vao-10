@@ -28,6 +28,11 @@ const TopicEngine = {
       return;
     }
 
+    // Prompt for student name + photo on first visit (blocks until submitted)
+    if (typeof StudentInfo !== 'undefined') {
+      await StudentInfo.ensure();
+    }
+
     const exercises = this.state.data.exercises || [];
     this.state.totalExercises = this.countQuestions(exercises);
 
