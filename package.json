@@ -9,6 +9,7 @@
     "validate": "node scripts/validate-data.js"
   },
   "devDependencies": {
+    "playwright": "^1.59.1",
     "vitest": "^1.6.0"
   }
 }
