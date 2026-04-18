@@ -176,6 +176,7 @@ const topics = [
   ['writing-sentence', 'Sentence Writing (Viết Câu)'],
   ['review-rewriting', 'Sentence Rewriting Review (Ôn Viết Lại Câu)'],
   ['review-error-finding', 'Error Finding Review (Ôn Tìm Lỗi Sai)'],
+  ['review-end-of-semester-2', 'Ôn Tập Cuối Kỳ 2 - Lớp 9'],
 ];
 
 const tests = [

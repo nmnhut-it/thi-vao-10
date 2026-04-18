@@ -1,0 +1,1690 @@
+{
+  "topicId": "review-end-of-semester-2",
+  "title": "Ôn Tập Cuối Kỳ 2 - Lớp 9",
+  "section": "review",
+  "knowledge": {
+    "html": "<h3>Ôn Tập Cuối Kỳ 2 - Lớp 9</h3>\n<p>Bộ 120 câu hỏi + đáp án + giải thích chi tiết bằng tiếng Việt, bám sát SGK Tiếng Anh 9 Global Success.</p>\n<p><strong>3 ĐỀ × 40 CÂU</strong> bao gồm đủ các dạng bài thi vào 10:</p>\n<ul>\n<li><strong>Phát âm & Trọng âm</strong> — các dạng bài tập âm vị điển hình</li>\n<li><strong>Từ đồng nghĩa / trái nghĩa</strong> — mở rộng vốn từ</li>\n<li><strong>Giao tiếp</strong> — tình huống hội thoại đáp lại</li>\n<li><strong>Ngữ pháp & Từ vựng</strong> — kiến thức lớp 9 trọng tâm</li>\n<li><strong>Đọc hiểu</strong> — phân tích đoạn văn</li>\n<li><strong>Điền từ</strong> — điền từ vào đoạn văn</li>\n<li><strong>Sắp xếp câu</strong> — cấu trúc đoạn văn</li>\n<li><strong>Tìm lỗi sai</strong> — phát hiện và sửa lỗi</li>\n<li><strong>Viết lại câu</strong> — chuyển đổi cấu trúc</li>\n</ul>\n<p><em>Mẹo:</em> Mỗi câu đều có giải thích chi tiết. Hãy đọc kỹ phần giải thích cả khi bạn làm đúng để nắm vững kiến thức.</p>"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Phát âm]",
+      "question": "[Đề 1 - Phát âm]\nChọn từ có phần gạch chân phát âm khác.",
+      "options": [
+        "A. pole",
+        "B. global",
+        "C. social",
+        "D. word"
+      ],
+      "correctIndex": 3,
+      "explanation": "'pole, global, social' có 'o' phát âm /əʊ/. Riêng 'word' có 'o' phát âm /ɜː/ (như 'er'). → 'word' khác."
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Phát âm]",
+      "question": "[Đề 1 - Phát âm]\nChọn từ có 'ed' phát âm khác.",
+      "options": [
+        "A. raised",
+        "B. possessed",
+        "C. passed",
+        "D. looked"
+      ],
+      "correctIndex": 0,
+      "explanation": "'raised' đọc 'ed' là /d/ (sau âm hữu thanh /z/). 'possessed, passed, looked' đọc 'ed' là /t/ (sau âm vô thanh). → A khác."
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Trọng âm]",
+      "question": "[Đề 1 - Trọng âm]\nChọn từ có trọng âm chính khác vị trí.",
+      "options": [
+        "A. digital",
+        "B. robotic",
+        "C. camcorder",
+        "D. industry"
+      ],
+      "correctIndex": 1,
+      "explanation": "digital, camcorder, industry nhấn âm 1. robotic nhấn âm 2 (ro-BO-tic). Mẹo: từ kết thúc '-ic' thường nhấn vào âm ngay trước '-ic'."
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Trọng âm]",
+      "question": "[Đề 1 - Trọng âm]\nChọn từ có trọng âm chính khác vị trí.",
+      "options": [
+        "A. majestic",
+        "B. recognise",
+        "C. encourage",
+        "D. discover"
+      ],
+      "correctIndex": 1,
+      "explanation": "majestic (ma-JES-tic), encourage (en-COUR-age), discover (dis-CO-ver) nhấn âm 2. recognise (RE-cog-nise) nhấn âm 1."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Từ đồng nghĩa]",
+      "question": "[Đề 1 - Từ đồng nghĩa]\nNam was happy because his father gave him a toy car as a PRESENT for his birthday.",
+      "options": [
+        "A. journey (chuyến đi)",
+        "B. job (công việc)",
+        "C. gift (món quà)",
+        "D. problem (vấn đề)"
+      ],
+      "correctIndex": 2,
+      "explanation": "'present' ở đây = 'món quà' → đồng nghĩa 'gift'. Dịch: Nam vui vì bố tặng cậu chiếc ô tô đồ chơi làm QUÀ sinh nhật."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Từ trái nghĩa]",
+      "question": "[Đề 1 - Từ trái nghĩa]\nAfter studying for hours without a break, he felt completely STRESSED OUT.",
+      "options": [
+        "A. unbalanced",
+        "B. anxious (lo lắng)",
+        "C. relaxed (thư giãn)",
+        "D. pessimistic"
+      ],
+      "correctIndex": 2,
+      "explanation": "'stressed out' = căng thẳng, mệt mỏi → trái nghĩa là 'relaxed' (thư giãn, thoải mái). Các đáp án khác đều tiêu cực."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Giao tiếp]",
+      "question": "[Đề 1 - Giao tiếp]\nA: Why not come to the pool with me? - B: _______",
+      "options": [
+        "A. I don't know why.",
+        "B. That's a good idea.",
+        "C. I came yesterday.",
+        "D. It's fine, no worries."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Why not...?' là cách rủ rê/đề nghị. Đáp lại phù hợp là đồng ý: 'That's a good idea' (Ý hay đấy!)."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Giao tiếp]",
+      "question": "[Đề 1 - Giao tiếp]\nLan: \"I've just got awarded a scholarship!\" Nga: \"_______\"",
+      "options": [
+        "A. My pleasure.",
+        "B. How cool! Congratulations!",
+        "C. No worries. Everything will be alright.",
+        "D. Thanks for your advice."
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi ai đó báo tin vui (được học bổng) → phải chúc mừng: 'How cool! Congratulations!'. 'My pleasure' là đáp lời cảm ơn, không phù hợp."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 1 - Ngữ pháp & Từ vựng]\nThe sales assistant suggested that Trung _______ the portable laptop.",
+      "options": [
+        "A. buys",
+        "B. will buy",
+        "C. bought",
+        "D. should buy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cấu trúc 'suggest that + S + (should) + V(nguyên mẫu)'. Đây là mệnh đề bàng thái (subjunctive). [Trực tiếp từ SGK Unit 11 A Closer Look 2]"
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 1 - Ngữ pháp & Từ vựng]\nMy uncle recommended _______ a robotic vacuum cleaner.",
+      "options": [
+        "A. buy",
+        "B. to buy",
+        "C. buying",
+        "D. to buying"
+      ],
+      "correctIndex": 2,
+      "explanation": "'recommend' theo sau bởi V-ing khi không có tân ngữ chỉ người. Cấu trúc: recommend + V-ing."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 1 - Ngữ pháp & Từ vựng]\nWe often use _______ in the construction industry because it is a strong and hard metal.",
+      "options": [
+        "A. copper",
+        "B. steel",
+        "C. rubber",
+        "D. plastic"
+      ],
+      "correctIndex": 1,
+      "explanation": "'steel' (thép) là kim loại cứng, dùng trong xây dựng. copper (đồng) không phải kim loại chính; rubber (cao su) và plastic (nhựa) không phải kim loại."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 1 - Ngữ pháp & Từ vựng]\nPlanet Earth, _______ is also called the Blue Planet, is covered with water and land.",
+      "options": [
+        "A. which",
+        "B. whose",
+        "C. whom",
+        "D. who"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mệnh đề quan hệ KHÔNG XÁC ĐỊNH (có dấu phẩy). 'Planet Earth' là VẬT → 'which'. who/whom cho người, whose chỉ sở hữu."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 1 - Ngữ pháp & Từ vựng]\nWe can keep a(n) _______ by stopping hunting and cutting down trees.",
+      "options": [
+        "A. ecological balance",
+        "B. habitat loss",
+        "C. climate change",
+        "D. nature reserve"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ngừng săn bắn và chặt cây → DUY TRÌ 'sự cân bằng sinh thái'. 'habitat loss' và 'climate change' là vấn đề tiêu cực, không 'keep' được."
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 1 - Ngữ pháp & Từ vựng]\nMinh asked me _______ much about the Amazon Rainforest.",
+      "options": [
+        "A. did I know",
+        "B. if I know",
+        "C. whether I knew",
+        "D. if knew I"
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu tường thuật Yes/No: 'ask + if/whether + S + V(lùi thì)'. know → knew. KHÔNG đảo trật tự (loại A, D). B sai vì không lùi thì."
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 1 - Ngữ pháp & Từ vựng]\n_______ refer to plants and animals of a particular place.",
+      "options": [
+        "A. Landforms",
+        "B. Flora and fauna",
+        "C. Water bodies",
+        "D. Liquid water"
+      ],
+      "correctIndex": 1,
+      "explanation": "Flora = thực vật, Fauna = động vật. 'Flora and fauna' = hệ động thực vật. [SGK Unit 10]"
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 1 - Ngữ pháp & Từ vựng]\nHow many moons orbit Earth?",
+      "options": [
+        "A. 1",
+        "B. 2",
+        "C. 3",
+        "D. 4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Trái Đất chỉ có 1 Mặt Trăng. Kiến thức thiên văn cơ bản trong SGK Unit 10."
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 1 - Ngữ pháp & Từ vựng]\nIf you _______ to use a virtual keyboard, you _______ the wireless hardware one.",
+      "options": [
+        "A. not wanting... can use",
+        "B. don't want... can't use",
+        "C. wanted... can use",
+        "D. don't want... can use"
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu ĐK loại 1: 'If + S + V(hiện tại), S + can + V'. Nghĩa: Nếu KHÔNG muốn dùng bàn phím ảo thì CÓ THỂ dùng bàn phím cứng."
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 1 - Ngữ pháp & Từ vựng]\nThe most common use for _______ is for producing tyres for cars, motorbikes, bicycles, etc.",
+      "options": [
+        "A. steel",
+        "B. plastic",
+        "C. rubber",
+        "D. copper"
+      ],
+      "correctIndex": 2,
+      "explanation": "'rubber' (cao su) dùng sản xuất LỐP XE (tyres). Thép làm khung xe, nhựa/đồng không dùng làm lốp."
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Đọc hiểu]",
+      "question": "[Đề 1 - Đọc hiểu]\n\nPlants and animals are an essential part of Earth's ecology. When we speak about a specific habitat and time, we refer to them as flora and fauna...\n\nFirst, the flora and fauna on Earth create an ecological balance... Second, plants and animals combine to create a food chain... Finally, plants and animals add a lot of beauty to our earth.\n\nHowever, plants and animals are facing habitat loss, pollution, and climate change. To protect them, we should raise people's awareness of their significance, stop hunting, plant more trees, and build nature reserves for our wildlife.\n\nWhat is the passage mainly about?",
+      "options": [
+        "A. The beauty of plants and animals.",
+        "B. How plants and animals protect the environment.",
+        "C. The wonder of plants and animals.",
+        "D. The natural food chain."
+      ],
+      "correctIndex": 2,
+      "explanation": "Đoạn văn nói về SỰ KỲ DIỆU của động thực vật qua 3 vai trò: cân bằng sinh thái, chuỗi thức ăn, vẻ đẹp. A/D chỉ là 1 ý nhỏ. [Đúng nguyên văn SGK Unit 10 Skills 1]"
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Đọc hiểu]",
+      "question": "[Đề 1 - Đọc hiểu]\nThe author mentions _______ significant roles plants and animals play.",
+      "options": [
+        "A. two",
+        "B. three",
+        "C. four",
+        "D. five"
+      ],
+      "correctIndex": 1,
+      "explanation": "3 vai trò: (1) First: cân bằng sinh thái, (2) Second: chuỗi thức ăn, (3) Finally: mang lại vẻ đẹp."
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Đọc hiểu]",
+      "question": "[Đề 1 - Đọc hiểu]\nWhich of the following do plants provide humans?",
+      "options": [
+        "A. Oxygen.",
+        "B. Aquatic environment.",
+        "C. Carbon dioxide",
+        "D. Habitat loss."
+      ],
+      "correctIndex": 0,
+      "explanation": "Bài: 'Flora releases oxygen for humans' (Thực vật giải phóng oxy cho con người). Con người thở ra CO2, không phải thực vật cung cấp."
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Đọc hiểu]",
+      "question": "[Đề 1 - Đọc hiểu]\nWhich action does NOT preserve plants and animals?",
+      "options": [
+        "A. Planting more trees.",
+        "B. Raising awareness.",
+        "C. Building nature reserves.",
+        "D. Hunting animals."
+      ],
+      "correctIndex": 3,
+      "explanation": "Bài viết khuyên 'stop hunting'. Săn bắn KHÔNG bảo vệ động thực vật. 3 đáp án khác đều được đề cập là biện pháp bảo vệ."
+    },
+    {
+      "id": 23,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Đọc hiểu]",
+      "question": "[Đề 1 - Đọc hiểu]\nThe word \"appreciate\" means _______",
+      "options": [
+        "A. protect the qualities of",
+        "B. recognise the wonder of",
+        "C. learn more about",
+        "D. be aware of"
+      ],
+      "correctIndex": 1,
+      "explanation": "'appreciate' = trân trọng, công nhận giá trị → đồng nghĩa 'recognise the wonder of'."
+    },
+    {
+      "id": 24,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Đọc hiểu]",
+      "question": "[Đề 1 - Đọc hiểu]\nWhat can we do to protect plants and animals?",
+      "options": [
+        "A. Raise awareness.",
+        "B. Stop hunting and plant trees.",
+        "C. Build nature reserves.",
+        "D. All of them"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bài nêu đủ 4 biện pháp: nâng cao nhận thức, ngừng săn bắn, trồng cây, xây khu bảo tồn. Cả A, B, C đều đúng → D."
+    },
+    {
+      "id": 25,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Điền từ]",
+      "question": "[Đề 1 - Điền từ]\n\nThe (25) _______ smartphones are sleek, slim... They (26) _______ users to perform... and (27) _______ videos. In the future, smartphones are (28) _______ to become more advanced... AI will (29) _______ a significant role... Smartphones will become more integrated (30) _______ our lives.\n\nĐiền vào ô (25).",
+      "options": [
+        "A. late",
+        "B. latest",
+        "C. later",
+        "D. lately"
+      ],
+      "correctIndex": 1,
+      "explanation": "'the latest smartphones' = điện thoại MỚI NHẤT. [Từ SBT Unit 11 Reading]"
+    },
+    {
+      "id": 26,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Điền từ]",
+      "question": "[Đề 1 - Điền từ]\nĐiền vào ô (26).",
+      "options": [
+        "A. admit",
+        "B. accept",
+        "C. let",
+        "D. allow"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cấu trúc: allow + sb + to V. 'allow users to perform...' = cho phép người dùng thực hiện. 'let' không đi với 'to perform'."
+    },
+    {
+      "id": 27,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Điền từ]",
+      "question": "[Đề 1 - Điền từ]\nĐiền vào ô (27).",
+      "options": [
+        "A. streaming",
+        "B. releasing",
+        "C. broadcasting",
+        "D. receiving"
+      ],
+      "correctIndex": 0,
+      "explanation": "'streaming videos' = xem video trực tuyến. 'releasing' = phát hành, 'broadcasting' = phát sóng (truyền hình) - không khớp."
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Điền từ]",
+      "question": "[Đề 1 - Điền từ]\nĐiền vào ô (28).",
+      "options": [
+        "A. like",
+        "B. likely",
+        "C. unlikely",
+        "D. likeness"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cấu trúc: 'be likely to V' = có khả năng sẽ làm gì. 'smartphones are likely to become more advanced'."
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Điền từ]",
+      "question": "[Đề 1 - Điền từ]\nĐiền vào ô (29).",
+      "options": [
+        "A. make",
+        "B. perform",
+        "C. play",
+        "D. do"
+      ],
+      "correctIndex": 2,
+      "explanation": "Collocation: 'play a role' = đóng vai trò. 'AI will play a significant role'."
+    },
+    {
+      "id": 30,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Điền từ]",
+      "question": "[Đề 1 - Điền từ]\nĐiền vào ô (30).",
+      "options": [
+        "A. for",
+        "B. in",
+        "C. to",
+        "D. into"
+      ],
+      "correctIndex": 3,
+      "explanation": "'integrated into' = tích hợp vào. 'more integrated INTO our lives' = tích hợp sâu hơn vào cuộc sống."
+    },
+    {
+      "id": 31,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Sắp xếp câu]",
+      "question": "[Đề 1 - Sắp xếp câu]\nSắp xếp đoạn văn về cải thiện môi trường trường học.\na. Firstly, we should clean up all areas regularly.\nb. There are three things we can do to improve the environment in our school.\nc. Secondly, we ought to set up more rubbish bins.\nd. In conclusion, we can improve the environment in our school in many ways...\ne. Finally, we should plant more trees.",
+      "options": [
+        "A. e-a-d-b-c",
+        "B. e-b-a-d-c",
+        "C. e-b-a-c-d",
+        "D. b-a-c-e-d"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cấu trúc đoạn: MỞ (b: There are three things) → Firstly (a) → Secondly (c) → Finally (e) → KẾT (d: In conclusion). Câu mở đầu PHẢI là (b) vì giới thiệu '3 things'."
+    },
+    {
+      "id": 32,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Sắp xếp câu]",
+      "question": "[Đề 1 - Sắp xếp câu]\nSắp xếp đoạn văn về việc teen làm part-time.\na. Teenagers may want to work part-time... Let's look at the pros and cons.\nb. So, if teenagers fail to balance work and study, they may drop out of school.\nc. Secondly, they can learn to manage their time better.\nd. First, a part-time job provides extra pocket money.\ne. In conclusion, teenagers should be aware of both the pros and cons...\nf. On the other hand, working teens may become tired and stressed...",
+      "options": [
+        "A. d-b-a-c-f-e",
+        "B. e-f-b-d-a-c",
+        "C. b-d-a-c-e-f",
+        "D. a-d-c-f-b-e"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mở bài (a) → Ưu 1 (d: First) → Ưu 2 (c: Secondly) → Chuyển (f: On the other hand) → Nhược (b: So if...) → Kết (e: In conclusion)."
+    },
+    {
+      "id": 33,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Sắp xếp câu]",
+      "question": "[Đề 1 - Sắp xếp câu]\nSắp xếp thành bức thư.\na. Besides, I must get up sooner so that I can have breakfast...\nb. Dear sister, I hope you are OK and will succeed in your job\nc. Also, life is hard, which reminds me the day in Vietnam...\nd. Lots of love.\ne. Firstly, I'm sorry that I wake you up at 6 AM...",
+      "options": [
+        "A. a-b-c-d-e",
+        "B. e-d-c-b-a",
+        "C. b-e-a-c-d",
+        "D. d-c-a-e-b"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thư: MỞ (b: Dear sister) → Firstly (e) → Besides (a) → Also (c) → KẾT (d: Lots of love)."
+    },
+    {
+      "id": 34,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Tìm lỗi sai]",
+      "question": "[Đề 1 - Tìm lỗi sai]\nI suggest (A) go (B) to (C) school (D) by bicycle.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sau 'suggest' phải dùng V-ing. Sửa: 'I suggest GOING to school by bicycle.' Hoặc: 'I suggest that we (should) go...'"
+    },
+    {
+      "id": 35,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Tìm lỗi sai]",
+      "question": "[Đề 1 - Tìm lỗi sai]\nThe exchange student (A) which (B) knowledge of English grammar is excellent is very friendly (C)(D).",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu có cấu trúc SỞ HỮU ('kiến thức CỦA học sinh') → dùng 'whose'. Sửa: 'The exchange student WHOSE knowledge of English...'"
+    },
+    {
+      "id": 36,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Tìm lỗi sai]",
+      "question": "[Đề 1 - Tìm lỗi sai]\nThe bigger (A) the shopping mall is (B), the attractive (C) it is to teenagers (D).",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctIndex": 2,
+      "explanation": "So sánh kép: 'The + [so sánh hơn] + ..., the + [so sánh hơn] + ...'. 'attractive' là tính từ dài → 'MORE attractive'."
+    },
+    {
+      "id": 37,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Viết lại câu]",
+      "question": "[Đề 1 - Viết lại câu]\nThe weather is good tomorrow. I can go swimming with my friends.",
+      "options": [
+        "A. If the weather is good tomorrow, I could go swimming with my friends.",
+        "B. If the weather is good tomorrow, I can't go swimming with my friends.",
+        "C. If the weather were good tomorrow, I can go swimming with my friends.",
+        "D. If the weather is good tomorrow, I can go swimming with my friends."
+      ],
+      "correctIndex": 3,
+      "explanation": "ĐK loại 1: 'If + hiện tại, can/will + V'. A sai (could không chắc), B sai nghĩa, C sai thì (were là ĐK loại 2)."
+    },
+    {
+      "id": 38,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Viết lại câu]",
+      "question": "[Đề 1 - Viết lại câu]\nThis is the house. It was built in 2000.",
+      "options": [
+        "A. This is the house where was built in 2000.",
+        "B. This is the house whose was built in 2000.",
+        "C. This is the house which it was built in 2000.",
+        "D. This is the house which was built in 2000."
+      ],
+      "correctIndex": 3,
+      "explanation": "'the house' là VẬT → 'which'. KHÔNG lặp 'it' sau 'which' (loại C). 'where' phải có mệnh đề hoàn chỉnh sau (loại A)."
+    },
+    {
+      "id": 39,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Hoàn thành câu]",
+      "question": "[Đề 1 - Hoàn thành câu]\nShe wishes that _______",
+      "options": [
+        "A. someone could help her to solve this problem.",
+        "B. She feels regret not to solve this problem.",
+        "C. someone can help her to solve this problem.",
+        "D. she can solve this problem."
+      ],
+      "correctIndex": 0,
+      "explanation": "Cấu trúc: 'wish + S + V(lùi thì)' cho điều ước không có thật ở hiện tại. can → could. Loại C, D vì dùng 'can'."
+    },
+    {
+      "id": 40,
+      "type": "multiple-choice",
+      "section": "[Đề 1 - Hoàn thành câu]",
+      "question": "[Đề 1 - Hoàn thành câu]\nThe girl _______",
+      "options": [
+        "A. which lived next door to us is very hospitable.",
+        "B. is very hospitable who lived next door to us.",
+        "C. who she lived next door to us is very hospitable.",
+        "D. who lived next door to us is very hospitable."
+      ],
+      "correctIndex": 3,
+      "explanation": "'The girl' là NGƯỜI → 'who' (loại A). KHÔNG lặp 'she' sau 'who' (loại C). B sai trật tự."
+    },
+    {
+      "id": 41,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Phát âm]",
+      "question": "[Đề 2 - Phát âm]\nChọn từ có âm 'a' phát âm khác.",
+      "options": [
+        "A. appreciate",
+        "B. habitat",
+        "C. agency",
+        "D. chain"
+      ],
+      "correctIndex": 1,
+      "explanation": "agency, chain có 'a' = /eɪ/; appreciate có 'a' trong '-ate' cũng /eɪ/. Riêng habitat có 'a' = /æ/ (ngắn). → B khác."
+    },
+    {
+      "id": 42,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Phát âm]",
+      "question": "[Đề 2 - Phát âm]\nChọn từ có 'u' phát âm khác.",
+      "options": [
+        "A. rubber",
+        "B. suck",
+        "C. hunt",
+        "D. surgeon"
+      ],
+      "correctIndex": 3,
+      "explanation": "rubber, suck, hunt có 'u' = /ʌ/. surgeon có 'ur' = /ɜː/. → D khác."
+    },
+    {
+      "id": 43,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Trọng âm]",
+      "question": "[Đề 2 - Trọng âm]\nChọn từ có trọng âm khác vị trí.",
+      "options": [
+        "A. permit (v)",
+        "B. model",
+        "C. estimate",
+        "D. habitat"
+      ],
+      "correctIndex": 0,
+      "explanation": "Khi 'permit' là ĐỘNG TỪ (allow) thì nhấn âm 2 (per-MIT). model, estimate, habitat nhấn âm 1. → A khác."
+    },
+    {
+      "id": 44,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Trọng âm]",
+      "question": "[Đề 2 - Trọng âm]\nChọn từ có trọng âm khác vị trí.",
+      "options": [
+        "A. majestic",
+        "B. tourism",
+        "C. establish",
+        "D. consist"
+      ],
+      "correctIndex": 1,
+      "explanation": "majestic (ma-JES-tic), establish (es-TAB-lish), consist (con-SIST) nhấn âm 2. tourism (TOU-rism) nhấn âm 1."
+    },
+    {
+      "id": 45,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Từ đồng nghĩa]",
+      "question": "[Đề 2 - Từ đồng nghĩa]\nEnglish ENHANCES my career prospects.",
+      "options": [
+        "A. develop",
+        "B. Has",
+        "C. creates",
+        "D. improves"
+      ],
+      "correctIndex": 3,
+      "explanation": "'enhances' = nâng cao, cải thiện → đồng nghĩa 'improves'. A sai dạng động từ (không chia). C 'creates' = tạo ra, không phù hợp."
+    },
+    {
+      "id": 46,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Từ trái nghĩa]",
+      "question": "[Đề 2 - Từ trái nghĩa]\nOne way to RAISE people's awareness of the need to protect our Earth is to follow the 3Rs.",
+      "options": [
+        "A. low",
+        "B. increase",
+        "C. develop",
+        "D. lower"
+      ],
+      "correctIndex": 3,
+      "explanation": "'raise' = nâng cao → trái nghĩa 'lower' (hạ xuống). 'low' là TÍNH TỪ (loại A). increase, develop đồng nghĩa với raise."
+    },
+    {
+      "id": 47,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Giao tiếp]",
+      "question": "[Đề 2 - Giao tiếp]\nKim: Here you are. The book is a bit thick but it's interesting. - Minh: _______",
+      "options": [
+        "A. I don't think so. It's a great film.",
+        "B. Yeah. Mr Kien wants a thick book.",
+        "C. Thanks. Hopefully, I can finish it.",
+        "D. I agree. A thick book is boring."
+      ],
+      "correctIndex": 2,
+      "explanation": "Kim đưa sách. Minh nhận và cảm ơn, hi vọng đọc xong → C phù hợp. [Đúng nguyên văn SBT Unit 12 Speaking]"
+    },
+    {
+      "id": 48,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Giao tiếp]",
+      "question": "[Đề 2 - Giao tiếp]\nPeter: _______ - Nick: I hope so, too.",
+      "options": [
+        "A. All we can do now is to wait and hope.",
+        "B. The exam went better than she hoped.",
+        "C. I hope they will extend the registration deadline.",
+        "D. The career orientation session takes place this afternoon."
+      ],
+      "correctIndex": 2,
+      "explanation": "Nick nói 'I hope so, too' (Tôi cũng mong vậy) → câu trước phải chứa 'hope' + nội dung cụ thể. C phù hợp: Peter 'hy vọng' gia hạn hạn đăng ký. [SBT Unit 12]"
+    },
+    {
+      "id": 49,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 2 - Ngữ pháp & Từ vựng]\nIt was risky for him to climb the peak, but we couldn't help admiring his _______",
+      "options": [
+        "A. encourage",
+        "B. brave",
+        "C. fear",
+        "D. courage"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sau 'his' cần DANH TỪ. 'courage' (n) = lòng dũng cảm. 'encourage' là động từ, 'brave' là tính từ (loại). [Nguyên văn SGK Unit 7 Getting Started]"
+    },
+    {
+      "id": 50,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 2 - Ngữ pháp & Từ vựng]\nTourism _______ millions of dollars to our country's economy.",
+      "options": [
+        "A. Develop",
+        "B. develops",
+        "C. contribute",
+        "D. contributes"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Tourism' là chủ ngữ số ít → động từ phải thêm -s. 'contribute to' = đóng góp vào. develop = phát triển (không hợp nghĩa). → D. [SGK Unit 7]"
+    },
+    {
+      "id": 51,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 2 - Ngữ pháp & Từ vựng]\nThere is a(n) _______ need to preserve biological diversity of our national parks.",
+      "options": [
+        "A. Annual",
+        "B. encourage",
+        "C. urgent",
+        "D. diverse"
+      ],
+      "correctIndex": 2,
+      "explanation": "'urgent need' = nhu cầu cấp bách. annual (hàng năm), diverse (đa dạng) không phù hợp ngữ cảnh. [SGK Unit 7 A Closer Look 1]"
+    },
+    {
+      "id": 52,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 2 - Ngữ pháp & Từ vựng]\nWhen I asked her to go to Lan Ha Bay with me, she agreed without _______",
+      "options": [
+        "A. Hesitate",
+        "B. hesitation",
+        "C. permit",
+        "D. permission"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sau giới từ 'without' cần DANH TỪ. 'hesitation' (n) = sự do dự. 'without hesitation' = không chút do dự. [SGK Unit 7]"
+    },
+    {
+      "id": 53,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 2 - Ngữ pháp & Từ vựng]\nThe best way to _______ the Trang An Landscape Complex is by boat.",
+      "options": [
+        "A. Go",
+        "B. explore",
+        "C. develop",
+        "D. preserve"
+      ],
+      "correctIndex": 1,
+      "explanation": "'explore' = khám phá. 'The best way to EXPLORE Trang An by boat' = Cách tốt nhất để KHÁM PHÁ Tràng An là đi thuyền. [SGK Unit 7]"
+    },
+    {
+      "id": 54,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 2 - Ngữ pháp & Từ vựng]\nNoi Bai Airport has two terminals: one for international flights and one for _______ flights.",
+      "options": [
+        "A. domestic",
+        "B. domestics",
+        "C. country",
+        "D. countries"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đối lập với 'international' (quốc tế) là 'domestic' (nội địa). 'domestic flights' = chuyến bay nội địa. [SGK Unit 8]"
+    },
+    {
+      "id": 55,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 2 - Ngữ pháp & Từ vựng]\nYou should learn how to use _______ for booking transportation and accommodation.",
+      "options": [
+        "A. online apps",
+        "B. offline apps",
+        "C. online app",
+        "D. offline app"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đặt vé xe và chỗ ở cần ỨNG DỤNG TRỰC TUYẾN (online apps - số nhiều vì nhiều loại app). [SGK Unit 8]"
+    },
+    {
+      "id": 56,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 2 - Ngữ pháp & Từ vựng]\nThe passengers _______ missed their flight were rebooked for the next available one.",
+      "options": [
+        "A. Who",
+        "B. whom",
+        "C. whose",
+        "D. which"
+      ],
+      "correctIndex": 0,
+      "explanation": "'The passengers' (hành khách = NGƯỜI) làm CHỦ NGỮ cho mệnh đề quan hệ → 'who' (loại B whom là tân ngữ)."
+    },
+    {
+      "id": 57,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 2 - Ngữ pháp & Từ vựng]\nThe old castle is now a _______ that attracts history lovers from around the world.",
+      "options": [
+        "A. ruinous site",
+        "B. Google Map",
+        "C. entrance ticket",
+        "D. cheap transportation"
+      ],
+      "correctIndex": 0,
+      "explanation": "'ruinous site' = di tích đổ nát. Lâu đài cũ = di tích thu hút người yêu lịch sử → A. [SGK Unit 8]"
+    },
+    {
+      "id": 58,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 2 - Ngữ pháp & Từ vựng]\nCurry is a dish _______ is popular all over the world.",
+      "options": [
+        "A. Who",
+        "B. which",
+        "C. whose",
+        "D. whom"
+      ],
+      "correctIndex": 1,
+      "explanation": "'a dish' (món ăn = VẬT) → dùng 'which'. 'that' cũng được nhưng không có trong đáp án."
+    },
+    {
+      "id": 59,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Đọc hiểu]",
+      "question": "[Đề 2 - Đọc hiểu]\n\nAustralia is a country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands. It is the world's sixth-largest country by total area. Australia's capital is Canberra...\n\nFor about 50000 years before the first British settlement in the late 18th century, Australia was inhabited by indigenous Australians... On 1 January 1901, the six colonies federated, forming the Commonwealth of Australia...\n\nAustralia's capital is _______",
+      "options": [
+        "A. Sydney",
+        "B. Melbourne",
+        "C. Canberra",
+        "D. Tasmania"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bài nói rõ: 'Australia's capital is Canberra'. Lưu ý: Sydney là thành phố lớn nhất chứ không phải thủ đô."
+    },
+    {
+      "id": 60,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Đọc hiểu]",
+      "question": "[Đề 2 - Đọc hiểu]\nAustralia is the world's _______ largest country by total area.",
+      "options": [
+        "A. Fourth",
+        "B. Fifth",
+        "C. Sixth",
+        "D. Seventh"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bài: 'It is the world's sixth-largest country by total area'."
+    },
+    {
+      "id": 61,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Đọc hiểu]",
+      "question": "[Đề 2 - Đọc hiểu]\nBefore British settlement, Australia was inhabited by _______",
+      "options": [
+        "A. Europeans",
+        "B. Indigenous Australians",
+        "C. Americans",
+        "D. Asians"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bài: 'Australia was inhabited by indigenous Australians' (dân bản địa Úc sống ở đó trước khi Anh tới)."
+    },
+    {
+      "id": 62,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Đọc hiểu]",
+      "question": "[Đề 2 - Đọc hiểu]\nWhen did the six colonies federate to form the Commonwealth of Australia?",
+      "options": [
+        "A. 1770",
+        "B. 1788",
+        "C. 1850",
+        "D. 1901"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bài: 'On 1 January 1901, the six colonies federated'. 1770 là năm Anh tuyên bố chủ quyền; 1788 là năm bắt đầu định cư."
+    },
+    {
+      "id": 63,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Đọc hiểu]",
+      "question": "[Đề 2 - Đọc hiểu]\nWhich statement is TRUE according to the passage?",
+      "options": [
+        "A. Australia has the largest economy in the world",
+        "B. Most people in Australia live in rural areas",
+        "C. Australia has a stable liberal democratic political system",
+        "D. Australia was discovered by British explorers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bài: 'Australia has since maintained a stable liberal democratic political system'. A sai (Úc đứng thứ 13), B sai (dân cư tập trung đô thị), D sai (Hà Lan phát hiện, Anh mới định cư)."
+    },
+    {
+      "id": 64,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Đọc hiểu]",
+      "question": "[Đề 2 - Đọc hiểu]\nWhy did the population of Australia grow steadily after 1788?",
+      "options": [
+        "A. Because of natural disasters",
+        "B. Because of penal transportation and colonization",
+        "C. Because of industrialization",
+        "D. Because of tourism"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bài: 'initially settled through penal transportation... from 26 January 1788. The population grew steadily in subsequent decades'. → Do người bị đày đi tù và chính sách thuộc địa."
+    },
+    {
+      "id": 65,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Điền từ]",
+      "question": "[Đề 2 - Điền từ]\n\nIt is great (25) _______ pen pals... Many of my friends have pen pals and they correspond (26) _______. A friend of (27) _______ once got a letter from the school mailbox... we have a lot of things (28) _______ common. Jenny has never been to Viet Nam. (29) _______, she thinks well of our country... I hope (30) _______ an exchange student in Australia some day.\n\nĐiền vào ô (25).",
+      "options": [
+        "A. have",
+        "B. To have",
+        "C. having",
+        "D. had"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cấu trúc: 'It is + adj + to V' = thật là... khi làm gì. 'It is great TO HAVE pen pals' = thật tuyệt khi có bạn qua thư."
+    },
+    {
+      "id": 66,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Điền từ]",
+      "question": "[Đề 2 - Điền từ]\nĐiền vào ô (26).",
+      "options": [
+        "A. regular",
+        "B. fluent",
+        "C. regularly",
+        "D. fluently"
+      ],
+      "correctIndex": 2,
+      "explanation": "'correspond' là ĐỘNG TỪ (thư từ qua lại) → cần TRẠNG TỪ (adverb) bổ nghĩa. 'regularly' = thường xuyên."
+    },
+    {
+      "id": 67,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Điền từ]",
+      "question": "[Đề 2 - Điền từ]\nĐiền vào ô (27).",
+      "options": [
+        "A. mine",
+        "B. my",
+        "C. her",
+        "D. hers"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cấu trúc: 'a friend of mine' = một người bạn của tôi (đại từ sở hữu). 'my' + N (phải đi với danh từ ngay sau), 'a friend of me' sai."
+    },
+    {
+      "id": 68,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Điền từ]",
+      "question": "[Đề 2 - Điền từ]\nĐiền vào ô (28).",
+      "options": [
+        "A. in",
+        "B. On",
+        "C. about",
+        "D. with"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cụm từ cố định: 'have something in common' = có điểm chung. 'have a lot of things IN common' = có nhiều điểm chung."
+    },
+    {
+      "id": 69,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Điền từ]",
+      "question": "[Đề 2 - Điền từ]\nĐiền vào ô (29).",
+      "options": [
+        "A. therefore",
+        "B. However",
+        "C. but",
+        "D. so"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu trước: 'Jenny chưa từng tới VN' - câu sau: 'cô ấy vẫn nghĩ tốt về VN'. Hai ý đối lập → dùng 'However' (Tuy nhiên)."
+    },
+    {
+      "id": 70,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Điền từ]",
+      "question": "[Đề 2 - Điền từ]\nĐiền vào ô (30).",
+      "options": [
+        "A. being",
+        "B. Be",
+        "C. Will be",
+        "D. To be"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cấu trúc: 'hope to V' = hi vọng làm gì. 'I hope TO BE an exchange student' = Tôi hi vọng sẽ là học sinh trao đổi."
+    },
+    {
+      "id": 71,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Sắp xếp câu]",
+      "question": "[Đề 2 - Sắp xếp câu]\nSắp xếp thành đoạn hội thoại về Colosseum.\na. Jack: Oh, that sounds fun! Where is it located?\nb. Emma: It's one of the most famous places in Italy.\nc. Jack: Have you ever been to the Colosseum?\nd. Emma: No, but I'd love to visit someday.",
+      "options": [
+        "A. c – b – a – d",
+        "B. c – d – a – b",
+        "C. a – d – c – b",
+        "D. d – c – b – a"
+      ],
+      "correctIndex": 1,
+      "explanation": "Jack hỏi (c) → Emma trả lời chưa nhưng muốn đi (d) → Jack hỏi ở đâu (a) → Emma trả lời ở Ý (b)."
+    },
+    {
+      "id": 72,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Sắp xếp câu]",
+      "question": "[Đề 2 - Sắp xếp câu]\nSắp xếp thành đoạn hội thoại về Bali.\na. Mia: The beaches there look so relaxing.\nb. Mia: Have you heard about Bali?\nc. Sam: Yes! It's a great destination for people who love nature and the ocean.\nd. Sam: I'd love to visit someday.",
+      "options": [
+        "A. b – c – a – d",
+        "B. a – b – c – d",
+        "C. b – a – c – d",
+        "D. d – a – b –"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mia hỏi (b) → Sam xác nhận (c) → Mia bình luận về bãi biển (a) → Sam muốn đi (d)."
+    },
+    {
+      "id": 73,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Sắp xếp câu]",
+      "question": "[Đề 2 - Sắp xếp câu]\nSắp xếp thành đoạn hội thoại về Vịnh Hạ Long.\na. Zoe: That sounds amazing. I'd love to see it someday!\nb. Lucas: You can even take a boat tour to see the limestone cliffs up close.\nc. Lucas: It's one of the most beautiful places in Vietnam.\nd. Zoe: What do you know about Halong Bay?",
+      "options": [
+        "A. b – c – a – d",
+        "B. c – b – d – a",
+        "C. a – b – c – d",
+        "D. d – c – b – a"
+      ],
+      "correctIndex": 3,
+      "explanation": "Zoe hỏi (d) → Lucas nói đẹp (c) → Lucas thông tin thêm về boat tour (b) → Zoe muốn xem (a)."
+    },
+    {
+      "id": 74,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Tìm lỗi sai]",
+      "question": "[Đề 2 - Tìm lỗi sai]\nThe name of Earth, (A) that (B) is a Germanic word, means the \"ground\" (C)(D).",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mệnh đề quan hệ KHÔNG XÁC ĐỊNH (có dấu phẩy) KHÔNG được dùng 'that'. Phải dùng 'which'. Sửa: 'The name of Earth, WHICH is a Germanic word...'"
+    },
+    {
+      "id": 75,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Tìm lỗi sai]",
+      "question": "[Đề 2 - Tìm lỗi sai]\nI attended (A) a course in (B) teaching so (C) I want to enter the teaching profession (D).",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trong ngữ cảnh khóa học về chủ đề gì, thường dùng 'a course ON [chủ đề]'. 'course on teaching' = khóa học về giảng dạy. Ghi chú: 'course in' cũng dùng được (chuyên ngành) nên đây là dạng câu gây tranh cãi nhẹ."
+    },
+    {
+      "id": 76,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Tìm lỗi sai]",
+      "question": "[Đề 2 - Tìm lỗi sai]\nWriting novels (A) are (B) a passion of my mum, whose job (C) is not at all related to writing (D).",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Writing novels' là DANH ĐỘNG TỪ làm chủ ngữ → chia động từ SỐ ÍT. Tương tự: 'Reading books IS fun', 'Learning English IS important'."
+    },
+    {
+      "id": 77,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Viết lại câu]",
+      "question": "[Đề 2 - Viết lại câu]\nNha Trang is a beautiful beach city. My best friend comes from this city.",
+      "options": [
+        "A. My best friend comes from this city, which is Nha Trang.",
+        "B. Nha Trang, which my best friend comes from, is a beautiful beach city.",
+        "C. Nha Trang which my best friend comes from is a beautiful beach city.",
+        "D. My best friend comes from Nha Trang which is a beautiful beach city."
+      ],
+      "correctIndex": 1,
+      "explanation": "Thông tin CHÍNH của câu gốc là 'Nha Trang là thành phố biển đẹp' → nên là mệnh đề chính. Thông tin PHỤ ('bạn tôi đến từ đó') chèn vào bằng mệnh đề quan hệ không xác định (có dấu phẩy). C sai vì thiếu dấu phẩy."
+    },
+    {
+      "id": 78,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Viết lại câu]",
+      "question": "[Đề 2 - Viết lại câu]\nThe government has taken measures to reduce air pollution.",
+      "options": [
+        "A. The government has ignored air pollution problems.",
+        "B. The government has made efforts to decrease air pollution.",
+        "C. The government has increased air pollution levels.",
+        "D. The government has prevented people from measuring air pollution."
+      ],
+      "correctIndex": 1,
+      "explanation": "'take measures' = đưa ra biện pháp ≈ 'make efforts' = nỗ lực. 'reduce' = 'decrease' (giảm). A/C/D đều sai nghĩa."
+    },
+    {
+      "id": 79,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Hoàn thành câu]",
+      "question": "[Đề 2 - Hoàn thành câu]\nShe sneezed when _______",
+      "options": [
+        "A. I gave for her a slice pizza",
+        "B. I gave for her a slice of pizza",
+        "C. I gave her a slice of pizza",
+        "D. Gave her a slice of pizza"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cấu trúc 'give sb sth' (không có 'for'). Phải có 'a slice OF pizza' (một MIẾNG pizza - có 'of'). D thiếu chủ ngữ."
+    },
+    {
+      "id": 80,
+      "type": "multiple-choice",
+      "section": "[Đề 2 - Hoàn thành câu]",
+      "question": "[Đề 2 - Hoàn thành câu]\nIf you go on safari, _______",
+      "options": [
+        "A. You can see wild animal in their natural habitat",
+        "B. You can see wildlife animals in their natural habitat",
+        "C. You can see natural habitat in wild animals",
+        "D. You can see wild animals in their natural habitat"
+      ],
+      "correctIndex": 3,
+      "explanation": "'wild animals' = động vật hoang dã (số nhiều). A sai vì 'animal' số ít không khớp 'their'. B sai vì 'wildlife animals' thừa (wildlife đã có nghĩa động vật hoang dã). C đảo ngược vô nghĩa. [Nguyên văn SGK Unit 8]"
+    },
+    {
+      "id": 81,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Phát âm]",
+      "question": "[Đề 3 - Phát âm]\nChọn từ có 'o' phát âm khác.",
+      "options": [
+        "A. propose",
+        "B. occur",
+        "C. consist",
+        "D. model"
+      ],
+      "correctIndex": 3,
+      "explanation": "propose, occur, consist có 'o' ở âm tiết không nhấn = /ə/ (âm schwa). model có 'o' = /ɒ/ rõ ràng. → D khác."
+    },
+    {
+      "id": 82,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Phát âm]",
+      "question": "[Đề 3 - Phát âm]\nChọn từ có 'a' phát âm khác.",
+      "options": [
+        "A. paradise",
+        "B. annual",
+        "C. admire",
+        "D. access"
+      ],
+      "correctIndex": 2,
+      "explanation": "paradise, annual, access có 'a' = /æ/. admire có 'a' = /ə/ (âm schwa, không nhấn). → C khác."
+    },
+    {
+      "id": 83,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Trọng âm]",
+      "question": "[Đề 3 - Trọng âm]\nChọn từ có trọng âm khác vị trí.",
+      "options": [
+        "A. advice",
+        "B. improve",
+        "C. plastic",
+        "D. protect"
+      ],
+      "correctIndex": 2,
+      "explanation": "advice, improve, protect nhấn âm 2. plastic (PLAS-tic) nhấn âm 1."
+    },
+    {
+      "id": 84,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Trọng âm]",
+      "question": "[Đề 3 - Trọng âm]\nChọn từ có trọng âm khác vị trí.",
+      "options": [
+        "A. surface",
+        "B. grassland",
+        "C. agent",
+        "D. preserve"
+      ],
+      "correctIndex": 3,
+      "explanation": "surface, grassland, agent nhấn âm 1. preserve (pre-SERVE) nhấn âm 2."
+    },
+    {
+      "id": 85,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Từ đồng nghĩa]",
+      "question": "[Đề 3 - Từ đồng nghĩa]\nMillions of animals die every year because man has POLLUTED their natural home or 'habitat'.",
+      "options": [
+        "A. endangered (gây nguy hiểm)",
+        "B. contaminated (làm ô nhiễm)",
+        "C. effective (hiệu quả)",
+        "D. balanced (cân bằng)"
+      ],
+      "correctIndex": 1,
+      "explanation": "'polluted' = làm ô nhiễm → đồng nghĩa 'contaminated'. 'endangered' có nghĩa liên quan nhưng khác: 'endangered' = gây nguy hiểm cho loài, còn 'polluted/contaminated' = làm ô nhiễm môi trường."
+    },
+    {
+      "id": 86,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Từ trái nghĩa]",
+      "question": "[Đề 3 - Từ trái nghĩa]\nEveryone can MAKE A CONTRIBUTION to protect the environment.",
+      "options": [
+        "A. take action",
+        "B. hesitate (do dự)",
+        "C. do nothing (không làm gì)",
+        "D. decide (quyết định)"
+      ],
+      "correctIndex": 2,
+      "explanation": "'make a contribution' = đóng góp, hành động → trái nghĩa 'do nothing' (không làm gì). 'take action' là đồng nghĩa nên loại."
+    },
+    {
+      "id": 87,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Giao tiếp]",
+      "question": "[Đề 3 - Giao tiếp]\nMi: Can I borrow your English-English dictionary for a while, Nam? - Nam: _______",
+      "options": [
+        "A. Yes, you can.",
+        "B. No, you can't.",
+        "C. Sure. Here you are.",
+        "D. Sure. It's useful."
+      ],
+      "correctIndex": 2,
+      "explanation": "Khi ai mượn đồ và đồng ý, cách nói tự nhiên là 'Sure. Here you are' (Tất nhiên. Đây rồi). 'Yes, you can' quá cứng nhắc. 'It's useful' lạc đề."
+    },
+    {
+      "id": 88,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Giao tiếp]",
+      "question": "[Đề 3 - Giao tiếp]\nStranger: You must keep quiet in the museum, please. - Ann: _______",
+      "options": [
+        "A. Yes, I agree.",
+        "B. No, I don't agree.",
+        "C. Yes, I think so.",
+        "D. I'm sorry."
+      ],
+      "correctIndex": 3,
+      "explanation": "Khi bị nhắc nhở (có thể Ann đã làm ồn), cách đáp lễ phép là 'I'm sorry' (Xin lỗi). Các đáp án khác nghe lạc lõng."
+    },
+    {
+      "id": 89,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 3 - Ngữ pháp & Từ vựng]\nShe asked the children _______ listening to her.",
+      "options": [
+        "A. if were they",
+        "B. whether they are",
+        "C. if they were",
+        "D. whether we were"
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu tường thuật Y/N: 'ask + if/whether + S + V(lùi thì)'. KHÔNG đảo trật tự (loại A). 'are' phải lùi thành 'were' (loại B). Đại từ giữ 'they' (loại D dùng 'we')."
+    },
+    {
+      "id": 90,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 3 - Ngữ pháp & Từ vựng]\nWhenever I visit a new place, I use _______ to get directions.",
+      "options": [
+        "A. trip itinerary",
+        "B. guided tour",
+        "C. package holiday",
+        "D. Google Maps"
+      ],
+      "correctIndex": 3,
+      "explanation": "'get directions' = tìm đường → dùng 'Google Maps' (bản đồ). Các đáp án khác không giúp tìm đường."
+    },
+    {
+      "id": 91,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 3 - Ngữ pháp & Từ vựng]\nMother Earth _______ us with air to breathe, water to drink and food to eat.",
+      "options": [
+        "A. keeps",
+        "B. protects",
+        "C. provides",
+        "D. produces"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cấu trúc: 'provide sb WITH sth' = cung cấp cho ai cái gì. 'Mother Earth provides us WITH air...'. keep/protect/produce không đi với 'with'. [SBT Unit 10]"
+    },
+    {
+      "id": 92,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 3 - Ngữ pháp & Từ vựng]\nCould you recommend me a local tour guide _______ has good knowledge about the places?",
+      "options": [
+        "A. which",
+        "B. who",
+        "C. he",
+        "D. whose"
+      ],
+      "correctIndex": 1,
+      "explanation": "'a local tour guide' là NGƯỜI làm chủ ngữ mệnh đề quan hệ → 'who'. (Lưu ý: 'he' không phải đại từ quan hệ)."
+    },
+    {
+      "id": 93,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 3 - Ngữ pháp & Từ vựng]\nCan you help me to translate this English phrasal verb _______ Vietnamese?",
+      "options": [
+        "A. over",
+        "B. in",
+        "C. into",
+        "D. up"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cấu trúc: 'translate [something] INTO [language]' = dịch cái gì SANG ngôn ngữ nào. 'translate English into Vietnamese' = dịch từ Anh sang Việt."
+    },
+    {
+      "id": 94,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 3 - Ngữ pháp & Từ vựng]\nThe English-English dictionary _______ I bought at this store a few days ago is expensive.",
+      "options": [
+        "A. who",
+        "B. which",
+        "C. when",
+        "D. whose"
+      ],
+      "correctIndex": 1,
+      "explanation": "'dictionary' là VẬT, làm tân ngữ của 'bought' → 'which'. 'who' chỉ người (loại A), 'when' chỉ thời gian (loại C), 'whose' chỉ sở hữu (loại D)."
+    },
+    {
+      "id": 95,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 3 - Ngữ pháp & Từ vựng]\nNow my brother _______ his homework.",
+      "options": [
+        "A. doing",
+        "B. do",
+        "C. is doing",
+        "D. did"
+      ],
+      "correctIndex": 2,
+      "explanation": "Từ 'Now' là dấu hiệu thì HIỆN TẠI TIẾP DIỄN → 'is doing' (hành động đang diễn ra ngay lúc này)."
+    },
+    {
+      "id": 96,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 3 - Ngữ pháp & Từ vựng]\nThe boy _______ we met yesterday is very smart.",
+      "options": [
+        "A. which",
+        "B. whose",
+        "C. who",
+        "D. what"
+      ],
+      "correctIndex": 2,
+      "explanation": "'The boy' là NGƯỜI, làm TÂN NGỮ của 'met' → 'who' (hoặc 'whom'/'that'). 'what' không phải đại từ quan hệ trong tiếng Anh chuẩn."
+    },
+    {
+      "id": 97,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 3 - Ngữ pháp & Từ vựng]\n_______ she had university degree, she couldn't find a good job.",
+      "options": [
+        "A. So",
+        "B. Because",
+        "C. Although",
+        "D. However"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hai vế ý đối lập: 'có bằng ĐH' >< 'không tìm được việc tốt' → dùng 'Although' (mặc dù). 'However' là trạng từ (cần dấu chấm/chấm phẩy đứng trước - loại)."
+    },
+    {
+      "id": 98,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Ngữ pháp & Từ vựng]",
+      "question": "[Đề 3 - Ngữ pháp & Từ vựng]\nThe _______ more careful, he won't break it.",
+      "options": [
+        "A. is",
+        "B. was",
+        "C. were",
+        "D. will be"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu có vẻ bị lỗi OCR, nhưng hiểu là điều kiện 1: 'If he is more careful, he won't break it' = Nếu cậu ấy cẩn thận hơn, cậu sẽ không làm vỡ. → 'is' (hiện tại đơn sau If)."
+    },
+    {
+      "id": 99,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Đọc hiểu]",
+      "question": "[Đề 3 - Đọc hiểu]\n\nToday, computers are widely used and can be found in a variety of settings, including homes, offices, shops, hospitals, and schools. People rely on computers so heavily that many of them get frustrated and cannot work when computers are \"down\"...\n\nComputers of today are much quicker, cheaper, and smaller than those of the past. Many modern computers are so small that they are the size of a deck of cards. Users can work from a variety of settings thanks to notebook computers, also known as 'ultra-lights'...\n\nFuture computers will be smaller and faster than current models. They may have 'smart' or artificial intelligence features...\n\nWhere can computers be found according to the passage?",
+      "options": [
+        "A. Only in offices and schools.",
+        "B. In many different places like homes, offices, and hospitals.",
+        "C. Only in entertainment centers.",
+        "D. Only in technical institutions."
+      ],
+      "correctIndex": 1,
+      "explanation": "Bài: 'computers can be found in a variety of settings, including homes, offices, shops, hospitals, and schools' → B đúng."
+    },
+    {
+      "id": 100,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Đọc hiểu]",
+      "question": "[Đề 3 - Đọc hiểu]\nWhy do people get frustrated when computers are \"down\"?",
+      "options": [
+        "A. Because they don't know how to repair them.",
+        "B. Because they can't play games.",
+        "C. Because they rely on computers heavily.",
+        "D. Because they cannot work without them."
+      ],
+      "correctIndex": 2,
+      "explanation": "Bài: 'People rely on computers so heavily that many of them get frustrated...' - nguyên nhân là phụ thuộc nhiều. D cũng đúng ý nhưng C sát với 'heavily' hơn."
+    },
+    {
+      "id": 101,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Đọc hiểu]",
+      "question": "[Đề 3 - Đọc hiểu]\nWhat is NOT mentioned as a function of modern computers?",
+      "options": [
+        "A. Navigation",
+        "B. Entertainment",
+        "C. Cooking",
+        "D. Work"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bài nói computers dùng cho 'entertainment to navigation' và 'work'. KHÔNG nhắc đến 'cooking' (nấu ăn)."
+    },
+    {
+      "id": 102,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Đọc hiểu]",
+      "question": "[Đề 3 - Đọc hiểu]\nWhat are \"ultra-lights\" in the passage?",
+      "options": [
+        "A. Cell phones",
+        "B. Wireless routers",
+        "C. Notebook computers",
+        "D. Smart TVs"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bài: 'notebook computers, also known as ultra-lights' → 'ultra-lights' là tên khác của laptop/notebook."
+    },
+    {
+      "id": 103,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Đọc hiểu]",
+      "question": "[Đề 3 - Đọc hiểu]\nWhich of the following is TRUE about future computers?",
+      "options": [
+        "A. They will become larger but more powerful.",
+        "B. They won't need any internet connection.",
+        "C. They will use typewriters instead of keyboards.",
+        "D. They may include artificial intelligence features."
+      ],
+      "correctIndex": 3,
+      "explanation": "Bài: 'Future computers... may have smart or artificial intelligence features'. A sai (nhỏ hơn), B, C không được đề cập."
+    },
+    {
+      "id": 104,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Đọc hiểu]",
+      "question": "[Đề 3 - Đọc hiểu]\nWhat benefit will future computer features bring to users?",
+      "options": [
+        "A. Easier interaction and better data management.",
+        "B. More confusion and technical issues.",
+        "C. The need to carry more devices.",
+        "D. The replacement of all existing technology."
+      ],
+      "correctIndex": 0,
+      "explanation": "Bài: 'These features will make it simpler for users to interface with computers and manage a large amount of data'."
+    },
+    {
+      "id": 105,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Điền từ]",
+      "question": "[Đề 3 - Điền từ]\n\nEarth's habitats are various and many are threatened. Each habitat (25) _______ living things, non-living things... (26) _______ change or changes in population of plants and animals can cause changes to the natural (27) _______ and the ecology. That means to maintain an ecological balance, we shouldn't cause changes to the climate and the plants and (28) _______ of any habitat. In many countries, people have built nature reserves to keep (29) _______ plants and animals safe. People should also avoid activities that may cause pollution and (30) _______.\n\nĐiền vào ô (25).",
+      "options": [
+        "A. are",
+        "B. like",
+        "C. includes",
+        "D. have"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Each habitat' (số ít) + V(số ít). 'include' = bao gồm. 'Each habitat INCLUDES living things...'. [Nguyên văn SGK Unit 10 Looking Back]"
+    },
+    {
+      "id": 106,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Điền từ]",
+      "question": "[Đề 3 - Điền từ]\nĐiền vào ô (26).",
+      "options": [
+        "A. Climate",
+        "B. Weather",
+        "C. Temperature",
+        "D. Environment"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Climate change' = biến đổi khí hậu (thuật ngữ cố định). weather = thời tiết (ngắn hạn), không phải 'weather change'."
+    },
+    {
+      "id": 107,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Điền từ]",
+      "question": "[Đề 3 - Điền từ]\nĐiền vào ô (27).",
+      "options": [
+        "A. life",
+        "B. activity",
+        "C. food chain",
+        "D. condition"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nguyên văn SGK: 'changes to the natural FOOD CHAIN and the ecology' = ảnh hưởng đến CHUỖI THỨC ĂN tự nhiên và hệ sinh thái. [SGK Unit 10 Looking Back - trang 112]"
+    },
+    {
+      "id": 108,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Điền từ]",
+      "question": "[Đề 3 - Điền từ]\nĐiền vào ô (28).",
+      "options": [
+        "A. animals",
+        "B. flora",
+        "C. grass",
+        "D. green trees"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cụm từ cố định: 'plants and animals' = động thực vật. 'flora' đồng nghĩa với 'plants' (lặp). grass, green trees quá cụ thể."
+    },
+    {
+      "id": 109,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Điền từ]",
+      "question": "[Đề 3 - Điền từ]\nĐiền vào ô (29).",
+      "options": [
+        "A. available",
+        "B. endangered",
+        "C. useful",
+        "D. important"
+      ],
+      "correctIndex": 1,
+      "explanation": "Khu bảo tồn xây để bảo vệ động thực vật có NGUY CƠ TUYỆT CHỦNG (endangered). Bảo tồn loài 'available' (có sẵn) không hợp lý."
+    },
+    {
+      "id": 110,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Điền từ]",
+      "question": "[Đề 3 - Điền từ]\nĐiền vào ô (30).",
+      "options": [
+        "A. danger",
+        "B. death",
+        "C. risk",
+        "D. habitat loss"
+      ],
+      "correctIndex": 3,
+      "explanation": "'habitat loss' = mất môi trường sống (thuật ngữ môi trường). Đi đôi với 'pollution' làm 2 vấn đề lớn. [SGK Unit 10]"
+    },
+    {
+      "id": 111,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Sắp xếp câu]",
+      "question": "[Đề 3 - Sắp xếp câu]\nSắp xếp thành đoạn hội thoại học tiếng Anh.\na. I'm better at listening and speaking.\nb. Hi, I really admire your English. How much time do you spend learning English?\nc. I usually watch TV programmes and listen to news in English.\nd. I spend about one hour each day.\ne. Which language skills are you good at?\nf. Can you share with me some tips for improving my listening skills?",
+      "options": [
+        "A. b-a-e-d-f-c",
+        "B. b-f-c-e-a-d",
+        "C. b-d-e-a-f-c",
+        "D. b-c-c-e-a-d-f"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hỏi giờ học (b) → đáp 1 giờ (d) → hỏi kỹ năng nào giỏi (e) → nghe nói (a) → xin mẹo (f) → xem TV, nghe tin (c)."
+    },
+    {
+      "id": 112,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Sắp xếp câu]",
+      "question": "[Đề 3 - Sắp xếp câu]\nSắp xếp thành bức thư mời bạn Nancy.\na. Also, shall we go climbing in the mountains while you're here?\nb. I'm so excited that you're coming to stay with me for a week!\nc. See you soon\nd. Let me know if you have any questions.\ne. On your first evening here, there's a rock concert in our town.",
+      "options": [
+        "A. d-b-a-c-e",
+        "B. b-e-a-d-c",
+        "C. a-d-b-c-e",
+        "D. a-c-d-b-e"
+      ],
+      "correctIndex": 1,
+      "explanation": "MỞ (b: excited) → tối đầu có rock concert (e) → cũng đi leo núi chứ (a) → có gì hỏi nhé (d) → KẾT (c: See you soon)."
+    },
+    {
+      "id": 113,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Sắp xếp câu]",
+      "question": "[Đề 3 - Sắp xếp câu]\nSắp xếp đoạn văn 'Tôi không thích sống ở thành phố'.\na. Second, the air is often dirty because of pollution.\nb. Third, life in the city is expensive.\nc. I dislike city life. First, the city is very crowded and noisy.\nd. There are too many people, cars, and motorbikes, so it is hard to relax.\ne. In conclusion, I think living in the city is stressful.",
+      "options": [
+        "A. a-b-c-d-e",
+        "B. c-a-b-e-d",
+        "C. c-d-a-b-e",
+        "D. a-e-b-c-d"
+      ],
+      "correctIndex": 2,
+      "explanation": "MỞ + luận điểm 1 (c: dislike + First: crowded) → giải thích (d: too many people) → luận điểm 2 (a: Second, dirty air) → luận điểm 3 (b: Third, expensive) → KẾT (e: In conclusion)."
+    },
+    {
+      "id": 114,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Tìm lỗi sai]",
+      "question": "[Đề 3 - Tìm lỗi sai]\nIf you like chicken, I recommend eat at the restaurant opposite our office.",
+      "options": [
+        "A. like",
+        "B. eat",
+        "C. at",
+        "D. opposite"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sau 'recommend' phải dùng V-ing. Sửa: 'I recommend EATING at the restaurant'. [SGK Unit 11 A Closer Look 2]"
+    },
+    {
+      "id": 115,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Tìm lỗi sai]",
+      "question": "[Đề 3 - Tìm lỗi sai]\nWe asked them whether we were meeting our instructor today.",
+      "options": [
+        "A. them",
+        "B. meeting",
+        "C. instructor",
+        "D. today"
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu tường thuật (động từ 'asked' ở quá khứ), các trạng ngữ thời gian phải lùi: today → that day. Sửa: '...were meeting our instructor THAT DAY'."
+    },
+    {
+      "id": 116,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Tìm lỗi sai]",
+      "question": "[Đề 3 - Tìm lỗi sai]\nI have a friend which is very good at doing reading comprehension exercises.",
+      "options": [
+        "A. have",
+        "B. which",
+        "C. at",
+        "D. exercises"
+      ],
+      "correctIndex": 1,
+      "explanation": "'friend' là NGƯỜI → phải dùng 'who' (hoặc 'that'), không dùng 'which'. Sửa: 'I have a friend WHO is very good at...'"
+    },
+    {
+      "id": 117,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Viết lại câu]",
+      "question": "[Đề 3 - Viết lại câu]\nEarth moves round the Sun. The Sun gives light and heat to Earth.",
+      "options": [
+        "A. Earth moves round the Sun, that gives light and heat to Earth.",
+        "B. Earth moves round the Sun, which gives light and heat to Earth.",
+        "C. Earth moves round the Sun, what gives light and heat to Earth.",
+        "D. Earth moves round the Sun, whose gives light and heat to Earth."
+      ],
+      "correctIndex": 1,
+      "explanation": "Mệnh đề quan hệ KHÔNG XÁC ĐỊNH (có dấu phẩy) → KHÔNG dùng 'that' (loại A). 'what' không phải đại từ quan hệ (C). 'whose' phải + danh từ (D). → B đúng."
+    },
+    {
+      "id": 118,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Viết lại câu]",
+      "question": "[Đề 3 - Viết lại câu]\n\"Why don't you join our clean-up activities?\" Mai asked me.",
+      "options": [
+        "A. Mai asked me not to join her clean-up activities.",
+        "B. Mai suggested that I should join her clean-up activities.",
+        "C. Mai suggested join our clean-up activities.",
+        "D. Mai asked me why I don't join her clean-up activities."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Why don't you...?' = cấu trúc ĐỀ XUẤT (không phải câu hỏi thật). Tường thuật với 'suggest that S should V'. A sai nghĩa (đừng tham gia), C sai cấu trúc, D giữ nguyên câu hỏi không đúng."
+    },
+    {
+      "id": 119,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Hoàn thành câu]",
+      "question": "[Đề 3 - Hoàn thành câu]\nI forgot to bring money, _______",
+      "options": [
+        "A. so I could buy the career guidebook.",
+        "B. though I couldn't buy the career guidebook.",
+        "C. so I couldn't buy the career guidebook.",
+        "D. and I could buying the career guidebook."
+      ],
+      "correctIndex": 2,
+      "explanation": "Quên mang tiền → không mua được sách. Quan hệ NGUYÊN NHÂN - KẾT QUẢ → dùng 'so' + 'couldn't'. A sai logic (could buy), B 'though' sai liên từ."
+    },
+    {
+      "id": 120,
+      "type": "multiple-choice",
+      "section": "[Đề 3 - Hoàn thành câu]",
+      "question": "[Đề 3 - Hoàn thành câu]\nMy teacher advised that, _______",
+      "options": [
+        "A. I look for a part time to earn money.",
+        "B. I looked for a part time to earn money.",
+        "C. looking for a part time to earn money.",
+        "D. to look for a part time to earn money."
+      ],
+      "correctIndex": 0,
+      "explanation": "Cấu trúc BÀNG THÁI (subjunctive): 'advise/recommend/suggest + that + S + V(nguyên mẫu)'. 'I LOOK' (nguyên mẫu, không chia). B sai (chia thì), C/D sai cấu trúc."
+    }
+  ]
+}
