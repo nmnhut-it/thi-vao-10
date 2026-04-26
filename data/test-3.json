@@ -460,7 +460,7 @@
         "The doctor advised me to stop smoking as soon as possible.",
         "The doctor advised me to stop smoking as soon as possible"
       ],
-      "explanation": "Reported advice: advise + object + to-infinitive. 'You should...' -> 'advised me to...'"
+      "explanation": "Chuyển câu khuyên sang tường thuật: advise + O + to-V. 'You should give up smoking' → 'advised me to give up smoking'."
     },
     {
       "id": 34,
@@ -475,7 +475,7 @@
         "He was said to have grown a lot of cabbages in his field.",
         "He was said to have grown a lot of cabbages in his field"
       ],
-      "explanation": "Passive reporting: S + be + said + to-infinitive. When both verbs are past tense, 'to have V3' is also accepted."
+      "explanation": "Câu tường thuật bị động: S + was/were + said + to-V. 'he grew' → 'He was said to grow/have grown'."
     },
     {
       "id": 35,
@@ -488,7 +488,7 @@
         "It is difficult to follow your directions.",
         "It is difficult to follow your directions"
       ],
-      "explanation": "V-ing + is + adj = It is + adj + to-infinitive."
+      "explanation": "Đảo cấu trúc: V-ing làm chủ ngữ → 'It is + adj + to-V'. 'Following your directions is difficult' → 'It is difficult to follow your directions'."
     },
     {
       "id": 36,
@@ -501,7 +501,7 @@
         "He is interested in swimming and sunbathing.",
         "He is interested in swimming and sunbathing"
       ],
-      "explanation": "'be interested in' + V-ing = like doing something."
+      "explanation": "Thay 'likes' bằng cụm đồng nghĩa: 'be interested in' + V-ing. 'likes swimming and sunbathing' → 'is interested in swimming and sunbathing'."
     },
     {
       "id": 37,
