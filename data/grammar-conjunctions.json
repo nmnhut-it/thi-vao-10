@@ -318,7 +318,7 @@
       "instruction": "Rewrite the sentences using and/but/or/so.",
       "starterText": "The child hates",
       "answer": "The child hates getting up in the morning and also dislikes going to bed at night.",
-      "explanation": "Hai ý bổ sung nhau => nói bằng 'and'."
+      "explanation": "Chuyển hai câu bổ sung thành một câu với 'and also'. 'hates getting up... He also dislikes going to bed' → 'hates getting up... and also dislikes going to bed'."
     },
     {
       "id": 27,
@@ -327,7 +327,7 @@
       "instruction": "Rewrite the sentences using and/but/or/so.",
       "starterText": "He",
       "answer": "He is talented and also has a charm.",
-      "explanation": "Hai tính chất bổ sung => 'and'."
+      "explanation": "Chuyển hai câu bổ sung thành một câu với 'and also'. 'He is talented. He also has a charm' → 'He is talented and also has a charm'."
     },
     {
       "id": 28,
@@ -336,7 +336,7 @@
       "instruction": "Rewrite the sentences using and/but/or/so.",
       "starterText": "The street",
       "answer": "The street is lined with oak trees and elm trees.",
-      "explanation": "Gộp hai thành phần giống nhau bằng 'and'."
+      "explanation": "Gộp hai câu cùng cấu trúc bằng 'and'. 'lined with oak trees. It is also lined with elm trees' → 'lined with oak trees and elm trees'."
     },
     {
       "id": 29,
@@ -345,7 +345,7 @@
       "instruction": "Rewrite the sentences using and/but/or/so.",
       "starterText": "The lecture",
       "answer": "The lecture was long and boring.",
-      "explanation": "Gộp hai tính từ bổ sung: long and boring."
+      "explanation": "Gộp hai tính từ miêu tả cùng chủ ngữ bằng 'and'. 'was long. it was also boring' → 'was long and boring'."
     },
     {
       "id": 30,
@@ -354,7 +354,7 @@
       "instruction": "Rewrite the sentences using and/but/or/so.",
       "starterText": "We know",
       "answer": "We know him but we don't know his friends.",
-      "explanation": "Tương phản: biết anh ta NHƯNG không biết bạn anh ta => 'but'."
+      "explanation": "Chuyển hai câu tương phản thành một câu với 'but'. 'We know him. We don't know his friends' → 'We know him but we don't know his friends'."
     },
     {
       "id": 31,
@@ -363,7 +363,7 @@
       "instruction": "Rewrite the sentences using and/but/or/so.",
       "starterText": "They may",
       "answer": "They may leave today or tomorrow.",
-      "explanation": "Hai khả năng lựa chọn => 'or'."
+      "explanation": "Gộp hai lựa chọn bằng 'or'. 'may leave today. They also may leave tomorrow' → 'may leave today or tomorrow'."
     },
     {
       "id": 32,
@@ -372,7 +372,7 @@
       "instruction": "Rewrite the sentences using and/but/or/so.",
       "starterText": "I am proud",
       "answer": "I am proud to be here and happy to meet you here.",
-      "explanation": "Hai cảm xúc bổ sung => 'and'."
+      "explanation": "Gộp hai cảm xúc bổ sung cùng chủ ngữ bằng 'and'. 'proud to be here. also happy to meet you' → 'proud to be here and happy to meet you'."
     },
     {
       "id": 33,
@@ -381,7 +381,7 @@
       "instruction": "Rewrite using (if, and).",
       "starterText": "",
       "answer": "If you don't do your homework, you will get a bad mark and you will be kicked out of school.",
-      "explanation": "Điều kiện (if) + hai kết quả nói bằng 'and'."
+      "explanation": "Chuyển thành câu điều kiện với 'If' + hai kết quả nối bằng 'and'. 'don't do homework → get bad mark + kicked out of school'."
     },
     {
       "id": 34,
@@ -390,7 +390,7 @@
       "instruction": "Rewrite using (Therefore).",
       "starterText": "",
       "answer": "The young boy refused to obey the teacher. Therefore, he was sent home.",
-      "explanation": "Lý do trước, kết quả sau. 'Therefore' = vì vậy."
+      "explanation": "Đổi thứ tự: lý do trước, thêm 'Therefore' trước kết quả. 'was sent home. He refused to obey' → 'refused to obey. Therefore, he was sent home'."
     },
     {
       "id": 35,
@@ -399,7 +399,7 @@
       "instruction": "Rewrite using (However).",
       "starterText": "",
       "answer": "It cost a fortune to renovate our house. However, it was worth it.",
-      "explanation": "Tương phản: tốn nhiều tiền NHƯNG đáng giá => 'However'."
+      "explanation": "Thêm 'However' giữa hai câu tương phản. 'cost a fortune' → 'However, it was worth it'."
     },
     {
       "id": 36,
@@ -408,7 +408,7 @@
       "instruction": "Rewrite using (but).",
       "starterText": "",
       "answer": "He produces things quite slowly, but his products are really good.",
-      "explanation": "Tương phản: làm chậm NHƯNG sản phẩm tốt => 'but'."
+      "explanation": "Chuyển hai câu tương phản thành một câu với 'but'. 'produces things slowly. products are good' → 'produces things quite slowly, but his products are really good'."
     },
     {
       "id": 37,
@@ -462,7 +462,7 @@
       "instruction": "Rewrite the sentences using and/but/or/so.",
       "starterText": "You should",
       "answer": "You should eat less and do more exercises.",
-      "explanation": "Gộp hai lời khuyên bằng 'and'."
+      "explanation": "Gộp hai lời khuyên song song bằng 'and'. 'choose: eat less; do more exercises' → 'eat less and do more exercises'."
     },
     {
       "id": 43,
@@ -471,7 +471,7 @@
       "instruction": "Rewrite the sentences using and/but/or/so.",
       "starterText": "The train",
       "answer": "The train proceeded quickly and smoothly.",
-      "explanation": "Gộp hai trạng từ bằng 'and'."
+      "explanation": "Gộp hai trạng từ cùng miêu tả một hành động bằng 'and'. 'proceeded quickly. proceeded smoothly' → 'proceeded quickly and smoothly'."
     },
     {
       "id": 44,
@@ -480,16 +480,16 @@
       "instruction": "Rewrite the sentences using and/but/or/so.",
       "starterText": "The town",
       "answer": "The town is historical and picturesque.",
-      "explanation": "Gộp hai tính từ bằng 'and'."
+      "explanation": "Gộp hai tính từ miêu tả cùng chủ ngữ bằng 'and'. 'is historical. It is picturesque too' → 'is historical and picturesque'."
     },
     {
       "id": 45,
       "type": "sentence-rewrite",
-      "original": "The students easily got high score in the last examination. They were well-prepared.",
+      "original": "The students easily got high scores in the last examination. They were well-prepared.",
       "instruction": "Rewrite using (so).",
       "starterText": "",
-      "answer": "The students were well-prepared, so they easily got high score in the last examination.",
-      "explanation": "Lý do trước, kết quả sau. 'so' = vì vậy."
+      "answer": "The students were well-prepared, so they easily got high scores in the last examination.",
+      "explanation": "Đặt lý do trước, thêm 'so' trước kết quả. 'easily got high scores. They were well-prepared' → 'were well-prepared, so they easily got high scores'."
     },
     {
       "id": 46,
@@ -498,7 +498,7 @@
       "instruction": "Rewrite using (However).",
       "starterText": "",
       "answer": "It was raining. However, we still went to the park.",
-      "explanation": "Tương phản: trời mưa NHƯNG vẫn đi công viên => 'However'."
+      "explanation": "Thêm 'However' giữa hai câu tương phản. 'was raining' → 'However, we still went to the park'."
     },
     {
       "id": 47,
@@ -507,16 +507,16 @@
       "instruction": "Rewrite using (Therefore).",
       "starterText": "",
       "answer": "The weather is cold. Therefore, she put on a warm coat before going to work.",
-      "explanation": "Lý do (trời lạnh) => kết quả (mặc áo ấm). 'Therefore' = vì vậy."
+      "explanation": "Đổi thứ tự: lý do trước, thêm 'Therefore' trước kết quả. 'put on warm coat. weather is cold' → 'weather is cold. Therefore, she put on a warm coat'."
     },
     {
       "id": 48,
       "type": "sentence-rewrite",
-      "original": "She was thinking of buying a new car. Her friend convinced her to buy an used car.",
+      "original": "She was thinking of buying a new car. Her friend convinced her to buy a used car.",
       "instruction": "Rewrite using (but).",
       "starterText": "",
-      "answer": "She was thinking of buying a new car, but her friend convinced her to buy an used car.",
-      "explanation": "Tương phản: muốn mua xe mới NHƯNG bạn thuyết phục mua xe cũ => 'but'."
+      "answer": "She was thinking of buying a new car, but her friend convinced her to buy a used car.",
+      "explanation": "Chuyển hai câu tương phản thành một câu với 'but'. 'thinking of buying new car. friend convinced to buy used car' → 'thinking of buying a new car, but her friend convinced her to buy a used car'."
     },
     {
       "id": 49,
@@ -525,7 +525,7 @@
       "instruction": "Rewrite using (so).",
       "starterText": "",
       "answer": "She is a very hard worker, so she is loved by everybody in her factory.",
-      "explanation": "Lý do (làm việc chăm chỉ) => kết quả (được yêu quý) => 'so'."
+      "explanation": "Đặt lý do trước, thêm 'so' trước kết quả. 'is loved by everybody. is a hard worker' → 'is a very hard worker, so she is loved by everybody'."
     },
     {
       "id": 50,
@@ -534,7 +534,7 @@
       "instruction": "Rewrite using (so).",
       "starterText": "",
       "answer": "I felt really sick last night, so I couldn't come to your party.",
-      "explanation": "Lý do (bị ốm) => kết quả (không đến tiệc) => 'so'."
+      "explanation": "Thêm 'so' giữa lý do và kết quả. 'felt really sick' → 'so I couldn't come to your party'."
     }
   ]
 }
