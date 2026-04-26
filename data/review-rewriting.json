@@ -19,7 +19,7 @@
         "The mother reminded the boy not to forget to lock the door.",
         "The mother reminded the boy not to forget to lock the door"
       ],
-      "explanation": "Don't forget = reminded + object + to V."
+      "explanation": "Chuyển 'Don't forget' thành 'reminded + tân ngữ + to V'. 'Don't forget to lock' → 'reminded the boy to lock'. 'remind someone to V' = nhắc ai làm gì."
     },
     {
       "id": 2,
@@ -36,7 +36,7 @@
         "The boy was made to tidy up the room by the mother",
         "The boy was made to tidy up the room"
       ],
-      "explanation": "Passive of 'make': S + was made + to V."
+      "explanation": "Chuyển chủ động sang bị động của 'make someone do'. Khi sang bị động thêm 'to': 'made the boy tidy' → 'was made to tidy'."
     },
     {
       "id": 3,
@@ -49,7 +49,7 @@
         "Having graduated from university, he went abroad to work.",
         "Having graduated from university, he went abroad to work"
       ],
-      "explanation": "After + had V3 = Having + V3 (perfect participle)."
+      "explanation": "Dùng phân từ hoàn thành 'Having + quá khứ phân từ' thay cho mệnh đề 'After + had + quá khứ phân từ'. 'After he had graduated' → 'Having graduated'."
     },
     {
       "id": 4,
@@ -62,7 +62,7 @@
         "No longer do housewives have to spend a lot of time doing housework.",
         "No longer do housewives have to spend a lot of time doing housework"
       ],
-      "explanation": "Not...anymore = No longer + inversion (auxiliary + S + V)."
+      "explanation": "Dùng 'No longer' + đảo ngữ (trợ động từ + S + V) thay cho 'not...anymore'. 'do not have to...anymore' → 'No longer do housewives have to'."
     },
     {
       "id": 5,
@@ -75,7 +75,7 @@
         "Galileo is said to have invented the telescope.",
         "Galileo is said to have invented the telescope"
       ],
-      "explanation": "It is said that + S + V2/ed = S + is said + to have + V3."
+      "explanation": "Chuyển 'It is said that + S + quá khứ' thành 'S + is said to have + quá khứ phân từ'. 'Galileo invented' → 'Galileo is said to have invented'."
     },
     {
       "id": 6,
@@ -90,7 +90,7 @@
         "I have not met Mary for three years.",
         "I have not met Mary for three years"
       ],
-      "explanation": "The last time + V2/ed + was + time + ago = haven't + V3 + for + time."
+      "explanation": "Chuyển 'The last time + quá khứ + was + thời gian + ago' thành 'haven't + quá khứ phân từ + for + thời gian'. 'The last time I met' → 'I haven't met...for three years'."
     },
     {
       "id": 7,
@@ -104,7 +104,7 @@
         "What is your mother's occupation?",
         "What is your mother's job"
       ],
-      "explanation": "What does someone do = What is someone's job."
+      "explanation": "Chuyển 'What does someone do?' thành 'What is someone's job?'. Cả hai đều hỏi về nghề nghiệp."
     },
     {
       "id": 8,
@@ -119,7 +119,7 @@
         "If I was a rich businessman, I could afford to buy an expensive car.",
         "If I was a rich businessman, I could afford to buy an expensive car"
       ],
-      "explanation": "Second conditional for unreal present situations."
+      "explanation": "Dùng câu điều kiện loại 2 cho tình huống không có thật hiện tại. 'am not...can't' → 'If I were...I could'."
     },
     {
       "id": 9,
@@ -132,7 +132,7 @@
         "It took me an hour to revise what he had already learnt for the test.",
         "It took me an hour to revise what he had already learnt for the test"
       ],
-      "explanation": "S + spent + time + V-ing = It took + S + time + to V."
+      "explanation": "Chuyển 'S + spent + thời gian + V-ing' thành 'It took + S + thời gian + to V'. 'spent an hour revising' → 'It took me an hour to revise'."
     },
     {
       "id": 10,
@@ -147,7 +147,7 @@
         "My father prefers reading newspaper to listening to the radio",
         "My father prefers reading the newspaper to listening to the radio."
       ],
-      "explanation": "Would rather + V + than + V = prefers + V-ing + to + V-ing."
+      "explanation": "Chuyển 'would rather + V + than + V' thành 'prefers + V-ing + to + V-ing'. 'would rather read than listen' → 'prefers reading to listening'."
     },
     {
       "id": 11,
@@ -160,7 +160,7 @@
         "The old man whose daughter I love is working in this company.",
         "The old man, whose daughter I love, is working in this company."
       ],
-      "explanation": "Relative pronoun 'whose' for possession."
+      "explanation": "Nối hai câu bằng đại từ quan hệ 'whose' (chỉ sự sở hữu). 'His daughter I love' → 'whose daughter I love'."
     },
     {
       "id": 12,
@@ -173,7 +173,7 @@
         "Having defeated the former champion in three sets, Nam won their inter-school table tennis championship.",
         "Having defeated the former champion in three sets, Nam won their inter-school table tennis championship"
       ],
-      "explanation": "Perfect participle: Having + V3, S + V2/ed."
+      "explanation": "Dùng phân từ hoàn thành 'Having + quá khứ phân từ' để nối hai hành động liên tiếp, hành động trước xảy ra trước. 'defeated...then won' → 'Having defeated...won'."
     },
     {
       "id": 13,
@@ -186,7 +186,7 @@
         "Despite being disabled, she was quite confident the first time she practiced this sport.",
         "Despite her disability, she was quite confident the first time she practiced this sport."
       ],
-      "explanation": "Although + clause = Despite + V-ing/noun."
+      "explanation": "Dùng 'Despite + V-ing/danh từ' thay cho 'Although + mệnh đề'. 'Although she was disabled' → 'Despite being disabled'."
     },
     {
       "id": 14,
@@ -199,7 +199,7 @@
         "Neither Mary nor her brother likes music.",
         "Neither Mary nor her brother like music."
       ],
-      "explanation": "Neither...nor connects two negative ideas."
+      "explanation": "Dùng 'Neither...nor' để nối hai ý phủ định. 'doesn't like...doesn't either' → 'Neither Mary nor her brother likes'."
     },
     {
       "id": 15,
@@ -212,7 +212,7 @@
         "The students whose reports are very valuable will be awarded the present.",
         "The students whose reports are very valuable will be awarded the present"
       ],
-      "explanation": "Relative pronoun 'whose' for possession."
+      "explanation": "Nối hai câu bằng đại từ quan hệ 'whose' (chỉ sự sở hữu). 'The students' reports are very valuable' → 'whose reports are very valuable'."
     },
     {
       "id": 16,
@@ -227,7 +227,7 @@
         "If Jane had changed her working style, she wouldn't have been sacked",
         "If Jane had changed her working style, she would not have been sacked"
       ],
-      "explanation": "Third conditional for unreal past situations."
+      "explanation": "Dùng câu điều kiện loại 3 cho tình huống trái quá khứ. 'didn't change...was sacked' → 'If she had changed...wouldn't have been sacked'."
     },
     {
       "id": 17,
@@ -241,7 +241,7 @@
         "Despite having all the necessary qualifications, Hai wasn't offered the job.",
         "Despite having all the necessary qualifications for the job, Hai was not offered the job."
       ],
-      "explanation": "Although + clause = Despite + V-ing."
+      "explanation": "Dùng 'Despite + V-ing/danh từ' thay cho mệnh đề tương phản. 'Although Hai had all the qualifications' → 'Despite having all the qualifications'."
     },
     {
       "id": 18,
@@ -254,7 +254,7 @@
         "She closed the door to focus on the lesson.",
         "She closed the door in order to focus on the lesson."
       ],
-      "explanation": "Purpose: to + V / in order to + V."
+      "explanation": "Dùng 'to V / in order to V' diễn tả mục đích. 'wanted to focus' → 'to focus on the lesson'."
     },
     {
       "id": 19,
@@ -267,7 +267,7 @@
         "Betrayed by his partner, he suffered huge losses.",
         "Betrayed by his partner, he suffered huge losses"
       ],
-      "explanation": "Past participle clause: V3 + by..., S + V."
+      "explanation": "Dùng phân từ quá khứ đặt đầu câu thay cho mệnh đề bị động. 'He was betrayed by his partner' → 'Betrayed by his partner, he...'."
     },
     {
       "id": 20,
@@ -282,7 +282,7 @@
         "If she loved him, he wouldn't be sad",
         "If she loved him, he would not be sad"
       ],
-      "explanation": "Second conditional for unreal present situations."
+      "explanation": "Dùng câu điều kiện loại 2 cho ước không có thật hiện tại. 'doesn't love...is sad' → 'If she loved...wouldn't be sad'."
     }
   ]
 }
