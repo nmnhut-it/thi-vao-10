@@ -459,7 +459,7 @@
         "They might have understood what she was saying if they had listened carefully.",
         "They might have understood what she was saying if they had listened carefully"
       ],
-      "explanation": "Type 3: might have + PP + if + had + PP."
+      "explanation": "Dùng câu điều kiện loại 3 (trái quá khứ). 'weren't listening' → 'might have understood if they had been listening'. Cấu trúc: might have + phân từ 2 + if + had + phân từ 2."
     },
     {
       "id": 42,
@@ -472,7 +472,7 @@
         "If you hadn't taken me to your friend's party, I wouldn't have met Hung.",
         "If you hadn't taken me to your friend's party, I wouldn't have met Hung"
       ],
-      "explanation": "Type 3 (past unreal): If + hadn't + PP, S + wouldn't have + PP."
+      "explanation": "Dùng câu điều kiện loại 3 cho tình huống trái quá khứ. 'took...met' → 'If you hadn't taken...I wouldn't have met'. Cấu trúc: If + had + phân từ 2, S + would have + phân từ 2."
     },
     {
       "id": 43,
@@ -485,7 +485,7 @@
         "Unless you wear a helmet, you can't ride your bike.",
         "Unless you wear a helmet, you can't ride your bike"
       ],
-      "explanation": "'Unless' = 'If...not'. Remove 'don't' when replacing 'If' with 'Unless'."
+      "explanation": "Chuyển 'If...not' thành 'Unless' (bỏ phủ định). 'If you don't wear' → 'Unless you wear'. Unless = If...not."
     },
     {
       "id": 44,
@@ -500,7 +500,7 @@
         "If it wasn't raining, I would visit my grandpa.",
         "If it wasn't raining, I would visit my grandpa"
       ],
-      "explanation": "Type 2: If + past (weren't raining), S + would + V."
+      "explanation": "Dùng câu điều kiện loại 2 cho tình huống không có thật hiện tại. 'it's raining...would visit' → 'If it weren't raining, I would visit'. Cấu trúc: If + were + V-ing, S + would + V."
     },
     {
       "id": 45,
@@ -515,7 +515,7 @@
         "If I had enough money, I would buy that dress.",
         "If I had enough money, I would buy that dress"
       ],
-      "explanation": "Type 2 (unreal present wish): If + past, S + could/would + V."
+      "explanation": "Dùng câu điều kiện loại 2 cho tình huống trái hiện tại. 'don't have...can't buy' → 'If I had...I could buy'. Cấu trúc: If + quá khứ đơn, S + could/would + V."
     },
     {
       "id": 46,
@@ -528,7 +528,7 @@
         "If I hadn't woken her up in time, Sue would have missed the train.",
         "If I hadn't woken her up in time, Sue would have missed the train"
       ],
-      "explanation": "Type 3: If + hadn't PP, S + would have PP."
+      "explanation": "Dùng câu điều kiện loại 3 cho tình huống trái quá khứ. 'woke her up...didn't miss' → 'If I hadn't woken her up, Sue would have missed'. Cấu trúc: If + had + phân từ 2, S + would have + phân từ 2."
     },
     {
       "id": 47,
@@ -543,7 +543,7 @@
         "Dan wouldn't have gotten so angry if we hadn't been an hour late.",
         "Dan wouldn't have gotten so angry if we hadn't been an hour late"
       ],
-      "explanation": "Type 3: S + wouldn't have PP + if + hadn't PP. Both 'got' and 'gotten' are accepted as past participles of 'get'."
+      "explanation": "Dùng câu điều kiện loại 3 cho tình huống trái quá khứ. 'were late...got angry' → 'wouldn't have got angry if we hadn't been late'. Cấu trúc: S + would have + phân từ 2 + if + had + phân từ 2."
     },
     {
       "id": 48,
@@ -558,7 +558,7 @@
         "If Julia had taken her umbrella yesterday, she wouldn't have gotten wet.",
         "If Julia had taken her umbrella yesterday, she wouldn't have gotten wet"
       ],
-      "explanation": "Type 3: If + had PP, S + wouldn't have PP."
+      "explanation": "Dùng câu điều kiện loại 3 cho tình huống trái quá khứ. 'didn't take...got wet' → 'If Julia had taken...wouldn't have got wet'. Cấu trúc: If + had + phân từ 2, S + would have + phân từ 2."
     },
     {
       "id": 49,
@@ -573,7 +573,7 @@
         "If you don't study hard, you will fail the exam.",
         "If you don't study hard, you will fail the exam"
       ],
-      "explanation": "Type 1: 'or' = 'if...not': If you don't study hard, you'll fail."
+      "explanation": "Chuyển 'or' thành 'if...not' (điều kiện loại 1). 'Study hard or you'll fail' → 'If you don't study hard, you'll fail'. Cấu trúc: If + hiện tại đơn, S + will + V."
     },
     {
       "id": 50,
@@ -588,7 +588,7 @@
         "If you didn't live so far away, I would see you more often.",
         "If you didn't live so far away, I would see you more often"
       ],
-      "explanation": "Type 2 (unreal present): If + didn't V, S + would + V."
+      "explanation": "Dùng câu điều kiện loại 2 cho tình huống trái hiện tại. 'live so far...don't see' → 'If you didn't live so far, I would see you more often'. Cấu trúc: If + quá khứ đơn, S + would + V."
     }
   ]
 }
