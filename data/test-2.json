@@ -460,7 +460,7 @@
         "Lan suggested that they should go out for a walk.",
         "Lan suggested that they go out for a walk."
       ],
-      "explanation": "Reported suggestion: suggest + V-ing or suggest + that + S + (should) + V."
+      "explanation": "Chuyển câu đề nghị sang gián tiếp. 'Why don't we go out' → 'suggested going out for a walk'."
     },
     {
       "id": 34,
@@ -475,7 +475,7 @@
         "He has been studying Chinese for five years.",
         "He has been studying Chinese for five years"
       ],
-      "explanation": "Past simple + ago -> Present perfect + for. 'started 5 years ago' = 'has studied for 5 years'."
+      "explanation": "Chuyển quá khứ đơn + ago sang hiện tại hoàn thành + for. 'started five years ago' → 'has studied for five years'."
     },
     {
       "id": 35,
@@ -490,7 +490,7 @@
         "If I was you, I would study harder for the exam.",
         "If I were you, I'd study harder for the exam."
       ],
-      "explanation": "Giving advice with conditional type 2: If I were you, I would..."
+      "explanation": "Chuyển lời khuyên sang câu điều kiện loại 2. 'you should study harder' → 'If I were you, I would study harder'."
     },
     {
       "id": 36,
@@ -505,7 +505,7 @@
         "My dictionary isn't as expensive as yours.",
         "My dictionary is cheaper than yours."
       ],
-      "explanation": "A is more expensive than B = B is not as expensive as A."
+      "explanation": "Chuyển so sánh hơn sang so sánh bằng (phủ định). 'more expensive than mine' → 'not as expensive as yours'."
     },
     {
       "id": 37,
