@@ -453,7 +453,7 @@
       "instruction": "Change to passive voice",
       "starterText": "He",
       "answer": "He will be sent abroad to study.",
-      "explanation": "Future simple passive: S + will + be + PP."
+      "explanation": "Chuyển chủ động sang bị động (tương lai đơn). 'will send' → 'will be sent'. Tân ngữ 'him' lên làm chủ ngữ."
     },
     {
       "id": 42,
@@ -462,7 +462,7 @@
       "instruction": "Change to passive voice",
       "starterText": "This room",
       "answer": "This room was used by her.",
-      "explanation": "Past simple passive: S + was/were + PP + by + O."
+      "explanation": "Chuyển chủ động sang bị động (quá khứ đơn). 'used' → 'was used'. Tân ngữ 'this room' lên làm chủ ngữ, 'she' → 'by her'."
     },
     {
       "id": 43,
@@ -471,7 +471,7 @@
       "instruction": "Change to passive voice",
       "starterText": "My bike",
       "answer": "My bike was stolen yesterday.",
-      "explanation": "'Someone' is vague, so omit 'by someone' in passive."
+      "explanation": "Chuyển chủ động sang bị động (quá khứ đơn). 'stole' → 'was stolen'. Chủ ngữ 'someone' không xác định nên lược bỏ 'by someone'."
     },
     {
       "id": 44,
@@ -480,7 +480,7 @@
       "instruction": "Change to passive voice",
       "starterText": "A letter",
       "answer": "A letter was received from his parents.",
-      "explanation": "Past simple passive: 'A letter was received'."
+      "explanation": "Chuyển chủ động sang bị động (quá khứ đơn). 'received' → 'was received'. Tân ngữ 'a letter' lên làm chủ ngữ."
     },
     {
       "id": 45,
@@ -493,7 +493,7 @@
         "A new house will be bought by her.",
         "A new house will be bought by her"
       ],
-      "explanation": "Future simple passive: will + be + PP."
+      "explanation": "Chuyển chủ động sang bị động (tương lai đơn). 'will buy' → 'will be bought'. Tân ngữ 'a new house' lên làm chủ ngữ."
     },
     {
       "id": 46,
@@ -508,7 +508,7 @@
         "My house is not being built.",
         "My house is not being built by them."
       ],
-      "explanation": "Present continuous passive negative: isn't + being + PP. 'By them' can be omitted since the agent is vague."
+      "explanation": "Chuyển chủ động sang bị động (hiện tại tiếp diễn phủ định). 'aren't building' → 'isn't being built'. Cấu trúc: is/are + being + phân từ 2. Chủ ngữ 'they' không xác định nên lược bỏ."
     },
     {
       "id": 47,
@@ -523,7 +523,7 @@
         "The math problem could be solved easily by him.",
         "The math problem could be easily solved."
       ],
-      "explanation": "Modal passive: could + be + PP. Omit 'by him' since agent is vague."
+      "explanation": "Bị động với động từ khiếm khuyết. 'could solve' → 'could be solved'. Cấu trúc: modal + be + phân từ 2."
     },
     {
       "id": 48,
@@ -532,7 +532,7 @@
       "instruction": "Change to passive voice",
       "starterText": "The floor",
       "answer": "The floor is cleaned every day.",
-      "explanation": "Present simple passive: is + PP. Omit 'by me'."
+      "explanation": "Chuyển chủ động sang bị động (hiện tại đơn). 'clean' → 'is cleaned'. Tân ngữ 'the floor' lên làm chủ ngữ, lược bỏ 'by me'."
     },
     {
       "id": 49,
@@ -541,7 +541,7 @@
       "instruction": "Change to passive voice",
       "starterText": "This dress",
       "answer": "This dress was bought by my mother this morning.",
-      "explanation": "Past simple passive: was + PP + by + agent."
+      "explanation": "Chuyển chủ động sang bị động (quá khứ đơn). 'bought' → 'was bought'. Tân ngữ 'this dress' lên làm chủ ngữ, 'my mother' → 'by my mother'."
     },
     {
       "id": 50,
@@ -550,7 +550,7 @@
       "instruction": "Change to passive voice",
       "starterText": "This exercise",
       "answer": "This exercise was done two days ago.",
-      "explanation": "Past simple passive: was + PP. Omit vague agent."
+      "explanation": "Chuyển chủ động sang bị động (quá khứ đơn). 'did' → 'was done'. Tân ngữ 'this exercise' lên làm chủ ngữ, lược bỏ 'by her'."
     },
     {
       "id": 51,
@@ -563,7 +563,7 @@
         "It was reported that four people had been injured in the fire.",
         "It was reported that four people had been injured in the fire"
       ],
-      "explanation": "Complex passive (cách 1): It + be + PP + that + clause."
+      "explanation": "Chuyển 'Journalists reported that...' thành bị động. 'reported' → 'It was reported that...'. Cấu trúc: It + be + phân từ 2 + that + mệnh đề."
     },
     {
       "id": 52,
@@ -572,7 +572,7 @@
       "instruction": "Rewrite starting with 'Four people'",
       "starterText": "Four people",
       "answer": "Four people were reported to have been injured in the fire.",
-      "explanation": "Complex passive (cách 2, non-equivalent tenses): S + be + PP + to have + PP."
+      "explanation": "Bị động kép (cách 2). 'four people' lên đầu → 'Four people were reported to have been injured...'. Mệnh đề quá khứ hoàn thành đổi thành 'to have + phân từ 2'."
     },
     {
       "id": 53,
@@ -581,7 +581,7 @@
       "instruction": "Rewrite starting with 'It'",
       "starterText": "It",
       "answer": "It isn't expected that the new party will win the election.",
-      "explanation": "Complex passive: It + isn't + expected + that clause."
+      "explanation": "Chuyển 'People don't expect that...' thành bị động. 'don't expect' → 'It isn't expected that...'. Chủ ngữ 'people' không xác định nên lược bỏ."
     },
     {
       "id": 54,
@@ -590,7 +590,7 @@
       "instruction": "Rewrite starting with 'The new party'",
       "starterText": "The new party",
       "answer": "The new party isn't expected to win the election.",
-      "explanation": "Complex passive (equivalent tenses): S + isn't + expected + to V."
+      "explanation": "Bị động kép (cách 2). 'the new party will win' → 'The new party isn't expected to win'. Cấu trúc: S + be + phân từ 2 + to V."
     },
     {
       "id": 55,
@@ -599,7 +599,7 @@
       "instruction": "Rewrite starting with 'It'",
       "starterText": "It",
       "answer": "It is known that the robber has left the city.",
-      "explanation": "Complex passive: It + is + known + that clause."
+      "explanation": "Chuyển 'The detective knows that...' thành bị động. 'knows' → 'It is known that...'. Chủ thể xác định nhưng dùng bị động chung."
     },
     {
       "id": 56,
@@ -608,7 +608,7 @@
       "instruction": "Rewrite starting with 'The robber'",
       "starterText": "The robber",
       "answer": "The robber is known to have left the city.",
-      "explanation": "Complex passive (non-equivalent): S + is known + to have + PP."
+      "explanation": "Bị động kép (cách 2). 'the robber has left' → 'The robber is known to have left...'. Hiện tại hoàn thành đổi thành 'to have + phân từ 2'."
     },
     {
       "id": 57,
@@ -617,7 +617,7 @@
       "instruction": "Rewrite starting with 'It'",
       "starterText": "It",
       "answer": "It is known that Henry has been unemployed for a long time.",
-      "explanation": "Complex passive: It + is + known + that clause."
+      "explanation": "Chuyển 'We know that...' thành bị động. 'know' → 'It is known that...'. Chủ ngữ 'we' không xác định nên lược bỏ."
     },
     {
       "id": 58,
@@ -626,7 +626,7 @@
       "instruction": "Rewrite starting with 'Henry'",
       "starterText": "Henry",
       "answer": "Henry is known to have been unemployed for a long time.",
-      "explanation": "Complex passive (non-equivalent): S + is known + to have been + adj."
+      "explanation": "Bị động kép (cách 2). 'Henry has been unemployed' → 'Henry is known to have been unemployed...'. Hiện tại hoàn thành đổi thành 'to have been'."
     },
     {
       "id": 59,
@@ -635,7 +635,7 @@
       "instruction": "Rewrite starting with 'It'",
       "starterText": "It",
       "answer": "It is said that he was a spy during the Cold War.",
-      "explanation": "Complex passive: It + is + said + that clause."
+      "explanation": "Chuyển 'People say that...' thành bị động không xác định. 'say' → 'It is said that...'. Chủ ngữ 'people' không xác định nên lược bỏ."
     },
     {
       "id": 60,
@@ -644,7 +644,7 @@
       "instruction": "Rewrite starting with 'He'",
       "starterText": "He",
       "answer": "He is said to have been a spy during the Cold War.",
-      "explanation": "Complex passive (non-equivalent): is said + to have been."
+      "explanation": "Bị động kép (cách 2). 'he was a spy' → 'He is said to have been a spy...'. Quá khứ đơn đổi thành 'to have been'."
     }
   ]
 }
