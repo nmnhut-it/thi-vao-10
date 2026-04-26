@@ -363,7 +363,7 @@
       "instruction": "Rewrite using 'It'",
       "starterText": "It",
       "answer": "It was not easy to live in a foreign country.",
-      "explanation": "'V-ing... + be + adj' = 'It + be + adj + to V'."
+      "explanation": "Chuyển chủ ngữ V-ing thành câu giả chủ ngữ 'It'. 'Living...was not easy' → 'It was not easy to live...'. Cấu trúc: 'It + be + adj + to V'."
     },
     {
       "id": 32,
@@ -372,7 +372,7 @@
       "instruction": "Rewrite using 'too'",
       "starterText": "The coffee",
       "answer": "The coffee was too hot to drink.",
-      "explanation": "'Too + adj + to V' = so adj that one can't do something."
+      "explanation": "Gộp hai câu dùng 'too...to'. 'very hot → couldn't drink' → 'too hot to drink'. Cấu trúc: 'too + adj + to V' = quá… đến nỗi không thể."
     },
     {
       "id": 33,
@@ -381,7 +381,7 @@
       "instruction": "Rewrite using 'enough'",
       "starterText": "I haven't got",
       "answer": "I haven't got enough money to go on holiday this year.",
-      "explanation": "'Enough + N + to V' = sufficient amount to do something."
+      "explanation": "Gộp hai câu dùng 'enough'. 'not much money → cannot go' → 'not enough money to go'. Cấu trúc: 'enough + N + to V' = đủ… để làm gì."
     },
     {
       "id": 34,
@@ -390,7 +390,7 @@
       "instruction": "Rewrite using 'rather'",
       "starterText": "My father would",
       "answer": "My father would rather listen to the radio than watch TV.",
-      "explanation": "'Would rather + V + than + V' = prefer one thing to another."
+      "explanation": "Chuyển 'prefer + V-ing + to + V-ing' thành 'would rather + V + than + V'. 'prefer listening to watching' → 'would rather listen than watch'. Chú ý: 'would rather' đi với động từ nguyên thể."
     },
     {
       "id": 35,
@@ -399,7 +399,7 @@
       "instruction": "Rewrite using 'going'",
       "starterText": "She washed",
       "answer": "She washed her hair before going out.",
-      "explanation": "After prepositions like 'before', use V-ing: before going out."
+      "explanation": "Rút gọn mệnh đề thời gian bằng V-ing. 'before she went out' → 'before going out'. Sau giới từ như 'before', 'after' dùng V-ing."
     },
     {
       "id": 36,
@@ -408,7 +408,7 @@
       "instruction": "Rewrite using 'spent'",
       "starterText": "Henry spent",
       "answer": "Henry spent a lot of money buying too many trainers.",
-      "explanation": "'Spend + money/time + V-ing': spent a lot of money buying."
+      "explanation": "Dùng cấu trúc 'spend + tiền/thời gian + V-ing'. 'spent a lot of money' + 'buying too many trainers' → 'spent a lot of money buying too many trainers'."
     },
     {
       "id": 37,
@@ -417,7 +417,7 @@
       "instruction": "Rewrite using 'It'",
       "starterText": "It",
       "answer": "It is extremely difficult to teach children at this age.",
-      "explanation": "'V-ing + be + adj' = 'It + be + adj + to V'."
+      "explanation": "Chuyển chủ ngữ V-ing thành câu giả chủ ngữ 'It'. 'Teaching children...is extremely difficult' → 'It is extremely difficult to teach children...'. Cấu trúc: 'It + be + adj + to V'."
     },
     {
       "id": 38,
@@ -426,7 +426,7 @@
       "instruction": "Rewrite using 'enough'",
       "starterText": "My brother is",
       "answer": "My brother is strong enough to lift a horse.",
-      "explanation": "'Adj + enough + to V' = sufficiently adj to do something."
+      "explanation": "Gộp hai câu dùng 'enough'. 'very strong → can lift' → 'strong enough to lift'. Cấu trúc: 'adj + enough + to V' = đủ… để làm gì."
     },
     {
       "id": 39,
@@ -435,7 +435,7 @@
       "instruction": "Rewrite using 'too'",
       "starterText": "That car is",
       "answer": "That car is too expensive for me to buy.",
-      "explanation": "'Too + adj + for sb + to V'."
+      "explanation": "Gộp hai câu dùng 'too...for sb...to'. 'quite expensive → cannot buy' → 'too expensive for me to buy'. Cấu trúc: 'too + adj + for sb + to V' = quá… đến nỗi ai không thể."
     },
     {
       "id": 40,
@@ -444,7 +444,7 @@
       "instruction": "Rewrite using 'would'",
       "starterText": "My son would",
       "answer": "My son would rather play chess than fly kites.",
-      "explanation": "'Would rather + V + than + V'."
+      "explanation": "Chuyển 'prefer + V-ing + than' thành 'would rather + V + than + V'. 'prefer playing chess than flying kites' → 'would rather play chess than fly kites'. Chú ý: 'would rather' đi với động từ nguyên thể."
     }
   ]
 }
