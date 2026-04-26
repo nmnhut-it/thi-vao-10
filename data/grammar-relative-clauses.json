@@ -585,7 +585,7 @@
         "I don't like the man who is going out with my sister.",
         "I don't like the man that is going out with my sister."
       ],
-      "explanation": "'the man' là người, làm chủ ngữ => dùng 'who' hoặc 'that'."
+      "explanation": "Nối hai câu bằng 'who' (chỉ người làm chủ ngữ). 'He is going out with my sister' → 'who is going out with my sister'."
     },
     {
       "id": 50,
@@ -594,7 +594,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "Charlie",
       "answer": "Charlie Chaplin, who was from a poor family, became a very rich man.",
-      "explanation": "Danh từ riêng => MDQH không giới hạn với 'who'."
+      "explanation": "Nối bằng MDQH không giới hạn vì 'Charlie Chaplin' là danh từ riêng. 'He was from a poor family' → ', who was from a poor family,'."
     },
     {
       "id": 51,
@@ -603,7 +603,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "That",
       "answer": "That bike which/that he wanted to buy was too expensive.",
-      "explanation": "'bike' là vật, làm tân ngữ của 'buy' => 'which/that'."
+      "explanation": "Nối hai câu bằng 'which/that' (chỉ vật làm tân ngữ). 'He wanted to buy it' → 'which/that he wanted to buy'. Bỏ 'it' vì đại từ quan hệ đã thay thế."
     },
     {
       "id": 52,
@@ -616,7 +616,7 @@
         "I have just greeted the girl who is sitting next to my brother.",
         "I have just greeted the girl that is sitting next to my brother."
       ],
-      "explanation": "'the girl' là người, làm chủ ngữ => 'who' hoặc 'that'."
+      "explanation": "Nối hai câu bằng 'who' (chỉ người làm chủ ngữ). 'She is sitting next to my brother' → 'who is sitting next to my brother'."
     },
     {
       "id": 53,
@@ -629,7 +629,7 @@
         "Is David the student who gets the best marks in your class?",
         "Is David the student that gets the best marks in your class?"
       ],
-      "explanation": "'the student' là người, làm chủ ngữ => 'who' hoặc 'that'."
+      "explanation": "Nối hai câu bằng 'who' (chỉ người làm chủ ngữ). 'David gets the best marks' → 'who gets the best marks'. 'who' thay cho 'David'."
     },
     {
       "id": 54,
@@ -638,7 +638,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "We met at the",
       "answer": "We met at the restaurant which/that Sally recommended to us.",
-      "explanation": "'restaurant' là vật, làm tân ngữ => 'which/that'."
+      "explanation": "Nối hai câu bằng 'which/that' (chỉ vật làm tân ngữ). 'Sally recommended it to us' → 'which/that Sally recommended to us'. Bỏ 'it'."
     },
     {
       "id": 55,
@@ -647,7 +647,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "The headmaster phoned",
       "answer": "The headmaster phoned Mrs Brown whose daughter didn't come to school yesterday.",
-      "explanation": "'Her daughter' => 'whose daughter' chỉ sở hữu."
+      "explanation": "Nối hai câu bằng 'whose' (chỉ sự sở hữu). 'Her daughter' → 'whose daughter'. 'whose' thay cho 'her'."
     },
     {
       "id": 56,
@@ -656,7 +656,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "Can I",
       "answer": "Can I borrow the book which/that you enjoyed reading last week?",
-      "explanation": "'book' là vật, làm tân ngữ => 'which/that'."
+      "explanation": "Nối hai câu bằng 'which/that' (chỉ vật làm tân ngữ). 'You enjoyed reading it' → 'which/that you enjoyed reading'. Bỏ 'it'."
     },
     {
       "id": 57,
@@ -665,7 +665,11 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "The first",
       "answer": "The first boy who has just moved knows the truth.",
-      "explanation": "'boy' là người, làm chủ ngữ => 'who'."
+      "acceptedAnswers": [
+        "The first boy who has just moved knows the truth.",
+        "The first boy that has just moved knows the truth."
+      ],
+      "explanation": "Nối hai câu bằng 'who/that' (chỉ người làm chủ ngữ). Sau so sánh nhất ('the first') có thể dùng 'that' thay 'who'. 'He has just moved' → 'who has just moved'."
     },
     {
       "id": 58,
@@ -679,7 +683,7 @@
         "I don't remember the man who you said you met at the canteen last week.",
         "I don't remember the man that you said you met at the canteen last week."
       ],
-      "explanation": "'the man' là người, làm tân ngữ => 'who/whom/that'."
+      "explanation": "Nối hai câu bằng 'whom' (chỉ người làm tân ngữ). 'You said you met him' → 'whom you said you met'. 'whom' thay cho 'him'."
     },
     {
       "id": 59,
@@ -688,7 +692,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "She left here without",
       "answer": "She left here without saying goodbye, which made me sad.",
-      "explanation": "'which' bổ nghĩa cho cả mệnh đề trước."
+      "explanation": "Nối bằng 'which' chỉ cả mệnh đề trước đó. 'This made me sad' → ', which made me sad'. Dùng dấu phẩy vì bổ nghĩa cho cả câu."
     },
     {
       "id": 60,
@@ -697,7 +701,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "The children often",
       "answer": "The children often go swimming on Sundays, when they have much free time.",
-      "explanation": "'Sundays' là thời gian => 'when'."
+      "explanation": "Nối bằng 'when' (chỉ thời gian). 'They have much free time then' → ', when they have much free time'. 'when' thay cho 'then'."
     },
     {
       "id": 61,
@@ -706,7 +710,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "They're looking for",
       "answer": "They're looking for the man and his dog that have lost the way in the forest.",
-      "explanation": "Vừa người vừa vật ('the man and his dog') => dùng 'that'."
+      "explanation": "Nối bằng 'that' vì danh từ gồm cả người và vật ('the man and his dog'). 'They have lost the way' → 'that have lost the way in the forest'."
     },
     {
       "id": 62,
@@ -715,7 +719,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "That",
       "answer": "That tree which/that stands near the gate of my house has lovely flowers.",
-      "explanation": "'tree' là vật, làm chủ ngữ => 'which/that'."
+      "explanation": "Nối hai câu bằng 'which/that' (chỉ vật làm chủ ngữ). 'It stands near the gate' → 'which/that stands near the gate of my house'."
     },
     {
       "id": 63,
@@ -724,7 +728,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "My",
       "answer": "My wife, to whom you were speaking, wants you to come to dinner.",
-      "explanation": "'speak to someone' => 'to whom' trong MDQH không giới hạn."
+      "explanation": "Nối bằng MDQH không giới hạn vì 'my wife' có tính từ sở hữu. 'speak to my wife' → ', to whom you were speaking,'. Giới từ 'to' đặt trước 'whom'."
     },
     {
       "id": 64,
@@ -733,7 +737,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "Patrick",
       "answer": "Patrick will never forget the day when his son was born.",
-      "explanation": "'the day' là thời gian => 'when'."
+      "explanation": "Nối bằng 'when' (chỉ thời gian). 'His son was born then' → 'when his son was born'. 'when' thay cho 'then'."
     },
     {
       "id": 65,
@@ -742,7 +746,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "Let's",
       "answer": "Let's take the children to the park which/that has a nice playground.",
-      "explanation": "'park' là vật, làm chủ ngữ => 'which/that'."
+      "explanation": "Nối hai câu bằng 'which/that' (chỉ vật làm chủ ngữ). 'The park has a nice playground' → 'which/that has a nice playground'."
     },
     {
       "id": 66,
@@ -751,7 +755,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "Do you",
       "answer": "Do you remember Jenny, who used to work in my office?",
-      "explanation": "Danh từ riêng 'Jenny' => MDQH không giới hạn => ', who'."
+      "explanation": "Nối bằng MDQH không giới hạn vì 'Jenny' là danh từ riêng. 'She used to work in my office' → ', who used to work in my office?'."
     },
     {
       "id": 67,
@@ -760,7 +764,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "You should go to the new",
       "answer": "You should go to the new shopping centre where there are a lot of fashionable shops.",
-      "explanation": "'shopping centre' là nơi chốn => 'where'."
+      "explanation": "Nối bằng 'where' (chỉ nơi chốn). 'There are a lot of fashionable shops there' → 'where there are a lot of fashionable shops'. 'where' thay cho 'there'."
     },
     {
       "id": 68,
@@ -769,7 +773,7 @@
       "instruction": "Join the sentences using a suitable relative pronoun.",
       "starterText": "Why don't you wear",
       "answer": "Why don't you wear the blue sweater which/that I gave to you at Christmas?",
-      "explanation": "'sweater' là vật, làm tân ngữ => 'which/that'."
+      "explanation": "Nối hai câu bằng 'which/that' (chỉ vật làm tân ngữ). 'I gave it to you at Christmas' → 'which/that I gave to you at Christmas'. Bỏ 'it'."
     },
     {
       "id": 69,
