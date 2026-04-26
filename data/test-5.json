@@ -571,7 +571,7 @@
         "Unless you give me back my bicycle, I will call the police",
         "Unless you give back my bicycle, I will call the police."
       ],
-      "explanation": "Unless = If...not. Keep the same tense (present simple + will)."
+      "explanation": "Đổi 'if you don't' thành 'Unless'. 'if you don't give me back' → 'Unless you give me back', giữ nguyên thì hiện tại đơn + will."
     },
     {
       "id": 42,
@@ -585,7 +585,7 @@
         "That question has never been asked before",
         "That question has never been asked me before by anyone."
       ],
-      "explanation": "Active to passive: No one has asked -> has never been asked."
+      "explanation": "Chuyển chủ động sang bị động. 'No one has asked' → 'has never been asked', đưa 'That question' lên làm chủ ngữ."
     },
     {
       "id": 43,
@@ -599,7 +599,7 @@
         "Nam got wet because he forgot to take his raincoat",
         "Nam got wet as he forgot to take his raincoat."
       ],
-      "explanation": "Replace 'so' (result) with 'because' (reason), reversing cause and effect."
+      "explanation": "Đổi 'so' (kết quả) thành 'because' (nguyên nhân), đảo thứ tự mệnh đề. 'forgot..., so he got wet' → 'got wet because he forgot...'"
     },
     {
       "id": 44,
@@ -613,7 +613,7 @@
         "Janet asked me if I had ever seen a UFO",
         "Janet asked me whether I had ever seen a UFO."
       ],
-      "explanation": "Reported yes/no question: asked + if/whether + past perfect."
+      "explanation": "Chuyển câu hỏi trực tiếp sang gián tiếp. 'Have you ever seen?' → 'if I had ever seen', lùi thì have → had, đổi you → I."
     },
     {
       "id": 45,
