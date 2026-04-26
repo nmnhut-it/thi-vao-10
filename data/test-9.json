@@ -711,7 +711,7 @@
         "The church was built two hundred years ago",
         "The church was built 200 years ago."
       ],
-      "explanation": "Active to passive: subject + was/were + past participle."
+      "explanation": "Chuyển chủ động sang bị động thì quá khứ đơn. 'built the church' → 'The church was built two hundred years ago'."
     },
     {
       "id": 52,
@@ -725,7 +725,7 @@
         "Tom said he had already had breakfast, so he was not hungry",
         "Tom said that he had already had breakfast, so he was not hungry."
       ],
-      "explanation": "Reported speech: present perfect -> past perfect, am -> was."
+      "explanation": "Chuyển câu trực tiếp sang gián tiếp, lùi thì. 'have already had' → 'had already had', 'am not' → 'was not'."
     },
     {
       "id": 53,
@@ -753,7 +753,7 @@
         "If you don't keep your feet dry, you will catch a cold.",
         "If you don't keep your feet dry, you will catch a cold"
       ],
-      "explanation": "Unless = If...not. Replace 'unless' with 'if...not'."
+      "explanation": "Unless = If ... not. 'Unless you keep your feet dry' → 'If you don't keep your feet dry'."
     },
     {
       "id": 55,
@@ -767,7 +767,7 @@
         "Although we felt cold, we kept walking",
         "Although we were feeling cold, we kept walking."
       ],
-      "explanation": "Despite + V-ing/noun -> Although + clause."
+      "explanation": "Chuyển 'Despite + V-ing' thành 'Although + mệnh đề'. 'Despite feeling cold' → 'Although we felt cold'."
     }
   ]
 }
