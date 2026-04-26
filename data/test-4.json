@@ -571,7 +571,7 @@
         "The girl who lives next door to us is very lovely",
         "The girl that lives next door to us is very lovely."
       ],
-      "explanation": "Use relative pronoun 'who' to combine sentences about a person."
+      "explanation": "Dùng đại từ quan hệ 'who' để nối hai câu thành một. \"She lives next door\" → \"who lives next door to us\"."
     },
     {
       "id": 42,
@@ -585,7 +585,7 @@
         "Would you mind not touching the things on display?",
         "Would you mind not touching things on display"
       ],
-      "explanation": "Would you mind + not + V-ing for polite negative requests."
+      "explanation": "Chuyển câu mệnh lệnh phủ định sang yêu cầu lịch sự. \"Please don't touch\" → \"Would you mind not touching\"."
     },
     {
       "id": 43,
@@ -598,7 +598,7 @@
         "He wishes he could speak English well.",
         "He wishes he could speak English well"
       ],
-      "explanation": "Wish + past simple (could) for present unreal wishes."
+      "explanation": "Dùng wish + could diễn tả ước muốn trái ngược hiện tại. \"cannot speak\" → \"could speak\"."
     },
     {
       "id": 44,
@@ -612,7 +612,7 @@
         "In spite of his intelligence, he doesn't do well at school",
         "In spite of being intelligent, he doesn't do well at school."
       ],
-      "explanation": "In spite of + noun/V-ing replaces 'Although + clause'."
+      "explanation": "Chuyển liên từ sang cụm giới từ. \"Although he is intelligent\" → \"In spite of his intelligence\"."
     },
     {
       "id": 45,
