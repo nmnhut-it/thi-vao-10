@@ -367,7 +367,7 @@
         "I wish you wouldn't say things like that.",
         "I wish you wouldn't say things like that"
       ],
-      "explanation": "'Wish + would' for complaints about others' behavior."
+      "explanation": "Dùng 'wish + would' để phàn nàn về hành vi của người khác. 'Please don't say' → 'I wish you wouldn't say things like that'."
     },
     {
       "id": 32,
@@ -380,7 +380,7 @@
         "I wish somebody had told me you were at home yesterday.",
         "I wish someone had told me you were at home yesterday."
       ],
-      "explanation": "'Wish + past perfect' for past regret about something that didn't happen."
+      "explanation": "Dùng 'wish + quá khứ hoàn thành' cho hối tiếc về quá khứ. 'Nobody told me' → 'I wish somebody had told me'."
     },
     {
       "id": 33,
@@ -393,7 +393,7 @@
         "Tom wished he had bought her a present.",
         "Tom wished he had bought her a present"
       ],
-      "explanation": "'Wish + past perfect' for past regret: he didn't buy => wished he had bought."
+      "explanation": "Dùng 'wish + quá khứ hoàn thành' cho hối tiếc về quá khứ. 'didn't buy' → 'wished he had bought'."
     },
     {
       "id": 34,
@@ -406,7 +406,7 @@
         "I would rather you didn't touch my CDs.",
         "I would rather you didn't touch my CDs"
       ],
-      "explanation": "'Would rather + S + V(past)' for present wishes about others: 'didn't touch'."
+      "explanation": "Dùng 'would rather + S + quá khứ đơn' cho yêu cầu lịch sự. 'Don't touch' → 'I would rather you didn't touch my CDs'."
     },
     {
       "id": 35,
@@ -419,7 +419,7 @@
         "If only Jim caught some fish.",
         "If only Jim caught some fish"
       ],
-      "explanation": "'If only + past simple' for unreal present wish."
+      "explanation": "Dùng 'If only + quá khứ đơn' cho ước không có thật hiện tại. 'does not catch any fish' → 'If only Jim caught some fish'."
     },
     {
       "id": 36,
@@ -432,7 +432,7 @@
         "It looks as if he is running away from your fierce dog.",
         "It looks as if he is running away from your fierce dog"
       ],
-      "explanation": "'It looks as if' + present tense for something that appears to be true now."
+      "explanation": "Dùng 'It looks as if + hiện tại' cho điều có vẻ đúng hiện tại. 'appears to be running away' → 'It looks as if he is running away'."
     },
     {
       "id": 37,
@@ -446,7 +446,7 @@
         "If only I were rich and famous",
         "If only I was rich and famous."
       ],
-      "explanation": "'If only + past subjunctive' for unreal present wish: 'were'."
+      "explanation": "Dùng 'If only + quá khứ đơn' cho ước không có thật hiện tại. 'would love to be' → 'If only I were rich and famous'."
     },
     {
       "id": 38,
@@ -460,7 +460,7 @@
         "I wish I was in a secluded beach in Mexico.",
         "I wish I were in a secluded beach in Mexico"
       ],
-      "explanation": "'Wish + past subjunctive' for unreal present: 'were'."
+      "explanation": "Dùng 'wish + quá khứ đơn' cho ước không có thật hiện tại. 'I'd love to be' → 'I wish I were in a secluded beach'."
     },
     {
       "id": 39,
@@ -473,7 +473,7 @@
         "It's high time you acquired a few manners.",
         "It's high time you acquired a few manners"
       ],
-      "explanation": "'It's high time + S + V(past)' for something overdue."
+      "explanation": "Dùng 'It's high time + S + quá khứ đơn' cho điều đã đến lúc phải làm. 'ought to acquire' → 'It's high time you acquired'."
     },
     {
       "id": 40,
@@ -486,7 +486,7 @@
         "I really wish I had invited her to the party.",
         "I really wish I had invited her to the party"
       ],
-      "explanation": "'Wish + past perfect' for past regret: didn't invite => had invited."
+      "explanation": "Dùng 'wish + quá khứ hoàn thành' cho hối tiếc về quá khứ. 'didn't invite' → 'wish I had invited'."
     }
   ]
 }
