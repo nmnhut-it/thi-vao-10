@@ -279,7 +279,7 @@
         "She asked Peter whether he preferred tea or coffee.",
         "She asked Peter whether he preferred tea or coffee"
       ],
-      "explanation": "Yes-No question tường thuật: asked + O + if/whether + S + V (lùi thì)."
+      "explanation": "Chuyển câu hỏi Yes/No sang tường thuật: 'asked + O + if/whether'. Lùi thì 'do you prefer' → 'he preferred', đổi 'you' → 'he'."
     },
     {
       "id": 22,
@@ -294,7 +294,7 @@
         "He said the film had begun at seven o'clock.",
         "He said the film had begun at seven o'clock"
       ],
-      "explanation": "Trần thuật: said + (that) + S + V (lùi thì). began => had begun."
+      "explanation": "Chuyển câu kể sang tường thuật. Lùi thì: QKĐ 'began' → QKHT 'had begun'. Dùng 'said that' nối hai vế."
     },
     {
       "id": 23,
@@ -311,7 +311,7 @@
         "The father said that he had been on a business trip the whole day the previous day.",
         "The father said that he had been on a business trip the whole day the previous day"
       ],
-      "explanation": "was => had been. 'yesterday' => 'the day before' hoặc 'the previous day'. Lùi thì."
+      "explanation": "Chuyển câu kể sang tường thuật. Lùi thì: 'was' → 'had been', đổi 'I' → 'he'. Đổi thời gian 'yesterday' → 'the day before'."
     },
     {
       "id": 24,
@@ -328,7 +328,7 @@
         "James said that his brother would get married the next month.",
         "James said that his brother would get married the next month"
       ],
-      "explanation": "will => would. 'next month' => 'the following month' hoặc 'the next month'. 'my' => 'his'. Lùi thì."
+      "explanation": "Chuyển câu kể sang tường thuật. Lùi thì: 'will' → 'would'. Đổi 'my' → 'his', 'next month' → 'the following month'."
     },
     {
       "id": 25,
@@ -341,7 +341,7 @@
         "Henry told his mother to come and spend a week with them.",
         "Henry told his mother to come and spend a week with them"
       ],
-      "explanation": "Mệnh lệnh: told + O + to V. 'us' => 'them'."
+      "explanation": "Chuyển mệnh lệnh sang tường thuật: 'told + O + to V'. Đổi đại từ 'us' → 'them'."
     },
     {
       "id": 26,
@@ -356,7 +356,7 @@
         "He asked me to keep a seat for him in the lecture hall.",
         "He asked me to keep a seat for him in the lecture hall"
       ],
-      "explanation": "Mệnh lệnh: told/asked + O + to V. 'me' (trong lời nói) => 'him'."
+      "explanation": "Chuyển mệnh lệnh sang tường thuật: 'told + O + to V'. Đổi đại từ 'me' → 'him'."
     },
     {
       "id": 27,
@@ -373,7 +373,7 @@
         "Alfred told John that he hadn't promised to send him a telegram.",
         "Alfred told John that he hadn't promised to send him a telegram"
       ],
-      "explanation": "did not promise => had not promised. 'I' => 'he'. 'you' => 'him'."
+      "explanation": "Chuyển câu kể sang tường thuật. Lùi thì: 'did not promise' → 'had not promised'. Đổi 'I' → 'he', 'you' → 'him'."
     },
     {
       "id": 28,
@@ -388,7 +388,7 @@
         "She said she would get herself a drink.",
         "She said she would get herself a drink"
       ],
-      "explanation": "will => would. 'I' => 'she'. 'myself' => 'herself'."
+      "explanation": "Chuyển câu kể sang tường thuật. Lùi thì: 'will' → 'would'. Đổi 'I' → 'she', 'myself' → 'herself'."
     },
     {
       "id": 29,
@@ -405,7 +405,7 @@
         "He said that he couldn't drive them home.",
         "He said that he couldn't drive them home"
       ],
-      "explanation": "cannot => could not. 'I' => 'he'."
+      "explanation": "Chuyển câu kể sang tường thuật. Lùi thì: 'cannot' → 'could not'. Đổi 'I' → 'he'."
     },
     {
       "id": 30,
@@ -420,7 +420,7 @@
         "Mike told Henry to give him his book back.",
         "Mike told Henry to give him his book back"
       ],
-      "explanation": "Yêu cầu lịch sự (có 'please'): asked + O + to V. 'me' => 'him'. 'my' => 'his'."
+      "explanation": "Chuyển yêu cầu (có 'please') sang tường thuật: 'asked + O + to V'. Đổi 'me' → 'him', 'my' → 'his'."
     },
     {
       "id": 31,
