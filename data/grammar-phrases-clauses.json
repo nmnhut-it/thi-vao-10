@@ -188,7 +188,7 @@
       "instruction": "Rewrite without changing meaning.",
       "starterText": "The kind of milk is",
       "answer": "The kind of milk is too bad for the child to drink.",
-      "explanation": "so + adj + that S + can't => too + adj + for O + to V."
+      "explanation": "Chuyển từ 'so + adj + that + S + can't + V' sang 'too + adj + for O + to V'. 'so bad that the child can't drink' → 'too bad for the child to drink'."
     },
     {
       "id": 17,
@@ -197,7 +197,7 @@
       "instruction": "Rewrite without changing meaning.",
       "starterText": "It was",
       "answer": "It was such good food that we ate all of it.",
-      "explanation": "so + adj => such + adj + N."
+      "explanation": "Chuyển 'so + adj + that' sang 'such + adj + N + that'. 'so good that we ate all of it' → 'such good food that we ate all of it'."
     },
     {
       "id": 18,
@@ -206,7 +206,7 @@
       "instruction": "Rewrite without changing meaning.",
       "starterText": "The patient was so",
       "answer": "The patient was so weak that he/she couldn't get up.",
-      "explanation": "too + adj + to V => so + adj + that + S + can't/couldn't + V."
+      "explanation": "Chuyển 'too + adj + to V' sang 'so + adj + that + S + couldn't + V'. 'too weak to get up' → 'so weak that he couldn't get up'."
     },
     {
       "id": 19,
@@ -215,7 +215,7 @@
       "instruction": "Rewrite without changing meaning.",
       "starterText": "This room is",
       "answer": "This room is not bright enough for me to study.",
-      "explanation": "too + adj (negative) => not + adj (opposite) + enough."
+      "explanation": "Chuyển 'too + adj tiêu cực' sang 'not + adj trái nghĩa + enough'. 'too dark' → 'not bright enough'. Dark ↔ bright."
     },
     {
       "id": 20,
@@ -224,7 +224,7 @@
       "instruction": "Rewrite without changing meaning.",
       "starterText": "This room isn't large",
       "answer": "This room isn't large enough for us to hold the meeting.",
-      "explanation": "too small => not large enough."
+      "explanation": "Chuyển 'too + adj tiêu cực' sang 'not + adj trái nghĩa + enough'. 'too small' → 'not large enough'. Small ↔ large."
     },
     {
       "id": 21,
@@ -233,7 +233,7 @@
       "instruction": "Rewrite without changing meaning.",
       "starterText": "The test was not",
       "answer": "The test was not easy enough for us to do.",
-      "explanation": "so difficult that couldn't => not easy enough to."
+      "explanation": "Chuyển 'so + adj + that + couldn't' sang 'not + adj trái nghĩa + enough + to V'. 'so difficult that we couldn't do' → 'not easy enough for us to do'. Difficult ↔ easy."
     },
     {
       "id": 22,
@@ -242,7 +242,7 @@
       "instruction": "Rewrite without changing meaning.",
       "starterText": "He didn't speak",
       "answer": "He didn't speak slowly enough for us to hear him well.",
-      "explanation": "so fast that couldn't => not slowly enough to."
+      "explanation": "Chuyển 'so + adv + that + couldn't' sang 'not + adv trái nghĩa + enough'. 'so fast that we couldn't hear' → 'didn't speak slowly enough to hear'. Fast ↔ slowly."
     },
     {
       "id": 23,
@@ -251,7 +251,7 @@
       "instruction": "Rewrite without changing meaning.",
       "starterText": "In spite of",
       "answer": "In spite of not wanting to see The Lord of the Rings, she enjoyed it in the end.",
-      "explanation": "Although + S + V => In spite of + V-ing (phủ định: not V-ing)."
+      "explanation": "Chuyển mệnh đề 'Although + S + V' thành cụm từ 'In spite of + V-ing'. 'Although she didn't want' → 'In spite of not wanting'. Phủ định: thêm 'not' trước V-ing."
     },
     {
       "id": 24,
@@ -260,7 +260,7 @@
       "instruction": "Rewrite without changing meaning.",
       "starterText": "They visited Madrid despite",
       "answer": "They visited Madrid despite not having time to visit El Prado.",
-      "explanation": "although + S + V => despite + V-ing."
+      "explanation": "Chuyển mệnh đề 'although + S + V' thành cụm từ 'despite + V-ing'. 'although they didn't have' → 'despite not having'. Phủ định: thêm 'not' trước V-ing."
     },
     {
       "id": 25,
@@ -314,7 +314,7 @@
       "instruction": "Rewrite without changing meaning.",
       "starterText": "The map is",
       "answer": "The map is too worn out for me to read.",
-      "explanation": "so + adj + that + can't => too + adj + for O + to V."
+      "explanation": "Chuyển 'so + adj + that + couldn't' sang 'too + adj + for O + to V'. 'so worn out that I couldn't read' → 'too worn out for me to read'."
     }
   ]
 }
