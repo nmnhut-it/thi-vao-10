@@ -381,7 +381,7 @@
       "instruction": "Rewrite keeping the same meaning.",
       "starterText": "You spent",
       "answer": "You spent more money than I did.",
-      "explanation": "not as much as => more than (đảo lại)."
+      "explanation": "Chuyển so sánh bằng phủ định thành so sánh hơn. 'didn't spend as much as you' → 'You spent more money than I did'. 'not as much as' = 'more than'."
     },
     {
       "id": 34,
@@ -390,7 +390,7 @@
       "instruction": "Rewrite keeping the same meaning.",
       "starterText": "The Nile",
       "answer": "The Nile is the longest river in the world.",
-      "explanation": "No...longer than => the longest (chuyển sang so sánh nhất)."
+      "explanation": "Chuyển 'No...longer than' thành so sánh nhất. 'No river is longer than the Nile' → 'The Nile is the longest river in the world'."
     },
     {
       "id": 35,
@@ -399,7 +399,7 @@
       "instruction": "Rewrite keeping the same meaning.",
       "starterText": "Hoa can't",
       "answer": "Hoa can't cook as well as Lan.",
-      "explanation": "A is better than B => B can't...as well as A."
+      "explanation": "Chuyển so sánh hơn thành so sánh bằng phủ định. 'better cook than' → 'can't cook as well as'. 'better than' = 'not as...as'."
     },
     {
       "id": 36,
@@ -408,7 +408,7 @@
       "instruction": "Rewrite keeping the same meaning.",
       "starterText": "That restaurant",
       "answer": "That restaurant is the best in the city.",
-      "explanation": "No...better than => the best."
+      "explanation": "Chuyển 'No...better than' thành so sánh nhất. 'No restaurant is better than that one' → 'That restaurant is the best in the city'."
     },
     {
       "id": 37,
@@ -417,7 +417,7 @@
       "instruction": "Rewrite keeping the same meaning.",
       "starterText": "That watch",
       "answer": "That watch is better than this one.",
-      "explanation": "A worse than B => B better than A."
+      "explanation": "Đảo ngược so sánh, đổi chủ ngữ và từ trái nghĩa. 'worse' → 'better', 'This watch' → 'That watch'."
     },
     {
       "id": 38,
@@ -426,7 +426,7 @@
       "instruction": "Rewrite keeping the same meaning.",
       "starterText": "My sister used",
       "answer": "My sister used to write less carefully than she does now.",
-      "explanation": "Trước đây viết ít cẩn thận hơn bây giờ => used to write less carefully."
+      "explanation": "Chuyển so sánh với quá khứ dùng 'used to'. 'writes more carefully than she did' → 'used to write less carefully than she does now'."
     },
     {
       "id": 39,
@@ -435,7 +435,7 @@
       "instruction": "Rewrite keeping the same meaning.",
       "starterText": "This is",
       "answer": "This is the most interesting story that I have ever read.",
-      "explanation": "more...than any other => the most (so sánh nhất)."
+      "explanation": "Chuyển 'more...than any other' thành so sánh nhất. 'more interesting than any other' → 'the most interesting'."
     },
     {
       "id": 40,
@@ -444,7 +444,7 @@
       "instruction": "Rewrite keeping the same meaning.",
       "starterText": "I've never known a",
       "answer": "I've never known a more beautiful girl than her.",
-      "explanation": "the most...ever => never...a more...than."
+      "explanation": "Chuyển so sánh nhất thành 'never...more...than'. 'the most beautiful' → 'never known a more beautiful girl than her'."
     },
     {
       "id": 41,
@@ -453,7 +453,7 @@
       "instruction": "Rewrite keeping the same meaning.",
       "starterText": "Tom drives",
       "answer": "Tom drives more carefully than Peter.",
-      "explanation": "A not so...as B => B more...than A."
+      "explanation": "Chuyển so sánh bằng phủ định thành so sánh hơn. 'not so carefully as' → 'more carefully than', đảo chủ ngữ Peter → Tom."
     },
     {
       "id": 42,
@@ -462,7 +462,7 @@
       "instruction": "Rewrite keeping the same meaning.",
       "starterText": "It",
       "answer": "It is colder today than it was yesterday.",
-      "explanation": "6 độ < 9 độ => hôm nay lạnh hơn hôm qua."
+      "explanation": "So sánh dựa trên dữ liệu: 6°C < 9°C → hôm nay lạnh hơn hôm qua. 'It is colder today than it was yesterday'."
     },
     {
       "id": 43,
