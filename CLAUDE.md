@@ -86,6 +86,20 @@ npx http-server -p 8090 -c-1
 - All Vietnamese text must have proper diacritics
 - Short inline comments only where logic is non-obvious
 
+## Explanation Review
+
+### Documentation
+- `docs/EXPLANATION_STYLE_GUIDE.md` — Style rules and examples for all 7 exercise types
+- `docs/REVIEW_EXPLANATIONS_PROMPT.md` — Reusable agent prompt with type-specific guidance + progress tracker
+
+### Progress
+- **Done:** All 302 sentence-rewrite explanations (Vietnamese-first)
+- **Remaining:** ~745 explanations across MC, error-correct, reading-comprehension, sentence-combine, sentence-build, fill-blank
+- See `docs/REVIEW_EXPLANATIONS_PROMPT.md` for the full tracker and instructions
+
+### Commit Convention
+One file per commit: `"fix: review {type} explanations — {filename} ({count} items)"`
+
 ## Telegram Integration
 - Bot URL stored in LocalStorage via `Storage.save('telegram-bot-url', url)`
 - Progress messages sent on topic/test completion
