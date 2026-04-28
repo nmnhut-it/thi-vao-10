@@ -1654,6 +1654,11 @@ body.has-bottom-bar { padding-bottom: 80px; }
       linear-gradient(135deg, #1A1730, #1E1A2E);
   }
 
+  .knowledge__body .example {
+    background: linear-gradient(135deg, rgba(108, 92, 231, 0.15), rgba(162, 155, 254, 0.1));
+    color: #D0C8FF;
+  }
+
   .option:hover {
     background: rgba(108, 92, 231, 0.12);
   }
