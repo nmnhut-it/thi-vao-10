@@ -823,6 +823,7 @@ button {
   border-radius: 0 var(--radius-md) var(--radius-md) 0;
   font-family: var(--font-serif);
   font-style: italic;
+  color: #2D3436;
 }
 
 .knowledge__body .vi {
