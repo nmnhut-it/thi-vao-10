@@ -3,7 +3,7 @@
   "title": "Tag Questions (Câu Hỏi Đuôi)",
   "section": "grammar",
   "knowledge": {
-    "html": "<h3>Tag Questions (Câu hỏi đuôi)</h3><p>Câu hỏi đuôi (tag question) là dạng câu hỏi rất hay được sử dụng trong tiếng Anh, đặc biệt là tiếng Anh giao tiếp. Câu hỏi đuôi là câu hỏi ngắn ở cuối câu trần thuật. Câu hỏi này được dùng khi người nói muốn xác minh thông tin là đúng hay không hoặc khi khuyến khích một sự hỏi đáp từ phía người nghe.</p><div class='example'>Ví dụ: She is learning English now, isn't she? (Cô ấy đang học tiếng Anh bây giờ phải không?)</div><div class='formula'><b>Công thức chung: S + V + ..., trợ động từ + S (ĐẠI TỪ)?</b><br>- Nếu câu nói trước dấu phẩy là khẳng định thì câu hỏi đuôi là phủ định và ngược lại.</div><h4>Bảng tóm tắt cách thành lập câu hỏi đuôi:</h4><table class='grammar-table'><tr><th>Statement</th><th>Tag question</th></tr><tr><td>I am...</td><td>aren't I?</td></tr><tr><td>I am not...</td><td>am I?</td></tr><tr><td>Động từ khiếm khuyết: S + can/could/should/will...</td><td>Can't/couldn't/shouldn't/won't...+ S?</td></tr><tr><td>Động từ thường:<br>S + V1...<br>S + Vs/es...<br>S + V2/ed...</td><td>Sử dụng trợ động từ: Do/Does/Did<br>Don't + S?<br>Doesn't + S?<br>Didn't + S?</td></tr><tr><td>S + have/has/had + V3/ed...</td><td>Haven't/hasn't/hadn't + S?</td></tr><tr><td>S + is/are/was/were...</td><td>Isn't/aren't/wasn't/weren't + S?</td></tr><tr><td>S + used to + V...</td><td>Didn't + S?</td></tr><tr><td>S + 'd better/had better + V...</td><td>Hadn't + S?</td></tr><tr><td>S + 'd rather/would rather/would like + V...</td><td>Wouldn't + S?</td></tr><tr><td>There + is/are/was/were...</td><td>Isn't/aren't/wasn't/weren't + S?</td></tr><tr><td>Let's + V...</td><td>Shall we?</td></tr></table><h4>Các trường hợp đặc biệt:</h4><table class='grammar-table'><tr><th>Trường hợp</th><th>Tag question</th></tr><tr><td>Chủ từ là: No one/nobody/anyone/anybody/everyone/everybody/someone/somebody</td><td>...they?</td></tr><tr><td>Chủ từ là: nothing/anything/something/everything</td><td>...it?</td></tr><tr><td>Chủ từ là this/that...</td><td>...it?</td></tr><tr><td>Chủ từ là these/those...</td><td>...they?</td></tr><tr><td>Trong câu có các từ phủ định: <b>no/none/without/Neither/hardly/seldom/rarely/little/never/few</b></td><td>Câu hỏi đuôi khẳng định (không có N'T)</td></tr><tr><td>S + ought to...</td><td>Shouldn't + S?</td></tr><tr><td>Câu mệnh lệnh</td><td>Will you?</td></tr></table><div class='formula'><b>Cấu trúc: \"I + think/believe/suppose/...\" + mệnh đề phụ</b> thì ta dùng động từ trong mệnh đề phụ để xác định động từ cho câu hỏi đuôi.</div><div class='example'>Ex: I think she will meet him, won't she?</div><p>Cùng mẫu cấu trúc này nhưng chủ từ không phải là \"I\" thì dùng động từ chính trong câu (think/believe/suppose/...) để xác định động từ cho câu hỏi đuôi.</p><div class='example'>Ex: She thinks he will come, doesn't she?</div>"
+    "html": "<h3>Tag Questions (Câu hỏi đuôi)</h3><p>Câu hỏi đuôi (tag question) là dạng câu hỏi rất hay được sử dụng trong tiếng Anh, đặc biệt là tiếng Anh giao tiếp. Câu hỏi đuôi là câu hỏi ngắn ở cuối câu trần thuật. Câu hỏi này được dùng khi người nói muốn xác minh thông tin là đúng hay không hoặc khi khuyến khích một sự hỏi đáp từ phía người nghe.</p><div class='example'>Ví dụ: She is learning English now, isn't she? (Cô ấy đang học tiếng Anh bây giờ phải không?)</div><div class='formula'><b>Công thức chung: S + V + ..., trợ động từ + S (ĐẠI TỪ)?</b><br>- Nếu câu nói trước dấu phẩy là khẳng định thì câu hỏi đuôi là phủ định và ngược lại.</div><h4>Bảng tóm tắt cách thành lập câu hỏi đuôi:</h4><table class='grammar-table'><tr><th>Statement</th><th>Tag question</th></tr><tr><td>I am...</td><td>aren't I?</td></tr><tr><td>I am not...</td><td>am I?</td></tr><tr><td>Động từ khiếm khuyết: S + can/could/should/will...</td><td>Can't/couldn't/shouldn't/won't...+ S?</td></tr><tr><td>Động từ thường:<br>S + V1...<br>S + Vs/es...<br>S + V2/ed...</td><td>Sử dụng trợ động từ: Do/Does/Did<br>Don't + S?<br>Doesn't + S?<br>Didn't + S?</td></tr><tr><td>S + have/has/had + V3/ed...</td><td>Haven't/hasn't/hadn't + S?</td></tr><tr><td>S + is/are/was/were...</td><td>Isn't/aren't/wasn't/weren't + S?</td></tr><tr><td>S + used to + V...</td><td>Didn't + S?</td></tr><tr><td>S + 'd better/had better + V...</td><td>Hadn't + S?</td></tr><tr><td>S + 'd rather/would rather/would like + V...</td><td>Wouldn't + S?</td></tr><tr><td>There + is/are/was/were...</td><td>Isn't/aren't/wasn't/weren't + S?</td></tr><tr><td>Let's + V...</td><td>Shall we?</td></tr></table><h4>Các trường hợp đặc biệt:</h4><table class='grammar-table'><tr><th>Trường hợp</th><th>Tag question</th></tr><tr><td>Chủ từ là: No one/nobody/anyone/anybody/everyone/everybody/someone/somebody</td><td>...they?</td></tr><tr><td>Chủ từ là: nothing/anything/something/everything</td><td>...it?</td></tr><tr><td>Chủ từ là this/that...</td><td>.... (line truncated to 2000 chars)"
   },
   "exercises": [
     {
@@ -17,7 +17,7 @@
         "D. she can't"
       ],
       "correctIndex": 1,
-      "explanation": "Positive statement with 'can' -> negative tag: 'can't she?'"
+      "explanation": "Câu khẳng định với trợ động từ 'can' → câu hỏi đuôi phủ định: 'can't she?'. Đáp án A là khẳng định (sai nguyên tắc), C và D sai trật tự từ."
     },
     {
       "id": 2,
@@ -30,7 +30,7 @@
         "D. they won't"
       ],
       "correctIndex": 1,
-      "explanation": "Negative statement with 'won't' -> positive tag: 'will they?'"
+      "explanation": "Câu phủ định với 'won't' → câu hỏi đuôi khẳng định: 'will they?'. Nguyên tắc: khẳng định ↔ phủ định. Đáp án A lặp lại phủ định, C và D sai trật tự."
     },
     {
       "id": 3,
@@ -43,7 +43,7 @@
         "D. he doesn't"
       ],
       "correctIndex": 2,
-      "explanation": "Positive statement with 'goes' (present simple) -> negative tag: 'doesn't he?'"
+      "explanation": "Câu khẳng định, động từ thường 'goes' (hiện tại đơn) → câu hỏi đuôi phủ định dùng trợ động từ 'doesn't he?'. Đáp án A là khẳng định, B và D sai trật tự từ."
     },
     {
       "id": 4,
@@ -56,7 +56,7 @@
         "D. shan't we"
       ],
       "correctIndex": 2,
-      "explanation": "'Let's...' always takes 'shall we?' as the tag."
+      "explanation": "Câu bắt đầu bằng 'Let's...' luôn dùng câu hỏi đuôi 'shall we?' — đây là cấu trắc cố định. 'Don't we' và 'shan't we' đều sai."
     },
     {
       "id": 5,
@@ -69,7 +69,7 @@
         "D. isn't it"
       ],
       "correctIndex": 3,
-      "explanation": "'Your baby' can be referred to as 'it'. Positive statement -> negative tag: 'isn't it?'"
+      "explanation": "Câu khẳng định với 'is' → câu hỏi đuôi phủ định. 'Baby' khi chưa biết giới tính có thể dùng đại từ 'it': 'isn't it?'. Nếu biết là bé trai thì 'isn't he?' cũng đúng."
     },
     {
       "id": 6,
@@ -82,7 +82,7 @@
         "D. aren't they"
       ],
       "correctIndex": 2,
-      "explanation": "Negative statement -> positive tag. 'These books' -> 'they': 'are they?'"
+      "explanation": "Câu phủ định 'aren't' → câu hỏi đuôi khẳng định 'are they?'. 'These books' thay bằng đại từ 'they', không giữ nguyên 'these' như đáp án A, B."
     },
     {
       "id": 7,
@@ -95,7 +95,7 @@
         "D. do you"
       ],
       "correctIndex": 3,
-      "explanation": "Negative statement with 'don't have' -> positive tag: 'do you?'"
+      "explanation": "Câu phủ định với 'don't have' (động từ thường) → câu hỏi đuôi khẳng định 'do you?'. 'Have' ở đây là động từ thường, không phải trợ động từ, nên không dùng 'have you' như đáp án A."
     },
     {
       "id": 8,
@@ -108,7 +108,7 @@
         "D. isn't he"
       ],
       "correctIndex": 0,
-      "explanation": "Positive statement 'knows' (present simple) -> negative tag: 'doesn't he?'"
+      "explanation": "Câu khẳng định, động từ thường 'knows' (hiện tại đơn) → câu hỏi đuôi phủ định: 'doesn't he?'. Đáp án B, D dùng sai 'to be', C là khẳng định."
     },
     {
       "id": 9,
@@ -121,7 +121,7 @@
         "D. didn't Sally"
       ],
       "correctIndex": 0,
-      "explanation": "Positive past simple -> negative tag: 'didn't she?'"
+      "explanation": "Câu khẳng định, động từ quá khứ 'turned' → câu hỏi đuôi phủ định: 'didn't she?'. Đáp án D sai vì phải dùng đại từ 'she', không lặp lại tên 'Sally'."
     },
     {
       "id": 10,
@@ -134,7 +134,7 @@
         "D. should not we"
       ],
       "correctIndex": 1,
-      "explanation": "Positive 'should' -> negative tag: 'shouldn't we?'"
+      "explanation": "Câu khẳng định với trợ động từ 'should' → câu hỏi đuôi phủ định: 'shouldn't we?'. 'Shall we' chỉ dùng với 'Let's', 'should not we' sai vì phải viết tắt."
     },
     {
       "id": 11,
@@ -147,7 +147,7 @@
         "D. does he"
       ],
       "correctIndex": 3,
-      "explanation": "'Hardly' makes the statement negative, so the tag is positive: 'does he?'"
+      "explanation": "'Hardly' mang nghĩa phủ định ('gần như không') → câu hỏi đuôi phải khẳng định: 'does he?'. Các từ như 'hardly, never, seldom, rarely' đều được coi là phủ định."
     },
     {
       "id": 12,
@@ -160,7 +160,7 @@
         "D. had you"
       ],
       "correctIndex": 0,
-      "explanation": "'Never' makes it negative, so the tag is positive: 'have you?'"
+      "explanation": "'Never' mang nghĩa phủ định → câu hỏi đuôi khẳng định: 'have you?'. 'You've' = 'you have', nên dùng 'have' trong câu hỏi đuôi. Đáp án D 'had you' sai vì đây là hiện tại hoàn thành."
     },
     {
       "id": 13,
@@ -173,7 +173,7 @@
         "D. does he"
       ],
       "correctIndex": 2,
-      "explanation": "'Everybody' -> pronoun 'they'. Positive -> negative tag: 'don't they?'"
+      "explanation": "'Everybody' thay bằng đại từ 'they' trong câu hỏi đuôi. Câu khẳng định → câu hỏi đuôi phủ định: 'don't they?'. Đáp án A dùng 'he' ít tự nhiên hơn."
     },
     {
       "id": 14,
@@ -183,10 +183,10 @@
         "A. aren't I",
         "B. am I not",
         "C. are you",
-        "D. am I"
+        "C. am I"
       ],
       "correctIndex": 0,
-      "explanation": "'I am...' takes the special tag 'aren't I?'"
+      "explanation": "Câu khẳng định 'I am' có câu hỏi đuôi đặc biệt là 'aren't I?', không dùng 'am not I' hay 'am I'. Đây là trường hợp ngoại lệ cần nhớ."
     },
     {
       "id": 15,
@@ -199,7 +199,7 @@
         "D. hasn't she"
       ],
       "correctIndex": 1,
-      "explanation": "'This is...' -> 'isn't it?' ('this' becomes 'it' in the tag)."
+      "explanation": "Vế chính là 'This is...' → câu hỏi đuôi theo vế chính: 'isn't it?'. Đại từ 'this' chuyển thành 'it'. Đáp án D 'hasn't she' sai vì không theo vế chính."
     },
     {
       "id": 16,
@@ -212,7 +212,7 @@
         "D. don't you"
       ],
       "correctIndex": 1,
-      "explanation": "Imperative sentences take 'will you?' as the tag."
+      "explanation": "Câu mệnh lệnh khẳng định dùng câu hỏi đuôi 'will you?' — đây là cách đưa ra yêu cầu nhẹ nhàng. 'Won't you' cũng có thể dùng nhưng 'will you' phổ biến hơn."
     },
     {
       "id": 17,
@@ -225,7 +225,7 @@
         "D. let's not"
       ],
       "correctIndex": 1,
-      "explanation": "'Let's...' always takes 'shall we?' as the tag."
+      "explanation": "Câu bắt đầu bằng 'Let's...' luôn dùng câu hỏi đuôi 'shall we?' — cấu trắc cố định. 'Shan't we' sai vì câu hỏi đuôi 'Let's' luôn khẳng định."
     },
     {
       "id": 18,
@@ -238,7 +238,7 @@
         "D. didn't she"
       ],
       "correctIndex": 1,
-      "explanation": "When the subject is NOT 'I', the tag follows the main clause: 'You think..., don't you?' Only with 'I think/believe' does the tag follow the subordinate clause."
+      "explanation": "Chủ ngữ chính là 'you' → câu hỏi đuôi theo vế chính: 'You think..., don't you?'. Chỉ khi chủ ngữ chính là 'I think/believe...' thì câu hỏi đuôi mới theo vế phụ."
     },
     {
       "id": 19,
@@ -251,7 +251,7 @@
         "D. can't we"
       ],
       "correctIndex": 3,
-      "explanation": "'I believe/think that...' - tag follows the subordinate clause: 'can't we?'"
+      "explanation": "Cấu trúc 'I believe/think that...' → câu hỏi đuôi theo mệnh đề phụ (vế sau 'that'): 'can't we?'. Đây là trường hợp đặc biệt, ngược với câu 18."
     },
     {
       "id": 20,
@@ -264,7 +264,7 @@
         "D. don't we"
       ],
       "correctIndex": 3,
-      "explanation": "'Have to' is treated as a regular verb. Positive -> negative tag with 'do': 'don't we?'"
+      "explanation": "'Have to' là cụm động từ thường (không phải trợ động từ 'have') → câu hỏi đuôi dùng trợ động từ 'do': 'don't we?'. Đáp án A, B nhầm 'have' là trợ động từ."
     },
     {
       "id": 21,
@@ -273,7 +273,7 @@
       "errorWord": "do they",
       "correction": "don't they",
       "correctSentence": "David and Peter love playing football in their free time, don't they?",
-      "explanation": "Positive statement -> negative tag: 'don't they?'"
+      "explanation": "Câu khẳng định → câu hỏi đuôi phải phủ định: 'do they' → 'don't they?'. Nguyên tắc cơ bản: khẳng định ↔ phủ định."
     },
     {
       "id": 22,
@@ -282,7 +282,7 @@
       "errorWord": "shan't he",
       "correction": "won't he",
       "correctSentence": "Peter will help you with your homework, won't he?",
-      "explanation": "'Will' -> negative tag is 'won't', not 'shan't'."
+      "explanation": "Trợ động từ chính là 'will' → câu hỏi đuôi phủ định phải dùng 'won't', không dùng 'shan't' ('shan't' là phủ định của 'shall')."
     },
     {
       "id": 23,
@@ -291,7 +291,7 @@
       "errorWord": "do they",
       "correction": "did they",
       "correctSentence": "Nobody helped her with her work, did they?",
-      "explanation": "'Helped' is past tense, and 'nobody' is negative. Positive past tag: 'did they?'"
+      "explanation": "Động từ 'helped' ở thì quá khứ → câu hỏi đuôi phải dùng thì quá khứ: 'do they' → 'did they?'. Ngoài ra 'nobody' đã mang nghĩa phủ định nên câu hỏi đuôi phải khẳng định."
     },
     {
       "id": 24,
@@ -300,7 +300,7 @@
       "errorWord": "won't you",
       "correction": "will you",
       "correctSentence": "You won't be leaving for another hour, will you?",
-      "explanation": "Negative statement 'won't' -> positive tag: 'will you?'"
+      "explanation": "Câu đã phủ định 'won't' → câu hỏi đuôi phải khẳng định: 'won't you' → 'will you?'. Nguyên tắc: khẳng định ↔ phủ định."
     },
     {
       "id": 25,
@@ -309,7 +309,7 @@
       "errorWord": "do they",
       "correction": "don't they",
       "correctSentence": "They enjoy watching soccer on television, don't they?",
-      "explanation": "Positive statement -> negative tag: 'don't they?'"
+      "explanation": "Câu khẳng định → câu hỏi đuôi phải phủ định: 'do they' → 'don't they?'. Nguyên tắc cơ bản: khẳng định ↔ phủ định."
     },
     {
       "id": 26,
@@ -318,7 +318,7 @@
       "errorWord": "aren't they",
       "correction": "aren't there",
       "correctSentence": "There are ten children playing in the yard near her house, aren't there?",
-      "explanation": "'There are...' -> tag uses 'there', not 'they': 'aren't there?'"
+      "explanation": "Câu bắt đầu bằng 'There are...' → câu hỏi đuôi phải giữ 'there', không đổi thành 'they': 'aren't they' → 'aren't there?'."
     },
     {
       "id": 27,
@@ -327,7 +327,7 @@
       "errorWord": "do you",
       "correction": "will you",
       "correctSentence": "Don't tell my secrets to anyone, will you?",
-      "explanation": "Negative imperative ('Don't...') takes 'will you?' as the tag."
+      "explanation": "Câu mệnh lệnh phủ định 'Don't...' → câu hỏi đuôi dùng 'will you?': 'do you' → 'will you?'. Đây là cấu trắc cố định cho câu mệnh lệnh."
     },
     {
       "id": 28,
@@ -336,7 +336,7 @@
       "errorWord": "isn't it",
       "correction": "hasn't it",
       "correctSentence": "It has been a long time since we talked to John, hasn't it?",
-      "explanation": "'It has been...' -> tag matches 'has': 'hasn't it?'"
+      "explanation": "Câu dùng thì hiện tại hoàn thành 'It has been...' → câu hỏi đuôi phải theo trợ động từ 'has': 'isn't it' → 'hasn't it?'."
     },
     {
       "id": 29,
@@ -345,7 +345,7 @@
       "errorWord": "isn't it",
       "correction": "isn't there",
       "correctSentence": "There's a new Orient restaurant in town, isn't there?",
-      "explanation": "'There's (there is)...' -> tag uses 'there': 'isn't there?'"
+      "explanation": "Câu bắt đầu bằng 'There's (there is)...' → câu hỏi đuôi phải giữ 'there', không dùng 'it': 'isn't it' → 'isn't there?'."
     },
     {
       "id": 30,
@@ -354,7 +354,7 @@
       "errorWord": "didn't they",
       "correction": "did they",
       "correctSentence": "They hardly went to the beach with their close friends, did they?",
-      "explanation": "'Hardly' makes the statement negative, so the tag must be positive: 'did they?'"
+      "explanation": "'Hardly' mang nghĩa phủ định ('gần như không') → câu hỏi đuôi phải khẳng định: 'didn't they' → 'did they?'. Các từ như 'hardly, never, rarely, seldom' đều được coi là phủ định."
     }
   ]
 }

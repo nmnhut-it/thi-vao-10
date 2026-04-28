@@ -21,7 +21,7 @@
             "D. heavy"
           ],
           "correctIndex": 1,
-          "explanation": "The passage says viruses are 'tiny germs that are so small' -- they are so small they can float through air."
+          "explanation": "Virus rất nhỏ đến mức có thể bay trong không khí. | B — Tính từ so sánh | A: 'lớn' — sai, virus siêu nhỏ không thể nhìn thấy được | B: 'nhỏ' — đúng, virus rất nhỏ có thể bay trong nước | C: 'nhẹ' — không phù hợp với ngữ cảnh | D: 'nặng' — sai ý nghĩa"
         },
         {
           "id": "1b",
@@ -33,7 +33,7 @@
             "D. of"
           ],
           "correctIndex": 3,
-          "explanation": "'Sorts of' is the correct collocation meaning 'types of.'"
+          "explanation": "Có nhiều loại coronavirus khác nhau. | D — Cụm từ cố định | A: 'about' — không đúng với 'sorts' | B: 'for' — không dùng với 'sorts' | C: 'with' — không đúng ngữ pháp | D: 'of' — đúng, 'sorts of' là cụm từ cố định"
         },
         {
           "id": "1c",
@@ -45,7 +45,7 @@
             "D. caught"
           ],
           "correctIndex": 0,
-          "explanation": "'All you probably had was a snotty nose' -- 'had' means experienced a symptom."
+          "explanation": "Tất cả những gì bạn có thể có chỉ là chảy nước mũi hoặc ho. | A — Động từ | A: 'had' — đúng, có nghĩa là trải qua (triệu chứng) | B: 'made' — sai, không phù hợp ý nghĩa | C: 'took' — không đúng trong ngữ cảnh này | D: 'caught' — không phù hợp"
         },
         {
           "id": "1d",
@@ -57,7 +57,7 @@
             "D. (no article)"
           ],
           "correctIndex": 1,
-          "explanation": "'An illness' -- 'illness' starts with a vowel sound, so 'an' is needed."
+          "explanation": "Nó gây ra một căn bệnh gọi là COVID-19. | B — Mạo từ | A: 'a' — sai, 'illness' bắt đầu bằng nguyên âm | B: 'an' — đúng, 'illness' bắt đầu bằng âm [ɪ] | C: 'the' — không cần thiết ở đây | D: 'no article' — cần mạo từ"
         },
         {
           "id": "1e",
@@ -69,7 +69,7 @@
             "D. habits"
           ],
           "correctIndex": 1,
-          "explanation": "'Two main ways that people can catch it' -- 'ways' means methods or means."
+          "explanation": "Có hai cách chính mà con người có thể mắc bệnh này. | B — Từ loại | A: 'roads' — đường, không phù hợp | B: 'ways' — đúng, cách/thức (phương thức) | C: 'behaviours' — hành vi, không phù hợp | D: 'habits' — thói quen, không đúng"
         }
       ]
     },
@@ -88,7 +88,7 @@
             "D. whether"
           ],
           "correctIndex": 0,
-          "explanation": "'When their teachers enter the room' -- 'when' introduces a time clause."
+          "explanation": "Học sinh Mỹ không đứng lên khi giáo viên vào lớp. | A — Liên từ | A: 'when' — đúng, giới thiệu mệnh đề thời gian | B: 'where' — nơi chốn, không phù hợp | C: 'that' — không phù hợp trong trường hợp này | D: 'whether' — có phải không, không đúng"
         },
         {
           "id": "2b",
@@ -100,7 +100,7 @@
             "D. encourage"
           ],
           "correctIndex": 1,
-          "explanation": "'Allow students to enter' -- 'allow someone to do something' is the correct pattern."
+          "explanation": "Hầu hết giáo viên cho phép học sinh vào lớp muộn. | B — Động từ | A: 'let' — let + V không có 'to' | B: 'allow' — đúng, allow someone to do something | C: 'make' — bắt buộc, không đúng ý nghĩa | D: 'encourage' — khuyến khích, không đúng"
         },
         {
           "id": "2c",
@@ -112,7 +112,7 @@
             "D. Because of"
           ],
           "correctIndex": 2,
-          "explanation": "'Despite the lack of formality' -- 'despite' + noun phrase shows contrast."
+          "explanation": "Mặc dù thiếu tính trang trọng, học sinh vẫn được kỳ vọng lịch sự. | C — Liên từ | A: 'Though' — cần có 'of' hoặc mệnh đề | B: 'In spite' — thiếu 'of', không đúng | C: 'Despite' — đúng, despite + danh từ | D: 'Because of' — vì, không thể hiện tương phản"
         },
         {
           "id": "2d",
@@ -124,7 +124,7 @@
             "D. put"
           ],
           "correctIndex": 2,
-          "explanation": "'Raise a hand' -- 'raise' means to lift something up (transitive verb)."
+          "explanation": "Khi muốn hỏi, học sinh thường giơ tay. | C — Từ loại | A: 'rise' — dựng lên (nội động từ) | B: 'arise' — phát sinh, không đúng | C: 'raise' — đúng, giơ lên (ngoại động từ) | D: 'put' — đặt, không phù hợp"
         },
         {
           "id": "2e",
@@ -136,7 +136,7 @@
             "D. during"
           ],
           "correctIndex": 3,
-          "explanation": "'During a test' -- 'during' + noun phrase indicates time period."
+          "explanation": "Nói chuyện với bạn cùng lớp trong khi thi là gian lận. | D — Giới từ | A: 'in' — không đúng với 'test' | B: 'when' — cần thêm gì đó | C: 'while' — trong khi, nhưng không phải đáp án tốt nhất | D: 'during' — đúng, during + danh từ chỉ thời gian"
         }
       ]
     },
@@ -155,7 +155,7 @@
             "D. since"
           ],
           "correctIndex": 3,
-          "explanation": "'Since the 17th century' -- 'since' is used with a point in time with present perfect."
+          "explanation": "Thêu ren đã phát triển từ thế kỷ 17. | D — Giới từ/Thì động từ | A: 'around' — khoảng, không đúng với thì | B: 'over' — trong suốt (khoảng thời gian) | C: 'on' — không đúng | D: 'since' — đúng, since + thời điểm với hiện tại hoàn thành"
         },
         {
           "id": "3b",
@@ -167,7 +167,7 @@
             "D. what"
           ],
           "correctIndex": 1,
-          "explanation": "'The first man who taught' -- 'who' is a relative pronoun for people as subject."
+          "explanation": "Người đàn ông đầu tiên dạy dân địa phương thêu ren là bác sĩ Lê Công Hành. | B — Đại từ quan hệ | A: 'whom' — đại từ quan hệ cho tân ngữ | B: 'who' — đúng, đại từ quan hệ cho chủ ngữ | C: 'when' — khi nào, cho thời gian | D: 'what' — cái gì, không phù hợp"
         },
         {
           "id": "3c",
@@ -179,7 +179,7 @@
             "D. X (no article)"
           ],
           "correctIndex": 0,
-          "explanation": "'Across the country' -- 'the' is used because it refers to a specific country (Vietnam)."
+          "explanation": "Mặc dù những kỹ năng này cuối cùng đã lan ra khắp đất nước. | A — Mạo từ | A: 'the' — đúng, chỉ quốc gia cụ thể (Việt Nam) | B: 'a' — một, không đúng | C: 'an' — một, nhưng không phù hợp | D: 'no article' — cần mạo từ xác định"
         },
         {
           "id": "3d",
@@ -191,7 +191,7 @@
             "D. beautifully"
           ],
           "correctIndex": 2,
-          "explanation": "'Beautiful embroideries' -- an adjective is needed before the noun."
+          "explanation": "Để tạo ra những sản phẩm thêu ren đẹp. | C — Từ loại | A: 'beauty' — danh từ, không đúng vị trí | B: 'beautify' — động từ, không phù hợp | C: 'beautiful' — đúng, tính từ đứng trước danh từ | D: 'beautifully' — trạng từ, không phù hợp"
         },
         {
           "id": "3e",
@@ -203,7 +203,7 @@
             "D. exported"
           ],
           "correctIndex": 3,
-          "explanation": "'Which are exported to many countries' -- passive voice with 'exported.'"
+          "explanation": "Những sản phẩm này được xuất khẩu sang nhiều nước. | D — Từ loại/Bị động | A: 'wonder' — tự hỏi, không phù hợp | B: 'cause' — gây ra, không đúng | C: 'true' — thật, không phù hợp | D: 'exported' — đúng, bị động với 'are'"
         }
       ]
     },
@@ -222,7 +222,7 @@
             "D. when"
           ],
           "correctIndex": 2,
-          "explanation": "'Whereas' shows contrast between past (agriculture) and present (less agriculture)."
+          "explanation": "Ngày xưa người ta làm nông nghiệp trong khi nay ít người làm hơn. | C — Liên từ | A: 'however' — tuy nhiên, cần dấu phẩy | B: 'therefore' — vì vậy, không thể hiện tương phản | C: 'whereas' — đúng, trong khi (tương phản) | D: 'when' — khi nào, không đúng"
         },
         {
           "id": "4b",
@@ -234,7 +234,7 @@
             "D. presently"
           ],
           "correctIndex": 0,
-          "explanation": "'Traditionally agrarian' -- Vietnam was traditionally an agricultural country."
+          "explanation": "Việt Nam, vốn là một quốc gia nông nghiệp truyền thống. | A — Từ loại | A: 'traditionally' — đúng, truyền thống (trạng từ) | B: 'gradually' — dần dần, không phù hợp | C: 'occasionally' — thỉnh thoảng, không đúng | D: 'presently' — hiện tại, không đúng"
         },
         {
           "id": "4c",
@@ -246,7 +246,7 @@
             "D. theirs"
           ],
           "correctIndex": 1,
-          "explanation": "'Their forefathers' -- possessive adjective before a noun."
+          "explanation": "Người Việt giữ nhiều đặc điểm của tổ tiên họ. | B — Đại từ sở hữu | A: 'they' — họ (chủ ngữ), không đúng vị trí | B: 'their' — đúng, tính từ sở hữu đứng trước danh từ | C: 'them' — họ (tân ngữ), không đúng | D: 'theirs' — của họ, không phù hợp"
         },
         {
           "id": "4d",
@@ -258,7 +258,7 @@
             "D. for"
           ],
           "correctIndex": 2,
-          "explanation": "'Welcome foreigners to their country' -- 'welcome to' is the correct preposition."
+          "explanation": "Họ chào đón người nước ngoài đến với đất nước độc đáo của họ. | C — Giới từ | A: 'on' — trên, không đúng | B: 'at' — tại, không đúng | C: 'to' — đúng, welcome to + nơi chốn | D: 'for' — cho, không đúng"
         },
         {
           "id": "4e",
@@ -270,7 +270,7 @@
             "D. development"
           ],
           "correctIndex": 3,
-          "explanation": "'The development of their country' -- a noun is needed after 'the' and before 'of.'"
+          "explanation": "Người Việt làm việc tập thể hướng tới sự phát triển của đất nước. | D — Từ loại | A: 'developed' — phát triển (quá khứ phân từ) | B: 'developer' — nhà phát triển, không đúng | C: 'developing' — đang phát triển, không phù hợp | D: 'development' — đúng, danh từ sau 'the'"
         }
       ]
     },
@@ -289,7 +289,7 @@
             "D. means"
           ],
           "correctIndex": 3,
-          "explanation": "'Means of transport' is the correct collocation for transportation methods."
+          "explanation": "Hệ thống này trở thành một trong những phương tiện giao thông phổ biến nhất. | D — Cụm từ cố định | A: 'ways' — cách, không đúng trong ngữ cảnh | B: 'systems' — hệ thống, không phải collocation | C: 'spaces' — không gian, không phù hợp | D: 'means' — đúng, means of transport (phương tiện)"
         },
         {
           "id": "5b",
@@ -301,7 +301,7 @@
             "D. ahead"
           ],
           "correctIndex": 0,
-          "explanation": "'Get around the city' means to travel within the city."
+          "explanation": "Để cư dân di chuyển quanh thành phố và các vùng ngoại ô. | A — Cụm từ cố định | A: 'around' — đúng, get around (di chuyển quanh) | B: 'over' — qua, không đúng | C: 'by' — bằng, không phù hợp | D: 'ahead' — phía trước, không đúng"
         },
         {
           "id": "5c",
@@ -313,7 +313,7 @@
             "D. since"
           ],
           "correctIndex": 1,
-          "explanation": "'Because of the population boom' -- 'because of' + noun phrase."
+          "explanation": "Tuy nhiên, do sự bùng nổ dân số và nhu cầu cấp thiết nâng cấp. | B — Liên từ/Cụm từ | A: 'because' — cần mệnh đề | B: 'because of' — đúng, because of + danh từ | C: 'as' — vì/như, không phù hợp | D: 'since' — từ khi/vì, không đúng"
         },
         {
           "id": "5d",
@@ -325,7 +325,7 @@
             "D. increase"
           ],
           "correctIndex": 1,
-          "explanation": "'The increasing travel demands' -- present participle as adjective before noun."
+          "explanation": "Đáp ứng nhu cầu đi lại ngày càng tăng. | B — Từ loại | A: 'increased' — tăng lên (quá khứ), không đúng | B: 'increasing' — đúng, danh động từ làm tính từ | C: 'increasingly' — ngày càng (trạng từ), cần danh từ | D: 'increase' — danh từ, không đúng vị trí"
         },
         {
           "id": "5e",
@@ -337,7 +337,7 @@
             "D. where"
           ],
           "correctIndex": 0,
-          "explanation": "'Which links Ha Noi Central Station to Nhon' -- 'which' as relative pronoun for things."
+          "explanation": "Một hệ thống đường sắt mới, kết nối ga trung tâm Hà Nội với Nhon. | A — Đại từ quan hệ | A: 'which' — đúng, đại từ quan hệ cho sự vật | B: 'what' — cái gì, không phải đại từ quan hệ | C: 'whose' — của ai, cho sở hữu | D: 'where' — nơi đâu, cho địa điểm"
         }
       ]
     },
@@ -356,7 +356,7 @@
             "D. boiled"
           ],
           "correctIndex": 2,
-          "explanation": "'Rice is eaten by Vietnamese people every day' -- rice is food, so 'eaten' is correct."
+          "explanation": "Gạo được người Việt ăn mỗi ngày. | C — Từ loại/Bị động | A: 'used' — sử dụng, không đúng ý nghĩa | B: 'taken' — lấy, không phù hợp | C: 'eaten' — đúng, ăn (thực phẩm) | D: 'boiled' — luộc, không đúng"
         },
         {
           "id": "6b",
@@ -368,7 +368,7 @@
             "D. Any"
           ],
           "correctIndex": 2,
-          "explanation": "'The Chinese' -- 'the' + nationality adjective refers to the people of that nation."
+          "explanation": "Người Trung Quốc cũng trồng lúa hàng ngàn năm. | C — Mạo từ | A: 'A' — một, không phù hợp | B: 'Some' — một số, không đúng | C: 'The' — đúng, the + tính từ quốc tịch chỉ người | D: 'Any' — bất kỳ, không phù hợp"
         },
         {
           "id": "6c",
@@ -380,7 +380,7 @@
             "D. of"
           ],
           "correctIndex": 2,
-          "explanation": "'Covered with muddy water' -- 'covered with' is the correct collocation."
+          "explanation": "Những cánh đồng được phủ đầy nước bùn. | C — Cụm từ cố định | A: 'in' — trong, không đúng | B: 'by' — bởi, không đúng | C: 'with' — đúng, covered with (phủ bằng) | D: 'of' — của, không đúng"
         },
         {
           "id": "6d",
@@ -392,7 +392,7 @@
             "D. beautify"
           ],
           "correctIndex": 1,
-          "explanation": "'Look very beautiful' -- 'look' + adjective (not adverb) as a linking verb."
+          "explanation": "Những cánh đồng lúa trông rất đẹp. | B — Từ loại | A: 'beauty' — danh từ, không đúng vị trí | B: 'beautiful' — đúng, tính từ sau 'look' (động từ nối) | C: 'beautifully' — trạng từ, dùng với động từ | D: 'beautify' — động từ, không phù hợp"
         },
         {
           "id": "6e",
@@ -404,7 +404,7 @@
             "D. Instead"
           ],
           "correctIndex": 3,
-          "explanation": "'Instead, they use chopsticks' -- 'instead' means as an alternative to spoons/forks."
+          "explanation": "Thay vì, họ dùng đũa để cho gạo vào miệng. | D — Liên từ | A: 'However' — tuy nhiên, không phù hợp | B: 'Moreover' — hơn nữa, không đúng | C: 'Besides' — ngoài ra, không đúng | D: 'Instead' — đúng, thay vì (đối lập)"
         }
       ]
     },
@@ -423,7 +423,7 @@
             "D. off"
           ],
           "correctIndex": 2,
-          "explanation": "'Burned down' means destroyed by fire."
+          "explanation": "Nếu Quốc hội không bị cháy sập năm 1834. | C — Cụm từ cố định | A: 'up' — lên, không đúng | B: 'on' — trên, không đúng | C: 'down' — đúng, burned down (cháy sập) | D: 'off' — tắt, không đúng"
         },
         {
           "id": "7b",
@@ -435,7 +435,7 @@
             "D. time"
           ],
           "correctIndex": 1,
-          "explanation": "'Takes its name from' -- Big Ben is named after Sir Benjamin Hall."
+          "explanation": "Big Ben lấy tên từ Sir Benjamin Hall. | B — Cụm từ cố định | A: 'place' — nơi, không đúng | B: 'name' — đúng, takes its name from (lấy tên từ) | C: 'fame' — danh tiếng, không đúng | D: 'time' — thời gian, không phù hợp"
         },
         {
           "id": "7c",
@@ -447,7 +447,7 @@
             "D. twice"
           ],
           "correctIndex": 3,
-          "explanation": "'Checked twice a day' -- 'twice' means two times."
+          "explanation": "Các quan chức kiểm tra đồng hồ hai lần một ngày. | D — Từ loại | A: 'two' — hai, cần có 'times' | B: 'two time' — sai ngữ pháp | C: 'couple' — cặp, không chính xác | D: 'twice' — đúng, hai lần"
         },
         {
           "id": "7d",
@@ -459,7 +459,7 @@
             "D. connect"
           ],
           "correctIndex": 1,
-          "explanation": "'Microphones are connected to the clock tower' -- passive voice, plural subject."
+          "explanation": "Vì microphone được kết nối với tháp đồng hồ. | B — Bị động/Thì động từ | A: 'connects' — chủ động, không phù hợp | B: 'are connected' — đúng, bị động, chủ ngữ số nhiều | C: 'is connected' — bị động, nhưng sai số | D: 'connect' — chủ động, không phù hợp"
         },
         {
           "id": "7e",
@@ -471,7 +471,7 @@
             "D. where"
           ],
           "correctIndex": 0,
-          "explanation": "'A painter who had been working' -- 'who' as relative pronoun for a person (subject)."
+          "explanation": "Một thợ sơn đang làm việc trên tháp đã treo một bình sơn. | A — Đại từ quan hệ | A: 'who' — đúng, đại từ quan hệ cho người (chủ ngữ) | B: 'whom' — cho tân ngữ, không đúng | C: 'which' — cho sự vật, không phù hợp | D: 'where' — nơi đâu, cho địa điểm"
         }
       ]
     },
@@ -490,7 +490,7 @@
             "D. No article"
           ],
           "correctIndex": 0,
-          "explanation": "'A definition' -- indefinite article before a singular countable noun starting with a consonant."
+          "explanation": "Một định nghĩa của rác thải là bất cứ thứ gì còn lại. | A — Mạo từ | A: 'A' — đúng, mạo từ bất định trước danh từ đếm được số ít | B: 'An' — dùng trước nguyên âm, nhưng 'definition' bắt đầu bằng phụ âm | C: 'The' — mạo từ xác định, không phù hợp | D: 'No article' — cần mạo từ"
         },
         {
           "id": "8b",
@@ -502,7 +502,7 @@
             "D. moreover"
           ],
           "correctIndex": 1,
-          "explanation": "'However' shows contrast between the general definition and modern practices."
+          "explanation": "Tuy nhiên, trong nhà và doanh nghiệp hiện đại. | B — Liên từ | A: 'but' — nhưng, cần dấu phẩy | B: 'however' — đúng, tuy nhiên (đứng giữa câu) | C: 'therefore' — vì vậy, không đúng | D: 'Moreover' — hơn nữa, không đúng"
         },
         {
           "id": "8c",
@@ -514,7 +514,7 @@
             "D. burned"
           ],
           "correctIndex": 2,
-          "explanation": "'When burning something' -- gerund after 'when' in a reduced clause."
+          "explanation": "Khói được tạo ra khi đốt cháy thứ gì đó. | C — Từ loại/Gerund | A: 'burn' — động từ nguyên mẫu, không đúng | B: 'to burn' — động từ có to, không phù hợp | C: 'burning' — đúng, gerund sau 'when' | D: 'burned' — quá khứ, không đúng"
         },
         {
           "id": "8d",
@@ -526,7 +526,7 @@
             "D. Most"
           ],
           "correctIndex": 3,
-          "explanation": "'Most people think' -- 'most' + noun (without 'of') for general statements."
+          "explanation": "Hầu hết mọi người nghĩ rằng họ luôn có thể nhìn thấy khói. | D — Lượng từ | A: 'Almost' — hầu như, không đúng vị trí | B: 'The most' — nhất, cần so sánh | C: 'Most of' — hầu hết, cần có 'the' | D: 'Most' — đúng, hầu hết + danh từ"
         },
         {
           "id": "8e",
@@ -538,7 +538,7 @@
             "D. able"
           ],
           "correctIndex": 3,
-          "explanation": "'Are always able to see' -- 'be able to' + verb is the correct pattern."
+          "explanation": "Họ luôn có thể nhìn thấy khói. | D — Cụm từ cố định | A: 'could' — có thể, không đúng với 'always' | B: 'possible' — có thể, cần 'it is possible' | C: 'capable' — có khả năng, cần 'of' | D: 'able' — đúng, be able to (có thể)"
         }
       ]
     },
@@ -557,7 +557,7 @@
             "D. a little"
           ],
           "correctIndex": 2,
-          "explanation": "'Too much time' -- 'time' is uncountable, so 'much' is correct."
+          "explanation": "Trẻ em dành quá nhiều thời gian chơi internet. | C — Lượng từ | A: 'many' — nhiều (đếm được), không dùng với 'time' | B: 'few' — ít (đếm được), không đúng | C: 'much' — đúng, nhiều (không đếm được) | D: 'a little' — một ít, không phù hợp"
         },
         {
           "id": "9b",
@@ -569,7 +569,7 @@
             "D. harmful"
           ],
           "correctIndex": 3,
-          "explanation": "'Can be harmful for their children' -- adjective after 'be' as complement."
+          "explanation": "Liệu nó có thể có hại cho con cái họ không? | D — Từ loại | A: 'harm' — danh từ, cần 'be harmful' | B: 'harmless' — vô hại, không đúng ý nghĩa | C: 'harmlessly' — trạng từ, không phù hợp | D: 'harmful' — đúng, có hại (tính từ)"
         },
         {
           "id": "9c",
@@ -581,7 +581,7 @@
             "D. on account of"
           ],
           "correctIndex": 1,
-          "explanation": "'Instead of doing their homework' -- means doing games rather than homework."
+          "explanation": "Bị thu hút vào trò chơi thay vì làm bài tập. | B — Liên từ/Cụm từ | A: 'in spite of' — mặc dù, không đúng | B: 'instead of' — đúng, thay vì (làm X thay Y) | C: 'because of' — vì, không đúng | D: 'on account of' — bởi vì, không đúng"
         },
         {
           "id": "9d",
@@ -593,7 +593,7 @@
             "D. create"
           ],
           "correctIndex": 2,
-          "explanation": "'Make use of' is a fixed expression meaning 'to use.'"
+          "explanation": "Trẻ em nên sử dụng internet bao nhiêu? | C — Cụm từ cố định | A: 'cause' — gây ra, không đúng | B: 'take' — lấy, không đúng | C: 'make' — đúng, make use of (sử dụng) | D: 'create' — tạo ra, không đúng"
         },
         {
           "id": "9e",
@@ -605,7 +605,7 @@
             "D. no article"
           ],
           "correctIndex": 0,
-          "explanation": "'In front of a screen' -- indefinite article for a general, non-specific screen."
+          "explanation": "Dành thời gian trước một màn hình. | A — Mạo từ | A: 'a' — đúng, màn hình chung chung (bắt đầu bằng phụ âm) | B: 'an' — dùng trước nguyên âm, nhưng 'screen' bắt đầu bằng phụ âm | C: 'the' — mạo từ xác định, không cần | D: 'no article' — cần mạo từ"
         }
       ]
     },
@@ -624,7 +624,7 @@
             "D. lots"
           ],
           "correctIndex": 3,
-          "explanation": "'Lots of parks' -- 'lots of' means 'a large number of.'"
+          "explanation": "Một thành phố đẹp với rất nhiều công viên. | D — Cụm từ cố định/Lượng từ | A: 'much' — nhiều, cần 'of' nhưng không đúng | B: 'many' — nhiều, nhưng cần 'of' | C: 'lot' — cần 'a lot of' | D: 'lots' — đúng, lots of (rất nhiều)"
         },
         {
           "id": "10b",
@@ -636,7 +636,7 @@
             "D. no article"
           ],
           "correctIndex": 2,
-          "explanation": "'The island' -- definite article because it refers to the specific island of Singapore."
+          "explanation": "Sống ở các vùng khác nhau của hòn đảo này. | C — Mạo từ | A: 'a' — một, không đúng | B: 'an' — một, không đúng | C: 'the' — đúng, chỉ hòn đảo cụ thể (Singapore) | D: 'no article' — cần mạo từ xác định"
         },
         {
           "id": "10c",
@@ -648,7 +648,7 @@
             "D. buildings"
           ],
           "correctIndex": 3,
-          "explanation": "'The government buildings' -- plural noun needed as subject of 'are very beautiful.'"
+          "explanation": "Các tòa nhà chính phủ ở Singapore rất đẹp. | D — Từ loại | A: 'build' — động từ, không đúng | B: 'builders' — người xây, không đúng | C: 'building' — danh từ không đếm được hoặc V-ing | D: 'buildings' — đúng, danh từ số nhiều"
         },
         {
           "id": "10d",
@@ -660,7 +660,7 @@
             "D. crowded"
           ],
           "correctIndex": 1,
-          "explanation": "'Famous for its shops and restaurants' -- 'famous for' is the correct collocation."
+          "explanation": "Singapore nổi tiếng với các cửa hàng và nhà hàng. | B — Cụm từ cố định | A: 'beautiful' — đẹp, không phù hợp | B: 'famous' — đúng, famous for (nổi tiếng về) | C: 'full' — đầy, cần 'of' | D: 'crowded' — đông đúc, không đúng"
         },
         {
           "id": "10e",
@@ -672,7 +672,7 @@
             "D. if"
           ],
           "correctIndex": 0,
-          "explanation": "'Sell food, and the prices are quite reasonable' -- 'and' adds a related positive point."
+          "explanation": "Bán đồ ăn Trung, Ấn, Malay và châu Âu, và giá cả khá hợp lý. | A — Liên từ | A: 'and' — đúng, thêm thông tin liên quan | B: 'but' — nhưng, không có sự tương phản | C: 'although' — mặc dù, cần mệnh đề hoàn chỉnh | D: 'if' — nếu, không đúng"
         }
       ]
     }

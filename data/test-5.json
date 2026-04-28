@@ -17,7 +17,7 @@
         "D. <u>h</u>onor"
       ],
       "correctIndex": 3,
-      "explanation": "'honor' has a silent 'h', while A, B, C pronounce the /h/ sound."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? | honor — /h/ không phát âm (silent h) | A: house — /h/ phát âm | B: happen — /h/ phát âm | C: hair — /h/ phát âm | D: honor — /h/ không phát âm"
     },
     {
       "id": 2,
@@ -31,7 +31,7 @@
         "D. crash<u>es</u>"
       ],
       "correctIndex": 1,
-      "explanation": "'provides' ends with /z/, while A, C, D end with /ɪz/."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? | provides — kết thúc /z/ | A: finishes — /ɪz/ | B: provides — /z/ | C: approaches — /ɪz/ | D: crashes — /ɪz/"
     },
     {
       "id": 3,
@@ -45,7 +45,7 @@
         "D. mention"
       ],
       "correctIndex": 3,
-      "explanation": "'mention' has stress on the first syllable; A, B, C are stressed on the second."
+      "explanation": "Từ nào có trọng âm khác vị trí? | mention — trọng âm ở âm tiết thứ nhất | A: replace — trọng âm âm tiết 2 | B: control — trọng âm âm tiết 2 | C: escape — trọng âm âm tiết 2 | D: mention — trọng âm âm tiết 1"
     },
     {
       "id": 4,
@@ -59,7 +59,7 @@
         "D. expensive"
       ],
       "correctIndex": 1,
-      "explanation": "'dangerous' has stress on the first syllable; A, C, D are stressed on the second."
+      "explanation": "Từ nào có trọng âm khác vị trí? | dangerous — trọng âm ở âm tiết thứ nhất | A: enormous — trọng âm âm tiết 2 | B: dangerous — trọng âm âm tiết 1 | C: successful — trọng âm âm tiết 2 | D: expensive — trọng âm âm tiết 2"
     },
     {
       "id": 5,
@@ -73,7 +73,7 @@
         "D. consumption"
       ],
       "correctIndex": 2,
-      "explanation": "A noun (subject) is needed: 'consumers' (people who buy products)."
+      "explanation": "Cần một danh từ làm chủ ngữ. | consumers — người tiêu dùng (những người mua sản phẩm) | A: consumed — động từ quá khứ | B: consumes — động từ ngôi 3 | C: consumers — danh từ | D: consumption — danh từ trừu tượng"
     },
     {
       "id": 6,
@@ -87,7 +87,7 @@
         "D. which"
       ],
       "correctIndex": 1,
-      "explanation": "'about whom' - preposition + whom for people in relative clauses."
+      "explanation": "Giới từ + whom cho người trong mệnh đề quan hệ. | whom — about whom | A: that — dùng cho vật | B: whom — đúng (người) | C: whose — sở hữu | D: which — dùng cho vật"
     },
     {
       "id": 7,
@@ -101,7 +101,7 @@
         "D. so did I"
       ],
       "correctIndex": 1,
-      "explanation": "'neither did I' = I also didn't. Inversion after 'neither'."
+      "explanation": "neither + động từ đảo ngược = tôi cũng không. | neither did I — đảo ngược | A: neither I did — sai trật tự | B: neither did I — đúng | C: I did either — sai | D: so did I — sai nghĩa"
     },
     {
       "id": 8,
@@ -115,7 +115,7 @@
         "D. to have"
       ],
       "correctIndex": 0,
-      "explanation": "'hope to get to know' = hope to become familiar with."
+      "explanation": "\"hope to get to know\" = mong được làm quen với. | to get — cấu trúc hope to + V | A: to get — đúng | B: to need — sai nghĩa | C: to appear — sai nghĩa | D: to have — sai nghĩa"
     },
     {
       "id": 9,
@@ -129,7 +129,7 @@
         "D. depended"
       ],
       "correctIndex": 0,
-      "explanation": "'went on eating' = continued eating."
+      "explanation": "\"went on eating\" = tiếp tục ăn. | went — đúng cụm từ | A: went — đúng | B: put — sai nghĩa | C: tried — sai nghĩa | D: depended — sai nghĩa"
     },
     {
       "id": 10,
@@ -143,7 +143,7 @@
         "D. fluently"
       ],
       "correctIndex": 2,
-      "explanation": "'good' (adjective) modifies the noun 'English': 'speaks very good English'."
+      "explanation": "good là tính từ, dùng sửa danh từ English. | good — tính từ sửa danh từ | A: well — trạng từ | B: best — so sánh hơn nhất | C: good — đúng | D: fluently — trạng từ"
     },
     {
       "id": 11,
@@ -157,7 +157,7 @@
         "D. though"
       ],
       "correctIndex": 1,
-      "explanation": "'because' introduces the reason why it's a bad habit."
+      "explanation": "because giới thiệu lý do tại sao là thói xấu. | because — giới thiệu lý do | A: therefore — kết quả | B: because — đúng | C: but — đối lập | D: though — mặc dù"
     },
     {
       "id": 12,
@@ -171,7 +171,7 @@
         "D. expected"
       ],
       "correctIndex": 2,
-      "explanation": "'busy + V-ing' = occupied doing something."
+      "explanation": "busy + V-ing = đang bận làm gì đó. | busy — đúng với V-ing | A: enjoy — thiếu +ing | B: likely — sai cấu trúc | C: busy — đúng | D: expected — sai cấu trúc"
     },
     {
       "id": 13,
@@ -185,7 +185,7 @@
         "D. relate"
       ],
       "correctIndex": 1,
-      "explanation": "'prohibit someone from + V-ing' = forbid/prevent."
+      "explanation": "prohibit someone from + V-ing = cấm ai làm gì. | prohibit — đúng cấu trúc | A: let — sai nghĩa | B: prohibit — đúng | C: encourage — khuyến khích | D: relate — liên quan"
     },
     {
       "id": 14,
@@ -199,7 +199,7 @@
         "D. <u>in</u>"
       ],
       "correctIndex": 2,
-      "explanation": "Reported questions require statement word order, NOT question inversion (Grammar Rule: no inversion, no do/does/did in reported questions). 'Was there...?' must become 'whether there was...' Also requires tense backshift: 'is' -> 'was'."
+      "explanation": "Câu có lỗi: was there → whether there was — Lỗi trật tự câu | Câu hỏi gián tiếp cần trật tự câu trần thuật, không đảo ngược. Quy tắc: không đảo ngược, không dùng do/does/did. 'Was there...?' phải thành 'whether there was...'. Cũng cần lùi thì: 'is' → 'was'."
     },
     {
       "id": 15,
@@ -213,7 +213,7 @@
         "D. <u>of</u>"
       ],
       "correctIndex": 2,
-      "explanation": "Grammar Rule: 'for' + duration (for hundreds of years), 'since' + starting point (since 2001). 'Hundreds of years' is a duration, so 'for' is required. This is the #8 most common exam trap."
+      "explanation": "Câu có lỗi: since → for — Lỗi giới từ thời gian | Quy tắc: 'for' + thời lượng (for hundreds of years), 'since' + điểm bắt đầu (since 2001). 'Hundreds of years' là thời lượng nên cần 'for'. Đây là lỗi phổ biến nhất trong kỳ thi."
     },
     {
       "id": 16,
@@ -227,7 +227,7 @@
         "D. <u>now</u>"
       ],
       "correctIndex": 2,
-      "explanation": "'gas' is uncountable, so use 'too much' (not 'too many')."
+      "explanation": "Câu có lỗi: too many → too much — Lỗi đếm được/không đếm được | gas là danh từ không đếm được, nên dùng 'too much' (không phải 'too many')."
     },
     {
       "id": 17,
@@ -241,7 +241,7 @@
         "D. We'd better be cooking the meal."
       ],
       "correctIndex": 0,
-      "explanation": "'Why not?' is a response agreeing to a suggestion. 'How about...?' is a suggestion."
+      "explanation": "\"Why not?\" là phản hồi đồng ý đề xuất. 'How about...?' là cách đề xuất. | A: How about cooking — đúng (đề xuất) | B: Have you cooked — câu hỏi | C: You should cook — mệnh lệnh | D: We'd better be — sai thì"
     },
     {
       "id": 18,
@@ -255,7 +255,7 @@
         "D. It's my pleasure"
       ],
       "correctIndex": 3,
-      "explanation": "'It's my pleasure' is a polite response to being thanked."
+      "explanation": "\"It's my pleasure\" là phản hồi lịch sự khi được cảm ơn. | D: It's my pleasure — đúng | A: Yes, do it now — không phù hợp | B: Not a chance — không lịch sự | C: Sure, I'll do it — không phù hợp"
     },
     {
       "id": 19,
@@ -269,7 +269,7 @@
         "D. secret"
       ],
       "correctIndex": 0,
-      "explanation": "'public' (for everyone) is the opposite of 'private' (for individuals)."
+      "explanation": "public (cho mọi người) nghĩa đối lập với private (cho cá nhân). | A: private — đúng | B: popular — phổ biến | C: open — mở | D: secret — bí mật"
     },
     {
       "id": 20,
@@ -283,7 +283,7 @@
         "D. satisfied"
       ],
       "correctIndex": 1,
-      "explanation": "'failed' is the opposite of 'passed' in the context of exams/admission."
+      "explanation": "failed nghĩa đối lập với passed trong bối cảnh thi cử/tuyển sinh. | B: passed — đúng | A: didn't succeed — đồng nghĩa | B: passed — đối lập | C: qualified — đủ điều kiện | D: satisfied — hài lòng"
     },
     {
       "id": 21,
@@ -297,7 +297,7 @@
         "D. bored"
       ],
       "correctIndex": 1,
-      "explanation": "'pleased' means happy, delighted."
+      "explanation": "pleased = happy = delighted. | B: delighted — đúng | A: unhappy — đối lập | B: delighted — đồng nghĩa | C: dissatisfied — đối lập | D: bored — chán"
     },
     {
       "id": 22,
@@ -311,7 +311,7 @@
         "D. I enjoy shopping tremendously"
       ],
       "correctIndex": 0,
-      "explanation": "'not my cup of tea' is an idiom meaning not something I enjoy."
+      "explanation": "\"not my cup of tea\" = thành ngữ không thích làm gì. | A: I do not enjoy shopping at all — đúng | B: I must have regular meals — sai nghĩa | C: I don't usually drink tea — sai nghĩa | D: I enjoy shopping tremendously — đối lập"
     },
     {
       "id": 23,
@@ -328,7 +328,7 @@
             "D. placed"
           ],
           "correctIndex": 2,
-          "explanation": "'situated on' = located on. Past participle as reduced relative clause."
+          "explanation": "\"situated on\" = located on. Danh từ quá khứ phân như mệnh đề quan hệ rút gọn. | C: situated — đúng | A: was — sai | B: lied — sai | C: situated — đúng | D: placed — sai"
         },
         {
           "id": "24a",
@@ -340,7 +340,7 @@
             "D. when"
           ],
           "correctIndex": 1,
-          "explanation": "'which' refers to 'tsunamis' (things) as subject of relative clause."
+          "explanation": "which tham chiếu đến 'tsunamis' (vật) làm chủ ngữ mệnh đề quan hệ. | B: which — đúng | A: who — cho người | B: which — cho vật | C: whom — cho người | D: when — thời gian"
         },
         {
           "id": "25a",
@@ -352,7 +352,7 @@
             "D. On"
           ],
           "correctIndex": 0,
-          "explanation": "'in the afternoon' is the correct preposition for time of day."
+          "explanation": "in the afternoon là giới từ đúng cho thời điểm trong ngày. | A: in — đúng | A: in — đúng | B: at — dùng giờ cụ thể | C: over — hơn | D: On — viết hoa sai"
         },
         {
           "id": "26a",
@@ -364,7 +364,7 @@
             "D. lower"
           ],
           "correctIndex": 0,
-          "explanation": "'below the floor' = underneath the ocean floor."
+          "explanation": "below the floor = bên dưới đáy đại dương. | A: below — đúng | A: below — bên dưới | B: on — bên trên | C: upper — trên | D: lower — dưới"
         },
         {
           "id": "27a",
@@ -376,7 +376,7 @@
             "D. strength"
           ],
           "correctIndex": 2,
-          "explanation": "'the strongest to hit this region' - superlative with 'the'."
+          "explanation": "the strongest to hit this region — so sánh nhất với 'the'. | C: strongest — đúng | A: strong — so sánh hơn | B: stronger — so sánh hơn | C: strongest — so sánh nhất | D: strength — danh từ"
         }
       ]
     },
@@ -395,7 +395,7 @@
             "D. children shouldn't be given marks for homework"
           ],
           "correctIndex": 0,
-          "explanation": "The passage says 'most teachers do not properly plan the homework tasks'."
+          "explanation": "Đoạn văn nói: 'hầu hết giáo viên không lên kế hoạch đúng cách cho bài tập về nhà'. | A: a lot of homework has not been planned properly — đúng | B: teachers do not set enough homework — không đề cập | C: children are too lazy to do — không đề cập | D: children shouldn't be given marks for homework — không đề cập"
         },
         {
           "id": "29a",
@@ -407,7 +407,7 @@
             "D. do more difficult homework"
           ],
           "correctIndex": 2,
-          "explanation": "Parents want to stop homework at home; Holland allows pupils to do homework at school."
+          "explanation": "Phụ huynh muốn dừng bài tập về nhà; Hà Lan cho phép học sinh làm bài tập ở trường. | C: do homework at school only — đúng | A: do homework both at school and at home — không đề cập | B: have test homework — không đề cập | C: do homework at school only — đúng | D: do more difficult homework — không đề cập"
         },
         {
           "id": "30a",
@@ -419,7 +419,7 @@
             "D. Some pupils do their homework in a quiet and comfortable room while some others do homework in a small, noisy room"
           ],
           "correctIndex": 0,
-          "explanation": "Both C and D are mentioned as reasons homework is unfair."
+          "explanation": "Cả C và D đều được đề cập trong đoạn văn là lý do bài tập về nhà không công bằng. | A: C&D — đúng | A: C&D — đúng | B: Some pupils have to help their parents — đề cập | C: Some parents help their children — đề cập | D: Some pupils do their homework in a quiet room — đề cập"
         },
         {
           "id": "31a",
@@ -431,7 +431,7 @@
             "D. Children can do their homework at school and help each other in some schools in Britain."
           ],
           "correctIndex": 2,
-          "explanation": "The passage says 'Other parents take no interest at all in their children's homework.' So C is false."
+          "explanation": "Đoạn văn nói: 'Những phụ huynh khác không quan tâm chút nào đến bài tập về nhà của con'. Vậy C sai. | C: All parents show great interest — sai | A: Only a small number of people think homework is fair — đúng | B: Teachers should advise the parents — đề cập | C: All parents show great interest — sai | D: Children can do their homework at school — đúng"
         },
         {
           "id": "32a",
@@ -443,7 +443,7 @@
             "D. more time should be allowed for homework"
           ],
           "correctIndex": 0,
-          "explanation": "The passage says Greek parents said 'most of the homework was a waste of time'."
+          "explanation": "Đoạn văn nói phụ huynh Hy Lạp cho là hầu hết bài tập là phí thời gian. | A: their children's homework was useless — đúng | A: useless — phí thời gian | B: too easy — không đề cập | C: useful — đối lập | D: more time should be allowed — không đề cập"
         }
       ]
     },
@@ -459,7 +459,7 @@
         "D. Unless you gave me back my bicycle, I would call the police."
       ],
       "correctIndex": 1,
-      "explanation": "'If you don't...' = 'Unless you...'. The threat remains: I will call the police."
+      "explanation": "\"If you don't...\" = \"Unless you...\". Lời đe dọa giữ nguyên: I will call the police. | B: Unless you give me back my bicycle, I will call the police — đúng | A: I won't call — đối nghĩa | B: I will call — đúng | C: Unless you don't — sai cấu trúc | D: I would call — sai thì"
     },
     {
       "id": 34,
@@ -473,7 +473,7 @@
         "D. I have never been asked that question before."
       ],
       "correctIndex": 3,
-      "explanation": "Passive: 'I have never been asked that question before' preserves meaning."
+      "explanation": "Bị động: 'I have never been asked that question before' giữ nguyên nghĩa. | D: I have never been asked that question before — đúng | A: I have ever been asked — sai nghĩa | B: That question has ever been asked — sai nghĩa | C: That question has never been asked me — sai cấu trúc"
     },
     {
       "id": 35,
@@ -487,7 +487,7 @@
         "D. Nam got wet although he forgot to take his raincoat."
       ],
       "correctIndex": 2,
-      "explanation": "'because' shows cause: forgetting the raincoat caused getting wet."
+      "explanation": "because chỉ nguyên nhân: quên áo mưa gây ra bị ướt. | C: Nam got wet because he forgot to take his raincoat — đúng | A: so he forgot — đảo trật tự sai | B: however — đối lập sai | C: because — đúng | D: although — đối lập sai"
     },
     {
       "id": 36,
@@ -501,7 +501,7 @@
         "D. Janet asked me have I ever seen a UFO."
       ],
       "correctIndex": 2,
-      "explanation": "Reported yes/no question (Grammar Rule): 'asked + if/whether + statement order + backshifted tense'. 'Have you ever seen?' -> 'if I had ever seen' (have -> had). Key rules: (1) no question mark, (2) no inversion, (3) no do/does/did auxiliary. Option A is wrong because 'told' implies a statement, not a question. Option B is wrong: no backshift ('have' not changed to 'had')."
+      "explanation": "Câu hỏi gián tiếp (Quy tắc): 'asked + if/whether + trật tự câu trần thuật + lùi thì'. 'Have you ever seen?' → 'if I had ever seen' (have → had). Quy tắc quan trọng: (1) không dấu chấm hỏi, (2) không đảo ngược, (3) không dùng trợ động từ do/does/did. Đáp án A sai vì 'told' ngụ ý câu trần thuật, không phải câu hỏi. Đáp án B sai: không lùi thì ('have' không đổi thành 'had')."
     },
     {
       "id": 37,
@@ -515,7 +515,7 @@
         "D. It is necessary to have a day to celebrate to our parents."
       ],
       "correctIndex": 2,
-      "explanation": "'It is necessary to have a day to celebrate for our parents' - correct structure."
+      "explanation": "Cấu trúc đúng: 'It is necessary to have a day to celebrate for our parents'. | C: It is necessary to have a day to celebrate for our parents — đúng | A: celebrate for — thiếu to | B: necessity — danh từ sai | C: to celebrate for — đúng | D: celebrate to — sai giới từ"
     },
     {
       "id": 38,
@@ -529,7 +529,7 @@
         "D. Although he was tired, he has to finish his homework."
       ],
       "correctIndex": 1,
-      "explanation": "'Although he is tired' needs 'is' (be + adjective). Present tense consistency."
+      "explanation": "'Although he is tired' cần 'is' (be + tính từ). Tính nhất quán thì hiện tại. | B: Although he is tired, he has to finish his homework — đúng | A: Although he tired — thiếu is | B: Although he is tired — đúng | C: he have to — sai | D: he was tired — lùi thì không cần"
     },
     {
       "id": 39,
@@ -543,7 +543,7 @@
         "D. Children should have a special day expressing their feeling, memories and love to their parents."
       ],
       "correctIndex": 1,
-      "explanation": "'a special day to express' (purpose infinitive) is the correct structure."
+      "explanation": "'a special day to express' (to V-ing mục đích) là cấu trúc đúng. | B: Children should have a special day to express their feeling, memories and love for their parents — đúng | A: expressing — không phải mục đích | B: to express — đúng | C: express — thiếu to | D: expressing to — sai giới từ"
     },
     {
       "id": 40,
@@ -557,7 +557,7 @@
         "D. The novels which I have just read are interesting."
       ],
       "correctIndex": 3,
-      "explanation": "'which' for things, present perfect 'have just read', plural 'are'."
+      "explanation": "which cho vật, present perfect have just read, số nhiều are. | D: The novels which I have just read are interesting — đúng | A: whom — chỉ người | B: who — chỉ người | C: which I had just read is — sai thì, sai động từ"
     },
     {
       "id": 41,
@@ -571,7 +571,7 @@
         "Unless you give me back my bicycle, I will call the police",
         "Unless you give back my bicycle, I will call the police."
       ],
-      "explanation": "Đổi 'if you don't' thành 'Unless'. 'if you don't give me back' → 'Unless you give me back', giữ nguyên thì hiện tại đơn + will."
+      "explanation": "Câu gốc: Nếu anh không trả xe đạp cho tôi, tôi sẽ gọi cảnh sát. | Yêu cầu: Đổi 'if you don't' thành 'Unless'. | Đáp án — Cấu trúc: Unless you give me back my bicycle, I will call the police. | Giải thích: Đổi 'if you don't' thành 'Unless'. 'if you don't give me back' → 'Unless you give me back', giữ nguyên thì hiện tại đơn + will."
     },
     {
       "id": 42,
@@ -585,7 +585,7 @@
         "That question has never been asked before",
         "That question has never been asked me before by anyone."
       ],
-      "explanation": "Chuyển chủ động sang bị động. 'No one has asked' → 'has never been asked', đưa 'That question' lên làm chủ ngữ."
+      "explanation": "Câu gốc: Chưa ai hỏi tôi câu đó trước đây. | Yêu cầu: Đổi chủ ngữ sang bắt đầu bằng 'That question'. | Đáp án — Cấu trúc: That question has never been asked before. | Giải thích: Chuyển chủ động sang bị động. 'No one has asked' → 'has never been asked', đưa 'That question' lên làm chủ ngữ."
     },
     {
       "id": 43,
@@ -599,7 +599,7 @@
         "Nam got wet because he forgot to take his raincoat",
         "Nam got wet as he forgot to take his raincoat."
       ],
-      "explanation": "Đổi 'so' (kết quả) thành 'because' (nguyên nhân), đảo thứ tự mệnh đề. 'forgot..., so he got wet' → 'got wet because he forgot...'"
+      "explanation": "Câu gốc: Nam quên mang áo mưa nên bị ướt. | Yêu cầu: Bắt đầu bằng 'Nam got wet'. | Đáp án — Cấu trúc: Nam got wet because he forgot to take his raincoat. | Giải thích: Đổi 'so' (kết quả) thành 'because' (nguyên nhân), đảo thứ tự mệnh đề. 'forgot..., so he got wet' → 'got wet because he forgot...'"
     },
     {
       "id": 44,
@@ -613,7 +613,7 @@
         "Janet asked me if I had ever seen a UFO",
         "Janet asked me whether I had ever seen a UFO."
       ],
-      "explanation": "Chuyển câu hỏi trực tiếp sang gián tiếp. 'Have you ever seen?' → 'if I had ever seen', lùi thì have → had, đổi you → I."
+      "explanation": "Câu gốc: Janet hỏi tôi 'Bạn đã từng nhìn thấy UFO không?' | Yêu cầu: Chuyển thành câu gián tiếp, bắt đầu bằng 'Janet asked'. | Đáp án — Cấu trúc: Janet asked me if I had ever seen a UFO. | Giải thích: Chuyển câu hỏi trực tiếp sang gián tiếp. 'Have you ever seen?' → 'if I had ever seen', lùi thì have → had, đổi you → I."
     },
     {
       "id": 45,
@@ -625,7 +625,7 @@
         "It is necessary to have a day to celebrate our parents",
         "It is necessary to have a day to celebrate for our parents."
       ],
-      "explanation": "It is + adjective + to + infinitive structure."
+      "explanation": "Yêu cầu: Viết câu hoàn chỉnh từ gợi ý. | Đáp án — Cụm từ dùng: It is necessary to have a day to celebrate our parents. | Giải thích: Cấu trúc It is + adjective + to + infinitive."
     },
     {
       "id": 46,
@@ -637,7 +637,7 @@
         "Although he is tired, he has to finish his homework",
         "Although he was tired, he had to finish his homework."
       ],
-      "explanation": "Although + clause, + main clause for concession."
+      "explanation": "Yêu cầu: Viết câu hoàn chỉnh từ gợi ý. | Đáp án — Cụm từ dùng: Although he is tired, he has to finish his homework. | Giải thích: Although + clause, + main clause for concession."
     },
     {
       "id": 47,
@@ -649,7 +649,7 @@
         "Children should have a special day to express their feelings, memories and love for their parents.",
         "Children should have a special day expressing their feeling, memories and love for their parents."
       ],
-      "explanation": "Should + have + noun + to-infinitive for purpose."
+      "explanation": "Yêu cầu: Viết câu hoàn chỉnh từ gợi ý. | Đáp án — Cụm từ dùng: Children should have a special day to express their feeling, memories and love for their parents. | Giải thích: Should + have + noun + to-infinitive for purpose."
     },
     {
       "id": 48,
@@ -662,7 +662,7 @@
         "The novels that I have just read are interesting.",
         "The novels I have just read are interesting."
       ],
-      "explanation": "Use relative clause (which/that) to connect the two ideas."
+      "explanation": "Yêu cầu: Viết câu hoàn chỉnh từ gợi ý. | Đáp án — Cụm từ dùng: The novels which I have just read are interesting. | Giải thích: Dùng mệnh đề quan hệ (which/that) để nối hai ý."
     }
   ]
 }

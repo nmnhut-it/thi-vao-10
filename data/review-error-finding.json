@@ -13,7 +13,7 @@
       "correctSentence": "People are worried about COVID-19 Pandemic, which has caused huge human tolls.",
       "errorWord": "worry",
       "correction": "worried",
-      "explanation": "After 'are' we need the adjective 'worried' (past participle), not the base verb 'worry.'"
+      "explanation": "Lỗi: worry → worried | Từ loại: Sau 'are' cần tính từ 'worried' (quá khứ phân từ), không phải động từ 'worry'. Các từ khác: are (đúng), has caused (đúng), huge (đúng)."
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "correctSentence": "Mr. Will is going to collect all the bags and take them to the garbage dump.",
       "errorWord": "taken",
       "correction": "take",
-      "explanation": "After 'and' (parallel with 'collect'), we need the base form 'take,' not past participle 'taken.'"
+      "explanation": "Lỗi: taken → take | Cấu trúc: Sau 'and' (song song với 'collect') cần động từ nguyên mẫu 'take', không phải quá khứ phân từ 'taken'. Các từ khác: is going to collect (đúng), all the bags (đúng), them (đúng)."
     },
     {
       "id": 3,
@@ -31,7 +31,7 @@
       "correctSentence": "The children laughed happily when they saw the monkeys eating bananas.",
       "errorWord": "happy",
       "correction": "happily",
-      "explanation": "We need the adverb 'happily' to modify the verb 'laughed,' not the adjective 'happy.'"
+      "explanation": "Lỗi: happy → happily | Từ loại: Cần trạng từ 'happily' để bổ nghĩa động từ 'laughed', không phải tính từ 'happy'. Các từ khác: The children (đúng), laughed (đúng), when they saw (đúng)."
     },
     {
       "id": 4,
@@ -40,7 +40,7 @@
       "correctSentence": "I asked him how far it was to the station if I went there by taxi.",
       "errorWord": "was it",
       "correction": "it was",
-      "explanation": "In reported questions, use statement word order (S + V), not question order."
+      "explanation": "Lỗi: was it → it was | Cấu trúc: Trong câu tường thuật, dùng trật tự tính từ 'it was', không phải trật tự câu hỏi 'was it'. Các từ khác: I asked him (đúng), how far (đúng), to the station (đúng)."
     },
     {
       "id": 5,
@@ -49,7 +49,7 @@
       "correctSentence": "Although he was tired, he still went to work yesterday.",
       "errorWord": "but",
       "correction": "(remove 'but')",
-      "explanation": "Cannot use both 'although' and 'but' in the same sentence. 'Although' already means 'but,' so using both is redundant. Remove 'but' to fix the sentence."
+      "explanation": "Lỗi: but → (bỏ) | Cấu trúc: 'Although' và 'but' không dùng cùng nhau, 'although' đã biểu đạt nghĩa đối lập rồi. Các từ khác: Although he was tired (đúng), he still went (đúng), to work yesterday (đúng)."
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "correctSentence": "The artist tried to stimulate interest in painting by taking his students to the museums.",
       "errorWord": "stimulate",
       "correction": "to stimulate",
-      "explanation": "'Try + to V' means attempt to do something. 'Try + V-ing' means experiment with something. Here the artist attempted to stimulate interest, so we need 'to stimulate' (to-infinitive)."
+      "explanation": "Lỗi: stimulate → to stimulate | Cấu trúc: 'Try + động từ có to' biểu đạt cố gắng làm điều gì, cần 'to stimulate' (động từ có to). Các từ khác: The artist tried (đúng), interest in painting (đúng), by taking his students (đúng)."
     },
     {
       "id": 7,
@@ -67,7 +67,7 @@
       "correctSentence": "Mumps is a very common disease, which usually affects children.",
       "errorWord": "are",
       "correction": "is",
-      "explanation": "'Mumps' looks plural because of the 's,' but it is a disease name treated as singular (like 'mathematics' or 'physics'). Use 'is,' not 'are.'"
+      "explanation": "Lỗi: are → is | Chia động từ: 'Mumps' là tên bệnh, tuy có 's' nhưng được coi là danh từ số ít, dùng 'is', không phải 'are'. Các từ khác: Mumps (đúng), a very common disease (đúng), which usually affects (đúng)."
     },
     {
       "id": 8,
@@ -76,7 +76,7 @@
       "correctSentence": "Before she moved here, Arlene had been president of the organization for four years.",
       "errorWord": "since",
       "correction": "for",
-      "explanation": "'Four years' is a duration, so use 'for' (not 'since' which needs a point in time)."
+      "explanation": "Lỗi: since → for | Giới từ: 'Four years' là thời lượng, dùng 'for', không phải 'since' (cần một thời điểm cụ thể). Các từ khác: Before she moved here (đúng), Arlene had been president (đúng), of the organization (đúng)."
     },
     {
       "id": 9,
@@ -85,7 +85,7 @@
       "correctSentence": "I really wish I had a laptop to replace this old-fashioned computer.",
       "errorWord": "have",
       "correction": "had",
-      "explanation": "Wish + past simple for present unreal wishes. Need 'had' not 'have.'"
+      "explanation": "Lỗi: have → had | Cấu trúc: 'Wish + quá khứ đơn' cho ước mong không thực hiện được ở hiện tại, cần 'had' không phải 'have'. Các từ khác: I really wish (đúng), a laptop (đúng), to replace (đúng)."
     },
     {
       "id": 10,
@@ -94,7 +94,7 @@
       "correctSentence": "One of the most serious problems now is the spread of COVID-19.",
       "errorWord": "problem",
       "correction": "problems",
-      "explanation": "'One of the most + adj + plural noun.' Need 'problems' (plural)."
+      "explanation": "Lỗi: problem → problems | Từ loại: Sau 'one of the most' cần danh từ số nhiều 'problems', không phải số ít. Các từ khác: One of the most (đúng), serious (đúng), now is the spread (đúng)."
     },
     {
       "id": 11,
@@ -103,7 +103,7 @@
       "correctSentence": "The bike he has just bought is more expensive than mine.",
       "errorWord": "as",
       "correction": "than",
-      "explanation": "Comparative form: 'more expensive than' (not 'as')."
+      "explanation": "Lỗi: as → than | So sánh: Cấu trúc so sánh hơn là 'more expensive than', không phải 'as'. Các từ khác: The bike he has just bought (đúng), is more expensive (đúng), mine (đúng)."
     },
     {
       "id": 12,
@@ -112,7 +112,7 @@
       "correctSentence": "When I was a student, I loved reading and filling my free time with adventure novels.",
       "errorWord": "fill",
       "correction": "filling",
-      "explanation": "Parallel structure: 'loved reading and filling' -- both gerunds after 'loved.'"
+      "explanation": "Lỗi: fill → filling | Cấu trúc: Sau 'loved' cần cấu trúc song song, 'reading and filling' đều là danh động từ. Các từ khác: When I was a student (đúng), I loved reading (đúng), my free time (đúng)."
     },
     {
       "id": 13,
@@ -121,7 +121,7 @@
       "correctSentence": "When her doll was lost, she cried very hard for half an hour.",
       "errorWord": "hardly",
       "correction": "hard",
-      "explanation": "'Hardly' means 'almost not.' 'Hard' is the correct adverb meaning 'with great effort/intensity.'"
+      "explanation": "Lỗi: hardly → hard | Từ loại: 'Hard' là trạng từ đúng nghĩa 'nỗ lực', 'hardly' có nghĩa 'gần như không'. Các từ khác: When her doll was lost (đúng), she cried (đúng), for half an hour (đúng)."
     },
     {
       "id": 14,
@@ -139,7 +139,7 @@
         "don't need to",
         "need not"
       ],
-      "explanation": "'Mustn't' means 'you are forbidden to do this.' 'Needn't' means 'it is not necessary.' Since the speaker already prepared food, cooking is unnecessary (not forbidden), so use 'needn't.'"
+      "explanation": "Lỗi: mustn't → needn't | Từ loại: 'Mustn't' có nghĩa 'cấm', 'needn't' có nghĩa 'không cần thiết'. Ở đây ý nói không cần nấu ăn vì đã chuẩn bị rồi, nên dùng 'needn't'. Các từ khác: You (đúng), do any cooking (đúng), as I've already prepared (đúng)."
     },
     {
       "id": 15,
@@ -148,7 +148,7 @@
       "correctSentence": "My sister has so much homework to do that she has no time to go out.",
       "errorWord": "many homeworks",
       "correction": "much homework",
-      "explanation": "'Homework' is uncountable -- use 'much homework' not 'many homeworks.'"
+      "explanation": "Lỗi: many homeworks → much homework | Từ loại: 'Homework' là danh từ không đếm được, dùng 'much homework' không phải 'many homeworks'. Các từ khác: My sister has (đúng), so much (đúng), to do (đúng)."
     }
   ]
 }

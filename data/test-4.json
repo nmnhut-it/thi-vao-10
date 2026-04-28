@@ -17,7 +17,7 @@
         "D. r<u>ea</u>lize"
       ],
       "correctIndex": 1,
-      "explanation": "'heading' has /e/ sound, while A, C have /ɪə/ and D has /ɪə/ in 'ea'."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? | heading — Âm /e/ khác với các từ còn lại có âm /ɪə/ | A: fear — /ɪə/ | B: heading — /e/ | C: clearing — /ɪə/ | D: realize — /ɪə/"
     },
     {
       "id": 2,
@@ -31,7 +31,7 @@
         "D. club<u>s</u>"
       ],
       "correctIndex": 3,
-      "explanation": "'clubs' ends with /z/ sound, while A, B, C end with /s/ sound."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? | clubs — /z/ khác với các từ còn lại có /s/ | A: stamps — /s/ | B: hats — /s/ | C: books — /s/ | D: clubs — /z/"
     },
     {
       "id": 3,
@@ -45,7 +45,7 @@
         "D. opposition"
       ],
       "correctIndex": 1,
-      "explanation": "'affirmative' has stress on the second syllable; A, C, D have stress on the third."
+      "explanation": "Từ nào có trọng âm khác vị trí? | affirmative — trọng âm ở âm tiết thứ 2, các từ còn lại trọng âm ở âm tiết thứ 3 | A: exhibition — ex-hi-bi-tion | B: affirmative — af-firma-tive | C: understanding — un-der-stan-ding | D: opposition — op-po-si-tion"
     },
     {
       "id": 4,
@@ -59,7 +59,7 @@
         "D. begin"
       ],
       "correctIndex": 3,
-      "explanation": "'begin' has stress on the second syllable; A, B, C are stressed on the first."
+      "explanation": "Từ nào có trọng âm khác vị trí? | begin — trọng âm ở âm tiết thứ 2, các từ còn lại trọng âm ở âm tiết thứ 1 | A: woman — WO-man | B: carbon — CAR-bon | C: follow — FO-llow | D: begin — be-GIN"
     },
     {
       "id": 5,
@@ -73,7 +73,7 @@
         "D. two-day trip"
       ],
       "correctIndex": 3,
-      "explanation": "Compound adjective: number + singular noun + noun. 'a two-day trip'."
+      "explanation": "Chọn tính từ ghép đúng dạng số + danh từ số ít + danh từ. | two-day — Dạng đúng | A: days trip — sai dạng số nhiều | B: two-days trip — sai dạng số nhiều | C: day-two trip — sai thứ tự | D: two-day trip — đúng"
     },
     {
       "id": 6,
@@ -87,7 +87,7 @@
         "D. excitedly"
       ],
       "correctIndex": 0,
-      "explanation": "Past participle 'excited' describes how the children felt (emotions of people)."
+      "explanation": "Chọn dạng đúng của từ để mô tả cảm xúc. | excited — Quá khứ phân từ, diễn tả cảm xúc của người | A: excited — đúng, dùng với người chủ ngữ | B: excitemen — sai chính tả | C: exciting — dùng cho vật gây ra cảm xúc | D: excitedly — trạng từ, không dùng sau động từ 'felt'"
     },
     {
       "id": 7,
@@ -101,7 +101,7 @@
         "D. a lot of"
       ],
       "correctIndex": 2,
-      "explanation": "'little' (not much) money = not enough money, explaining why he can't buy."
+      "explanation": "Chọn từ định lượng phù hợp với danh từ không đếm được. | little — ít (không đủ tiền), giải thích tại sao không mua được | A: much — cần 'much money' với số liệu cụ thể | B: a few — chỉ dùng với danh từ đếm được số nhiều | C: little — đúng, ít tiền = không đủ tiền | D: a lot of — dùng được nhưng không diễn tả 'không đủ'"
     },
     {
       "id": 8,
@@ -115,7 +115,7 @@
         "D. we should"
       ],
       "correctIndex": 1,
-      "explanation": "'Why don't we...?' is a suggestion form."
+      "explanation": "Chọn cấu trúc đề xuất đúng trong tiếng Anh. | don't we — Cấu trúc đề xuất phổ biến 'Why don't we...?' | A: we should not — sai ngữ pháp | B: don't we — đúng, đề xuất đi công viên | C: we don't — không phải cấu trúc đề xuất | D: we should — thiếu 'why' hoặc dùng 'Why not...?'"
     },
     {
       "id": 9,
@@ -129,7 +129,7 @@
         "D. that"
       ],
       "correctIndex": 0,
-      "explanation": "'whose' shows possession in relative clauses (the boy's eyes)."
+      "explanation": "Chọn đại từ quan hệ đúng để diễn tả sở hữu. | whose — Đại từ quan hệ sở hữu, thay thế 'the boy's eyes' | A: whose — đúng, diễn tả sở hữu | B: whom — đại từ quan hệ cho người, bổ ngữ | C: who — chủ ngữ, không sở hữu | D: that — dùng được nhưng 'whose' chính xác hơn cho sở hữu"
     },
     {
       "id": 10,
@@ -143,7 +143,7 @@
         "D. but"
       ],
       "correctIndex": 1,
-      "explanation": "'However' (adverb) introduces a contrasting independent clause, preceded by a period/semicolon."
+      "explanation": "Chọn liên từ/trạng từ phù hợp để nối hai mệnh đề đối lập. | However — Trạng từ đứng đầu mệnh đề thứ hai, có dấu chấm/phẩy trước | A: Although — liên từ, cần nối trực tiếp với mệnh đề | B: However — đúng, trạng từ đứng độc lập | C: Therefore — liên từ kết quả, không phù hợp | D: but — liên từ, cần dấu phẩy trước 'but'"
     },
     {
       "id": 11,
@@ -157,7 +157,7 @@
         "D. will feel"
       ],
       "correctIndex": 0,
-      "explanation": "Conditional type 2: If + past simple, would + V-infinitive."
+      "explanation": "Chọn dạng động từ cho câu điều kiện loại 2. | would feel — If + quá khứ đơn, would + động từ nguyên mẫu | A: would feel — đúng, câu điều kiện loại 2 giả định | B: feel — thiếu would | C: felt — quá khứ đơn, không dùng trong mệnh đề chính | D: will feel — thì tương lai, không phù hợp với 'if + past'"
     },
     {
       "id": 12,
@@ -171,7 +171,7 @@
         "D. in spite of"
       ],
       "correctIndex": 1,
-      "explanation": "'because of' + noun phrase ('the bad weather')."
+      "explanation": "Chọn giới từ đúng để nối danh từ với nguyên nhân. | because of — because of + cụm danh từ | A: because — cần mệnh đề 'because the weather was bad' | B: because of — đúng, theo sau là danh từ | C: despite — cần danh từ hoặc V-ing | D: in spite of — cũng đúng nhưng không phổ biến bằng because of"
     },
     {
       "id": 13,
@@ -185,7 +185,7 @@
         "D. is built"
       ],
       "correctIndex": 2,
-      "explanation": "Passive voice past: 'was built' (the house was built by someone in 1930)."
+      "explanation": "Chọn thì và giọng đúng cho động từ trong mệnh đề quan hệ. | was built — Bị động quá khứ, ngôi nhà được xây bởi ai đó năm 1930 | A: built — chủ động, thiếu chủ ngữ | B: was building — tiến từ tiếp diễn, không phù hợp | C: was built — đúng, bị động quá khứ | D: is built — bị động hiện tại, sai thời gian"
     },
     {
       "id": 14,
@@ -199,7 +199,7 @@
         "D. <u>next year</u>"
       ],
       "correctIndex": 2,
-      "explanation": "Should be 'more attention' (comparative, not 'much attention')."
+      "explanation": "Câu có lỗi | Lỗi: much attention → more attention — So sánh hơn | Vì sao: 'pay more attention' là dạng so sánh hơn, diễn tả cần chú ý hơn vào tiếng Anh"
     },
     {
       "id": 15,
@@ -213,7 +213,7 @@
         "D. <u>Rising</u>"
       ],
       "correctIndex": 1,
-      "explanation": "'evidence' is uncountable, so it should be 'there is evidence'."
+      "explanation": "Câu có lỗi | Lỗi: there are → there is — Danh từ không đếm được | Vì sao: 'evidence' là danh từ không đếm được, cần dùng 'there is' thay vì 'there are'"
     },
     {
       "id": 16,
@@ -227,7 +227,7 @@
         "D. <u>camping</u>"
       ],
       "correctIndex": 2,
-      "explanation": "Should be 'going camping' (not 'go to camping'). 'go camping' is the correct expression."
+      "explanation": "Câu có lỗi | Lỗi: go to camping → going camping — Cụm động từ | Vì sao: 'go camping' là cụm động từ đúng, 'go to camping' là sai ngữ pháp"
     },
     {
       "id": 17,
@@ -241,7 +241,7 @@
         "D. What does John look like?"
       ],
       "correctIndex": 3,
-      "explanation": "'What does he look like?' asks about physical appearance."
+      "explanation": "Chọn câu hỏi đúng để hỏi về ngoại hình. | What does John look like? — Hỏi về ngoại hình | A: How is John doing? — hỏi về sức khỏe, tình trạng | B: What does John like? — hỏi về sở thích | C: Who does John look like? — hỏi giống ai | D: What does John look like? — đúng, hỏi ngoại hình"
     },
     {
       "id": 18,
@@ -255,7 +255,7 @@
         "D. Thank you. It's nice of you to say so."
       ],
       "correctIndex": 3,
-      "explanation": "Responding to a compliment: thank the person graciously."
+      "explanation": "Chọn câu trả lời phù hợp khi nhận lời khen. | Thank you. It's nice of you to say so. — Cảm ơn và tỏ ra lịch sự | A: Can you say it again? — kỳ lạ, hỏi lại | B: I love them, too. — tự khen mình | C: Really? They are. — nghi ngờ | D: Thank you. It's nice of you to say so. — đúng, phản ứng lịch sự khi được khen"
     },
     {
       "id": 19,
@@ -269,7 +269,7 @@
         "D. tired"
       ],
       "correctIndex": 2,
-      "explanation": "'asleep' is the opposite of 'awake'."
+      "explanation": "Chọn từ trái nghĩa với 'asleep' trong ngữ cảnh. | awake — Trái nghĩa với 'asleep' | A: afraid — sợ hãi | B: aware — nhận thức | C: awake — tỉnh táo, đối lập với 'asleep' | D: tired — mệt mỏi"
     },
     {
       "id": 20,
@@ -283,7 +283,7 @@
         "D. supported"
       ],
       "correctIndex": 3,
-      "explanation": "'gone against' means opposed. The opposite is 'supported'."
+      "explanation": "Chọn từ trái nghĩa với 'gone against' trong ngữ cảnh. | supported — Trái nghĩa với 'gone against (phản đối)' | A: invited — mời | B: opposed — đối lập, nhưng 'gone against' = phản đối | C: insisted — khẳng định | D: supported — ủng hộ, đối lập với 'phản đối'"
     },
     {
       "id": 21,
@@ -297,7 +297,7 @@
         "D. by water"
       ],
       "correctIndex": 0,
-      "explanation": "'overseas' means to foreign countries/lands."
+      "explanation": "Chọn từ/cụm từ có nghĩa gần nhất với 'overseas'. | to foreign lands — 'overseas' = ra nước ngoài, đến các quốc gia khác | A: to foreign lands — đúng, nghĩa của overseas | B: with foreigners — với người nước ngoài | C: on the sea — trên biển | D: by water — bằng đường thủy"
     },
     {
       "id": 22,
@@ -311,7 +311,7 @@
         "D. stale"
       ],
       "correctIndex": 2,
-      "explanation": "'raw' means uncooked, not prepared by heating."
+      "explanation": "Chọn từ có nghĩa gần nhất với 'raw' trong ngữ cảnh. | uncooked — 'raw' = chưa nấu chín | A: rotten — thối rữa | B: fresh — tươi | C: uncooked — đúng, chưa chế biến | D: stale — cũ, hỏng"
     },
     {
       "id": 23,
@@ -328,7 +328,7 @@
             "D. at"
           ],
           "correctIndex": 0,
-          "explanation": "'in towns' - preposition of place for towns/cities."
+          "explanation": "Đoạn văn: Xe đạp là phương tiện rẻ nhất ở các thành phố. | Câu hỏi: Điền giới từ đúng. | in — in + thành phố/thành phố | A: in — đúng, giới từ chỉ nơi chốn | B: to — chỉ hướng đến | C: on — dùng cho bề mặt | D: at — dùng cho địa điểm cụ thể"
         },
         {
           "id": "24a",
@@ -340,7 +340,7 @@
             "D. boring"
           ],
           "correctIndex": 1,
-          "explanation": "'enjoyable' fits the context of 'the real appeal' - cycling is enjoyable."
+          "explanation": "Đoạn văn: Sức hấp dẫn thực sự của xe đạp là nó rất... | Câu hỏi: Chọn từ phù hợp với ngữ cảnh. | enjoyable — thú vị, dễ chịu | A: careful — cẩn thận | B: enjoyable — đúng, phù hợp với 'real appeal' | C: excited — hào hứng | D: boring — nhàm chán"
         },
         {
           "id": "25a",
@@ -352,7 +352,7 @@
             "D. expectedly"
           ],
           "correctIndex": 2,
-          "explanation": "'terribly dangerous' - the non-cyclist expresses concern about danger."
+          "explanation": "Đoạn văn: 'But isn’t it ... dangerous?' — Người không đi xe đạp tỏ ra lo ngại. | Câu hỏi: Chọn trạng từ phù hợp. | terribly — rất, mức độ cao | A: comfortably — thoải mái | B: strangely — kỳ lạ | C: terribly — đúng, 'terribly dangerous' = nguy hiểm lắm | D: expectedly — theo dự kiến"
         },
         {
           "id": "26a",
@@ -364,7 +364,7 @@
             "D. digit"
           ],
           "correctIndex": 2,
-          "explanation": "'number of accidents' is the correct collocation."
+          "explanation": "Đoạn văn: Có ... tai nạn đáng lo ngại liên quan đến người đi xe đạp. | Câu hỏi: Chọn từ collocation đúng. | number — number of + danh từ số nhiều | A: size — kích thước | B: deal — a deal of, cho danh từ không đếm | C: number — đúng, 'number of accidents' | D: digit — chữ số"
         },
         {
           "id": "27a",
@@ -376,7 +376,7 @@
             "D. point"
           ],
           "correctIndex": 2,
-          "explanation": "'indicate' = show/suggest. Police records indicate that..."
+          "explanation": "Đoạn văn: Hồ sơ cảnh sát... rằng tài xế xe hơi thường có lỗi. | Câu hỏi: Chọn động từ phù hợp. | indicate — cho thấy, biểu thị | A: exhibit — trưng bày | B: display — hiển thị | C: indicate — đúng, 'indicate that' = cho thấy | D: point — chỉ, nhưng cần 'point to'"
         }
       ]
     },
@@ -395,7 +395,7 @@
             "D. lack of information"
           ],
           "correctIndex": 0,
-          "explanation": "The passage states: 'people can die from lack of food, water, and medical supplies.'"
+          "explanation": "Đoạn văn: Sau động đất, người ta có thể chết vì thiếu thức ăn, nước và vật tư y tế. | Câu hỏi: Chọn cụm từ đúng theo nội dung. | lack of food — thiếu thức ăn | A: lack of food — đúng, theo đoạn văn | B: lack of friendship — thiếu tình bạn | C: lack of knowledge — thiếu kiến thức | D: lack of information — thiếu thông tin"
         },
         {
           "id": "29a",
@@ -407,7 +407,7 @@
             "D. many buildings are built"
           ],
           "correctIndex": 2,
-          "explanation": "The passage says: 'They happen in places where pieces of the Earth's surface meet.'"
+          "explanation": "Đoạn văn: Động đất xảy ra ở những nơi các mảng bề mặt Trái Đất gặp nhau. | Câu hỏi: Chọn đáp án đúng theo nội dung. | pieces of the earth's surface meet — các mảng bề mặt Trái Đất gặp nhau | A: the population is large — dân số đông | B: the soil conditions are stable — điều kiện đất ổn định | C: pieces of the earth's surface meet — đúng, theo đoạn văn | D: many buildings are built — nhiều tòa nhà được xây"
         },
         {
           "id": "30a",
@@ -419,7 +419,7 @@
             "D. the east-coast of North America"
           ],
           "correctIndex": 0,
-          "explanation": "The passage mentions 'along the Pacific coast of Asia'."
+          "explanation": "Đoạn văn: Động đất thường xảy ra dọc theo bờ biển Thái Bình Dương của châu Á. | Câu hỏi: Chọn đáp án đúng theo nội dung. | the Pacific coast of Asia — bờ biển Thái Bình Dương của châu Á | A: the Pacific coast of Asia — đúng, theo đoạn văn | B: the east-coast of South America — bờ đông Nam Mỹ | C: the coast of Australia — bờ biển Úc | D: the east-coast of North America — bờ đông Bắc Mỹ"
         },
         {
           "id": "31a",
@@ -431,7 +431,7 @@
             "D. types of building"
           ],
           "correctIndex": 2,
-          "explanation": "The passage lists location, time, strength, building types, soil, population - not air conditions."
+          "explanation": "Đoạn văn: Mức độ phá hủy phụ thuộc vào nơi xảy ra, thời gian, cường độ, loại tòa nhà, điều kiện đất, dân số. | Câu hỏi: Chọn yếu tố KHÔNG ảnh hưởng. | air condition — điều kiện không khí | A: where it happens — nơi xảy ra | B: what time it happens — thời gian | C: air condition — đúng, không được đề cập | D: types of building — loại tòa nhà"
         },
         {
           "id": "32a",
@@ -443,7 +443,7 @@
             "D. water beneath the earth's surface"
           ],
           "correctIndex": 2,
-          "explanation": "The passage is mainly about predicting earthquakes and the damage they cause."
+          "explanation": "Đoạn văn: Bài viết về cách dự đoán động đất và thiệt hại mà chúng gây ra. | Câu hỏi: Chọn chủ đề chính. | the damage caused by earthquakes — thiệt hại do động đất | A: water currents — dòng nước | B: strange animal behaviors — hành vi động vật lạ | C: the damage caused by earthquakes — đúng, chủ đề chính | D: water beneath the earth's surface — nước dưới đất"
         }
       ]
     },
@@ -459,7 +459,7 @@
         "D. The girl which lives next door to us is very lovely."
       ],
       "correctIndex": 0,
-      "explanation": "Use 'who' for people as subject of relative clause."
+      "explanation": "Câu 1: Cô gái rất dễ thương + Câu 2: Cô ấy sống cạnh nhà chúng tôi | Dùng đại từ quan hệ 'who' cho người | A: The girl who lives next door to us is very lovely. — đúng, dùng 'who' làm chủ ngữ | B: The girl lives next door to us is very lovely. — thiếu đại từ quan hệ | C: The girl whose lives next door to us is very lovely. — 'whose' sai chức năng | D: The girl which lives next door to us is very lovely. — 'which' cho vật, không cho người"
     },
     {
       "id": 34,
@@ -473,7 +473,7 @@
         "D. Would you mind if I didn't touch things on display?"
       ],
       "correctIndex": 0,
-      "explanation": "'Would you mind not + V-ing?' is a polite request not to do something."
+      "explanation": "Câu gốc: Đừng chạm vào những thứ trưng bày | Chuyển thành yêu cầu lịch sự với 'Would you mind not + V-ing?' | A: Would you mind not touching things on display? — đúng, yêu cầu không làm | B: Would you mind touching things on display? — yêu cầu làm (ngược) | C: Would you mind if I touched things on display? — hỏi xin phép | D: Would you mind if I didn't touch things on display? — hỏi nếu không làm"
     },
     {
       "id": 35,
@@ -487,7 +487,7 @@
         "D. He wishes he can speak English well."
       ],
       "correctIndex": 0,
-      "explanation": "Wish + could + V = regret about present inability."
+      "explanation": "Câu gốc: Anh ấy tiếc vì không nói được tiếng Anh tốt | Dùng 'wish + could' để diễn tả ước muốn trái ngược hiện tại | A: He wishes he could speak English well — đúng, ước.muốn trái ngược | B: He wishes he couldn't speak English well — ước không nói được (ngược) | C: He wishes he could speak English — thiếu 'well' | D: He wishes he can speak English well — sai thời, dùng 'could'"
     },
     {
       "id": 36,
@@ -501,7 +501,7 @@
         "D. Although his intelligence, he doesn't do well at school."
       ],
       "correctIndex": 2,
-      "explanation": "'In spite of' + noun phrase. 'his intelligence' is a noun phrase."
+      "explanation": "Câu gốc: Mặc dù anh ấy thông minh nhưng không học tốt | Chuyển 'Although' thành 'In spite of' + cụm danh từ | A: In spite of he is intelligence — sai, cần danh từ | B: In spite his intelligence — thiếu 'of' | C: In spite of his intelligence — đúng, 'his intelligence' là cụm danh từ | D: Although his intelligence — sai, 'although' cần mệnh đề"
     },
     {
       "id": 37,
@@ -515,7 +515,7 @@
         "D. He was reading books in his room when he was hearing a big explosion."
       ],
       "correctIndex": 1,
-      "explanation": "Past continuous (was reading) interrupted by past simple (heard). 'in his room' is correct."
+      "explanation": "Tạo câu với các từ cho sẵn: Anh ấy đọc sách trong phòng khi nghe tiếng nổ lớn | Dùng Past Continuous (was reading) bị gián đoạn bởi Past Simple (heard) | A: He was reading books on his room — sai giới từ 'in his room' | B: He was reading books in his room when he heard a big explosion. — đúng, QK tiếp diễn + QK đơn | C: He read books in his room — thiếu QK tiếp diễn | D: He was hearing a big explosion — 'hear' không dùng QK tiếp diễn"
     },
     {
       "id": 38,
@@ -529,7 +529,7 @@
         "D. We used to wear uniforms when we were in school."
       ],
       "correctIndex": 0,
-      "explanation": "'used to + V-infinitive' for past habits. 'at school' is the standard expression."
+      "explanation": "Tạo câu với các từ cho sẵn: Chúng tôi mặc đồng phục khi còn đi học | Dùng 'used to + V' cho thói quen quá khứ | A: We used to wear uniforms when we were at school. — đúng, used to + V | B: We used wear uniforms — thiếu 'to' | C: We used to wearing — sai, không dùng V-ing | D: We used to wear uniforms when we were in school — 'in school' được nhưng 'at school' chuẩn hơn"
     },
     {
       "id": 39,
@@ -543,7 +543,7 @@
         "D. We are very tired last night because we played all the afternoon."
       ],
       "correctIndex": 2,
-      "explanation": "Past continuous 'were playing' for an ongoing action in the past; 'last night' requires past tense."
+      "explanation": "Tạo câu với các từ cho sẵn: Chúng tôi mệt vì đá bóng suốt chiều | Dùng Past Continuous (were playing) cho hành động đang diễn ra trong quá khứ | A: We were very tired last night because we play — sai thời | B: We were very tired last night because we played — được nhưng không nhấn mạnh | C: We were very tired last night because we were playing football all the afternoon. — đúng, QK tiếp diễn | D: We are very tired last night — sai thời 'are'"
     },
     {
       "id": 40,
@@ -557,7 +557,7 @@
         "D. The case was so heavy that Nam could not put it on the rack."
       ],
       "correctIndex": 3,
-      "explanation": "'so + adjective + that' clause. 'could not' because the case was too heavy."
+      "explanation": "Tạo câu với các từ cho sẵn: Cái vali nặng quá Nam không đặt lên được giá | Dùng 'so + adjective + that' để diễn tả kết quả | A: The case was such heavy — sai, cần 'so' | B: The case was so heavy that Nam could put it — thiếu 'not', ngược nghĩa | C: The case was heavy that Nam could not — thiếu 'so' | D: The case was so heavy that Nam could not put it on the rack. — đúng"
     },
     {
       "id": 41,
@@ -571,7 +571,7 @@
         "The girl who lives next door to us is very lovely",
         "The girl that lives next door to us is very lovely."
       ],
-      "explanation": "Dùng đại từ quan hệ 'who' để nối hai câu thành một. \"She lives next door\" → \"who lives next door to us\"."
+      "explanation": "Câu gốc: Cô gái rất dễ thương + Cô ấy sống cạnh nhà chúng tôi | Yêu cầu: Viết thành một câu dùng mệnh đề quan hệ | Đáp án — Cấu trúc: The girl who/that lives next door to us is very lovely | Giải thích: Dùng đại từ quan hệ 'who' hoặc 'that' để nối hai câu. 'who lives next door to us' là mệnh đề quan hệ bổ sung thông tin về cô gái."
     },
     {
       "id": 42,
@@ -585,7 +585,7 @@
         "Would you mind not touching the things on display?",
         "Would you mind not touching things on display"
       ],
-      "explanation": "Chuyển câu mệnh lệnh phủ định sang yêu cầu lịch sự. \"Please don't touch\" → \"Would you mind not touching\"."
+      "explanation": "Câu gốc: Đừng chạm vào những thứ trưng bày | Yêu cầu: Viết lại bắt đầu bằng 'Would you mind' | Đáp án — Cấu trúc: Would you mind not + V-ing? | Giải thích: Chuyển câu mệnh lệnh phủ định sang yêu cầu lịch sự. 'Please don't touch' → 'Would you mind not touching'. Cấu trúc này lịch sự hơn câu mệnh lệnh."
     },
     {
       "id": 43,
@@ -598,7 +598,7 @@
         "He wishes he could speak English well.",
         "He wishes he could speak English well"
       ],
-      "explanation": "Dùng wish + could diễn tả ước muốn trái ngược hiện tại. \"cannot speak\" → \"could speak\"."
+      "explanation": "Câu gốc: Anh ấy tiếc vì không nói được tiếng Anh tốt | Yêu cầu: Viết lại bắt đầu bằng 'He wishes' | Đáp án — Cấu trúc: He wishes he could + V | Giải thích: Dùng wish + could để diễn tả ước muốn trái ngược với hiện tại. 'cannot speak' → 'could speak'. Đây là cách diễn đạt ước muốn trong tiếng Anh."
     },
     {
       "id": 44,
@@ -612,7 +612,7 @@
         "In spite of his intelligence, he doesn't do well at school",
         "In spite of being intelligent, he doesn't do well at school."
       ],
-      "explanation": "Chuyển liên từ sang cụm giới từ. \"Although he is intelligent\" → \"In spite of his intelligence\"."
+      "explanation": "Câu gốc: Mặc dù anh ấy thông minh nhưng anh ấy không học tốt ở trường | Yêu cầu: Viết lại bắt đầu bằng 'In spite of' | Đáp án — Cấu trúc: In spite of + his intelligence | Giải thích: Chuyển liên từ 'Although' sang cụm giới từ 'In spite of'. 'Although he is intelligent' → 'In spite of his intelligence'. Cần dùng cụm danh từ 'his intelligence' sau 'In spite of'."
     },
     {
       "id": 45,
@@ -624,7 +624,7 @@
         "He was reading books in his room when he heard a big explosion",
         "He was reading a book in his room when he heard a big explosion."
       ],
-      "explanation": "Past continuous (was reading) for ongoing action interrupted by past simple (heard)."
+      "explanation": "Yêu cầu: Tạo câu từ các từ cho sẵn: Anh ấy đọc sách trong phòng khi nghe tiếng nổ lớn | Đáp án — Cụm từ dùng: was reading books in his room / when he heard | Giải thích: Dùng Past Continuous (was reading) cho hành động đang diễn ra bị gián đoạn bởi Past Simple (heard). 'in his room' là giới từ đúng."
     },
     {
       "id": 46,
@@ -636,7 +636,7 @@
         "We used to wear uniforms when we were at school",
         "We used to wear uniforms when we were in school."
       ],
-      "explanation": "Used to + bare infinitive for past habits."
+      "explanation": "Yêu cầu: Tạo câu từ các từ cho sẵn: Chúng tôi mặc đồng phục khi còn đi học | Đáp án — Cụm từ dùng: used to wear uniforms / when we were at school | Giải thích: Dùng 'used to + V' cho thói quen quá khứ. 'at school' là cụm từ chuẩn trong tiếng Anh."
     },
     {
       "id": 47,
@@ -648,7 +648,7 @@
         "We were very tired last night because we had played football all afternoon.",
         "We were very tired last night because we played football all the afternoon."
       ],
-      "explanation": "Past perfect for the earlier action (playing) that caused the later state (being tired)."
+      "explanation": "Yêu cầu: Tạo câu từ các từ cho sẵn: Chúng tôi mệt vì đá bóng suốt chiều qua | Đáp án — Cụm từ dùng: were very tired / because we had played football | Giải thích: Dùng Past Perfect (had played) cho hành động xảy ra trước (đá bóng) gây ra trạng thái sau (mệt). 'last night' xác định thời gian quá khứ."
     },
     {
       "id": 48,
@@ -660,7 +660,7 @@
         "The case was so heavy that Nam could not put it on the rack",
         "The case was so heavy that Nam couldn't put it on the rack."
       ],
-      "explanation": "So + adjective + that + clause for result."
+      "explanation": "Yêu cầu: Tạo câu từ các từ cho sẵn: Cái vali nặng quá Nam không đặt lên được giá | Đáp án — Cụm từ dùng: was so heavy that Nam could not put | Giải thích: Dùng 'so + adjective + that + clause' để diễn tả kết quả. 'could not' vì cái vali quá nặng nên không thể đặt lên được."
     }
   ]
 }

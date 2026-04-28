@@ -471,7 +471,7 @@
       "correctSentence": "I found the conversation most interesting and I was glad to practice my English.",
       "errorWord": "as most",
       "correction": "most",
-      "explanation": "Không dùng 'as' trước 'most interesting'. 'most interesting' ở đây có nghĩa là 'rất thú vị'."
+      "explanation": "Không dùng 'as' trước 'most interesting' trong cấu trúc này. 'most interesting' ở đây có nghĩa là 'rất thú vị', không phải so sánh nhất. 'as most interesting' → 'most interesting'."
     },
     {
       "id": 44,
@@ -480,7 +480,7 @@
       "correctSentence": "The Caspian Sea, a salt lake, is larger than any other lakes in the world.",
       "errorWord": "the largest than",
       "correction": "larger than",
-      "explanation": "Với 'than' phải dùng so sánh hơn 'larger', không dùng so sánh nhất 'the largest'."
+      "explanation": "'The Caspian Sea' là một trong những hồ muối → dùng so sánh hơn với 'than'. 'larger than' → 'the largest than' sai. Phải đổi thành 'larger than'."
     },
     {
       "id": 45,
@@ -489,7 +489,7 @@
       "correctSentence": "The Mekong is one of the longest rivers in the world.",
       "errorWord": "longer",
       "correction": "longest",
-      "explanation": "'one of the + superlative + N(số nhiều)' => 'one of the longest'."
+      "explanation": "'One of the + so sánh nhất + danh từ số nhiều' = một trong những... 'longer' → 'one of the longest'. 'longest' phải số nhiều."
     },
     {
       "id": 46,
@@ -498,7 +498,7 @@
       "correctSentence": "The new models are not only less expensive but also more efficient.",
       "errorWord": "the more",
       "correction": "more",
-      "explanation": "Đây là so sánh hơn (không phải so sánh nhất), không cần 'the' trước 'more'."
+      "explanation": "'Not only...but also' đi với so sánh hơn (không phải so sánh nhất). 'the more efficient' → 'more efficient' — bỏ 'the'."
     },
     {
       "id": 47,
@@ -507,7 +507,7 @@
       "correctSentence": "The problem is more serious because there has been no solution up to now.",
       "errorWord": "the more",
       "correction": "more",
-      "explanation": "Đây là so sánh hơn bình thường, không phải so sánh kép. Bỏ 'the'."
+      "explanation": "'the more serious' là so sánh kép, nhưng câu này chỉ so sánh hơn bình thường. 'the more' → 'more' — bỏ 'the'."
     },
     {
       "id": 48,
@@ -516,7 +516,7 @@
       "correctSentence": "It's certainly true that the average woman has weaker muscles than those of the average man.",
       "errorWord": "that",
       "correction": "those",
-      "explanation": "'muscles' là số nhiều => đại từ thay thế phải là 'those', không phải 'that'."
+      "explanation": "'muscles' là danh từ số nhiều → đại từ thay thế phải là 'those', không phải 'that'. 'that of' → 'those of'."
     },
     {
       "id": 49,
@@ -525,7 +525,7 @@
       "correctSentence": "They asked many questions, checked the figures, and came up with the best solution.",
       "errorWord": "best",
       "correction": "the best",
-      "explanation": "So sánh nhất phải có 'the': 'the best solution'."
+      "explanation": "So sánh nhất phải có 'the': 'came up with best solution' → 'came up with the best solution'."
     },
     {
       "id": 50,
@@ -534,7 +534,7 @@
       "correctSentence": "The first skill to learn is how to write the most important words, not whole sentences.",
       "errorWord": "the more",
       "correction": "the most",
-      "explanation": "Không có 'than' => đây là so sánh nhất: 'the most important'."
+      "explanation": "Không có 'than' → đây là so sánh nhất, không phải so sánh hơn. 'the more important' → 'the most important'."
     }
   ]
 }

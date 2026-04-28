@@ -251,7 +251,7 @@
       "instruction": "Rewrite without changing meaning.",
       "starterText": "In spite of",
       "answer": "In spite of not wanting to see The Lord of the Rings, she enjoyed it in the end.",
-      "explanation": "Chuyển mệnh đề 'Although + S + V' thành cụm từ 'In spite of + V-ing'. 'Although she didn't want' → 'In spite of not wanting'. Phủ định: thêm 'not' trước V-ing."
+      "explanation": "Chuyển mệnh đề 'Although + S + V' thành cụm từ 'In spite of + -ing'. 'Although she didn't want' → 'In spite of not wanting'. Phủ định: thêm 'not' trước -ing."
     },
     {
       "id": 24,
@@ -260,7 +260,7 @@
       "instruction": "Rewrite without changing meaning.",
       "starterText": "They visited Madrid despite",
       "answer": "They visited Madrid despite not having time to visit El Prado.",
-      "explanation": "Chuyển mệnh đề 'although + S + V' thành cụm từ 'despite + V-ing'. 'although they didn't have' → 'despite not having'. Phủ định: thêm 'not' trước V-ing."
+      "explanation": "Chuyển mệnh đề 'although + S + V' thành cụm từ 'despite + -ing'. 'although they didn't have' → 'despite not having'. Phủ định: thêm 'not' trước -ing."
     },
     {
       "id": 25,

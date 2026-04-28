@@ -17,7 +17,7 @@
         "D. exercises"
       ],
       "correctIndex": 1,
-      "explanation": "'Do the laundry' = giặt đồ. Là cụm từ cố định phổ biến."
+      "explanation": "Tìm cụm từ đúng: 'do the laundry' = giặt đồ | A: wash-up = rửa bát — Không đúng | B: laundry = giặt đồ — Đúng, cụm từ cố định | C: childcare = chăm sóc trẻ — Không đúng | D: exercises = bài tập — Không đúng"
     },
     {
       "id": 2,
@@ -30,7 +30,7 @@
         "D. handle"
       ],
       "correctIndex": 3,
-      "explanation": "'Handle' = xử lý, đảm nhận. 'Handle the chores' = đảm nhận việc nhà."
+      "explanation": "Tìm từ phù hợp: 'handle the chores' = đảm nhận việc nhà | A: distribute = phân phát — Không đúng | B: hold = cầm — Không đúng | C: take = lấy — Không đúng ngữ cảnh | D: handle = xử lý, đảm nhận — Đúng"
     },
     {
       "id": 3,
@@ -43,7 +43,7 @@
         "D. financier"
       ],
       "correctIndex": 2,
-      "explanation": "Sau 'household' cần danh từ. 'Finances' = tài chính (danh từ)."
+      "explanation": "Sau 'household' cần danh từ | A: financial = tài chính (adj) — Không đúng loại từ | B: financially = về tài chính (adv) — Không đúng loại từ | C: finances = tài chính (danh từ) — Đúng | D: financier = nhà tài chính — Không đúng nghĩa"
     },
     {
       "id": 4,
@@ -56,7 +56,7 @@
         "D. Houseman"
       ],
       "correctIndex": 1,
-      "explanation": "'Homemaker' = người nội trợ, người làm việc nhà và chăm sóc gia đình."
+      "explanation": "Tìm từ đúng cho 'người làm việc nhà và chăm sóc gia đình' | A: Breadwinner = người nuôi gia đình — Không đúng | B: Homemaker = người nội trợ — Đúng | C: Servant = người hầu — Không đúng | D: Houseman = người giữ nhà — Không đúng"
     },
     {
       "id": 5,
@@ -69,7 +69,7 @@
         "D. breadwinner"
       ],
       "correctIndex": 3,
-      "explanation": "'Sole breadwinner' = trụ cột duy nhất của gia đình (người kiếm tiền nuôi gia đình)."
+      "explanation": "Tìm từ đúng 'trụ cột của gia đình' | A: housemaid = người giúp việc — Không đúng | B: housekeeper = người quản gia — Không đúng | C: father = cha — Không đúng nghĩa | D: breadwinner = người nuôi gia đình — Đúng (trụ cột)"
     },
     {
       "id": 6,
@@ -82,7 +82,7 @@
         "D. the chores"
       ],
       "correctIndex": 1,
-      "explanation": "'Shop for groceries' = đi mua sắm thực phẩm, đồ dùng hàng ngày."
+      "explanation": "Tìm cụm từ đúng: 'shop for groceries' = mua sắm thực phẩm | A: cook = nấu ăn — Không đúng | B: groceries = đồ dùng hàng ngày — Đúng | C: heavy lifting = nặng — Không đúng | D: the chores = việc nhà — Không đúng"
     },
     {
       "id": 7,
@@ -95,7 +95,7 @@
         "D. washings-up"
       ],
       "correctIndex": 0,
-      "explanation": "'Do the washing-up' = rửa bát đĩa. Đây là danh từ ghép cố định."
+      "explanation": "Tìm cụm từ đúng: 'do the washing-up' = rửa bát đĩa | A: washing-up = rửa bát — Đúng (danh từ ghép cố định) | B: wash-up = sai chính tả | C: washing-ups = sai số nhiều | D: washings-up = sai"
     },
     {
       "id": 8,
@@ -108,7 +108,7 @@
         "D. action"
       ],
       "correctIndex": 2,
-      "explanation": "'Set a good example' = làm gương tốt. Là cụm từ cố định."
+      "explanation": "Tìm cụm từ đúng: 'set a good example' = làm gương tốt | A: role = vai — Không đúng | B: behavior = hành vi — Không đúng | C: example = gương — Đúng, cụm từ cố định | D: action = hành động — Không đúng"
     },
     {
       "id": 9,
@@ -121,7 +121,7 @@
         "D. let"
       ],
       "correctIndex": 1,
-      "explanation": "'Take a break' = nghỉ ngơi. Là cụm động từ cố định."
+      "explanation": "Tìm cụm từ đúng: 'take a break' = nghỉ ngơi | A: get = lấy — Không đúng | B: take = nghỉ — Đúng, cụm động từ cố định | C: has = có — Không đúng | D: let = cho phép — Không đúng"
     },
     {
       "id": 10,
@@ -134,7 +134,7 @@
         "D. cognitive skills"
       ],
       "correctIndex": 2,
-      "explanation": "'Housekeeping skill' = kỹ năng làm việc nhà, bao gồm nấu ăn, giặt đồ, dọn dẹp."
+      "explanation": "Tìm từ đúng cho 'kỹ năng làm việc nhà' | A: social skill = kỹ năng xã hội — Không đúng | B: self-care skills = kỹ năng tự chăm sóc — Không đúng | C: housekeeping skill = kỹ năng làm nhà — Đúng | D: cognitive skills = kỹ năng nhận thức — Không đúng"
     },
     {
       "id": 11,
@@ -147,7 +147,7 @@
         "D. part"
       ],
       "correctIndex": 2,
-      "explanation": "'Feature' = đặc điểm, nét đặc trưng. Ẩm thực Huế có nét đặc trưng riêng."
+      "explanation": "Tìm từ đúng cho 'đặc điểm của ẩm thực' | A: description = mô tả — Không đúng | B: list = danh sách — Không đúng | C: feature = đặc điểm — Đúng | D: part = phần — Không đúng"
     },
     {
       "id": 12,
@@ -160,7 +160,7 @@
         "D. whisk"
       ],
       "correctIndex": 2,
-      "explanation": "'Chop' = chặt, cắt nhỏ. Cắt hành thành nhiều miếng nhỏ."
+      "explanation": "Tìm từ đúng cho 'cắt thành nhiều miếng nhỏ' | A: grate = bào — Không đúng | B: sprinkle = rắc — Không đúng | C: chop = chặt, cắt nhỏ — Đúng | D: whisk = đánh — Không đúng"
     },
     {
       "id": 13,
@@ -173,7 +173,7 @@
         "D. personal"
       ],
       "correctIndex": 2,
-      "explanation": "'Keeping a diary' = viết nhật ký. Ghi lại chế độ ăn uống để phát hiện thói quen xấu."
+      "explanation": "Tìm cụm từ đúng: 'keeping a diary' = viết nhật ký | A: food dairy = tiệm sữa — Không đúng | B: report = báo cáo — Không đúng | C: diary = nhật ký — Đúng | D: personal = cá nhân — Không đúng"
     },
     {
       "id": 14,
@@ -186,7 +186,7 @@
         "D. continue"
       ],
       "correctIndex": 0,
-      "explanation": "'Remain' ở đây dùng với nghĩa 'giữ lại, duy trì'. Nấu nhanh để giữ độ tươi của thực phẩm."
+      "explanation": "Tìm từ đúng: 'giữ lại, duy trì' độ tươi của thực phẩm | A: remain = giữ lại — Đúng | B: exist = tồn tại — Không đúng | C: stay = ở lại — Không đúng | D: continue = tiếp tục — Không đúng"
     },
     {
       "id": 15,
@@ -199,7 +199,7 @@
         "D. realize"
       ],
       "correctIndex": 3,
-      "explanation": "'Realize' = nhận ra. Bạn không nhận ra thói quen ăn uống không lành mạnh."
+      "explanation": "Tìm từ đúng: 'nhận ra' thói quen ăn uống không lành mạnh | A: understand = hiểu — Không đúng | B: tell = kể — Không đúng | C: recognize = nhận biết — Không đúng ngữ cảnh | D: realize = nhận ra — Đúng"
     },
     {
       "id": 16,
@@ -212,7 +212,7 @@
         "D. courses"
       ],
       "correctIndex": 0,
-      "explanation": "'Ingredients' = nguyên liệu, thành phần. Đường, mía, nước dừa là nguyên liệu nấu ăn."
+      "explanation": "Tìm từ đúng cho 'nguyên liệu nấu ăn' | A: ingredients = nguyên liệu — Đúng | B: menus = thực đơn — Không đúng | C: dishes = món ăn — Không đúng | D: courses = khóa — Không đúng"
     },
     {
       "id": 17,
@@ -225,7 +225,7 @@
         "D. baked"
       ],
       "correctIndex": 0,
-      "explanation": "'Served' = phục vụ (đồ ăn). 'They served me' = họ phục vụ tôi (tại bữa tiệc)."
+      "explanation": "Tìm từ đúng: 'phục vụ đồ ăn' tại bữa tiệc | A: served = phục vụ — Đúng | B: shared = chia sẻ — Không đúng | C: cooked = nấu — Không đúng | D: baked = nướng — Không đúng"
     },
     {
       "id": 18,
@@ -238,7 +238,7 @@
         "D. action"
       ],
       "correctIndex": 2,
-      "explanation": "'Routine' = lề thường, thói quen hàng ngày. 'Morning routine' = thói quen buổi sáng."
+      "explanation": "Tìm từ đúng cho 'thói quen buổi sáng' | A: timetable = thời khóa biểu — Không đúng | B: habit = thói quen — Chưa đủ | C: routine = lề thường — Đúng | D: action = hành động — Không đúng"
     },
     {
       "id": 19,
@@ -251,7 +251,7 @@
         "D. keeping"
       ],
       "correctIndex": 0,
-      "explanation": "'Preparing a meal' = chuẩn bị bữa ăn. Là cụm từ phổ biến."
+      "explanation": "Tìm cụm từ đúng: 'preparing a meal' = chuẩn bị bữa ăn | A: preparing = chuẩn bị — Đúng | B: making = làm — Không đúng | C: arranging = sắp xếp — Không đúng | D: keeping = giữ — Không đúng"
     },
     {
       "id": 20,
@@ -264,7 +264,7 @@
         "D. late"
       ],
       "correctIndex": 3,
-      "explanation": "'Work late' = làm việc muộn. 'Late' là trạng từ chỉ thời gian."
+      "explanation": "Tìm từ đúng cho 'làm việc muộn' | A: lately = gần đây — Không đúng | B: early = sớm — Không đúng | C: later = muộn hơn — Không đúng | D: late = muộn — Đúng, trạng từ chỉ thời gian"
     }
   ]
 }

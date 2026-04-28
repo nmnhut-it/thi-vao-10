@@ -45,7 +45,7 @@
         "It has been 5 years since they started living in Germany.",
         "It has been 5 years since they started living in Germany"
       ],
-      "explanation": "Chuyển 'have been V-ing + for + thời gian' sang 'It is + thời gian + since + quá khứ đơn'. 'have been living...for 5 years' → 'It is 5 years since they started living'."
+      "explanation": "Chuyển 'have been -ing + for + thời gian' sang 'It is + thời gian + since + quá khứ đơn'. 'have been living...for 5 years' → 'It is 5 years since they started living'."
     },
     {
       "id": 4,
@@ -312,7 +312,7 @@
         "In spite of having a good salary, he was unhappy in his job.",
         "In spite of his good salary, he was unhappy in his job."
       ],
-      "explanation": "Chuyển 'Although + mệnh đề' thành 'In spite of + V-ing/danh từ'. 'Although he had a good salary' → 'In spite of having a good salary'."
+      "explanation": "Chuyển 'Although + mệnh đề' thành 'In spite of + -ing/danh từ'. 'Although he had a good salary' → 'In spite of having a good salary'."
     },
     {
       "id": 24,
@@ -365,7 +365,7 @@
         "Because of his laziness, Ba failed the final exam.",
         "Because of being lazy, Ba failed the final exam."
       ],
-      "explanation": "Chuyển 'because + mệnh đề' thành 'because of + danh từ/V-ing'. 'Ba was lazy' → 'Because of his laziness' (chú ý: lazy → laziness)."
+      "explanation": "Chuyển 'because + mệnh đề' thành 'because of + danh từ/-ing'. 'Ba was lazy' → 'Because of his laziness' (chú ý: lazy → laziness)."
     },
     {
       "id": 28,
@@ -530,7 +530,7 @@
         "He'd rather play computer games than watch TV.",
         "He'd rather play computer games than watch TV"
       ],
-      "explanation": "Chuyển 'prefer + V-ing + to + V-ing' thành 'would rather + động từ + than + động từ'. 'prefers playing...to watching' → 'would rather play...than watch'."
+      "explanation": "Chuyển 'prefer + -ing + to + -ing' thành 'would rather + động từ + than + động từ'. 'prefers playing...to watching' → 'would rather play...than watch'."
     },
     {
       "id": 40,
@@ -543,7 +543,7 @@
         "Do you mind helping me put the chair away?",
         "Do you mind helping me put the chair away"
       ],
-      "explanation": "Chuyển 'would like you to + động từ' thành lời yêu cầu lịch sự 'Do you mind + V-ing' (có phiền không). 'help me put' → 'helping me put'."
+      "explanation": "Chuyển 'would like you to + động từ' thành lời yêu cầu lịch sự 'Do you mind + -ing' (có phiền không). 'help me put' → 'helping me put'."
     },
     {
       "id": 41,
@@ -556,7 +556,7 @@
         "Traveling by air always makes me nervous.",
         "Travelling by air always makes me nervous."
       ],
-      "explanation": "Chuyển 'when I travel by air' thành chủ ngữ V-ing, dùng cấu trúc 'make + tân ngữ + tính từ'. 'I'm nervous when I travel by air' → 'Traveling by air makes me nervous'."
+      "explanation": "Chuyển 'when I travel by air' thành chủ ngữ -ing, dùng cấu trúc 'make + tân ngữ + tính từ'. 'I'm nervous when I travel by air' → 'Traveling by air makes me nervous'."
     },
     {
       "id": 42,
@@ -569,7 +569,7 @@
         "\"What about visiting Moc Chau to learn about Thai and H'mong people?\"",
         "What about visiting Moc Chau to learn about Thai and H'mong people?"
       ],
-      "explanation": "Chuyển 'suggest + V-ing' thành câu gợi ý 'What about + V-ing'. 'suggested visiting' → 'What about visiting'."
+      "explanation": "Chuyển 'suggest + -ing' thành câu gợi ý 'What about + -ing'. 'suggested visiting' → 'What about visiting'."
     },
     {
       "id": 43,
@@ -583,7 +583,7 @@
         "It's very important to keep the environment clean",
         "It is very important to keep the environment clean."
       ],
-      "explanation": "Chuyển chủ ngữ V-ing thành cấu trúc 'It + be + tính từ + to + động từ'. 'Keeping...is very important' → 'It's very important to keep'."
+      "explanation": "Chuyển chủ ngữ -ing thành cấu trúc 'It + be + tính từ + to + động từ'. 'Keeping...is very important' → 'It's very important to keep'."
     },
     {
       "id": 44,
@@ -609,7 +609,7 @@
         "Sally finally succeeded in getting the job.",
         "Sally finally succeeded in getting the job"
       ],
-      "explanation": "Chuyển 'manage to + động từ' thành 'succeed in + V-ing' (thành công trong việc gì). 'managed to get' → 'succeeded in getting' (chú ý: 'to V' → 'in V-ing')."
+      "explanation": "Chuyển 'manage to + động từ' thành 'succeed in + -ing' (thành công trong việc gì). 'managed to get' → 'succeeded in getting' (chú ý: 'to V' → 'in -ing')."
     },
     {
       "id": 46,
@@ -635,7 +635,7 @@
         "It often takes us 30 minutes to review our lesson before class.",
         "It often takes us 30 minutes to review our lesson before class"
       ],
-      "explanation": "Chuyển 'spend + thời gian + V-ing' thành 'It takes + ai + thời gian + to + động từ'. 'spend 30 minutes reviewing' → 'It takes us 30 minutes to review'."
+      "explanation": "Chuyển 'spend + thời gian + -ing' thành 'It takes + ai + thời gian + to + động từ'. 'spend 30 minutes reviewing' → 'It takes us 30 minutes to review'."
     },
     {
       "id": 48,
@@ -648,7 +648,7 @@
         "He spent twelve hours flying from Hanoi to London.",
         "He spent twelve hours flying from Hanoi to London"
       ],
-      "explanation": "Chuyển 'It takes + ai + thời gian + to + động từ' thành 'spend + thời gian + V-ing'. 'It took him twelve hours to fly' → 'He spent twelve hours flying'."
+      "explanation": "Chuyển 'It takes + ai + thời gian + to + động từ' thành 'spend + thời gian + -ing'. 'It took him twelve hours to fly' → 'He spent twelve hours flying'."
     },
     {
       "id": 49,
@@ -674,7 +674,7 @@
         "I'm looking forward to the upcoming pottery workshop.",
         "I'm looking forward to the upcoming pottery workshop"
       ],
-      "explanation": "Chuyển 'be excited about' thành 'look forward to' (mong đợi). 'excited about' → 'looking forward to' (lưu ý: 'look forward to' đi với danh từ/V-ing, 'to' ở đây là giới từ)."
+      "explanation": "Chuyển 'be excited about' thành 'look forward to' (mong đợi). 'excited about' → 'looking forward to' (lưu ý: 'look forward to' đi với danh từ/-ing, 'to' ở đây là giới từ)."
     },
     {
       "id": 51,
@@ -834,7 +834,7 @@
         "She suggested that they should surf the net for the location of Ninh Binh Province.",
         "She suggested that they surf the net for the location of Ninh Binh Province."
       ],
-      "explanation": "Chuyển lời gợi ý 'Shall we + động từ' sang tường thuật: suggest + V-ing. 'Shall we surf' → 'suggested surfing'."
+      "explanation": "Chuyển lời gợi ý 'Shall we + động từ' sang tường thuật: suggest + -ing. 'Shall we surf' → 'suggested surfing'."
     },
     {
       "id": 63,
@@ -945,7 +945,7 @@
         "I couldn't go to the airport to see her off because of being ill.",
         "I could not go to the airport to see her off because of my illness."
       ],
-      "explanation": "Chuyển 'because + mệnh đề' thành 'because of + danh từ/V-ing'. 'because I was ill' → 'because of my illness' (chú ý: ill → illness, 'because of' không đi với mệnh đề)."
+      "explanation": "Chuyển 'because + mệnh đề' thành 'because of + danh từ/-ing'. 'because I was ill' → 'because of my illness' (chú ý: ill → illness, 'because of' không đi với mệnh đề)."
     },
     {
       "id": 71,
@@ -1117,7 +1117,7 @@
         "Kate suggested that they go to the cinema.",
         "Kate suggested that they should go to the cinema."
       ],
-      "explanation": "Chuyển lời gợi ý 'How about + V-ing' sang tường thuật: suggest + V-ing. 'How about going' → 'suggested going'."
+      "explanation": "Chuyển lời gợi ý 'How about + -ing' sang tường thuật: suggest + -ing. 'How about going' → 'suggested going'."
     },
     {
       "id": 84,
@@ -1251,7 +1251,7 @@
         "Would you mind giving me a hand to move the sofa",
         "Would you mind helping me move the sofa?"
       ],
-      "explanation": "Chuyển lời yêu cầu 'Could you + động từ' thành 'Would you mind + V-ing' (có phiền không). 'could give me a hand' → 'mind giving me a hand'."
+      "explanation": "Chuyển lời yêu cầu 'Could you + động từ' thành 'Would you mind + -ing' (có phiền không). 'could give me a hand' → 'mind giving me a hand'."
     },
     {
       "id": 94,
@@ -1291,7 +1291,7 @@
         "Mark has learnt French for two years.",
         "Mark has been learning French for two years."
       ],
-      "explanation": "Chuyển 'started + V-ing + thời gian + ago' thành hiện tại hoàn thành với 'for'. 'started learning...two years ago' → 'has learned...for two years'."
+      "explanation": "Chuyển 'started + -ing + thời gian + ago' thành hiện tại hoàn thành với 'for'. 'started learning...two years ago' → 'has learned...for two years'."
     },
     {
       "id": 97,
@@ -1531,7 +1531,7 @@
         "How about leaving after breakfast on Saturday?",
         "How about leaving after breakfast on Saturday"
       ],
-      "explanation": "Chuyển 'Why don't we + động từ' thành 'How about + V-ing' (gợi ý). 'Why don't we leave' → 'How about leaving'."
+      "explanation": "Chuyển 'Why don't we + động từ' thành 'How about + -ing' (gợi ý). 'Why don't we leave' → 'How about leaving'."
     },
     {
       "id": 115,
@@ -1587,7 +1587,7 @@
         "He locked the door so that the prisoner could not escape.",
         "He locked the door so that the prisoner wouldn't escape."
       ],
-      "explanation": "Chuyển 'to prevent + tân ngữ + V-ing' thành 'so that + mệnh đề phủ định' chỉ mục đích. 'to prevent the prisoner escaping' → 'so that the prisoner couldn't escape'."
+      "explanation": "Chuyển 'to prevent + tân ngữ + -ing' thành 'so that + mệnh đề phủ định' chỉ mục đích. 'to prevent the prisoner escaping' → 'so that the prisoner couldn't escape'."
     },
     {
       "id": 119,

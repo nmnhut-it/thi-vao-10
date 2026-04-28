@@ -426,7 +426,7 @@
       "correctSentence": "Although Wayne failed to score himself, he helped Ron score two goals.",
       "errorWord": "Despite",
       "correction": "Although",
-      "explanation": "'Despite' + danh từ/V-ing. Trước mệnh đề (S+V) phải dùng 'Although'."
+      "explanation": "'Despite' + danh từ/-ing. Trước mệnh đề (S+V) phải dùng 'Although'."
     },
     {
       "id": 39,

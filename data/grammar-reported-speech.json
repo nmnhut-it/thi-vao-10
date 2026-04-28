@@ -17,7 +17,7 @@
         "D. does the movie begin"
       ],
       "correctIndex": 0,
-      "explanation": "Reported Wh-question: use statement word order (no inversion) and backshift tense. 'What time does the movie begin?' becomes 'what time the movie began'."
+      "explanation": "Câu hỏi Wh trong tường thuật: dùng trật tự câu trần thuật (không đảo ngữ) và lùi thì. 'What time does the movie begin?' → 'what time the movie began'."
     },
     {
       "id": 2,
@@ -30,7 +30,7 @@
         "D. whether I was doing"
       ],
       "correctIndex": 3,
-      "explanation": "Reported yes/no questions use if/whether + statement order + backshifted tense: 'whether I was doing'."
+      "explanation": "Câu hỏi Yes/No trong tường thuật dùng 'if/whether' + trật tự câu trần thuật + lùi thì: 'whether I was doing'."
     },
     {
       "id": 3,
@@ -43,7 +43,7 @@
         "D. I can pick"
       ],
       "correctIndex": 1,
-      "explanation": "Reported commands/requests: told + object + to V. So 'Pick me up' becomes 'told me to pick him up'."
+      "explanation": "Lệnh/yêu cầu trong tường thuật: 'told + tân ngữ + to V'. 'Pick me up' → 'told me to pick him up'."
     },
     {
       "id": 4,
@@ -56,7 +56,7 @@
         "D. could the children"
       ],
       "correctIndex": 2,
-      "explanation": "Reported yes/no question: asked + whether/if + statement order + backshifted tense. 'Can' becomes 'could'."
+      "explanation": "Câu hỏi Yes/No trong tường thuật: 'asked + whether/if' + trật tự câu trần thuật + lùi thì. 'Can' → 'could'."
     },
     {
       "id": 5,
@@ -69,7 +69,7 @@
         "D. got"
       ],
       "correctIndex": 3,
-      "explanation": "Reported statement: backshift present simple to past simple. 'I get' becomes 'he got'."
+      "explanation": "Câu trần thuật: lùi thì từ hiện tại đơn sang quá khứ đơn. 'I get' → 'he got'."
     },
     {
       "id": 6,
@@ -82,7 +82,7 @@
         "D. would try"
       ],
       "correctIndex": 3,
-      "explanation": "In reported speech, 'will' backshifts to 'would': 'will try' becomes 'would try'."
+      "explanation": "Trong tường thuật, 'will' lùi thành 'would': 'will try' → 'would try'."
     },
     {
       "id": 7,
@@ -95,7 +95,7 @@
         "D. has been"
       ],
       "correctIndex": 2,
-      "explanation": "Past simple backshifts to past perfect: 'was' becomes 'had been'. Time marker 'last night' changes to 'the previous night'."
+      "explanation": "Quá khứ đơn lùi thành quá khứ hoàn thành: 'was' → 'had been'. Dấu hiệu thời gian 'last night' đổi thành 'the previous night'."
     },
     {
       "id": 8,
@@ -108,7 +108,7 @@
         "D. asking"
       ],
       "correctIndex": 2,
-      "explanation": "The reporting verb must match the tense context. Since 'liked' is backshifted, the reporting verb is also past: 'asked'."
+      "explanation": "Động từ tường thuật phải phù hợp với ngữ cảnh thì. Vì 'liked' đã lùi thì, động từ tường thuật cũng phải ở quá khứ: 'asked'."
     },
     {
       "id": 9,
@@ -121,7 +121,7 @@
         "D. Please, turning"
       ],
       "correctIndex": 0,
-      "explanation": "This is direct speech (a polite command): 'Please turn off the television'."
+      "explanation": "Đây là câu trực tiếp (một lệnh lịch sự): 'Please turn off the television'."
     },
     {
       "id": 10,
@@ -134,7 +134,7 @@
         "D. hasn't arrived"
       ],
       "correctIndex": 1,
-      "explanation": "Present perfect negative backshifts to past perfect negative: 'hasn't arrived' becomes 'hadn't arrived'."
+      "explanation": "Hiện tại hoàn thành phủ định lùi thành quá khứ hoàn thành phủ định: 'hasn't arrived' → 'hadn't arrived'."
     },
     {
       "id": 11,
@@ -147,7 +147,7 @@
         "D. don't touch"
       ],
       "correctIndex": 1,
-      "explanation": "Reported negative command: asked + object + not to V. 'Don't touch' becomes 'not to touch'."
+      "explanation": "Lệnh phủ định trong tường thuật: 'asked + tân ngữ + not to V'. 'Don't touch' → 'not to touch'."
     },
     {
       "id": 12,
@@ -160,7 +160,7 @@
         "D. has been"
       ],
       "correctIndex": 0,
-      "explanation": "Reported Wh-question with backshifting: 'is' becomes 'was'. Statement word order is used."
+      "explanation": "Câu hỏi Wh trong tường thuật có lùi thì: 'is' → 'was'. Dùng trật tự câu trần thuật."
     },
     {
       "id": 13,
@@ -173,7 +173,7 @@
         "D. would come"
       ],
       "correctIndex": 3,
-      "explanation": "Although 'wants' is present tense, the time marker 'the next day' (changed from 'tomorrow') indicates the reported content has been backshifted. So 'will come' becomes 'would come'. This is a common exam pattern testing consistency of backshifting within the reported clause."
+      "explanation": "Dù 'wants' là hiện tại, nhưng dấu hiệu thời gian 'the next day' (đổi từ 'tomorrow') cho thấy nội dung tường thuật đã được lùi thì. Nên 'will come' → 'would come'. Đây là dạng bài thi thường gặp kiểm tra tính nhất quán của lùi thì trong mệnh đề tường thuật."
     },
     {
       "id": 14,
@@ -186,7 +186,7 @@
         "D. did I teach"
       ],
       "correctIndex": 0,
-      "explanation": "Reported Wh-question: statement word order + backshifted tense. 'How many students do you teach?' becomes 'how many students I taught'."
+      "explanation": "Câu hỏi Wh trong tường thuật: trật tự câu trần thuật + lùi thì. 'How many students do you teach?' → 'how many students I taught'."
     },
     {
       "id": 15,
@@ -199,7 +199,7 @@
         "D. that we were going"
       ],
       "correctIndex": 0,
-      "explanation": "Reported yes/no question: wanted to know + if + statement order + backshifted tense. Past continuous 'were going' backshifts to past perfect continuous 'had been going'."
+      "explanation": "Câu hỏi Yes/No trong tường thuật: 'wanted to know + if' + trật tự câu trần thuật + lùi thì. Quá khứ tiếp diễn 'were going' lùi thành quá khứ hoàn thành tiếp diễn 'had been going'."
     },
     {
       "id": 16,
@@ -212,7 +212,7 @@
         "D. last summer"
       ],
       "correctIndex": 0,
-      "explanation": "In reported speech, 'last summer' changes to 'the summer before' (or 'the previous summer')."
+      "explanation": "Trong tường thuật, 'last summer' đổi thành 'the summer before' (hoặc 'the previous summer')."
     },
     {
       "id": 17,
@@ -225,7 +225,7 @@
         "D. would not eat / ago"
       ],
       "correctIndex": 1,
-      "explanation": "Present perfect backshifts to past perfect: 'have not eaten' becomes 'had not eaten'. Time marker 'ago' changes to 'before'."
+      "explanation": "Hiện tại hoàn thành lùi thành quá khứ hoàn thành: 'have not eaten' → 'had not eaten'. Dấu hiệu thời gian 'ago' đổi thành 'before'."
     },
     {
       "id": 18,
@@ -238,7 +238,7 @@
         "D. asked me"
       ],
       "correctIndex": 0,
-      "explanation": "Per Murphy: 'told' takes a direct object (told me), never 'told to me'. 'Said' cannot take a person object directly ('said me' is wrong). So the correct form is 'told me'."
+      "explanation": "Theo Murphy: 'told' có tân ngữ trực tiếp ('told me'), không dùng 'told to me'. 'Said' không thể có tân ngữ người ('said me' sai). Nên dùng 'told me'."
     },
     {
       "id": 19,
@@ -251,7 +251,7 @@
         "D. can be"
       ],
       "correctIndex": 1,
-      "explanation": "Lùi thì: is going to => was going to."
+      "explanation": "Lùi thì: 'is going to' → 'was going to'."
     },
     {
       "id": 20,
@@ -264,7 +264,7 @@
         "D. will getting / the day after"
       ],
       "correctIndex": 2,
-      "explanation": "Lùi thì: are getting => were getting. 'tomorrow' => 'the next day'."
+      "explanation": "Lùi thì: 'are getting' → 'were getting'. 'tomorrow' → 'the next day'."
     },
     {
       "id": 21,

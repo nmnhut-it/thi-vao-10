@@ -17,7 +17,7 @@
         "D. is belonging"
       ],
       "correctIndex": 0,
-      "explanation": "'All the books' is plural, so use plural verb 'belong'."
+      "explanation": "'All the books' là danh từ số nhiều → động từ số nhiều 'belong'. 'belongs' số ít, 'being' và 'is belonging' sai ngữ pháp."
     },
     {
       "id": 2,
@@ -30,7 +30,7 @@
         "D. fit not"
       ],
       "correctIndex": 0,
-      "explanation": "'Trousers' is always plural, so use 'don't fit'."
+      "explanation": "'Trousers' (quần) luôn số nhiều trong tiếng Anh → động từ số nhiều 'don't fit'. 'doesn't fit' số ít, 'fit not' sai cấu trúc."
     },
     {
       "id": 3,
@@ -43,7 +43,7 @@
         "D. were"
       ],
       "correctIndex": 2,
-      "explanation": "'Mumps' (a disease) looks plural but takes a singular verb."
+      "explanation": "'Mumps' (bệnh quai bị) có dạng số nhiều nhưng là danh từ không đếm được → động từ số ít 'is caught'. 'are' và 'were' sai."
     },
     {
       "id": 4,
@@ -56,7 +56,7 @@
         "D. lie"
       ],
       "correctIndex": 1,
-      "explanation": "'The United States' is a country name - takes singular verb 'lies'."
+      "explanation": "'The United States' là tên nước (số ít) → động từ số ít 'lies' (nằm). 'lying' V-ing, 'lain' quá khứ phân từ, 'lie' số nhiều."
     },
     {
       "id": 5,
@@ -69,7 +69,7 @@
         "D. helped"
       ],
       "correctIndex": 0,
-      "explanation": "'Physics' (a subject) takes a singular verb: 'helps'."
+      "explanation": "'Physics' (môn vật lý) có dạng số nhiều nhưng là danh từ không đếm được → động từ số ít 'helps'. 'help' số nhiều, 'have helped'/'helped' sai ngữ cảnh."
     },
     {
       "id": 6,
@@ -82,7 +82,7 @@
         "D. was arresting"
       ],
       "correctIndex": 2,
-      "explanation": "'The police' is always plural, so use 'have arrested'."
+      "explanation": "'The police' là danh từ số nhiều → động từ số nhiều 'have arrested'. 'was arresting' tiếp diễn, 'were arrested' sai nghĩa (cảnh sát bị bắt)."
     },
     {
       "id": 7,
@@ -95,7 +95,7 @@
         "D. is"
       ],
       "correctIndex": 3,
-      "explanation": "'Either...or' - verb agrees with the nearest subject 'he' (singular) -> 'is'."
+      "explanation": "'Either...or' — động từ hòa hợp với danh từ gần nhất 'he' (số ít) → 'is wrong'. 'are'/'were'/'have been' sai."
     },
     {
       "id": 8,
@@ -108,7 +108,7 @@
         "D. are being"
       ],
       "correctIndex": 1,
-      "explanation": "'With the nurses' is an addition, not a conjunction. The main subject is 'the doctor' (singular)."
+      "explanation": "'With' không thay đổi chủ ngữ. Chủ ngữ chính là 'the doctor' (số ít) → 'was exhausted'. 'were' sai vì 'with the nurses' chỉ bổ sung."
     },
     {
       "id": 9,
@@ -121,7 +121,7 @@
         "D. have"
       ],
       "correctIndex": 2,
-      "explanation": "'The work' is uncountable, so 'ninety percent of the work' takes singular: 'has'."
+      "explanation": "'The work' (công việc) không đếm được → 'ninety percent of the work' số ít → động từ số ít 'has been done'. 'are'/'have' sai."
     },
     {
       "id": 10,
@@ -134,7 +134,7 @@
         "D. are wanting"
       ],
       "correctIndex": 0,
-      "explanation": "'Those who' is plural, so use 'want'."
+      "explanation": "'Those who' là chủ ngữ số nhiều → động từ số nhiều 'want'. 'wants' số ít, 'wanting' V-ing, 'are wanting' sai ngữ pháp."
     },
     {
       "id": 11,
@@ -147,7 +147,7 @@
         "D. were used"
       ],
       "correctIndex": 0,
-      "explanation": "'Salt and water' as a mixture/combination is treated as singular: 'is used'."
+      "explanation": "'Salt and water' dùng như một hỗn hợp duy nhất → động từ số ít 'is used'. 'are used'/'were used' số nhiều, sai."
     },
     {
       "id": 12,
@@ -160,7 +160,7 @@
         "D. has been"
       ],
       "correctIndex": 1,
-      "explanation": "'The news' is always singular. 'Last night' requires past tense: 'was'."
+      "explanation": "'The news' luôn số ít → động từ số ít. 'Last night' (quá khứ) → 'was bad'. 'were'/'has'/'has been' sai."
     },
     {
       "id": 13,
@@ -173,7 +173,7 @@
         "D. have been trained"
       ],
       "correctIndex": 3,
-      "explanation": "'The police' is plural, so use 'have been trained'."
+      "explanation": "'The police' số nhiều → động từ số nhiều. 'Three-fifths of the police' = phân số chỉ nhóm số nhiều → 'have been trained'. 'has' sai."
     },
     {
       "id": 14,
@@ -186,7 +186,7 @@
         "D. Was"
       ],
       "correctIndex": 1,
-      "explanation": "'Not only...but also' - verb agrees with the nearest subject 'he' (singular) -> 'Is'."
+      "explanation": "'Not only...but also' — động từ hòa hợp với danh từ gần nhất 'he' (số ít) → 'Is...going'. 'Are'/'Were'/'Was' sai."
     },
     {
       "id": 15,
@@ -199,7 +199,7 @@
         "D. have been"
       ],
       "correctIndex": 0,
-      "explanation": "Distances are treated as singular: 'Five miles is not very far'."
+      "explanation": "Khoảng cách (five miles) được coi là đơn vị đo lường số ít → động từ số ít 'is not very far'. 'are'/'were'/'have been' sai."
     },
     {
       "id": 16,
@@ -212,7 +212,7 @@
         "D. are"
       ],
       "correctIndex": 2,
-      "explanation": "'Neither...nor' - verb agrees with the nearest subject 'his teacher' (singular) -> 'is'."
+      "explanation": "'Neither...nor' — động từ hòa hợp với danh từ gần nhất 'his teacher' (số ít) → 'is satisfied'. 'are being'/'were'/'are' sai."
     },
     {
       "id": 17,
@@ -225,7 +225,7 @@
         "D. are making"
       ],
       "correctIndex": 0,
-      "explanation": "A gerund phrase as subject is singular: 'Writing... makes'."
+      "explanation": "Cụm V-ing làm chủ ngữ → coi như danh từ số ít → động từ số ít 'makes her tired'. 'make'/'have made'/'are making' sai."
     },
     {
       "id": 18,
@@ -238,7 +238,7 @@
         "D. Are"
       ],
       "correctIndex": 2,
-      "explanation": "'Everybody' is an indefinite pronoun - takes singular verb 'Is'."
+      "explanation": "'Everybody' là đại từ bất định số ít → động từ số ít 'Is'. 'Are being'/'Is being'/'Are' sai ngữ pháp."
     },
     {
       "id": 19,
@@ -251,7 +251,7 @@
         "D. are"
       ],
       "correctIndex": 1,
-      "explanation": "'Butter' is uncountable, so 'none of the butter' takes singular: 'is'."
+      "explanation": "'Butter' không đếm được → 'none of the butter' số ít → động từ số ít 'is good'. 'is being'/'have been'/'are' sai."
     },
     {
       "id": 20,
@@ -264,7 +264,7 @@
         "D. or"
       ],
       "correctIndex": 2,
-      "explanation": "'Is going' is singular, so the linking word must keep the singular subject. 'As well as' means verb follows the first subject."
+      "explanation": "Động từ 'is going' số ít → liên từ phải giữ chủ ngữ số ít. 'As well as' không đổi số như 'and'. 'and'/'both' đổi thành số nhiều, 'or' sai logic."
     },
     {
       "id": 21,
@@ -273,7 +273,7 @@
       "errorWord": "hundreds",
       "correction": "hundred",
       "correctSentence": "One hundred eight thousand miles is the speed of light.",
-      "explanation": "Numbers used as modifiers don't take plural 's': 'one hundred', not 'one hundreds'."
+      "explanation": "Số dùng làm tính từ (xác định danh từ) không thêm 's': 'one hundred' (một trăm), không phải 'one hundreds'."
     },
     {
       "id": 22,
@@ -282,7 +282,7 @@
       "errorWord": "were",
       "correction": "was",
       "correctSentence": "The guest of honor, along with his wife and children, was sitting at the first table when we had a party yesterday.",
-      "explanation": "'Along with' doesn't change the subject. Main subject is 'the guest of honor' (singular) -> 'was'."
+      "explanation": "'Along with' không thay đổi chủ ngữ. Chủ ngữ chính là 'the guest of honor' (số ít) → 'was sitting'. 'were' sai."
     },
     {
       "id": 23,
@@ -291,7 +291,7 @@
       "errorWord": "was",
       "correction": "were",
       "correctSentence": "The audience were enjoying every minute of the performance.",
-      "explanation": "When 'audience' refers to individual members acting separately, use plural verb."
+      "explanation": "Khi 'the audience' chỉ các cá nhân hành động riêng lẻ → động từ số nhiều 'were enjoying'. 'was' sai."
     },
     {
       "id": 24,
@@ -300,7 +300,7 @@
       "errorWord": "belongs",
       "correction": "belong",
       "correctSentence": "All the books on the top shelf belong to me.",
-      "explanation": "'All the books' is plural, so use 'belong' not 'belongs'."
+      "explanation": "'All the books' là danh từ số nhiều → động từ số nhiều 'belong', không phải 'belongs'."
     },
     {
       "id": 25,
@@ -309,7 +309,7 @@
       "errorWord": "were",
       "correction": "was",
       "correctSentence": "Five thousand pounds was stolen from the bank.",
-      "explanation": "An amount of money is treated as singular: 'Five thousand pounds was stolen'."
+      "explanation": "Lượng tiền được coi là đơn vị đo lường số ít → động từ số ít 'was stolen'. 'were' sai."
     },
     {
       "id": 26,
@@ -318,7 +318,7 @@
       "errorWord": "are",
       "correction": "was",
       "correctSentence": "Neither his parents nor his teacher was satisfied with his result when he was at high school.",
-      "explanation": "'Neither...nor' - verb agrees with the nearest subject 'teacher' (singular), and past context requires 'was'."
+      "explanation": "'Neither...nor' — động từ hòa hợp với danh từ gần nhất 'teacher' (số ít). Ngữ cảnh quá khứ (when he was at high school) → 'was satisfied'. 'are' sai."
     },
     {
       "id": 27,
@@ -327,7 +327,7 @@
       "errorWord": "provide",
       "correction": "provides",
       "correctSentence": "Working provides people with personal satisfaction as well as money.",
-      "explanation": "Gerund as subject is singular: 'Working provides'."
+      "explanation": "V-ing làm chủ ngữ → coi như danh từ số ít → động từ số ít 'provides'. 'provide' số nhiều."
     },
     {
       "id": 28,
@@ -336,7 +336,7 @@
       "errorWord": "takes",
       "correction": "take",
       "correctSentence": "Either the doctor or the nurses take care of changing the patients' bandages.",
-      "explanation": "'Either...or' - verb agrees with the nearest subject 'the nurses' (plural) -> 'take'."
+      "explanation": "'Either...or' — động từ hòa hợp với danh từ gần nhất 'the nurses' (số nhiều) → 'take care'. 'takes' sai vì 'nurses' là số nhiều."
     },
     {
       "id": 29,
@@ -345,7 +345,7 @@
       "errorWord": "are",
       "correction": "is",
       "correctSentence": "Every student who majors in English is ready to participate in the contest.",
-      "explanation": "'Every student' is singular -> 'is'."
+      "explanation": "'Every student' là chủ ngữ số ít → động từ số ít 'is ready'. 'are' sai."
     },
     {
       "id": 30,
@@ -354,7 +354,7 @@
       "errorWord": "has",
       "correction": "have",
       "correctSentence": "A number of students have failed the exam this semester.",
-      "explanation": "'A number of + plural noun' takes a plural verb: 'have failed'. Don't confuse with 'the number of' which is singular."
+      "explanation": "'A number of + danh từ số nhiều' → động từ số nhiều 'have failed'. Chú ý khác với 'The number of' (số ít) — 'a number of' nhấn mạnh số lượng lớn."
     }
   ]
 }

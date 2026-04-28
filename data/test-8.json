@@ -17,7 +17,7 @@
         "D. sp<u>ea</u>k"
       ],
       "correctIndex": 0,
-      "explanation": "'hear' has /ɪə/ sound, while B, C, D have /iː/ sound."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? | A — /ɪə/ ≠ /iː/ | B: dream — /iː/ | C: leave — /iː/ | D: speak — /iː/"
     },
     {
       "id": 2,
@@ -31,7 +31,7 @@
         "D. fl<u>i</u>ght"
       ],
       "correctIndex": 2,
-      "explanation": "'evidence' has /ɪ/ sound, while A, B, D have /aɪ/ sound."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? | C — /ɪ/ ≠ /aɪ/ | A: tide — /aɪ/ | B: sight — /aɪ/ | D: flight — /aɪ/"
     },
     {
       "id": 3,
@@ -45,7 +45,7 @@
         "D. educa<u>tion</u>"
       ],
       "correctIndex": 1,
-      "explanation": "'question' has /tʃ/ sound for 'tion', while A, C, D have /ʃ/ sound."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? | B — /tʃ/ ≠ /ʃ/ | A: mention — /ʃ/ | C: action — /ʃ/ | D: education — /ʃ/"
     },
     {
       "id": 4,
@@ -59,7 +59,7 @@
         "D. buse<u>s</u>"
       ],
       "correctIndex": 2,
-      "explanation": "'gemstones' ends with /z/, while A, B, D end with /ɪz/."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? | C — /z/ ≠ /ɪz/ | A: traces — /ɪz/ | B: houses — /ɪz/ | D: buses — /ɪz/"
     },
     {
       "id": 5,
@@ -73,7 +73,7 @@
         "D. wash<u>ed</u>"
       ],
       "correctIndex": 0,
-      "explanation": "'saved' ends with /d/ sound, while B, C, D end with /t/ sound."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? | A — /d/ ≠ /t/ | B: helped — /t/ | C: looked — /t/ | D: washed — /t/"
     },
     {
       "id": 6,
@@ -87,7 +87,7 @@
         "D. isn't he"
       ],
       "correctIndex": 2,
-      "explanation": "'works' (present simple) -> tag 'doesn't he?'"
+      "explanation": "Anh trai bạn làm việc cho công ty nước ngoài, phải không? | C — Tag question | A: didn't he — động từ quá khứ | B: hasn't he — hiện tại hoàn thành | D: isn't he — to be"
     },
     {
       "id": 7,
@@ -101,7 +101,7 @@
         "D. no article"
       ],
       "correctIndex": 1,
-      "explanation": "'an important subject' - 'important' starts with vowel sound /ɪ/."
+      "explanation": "Bạn có nghĩ Tiếng Anh là môn quan trọng không? | B — Mạo từ 'an' | A: a — trước phụ âm | C: the — mạo từ xác định | D: no article — không phù hợp vì 'important' bắt đầu bằng nguyên âm /ɪ/"
     },
     {
       "id": 8,
@@ -115,7 +115,7 @@
         "D. on"
       ],
       "correctIndex": 3,
-      "explanation": "'on' + specific date (June 8th)."
+      "explanation": "Bạn sẽ thi vào ngày 8 tháng 6. | D — Giới từ 'on' + ngày cụ thể | A: from — từ (thời gian) | B: at — giờ/địa điểm | C: in — tháng/năm"
     },
     {
       "id": 9,
@@ -129,7 +129,7 @@
         "D. to asking"
       ],
       "correctIndex": 2,
-      "explanation": "'hate + V-ing' for general feelings. 'asking' is more natural here."
+      "explanation": "Cô ấy ghét xin tiền bố mẹ. | C — -ing sau 'hate' | A: to ask — chỉ hành động cụ thể tương lai | B: asked — phân từ 2 | D: to asking — sai cấu trúc"
     },
     {
       "id": 10,
@@ -143,7 +143,7 @@
         "D. was walking"
       ],
       "correctIndex": 0,
-      "explanation": "Past continuous 'were walking' for ongoing action interrupted by 'started to rain'."
+      "explanation": "Khi trời bắt đầu mưa hôm qua, chúng tôi đang đi bộ về nhà từ trường. | A — Quá khứ tiếp diễn | B: went — quá khứ đơn (không mô tả hành động đang xảy ra) | C: are walking — hiện tại tiếp diễn | D: was walking — chủ ngữ số ít (we là số nhiều)"
     },
     {
       "id": 11,
@@ -157,7 +157,7 @@
         "D. hasn't phoned"
       ],
       "correctIndex": 3,
-      "explanation": "'since' requires present perfect: 'hasn't phoned'."
+      "explanation": "Anh ấy chưa gọi cho tôi từ khi chuyển đến Dubai. | D — Hiện tại hoàn thành với 'since' | A: didn't phoned — sai cấu trúc | B: won't phoned — tương lai đơn | C: doesn't phoned — thiếu động từ nguyên mẫu"
     },
     {
       "id": 12,
@@ -171,7 +171,7 @@
         "D. had risen"
       ],
       "correctIndex": 2,
-      "explanation": "Conditional type 1: If + present simple ('rises'), will + V."
+      "explanation": "Nếu mực nước biển dâng lên, một số quốc gia sẽ biến mất. | C — Điều kiện loại 1 | A: rose — quá khứ đơn | B: rise — nguyên mẫu | D: had risen — quá khứ hoàn thành"
     },
     {
       "id": 13,
@@ -185,7 +185,7 @@
         "D. surprisingly"
       ],
       "correctIndex": 1,
-      "explanation": "'surprising result' - V-ing adjective describes the result (it surprises people)."
+      "explanation": "Tom rất lười nhưng đạt điểm cao nhất trong kỳ thi. Tôi nghĩ đó là kết quả đáng ngạc nhiên. | B — Tính từ -ing | A: surprise — danh từ | C: surprised — tính từ bị động (dùng cho người) | D: surprisingly — trạng từ"
     },
     {
       "id": 14,
@@ -199,7 +199,7 @@
         "D. so"
       ],
       "correctIndex": 2,
-      "explanation": "'although' shows contrast: studies hard BUT rarely gets good marks."
+      "explanation": "Mai hiếm khi đạt điểm tốt dù cô ấy học rất chăm. | C — Liên từ nhượng bộ 'although' | A: and — và | B: because — vì (không tạo tương phản) | D: so — nên (không tạo tương phản)"
     },
     {
       "id": 15,
@@ -213,7 +213,7 @@
         "D. However"
       ],
       "correctIndex": 3,
-      "explanation": "'However' introduces contrast between wanting to go and having to study."
+      "explanation": "Tôi muốn đi xem xiếc. Tuy nhiên, tôi phải hoàn thành bài tập về nhà. | D — Từ nối tương phản | A: Therefore — do đó (dùng nối câu) | B: So — nên | C: Because — vì"
     },
     {
       "id": 16,
@@ -227,7 +227,7 @@
         "D. is"
       ],
       "correctIndex": 1,
-      "explanation": "Wish + past subjunctive 'were' for present unreal wishes."
+      "explanation": "Cô ấy rất thấp. Cô ấy ước mình cao hơn 10 cm. | B — Wish + quá khứ phục vụ | A: would be — would + be | C: will be — tương lai đơn | D: is — hiện tại đơn (không dùng với wish)"
     },
     {
       "id": 17,
@@ -241,7 +241,7 @@
         "D. might"
       ],
       "correctIndex": 3,
-      "explanation": "Modal verb for possibility (Grammar Rule): 'might' = perhaps, expressing uncertain possibility. 'I guess it might be' shows the speaker is unsure. 'must' would mean certainty ('I'm sure it is'), 'can' means general ability/possibility, 'ought' needs 'to'. Since 'I don't know' signals uncertainty, 'might' is correct."
+      "explanation": "Tôi không biết trong hộp có gì. Tôi đoán nó _____ là một cục tẩy. | D — Động từ khiếm khuyết 'might' (có thể) | A: ought — cần 'to' theo sau | B: can — khả năng chung | C: must — chắc chắn (không phù hợp vì 'I don't know' thể hiện sự không chắc chắn)"
     },
     {
       "id": 18,
@@ -255,7 +255,7 @@
         "D. is published"
       ],
       "correctIndex": 3,
-      "explanation": "Passive present simple: 'is published' (the newspaper is published by someone)."
+      "explanation": "Tờ báo này được xuất bản mỗi ngày. | D — Bị động hiện tại đơn | A: is publishing — chủ động tiếp diễn | B: publishes — chủ động đơn | C: published — quá khứ/không xác định"
     },
     {
       "id": 19,
@@ -269,7 +269,7 @@
         "D. turn on"
       ],
       "correctIndex": 0,
-      "explanation": "'give up' = stop/quit. You should quit smoking due to cough."
+      "explanation": "Bạn bị ho nặng, bạn nên bỏ thuốc lá. | A — Cụm động từ 'give up' (bỏ) | B: go on — tiếp tục | C: put off — trì hoãn | D: turn on — bật"
     },
     {
       "id": 20,
@@ -283,7 +283,7 @@
         "D. take"
       ],
       "correctIndex": 2,
-      "explanation": "'Would you like + to-infinitive?' is an invitation."
+      "explanation": "Bạn có muốn tham gia chương trình từ thiện mùa hè này không? | C — Would you like + động từ có to | A: took — quá khứ | B: taking — -ing | D: take — nguyên mẫu"
     },
     {
       "id": 21,
@@ -297,7 +297,7 @@
         "D. much interesting"
       ],
       "correctIndex": 1,
-      "explanation": "'more interesting than' - comparative of long adjective."
+      "explanation": "Sách trinh thám thú vị hơn sách khoa học viễn tưởng. | B — So sánh hơn | A: as interesting — bằng nhau | C: most interesting — nhất | D: much interesting — sai cấu trúc"
     },
     {
       "id": 22,
@@ -311,7 +311,7 @@
         "D. wonderfully"
       ],
       "correctIndex": 2,
-      "explanation": "'wonderful' (adjective) modifies the noun 'invention'."
+      "explanation": "Đối với tôi, Internet là một phát minh tuyệt vời của cuộc sống hiện đại. | C — Tính từ 'wonderful' bổ nghĩa danh từ | A: wonder — danh từ | B: wondering — động từ hiện tại | D: wonderfully — trạng từ"
     },
     {
       "id": 23,
@@ -325,7 +325,7 @@
         "D. do"
       ],
       "correctIndex": 2,
-      "explanation": "'take a rest' is the correct collocation."
+      "explanation": "Tôi nghĩ bạn nên nghỉ ngơi một chút sau khi học lâu như vậy. | C — Collocation 'take a rest' (nghỉ ngơi) | A: give — cho | B: receive — nhận | D: do — làm"
     },
     {
       "id": 24,
@@ -339,7 +339,7 @@
         "D. solar energy"
       ],
       "correctIndex": 0,
-      "explanation": "Showers use less water than baths."
+      "explanation": "Tôi đề nghị tắm vòi hoa thay vì tắm bồn để tiết kiệm nước. | A — Từ vựng: tắm vòi hoa ít nước hơn tắm bồn | B: electricity — điện | C: gas — ga | D: solar energy — năng lượng mặt trời"
     },
     {
       "id": 25,
@@ -353,7 +353,7 @@
         "D. replace"
       ],
       "correctIndex": 3,
-      "explanation": "'replace A with B' = substitute one for another."
+      "explanation": "Bạn nên thay bóng đèn 100W thường bằng bóng đèn tiết kiệm điện. | D — 'replace A with B' (thay thế A bằng B) | A: consume — tiêu thụ | B: select — chọn | C: change — thay đổi (thường dùng 'change to')"
     },
     {
       "id": 26,
@@ -367,7 +367,7 @@
         "D. who"
       ],
       "correctIndex": 3,
-      "explanation": "'who' for people as subject of relative clause."
+      "explanation": "Cô gái ngồi cạnh tôi trong lớp nói tiếng Anh rất giỏi. | D — Đại từ quan hệ 'who' cho người làm chủ ngữ | A: whom — cho người làm túc từ | B: which — cho vật | C: whose — sở hữu"
     },
     {
       "id": 27,
@@ -381,7 +381,7 @@
         "D. put on"
       ],
       "correctIndex": 1,
-      "explanation": "'occur' = 'take place' (happen)."
+      "explanation": "Hầu hết các trận động đất xảy ra quanh vành đai Thái Bình Dương, được gọi là 'Vành đai Lửa'. | B — 'occur' = 'take place' (xảy ra) | A: carry out — thực hiện | C: go off — nổ (bom) | D: put on — mặc"
     },
     {
       "id": 28,
@@ -395,7 +395,7 @@
         "D. harm"
       ],
       "correctIndex": 0,
-      "explanation": "'benefits' = 'advantages' (positive effects)."
+      "explanation": "Không ai có thể phủ nhận lợi ích của Internet trong cuộc sống của chúng ta. | A — 'benefits' = 'advantages' (lợi ích) | B: profits — lợi nhuận | C: disadvantages — bất lợi | D: harm — hại"
     },
     {
       "id": 29,
@@ -409,7 +409,7 @@
         "D. remembered"
       ],
       "correctIndex": 3,
-      "explanation": "'forgot' is the opposite of 'remembered'."
+      "explanation": "Hoa quên nộp bài tập cho giáo viên. | D — 'forgot' (quên) trái nghĩa với 'remembered' (nhớ) | A: hoped — hy vọng | B: expected — mong đợi | C: promised — hứa"
     },
     {
       "id": 30,
@@ -423,7 +423,7 @@
         "D. healthy"
       ],
       "correctIndex": 2,
-      "explanation": "'strong' (durable) is the opposite of 'weak'."
+      "explanation": "Công nhân thích mặc quần jeans vì chất liệu rất bền. | C — 'strong' (bền) trái nghĩa với 'weak' (yếu) | A: long — dài | B: beautiful — đẹp | D: healthy — khỏe mạnh"
     },
     {
       "id": 31,
@@ -437,7 +437,7 @@
         "D. Great! Let's do that."
       ],
       "correctIndex": 3,
-      "explanation": "'Great! Let's do that.' enthusiastically agrees with the suggestion."
+      "explanation": "Jack: 'Trồng thêm cây ở sân trường thế nào?' Bill: 'Tuyệt vời! Hãy làm đi!' | D — Đồng ý nhiệt tình với đề xuất | A: I'm afraid you're right — e là bạn đúng | B: I'm sorry. It's a good idea. — không tự nhiên | C: Sorry. That sounds good. — không phù hợp ngữ cảnh"
     },
     {
       "id": 32,
@@ -451,7 +451,7 @@
         "D. How come?"
       ],
       "correctIndex": 0,
-      "explanation": "Responding to a compliment: 'It's very nice of you to say so.'"
+      "explanation": "Lan: 'Bạn có chiếc váy đẹp quá!' Hoa: 'Cảm ơn bạn đã nói vậy.' | A — Phản hồi lời khen | B: It's my pleasure — dùng khi giúp đỡ người khác | C: That's a good idea. — không phản hồi lời khen | D: How come? — sao (không phù hợp)"
     },
     {
       "id": 33,
@@ -468,7 +468,7 @@
             "D. The importance of forests"
           ],
           "correctIndex": 3,
-          "explanation": "The passage discusses why forests are important in many ways."
+          "explanation": "Đoạn văn nói về tầm quan trọng của rừng với con người. | D — Chủ đề: Tầm quan trọng của rừng | A: Rừng lớn — chỉ một phần | B: Rừng mới — không đúng | C: Nghỉ phép — không đúng"
         },
         {
           "id": "34a",
@@ -480,7 +480,7 @@
             "D. The leaves on the trees in a forest"
           ],
           "correctIndex": 0,
-          "explanation": "'Dirty air is a problem in many parts of the world.'"
+          "explanation": "Đoạn văn: 'Dirty air is a problem in many parts of the world.' | A — Không khí bẩn là vấn đề | B: Không khí sạch — ngược nghĩa | C: Rừng của chúng ta — không phải vấn đề | D: Lá cây — không phải vấn đề"
         },
         {
           "id": "35a",
@@ -492,7 +492,7 @@
             "D. City people"
           ],
           "correctIndex": 2,
-          "explanation": "'The leaves on the trees in a forest help clean the air.'"
+          "explanation": "Đoạn văn: 'The leaves on the trees in a forest help clean the air.' | C — Lá cây giúp làm sạch không khí | A: Động vật — không đề cập | B: Ô nhiễm — gây ô nhiễm | D: Người thành phố — không đúng"
         },
         {
           "id": "36a",
@@ -504,7 +504,7 @@
             "D. new forests"
           ],
           "correctIndex": 2,
-          "explanation": "'They' refers to 'People' who should plant more trees."
+          "explanation": "Câu cuối: 'People should plant more new trees. They also help improve our environment.' | C — 'They' chỉ 'People' | A: protecting — danh động từ | B: animals — không đề cập | D: new forests — không phù hợp nghĩa"
         },
         {
           "id": "37a",
@@ -516,7 +516,7 @@
             "D. Forests are places to go for a vacation."
           ],
           "correctIndex": 2,
-          "explanation": "The passage says forests ARE important for everyone, so C is false."
+          "explanation": "Đoạn văn khẳng định rừng quan trọng với mọi người. | C — Sai vì đoạn văn nói rừng quan trọng với 'everyone' | A: Đúng — 'give us wood for building' | B: Đúng — 'homes for many kinds of plants and animals' | D: Đúng — 'forests are places to go for a vacation'"
         }
       ]
     },
@@ -535,7 +535,7 @@
             "D. natural"
           ],
           "correctIndex": 3,
-          "explanation": "'natural disasters' - adjective + noun."
+          "explanation": "Thiên ___ gần đây. | D — Tính từ 'natural' + danh từ 'disasters' | A: national — quốc gia | B: nature — thiên nhiên (danh từ) | C: nation — quốc gia (danh từ)"
         },
         {
           "id": "39a",
@@ -547,7 +547,7 @@
             "D. because"
           ],
           "correctIndex": 1,
-          "explanation": "'wind, rain and sun' - listing with 'and' before the last item."
+          "explanation": "gió, mưa ___ mặt trời. | B — Liệt kê: 'wind, rain and sun' | A: or — hoặc | C: but — nhưng | D: because — vì"
         },
         {
           "id": "40a",
@@ -559,7 +559,7 @@
             "D. According"
           ],
           "correctIndex": 3,
-          "explanation": "'According to them' = in their opinion."
+          "explanation": "___ các nhà khoa học, sự ấm lên toàn cầu đang làm cho thời tiết cực đoan trở nên nghiêm trọng hơn. | D — 'According to them' (theo họ) | A: Depending — phụ thuộc | B: Concerning — liên quan đến | C: Following — theo sau"
         },
         {
           "id": "41a",
@@ -571,7 +571,7 @@
             "D. where"
           ],
           "correctIndex": 0,
-          "explanation": "'which' refers to 'carbon dioxide' (thing) as subject of relative clause."
+          "explanation": "khí carbon dioxide ___ được thả ra bởi các nhà máy. | A — Đại từ quan hệ 'which' thay thế 'carbon dioxide' làm chủ ngữ | B: who — cho người | C: whose — sở hữu | D: where — nơi chốn"
         },
         {
           "id": "42a",
@@ -583,7 +583,7 @@
             "D. in"
           ],
           "correctIndex": 0,
-          "explanation": "'spent on research' - money spent on something."
+          "explanation": "tiền được chi ___ nghiên cứu. | A — 'spent on research' (chi cho nghiên cứu) | B: at — tại | C: for — cho | D: in — trong"
         }
       ]
     },
@@ -599,7 +599,7 @@
         "D. <u>subject</u>"
       ],
       "correctIndex": 1,
-      "explanation": "'maths' (subject name) is treated as singular: 'is' not 'are'."
+      "explanation": "Câu có lỗi | Lỗi: are → is — Danh từ 'maths' (môn học) được xử lý như số ít | B — 'Maths' là tên môn học, dùng 'is' thay vì 'are'"
     },
     {
       "id": 44,
@@ -613,7 +613,7 @@
         "D. <u>in the morning</u>"
       ],
       "correctIndex": 2,
-      "explanation": "Adverb of frequency goes before the main verb: 'usually walks' not 'walks usually'."
+      "explanation": "Câu có lỗi | Lỗi: walks usually → usually walks — Trạng từ tần suất đứng trước động từ chính | C — Trạng từ tần suất 'usually' phải đứng trước động từ chính 'walks'"
     },
     {
       "id": 45,
@@ -627,7 +627,7 @@
         "D. <u>favorite sports</u>"
       ],
       "correctIndex": 1,
-      "explanation": "Parallel structure: 'Playing, swimming and doing' - all V-ing forms."
+      "explanation": "Câu có lỗi | Lỗi: do karate → doing karate — Cấu trúc song song (-ing) | B — Phải là 'doing karate' để song song với 'Playing' và 'swimming'"
     },
     {
       "id": 46,
@@ -641,7 +641,7 @@
         "D. A pagoda has been building in our neighborhood at the moment."
       ],
       "correctIndex": 1,
-      "explanation": "Present continuous passive: is/are + being + past participle."
+      "explanation": "Họ đang xây một ngôi chùa trong khu phố lúc này. | B — Bị động hiện tại tiếp diễn: is being built | A: is built — bị động thường | C: was being built — quá khứ tiếp diễn bị động | D: has been building — sai cấu trúc"
     },
     {
       "id": 47,
@@ -655,7 +655,7 @@
         "D. Mrs. Ha advised me to buy some canned food before a typhoon."
       ],
       "correctIndex": 3,
-      "explanation": "'had better' = advice. Reported: 'advised + object + to-infinitive'."
+      "explanation": "'Bạn nên mua một số thực phẩm đóng hộp trước bão.' Bà Ha nói với tôi. | D — 'had better' = lời khuyên → 'advised me to buy' | A: wanted — muốn (không phải lời khuyên) | B: asked — hỏi | C: told not to buy — ngược nghĩa"
     },
     {
       "id": 48,
@@ -669,7 +669,7 @@
         "D. I have just bought a smart phone who was produced in Viet Nam."
       ],
       "correctIndex": 0,
-      "explanation": "'which' for things as subject of relative clause."
+      "explanation": "Tôi vừa mua điện thoại thông minh. Nó được sản xuất tại Việt Nam. | A — Mệnh đề quan hệ 'which' cho vật làm chủ ngữ | B: where — sai (dùng cho nơi chốn) | C: whose — sai (dùng cho sở hữu) | D: who — sai (dùng cho người)"
     },
     {
       "id": 49,
@@ -683,7 +683,7 @@
         "D. If he had enough experience, he couldn't do that work."
       ],
       "correctIndex": 2,
-      "explanation": "Conditional type 2 for unreal present: If + had, could + do."
+      "explanation": "Anh ấy không có đủ kinh nghiệm. Anh ấy không thể làm công việc đó. | C — Điều kiện loại 2 (giả định không thực): If + quá khứ, could + nguyên mẫu | A: If he has — điều kiện thực tế | B: If he didn't have, he could — ngược nghĩa | D: If he had, he couldn't — ngược nghĩa"
     },
     {
       "id": 50,
@@ -697,7 +697,7 @@
         "D. However we felt cold, the football match still took place."
       ],
       "correctIndex": 1,
-      "explanation": "'In spite of' + noun phrase ('the heavy snow') shows contrast."
+      "explanation": "Tuyết rơi nặng. Trận đấu bóng đá vẫn diễn ra. | B — 'In spite of' + cụm danh từ thể hiện sự tương phản | A: Although + but — thừa 'but' | C: Despite + clause — cần 'Despite the fact that' | D: However + clause — cần dấu phẩy sau 'However'"
     },
     {
       "id": 51,
@@ -710,7 +710,7 @@
         "A pagoda is being built in our neighborhood at the moment.",
         "A pagoda is being built in our neighborhood at the moment"
       ],
-      "explanation": "Chuyển hiện tại tiếp diễn sang bị động. 'are building a pagoda' → 'is being built'."
+      "explanation": "Họ đang xây một ngôi chùa trong khu phố lúc này. | Viết lại thành bị động. | Đáp án — Bị động hiện tại tiếp diễn: is being built | Giải thích: Chuyển hiện tại tiếp diễn chủ động sang bị động: 'are building' → 'is being built'"
     },
     {
       "id": 52,
@@ -723,7 +723,7 @@
         "Mrs. Ha advised me to buy some canned food before a typhoon.",
         "Mrs. Ha advised me to buy some canned food before a typhoon"
       ],
-      "explanation": "Chuyển câu khuyên trực tiếp sang gián tiếp. 'had better buy' → 'advised me to buy'."
+      "explanation": "'Bạn nên mua thực phẩm đóng hộp trước bão,' bà Ha nói với tôi. | Viết lại bắt đầu với 'Mrs. Ha advised'. | Đáp án — Cấu trúc advised + object + động từ có to | Giải thích: Chuyển câu khuyên trực tiếp sang gián tiếp: 'had better buy' → 'advised me to buy'"
     },
     {
       "id": 53,
@@ -737,7 +737,7 @@
         "I have just bought a smart phone which was produced in Viet Nam",
         "I have just bought a smart phone that was produced in Viet Nam."
       ],
-      "explanation": "Use 'which/that' relative clause for things."
+      "explanation": "Tôi vừa mua điện thoại thông minh. Nó được sản xuất tại Việt Nam. | Kết hợp bằng mệnh đề quan hệ với 'which/that'. | Đáp án — 'which/that' + mệnh đề quan hệ cho vật | Giải thích: Dùng đại từ quan hệ 'which/that' để nối hai câu, 'it' trở thành mệnh đề quan hệ"
     },
     {
       "id": 54,
@@ -751,7 +751,7 @@
         "If he had enough experience, he could do that work",
         "If he had enough experience, he would be able to do that work."
       ],
-      "explanation": "Second conditional: If + past simple, could/would + infinitive."
+      "explanation": "Anh ấy không có đủ kinh nghiệm. Anh ấy không thể làm công việc đó. | Kết hợp bằng 'If'. | Đáp án — Cấu trúc điều kiện loại 2: If + quá khứ, could + nguyên mẫu | Giải thích: Điều kiện loại 2 cho giả định không thực tế ở hiện tại"
     },
     {
       "id": 55,
@@ -765,7 +765,7 @@
         "Although it snowed heavily, the football match still took place",
         "Despite the heavy snow, the football match still took place."
       ],
-      "explanation": "Although + clause for concession; 'Despite + noun' is an alternative."
+      "explanation": "Tuyết rơi nặng. Trận đấu bóng đá vẫn diễn ra. | Kết hợp bằng 'Although' hoặc 'Despite'. | Đáp án — Although + mệnh đề HOẶC In spite of + cụm danh từ | Giải thích: 'Although' + mệnh đề hoặc 'Despite/In spite of' + cụm danh từ đều thể hiện sự tương phản"
     }
   ]
 }

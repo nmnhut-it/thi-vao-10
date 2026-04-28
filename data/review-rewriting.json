@@ -19,7 +19,7 @@
         "The mother reminded the boy not to forget to lock the door.",
         "The mother reminded the boy not to forget to lock the door"
       ],
-      "explanation": "Chuyển 'Don't forget' thành 'reminded + tân ngữ + to V'. 'Don't forget to lock' → 'reminded the boy to lock'. 'remind someone to V' = nhắc ai làm gì."
+      "explanation": "Câu gốc: Mẹ nói 'Don't forget to lock the door' với bé. Yêu cầu: Chuyển câu nói trực tiếp sang gián tiếp. — Cấu trúc: 'remind someone to V' (nhắc ai làm gì) = 'Don't forget' → 'reminded + O + to V'. | Chuyển câu nói trực tiếp sang gián tiếp: 'Don't forget' → 'reminded + O + to V'. Đáp án: The mother reminded the boy to lock the door."
     },
     {
       "id": 2,
@@ -36,7 +36,7 @@
         "The boy was made to tidy up the room by the mother",
         "The boy was made to tidy up the room"
       ],
-      "explanation": "Chuyển chủ động sang bị động của 'make someone do'. Khi sang bị động thêm 'to': 'made the boy tidy' → 'was made to tidy'."
+      "explanation": "Câu gốc: The mother made the boy tidy up the room. Yêu cầu: Viết lại câu bắt đầu 'The boy'. — Cấu trúc: Câu chủ động với 'make someone do' → bị động 'be made to V' (thêm 'to'). | Chuyển chủ động sang bị động của 'make someone do': 'made the boy tidy' → 'was made to tidy'. Đáp án: The boy was made to tidy up the room by the mother."
     },
     {
       "id": 3,
@@ -49,7 +49,7 @@
         "Having graduated from university, he went abroad to work.",
         "Having graduated from university, he went abroad to work"
       ],
-      "explanation": "Dùng phân từ hoàn thành 'Having + quá khứ phân từ' thay cho mệnh đề 'After + had + quá khứ phân từ'. 'After he had graduated' → 'Having graduated'."
+      "explanation": "Câu gốc: After he had graduated from university, he went abroad to work. Yêu cầu: Viết lại câu bắt đầu 'Having'. — Cấu trúc: 'After + had + quá khứ phân từ' → 'Having + quá khứ phân từ' (phân từ hoàn thành). | Dùng phân từ hoàn thành 'Having + quá khứ phân từ' thay cho mệnh đề thời gian 'After + had + quá khứ phân từ'. Đáp án: Having graduated from university, he went abroad to work."
     },
     {
       "id": 4,
@@ -62,7 +62,7 @@
         "No longer do housewives have to spend a lot of time doing housework.",
         "No longer do housewives have to spend a lot of time doing housework"
       ],
-      "explanation": "Dùng 'No longer' + đảo ngữ (trợ động từ + S + V) thay cho 'not...anymore'. 'do not have to...anymore' → 'No longer do housewives have to'."
+      "explanation": "Câu gốc: Housewives do not have to spend a lot of time doing housework anymore. Yêu cầu: Viết lại câu bắt đầu 'No longer'. — Cấu trúc: 'not...anymore' → 'No longer' đứng đầu + đảo ngữ (trợ động từ + chủ ngữ + động từ). | Dùng 'No longer' + đảo ngữ (trợ động từ + S + V) thay cho 'not...anymore'. Đáp án: No longer do housewives have to spend a lot of time doing housework."
     },
     {
       "id": 5,
@@ -75,7 +75,7 @@
         "Galileo is said to have invented the telescope.",
         "Galileo is said to have invented the telescope"
       ],
-      "explanation": "Chuyển 'It is said that + S + quá khứ' thành 'S + is said to have + quá khứ phân từ'. 'Galileo invented' → 'Galileo is said to have invented'."
+      "explanation": "Câu gốc: It is said that Galileo invented the telescope. Yêu cầu: Viết lại câu bắt đầu 'Galileo'. — Cấu trúc: 'It is said that + S + quá khứ' → 'S + is said to have + quá khứ phân từ'. | Chuyển 'It is said that + S + quá khứ' thành 'S + is said to have + quá khứ phân từ'. Đáp án: Galileo is said to have invented the telescope."
     },
     {
       "id": 6,
@@ -90,7 +90,7 @@
         "I have not met Mary for three years.",
         "I have not met Mary for three years"
       ],
-      "explanation": "Chuyển 'The last time + quá khứ + was + thời gian + ago' thành 'haven't + quá khứ phân từ + for + thời gian'. 'The last time I met' → 'I haven't met...for three years'."
+      "explanation": "Câu gốc: The last time I met Mary was three years ago. Yêu cầu: Viết lại câu bắt đầu 'I haven't'. — Cấu trúc: 'The last time + quá khứ đơn + was + thời gian + ago' → 'haven't/hasn't + quá khứ phân từ + for + thời gian'. | Chuyển cấu trúc 'The last time + quá khứ + was + thời gian + ago' sang 'haven't + quá khứ phân từ + for + thời gian'. Đáp án: I haven't met Mary for three years."
     },
     {
       "id": 7,
@@ -104,7 +104,7 @@
         "What is your mother's occupation?",
         "What is your mother's job"
       ],
-      "explanation": "Chuyển 'What does someone do?' thành 'What is someone's job?'. Cả hai đều hỏi về nghề nghiệp."
+      "explanation": "Câu gốc: What does your mother do? Yêu cầu: Viết lại câu bắt đầu 'What is'. — Cấu trúc: 'What does someone do?' = 'What is someone's job?' (cả hai đều hỏi về nghề nghiệp). | Chuyển 'What does someone do?' thành 'What is someone's job?'. Đáp án: What is your mother's job?"
     },
     {
       "id": 8,
@@ -119,7 +119,7 @@
         "If I was a rich businessman, I could afford to buy an expensive car.",
         "If I was a rich businessman, I could afford to buy an expensive car"
       ],
-      "explanation": "Dùng câu điều kiện loại 2 cho tình huống không có thật hiện tại. 'am not...can't' → 'If I were...I could'."
+      "explanation": "Câu gốc: I am not a rich businessman and I can't afford to buy an expensive car. Yêu cầu: Viết lại câu bắt đầu 'If'. — Cấu trúc: Câu điều kiện loại 2 — tình huống không có thật ở hiện tại: 'If + quá khứ (were) + would/could + V nguyên mẫu'. | Dùng câu điều kiện loại 2 cho tình huống không có thật hiện tại. Đáp án: If I were a rich businessman, I could afford to buy an expensive car."
     },
     {
       "id": 9,
@@ -132,7 +132,7 @@
         "It took me an hour to revise what he had already learnt for the test.",
         "It took me an hour to revise what he had already learnt for the test"
       ],
-      "explanation": "Chuyển 'S + spent + thời gian + V-ing' thành 'It took + S + thời gian + to V'. 'spent an hour revising' → 'It took me an hour to revise'."
+"explanation": "Câu gốc: I spent an hour revising what he had already learnt for the test. Yêu cầu: Viết lại câu bắt đầu 'It took'. — Cấu trúc: 'S + spent + thời gian + -ing' → 'It took + S + thời gian + to V'. | Chuyển 'S + spent + thời gian + -ing' thành 'It took + S + thời gian + to V'. Đáp án: It took me an hour to revise what he had already learnt for the test."
     },
     {
       "id": 10,
@@ -147,7 +147,7 @@
         "My father prefers reading newspaper to listening to the radio",
         "My father prefers reading the newspaper to listening to the radio."
       ],
-      "explanation": "Chuyển 'would rather + V + than + V' thành 'prefers + V-ing + to + V-ing'. 'would rather read than listen' → 'prefers reading to listening'."
+      "explanation": "Câu gốc: My father would rather read newspaper than listen to the radio. Yêu cầu: Viết lại câu bắt đầu 'My father prefers'. — Cấu trúc: 'would rather + V1 + than + V2' → 'prefers + -ing + to + -ing'. | Chuyển 'would rather + V + than + V' thành 'prefers + -ing + to + -ing'. Đáp án: My father prefers reading newspaper to listening to the radio."
     },
     {
       "id": 11,
@@ -160,7 +160,7 @@
         "The old man whose daughter I love is working in this company.",
         "The old man, whose daughter I love, is working in this company."
       ],
-      "explanation": "Nối hai câu bằng đại từ quan hệ 'whose' (chỉ sự sở hữu). 'His daughter I love' → 'whose daughter I love'."
+      "explanation": "Câu gốc: The old man is working in this company. I love his daughter. Yêu cầu: Dùng từ cho sẵn 'whose' để nối. — Cấu trúc: Đại từ quan hệ 'whose' chỉ sự sở hữu, đứng sau danh từ chính. | Nối hai câu bằng đại từ quan hệ 'whose' (chỉ sự sở hữu). Đáp án: The old man whose daughter I love is working in this company."
     },
     {
       "id": 12,
@@ -173,7 +173,7 @@
         "Having defeated the former champion in three sets, Nam won their inter-school table tennis championship.",
         "Having defeated the former champion in three sets, Nam won their inter-school table tennis championship"
       ],
-      "explanation": "Dùng phân từ hoàn thành 'Having + quá khứ phân từ' để nối hai hành động liên tiếp, hành động trước xảy ra trước. 'defeated...then won' → 'Having defeated...won'."
+      "explanation": "Câu gốc: Nam defeated the former champion in three sets. Then he won their inter-school table tennis championship. Yêu cầu: Dùng 'Having' để nối. — Cấu trúc: 'Having + quá khứ phân từ' (phân từ hoàn thành) nối hai hành động liên tiếp, hành động trước xảy ra trước. | Dùng phân từ hoàn thành 'Having + quá khứ phân từ' để nối hai hành động liên tiếp. Đáp án: Having defeated the former champion in three sets, Nam won their inter-school table tennis championship."
     },
     {
       "id": 13,
@@ -186,7 +186,7 @@
         "Despite being disabled, she was quite confident the first time she practiced this sport.",
         "Despite her disability, she was quite confident the first time she practiced this sport."
       ],
-      "explanation": "Dùng 'Despite + V-ing/danh từ' thay cho 'Although + mệnh đề'. 'Although she was disabled' → 'Despite being disabled'."
+      "explanation": "Câu gốc: Although she was disabled, she was quite confident. Yêu cầu: Dùng 'Despite' để nối. — Cấu trúc: 'Despite + -ing/danh từ' thay cho 'Although + mệnh đề'. | Dùng 'Despite + -ing/danh từ' thay cho 'Although + mệnh đề'. Đáp án: Despite being disabled, she was quite confident the first time she practiced this sport."
     },
     {
       "id": 14,
@@ -199,7 +199,7 @@
         "Neither Mary nor her brother likes music.",
         "Neither Mary nor her brother like music."
       ],
-      "explanation": "Dùng 'Neither...nor' để nối hai ý phủ định. 'doesn't like...doesn't either' → 'Neither Mary nor her brother likes'."
+      "explanation": "Câu gốc: Mary doesn't like music. Her brother doesn't either. Yêu cầu: Dùng 'Neither' để nối. — Cấu trúc: 'Neither...nor' nối hai ý phủ định, động từ theo chủ ngữ gần nhất (nearest subject rule). | Dùng 'Neither...nor' để nối hai ý phủ định. Đáp án: Neither Mary nor her brother likes music."
     },
     {
       "id": 15,
@@ -212,7 +212,7 @@
         "The students whose reports are very valuable will be awarded the present.",
         "The students whose reports are very valuable will be awarded the present"
       ],
-      "explanation": "Nối hai câu bằng đại từ quan hệ 'whose' (chỉ sự sở hữu). 'The students' reports are very valuable' → 'whose reports are very valuable'."
+      "explanation": "Câu gốc: The students will be awarded the present. The students' reports are very valuable. Yêu cầu: Dùng 'whose' để nối. — Cấu trúc: Đại từ quan hệ 'whose' chỉ sự sở hữu, đứng sau danh từ chính. | Nối hai câu bằng đại từ quan hệ 'whose'. Đáp án: The students whose reports are very valuable will be awarded the present."
     },
     {
       "id": 16,
@@ -227,7 +227,7 @@
         "If Jane had changed her working style, she wouldn't have been sacked",
         "If Jane had changed her working style, she would not have been sacked"
       ],
-      "explanation": "Dùng câu điều kiện loại 3 cho tình huống trái quá khứ. 'didn't change...was sacked' → 'If she had changed...wouldn't have been sacked'."
+      "explanation": "Câu gốc: Jane didn't change her working style. She was sacked. Yêu cầu: Dùng 'If' để viết câu điều kiện. — Cấu trúc: Câu điều kiện loại 3 — tình huống trái với quá khứ: 'If + had + quá khứ phân từ + would have + quá khứ phân từ bị động'. | Dùng câu điều kiện loại 3 cho tình huống trái quá khứ. Đáp án: If Jane had changed her working style, she wouldn't have been sacked."
     },
     {
       "id": 17,
@@ -241,7 +241,7 @@
         "Despite having all the necessary qualifications, Hai wasn't offered the job.",
         "Despite having all the necessary qualifications for the job, Hai was not offered the job."
       ],
-      "explanation": "Dùng 'Despite + V-ing/danh từ' thay cho mệnh đề tương phản. 'Although Hai had all the qualifications' → 'Despite having all the qualifications'."
+      "explanation": "Câu gốc: Hai had all the necessary qualifications for the job. He wasn't offered the job. Yêu cầu: Dùng 'Despite' để nối. — Cấu trúc: 'Despite + -ing/danh từ' thay cho mệnh đề tương phản 'Although/Though + mệnh đề'. | Dùng 'Despite + -ing/danh từ' thay cho mệnh đề tương phản. Đáp án: Despite having all the necessary qualifications for the job, Hai wasn't offered the job."
     },
     {
       "id": 18,
@@ -254,7 +254,7 @@
         "She closed the door to focus on the lesson.",
         "She closed the door in order to focus on the lesson."
       ],
-      "explanation": "Dùng 'to V / in order to V' diễn tả mục đích. 'wanted to focus' → 'to focus on the lesson'."
+      "explanation": "Câu gốc: She closed the door. She wanted to focus on the lesson. Yêu cầu: Dùng 'to' để diễn tả mục đích. — Cấu trúc: 'to V' hoặc 'in order to V' diễn tả mục đích hành động. | Dùng 'to V / in order to V' diễn tả mục đích. Đáp án: She closed the door to focus on the lesson."
     },
     {
       "id": 19,
@@ -267,7 +267,7 @@
         "Betrayed by his partner, he suffered huge losses.",
         "Betrayed by his partner, he suffered huge losses"
       ],
-      "explanation": "Dùng phân từ quá khứ đặt đầu câu thay cho mệnh đề bị động. 'He was betrayed by his partner' → 'Betrayed by his partner, he...'."
+      "explanation": "Câu gốc: He was betrayed by his partner. He suffered huge losses. Yêu cầu: Dùng 'Betrayed' để viết lại. — Cấu trúc: Phân từ 2 đặt đầu câu thay cho mệnh đề bị động, chủ ngữ ngầm định giống mệnh đề chính. | Dùng phân từ 2 đặt đầu câu thay cho mệnh đề bị động. Đáp án: Betrayed by his partner, he suffered huge losses."
     },
     {
       "id": 20,
@@ -282,7 +282,7 @@
         "If she loved him, he wouldn't be sad",
         "If she loved him, he would not be sad"
       ],
-      "explanation": "Dùng câu điều kiện loại 2 cho ước không có thật hiện tại. 'doesn't love...is sad' → 'If she loved...wouldn't be sad'."
+      "explanation": "Câu gốc: She doesn't love him. He is sad. Yêu cầu: Dùng 'If' để viết câu điều kiện. — Cấu trúc: Câu điều kiện loại 2 — tình huống không có thật ở hiện tại: 'If + quá khứ (were) + would/could + V nguyên mẫu'. | Dùng câu điều kiện loại 2 cho ước không có thật hiện tại. Đáp án: If she loved him, he wouldn't be sad."
     }
   ]
 }

@@ -17,7 +17,7 @@
         "D. rung up"
       ],
       "correctIndex": 0,
-      "explanation": "'Cut off' = ngừng cung cấp (điện, gas, điện thoại). Không trả tiền thì bị cắt điện thoại."
+      "explanation": "Vì Carl không trả tiền nên điện thoại bị cắt | A: cut off = cắt, ngừng cung cấp — Đúng vì nghĩa phù hợp | B: broken up = chia tay — Không đúng nghĩa | C: dropped off = để lại — Không đúng nghĩa | D: rung up = gọi điện — Không đúng nghĩa"
     },
     {
       "id": 2,
@@ -30,7 +30,7 @@
         "D. put up with"
       ],
       "correctIndex": 3,
-      "explanation": "'Put up with' = chịu đựng. 'I can put up with...' = tôi có thể chịu đựng được..."
+      "explanation": "Câu nói về việc chịu đựng nhà cửa bừa bộn | A: lead up to = dẫn đến — Không đúng nghĩa | B: come up with = nghĩ ra — Không đúng nghĩa | C: go down with = mắc bệnh — Không đúng nghĩa | D: put up with = chịu đựng — Đúng vì nghĩa phù hợp"
     },
     {
       "id": 3,
@@ -43,7 +43,7 @@
         "D. wore out"
       ],
       "correctIndex": 0,
-      "explanation": "'Kept on' = tiếp tục (làm gì đó). Cô ấy tiếp tục thi lái xe cho đến khi đậu."
+      "explanation": "Câu nói về việc tiếp tục thi bằng lái | A: kept on = tiếp tục — Đúng vì nghĩa phù hợp | B: cleared off = bỏ đi — Không đúng nghĩa | C: used up = dùng hết — Không đúng nghĩa | D: wore out = mòn — Không đúng nghĩa"
     },
     {
       "id": 4,
@@ -56,7 +56,7 @@
         "D. looked after"
       ],
       "correctIndex": 3,
-      "explanation": "'Looked after' = chăm sóc. Con gái đang chăm sóc ông ấy."
+      "explanation": "Câu nói về việc con gái chăm sóc bố già | A: found out = phát hiện — Không đúng nghĩa | B: brought up = nuôi nấng — Không đúng nghĩa | C: moved on = chuyển đi — Không đúng nghĩa | D: looked after = chăm sóc — Đúng vì nghĩa phù hợp"
     },
     {
       "id": 5,
@@ -69,7 +69,7 @@
         "D. wait on"
       ],
       "correctIndex": 1,
-      "explanation": "'Turn up' = xuất hiện, đến. Cô ấy đã không đến."
+      "explanation": "Câu nói về việc cô ấy không đến chỗ hẹn | A: get through = hoàn thành — Không đúng nghĩa | B: turn up = xuất hiện, đến — Đúng vì nghĩa phù hợp | C: walk out = bỏ đi — Không đúng nghĩa | D: wait on = phục vụ — Không đúng nghĩa"
     },
     {
       "id": 6,
@@ -82,7 +82,7 @@
         "D. turn up"
       ],
       "correctIndex": 3,
-      "explanation": "'Turn up' = đến, xuất hiện. Tôi chắc anh ấy sẽ đến."
+      "explanation": "Câu nói về việc chờ ai đó đến | A: turn down = từ chối — Không đúng nghĩa | B: turn in = nộp — Không đúng nghĩa | C: turn into = trở thành — Không đúng nghĩa | D: turn up = đến, xuất hiện — Đúng vì nghĩa phù hợp"
     },
     {
       "id": 7,
@@ -95,7 +95,7 @@
         "D. left out"
       ],
       "correctIndex": 2,
-      "explanation": "'Set off' = khởi hành. Khi họ khởi hành đi biển thì trời đang nắng."
+      "explanation": "Câu nói về việc khởi hành đi biển | A: went out = đi ra — Không đúng nghĩa | B: went off = đi mất — Không đúng nghĩa | C: set off = khởi hành — Đúng vì nghĩa phù hợp | D: left out = bỏ qua — Không đúng nghĩa"
     },
     {
       "id": 8,
@@ -108,7 +108,7 @@
         "D. fell in with"
       ],
       "correctIndex": 0,
-      "explanation": "'Fell back on' = phải nhờ đến, phải dùng tới. Hết tiền thì phải nhờ mẹ giúp."
+      "explanation": "Câu nói về việc hết tiền phải nhờ mẹ | A: fell back on = phải nhờ đến — Đúng vì nghĩa phù hợp | B: fell upon = tấn công — Không đúng nghĩa | C: fell behind = tụt hậu — Không đúng nghĩa | D: fell in with = kết giao — Không đúng nghĩa"
     },
     {
       "id": 9,
@@ -121,7 +121,7 @@
         "D. bring/about"
       ],
       "correctIndex": 1,
-      "explanation": "'Look up' = tra cứu. Bạn có thể tra số điện thoại trong danh bạ."
+      "explanation": "Câu nói về việc tra số điện thoại trong danh bạ | A: take down = ghi chép — Không đúng nghĩa | B: look up = tra cứu — Đúng vì nghĩa phù hợp | C: find out = phát hiện — Không đúng nghĩa | D: bring about = gây ra — Không đúng nghĩa"
     },
     {
       "id": 10,
@@ -134,7 +134,7 @@
         "D. given out"
       ],
       "correctIndex": 0,
-      "explanation": "'Held up' = bị trì hoãn. Tàu bị trì hoãn vì tuyết rơi dày."
+      "explanation": "Câu nói về việc tàu bị trì hoãn vì tuyết | A: held up = bị trì hoãn — Đúng vì nghĩa phù hợp | B: took back = lấy lại — Không đúng nghĩa | C: put off = hoãn lại — Không đúng nghĩa | D: given out = phân phát — Không đúng nghĩa"
     },
     {
       "id": 11,
@@ -147,7 +147,7 @@
         "D. come across"
       ],
       "correctIndex": 0,
-      "explanation": "'Turned up' = xuất hiện (bất ngờ). Chiếc mũ bất ngờ xuất hiện phía sau sofa."
+      "explanation": "Câu nói về việc tìm lại mũ bất ngờ | A: turned up = xuất hiện — Đúng vì nghĩa phù hợp | B: gone away = đi mất — Không đúng nghĩa | C: run into = gặp — Không đúng nghĩa | D: come across = gặp — Không đúng nghĩa"
     },
     {
       "id": 12,
@@ -160,7 +160,7 @@
         "D. come up with"
       ],
       "correctIndex": 0,
-      "explanation": "'Gone down with' = mắc bệnh. Jim lại bị cúm lần nữa."
+      "explanation": "Câu nói về việc Jim bị cúm | A: gone down with = mắc bệnh — Đúng vì nghĩa phù hợp | B: put up with = chịu đựng — Không đúng nghĩa | C: led up to = dẫn đến — Không đúng nghĩa | D: come up with = nghĩ ra — Không đúng nghĩa"
     },
     {
       "id": 13,
@@ -173,7 +173,7 @@
         "D. get up"
       ],
       "correctIndex": 1,
-      "explanation": "'Get on' = hòa hợp, hòa thuận. Họ hòa thuận với nhau rất tốt."
+      "explanation": "Câu nói về việc hai người hòa thuận | A: get through = hoàn thành — Không đúng nghĩa | B: get on = hòa hợp — Đúng vì nghĩa phù hợp | C: get down = xuống — Không đúng nghĩa | D: get up = thức dậy — Không đúng nghĩa"
     },
     {
       "id": 14,
@@ -186,7 +186,7 @@
         "D. put it off"
       ],
       "correctIndex": 1,
-      "explanation": "'Turned it down' = từ chối. Anh ấy từ chối công việc quản lý."
+      "explanation": "Câu nói về việc từ chối công việc quản lý | A: turned it off = tắt — Không đúng nghĩa | B: turned it down = từ chối — Đúng vì nghĩa phù hợp | C: threw it away = vứt đi — Không đúng nghĩa | D: put it off = hoãn lại — Không đúng nghĩa"
     },
     {
       "id": 15,
@@ -199,7 +199,7 @@
         "D. do without"
       ],
       "correctIndex": 0,
-      "explanation": "'Rule out' = loại trừ. Không thể loại trừ khả năng rút lui vì chấn thương."
+      "explanation": "Câu nói về việc không loại trừ khả năng rút lui | A: rule out = loại trừ — Đúng vì nghĩa phù hợp | B: pass over = bỏ qua — Không đúng nghĩa | C: come off = xảy ra — Không đúng nghĩa | D: do without = sống thiếu — Không đúng nghĩa"
     },
     {
       "id": 16,
@@ -212,7 +212,7 @@
         "D. take after"
       ],
       "correctIndex": 2,
-      "explanation": "'Get over' = vượt qua. Tôi nghĩ anh ấy sẽ vượt qua nỗi thất vọng."
+      "explanation": "Câu nói về việc vượt qua nỗi thất vọng | A: turn off = tắt — Không đúng nghĩa | B: fill in = điền — Không đúng nghĩa | C: get over = vượt qua — Đúng vì nghĩa phù hợp | D: take after = giống — Không đúng nghĩa"
     },
     {
       "id": 17,
@@ -225,7 +225,7 @@
         "D. take off"
       ],
       "correctIndex": 1,
-      "explanation": "'Go off' = đổ chuông, reo. Đồng hồ báo thức không reo."
+      "explanation": "Câu nói về việc đồng hồ báo thức không reo | A: ring off = gác máy — Không đúng nghĩa | B: go off = đổ chuông — Đúng vì nghĩa phù hợp | C: get off = xuống — Không đúng nghĩa | D: take off = cất cánh — Không đúng nghĩa"
     },
     {
       "id": 18,
@@ -238,7 +238,7 @@
         "D. looks over"
       ],
       "correctIndex": 0,
-      "explanation": "'Takes after' = giống (người thân). Con trai giống bố đến nỗi không thấy sự khác biệt."
+      "explanation": "Câu nói về việc con trai giống bố | A: takes after = giống — Đúng vì nghĩa phù hợp | B: looks up = tra cứu — Không đúng nghĩa | C: takes in = hiểu — Không đúng nghĩa | D: looks over = xem xét — Không đúng nghĩa"
     },
     {
       "id": 19,
@@ -251,7 +251,7 @@
         "D. get out of"
       ],
       "correctIndex": 0,
-      "explanation": "'Get on well with' = hòa thuận với. Chị dâu hòa thuận với tất cả người thân."
+      "explanation": "Câu nói về việc chị dâu hòa thuận với người thân | A: get on well with = hòa thuận — Đúng vì nghĩa phù hợp | B: get up = thức dậy — Không đúng nghĩa | C: get over = vượt qua — Không đúng nghĩa | D: get out of = tránh — Không đúng nghĩa"
     },
     {
       "id": 20,
@@ -264,7 +264,7 @@
         "D. bring up"
       ],
       "correctIndex": 1,
-      "explanation": "'Make up' = làm hòa. Sau khi cãi nhau, tôi muốn làm hòa."
+      "explanation": "Câu nói về việc muốn làm hòa sau cãi nhau | A: look down = khinh — Không đúng nghĩa | B: make up = làm hòa — Đúng vì nghĩa phù hợp | C: fall out = cãi nhau — Không đúng nghĩa | D: bring up = đề cập — Không đúng nghĩa"
     }
   ]
 }

@@ -17,7 +17,7 @@
         "D. publish<u>ed</u>"
       ],
       "correctIndex": 3,
-      "explanation": "'published' ends with /t/ sound, while A, B, C end with /d/ sound."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? | Đáp án: D — /t/ | A: wanderED — /d/ | B: spoilED — /d/ | C: mentionED — /d/ | D: publishED — /t/"
     },
     {
       "id": 2,
@@ -31,7 +31,7 @@
         "D. relative<u>s</u>"
       ],
       "correctIndex": 3,
-      "explanation": "'relatives' ends with /z/ sound (base ends in voiced /v/), while A, B, C end with /s/ sound."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? | Đáp án: D — /z/ | A: stripeS — /s/ | B: picnicS — /s/ | C: benefitS — /s/ | D: relativeS — /z/ (base có /v/)"
     },
     {
       "id": 3,
@@ -45,7 +45,7 @@
         "D. m<u>oo</u>n"
       ],
       "correctIndex": 0,
-      "explanation": "'flood' has /ʌ/ sound, while B, C, D have /uː/ sound."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? | Đáp án: A — /ʌ/ | A: flOOd — /ʌ/ | B: typhOOn — /uː/ | C: rOOf — /uː/ | D: mOOn — /uː/"
     },
     {
       "id": 4,
@@ -59,7 +59,7 @@
         "D. gr<u>ea</u>t"
       ],
       "correctIndex": 1,
-      "explanation": "'bread' has /e/ sound, while A, C, D have /eɪ/ sound."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? | Đáp án: B — /e/ | A: stEAk — /eɪ/ | B: brEAd — /e/ | C: brEAk — /eɪ/ | D: grEAt — /eɪ/"
     },
     {
       "id": 5,
@@ -73,7 +73,7 @@
         "D. <u>ch</u>ocolate"
       ],
       "correctIndex": 2,
-      "explanation": "'chemist' has /k/ sound for 'ch', while A, B, D have /tʃ/ sound."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? | Đáp án: C — /k/ | A: CHampion — /tʃ/ | B: CHildren — /tʃ/ | C: CHemist — /k/ | D: CHocolate — /tʃ/"
     },
     {
       "id": 6,
@@ -87,7 +87,7 @@
         "D. aren't they"
       ],
       "correctIndex": 1,
-      "explanation": "'No one' is negative, so the tag is positive. 'No one' takes 'they' as pronoun."
+      "explanation": "Câu hỏi dịch: Không ai trong nhóm phản đối kế hoạch, _______? | Đáp án: B — are they | 'No one' mang nghĩa âm tính → tag phải dương tính. 'No one' dùng 'they' làm đại từ."
     },
     {
       "id": 7,
@@ -101,7 +101,7 @@
         "D. no article"
       ],
       "correctIndex": 0,
-      "explanation": "'a UFO' - 'UFO' starts with /juː/ (consonant sound), so use 'a'."
+      "explanation": "Câu hỏi dịch: Bà Lan nói bà đã nhìn thấy _______ UFO trong vườn gần nhà. | Đáp án: A — a | 'UFO' bắt đầu bằng /juː/ (âm thanh phụ âm), dùng 'a'."
     },
     {
       "id": 8,
@@ -115,7 +115,7 @@
         "D. with"
       ],
       "correctIndex": 2,
-      "explanation": "'keen on' + V-ing = enthusiastic about."
+      "explanation": "Câu hỏi dịch: Anh ấy say mê _______ đọc tiểu thuyết trinh thám. | Đáp án: C — on | 'keen on' + -ing = say mê, hào hứng với."
     },
     {
       "id": 9,
@@ -129,7 +129,7 @@
         "D. to use"
       ],
       "correctIndex": 3,
-      "explanation": "'decide + to-infinitive'."
+      "explanation": "Câu hỏi dịch: Bố mẹ cô ấy quyết định _______ bóng tiết kiệm năng lượng để tiết kiệm điện. | Đáp án: D — to use | 'decide + động từ có to' (quyết định làm gì)."
     },
     {
       "id": 10,
@@ -143,7 +143,7 @@
         "D. listen"
       ],
       "correctIndex": 0,
-      "explanation": "'hate + V-ing' (or to-infinitive). Both A and B could work, but 'listening' is more natural for general dislike."
+      "explanation": "Câu hỏi dịch: Tôi ghét _______ nghe nhạc cổ điển. | Đáp án: A — listening | 'hate + -ing' (hoặc động từ có to). Cả A và B đều được, nhưng 'listening' tự nhiên hơn khi nói về sự không thích chung."
     },
     {
       "id": 11,
@@ -157,7 +157,7 @@
         "D. do"
       ],
       "correctIndex": 0,
-      "explanation": "Past continuous 'was doing' for background action interrupted by past simple."
+      "explanation": "Câu hỏi dịch: Đêm qua khi tôi _______ bài tập về nhà, đèn bị tắt. | Đáp án: A — was doing | Past continuous 'was doing' cho hành động nền bị gián đoạn bởi past simple."
     },
     {
       "id": 12,
@@ -171,7 +171,7 @@
         "D. is going to begin"
       ],
       "correctIndex": 2,
-      "explanation": "'a few years ago' requires past simple: 'began'."
+      "explanation": "Câu hỏi dịch: Lan _______ học tiếng Anh vài năm trước. | Đáp án: C — began | 'a few years ago' yêu cầu quá khứ đơn: 'began'."
     },
     {
       "id": 13,
@@ -185,7 +185,7 @@
         "D. was"
       ],
       "correctIndex": 0,
-      "explanation": "Conditional type 1: If + present simple, will + V-infinitive."
+      "explanation": "Câu hỏi dịch: Nếu mọi người dùng phương tiện công cộng, sẽ _______ ít ô nhiễm hơn. | Đáp án: A — will be | Điều kiện loại 1: If + hiện tại đơn, will + nguyên thể."
     },
     {
       "id": 14,
@@ -199,7 +199,7 @@
         "D. boring"
       ],
       "correctIndex": 3,
-      "explanation": "'boring' (V-ing adjective) describes the film, causing the person to leave."
+      "explanation": "Câu hỏi dịch: Bộ phim buồn _______ đến nỗi tôi bỏ đi trước khi kết thúc. | Đáp án: D — boring | 'boring' (tính từ -ing) mô tả bộ phim, khiến người ta bỏ đi."
     },
     {
       "id": 15,
@@ -213,7 +213,7 @@
         "D. Because"
       ],
       "correctIndex": 1,
-      "explanation": "'Although' + clause (subject + verb). 'In spite of/Despite' + noun/V-ing."
+      "explanation": "Câu hỏi dịch: _______ cô ấy bị ốm, cô ấy vẫn đi học hôm qua. | Đáp án: B — Although | 'Although' + mệnh đề (chủ ngữ + động từ). 'In spite of/Despite' + danh từ/-ing."
     },
     {
       "id": 16,
@@ -227,7 +227,7 @@
         "D. because"
       ],
       "correctIndex": 2,
-      "explanation": "'because of' + noun phrase ('the bad weather')."
+      "explanation": "Câu hỏi dịch: Chúng tôi không đi cắm trại _______ thời tiết xấu. | Đáp án: C — because of | 'because of' + cụm danh từ ('the bad weather')."
     },
     {
       "id": 17,
@@ -241,7 +241,7 @@
         "D. mustn't"
       ],
       "correctIndex": 2,
-      "explanation": "Past inability: 'couldn't' (past of can't). 'Yesterday' requires past tense."
+      "explanation": "Câu hỏi dịch: Hôm qua anh ấy _______ hoàn thành bài tập vì mệt lắm. | Đáp án: C — couldn't | Quá khứ bất lực: 'couldn't' (quá khứ của can't). 'Hôm qua' yêu cầu quá khứ."
     },
     {
       "id": 18,
@@ -255,7 +255,7 @@
         "D. built"
       ],
       "correctIndex": 0,
-      "explanation": "'since last year' requires present perfect: 'has been built' (passive)."
+      "explanation": "Câu hỏi dịch: Nhà thờ _______ được xây từ năm ngoái. | Đáp án: A — has been built | 'since last year' yêu cầu present perfect: 'has been built' (bị động)."
     },
     {
       "id": 19,
@@ -269,7 +269,7 @@
         "D. look up"
       ],
       "correctIndex": 3,
-      "explanation": "'look up' words in a dictionary = search for the meaning."
+      "explanation": "Câu hỏi dịch: Bạn có thể _______ từ mới trong từ điển ở đó. | Đáp án: D — look up | 'look up' words in a dictionary = tra cứu nghĩa."
     },
     {
       "id": 20,
@@ -283,7 +283,7 @@
         "D. busy"
       ],
       "correctIndex": 1,
-      "explanation": "'busier' is the comparative form of 'busy' (short adjective rule: -ier)."
+      "explanation": "Câu hỏi dịch: Mẹ cô ấy _______ hơn mẹ tôi. | Đáp án: B — busier | 'busier' là dạng so sánh của 'busy' (tính từ ngắn: thêm -ier)."
     },
     {
       "id": 21,
@@ -297,7 +297,7 @@
         "D. tsunami"
       ],
       "correctIndex": 0,
-      "explanation": "A tornado is a funnel-shaped storm that passes overland."
+      "explanation": "Câu hỏi dịch: Cơn bão hình phễu đi qua đất liền dưới cơn bão sấm gọi là _______. | Đáp án: A — tornado | Tornado là cơn bão hình phễu đi qua đất liền."
     },
     {
       "id": 22,
@@ -311,7 +311,7 @@
         "D. nylon"
       ],
       "correctIndex": 2,
-      "explanation": "Jean (denim) cloth was originally made from cotton."
+      "explanation": "Câu hỏi dịch: Vào thế kỷ 18, vải Jean được làm hoàn toàn từ _______. | Đáp án: C — cotton | Vải Jean (denim) ban đầu được làm từ bông."
     },
     {
       "id": 23,
@@ -325,7 +325,7 @@
         "D. equal"
       ],
       "correctIndex": 3,
-      "explanation": "Uniforms help students feel 'equal' (the same status)."
+      "explanation": "Câu hỏi dịch: Mặc đồng phục giúp học sinh cảm thấy _______ theo nhiều cách. | Đáp án: D — equal | Đồng phục giúp học sinh cảm thấy 'bình đẳng' (cùng địa vị)."
     },
     {
       "id": 24,
@@ -339,7 +339,7 @@
         "D. compulsory"
       ],
       "correctIndex": 3,
-      "explanation": "'compulsory' means required/obligatory. 'Should all motorcyclists be compulsory to wear helmets?' is the intended meaning (required to wear helmets)."
+      "explanation": "Câu hỏi dịch: Tất cả người đi xe máy có nên _______ đội mũ bảo hiểm không? | Đáp án: D — compulsory | 'compulsory' nghĩa là bắt buộc. Câu hỏi muốn hỏi 'có nên bắt buộc đội mũ bảo hiểm không'."
     },
     {
       "id": 25,
@@ -353,7 +353,7 @@
         "D. that"
       ],
       "correctIndex": 1,
-      "explanation": "'most of whom' - preposition + whom in relative clauses."
+      "explanation": "Câu hỏi dịch: Chúng tôi có ba mươi học sinh, phần lớn _______ nói tiếng Anh tốt. | Đáp án: B — whom | 'most of whom' - giới từ + whom trong mệnh đề quan hệ."
     },
     {
       "id": 26,
@@ -367,7 +367,7 @@
         "D. will"
       ],
       "correctIndex": 1,
-      "explanation": "Wish + past subjunctive 'were' for present unreal situations."
+      "explanation": "Câu hỏi dịch: Tôi ước bạn _______ ở đây giúp tôi bây giờ. | Đáp án: B — were | Wish + past subjunctive 'were' cho tình huống không thực hiện ở hiện tại."
     },
     {
       "id": 27,
@@ -381,7 +381,7 @@
         "D. status"
       ],
       "correctIndex": 2,
-      "explanation": "'dangerous' = 'unsafe' (not safe)."
+      "explanation": "Câu hỏi dịch: Trẻ em nhỏ không biết đầy đủ rằng nhiều đồ vật trong nhà nguy hiểm. | Đáp án: C — unsafe | 'dangerous' = 'unsafe' (không an toàn)."
     },
     {
       "id": 28,
@@ -395,7 +395,7 @@
         "D. status"
       ],
       "correctIndex": 2,
-      "explanation": "'consequence' = 'result' (outcome of an action)."
+      "explanation": "Câu hỏi dịch: Thất bại của bạn là hậu quả của việc không học đủ chăm chỉ cho kỳ thi. | Đáp án: C — result | 'consequence' = 'result' (kết quả của một hành động)."
     },
     {
       "id": 29,
@@ -409,7 +409,7 @@
         "D. miss"
       ],
       "correctIndex": 2,
-      "explanation": "'forget' is the opposite of 'remember'."
+      "explanation": "Câu hỏi dịch: Đừng quên tắt đèn trước khi bạn đi làm. | Đáp án: C — remember | 'forget' nghĩa trái ngược với 'remember'."
     },
     {
       "id": 30,
@@ -423,7 +423,7 @@
         "D. sit"
       ],
       "correctIndex": 0,
-      "explanation": "'passed' is the opposite of 'failed'."
+      "explanation": "Câu hỏi dịch: Tung đỗ vào kỳ thi tuyển sinh vào một trường THPT rất nổi tiếng. | Đáp án: A — failed | 'passed' nghĩa trái ngược với 'failed'."
     },
     {
       "id": 31,
@@ -437,7 +437,7 @@
         "D. What kind of food do you like?"
       ],
       "correctIndex": 2,
-      "explanation": "'No thank you, that'll be all' is a response to being offered more (Would you like something else?)."
+      "explanation": "Câu hỏi dịch: Lan và Chi đang ăn tối tại nhà Lan. Lan: \"_______\" Chi: \"Không, cảm ơn, vậy thôi.\" | Đáp án: C — Would you like something else? | 'Không, cảm ơn, vậy thôi' là câu trả lời cho việc được hỏi thêm (Would you like something else?)."
     },
     {
       "id": 32,
@@ -451,7 +451,7 @@
         "D. Yes, I stayed at home"
       ],
       "correctIndex": 1,
-      "explanation": "'No' + reason for not going: 'it was too cold to go out'."
+      "explanation": "Câu hỏi dịch: Tom và Sue đang nói về hoạt động đêm qua. Tom: \"Bạn có đi rạp chiếu phim tối qua không?\" Sue: \"_______\" | Đáp án: B — No, it was too cold to go out | 'No' + lý do không đi: 'it was too cold to go out'."
     },
     {
       "id": 33,
@@ -465,7 +465,7 @@
         "D. <u>Vietnamese</u>"
       ],
       "correctIndex": 2,
-      "explanation": "'despite' + noun/V-ing (not clause). Should be 'although' before a clause."
+      "explanation": "Câu có lỗi | Lỗi: despite → although — Dạng liên từ | 'despite' + danh từ/-ing (không phải mệnh đề). Phải dùng 'although' trước mệnh đề."
     },
     {
       "id": 34,
@@ -479,7 +479,7 @@
         "D. <u>and</u>"
       ],
       "correctIndex": 1,
-      "explanation": "Should be 'was frequently worn' (passive voice)."
+      "explanation": "Câu có lỗi | Lỗi: frequently wore → was frequently worn — Dạng bị động | Phải dùng 'was frequently worn' (bị động)."
     },
     {
       "id": 35,
@@ -493,7 +493,7 @@
         "D. <u>an</u>"
       ],
       "correctIndex": 3,
-      "explanation": "'one' starts with /w/ (consonant sound), so use 'a' not 'an'."
+      "explanation": "Câu có lỗi | Lỗi: an → a — Mạo từ | 'one' bắt đầu bằng /w/ (âm thanh phụ âm), dùng 'a' không phải 'an'."
     },
     {
       "id": 36,
@@ -510,7 +510,7 @@
             "D. with"
           ],
           "correctIndex": 0,
-          "explanation": "'because of' + noun phrase ('the opportunities...')."
+          "explanation": "Điền (36): 'because of' + cụm danh từ ('the opportunities...')."
         },
         {
           "id": "37a",
@@ -522,7 +522,7 @@
             "D. pollutants"
           ],
           "correctIndex": 2,
-          "explanation": "'the pollution of the city' - noun after 'the'."
+          "explanation": "Điền (37): 'the pollution of the city' - danh từ sau 'the'."
         },
         {
           "id": "38a",
@@ -534,7 +534,7 @@
             "D. by"
           ],
           "correctIndex": 0,
-          "explanation": "'problems in the city' - location preposition."
+          "explanation": "Điền (38): 'problems in the city' - giới từ vị trí."
         },
         {
           "id": "39a",
@@ -546,7 +546,7 @@
             "D. are"
           ],
           "correctIndex": 3,
-          "explanation": "'there are many solutions' - plural subject."
+          "explanation": "Điền (39): 'there are many solutions' - chủ ngữ số nhiều."
         },
         {
           "id": "40a",
@@ -558,7 +558,7 @@
             "D. whether"
           ],
           "correctIndex": 1,
-          "explanation": "'solutions that can be used' - relative pronoun for things."
+          "explanation": "Điền (40): 'solutions that can be used' - đại từ quan hệ cho sự vật."
         }
       ]
     },
@@ -577,7 +577,7 @@
             "D. Solar energy as an alternative for fossil fuels."
           ],
           "correctIndex": 0,
-          "explanation": "The passage discusses both advantages and disadvantages of solar energy."
+          "explanation": "Đoạn văn bàn về gì? | Đáp án: A — Ưu và nhược điểm của năng lượng mặt trời | Đoạn văn thảo luận cả ưu điểm và nhược điểm của năng lượng mặt trời."
         },
         {
           "id": "42a",
@@ -589,7 +589,7 @@
             "D. other renewable resources."
           ],
           "correctIndex": 2,
-          "explanation": "'they' refers to 'solar cells' mentioned in the previous sentence."
+          "explanation": "Từ 'they' ở dòng 4 chỉ gì? | Đáp án: C — solar cells | 'they' chỉ 'solar cells' được đề cập trong câu trước."
         },
         {
           "id": "43a",
@@ -601,7 +601,7 @@
             "D. They are non-polluting."
           ],
           "correctIndex": 2,
-          "explanation": "The passage says solar cells are expensive, not cheap to produce."
+          "explanation": "Không đề cập đến điều nào là ưu điểm của pin mặt trời? | Đáp án: C — They cost little to produce | Đoạn văn nói pin mặt trời đắt, không phải rẻ."
         },
         {
           "id": "44a",
@@ -613,7 +613,7 @@
             "D. very bad"
           ],
           "correctIndex": 1,
-          "explanation": "'advantages' = 'benefits' (positive aspects)."
+          "explanation": "Từ 'advantages' ở dòng 12 nghĩa gì? | Đáp án: B — benefits | 'advantages' = 'benefits' (khía cạnh tích cực)."
         },
         {
           "id": "45a",
@@ -625,7 +625,7 @@
             "D. It is expensive."
           ],
           "correctIndex": 3,
-          "explanation": "'The main disadvantage of solar energy is that it costs about twice as much...'"
+          "explanation": "Nhược điểm chính của năng lượng mặt trời được đề cập? | Đáp án: D — It is expensive | 'The main disadvantage of solar energy is that it costs about twice as much...'."
         }
       ]
     },
@@ -641,7 +641,7 @@
         "D. This house were built in 2015."
       ],
       "correctIndex": 0,
-      "explanation": "Active to passive: was + past participle. 'This house was built in 2015.'"
+      "explanation": "Câu hỏi dịch: Họ xây ngôi nhà này năm 2015. | Đáp án: A — was built | Chủ động → bị động: was + phân từ 2. 'This house was built in 2015.'"
     },
     {
       "id": 47,
@@ -655,7 +655,7 @@
         "D. The teacher asked Mark if he would watch TV every morning."
       ],
       "correctIndex": 1,
-      "explanation": "Reported yes/no question: asked + if + statement order + backshift tense."
+      "explanation": "Câu hỏi dịch: \"Bạn có xem TV mỗi sáng không?\" Giáo viên hỏi Mark. | Đáp án: B — if he watched TV every morning | Reported yes/no question: asked + if + thứ tự câu + lùi thì."
     },
     {
       "id": 48,
@@ -669,7 +669,7 @@
         "D. If you don't take any exercise, you will feel unhealthy."
       ],
       "correctIndex": 2,
-      "explanation": "Conditional type 2 for advice about present situation: If + past simple, would + V."
+      "explanation": "Câu hỏi dịch: Bạn cảm thấy không khỏe vì không tập thể dục. | Đáp án: C — If you took more exercise, you would feel healthier | Conditional type 2 cho lời khuyên về tình huống hiện tại: If + past simple, would + V."
     },
     {
       "id": 49,
@@ -683,7 +683,7 @@
         "D. My parents live in the house was opposite my house."
       ],
       "correctIndex": 2,
-      "explanation": "'which is opposite my house' - relative clause with 'which' for things."
+      "explanation": "Câu hỏi dịch: Bố mẹ tôi sống trong ngôi nhà đối diện nhà tôi. | Đáp án: C — which is opposite my house | 'which is opposite my house' - mệnh đề quan hệ với 'which' cho sự vật."
     },
     {
       "id": 50,
@@ -697,7 +697,7 @@
         "D. Mr. Ba is very old. However, he has to work hard eight hours a day."
       ],
       "correctIndex": 3,
-      "explanation": "'However' shows contrast: despite being old, he still works hard."
+      "explanation": "Câu hỏi dịch: Ông Ba rất giàu. Ông ấy phải làm việc chăm chỉ tám tiếng một ngày. | Đáp án: D — However, he has to work hard eight hours a day | 'However' thể hiện sự tương phản: dù già nhưng vẫn phải làm việc vất vả."
     },
     {
       "id": 51,
@@ -710,7 +710,7 @@
         "This house was built in 2015.",
         "This house was built in 2015"
       ],
-      "explanation": "Chuyển chủ động sang bị động. 'They built this house' → 'This house was built in 2015'."
+      "explanation": "Câu gốc: Họ xây ngôi nhà năm 2015. | Yêu cầu: Viết lại thành bị động | Đáp án: This house was built in 2015 — Cấu trúc: was + V3 | Chuyển chủ động sang bị động."
     },
     {
       "id": 52,
@@ -724,7 +724,7 @@
         "The teacher asked Mark if he watched TV every morning",
         "The teacher asked Mark whether he watched TV every morning."
       ],
-      "explanation": "Chuyển câu hỏi trực tiếp sang gián tiếp (yes/no). 'Do you watch TV' → 'if he watched TV' — lùi thì present simple → past simple."
+      "explanation": "Câu gốc: \"Do you watch TV every morning?\" The teacher asked Mark. | Yêu cầu: Viết lại thành reported speech | Đáp án: if he watched TV every morning — Cấu trúc: if + past simple | Chuyển câu hỏi trực tiếp sang gián tiếp (yes/no): lùi thì present simple → past simple."
     },
     {
       "id": 53,
@@ -738,7 +738,7 @@
         "If you took more exercise, you would feel healthier",
         "If you took exercise, you would feel healthier."
       ],
-      "explanation": "Second conditional: If + past simple, would + infinitive for unreal present."
+      "explanation": "Câu 1: Bạn cảm thấy không khỏe vì không tập thể dục. | Yêu cầu: Kết hợp với 'If' | Đáp án: If you took more exercise, you would feel healthier — Cấu trúc: If + past simple, would + V | Second conditional cho tình huống không thực hiện ở hiện tại."
     },
     {
       "id": 54,
@@ -752,7 +752,7 @@
         "My parents live in the house which is opposite my house",
         "My parents live in the house that is opposite my house."
       ],
-      "explanation": "Use relative pronoun 'which/that' for things."
+      "explanation": "Câu 1: Bố mẹ tôi sống trong ngôi nhà. Câu 2: Ngôi nhà đối diện nhà tôi. | Yêu cầu: Kết hợp với mệnh đề quan hệ | Đáp án: which is opposite my house — Giải thích: Dùng đại từ 'which/that' cho sự vật."
     },
     {
       "id": 55,
@@ -766,7 +766,7 @@
         "Although Mr. Ba is very old, he has to work hard eight hours a day",
         "Mr. Ba is very old, but he has to work hard eight hours a day."
       ],
-      "explanation": "Although + clause for concession between contrasting facts."
+      "explanation": "Câu 1: Ông Ba rất giàu. Câu 2: Ông ấy phải làm việc chăm chỉ tám tiếng một ngày. | Yêu cầu: Kết hợp với 'Although' | Đáp án: Although Mr. Ba is very old, he has to work hard... — Giải thích: Although + mệnh đề cho sự tương phản giữa hai thực tế."
     }
   ]
 }

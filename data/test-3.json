@@ -17,7 +17,7 @@
         "D. c<u>u</u>stard"
       ],
       "correctIndex": 2,
-      "explanation": "'include' has /uː/ sound, while A, B, D have /ʌ/ sound."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? | Đáp án: C — /u:/ | A: customer — /ʌ/ | B: truck — /ʌ/ | C: include — /u:/ | D: custard — /ʌ/ | 'include' có /u:/, còn A, B, D có /ʌ/."
     },
     {
       "id": 2,
@@ -31,7 +31,7 @@
         "D. <u>ch</u>eese"
       ],
       "correctIndex": 1,
-      "explanation": "'chemistry' has /k/ sound for 'ch', while A, C, D have /tʃ/ sound."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? | Đáp án: B — /k/ | A: change — /tʃ/ | B: chemistry — /k/ | C: choose — /tʃ/ | D: cheese — /tʃ/ | 'chemistry' có /k/, còn A, C, D có /tʃ/."
     },
     {
       "id": 3,
@@ -45,7 +45,7 @@
         "D. machine"
       ],
       "correctIndex": 0,
-      "explanation": "'comment' has stress on the first syllable; B, C, D are stressed on the second."
+      "explanation": "Từ nào có trọng âm khác vị trí? | Đáp án: A — trọng âm âm tiết 1 | A: comment — âm tiết 1 | B: command — âm tiết 2 | C: compose — âm tiết 2 | D: machine — âm tiết 2 | 'comment' có trọng âm âm tiết 1, còn B, C, D có trọng âm âm tiết 2."
     },
     {
       "id": 4,
@@ -59,7 +59,7 @@
         "D. environment"
       ],
       "correctIndex": 3,
-      "explanation": "'environment' has stress on the second syllable; A, B, C have stress on the third."
+      "explanation": "Từ nào có trọng âm khác vị trí? | Đáp án: D — trọng âm âm tiết 2 | A: innovation — âm tiết 3 | B: separation — âm tiết 3 | C: installation — âm tiết 3 | D: environment — âm tiết 2 | 'environment' có trọng âm âm tiết 2, còn A, B, C có trọng âm âm tiết 3."
     },
     {
       "id": 5,
@@ -73,7 +73,7 @@
         "D. <u>in</u>"
       ],
       "correctIndex": 2,
-      "explanation": "Should be 'frightening' (V-ing adjective describes the experience, not a person)."
+      "explanation": "Câu có lỗi | Lỗi: frightened → frightening — Tính từ V-ing | 'frightened' (sợ) dùng cho người, 'frightening' (đáng sợ) dùng cho sự việc."
     },
     {
       "id": 6,
@@ -87,7 +87,7 @@
         "D. <u>to see</u>"
       ],
       "correctIndex": 3,
-      "explanation": "'look forward to' + V-ing. Should be 'to seeing'."
+      "explanation": "Câu có lỗi | Lỗi: to see → to seeing — Cấu trúc | 'look forward to' + V-ing."
     },
     {
       "id": 7,
@@ -101,7 +101,7 @@
         "D. <u>years</u>"
       ],
       "correctIndex": 0,
-      "explanation": "Should be 'has been teaching' (present perfect continuous for duration)."
+      "explanation": "Câu có lỗi | Lỗi: has begun → has been teaching — Thì động từ | Cần hiện tại hoàn thành tiếp diễn để diễn đạt hành động kéo dài."
     },
     {
       "id": 8,
@@ -115,7 +115,7 @@
         "D. don't eat"
       ],
       "correctIndex": 1,
-      "explanation": "Present perfect with 'since': I + haven't eaten. 'eaten' is the correct past participle."
+      "explanation": "Hiện tại hoàn thành với 'since': I + haven't eaten. 'eaten' là quá khứ phân từ đúng."
     },
     {
       "id": 9,
@@ -129,7 +129,7 @@
         "D. following day"
       ],
       "correctIndex": 2,
-      "explanation": "Reported speech time changes (Grammar Rule: backshifting): 'tomorrow' -> 'the next day/the following day', 'today' -> 'that day', 'yesterday' -> 'the day before/the previous day', 'now' -> 'then', 'here' -> 'there'."
+      "explanation": "Quy tắc chuyển thời gian trong tường thuật: 'tomorrow' → 'the next day', 'today' → 'that day', 'yesterday' → 'the day before', 'now' → 'then', 'here' → 'there'."
     },
     {
       "id": 10,
@@ -143,7 +143,7 @@
         "D. don't you"
       ],
       "correctIndex": 0,
-      "explanation": "Tag question for imperative: 'will you?' is used after requests."
+      "explanation": "Câu mệnh lệnh dùng tag question: 'will you?' được dùng sau yêu cầu."
     },
     {
       "id": 11,
@@ -157,7 +157,7 @@
         "D. is"
       ],
       "correctIndex": 0,
-      "explanation": "Conditional type 2: If + past simple, would + V-infinitive."
+      "explanation": "Điều kiện loại 2: If + quá khứ đơn, would + động từ nguyên mẫu."
     },
     {
       "id": 12,
@@ -171,7 +171,7 @@
         "D. commission"
       ],
       "correctIndex": 2,
-      "explanation": "'fare' is the money paid for public transport (bus, train, taxi)."
+      "explanation": "'fare' là tiền vé phương tiện công cộng (bus, train, taxi)."
     },
     {
       "id": 13,
@@ -185,7 +185,7 @@
         "D. economize"
       ],
       "correctIndex": 3,
-      "explanation": "'economize on' = save/reduce spending on. A verb is needed after 'don't'."
+      "explanation": "'economize on' = tiết kiệm. Cần động từ sau 'don't'."
     },
     {
       "id": 14,
@@ -199,7 +199,7 @@
         "D. often visits"
       ],
       "correctIndex": 1,
-      "explanation": "Present perfect 'has visited' is used for experiences (two or three times)."
+      "explanation": "Hiện tại hoàn thành 'has visited' dùng cho kinh nghiệm (hai hoặc ba lần)."
     },
     {
       "id": 15,
@@ -213,7 +213,7 @@
         "D. that"
       ],
       "correctIndex": 2,
-      "explanation": "'whose' shows possession: whose friends = his friends."
+      "explanation": "'whose' diễn đạt sở hữu: whose friends = his friends."
     },
     {
       "id": 16,
@@ -227,7 +227,7 @@
         "D. was"
       ],
       "correctIndex": 2,
-      "explanation": "'If only' + past subjunctive: 'were' is used for hypothetical situations."
+      "explanation": "'If only' + quá khứ giả định: 'were' dùng cho tình huống giả định."
     },
     {
       "id": 17,
@@ -241,7 +241,7 @@
         "D. You do."
       ],
       "correctIndex": 1,
-      "explanation": "'You too' is the natural response to wish someone the same."
+      "explanation": "'You too' là phản hồi tự nhiên khi chúc người khác điều tương tự."
     },
     {
       "id": 18,
@@ -255,7 +255,7 @@
         "D. I want."
       ],
       "correctIndex": 1,
-      "explanation": "'Coffee, please' is a polite, direct response to ordering."
+      "explanation": "'Coffee, please' là phản hồi lịch sự, trực tiếp khi order."
     },
     {
       "id": 19,
@@ -269,7 +269,7 @@
         "D. turn off"
       ],
       "correctIndex": 1,
-      "explanation": "'switch on' = 'turn on' (activate a device)."
+      "explanation": "'switch on' = 'turn on' (bật thiết bị)."
     },
     {
       "id": 20,
@@ -283,7 +283,7 @@
         "D. aggressive"
       ],
       "correctIndex": 1,
-      "explanation": "'prominent' means important, well-known = 'significant'."
+      "explanation": "'prominent' có nghĩa là quan trọng, nổi tiếng = 'significant'."
     },
     {
       "id": 21,
@@ -297,7 +297,7 @@
         "D. sufficiency"
       ],
       "correctIndex": 1,
-      "explanation": "'abundance' means a very large quantity. The opposite is 'small quantity'."
+      "explanation": "'abundance' có nghĩa là số lượng lớn. Trái nghĩa là 'small quantity'."
     },
     {
       "id": 22,
@@ -311,7 +311,7 @@
         "D. indifferent"
       ],
       "correctIndex": 2,
-      "explanation": "'congruous' means suitable, fitting. The opposite is 'unsuitable'."
+      "explanation": "'congruous' có nghĩa là phù hợp. Trái nghĩa là 'unsuitable'."
     },
     {
       "id": 23,
@@ -328,7 +328,7 @@
             "D. to"
           ],
           "correctIndex": 3,
-          "explanation": "'goes to' the landfills - direction."
+          "explanation": "'goes to' the landfills — chỉ hướng đi."
         },
         {
           "id": "24a",
@@ -340,7 +340,7 @@
             "D. in"
           ],
           "correctIndex": 1,
-          "explanation": "'have room for' = have space for something."
+          "explanation": "'have room for' = có chỗ cho việc gì đó."
         },
         {
           "id": "25a",
@@ -352,7 +352,7 @@
             "D. reduced"
           ],
           "correctIndex": 1,
-          "explanation": "'recycled and use again' - the context is about recycling garbage."
+          "explanation": "'recycled and use again' — ngữ cảnh về tái chế rác thải."
         },
         {
           "id": "26a",
@@ -364,7 +364,7 @@
             "D. saves"
           ],
           "correctIndex": 3,
-          "explanation": "Subject 'Recycling' (singular) + 'helps... and saves' (parallel structure)."
+          "explanation": "Chủ ngữ 'Recycling' (số ít) + 'helps... and saves' (cấu trúc song song)."
         },
         {
           "id": "27a",
@@ -376,7 +376,7 @@
             "D. water"
           ],
           "correctIndex": 0,
-          "explanation": "Recycling newspapers saves trees (paper comes from trees)."
+          "explanation": "Tái chế báo tiết kiệm cây (giấy làm từ cây)."
         }
       ]
     },
@@ -395,7 +395,7 @@
             "D. In the world"
           ],
           "correctIndex": 1,
-          "explanation": "The passage begins: 'In the United States, people celebrate...'"
+          "explanation": "Đoạn văn nói: 'In the United States, people celebrate...'"
         },
         {
           "id": "29a",
@@ -407,7 +407,7 @@
             "D. On the eight of March"
           ],
           "correctIndex": 0,
-          "explanation": "The passage states: 'Mother's Day is celebrated on the second Sunday in May.'"
+          "explanation": "Đoạn văn ghi: 'Mother's Day is celebrated on the second Sunday in May.'"
         },
         {
           "id": "30a",
@@ -419,7 +419,7 @@
             "D. No, they don't."
           ],
           "correctIndex": 1,
-          "explanation": "The passage says 'their working days are often very hard.'"
+          "explanation": "Đoạn văn ghi: 'their working days are often very hard.'"
         },
         {
           "id": "31a",
@@ -431,7 +431,7 @@
             "D. all are correct"
           ],
           "correctIndex": 1,
-          "explanation": "The passage explicitly states 'Flowers are an important part of Mother's Day.' Only 'flower' is specifically called 'an important part' in the text."
+          "explanation": "Đoạn văn ghi rõ: 'Flowers are an important part of Mother's Day.' Chỉ có 'flower' được gọi là 'an important part' trong văn bản."
         },
         {
           "id": "32a",
@@ -443,7 +443,7 @@
             "D. On the eight of March."
           ],
           "correctIndex": 2,
-          "explanation": "The passage states: 'Father's Day is celebrated... on the third Sunday in June.'"
+          "explanation": "Đoạn văn ghi: 'Father's Day is celebrated... on the third Sunday in June.'"
         }
       ]
     },
@@ -514,7 +514,7 @@
         "The professor whose course I am taking is excellent.",
         "The professor whose course I am taking is excellent"
       ],
-      "explanation": "'whose' replaces 'his' to form a relative clause showing possession."
+      "explanation": "'whose' thay 'his' để tạo mệnh đề quan hệ chỉ sở hữu."
     },
     {
       "id": 38,
@@ -528,7 +528,7 @@
         "Neither Mr. Tibbs nor Mr Smith drives carefully",
         "Neither Mr Tibbs nor Mr Smith drives carefully."
       ],
-      "explanation": "'Neither... nor...' combines two negative ideas."
+      "explanation": "'Neither... nor...' kết hợp hai ý phủ định."
     },
     {
       "id": 39,
@@ -543,7 +543,7 @@
         "The shoes are so big that my mother cannot fit her feet.",
         "The shoes are so big that my mother cannot fit her feet"
       ],
-      "explanation": "'so + adjective + that' clause expresses result."
+      "explanation": "'so + adjective + that' diễn đạt kết quả."
     },
     {
       "id": 40,
@@ -557,7 +557,7 @@
         "Both Ted and Tony have won a medal",
         "Both Ted and Tony have won medals."
       ],
-      "explanation": "'Both... and...' combines two similar positive ideas."
+      "explanation": "'Both... and...' kết hợp hai ý tích cực tương tự."
     }
   ]
 }

@@ -17,7 +17,7 @@
         "D. day<u>s</u>"
       ],
       "correctIndex": 3,
-      "explanation": "'days' ends with /z/ sound, while A, B, C end with /s/ sound."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? | Đáp án: D — /z/ | A: /s/ — Các từ proof, book, point cùng phát âm /s/ | B: /s/ | C: /s/ | D: /z/ — Khác với ba từ kia"
     },
     {
       "id": 2,
@@ -31,7 +31,7 @@
         "D. want<u>ed</u>"
       ],
       "correctIndex": 3,
-      "explanation": "'wanted' ends with /ɪd/ sound, while A, B, C end with /t/ sound."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? | Đáp án: D — /ɪd/ | A: /t/ — Các từ worked, stopped, forced cùng phát âm /t/ | B: /t/ | C: /t/ | D: /ɪd/ — Khác với ba từ kia"
     },
     {
       "id": 3,
@@ -45,7 +45,7 @@
         "D. h<u>ea</u>t"
       ],
       "correctIndex": 0,
-      "explanation": "'dead' has /e/ sound, while B, C, D have /iː/ sound."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? | Đáp án: A — /e/ | B: /iː/ — Các từ scream, meat, heat cùng phát âm /iː/ | B: /iː/ | C: /iː/ | D: /iː/ — A khác với ba từ kia"
     },
     {
       "id": 4,
@@ -59,7 +59,7 @@
         "D. <u>ch</u>emistry"
       ],
       "correctIndex": 3,
-      "explanation": "'chemistry' has /k/ sound for 'ch', while A, B, C have /tʃ/ sound."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? | Đáp án: D — /k/ | A: /tʃ/ — Các từ choice, achieve, each cùng phát âm /tʃ/ | B: /tʃ/ | C: /tʃ/ | D: /k/ — D khác với ba từ kia"
     },
     {
       "id": 5,
@@ -73,7 +73,7 @@
         "D. sh<u>i</u>ne"
       ],
       "correctIndex": 1,
-      "explanation": "'written' has /ɪ/ sound, while A, C, D have /aɪ/ sound."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? | Đáp án: B — /ɪ/ | A: /aɪ/ — Các từ ride, driving, shine cùng phát âm /aɪ/ | A: /aɪ/ | C: /aɪ/ | D: /aɪ/ — B khác với ba từ kia"
     },
     {
       "id": 6,
@@ -87,7 +87,7 @@
         "D. hasn't she"
       ],
       "correctIndex": 3,
-      "explanation": "'has finished' (present perfect) -> tag 'hasn't she?'"
+      "explanation": "Câu hỏi dịch: Cô ấy đã hoàn thành khóa học, phải không? | Đáp án: D | A: Trả lời cho has (lỗi) | B: Trả lời cho does (lỗi) | C: Trả lời cho did (lỗi) | D: Trả lời cho has — Has finished (hiện tại hoàn thành) → tag hasn't she?"
     },
     {
       "id": 7,
@@ -101,7 +101,7 @@
         "D. no article"
       ],
       "correctIndex": 2,
-      "explanation": "'an M.C' - 'M' starts with /em/ (vowel sound), so use 'an'."
+      "explanation": "Câu hỏi dịch: Anh ấy đã làm MC được hai năm. | Đáp án: C — M bắt đầu bằng nguyên âm /em/ | A: A + phụ âm (lỗi) | B: The xác định cụ thể (lỗi) | C: An + nguyên âm — 'M' phát âm /em/ là nguyên âm | D: Cần mạo từ (lỗi)"
     },
     {
       "id": 8,
@@ -115,7 +115,7 @@
         "D. on"
       ],
       "correctIndex": 0,
-      "explanation": "'put off' = postpone."
+      "explanation": "Câu hỏi dịch: Nếu trời mai mưa, chúng tôi sẽ phải hoãn trận đấu đến chủ nhật. | Đáp án: A — Hoãn lại | B: Để đi (lỗi) | C: Để vào (lỗi) | D: Tiếp tục (lỗi) | 'put off' = hoãn lại"
     },
     {
       "id": 9,
@@ -129,7 +129,7 @@
         "D. to failure"
       ],
       "correctIndex": 0,
-      "explanation": "'worried about + V-ing/noun'. The intended word is 'failing' (failing an exam). 'About falling' in the original test is likely a typo for 'about failing'. Regardless, the grammar pattern tested is 'worried about + V-ing'."
+      "explanation": "Câu hỏi dịch: Tôi lo lắng về kỳ thi cuối kỳ môn thống kê. | Đáp án: A — lo lắng về việc gì | B: Không dùng worried to (lỗi) | C: Không dùng worried with (lỗi) | D: Không dùng worried to failure (lỗi) | 'worried about + -ing' = lo lắng về"
     },
     {
       "id": 10,
@@ -143,7 +143,7 @@
         "D. cleaned"
       ],
       "correctIndex": 3,
-      "explanation": "'last weekend' requires past simple: 'cleaned'."
+      "explanation": "Câu hỏi dịch: Cô ấy dọn nhà cuối tuần trước. | Đáp án: D — quá khứ đơn | A: Quá khứ tiến diễn (không cần) | B: Hiện tại đơn (sai thì) | C: Toán từ không có (lỗi) | 'last weekend' → quá khứ đơn: cleaned"
     },
     {
       "id": 11,
@@ -157,7 +157,7 @@
         "D. are used to collect"
       ],
       "correctIndex": 0,
-      "explanation": "'used to + V-infinitive' for past habits."
+      "explanation": "C��u hỏi dịch: Họ từng sưu tầm tem và tiền xu khi còn nhỏ. | Đáp án: A — thói quen quá khứ | B: Quen làm gì (hiện tại, lỗi) | C: Không đúng cấu trúc (lỗi) | D: Quen làm gì (hiện tại, lỗi) | 'used to + V' = từng có thói quen"
     },
     {
       "id": 12,
@@ -171,7 +171,7 @@
         "D. had won"
       ],
       "correctIndex": 0,
-      "explanation": "Conditional type 2: If + past simple ('won'), would + V."
+      "explanation": "Câu hỏi dịch: Bạn sẽ làm gì nếu bạn trúng một triệu bảng? | Đáp án: A — điều kiện loại 2 | B: Quá khứ đơn mới đúng (lỗi) | C: Tương lai (không phù hợp) | D: Quá khứ hoàn thành (sai) | ĐK loại 2: If + quá khứ đơn → would + V"
     },
     {
       "id": 13,
@@ -185,7 +185,7 @@
         "D. pleased"
       ],
       "correctIndex": 3,
-      "explanation": "'pleased with' = happy about (past participle for feelings of people)."
+      "explanation": "Câu hỏi dịch: Bố mẹ Nam rất vui vì thành công của anh ấy. | Đáp án: D — tính từ biểu cảm | A: Động từ (không phải) | B: Dễ chịu (tính từ chung) | C: Làm vui (cho người khác) | D: Vui về — 'pleased with' = hài lòng, vui vì (dạng quá khứ phân từ biểu cảm cảm xúc)"
     },
     {
       "id": 14,
@@ -199,7 +199,7 @@
         "D. because of"
       ],
       "correctIndex": 3,
-      "explanation": "'because of' + noun phrase ('her long walk')."
+      "explanation": "Câu hỏi dịch: Cô ấy mệt vì cuộc đi bộ dài. | Đáp án: D — giới từ + danh từ | A: Because + mệnh đề (cần có chủ ngữ) | B: Since + mệnh đề (cần có chủ ngữ) | C: As + mệnh đề (cần có chủ ngữ) | D: Because of + danh từ — 'her long walk' là danh từ"
     },
     {
       "id": 15,
@@ -213,7 +213,7 @@
         "D. and"
       ],
       "correctIndex": 0,
-      "explanation": "'since' = because (+ clause). She's hungry since/because she hasn't eaten."
+      "explanation": "Câu hỏi dịch: Nga đói vì cô ấy chưa ăn gì cả ngày. | Đáp án: A — vì (liên từ) | B: Because of + danh từ (lỗi) | C: Mặc dù (nghĩa lỗi) | D: Và (không diễn đạt lý do) | 'since' = because (liên từ)"
     },
     {
       "id": 16,
@@ -227,7 +227,7 @@
         "D. is"
       ],
       "correctIndex": 2,
-      "explanation": "Wish + past subjunctive 'were' for present unreal wishes."
+      "explanation": "Câu hỏi dịch: Họ ước trời nắng. | Đáp án: C — wish + quá khứ phân từ giả định | A: Không dùng được be (lỗi) | B: Were nhưng không đúng nghĩa giả định (chưa phải) | C: Were — Trong câu ước, dùng were cho sự việc không thực | D: Is (hiện tại, không phải ước)"
     },
     {
       "id": 17,
@@ -241,7 +241,7 @@
         "D. mustn't"
       ],
       "correctIndex": 1,
-      "explanation": "'so that you won't miss' - purpose clause with future negative."
+      "explanation": "Câu hỏi dịch: Đi sớm để không bỏ lỡ xe buýt. | Đáp án: B — mệnh đề mục đích tương lai | A: Quá khứ (lỗi) | B: Won't — Mệnh đề mục đích tương lai: so that you won't | C: Shouldn't (nghĩa không đúng) | D: Mustn't (cấm, không phải mục đích)"
     },
     {
       "id": 18,
@@ -255,7 +255,7 @@
         "D. will be fined"
       ],
       "correctIndex": 0,
-      "explanation": "Conditional type 2 with passive voice (Grammar Rule: If + past simple, would + be + past participle). 'If you didn't stop, you would be fined' = unreal present condition with passive result. 'Would fined' (B) is wrong - missing 'be'. 'Will be fined' (D) is wrong - type 1 result doesn't match type 2 condition ('didn't stop')."
+      "explanation": "Câu hỏi dịch: Nếu bạn không dừng lại, bạn sẽ bị phạt. | Đáp án: A — bị động, điều kiện loại 2 | B: Thiếu be (lỗi) | C: Thiếu be (lỗi) | D: Will không phù hợp với If didn't (sai loại điều kiện) | ĐK loại 2 + bị động: would + be + phân từ 2"
     },
     {
       "id": 19,
@@ -269,7 +269,7 @@
         "D. keep on"
       ],
       "correctIndex": 0,
-      "explanation": "'turn on' the lights = switch them on."
+      "explanation": "Câu hỏi dịch: Tối quá, xin hãy bật hết đèn lên. | Đáp án: A — bật đèn | B: Lên xe (lỗi) | C: Tiếp tục (lỗi) | D: Tiếp tục làm (lỗi) | 'turn on' = bật, mở (điện)"
     },
     {
       "id": 20,
@@ -283,7 +283,7 @@
         "D. don't to smoke"
       ],
       "correctIndex": 1,
-      "explanation": "'ask someone not to + V-infinitive'."
+      "explanation": "Câu hỏi dịch: Xin hãy yêu cầu nhân viên phục vụ không hút thuốc trong khu vực cấm. | Đáp án: B — sai động từ nguyên thể | A: Cấu trúc sai (lỗi) | B: Not to smoke — 'ask someone not to + V' | C: Không đúng cấu trúc (lỗi) | D: Cấu trúc sai (lỗi)"
     },
     {
       "id": 21,
@@ -297,7 +297,7 @@
         "D. the greater"
       ],
       "correctIndex": 1,
-      "explanation": "'the most expensive' - superlative for comparing 4+ items."
+      "explanation": "Câu hỏi dịch: Trong bốn chiếc đầm, cái nào đắt nhất? | Đáp án: B — so sánh nhất | A: Best cho tốt nhất (lỗi) | B: Most — So sánh nhất với 4+ vật: the most | C: So sánh hơn (2 vật, lỗi) | D: Greater không dùng cho đắt (lỗi)"
     },
     {
       "id": 22,
@@ -311,7 +311,7 @@
         "D. educative"
       ],
       "correctIndex": 2,
-      "explanation": "'an educator' - noun for a person, after 'As an'."
+      "explanation": "Câu hỏi dịch: Là một giáo viên, ông Pike rất lo về tội phạm vị thành niên. | Đáp án: C — người làm nghề | A: Động từ (không phải) | B: Danh từ (sai loại từ) | C: Educator — 'As an' + danh từ chỉ người | D: Tính từ (không phải)"
     },
     {
       "id": 23,
@@ -325,7 +325,7 @@
         "D. unnaturally"
       ],
       "correctIndex": 1,
-      "explanation": "'natural resources' - adjective + noun."
+      "explanation": "Câu hỏi dịch: Than đá, dầu mỏ, khí đốt... là tài nguyên _______. | Đáp án: B — tự nhiên | A: Danh từ (lỗi) | B: Natural — Tính từ + danh từ | C: Trạng từ (lỗi) | D: Trạng từ phủ định (lỗi) | 'natural resources' = tài nguyên thiên nhiên"
     },
     {
       "id": 24,
@@ -339,7 +339,7 @@
         "D. breakfast"
       ],
       "correctIndex": 0,
-      "explanation": "'a special meal' is the most general term for a special eating occasion."
+      "explanation": "Câu hỏi dịch: Đêm Passover, các gia đình Do Thái ăn một _______. | Đáp án: A — bữa ăn | B: Trưa (quá cụ thể) | C: Tối (quá cụ thể) | D: Sáng (quá cụ thể) | 'meal' = bữa ăn (từ chung nhất)"
     },
     {
       "id": 25,
@@ -353,7 +353,7 @@
         "D. date"
       ],
       "correctIndex": 1,
-      "explanation": "'on this occasion' = on this special event/celebration."
+      "explanation": "Câu hỏi dịch: Vào _______, mẹ thường nhận được thiệp, hoa và quà từ chồng và con. | Đáp án: B — dịp, dịp đặc biệt | A: Cơ hội (không đúng nghĩa) | B: Occasion — 'on this occasion' = vào ngày đặc biệt này | C: Cơ hội (chưa có) | D: Ngày tháng (lỗi)"
     },
     {
       "id": 26,
@@ -367,7 +367,7 @@
         "D. that"
       ],
       "correctIndex": 1,
-      "explanation": "'to whom' - preposition + whom for people."
+      "explanation": "Câu hỏi dịch: Cậu bé mà tôi cho vay tiền nghèo. | Đáp án: B — whom làm tân ngữ | A: Who làm chủ ngữ (lỗi) | B: Whom — Giới từ +whom cho người | C: Which cho vật (lỗi) | D: That thường dùng nhưng sau giới từ dùng whom"
     },
     {
       "id": 27,
@@ -381,7 +381,7 @@
         "D. glad"
       ],
       "correctIndex": 1,
-      "explanation": "'refreshed' means feeling rested and energized again = 'relaxed'."
+      "explanation": "Câu hỏi dịch: Họ cảm thấy tỉnh táo, tràn đầy năng lượng sau chuyến đi Đà Lạt. | Đáp án: B — thoải mái, nghỉ ngơi | A: Vui vẻ (hạnh phúc) | B: Relaxed — 'refreshed' = được nghỉ ngơi, hồi phục năng lượng | C: Hài lòng | D: Vui mừng"
     },
     {
       "id": 28,
@@ -395,7 +395,7 @@
         "D. exist"
       ],
       "correctIndex": 0,
-      "explanation": "'run out' = become exhausted/depleted = 'end'."
+      "explanation": "Câu hỏi dịch: Nếu không cố gắng bảo tồn tài nguyên thiên nhiên, chúng sẽ cạn kiệt. | Đáp án: A — hết, cạn | A: End — 'run out' = cạn kiệt, hết | B: Kéo dài mãi (nghĩa ngược) | C: Giảm (chưa phải) | D: Tồn tại (nghĩa ngược)"
     },
     {
       "id": 29,
@@ -409,7 +409,7 @@
         "D. fix"
       ],
       "correctIndex": 1,
-      "explanation": "'open' is the opposite of 'shut/close'. Both A and B work, but 'shut' is the listed answer."
+      "explanation": "Câu hỏi dịch: Mở cửa | Đáp án: B — đóng | A: Close — Nghĩa đúng nhưng đáp án là shut | B: Shut — 'open' đối lập với 'shut' và 'close' đều đúng, nhưng shut là đáp án | C: Kéo (lỗi) | D: Sửa (lỗi)"
     },
     {
       "id": 30,
@@ -423,7 +423,7 @@
         "D. helpful"
       ],
       "correctIndex": 0,
-      "explanation": "'generous' (giving freely) is the opposite of 'mean' (stingy)."
+      "explanation": "Câu hỏi dịch: Anh ấy là người hào phóng nhất tôi từng gặp. | Đáp án: A — keo kiệt | A: Mean — 'generous' (hào phóng) ↔ 'mean' (keo kiệt) | B: Tốt bụng (gần nghĩa) | C: Thân thiện (gần nghĩa) | D: Giúp đỡ (hành động)"
     },
     {
       "id": 31,
@@ -437,7 +437,7 @@
         "D. Congratulations!"
       ],
       "correctIndex": 3,
-      "explanation": "'Congratulations!' is the natural response to good news about passing an exam."
+      "explanation": "Câu hỏi dịch: Thanh: Tôi đã đỗ kỳ thi. Ba nói gì? | Đáp án: D — Chúc mừng | A: Chúc may mắn (trước khi thi) | B: Cảm ơn đã nói (lỗi) | C: Đó là ý hay (lỗi) | D: Congratulations! — Phản ứng tự nhiên khi người khác đỗ thi"
     },
     {
       "id": 32,
@@ -451,7 +451,7 @@
         "D. Yes, so do I"
       ],
       "correctIndex": 0,
-      "explanation": "'Yes, I'd love to' is the standard acceptance of an invitation."
+      "explanation": "Câu hỏi dịch: Ông Ba mời đi ăn tối, cô Ha trả lời gì? | Đáp án: A — Đồng ý lịch sự | A: Yes, I'd love to — Cách đồng ý lời mời lịch sự nhất | B: Tôi rất vui (lỗi) | C: Vâng, nó đúng (lỗi) | D: Vâng, tôi cũng vậy (lỗi)"
     },
     {
       "id": 33,
@@ -468,7 +468,7 @@
             "D. the distance"
           ],
           "correctIndex": 0,
-          "explanation": "The passage says they are 'talking about, worrying about... their weight'."
+          "explanation": "Đoạn văn: Hầu hết người chạy bộ thừa cân đều lo lắng về cân nặng. | Câu hỏi: Họ lo lắng về gì? | Đáp án: A | A: Cân nặng — Đoạn văn nói 'worrying about... their weight' | B: Chiều cao (lỗi) | C: Chạy bộ (lỗi) | D: Khoảng cách (lỗi)"
         },
         {
           "id": "34a",
@@ -480,7 +480,7 @@
             "D. jogging is a waste of time"
           ],
           "correctIndex": 1,
-          "explanation": "'it is not surprising that body size is important' - many people care about body size."
+          "explanation": "Đoạn văn: Nhiều người bắt đầu chạy để giảm cân nên cân nặng rất quan trọng. | Câu hỏi: Đối với nhiều người, _______. | Đáp án: B | A: Không phải vấn đề (nghĩa ngược) | B: Rất quan trọng — 'body size is important' | C: Không quan tâm (nghĩa ngược) | D: Phí thời gian (lỗi)"
         },
         {
           "id": "35a",
@@ -492,7 +492,7 @@
             "D. 75% men are on a diet"
           ],
           "correctIndex": 1,
-          "explanation": "The passage states '50% of the women... in the US are watching what they eat.'"
+          "explanation": "Đoạn văn: 50% phụ nữ và khoảng 25% nam giới ở Mỹ đang ăn kiêng. | Câu hỏi: Ở Mỹ, _______. | Đáp án: B | A: Không ai (lỗi) | B: 50% phụ nữ — '50% of the women... are watching what they eat' | C: Béo được đánh giá (lỗi) | D: 75% nam (sai, chỉ 25%)"
         },
         {
           "id": "36a",
@@ -504,7 +504,7 @@
             "D. heart disease and high blood pressure"
           ],
           "correctIndex": 3,
-          "explanation": "'heart disease and high blood pressure are the first!' (most talked about)."
+          "explanation": "Đoạn văn: Cân nặng đứng thứ hai, bệnh tim và cao huyết áp đứng thứ nhất. | Câu hỏi: Điều gì được nói nhiều nhất? | Đáp án: D | A: Cân nặng (thứ hai) | B: Ung thư phổi (lỗi) | C: Chết (lỗi) | D: Bệnh tim và cao huyết áp — 'heart disease and high blood pressure are the first!'"
         },
         {
           "id": "37a",
@@ -516,7 +516,7 @@
             "D. body type and heart disease"
           ],
           "correctIndex": 0,
-          "explanation": "The passage lists: 'body type, diet, exercise level, sex and age.'"
+          "explanation": "Đoạn văn: Các yếu tố ảnh hưởng đến cân nặng gồm: thể loại, chế độ ăn, mức độ tập thể dục, giới tính và tuổi tác. | Câu hỏi: Chúng là _______. | Đáp án: A | A: Thể loại, chế độ ăn, mức độ tập, giới tính và tuổi — Đoạn văn liệt kê đầy đủ | B: Thiếu (lỗi) | C: Bệnh tim (lỗi) | D: Thiếu (lỗi)"
         }
       ]
     },
@@ -535,7 +535,7 @@
             "D. If"
           ],
           "correctIndex": 2,
-          "explanation": "'When the trucks have a short break' - time clause."
+          "explanation": "Đoạn văn: (38) _______ xe tải nghỉ ngơi trên đường. | Câu hỏi: Chọn từ cho (38). | Đáp án: C | A: Cái gì (lỗi) | B: Ở đâu (lỗi) | C: When — Mạnh đề thời gian 'When the trucks have a short break' | D: Nếu (lỗi)"
         },
         {
           "id": "39a",
@@ -547,7 +547,7 @@
             "D. city"
           ],
           "correctIndex": 1,
-          "explanation": "'around my house' - consistent with the opening sentence."
+          "explanation": "Đoạn văn: Trên đường gần (39) _______ của tôi. | Câu hỏi: Chọn từ cho (39). | Đáp án: B | A: Làng (lỗi) | B: House — 'around my house' phù hợp với câu đầu | C: Thị trấn (lỗi) | D: Thành phố (lỗi)"
         },
         {
           "id": "40a",
@@ -559,7 +559,7 @@
             "D. on"
           ],
           "correctIndex": 3,
-          "explanation": "'on the ground' - preposition for surface."
+          "explanation": "Đoạn văn: Rác trên (40) _______ mặt đất. | Câu hỏi: Chọn giới từ cho (40). | Đáp án: D | A: Tại (lỗi) | B: Của (lỗi) | C: Trong (lỗi) | D: On — 'on the ground' = trên mặt đất"
         },
         {
           "id": "41a",
@@ -571,7 +571,7 @@
             "D. and"
           ],
           "correctIndex": 3,
-          "explanation": "'and a few minutes later' - adding information."
+          "explanation": "Đoạn văn: Đất đầy rác, (41) _______ vài phút sau có mùi và ruồi. | Câu hỏi: Chọn liên từ cho (41). | Đáp án: D | A: Nếu (lỗi) | B: Nhưng (lỗi) | C: Vì (lỗi) | D: And — Thêm thông tin, kết hợp 2 câu"
         },
         {
           "id": "42a",
@@ -583,7 +583,7 @@
             "D. to seeing"
           ],
           "correctIndex": 2,
-          "explanation": "'look forward to' + V-ing: 'hearing from you and seeing good response'."
+          "explanation": "Đoạn văn: Tôi mong đợi (42) _______ phản hồi tốt. | Câu hỏi: Chọn dạng từ cho (42). | Đáp án: C | A: Xem (lỗi) | B: To see (lỗi) | C: Seeing — 'look forward to + -ing' | D: To seeing (lỗi)"
         }
       ]
     },
@@ -599,7 +599,7 @@
         "D. <u>for</u>"
       ],
       "correctIndex": 0,
-      "explanation": "'he makes' - third person singular requires 's' in present simple."
+      "explanation": "Câu có lỗi | Lỗi: he make → he makes — Dạng lỗi: Ngôi thứ 3 số hiện tại, thiếu s | Vì sao: Câu điều kiện (If + present simple), chủ ngữ 'he' là ngôi thứ 3, cần thêm 's'"
     },
     {
       "id": 44,
@@ -613,7 +613,7 @@
         "D. <u>went to</u>"
       ],
       "correctIndex": 2,
-      "explanation": "When referring to both people and things/animals, use 'that' not 'which'."
+      "explanation": "Câu có lỗi | Lỗi: which → that — Dạng lỗi: Đại từ quan hệ cho người + vật | Vì sao: Khi chỉ cả người và vật, dùng 'that' thay vì 'which'"
     },
     {
       "id": 45,
@@ -627,7 +627,7 @@
         "D. <u>eating</u>"
       ],
       "correctIndex": 3,
-      "explanation": "Parallel structure: 'to smoke and eat' (both infinitives after 'allows us to')."
+      "explanation": "Câu có lỗi | Lỗi: eating → to eat — Dạng lỗi: Cấu trúc song song (parallel structure) | Vì sao: Sau 'allows us to' cần 2 nguyên thể giống nhau: 'to smoke and eat'"
     },
     {
       "id": 46,
@@ -641,7 +641,7 @@
         "D. The church was being built for two hundred years ago."
       ],
       "correctIndex": 1,
-      "explanation": "Passive past simple: was + past participle. 'two hundred years ago' (no 'for')."
+      "explanation": "Câu gốc: Họ xây nhà thờ cách đây 200 năm. | Cách kết hợp: Chuyển chủ động sang bị động quá khứ | Đáp án: B — The church was built two hundred years ago | A: Thêm 'for' (lỗi) | B: Was built (đúng) | C: Was building (tiến diễn, lỗi) | D: Was being built (tiến diễn bị động, lỗi)"
     },
     {
       "id": 47,
@@ -655,7 +655,7 @@
         "D. Tom said he had already had breakfast, so he was was not hungry."
       ],
       "correctIndex": 2,
-      "explanation": "Reported speech: backshift tenses. 'have had' -> 'had had', 'am' -> 'was'."
+      "explanation": "Câu gốc: Tom nói: Tôi đã ăn sáng rồi nên không đói. | Cách kết hợp: Chuyển câu trực tiếp sang gián tiếp, l��i th�� | Đáp án: C — had + had + was | A: 'is' chưa lùi thành 'was' (lỗi) | B: 'has' chưa lùi thành 'had' (lỗi) | C: Had + had + was (đúng) | D: Was was (lỗi)"
     },
     {
       "id": 48,
@@ -669,7 +669,7 @@
         "D. The man seeing you on TV last night is my closest friend."
       ],
       "correctIndex": 1,
-      "explanation": "'whom' as object of relative clause: 'the man whom you saw'."
+      "explanation": "Câu 1: Người đó là bạn thân của tôi. Câu 2: Bạn xem anh ấy trên TV tối qua. | Cách kết hợp: Dùng đại từ quan hệ whom (tân ngữ) | Đáp án: B — whom you saw | A: Whose (sở hữu, lỗi) | B: Whom — Tân ngữ của động từ 'saw' | C: When (thời gian, lỗi) | D: Seeing (phân từ, lỗi)"
     },
     {
       "id": 49,
@@ -683,7 +683,7 @@
         "D. Unless you keep your feet wet, you won't catch a cold."
       ],
       "correctIndex": 1,
-      "explanation": "'Unless' = 'If not'. Unless you keep feet dry = If you don't keep feet dry."
+      "explanation": "Câu gốc: Trừ phi giữ chân khô, bạn sẽ bị cảm. | Cách kết hợp: Unless = If not | Đáp án: B — If you don't | A: Even if (mặc dù, khác nghĩa) | B: If you don't — Đúng nghĩa với Unless | C: If you keep (nghĩa ngược, lỗi) | D: Unless wet (khô → ướt, lỗi)"
     },
     {
       "id": 50,
@@ -697,7 +697,7 @@
         "D. However we felt cold, we kept walking."
       ],
       "correctIndex": 1,
-      "explanation": "'Despite + V-ing' = 'Although + clause'. 'Although we felt cold, we kept walking.'"
+      "explanation": "Câu gốc: Dù cảm thấy lạnh, chúng tôi vẫn tiếp tục đi bộ. | Cách kết hợp: Despite + -ing = Although + clause | Đáp án: B — Although we felt cold | A: In spite of + we felt (cần có 'of', lỗi) | B: Although we felt (đúng) | C: However + but (thừa, lỗi) | D: However + we felt (thiếu so sánh, lỗi)"
     },
     {
       "id": 51,
@@ -711,7 +711,7 @@
         "The church was built two hundred years ago",
         "The church was built 200 years ago."
       ],
-      "explanation": "Chuyển chủ động sang bị động thì quá khứ đơn. 'built the church' → 'The church was built two hundred years ago'."
+      "explanation": "Câu gốc dịch: Họ xây nhà thờ cách đây 200 năm. | Yêu cầu dịch: Viết lại thành câu bị động | Đáp án: The church was built two hundred years ago | Cấu trúc: Chủ ngữ + was/were + phân từ 2 + thời gian | Giải thích: Chuyển chủ động → bị động: 'They built' → 'The church was built'"
     },
     {
       "id": 52,
@@ -725,7 +725,7 @@
         "Tom said he had already had breakfast, so he was not hungry",
         "Tom said that he had already had breakfast, so he was not hungry."
       ],
-      "explanation": "Chuyển câu trực tiếp sang gián tiếp, lùi thì. 'have already had' → 'had already had', 'am not' → 'was not'."
+      "explanation": "Câu gốc dịch: Tom nói: Tôi đã ăn sáng rồi nên không đói. | Yêu cầu dịch: Viết lại thành câu gián tiếp | Đáp án: Tom said he had already had breakfast, so he was not hungry | Cấu trúc: Quy tắc lùi thì: have → had, am → was | Giải thích: 'have had' → 'had had', 'am not' → 'was not', bỏ 'that'"
     },
     {
       "id": 53,
@@ -740,7 +740,7 @@
         "The man who you saw on TV last night is my closest friend.",
         "The man that you saw on TV last night is my closest friend."
       ],
-      "explanation": "Use 'whom/who/that' as object relative pronoun for people."
+      "explanation": "Câu 1 dịch: Người đó là bạn thân của tôi. Câu 2 dịch: Bạn xem anh ấy trên TV tối qua. | Cách kết hợp: Dùng đại từ quan hệ whom/who/that cho tân ngữ | Đáp án: The man whom you saw on TV last night is my closest friend | Giải thích: 'whom/who/that' làm tân ngữ của động từ 'saw'"
     },
     {
       "id": 54,
@@ -753,7 +753,7 @@
         "If you don't keep your feet dry, you will catch a cold.",
         "If you don't keep your feet dry, you will catch a cold"
       ],
-      "explanation": "Unless = If ... not. 'Unless you keep your feet dry' → 'If you don't keep your feet dry'."
+      "explanation": "Câu gốc dịch: Trừ phi giữ chân khô, bạn sẽ bị cảm. | Yêu cầu dịch: Viết lại bắt đầu bằng 'If you don't' | Đáp án: If you don't keep your feet dry, you will catch a cold | Cấu trúc: Unless = If ... not | Giải thích: 'Unless you keep' → 'If you don't keep'"
     },
     {
       "id": 55,
@@ -767,7 +767,7 @@
         "Although we felt cold, we kept walking",
         "Although we were feeling cold, we kept walking."
       ],
-      "explanation": "Chuyển 'Despite + V-ing' thành 'Although + mệnh đề'. 'Despite feeling cold' → 'Although we felt cold'."
+      "explanation": "Câu gốc dịch: Dù cảm thấy lạnh, chúng tôi vẫn tiếp tục đi bộ. | Yêu cầu dịch: Viết lại bắt đầu bằng 'Although' | Đáp án: Although we felt cold, we kept walking | Cấu trúc: Despite + -ing = Although + clause | Giải thích: 'Despite feeling cold' → 'Although we felt cold'"
     }
   ]
 }

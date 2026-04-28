@@ -17,7 +17,7 @@
         "D. m<u>e</u>dicine"
       ],
       "correctIndex": 3,
-      "explanation": "'medicine' is pronounced /ˈmedsɪn/ with /e/ sound, while A, B, C have /iː/ in the underlined 'e' (intermediate, immediate, medium)."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? intermediate, immediate, medium, medicine | D — medicine /e/, còn A,B,C /iː/ | A: intermediate /ˈɪntəmiːdiət/ | B: immediate /ɪmiːdiət/ | C: medium /miːdiəm/ | D: medicine /medsɪn/"
     },
     {
       "id": 2,
@@ -31,7 +31,7 @@
         "D. th<u>u</u>nder"
       ],
       "correctIndex": 0,
-      "explanation": "'bury' is pronounced /ˈberi/ with /e/ sound, while B, C, D have /ʌ/."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? bury, hurry, hungry, thunder | A — bury /e/, còn B,C,D /ʌ/ | A: bury /ˈberi/ | B: hurry /ˈhʌri/ | C: hungry /ˈhʌŋɡri/ | D: thunder /ˈθʌndər/"
     },
     {
       "id": 3,
@@ -45,7 +45,7 @@
         "D. modernize"
       ],
       "correctIndex": 3,
-      "explanation": "'modernize' has stress on the first syllable; the others are stressed on the second syllable."
+      "explanation": "Từ nào có trọng âm khác vị trí? convenient, encourage, material, modernize | D — modernize /ˈmɒdənaɪz/ (âm 1), còn A,B,C /ə/ (âm 2) | A: convenient /kənviːniənt/ | B: encourage /ɪnkʌrɪdʒ/ | C: material /mətɪəriəl/ | D: modernize /ˈmɒdənaɪz/"
     },
     {
       "id": 4,
@@ -59,7 +59,7 @@
         "D. expectation"
       ],
       "correctIndex": 0,
-      "explanation": "'television' has stress on the first syllable; B, C, D have stress on the third syllable."
+      "explanation": "Từ nào có trọng âm khác vị trí? television, decoration, introduction, expectation | A — television /ˈtelɪvɪʒn/ (âm 1), còn B,C,D /ek/ (âm 3) | A: television /ˈtelɪvɪʒn/ | B: decoration /ˌdekəreɪʃn/ | C: introduction /ˌɪntrədʌkʃn/ | D: expectation /ˌekspekteɪʃn/"
     },
     {
       "id": 5,
@@ -73,7 +73,7 @@
         "D. <u>a problem</u>"
       ],
       "correctIndex": 0,
-      "explanation": "'used to' + V-infinitive (not V-ing) for past habits (Grammar Rule: 'used to + bare infinitive' for things that happened regularly in the past but no longer happen). Correct: 'used to give'. Do NOT confuse with 'be used to + V-ing' (= be accustomed to)."
+      "explanation": "Câu có lỗi | Lỗi: giving → give | Cấu trúc used to + nguyên thể, không phải -ing | A: giving (sai) | B: some good (đúng) | C: whenever (đúng) | D: a problem (đúng)"
     },
     {
       "id": 6,
@@ -87,7 +87,7 @@
         "D. <u>get a job</u>"
       ],
       "correctIndex": 2,
-      "explanation": "The comparative structure 'The + comparative..., the + comparative...' requires 'the more chance'."
+      "explanation": "Câu có lỗi | Lỗi: more chance → the more chance | Cấu trúc so sánh kép: The + comparative..., the + comparative... | A: better (đúng) | B: are at (đúng) | C: more chance (sai - thiếu 'the') | D: get a job (đúng)"
     },
     {
       "id": 7,
@@ -101,7 +101,7 @@
         "D. <u>culture</u>"
       ],
       "correctIndex": 3,
-      "explanation": "Should be 'cultures' (plural) because we are comparing two different cultures."
+      "explanation": "Câu có lỗi | Lỗi: culture → cultures | So sánh hai nền văn hóa khác nhau nên dùng số nhiều | A: There are (đúng) | B: and similarities (đúng) | C: Vietnamese (đúng) | D: culture (sai - cần số nhiều)"
     },
     {
       "id": 8,
@@ -115,7 +115,7 @@
         "D. When"
       ],
       "correctIndex": 0,
-      "explanation": "Conditional type 2: 'If I were you, I would...' expresses advice."
+      "explanation": "Nếu tôi là bạn, tôi sẽ đi taxi đến sân bay | A — If | Cấu trúc điều kiện loại 2: If + were, would | A: If — Nếu | B: Unless — Trừ khi | C: Because — Bởi vì | D: When — Khi"
     },
     {
       "id": 9,
@@ -129,7 +129,7 @@
         "D. whose"
       ],
       "correctIndex": 3,
-      "explanation": "'whose' is used to show possession in relative clauses (the boy's eyes)."
+      "explanation": "Cậu bé _______ mắt nâu là bạn tôi | D — whose | Từ quan hệ sở hữu chỉ 'eyes' thuộc về 'the boy' | A: who — Người (chủ ngữ) | B: whom — Người (bổ ngữ) | C: which — Vật | D: whose — Của ai (sở hữu)"
     },
     {
       "id": 10,
@@ -143,7 +143,7 @@
         "D. redecorate"
       ],
       "correctIndex": 1,
-      "explanation": "Causative 'have something done' (have + object + past participle)."
+      "explanation": "Tôi sẽ trang trí lại nhà cuối tuần này | B — redecorated | Cấu trúc causative: have + object + phân từ 2 | A: redecorates (sai - hiện tại đơn) | B: redecorated — quá khứ phân từ ✓ | C: redecorating (sai - danh động từ) | D: redecorate (sai - nguyên thể không có to)"
     },
     {
       "id": 11,
@@ -157,7 +157,7 @@
         "D. such"
       ],
       "correctIndex": 2,
-      "explanation": "'so + adjective + that' clause. 'So disappointed... that he was sad.'"
+      "explanation": "Paul rất thất vọng với kết quả thi nên buồn cả tuần | C — so | Cấu trúc: so + adj + that clause | A: too — too + adj + to-inf | B: enough — adj + enough + to-inf | C: so — so + adj + that | D: such — such + (a/an) + noun + that"
     },
     {
       "id": 12,
@@ -171,7 +171,7 @@
         "D. will have"
       ],
       "correctIndex": 1,
-      "explanation": "Wish + past simple expresses regret about a present situation (Grammar Rule: 'wish + past simple' for present unreal wishes). 'I wish I had a car' = I don't have a car now, but I want one. Never use present tense after wish: 'I wish I have' is WRONG."
+      "explanation": "Tôi ước tôi _______ một chiếc xe hơi. Tôi mệt vì phải bắt xe buýt mỗi ngày | B — had | Wish + past simple diễn tả ước muốn không thực tại hiện tại | A: had had — quá khứ hoàn thành (sai thời gian) | B: had — quá khứ đơn | C: have — hiện tại đơn (sai với wish) | D: will have — tương lai (sai với wish)"
     },
     {
       "id": 13,
@@ -185,7 +185,7 @@
         "D. for"
       ],
       "correctIndex": 1,
-      "explanation": "'since' + specific point in time (8 o'clock) with perfect tenses (Grammar Rule: 'since' = starting point, 'for' = duration). 'Since 8 o'clock' marks when the action started. Do NOT confuse with 'for 8 hours' (duration)."
+      "explanation": "Cô ấy nói là cô ấy đang làm bài tập _______ 8 giờ | B — since | Since + thời điểm cụ thể, dùng với thì hoàn thành | A: about — khoảng (không xác định) | B: since — kể từ (thời điểm) | C: at — lúc (cần preposition đúng) | D: for — trong bao lâu (khoảng thời gian)"
     },
     {
       "id": 14,
@@ -199,7 +199,7 @@
         "D. badly"
       ],
       "correctIndex": 2,
-      "explanation": "Parallel structure: 'worse and worse' shows continuous deterioration."
+      "explanation": "Tình hình tiếp tục tệ đi và _______ | C — worse | Cấu trúc song song: worse and worse | A: bad — tính từ (sai) | B: worst — so sánh nhất (sai ngữ cảnh) | C: worse — so sánh hơn | D: badly — trạng từ (sai)"
     },
     {
       "id": 15,
@@ -213,7 +213,7 @@
         "D. so that"
       ],
       "correctIndex": 3,
-      "explanation": "'so that' + clause (subject + verb) expresses purpose."
+      "explanation": "Làm ơn đóng cổng _______ chó không chạy ra ngoài | D — so that | So that + clause (chủ ngữ + động từ) | A: in order for — cần for + noun | B: in order to — cần động từ nguyên thể | C: so as to — cần động từ nguyên thể | D: so that — có mệnh đề"
     },
     {
       "id": 16,
@@ -227,7 +227,7 @@
         "D. disappointment"
       ],
       "correctIndex": 2,
-      "explanation": "Past participle 'disappointed' describes how a person feels."
+      "explanation": "Tôi _______ khi biết họ đã rời đi | C — disappointed | Ed-adj mô tả cảm xúc của người | A: disappointing — làm thất vọng (gây ra cho người khác) | B: disappoint — động từ (sai) | C: disappointed — thất vọng (cảm xúc người) | D: disappointment — danh từ (sai)"
     },
     {
       "id": 17,
@@ -241,7 +241,7 @@
         "D. Good idea, thanks."
       ],
       "correctIndex": 2,
-      "explanation": "Responding to a request to pass regards: 'Thanks, I will' is the most natural reply."
+      "explanation": "Tim: Đừng quên gửi lời thăm cha mẹ tôi. Judy: _______ | C — Thanks, I will | Trả lời lời nhờ vận động từ 'regards' | A: It's my pleasure — Trả lời 'thank you' | B: You are welcome — Trả lời 'thank you' | C: Thanks, I will — Sẽ làm | D: Good idea, thanks — Đồng ý ý kiến"
     },
     {
       "id": 18,
@@ -255,7 +255,7 @@
         "D. You can say that again."
       ],
       "correctIndex": 1,
-      "explanation": "Responding to a compliment: accept graciously and add information."
+      "explanation": "Lora: Áo mới của bạn đẹp quá, Helen! Helen: _______ | B — Thanks, I bought it at Macy's | Nhận lời khen và thêm thông tin | A: It's up to you — Tùy bạn | B: Thanks, I bought it — Nhận khen, thêm thông tin | C: I'd rather not — Từ chối | D: You can say that again — Đồng ý mạnh"
     },
     {
       "id": 19,
@@ -269,7 +269,7 @@
         "D. out of concentration"
       ],
       "correctIndex": 2,
-      "explanation": "'behind the time' means outdated, old-fashioned = 'out of date'."
+      "explanation": "Những người không có kỹ năng máy tính thực sự lỗi thời | C — out of date | Behind the time = lỗi thời, cũ kỹ | A: out of work — thất nghiệp | B: out of fashion — hết thời trang | C: out of date — lỗi thời | D: out of concentration — thiếu tập trung"
     },
     {
       "id": 20,
@@ -283,7 +283,7 @@
         "D. economical"
       ],
       "correctIndex": 0,
-      "explanation": "'abundant' means existing in large quantities = 'plentiful'."
+      "explanation": "Rau quả trên đảo dồi dào giúp dân đảo kiếm được nhiều tiền | A — plentiful | Abundant = dồi dào, nhiều | A: plentiful — dồi dào | B: different — khác biệt | C: effective — hiệu quả | D: economical — tiết kiệm"
     },
     {
       "id": 21,
@@ -297,7 +297,7 @@
         "D. fluctuate"
       ],
       "correctIndex": 1,
-      "explanation": "'vary' means change/differ. The opposite is 'stay unchanged'."
+      "explanation": "Tăng trưởng dân số khác nhau giữa các vùng và giữa các quốc gia trong cùng một vùng | B — stay unchanged | Vary = thay đổi, khác nhau → Trái nghĩa: giữ nguyên | A: restrain — kiềm chế | B: stay unchanged — giữ nguyên | C: remain unstable — vẫn bất ổn | D: fluctuate — biến động"
     },
     {
       "id": 22,
@@ -311,7 +311,7 @@
         "D. something to entertain"
       ],
       "correctIndex": 1,
-      "explanation": "'burden' means something difficult/heavy to bear. The opposite is 'something enjoyable'."
+      "explanation": "Ở một số quốc gia, gánh nặng bệnh tật có thể được phòng ngừa qua cải thiện môi trường | B — something enjoyable | Burden = gánh nặng → Trái nghĩa: thú vị | A: something to suffer — gánh nặng phải chịu | B: something enjoyable — điều thú vị | C: something sad — điều buồn | D: something to entertain — điều giải trí"
     },
     {
       "id": 23,
@@ -328,7 +328,7 @@
             "D. then"
           ],
           "correctIndex": 1,
-          "explanation": "'later' fits: go on to university later (in the future)."
+          "explanation": "Đoạn văn: Lúc khoảng 16 tuổi, bạn phải quyết định lớn. Có nên ở lại trường và vào đại học _______? | câu hỏi: Điền vào chỗ trống (23) | B — later | 'go on to university later' = vào đại học sau này | A: after — sau (thời gian cụ thể) | B: later — sau này | C: past — qua (không phù hợp) | D: then — khi đó"
         },
         {
           "id": "24a",
@@ -340,7 +340,7 @@
             "D. useful"
           ],
           "correctIndex": 0,
-          "explanation": "'worth remembering' is the correct collocation (be worth + V-ing)."
+          "explanation": "Đoạn văn: Quyết định của bạn, nhưng nó có thể _______ nhớ hai điều | câu hỏi: Điền vào chỗ trống (24) | A — worth | 'be worth + -ing' = đáng để làm gì | A: worth — đáng (đúng cấu trúc) | B: necessary — cần thiết | C: important — quan trọng | D: useful — hữu ích"
         },
         {
           "id": "25a",
@@ -352,7 +352,7 @@
             "D. skills"
           ],
           "correctIndex": 3,
-          "explanation": "'the right skills' makes sense in the context of job competition."
+          "explanation": "Đoạn văn: Và những người có _______ đúng sẽ có lợi thế lớn trong cạnh tranh việc làm | câu hỏi: Điền vào chỗ trống (25) | D — skills | 'the right skills' = kỹ năng đúng | A: notes — ghi chú | B: papers — giấy tờ | C: arts — nghệ thuật | D: skills — kỹ năng"
         },
         {
           "id": "26a",
@@ -364,7 +364,7 @@
             "D. give"
           ],
           "correctIndex": 1,
-          "explanation": "'help you to get' is correct. 'Help + object + to-infinitive'."
+          "explanation": "Đoạn văn: Lấy bằng cấp sẽ _______ bạn kiếm việc nhanh hơn trong nhiều nghề | câu hỏi: Điền vào chỗ trống (26) | B — help | 'help + object + động từ có to' | A: make — làm cho (sai) | B: help — giúp (đúng) | C: let — để (sai cấu trúc) | D: give — cho (sai)"
         },
         {
           "id": "27a",
@@ -376,7 +376,7 @@
             "D. doing"
           ],
           "correctIndex": 0,
-          "explanation": "'getting practical work experience' is the correct collocation."
+          "explanation": "Đoạn văn: Bạn có thể tiết kiệm tiền cho ngày sinh viên, cũng như _______ kinh nghiệm làm việc thực tế | câu hỏi: Điền vào chỗ trống (27) | A — getting | 'getting + noun' = có được, lấy được | A: getting — lấy (đúng) | B: making — làm (sai) | C: taking — lấy (sai) | D: doing — làm (sai)"
         }
       ]
     },
@@ -395,7 +395,7 @@
             "D. How to Write a Cover Letter."
           ],
           "correctIndex": 1,
-          "explanation": "The passage is entirely about how to prepare a resume."
+          "explanation": "Đoạn văn: Hồ sơ xin việc là công cụ để có buổi phỏng vấn. Cần ngắn gọn, trình bày rõ ràng... | câu hỏi: Tiêu đề hay nhất cho bài này là gì? | B — How to Prepare a Resume | Toàn bộ đoạn văn hướng dẫn cách chuẩn bị hồ sơ | A: How to Get a Job — Cách xin việc | B: How to Prepare a Resume — Cách chuẩn bị hồ sơ | C: How to Find Your Goal — Cách tìm mục tiêu | D: How to Write a Cover Letter — Cách viết thư giới thiệu"
         },
         {
           "id": "29a",
@@ -407,7 +407,7 @@
             "D. To give an employer a good first impression of you."
           ],
           "correctIndex": 2,
-          "explanation": "The first sentence states: 'A resume is a tool that can be used to obtain a job interview.'"
+          "explanation": "Đoạn văn: A resume is a tool that can be used to obtain a job interview. | câu hỏi: Chức năng của hồ sơ là gì? | C — To act as a tool for getting you a job interview | Câu đầu tiên xác định chức năng | A: Mô tả chi tiết — không đúng 'brief' | B: Ví dụ kỹ năng viết — không phải mục đích | C: Công cụ để phỏng vấn — đúng | D: Ấn tượng đầu — chỉ là 'first impression'"
         },
         {
           "id": "30a",
@@ -419,7 +419,7 @@
             "D. Your most important job."
           ],
           "correctIndex": 0,
-          "explanation": "The passage says 'starting with the most recent job and working backward'."
+          "explanation": "Đoạn văn: ...starting with the most recent job and working backward... | câu hỏi: Trên hồ sơ, công việc nào liệt kê trước? | A — Your most recent job | Đoạn văn nói rõ: bắt đầu từ công việc gần nhất | A: Công việc gần nhất — đúng | B: Công việc liên quan nhất — không nói | C: Công việc đầu tiên — ngược | D: Công việc quan trọng nhất — không nói"
         },
         {
           "id": "31a",
@@ -431,7 +431,7 @@
             "D. accurate"
           ],
           "correctIndex": 0,
-          "explanation": "'brief' means short and concise."
+          "explanation": "Đoạn văn: ...while remaining brief. | câu hỏi: Từ \"brief\" gần nghĩa nhất với từ nào? | A — short | Brief = ngắn gọn, súc tích | A: short — ngắn | B: informative — có thông tin | C: precise — chính xác | D: accurate — chính xác"
         },
         {
           "id": "32a",
@@ -443,7 +443,7 @@
             "D. A description of the tasks you did in your last job."
           ],
           "correctIndex": 2,
-          "explanation": "The passage says 'Do not include age, marital status, or other personal facts.' Nationality and marital status are personal facts."
+          "explanation": "Đoạn văn: Do not include age, marital status, or other personal facts. | câu hỏi: Điều nào không nên có trên hồ sơ? | C — Your nationality and the fact that you are single | Đoạn văn nói: không bao gồm tuổi, tình trạng hôn nhân, hoặc các thực tế cá nhân | A: Tên, điện thoại — nên có | B: Năm tốt nghiệp — nên có | C: Quốc tịch và độc thân — KHÔNG nên có (personal facts) | D: Mô tả công việc — nên có"
         }
       ]
     },
@@ -458,7 +458,7 @@
         "She warned them not to swim too far out.",
         "She warned them not to swim too far out"
       ],
-      "explanation": "Câu tường thuật với 'warn'. 'Don't swim too far out' → 'warned them not to swim too far out'."
+      "explanation": "\"Đừng bơi xa quá,\" cô ấy nói với họ. | Viết lại bắt đầu với: She warned | She warned them not to swim too far out — Câu tường thuật với 'warn' | Chuyển lời nói trực tiếp sang gián tiếp: Don't swim → warned not to swim"
     },
     {
       "id": 34,
@@ -473,7 +473,7 @@
         "That old car has just been sold.",
         "That old car has just been sold"
       ],
-      "explanation": "Chuyển chủ động sang bị động. 'have just sold' → 'has just been sold by her parents'."
+      "explanation": "Bố mẹ cô ấy vừa bán chiếc xe cũ đó. | Viết lại bắt đầu với: That old car | That old car has just been sold by her parents — Chuyển chủ động sang bị động | Have just sold → has just been sold, bổ ngữ chuyển thành chủ ngữ"
     },
     {
       "id": 35,
@@ -488,7 +488,7 @@
         "I wasn't strong enough to climb the mountain.",
         "I wasn't strong enough to climb the mountain"
       ],
-      "explanation": "Đổi cấu trúc 'too…to' thành 'not…enough'. 'too tired' → 'not strong enough to climb'."
+      "explanation": "Tôi mệt quá không leo được núi. | Viết lại bắt đầu với: I was | I was not strong enough to climb the mountain — Đổi cấu trúc too…to thành not…enough | Too tired → not strong enough"
     },
     {
       "id": 36,
@@ -503,7 +503,7 @@
         "I wish our teacher was here at the moment.",
         "I wish our teacher was here at the moment"
       ],
-      "explanation": "Dùng 'wish' + quá khứ đơn để diễn tả nuối tiếc ở hiện tại. 'isn't here' → 'were here at the moment'."
+      "explanation": "Tiếc rằng thầy cô không có ở đây bây giờ. | Viết lại bắt đầu với: I wish | I wish our teacher were here at the moment — Wish + past simple | Dùng were cho tất cả (subjunctive), diễn tả ước muốn không thực tại"
     },
     {
       "id": 37,
@@ -518,7 +518,7 @@
         "That's our dog that bit the postman.",
         "That's our dog that bit the postman"
       ],
-      "explanation": "Use relative clause with 'which/that' for animals. 'was bitten by it' -> 'which bit' (active)."
+      "explanation": "Đó là con chó của chúng tôi. Người đưa thư bị nó cắn. | Kết hợp dùng 'bit': That's our dog which bit the postman — Mệnh đề quan hệ với which/that | Was bitten by it → which bit (chủ động)"
     },
     {
       "id": 38,
@@ -533,7 +533,7 @@
         "They cancelled the party since it rained heavily.",
         "They cancelled the party since it rained heavily."
       ],
-      "explanation": "'since' = because, showing reason."
+      "explanation": "Họ hủy bữa tiệc. Trời mưa to. | Kết hợp dùng 'since': Since it rained heavily, they cancelled the party — Since = because | Liên kết lý do"
     },
     {
       "id": 39,
@@ -548,7 +548,7 @@
         "We can't get into the house because no one has a key.",
         "We can't get into the house because no one has a key"
       ],
-      "explanation": "Use 'can't' to express inability, linking the reason."
+      "explanation": "Không ai có chìa khóa. Chúng tôi không vào đư��c nh��. | Kết hợp dùng 'can': No one can get into the house because no one has a key — Can't = không thể | Liên kết lý do với because"
     },
     {
       "id": 40,
@@ -563,7 +563,7 @@
         "In spite of his good salary, he was unhappy in his job.",
         "In spite of his good salary, he was unhappy in his job"
       ],
-      "explanation": "'in spite of' + noun/V-ing to show contrast."
+      "explanation": "Anh ấy có lương cao. Anh ấy không vui trong công việc. | Kết hợp dùng 'in spite of': In spite of having a good salary, he was unhappy in his job — In spite of + noun/-ing | Liên kết tương phản"
     }
   ]
 }

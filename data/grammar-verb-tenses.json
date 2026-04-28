@@ -17,7 +17,7 @@
         "D. for ten years"
       ],
       "correctIndex": 3,
-      "explanation": "Present perfect continuous uses 'for' + duration. 'For ten years' = trong 10 năm."
+      "explanation": "Hiện tại hoàn thành tiếp diễn dùng \"for\" + khoảng thời gian. \"since\" đi với mốc thời gian ⇒ loại B và C. \"ten years ago\" là mốc quá khứ, không dùng với thì hoàn thành ⇒ loại A."
     },
     {
       "id": 2,
@@ -30,7 +30,7 @@
         "D. had been discovering"
       ],
       "correctIndex": 0,
-      "explanation": "'500 years ago' signals simple past tense."
+      "explanation": "\"more than 500 years ago\" là dấu hiệu quá khứ đơn ⇒ dùng \"discovered\". \"has discovered\" không đi với \"ago\", \"had discovered\" là quá khứ hoàn thành (không cần thiết ở đây)."
     },
     {
       "id": 3,
@@ -43,7 +43,7 @@
         "D. he was left"
       ],
       "correctIndex": 1,
-      "explanation": "'Since' + simple past clause pairs with present perfect in the main clause."
+      "explanation": "Sau \"since\" + mệnh đề dùng quá khứ đơn, vế chính dùng hiện tại hoàn thành. \"he left\" ⇒ đúng. \"he has left\" sai vì sau \"since\" không dùng hiện tại hoàn thành."
     },
     {
       "id": 4,
@@ -56,7 +56,7 @@
         "D. walk"
       ],
       "correctIndex": 1,
-      "explanation": "Three past actions in sequence all use simple past: got out, walked, opened."
+      "explanation": "Ba hành động liên tiếp trong quá khứ (got out, walked, opened) đều chia quá khứ đơn. \"walking\", \"walks\", \"walk\" không cùng thì với \"got\" và \"opened\"."
     },
     {
       "id": 5,
@@ -69,7 +69,7 @@
         "D. had died"
       ],
       "correctIndex": 1,
-      "explanation": "'When she was a small girl' sets a past time frame, so use simple past."
+      "explanation": "\"when she was a small girl\" là thời điểm trong quá khứ ⇒ dùng quá khứ đơn \"died\". \"has died\" không đi với thời gian quá khứ, \"had died\" cần một mốc quá khứ trước đó."
     },
     {
       "id": 6,
@@ -82,7 +82,7 @@
         "D. has been/have moved"
       ],
       "correctIndex": 2,
-      "explanation": "'Since' + simple past (moved) pairs with present perfect (has been) in the main clause."
+      "explanation": "\"since\" trong câu ⇒ vế chính dùng hiện tại hoàn thành \"has been\", sau \"since\" + mệnh đề dùng quá khứ đơn \"moved\". \"was...moved\" sai thì vế chính; \"has been...have moved\" sai thì vế since."
     },
     {
       "id": 7,
@@ -95,7 +95,7 @@
         "D. had run"
       ],
       "correctIndex": 2,
-      "explanation": "An ongoing action (past continuous) was interrupted by another action (fell down - past simple)."
+      "explanation": "Hành động đang diễn ra bị ngắt bởi hành động khác: \"was running\" (đang diễn ra) + \"fell down\" (xen vào). Quá khứ tiếp diễn + when + quá khứ đơn."
     },
     {
       "id": 8,
@@ -108,7 +108,7 @@
         "D. is listening"
       ],
       "correctIndex": 0,
-      "explanation": "Two simultaneous ongoing past actions both use past continuous."
+      "explanation": "Hai hành động đang xảy ra đồng thời trong quá khứ ⇒ cả hai dùng quá khứ tiếp diễn: \"were laying\" và \"was listening\"."
     },
     {
       "id": 9,
@@ -121,7 +121,7 @@
         "D. did go"
       ],
       "correctIndex": 1,
-      "explanation": "A short action (went) interrupts an ongoing action (was having). The short action uses simple past."
+      "explanation": "Hành động ngắn xen vào hành động đang diễn ra: \"was having\" (đang diễn ra) + \"went\" (xen vào) ⇒ hành động xen vào dùng quá khứ đơn."
     },
     {
       "id": 10,
@@ -134,7 +134,7 @@
         "D. had written"
       ],
       "correctIndex": 3,
-      "explanation": "'By the age of 25' refers to a point in the past before which the action was completed - use past perfect."
+      "explanation": "\"By the age of 25\" chỉ mốc trong quá khứ, hành động hoàn thành trước mốc đó ⇒ quá khứ hoàn thành \"had written\". \"wrote\" chỉ quá khứ đơn, không nhấn mạnh hoàn thành trước mốc."
     },
     {
       "id": 11,
@@ -147,7 +147,7 @@
         "D. going"
       ],
       "correctIndex": 2,
-      "explanation": "'Always' signals a habitual action - use simple present. 'He' takes 'goes'."
+      "explanation": "'Always' diễn tả thói quen → dùng hiện tại đơn. Chủ ngữ 'he' thêm 's': 'goes'."
     },
     {
       "id": 12,
@@ -160,7 +160,7 @@
         "D. shall leave"
       ],
       "correctIndex": 0,
-      "explanation": "After 'before' in a future context, use simple present (not will)."
+      "explanation": "Sau 'before' trong ngữ cảnh tương lai, dùng hiện tại đơn không dùng 'will'."
     },
     {
       "id": 13,
@@ -173,7 +173,7 @@
         "D. finishing"
       ],
       "correctIndex": 1,
-      "explanation": "After 'as soon as' in future context, use simple present. 'He' takes 'finishes'."
+      "explanation": "Sau 'as soon as' trong ngữ cảnh tương lai, dùng hiện tại đơn. Chủ ngữ 'he' thêm 's': 'finishes'."
     },
     {
       "id": 14,
@@ -186,7 +186,7 @@
         "D. work"
       ],
       "correctIndex": 2,
-      "explanation": "'At present' signals an action happening now - use present continuous."
+      "explanation": "'At present' diễn tả hành động đang xảy ra → dùng hiện tại tiếp diễn."
     },
     {
       "id": 15,
@@ -199,7 +199,7 @@
         "D. are left"
       ],
       "correctIndex": 1,
-      "explanation": "Present continuous for a planned future arrangement. 'Tomorrow' confirms future plan."
+      "explanation": "Hiện tại tiếp diễn cho kế hoạch tương lai. 'Tomorrow' xác nhận kế hoạch đã định."
     },
     {
       "id": 16,
@@ -212,7 +212,7 @@
         "D. hadn't seen"
       ],
       "correctIndex": 1,
-      "explanation": "'Since last Saturday' signals present perfect: haven't seen."
+      "explanation": "'Since last Saturday' → dùng hiện tại hoàn thành: 'haven't seen'."
     },
     {
       "id": 17,
@@ -225,7 +225,7 @@
         "D. had never known"
       ],
       "correctIndex": 0,
-      "explanation": "Experience up to now uses present perfect: 'have never known'."
+      "explanation": "Kinh nghiệm đến hiện tại → dùng hiện tại hoàn thành: 'have never known'."
     },
     {
       "id": 18,
@@ -238,7 +238,7 @@
         "D. am trying"
       ],
       "correctIndex": 2,
-      "explanation": "'This is the first time' requires present perfect: 'have tried'."
+      "explanation": "'This is the first time' → dùng hiện tại hoàn thành: 'have tried'."
     },
     {
       "id": 19,
@@ -251,7 +251,7 @@
         "D. finishing"
       ],
       "correctIndex": 1,
-      "explanation": "After 'when' in future context, present perfect can show completed action before the main action."
+      "explanation": "Sau 'when' trong ngữ cảnh tương lai, hiện tại hoàn thành có thể diễn tả hành động hoàn thành trước hành động chính."
     },
     {
       "id": 20,
@@ -264,7 +264,7 @@
         "D. rose"
       ],
       "correctIndex": 1,
-      "explanation": "The period extends to 'this year' (present), so use present perfect: 'has risen'."
+      "explanation": "Khoảng thời gian kéo dài đến 'this year' (hiện tại) → dùng hiện tại hoàn thành: 'has risen'."
     },
     {
       "id": 21,
@@ -273,7 +273,7 @@
       "errorWord": "will sitting",
       "correction": "will be sitting",
       "correctSentence": "Daisy will be sitting on the plane at 5 a.m tomorrow.",
-      "explanation": "Future continuous: will + be + V-ing. 'At 5 a.m tomorrow' is a specific future time."
+      "explanation": "Tương lai tiếp diễn: will + be + -ing. 'At 5 a.m tomorrow' là thời điểm tương lai cụ thể."
     },
     {
       "id": 22,
@@ -282,7 +282,7 @@
       "errorWord": "will you doing",
       "correction": "will you be doing",
       "correctSentence": "What will you be doing at 11 p.m tonight?",
-      "explanation": "Future continuous question: Will + S + be + V-ing?"
+      "explanation": "Câu hỏi tương lai tiếp diễn: Will + S + be + -ing?"
     },
     {
       "id": 23,
@@ -291,7 +291,7 @@
       "errorWord": "will visit",
       "correction": "will have visited",
       "correctSentence": "By this time tomorrow, they will have visited Paris with their friends.",
-      "explanation": "'By this time tomorrow' signals future perfect: will + have + V(pp)."
+      "explanation": "'By this time tomorrow' → tương lai hoàn thành: will + have + phân từ 2."
     },
     {
       "id": 24,
@@ -300,7 +300,7 @@
       "errorWord": "double",
       "correction": "doubled",
       "correctSentence": "By 2030, the number of schools in our city will have doubled.",
-      "explanation": "Future perfect: will + have + past participle. 'Double' -> 'doubled'."
+      "explanation": "Tương lai hoàn thành: will + have + phân từ 2. 'double' → 'doubled'."
     },
     {
       "id": 25,
@@ -309,7 +309,7 @@
       "errorWord": "are believing",
       "correction": "believe",
       "correctSentence": "Some people believe that there is life on the Moon.",
-      "explanation": "'Believe' is a stative verb and cannot be used in continuous form."
+      "explanation": "'Believe' là động từ chỉ trạng thái, không dùng được dạng tiếp diễn."
     },
     {
       "id": 26,
@@ -318,7 +318,7 @@
       "errorWord": "will have walked",
       "correction": "will be walking",
       "correctSentence": "We will be walking to the bus stop at this time next morning.",
-      "explanation": "'At this time next morning' = a specific moment in the future -> future continuous."
+      "explanation": "'At this time next morning' = thời điểm cụ thể trong tương lai → tương lai tiếp diễn."
     },
     {
       "id": 27,
@@ -327,7 +327,7 @@
       "errorWord": "go",
       "correction": "went",
       "correctSentence": "My father and I went skiing almost every day last winter.",
-      "explanation": "'Last winter' is a past time marker, so use simple past: 'went'."
+      "explanation": "'Last winter' là dấu hiệu thời gian quá khứ, nên dùng quá khứ đơn: 'went'."
     },
     {
       "id": 28,
@@ -336,7 +336,7 @@
       "errorWord": "has",
       "correction": "does",
       "correctSentence": "What time does the train to Hai Phong leave?",
-      "explanation": "Timetables/schedules use simple present with auxiliary 'does'."
+      "explanation": "Lịch trình/thời khóa biểu dùng hiện tại đơn với trợ động từ 'does'."
     },
     {
       "id": 29,
@@ -345,7 +345,7 @@
       "errorWord": "since",
       "correction": "for",
       "correctSentence": "I have been waiting for you for two hours.",
-      "explanation": "Use 'for' with a duration (two hours). 'Since' is for a specific point in time (since 2 o'clock)."
+      "explanation": "Dùng 'for' với khoảng thời gian (two hours). 'Since' dùng với mốc thời gian cụ thể (since 2 o'clock)."
     },
     {
       "id": 30,
@@ -354,7 +354,7 @@
       "errorWord": "had been crying",
       "correction": "has been crying",
       "correctSentence": "Look! Her eyes are red. She has been crying.",
-      "explanation": "'Look!' signals present context. Use present perfect continuous, not past perfect continuous."
+      "explanation": "'Look!' là dấu hiệu ngữ cảnh hiện tại. Dùng hiện tại hoàn thành tiếp diễn, không dùng quá khứ hoàn thành tiếp diễn."
     },
     {
       "id": 31,
@@ -419,7 +419,7 @@
         "She has worked here since last year.",
         "She has worked here since last year"
       ],
-      "explanation": "Chuyển 'started + V-ing + mốc thời gian' thành hiện tại hoàn thành với 'since'. 'started working here last year' → 'has worked here since last year'."
+      "explanation": "Chuyển 'started + -ing + mốc thời gian' thành hiện tại hoàn thành với 'since'. 'started working here last year' → 'has worked here since last year'."
     },
     {
       "id": 36,
@@ -434,7 +434,7 @@
         "We have been eating lunch since it started raining.",
         "We have been eating lunch since it started raining"
       ],
-      "explanation": "Chuyển 'began + V-ing + when + quá khứ đơn' thành hiện tại hoàn thành tiếp diễn với 'since'. 'began eating...when it started' → 'have been eating...since it started'."
+      "explanation": "Chuyển 'began + -ing + when + quá khứ đơn' thành hiện tại hoàn thành tiếp diễn với 'since'. 'began eating...when it started' → 'have been eating...since it started'."
     },
     {
       "id": 37,
@@ -475,7 +475,7 @@
         "How long have they been opening this shopping center?",
         "How long have they been opening this shopping center"
       ],
-      "explanation": "Chuyển câu hỏi quá khứ đơn 'When did + S + start + V-ing?' thành hiện tại hoàn thành tiếp diễn 'How long have/has + S + been + V-ing?'. 'When did they start opening' → 'How long have they been opening'."
+      "explanation": "Chuyển câu hỏi quá khứ đơn 'When did + S + start + -ing?' thành hiện tại hoàn thành tiếp diễn 'How long have/has + S + been + -ing?'. 'When did they start opening' → 'How long have they been opening'."
     },
     {
       "id": 40,

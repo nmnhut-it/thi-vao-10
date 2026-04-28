@@ -17,7 +17,7 @@
         "D. I have been invited"
       ],
       "correctIndex": 2,
-      "explanation": "Type 2 conditional (unreal present). Because the sentence ends with '?', this is a question, so use inverted word order: 'would I be invited?' (not 'I would be invited')."
+      "explanation": "Câu điều kiện loại 2 (trái hiện tại). Cuối câu có dấu '?' nên phải đảo ngữ trợ động từ lên trước chủ ngữ: 'would I be invited?' chứ không phải 'I would be invited'."
     },
     {
       "id": 2,
@@ -30,7 +30,7 @@
         "D. bought"
       ],
       "correctIndex": 0,
-      "explanation": "'Should she have' is an inverted form of 'If she should have' (expressing an unlikely condition). The result clause uses 'would buy'."
+      "explanation": "Đây là dạng đảo ngữ câu điều kiện: 'Should she have' = 'If she should have'. Vế kết quả dùng 'would buy'. 'will buy' là loại 1, 'buys' là hiện tại đơn — đều không phù hợp."
     },
     {
       "id": 3,
@@ -43,7 +43,7 @@
         "D. should have been"
       ],
       "correctIndex": 2,
-      "explanation": "'Had you been' = 'If you had been' (Type 3). Result: 'might have been avoided'."
+      "explanation": "Câu điều kiện loại 3 đảo ngữ: 'Had you been' = 'If you had been'. Vế kết quả cần 'might have been avoided'. 'would be' là loại 2, 'can have been' sai ngữ pháp."
     },
     {
       "id": 4,
@@ -56,7 +56,7 @@
         "D. if I'm"
       ],
       "correctIndex": 3,
-      "explanation": "After 'if' in conditional, use present tense (not will): 'if I'm'."
+      "explanation": "Sau 'if' trong câu điều kiện, dùng thì hiện tại thay vì tương lai: 'if I'm' chứ không phải 'if I'll be'. Tương tự với 'when' và 'unless' cũng không dùng 'will'."
     },
     {
       "id": 5,
@@ -69,7 +69,7 @@
         "D. aren't"
       ],
       "correctIndex": 2,
-      "explanation": "Type 2: 'If I were you' - always use 'were' in unreal conditions."
+      "explanation": "Câu điều kiện loại 2 (trái hiện tại). Cụm cố định 'If I were you' luôn dùng 'were' cho mọi chủ ngữ. 'are', 'am', 'aren't' đều sai trong cấu trúc này."
     },
     {
       "id": 6,
@@ -82,7 +82,7 @@
         "D. studying"
       ],
       "correctIndex": 1,
-      "explanation": "Type 1 (real condition): If + present simple. 'She' takes 'studies'."
+      "explanation": "Vế kết quả có 'can pass' (hiện tại) ⇒ câu điều kiện loại 1, mệnh đề 'if' dùng hiện tại đơn. Chủ ngữ 'she' thêm 's': 'studies'. 'studied' là quá khứ (loại 2), không khớp với 'can'."
     },
     {
       "id": 7,
@@ -95,7 +95,7 @@
         "D. would die"
       ],
       "correctIndex": 1,
-      "explanation": "'Unless it rains' = 'If it doesn't rain' (Type 1): plants will die."
+      "explanation": "'Unless' = 'If...not': 'Unless it rains' = 'If it doesn't rain' (loại 1). Vế kết quả dùng 'will die'. 'would die' là loại 2, 'won't die' trái nghĩa, 'die' thiếu trợ động từ."
     },
     {
       "id": 8,
@@ -108,7 +108,7 @@
         "D. had been"
       ],
       "correctIndex": 2,
-      "explanation": "Type 2 (unreal present): If + past simple. Use 'were' for all subjects."
+      "explanation": "Câu điều kiện loại 2 (trái hiện tại): vế kết quả có 'would try' ⇒ mệnh đề 'if' dùng quá khứ đơn. Trong câu điều kiện loại 2, 'to be' luôn dùng 'were' cho mọi chủ ngữ. 'had been' là loại 3."
     },
     {
       "id": 9,
@@ -121,7 +121,7 @@
         "D. knew"
       ],
       "correctIndex": 3,
-      "explanation": "Type 2: If + past simple ('knew'), S + would + V."
+      "explanation": "Câu điều kiện loại 2: vế kết quả có 'she'd' = 'she would' ⇒ mệnh đề 'if' dùng quá khứ đơn 'knew'. 'would know' sai vì mệnh đề 'if' không dùng 'would'. 'knows' và 'will know' là loại 1."
     },
     {
       "id": 10,
@@ -134,7 +134,7 @@
         "D. climb"
       ],
       "correctIndex": 1,
-      "explanation": "Type 2: If + past, S + could/would + V: 'could climb'."
+      "explanation": "Câu điều kiện loại 2: vế 'if' có 'weren't' (quá khứ) ⇒ vế kết quả dùng 'could/would + động từ nguyên': 'could climb'. 'climbed' là quá khứ đơn, thiếu modal."
     },
     {
       "id": 11,
@@ -147,7 +147,7 @@
         "D. had been/would have answered"
       ],
       "correctIndex": 1,
-      "explanation": "Type 2 (unreal present): If he were in, he would answer."
+      "explanation": "Câu điều kiện loại 2 (trái hiện tại): 'If he were in, he would answer'. Cần 'were' (loại 2) và 'would answer'. Đáp án C dùng 'would have answered' là loại 3, không phù hợp."
     },
     {
       "id": 12,
@@ -160,7 +160,7 @@
         "D. is taught"
       ],
       "correctIndex": 1,
-      "explanation": "Type 2: If + past (passive: were taught)."
+      "explanation": "Câu điều kiện loại 2, bị động: vế kết quả có 'would study' ⇒ mệnh đề 'if' dùng quá khứ đơn bị động 'were taught'. 'was teaching' là chủ động, 'is taught' là hiện tại (loại 1)."
     },
     {
       "id": 13,
@@ -173,7 +173,7 @@
         "D. wasn't"
       ],
       "correctIndex": 1,
-      "explanation": "Type 3: If + past perfect: 'if there hadn't been'."
+      "explanation": "Câu điều kiện loại 3 (trái quá khứ): vế kết quả có 'would have visited' ⇒ mệnh đề 'if' dùng quá khứ hoàn thành 'hadn't been'. 'wasn't' là quá khứ đơn (loại 2), không khớp."
     },
     {
       "id": 14,
@@ -186,7 +186,7 @@
         "D. would be / hadn't lied"
       ],
       "correctIndex": 0,
-      "explanation": "Type 3 (past unreal): would have been better if you hadn't lied."
+      "explanation": "Câu điều kiện loại 3 (trái quá khứ): sự việc đã xảy ra ('made a mistake', 'told a lie'). Vế kết quả 'would have been better', mệnh đề 'if' dùng 'hadn't lied'. Đáp án B dùng loại 2, không phù hợp với ngữ cảnh quá khứ."
     },
     {
       "id": 15,
@@ -199,7 +199,7 @@
         "D. invests"
       ],
       "correctIndex": 2,
-      "explanation": "Mixed conditional (3-2): If + had + PP (past), S + would + V (present result). 'Had invested'."
+      "explanation": "Câu điều kiện hỗn hợp 3-2: điều kiện quá khứ ('last year') + kết quả hiện tại ('now'). Mệnh đề 'if' cần quá khứ hoàn thành 'had invested'. 'invested' là quá khứ đơn, thiếu 'had'."
     },
     {
       "id": 16,
@@ -212,7 +212,7 @@
         "D. wouldn't come"
       ],
       "correctIndex": 1,
-      "explanation": "Type 2: If + past simple, S + would + V: 'would come'."
+      "explanation": "Câu điều kiện loại 2: mệnh đề 'if' có 'waited' (quá khứ đơn) ⇒ vế kết quả 'would come'. 'will come' là loại 1, 'comes' là hiện tại đơn, 'wouldn't come' trái nghĩa."
     },
     {
       "id": 17,
@@ -225,7 +225,7 @@
         "D. rang"
       ],
       "correctIndex": 3,
-      "explanation": "Type 2: If + past simple ('rang'), S + would + V."
+      "explanation": "Câu điều kiện loại 2: vế kết quả có 'would come' ⇒ mệnh đề 'if' dùng quá khứ đơn 'rang'. 'ring/rings' là hiện tại (loại 1), 'don't ring' thêm phủ định thay đổi nghĩa."
     },
     {
       "id": 18,
@@ -238,7 +238,7 @@
         "D. happen"
       ],
       "correctIndex": 2,
-      "explanation": "Type 1 (real condition): If + present, S + will + V: 'will happen'."
+      "explanation": "Câu điều kiện loại 1 (có thể xảy ra): mệnh đề 'if' có 'press' (hiện tại) ⇒ vế kết quả dùng 'will happen'. 'would happen' là loại 2, 'would have happened' là loại 3."
     },
     {
       "id": 19,
@@ -251,7 +251,7 @@
         "D. am making"
       ],
       "correctIndex": 1,
-      "explanation": "Type 1: If + present ('if you like'), S + will + V: 'will make'."
+      "explanation": "Câu điều kiện loại 1: mệnh đề 'if' có 'if you like' (hiện tại) ⇒ vế kết quả dùng 'will make'. 'am going to make' diễn tả kế hoạch đã định, không phải điều kiện."
     },
     {
       "id": 20,
@@ -264,7 +264,7 @@
         "D. is repair"
       ],
       "correctIndex": 0,
-      "explanation": "Type 1 passive: will + be + PP: 'will be repaired'."
+      "explanation": "Câu điều kiện loại 1, bị động: mệnh đề 'if' có 'takes' (hiện tại) ⇒ vế kết quả 'will be repaired' (tương lai bị động). 'will been repaired' sai ngữ pháp, 'would be repaired' là loại 2."
     },
     {
       "id": 21,
@@ -273,7 +273,7 @@
       "errorWord": "kept",
       "correction": "keep",
       "correctSentence": "Provided you keep quiet, we'll allow you to play here.",
-      "explanation": "Type 1 condition: 'Provided + present simple' with 'will' in result clause."
+      "explanation": "Vế kết quả có 'we'll allow' (tương lai) ⇒ câu điều kiện loại 1. Mệnh đề 'Provided' cần hiện tại đơn 'keep' chứ không phải quá khứ 'kept'. 'Provided' có chức năng giống 'If'."
     },
     {
       "id": 22,
@@ -282,7 +282,7 @@
       "errorWord": "don't cheat",
       "correction": "cheat",
       "correctSentence": "We will help you realize your dream unless you cheat us.",
-      "explanation": "'Unless' already means 'if not', so don't add 'don't' - that creates a double negative."
+      "explanation": "'Unless' đã mang nghĩa 'if...not' ⇒ không thêm phủ định 'don't'. 'Unless you cheat' = 'If you don't cheat'. Thêm 'don't' nữa thành phủ định kép, sai nghĩa."
     },
     {
       "id": 23,
@@ -291,7 +291,7 @@
       "errorWord": "doesn't invite",
       "correction": "didn't invite",
       "correctSentence": "If Dave didn't invite me to his birthday party today, I would feel disappointed.",
-      "explanation": "'Would feel' signals Type 2. The if-clause needs past simple: 'didn't invite'."
+      "explanation": "Vế kết quả có 'would feel' (câu điều kiện loại 2) ⇒ mệnh đề 'if' cần quá khứ đơn 'didn't invite'. 'doesn't invite' là hiện tại đơn, không khớp với 'would'."
     },
     {
       "id": 24,
@@ -300,7 +300,7 @@
       "errorWord": "would miss",
       "correction": "would have missed",
       "correctSentence": "If I hadn't got up earlier this morning, I would have missed my flight to Seoul.",
-      "explanation": "Type 3 (past unreal): If + had PP, S + would have + PP: 'would have missed'."
+      "explanation": "Câu điều kiện loại 3 (trái quá khứ): mệnh đề 'if' có 'hadn't got up' (quá khứ hoàn thành) ⇒ vế kết quả cần 'would have missed', không phải 'would miss' (loại 2)."
     },
     {
       "id": 25,
@@ -309,7 +309,7 @@
       "errorWord": "stay",
       "correction": "will stay",
       "correctSentence": "We will stay at home if it snows tomorrow.",
-      "explanation": "Type 1: result clause needs 'will': 'We will stay'."
+      "explanation": "Câu điều kiện loại 1: mệnh đề 'if' có 'snows tomorrow' (hiện tại diễn tả tương lai) ⇒ vế kết quả cần tương lai 'will stay'. 'stay' là hiện tại đơn, thiếu trợ động từ."
     },
     {
       "id": 26,
@@ -318,7 +318,7 @@
       "errorWord": "earned",
       "correction": "earn",
       "correctSentence": "If we earn enough money, we'll buy a new hi-fi system.",
-      "explanation": "Result has 'will' (Type 1), so if-clause needs present simple: 'earn'."
+      "explanation": "Vế kết quả có 'we'll buy' (tương lai) ⇒ câu điều kiện loại 1. Mệnh đề 'if' cần hiện tại đơn 'earn', không phải quá khứ 'earned' (loại 2)."
     },
     {
       "id": 27,
@@ -327,7 +327,7 @@
       "errorWord": "will get",
       "correction": "got",
       "correctSentence": "What would you do if you got lost in a forest at night?",
-      "explanation": "Type 2: 'would' in result -> past simple in if-clause: 'if you got'."
+      "explanation": "Vế kết quả có 'would you do' (câu điều kiện loại 2) ⇒ mệnh đề 'if' cần quá khứ đơn 'got', không phải 'will get'. Trong mệnh đề 'if' không dùng 'will'."
     },
     {
       "id": 28,
@@ -336,7 +336,7 @@
       "errorWord": "would found",
       "correction": "had found",
       "correctSentence": "Mr. Will wouldn't have moved to London if he had found a job here last week.",
-      "explanation": "Type 3: if-clause uses 'had + PP': 'if he had found'."
+      "explanation": "Câu điều kiện loại 3: mệnh đề 'if' cần quá khứ hoàn thành 'had found'. 'would found' sai vì: mệnh đề 'if' không dùng 'would', và 'found' cần có 'had' đi trước."
     },
     {
       "id": 29,
@@ -345,7 +345,7 @@
       "errorWord": "do you do",
       "correction": "would you do",
       "correctSentence": "What would you do if you won the first prize of the lottery?",
-      "explanation": "Type 2 ('won' in if-clause): result needs 'would': 'would you do'."
+      "explanation": "Mệnh đề 'if' có 'won' (quá khứ đơn) ⇒ câu điều kiện loại 2, vế kết quả cần 'would you do'. 'do you do' là hiện tại đơn, không khớp với loại 2."
     },
     {
       "id": 30,
@@ -354,7 +354,7 @@
       "errorWord": "have",
       "correction": "had",
       "correctSentence": "Would people be able to fly if they had feathers instead of hair?",
-      "explanation": "Type 2: 'would' in result -> past simple in if-clause: 'if they had'."
+      "explanation": "Vế kết quả có 'Would people be able' (câu điều kiện loại 2) ⇒ mệnh đề 'if' cần quá khứ đơn 'had'. 'have' là hiện tại, không khớp."
     },
     {
       "id": 31,
@@ -363,7 +363,7 @@
       "errorWord": "wouldn't",
       "correction": "won't",
       "correctSentence": "I would do it if I could, but I can't so I won't even try.",
-      "explanation": "The second part is a real statement about the present: 'I can't, so I won't try'."
+      "explanation": "Phần sau là tình huống thật ở hiện tại: 'I can't' (thật) ⇒ dùng 'I won't even try' (thật). 'wouldn't' dùng cho tình huống giả định, nhưng đây là sự thật."
     },
     {
       "id": 32,
@@ -372,7 +372,7 @@
       "errorWord": "wouldn't break",
       "correction": "wouldn't have broken",
       "correctSentence": "If Peter had been more careful, he wouldn't have broken the camera I lent him.",
-      "explanation": "Type 3: If + had PP, S + wouldn't have + PP."
+      "explanation": "Câu điều kiện loại 3: mệnh đề 'if' có 'had been' (quá khứ hoàn thành) ⇒ vế kết quả cần 'wouldn't have broken'. 'wouldn't break' là loại 2, không phù hợp."
     },
     {
       "id": 33,
@@ -381,7 +381,7 @@
       "errorWord": "hasn't been",
       "correction": "hadn't been",
       "correctSentence": "Roger wouldn't have made such a lot of mistakes if he hadn't been so tired.",
-      "explanation": "Type 3: if-clause needs past perfect: 'hadn't been'."
+      "explanation": "Câu điều kiện loại 3: vế kết quả có 'wouldn't have made' ⇒ mệnh đề 'if' cần quá khứ hoàn thành 'hadn't been'. 'hasn't been' là hiện tại hoàn thành, sai thì."
     },
     {
       "id": 34,
@@ -390,7 +390,7 @@
       "errorWord": "built",
       "correction": "build",
       "correctSentence": "How nice it would be for our parents if we could build a house for them.",
-      "explanation": "After 'could' (modal), use bare infinitive: 'could build'."
+      "explanation": "Sau động từ khuyết thiếu 'could' luôn dùng động từ nguyên mẫu không 'to': 'could build', không phải 'could built'. 'built' là quá khứ/phân từ 2."
     },
     {
       "id": 35,
@@ -399,7 +399,7 @@
       "errorWord": "could be able",
       "correction": "would be able",
       "correctSentence": "If your son were old enough, he would be able to take the competition next week.",
-      "explanation": "'Could' and 'be able to' are redundant together. Use 'would be able to'."
+      "explanation": "'Could' và 'be able to' cùng diễn tả khả năng ⇒ dùng cả hai là thừa. Trong câu điều kiện loại 2, dùng 'would be able to' là đúng."
     },
     {
       "id": 36,
@@ -408,7 +408,7 @@
       "errorWord": "could have known",
       "correction": "had known",
       "correctSentence": "I would have called you if I had known your number.",
-      "explanation": "Type 3 if-clause: If + had + PP. 'Could have known' is wrong in the if-clause."
+      "explanation": "Câu điều kiện loại 3: mệnh đề 'if' cần 'had known' (quá khứ hoàn thành). 'could have known' sai vì mệnh đề 'if' không dùng 'could have + phân từ 2'."
     },
     {
       "id": 37,
@@ -417,7 +417,7 @@
       "errorWord": "would sent",
       "correction": "would send",
       "correctSentence": "If I knew Linda's address, I would send her a Christmas card now.",
-      "explanation": "After 'would', use bare infinitive: 'would send', not 'would sent'."
+      "explanation": "Sau 'would' luôn dùng động từ nguyên mẫu: 'would send', không phải 'would sent'. 'sent' là quá khứ/phân từ 2."
     },
     {
       "id": 38,
@@ -426,7 +426,7 @@
       "errorWord": "does Jane do",
       "correction": "will Jane do",
       "correctSentence": "What will Jane do if she fails the university entrance examination?",
-      "explanation": "Type 1: result clause with 'will': 'What will Jane do?'"
+      "explanation": "Mệnh đề 'if' có 'fails' (hiện tại đơn) ⇒ câu điều kiện loại 1. Vế kết quả cần tương lai 'will Jane do'. 'does Jane do' là hiện tại đơn, không phù hợp."
     },
     {
       "id": 39,
@@ -435,7 +435,7 @@
       "errorWord": "know",
       "correction": "knew",
       "correctSentence": "If John's parents knew French, they could help him with his project.",
-      "explanation": "Type 2: 'could' in result -> past simple in if-clause: 'knew'."
+      "explanation": "Vế kết quả có 'could help' (câu điều kiện loại 2) ⇒ mệnh đề 'if' cần quá khứ đơn 'knew'. 'know' là hiện tại đơn, không khớp với 'could'."
     },
     {
       "id": 40,
@@ -444,7 +444,7 @@
       "errorWord": "apologized",
       "correction": "had apologized",
       "correctSentence": "If Laura had apologized to me for her bad behaviour yesterday, I would have forgiven her.",
-      "explanation": "Type 3 (past unreal): if-clause needs 'had + PP': 'had apologized'."
+      "explanation": "Câu điều kiện loại 3 (trái quá khứ): vế kết quả có 'would have forgiven' ⇒ mệnh đề 'if' cần quá khứ hoàn thành 'had apologized'. 'apologized' là quá khứ đơn (loại 2), không khớp."
     },
     {
       "id": 41,
@@ -500,7 +500,7 @@
         "If it wasn't raining, I would visit my grandpa.",
         "If it wasn't raining, I would visit my grandpa"
       ],
-      "explanation": "Dùng câu điều kiện loại 2 cho tình huống không có thật hiện tại. 'it's raining...would visit' → 'If it weren't raining, I would visit'. Cấu trúc: If + were + V-ing, S + would + V."
+      "explanation": "Dùng câu điều kiện loại 2 cho tình huống không có thật hiện tại. 'it's raining...would visit' → 'If it weren't raining, I would visit'. Cấu trúc: If + were + -ing, S + would + nguyên thể."
     },
     {
       "id": 45,
@@ -573,7 +573,7 @@
         "If you don't study hard, you will fail the exam.",
         "If you don't study hard, you will fail the exam"
       ],
-      "explanation": "Chuyển 'or' thành 'if...not' (điều kiện loại 1). 'Study hard or you'll fail' → 'If you don't study hard, you'll fail'. Cấu trúc: If + hiện tại đơn, S + will + V."
+      "explanation": "Chuyển 'or' thành 'if...not' (điều kiện loại 1). 'Study hard or you'll fail' → 'If you don't study hard, you'll fail'. Cấu trúc: If + hiện tại đơn, S + will + nguyên thể."
     },
     {
       "id": 50,

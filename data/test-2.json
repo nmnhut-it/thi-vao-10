@@ -17,7 +17,7 @@
         "D. am<u>ou</u>nt"
       ],
       "correctIndex": 0,
-      "explanation": "'should' has /ʊ/ sound, while B, C, D have /aʊ/ diphthong."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? | Đáp án: A — A: /ʊ/, B: /aʊ/, C: /aʊ/, D: /aʊ/ — Lý do: 'should' có âm /ʊ/, còn B, C, D có âm lưỡng /aʊ/."
     },
     {
       "id": 2,
@@ -31,7 +31,7 @@
         "D. gl<u>o</u>ve"
       ],
       "correctIndex": 3,
-      "explanation": "'glove' has /ʌ/ sound, while A, B, C have /ɒ/ sound."
+      "explanation": "Từ nào có phần gạch chân phát âm khác? | Đáp án: D — D: glove — /ʌ/, A: shop — /ɒ/, B: problem — /ɒ/, C: top — /ɒ/ — Lý do: 'glove' có âm /ʌ/, còn A, B, C có âm /ɒ/."
     },
     {
       "id": 3,
@@ -45,7 +45,7 @@
         "D. mission"
       ],
       "correctIndex": 1,
-      "explanation": "'career' has stress on the second syllable; A, C, D are stressed on the first."
+      "explanation": "Từ nào có trọng âm khác vị trí? | Đáp án: B — B: career — trọng âm ở âm tiết thứ hai, A: rusty — trọng âm ở âm tiết thứ nhất, C: accent — trọng âm ở âm tiết thứ nhất, D: mission — trọng âm ở âm tiết thứ nhất — Lý do: 'career' có trọng âm ở âm tiết thứ hai, còn A, C, D có trọng âm ở âm tiết thứ nhất."
     },
     {
       "id": 4,
@@ -59,7 +59,7 @@
         "D. housekeeper"
       ],
       "correctIndex": 2,
-      "explanation": "'financial' has stress on the second syllable; A, B, D are stressed on the first."
+      "explanation": "Từ nào có trọng âm khác vị trí? | Đáp án: C — C: financial — trọng âm ở âm tiết thứ hai, A: versatile — trọng âm ở âm tiết thứ nhất, B: openness — trọng âm ở âm tiết thứ nhất, D: housekeeper — trọng âm ở âm tiết thứ nhất — Lý do: 'financial' có trọng âm ở âm tiết thứ hai, còn A, B, D có trọng âm ở âm tiết thứ nhất."
     },
     {
       "id": 5,
@@ -73,7 +73,7 @@
         "D. <u>trust</u>"
       ],
       "correctIndex": 3,
-      "explanation": "Should be 'trusted' (past participle) after 'to be' in passive voice."
+      "explanation": "Câu có lỗi | Đáp án: D — Lỗi: trust → trusted — Dạng lỗi: sai dạng bị động — Vì sao: Sau 'to be' phải dùng quá khứ phân từ 'trusted' để tạo thể bị động."
     },
     {
       "id": 6,
@@ -87,7 +87,7 @@
         "D. <u>told</u>"
       ],
       "correctIndex": 3,
-      "explanation": "Should be 'telling' tales (active, not passive). He tells tales, not is told tales."
+      "explanation": "Câu có lỗi | Đáp án: D — Lỗi: told → telling — Dạng lỗi: sai thì/chủng — Vì sao: 'telling tales' là dạng chủ động, phải dùng động từ + ing vì chủ ngữ thực hiện hành động."
     },
     {
       "id": 7,
@@ -101,7 +101,7 @@
         "D. <u>harmonies</u>"
       ],
       "correctIndex": 0,
-      "explanation": "Should be 'Under' the guidance of, not 'About'."
+      "explanation": "Câu có lỗi | Đáp án: A — Lỗi: About → Under — Dạng lỗi: sai giới từ — Vì sao: 'Under the guidance of' là thành ngữ đúng trong tiếng Anh."
     },
     {
       "id": 8,
@@ -115,7 +115,7 @@
         "D. whose"
       ],
       "correctIndex": 2,
-      "explanation": "'which' is used as a relative pronoun for things (points)."
+      "explanation": "Điền vào chỗ trống | Đáp án: C — C: which — Lý do: 'which' là đại từ quan hệ dùng cho sự vật (points)."
     },
     {
       "id": 9,
@@ -129,7 +129,7 @@
         "D. be invited"
       ],
       "correctIndex": 3,
-      "explanation": "Passive voice (future): will + be + past participle."
+      "explanation": "Điền vào chỗ trống | Đáp án: D — D: be invited — Lý do: Thể bị động tương lai: will + be + quá khứ phân từ."
     },
     {
       "id": 10,
@@ -143,7 +143,7 @@
         "D. takes"
       ],
       "correctIndex": 0,
-      "explanation": "'blows it out of the water' is an idiom meaning greatly surpasses."
+      "explanation": "Điền vào chỗ trống | Đáp án: A — A: blows — Lý do: 'blows it out of the water' là thành ngữ nghĩa là vượt xa, giỏi hơn nhiều."
     },
     {
       "id": 11,
@@ -157,7 +157,7 @@
         "D. drove"
       ],
       "correctIndex": 1,
-      "explanation": "Conditional type 2: If + past simple, would + V-infinitive."
+      "explanation": "Điền vào chỗ trống | Đáp án: B — B: would drive — Lý do: Câu điều kiện loại 2: If + quá khứ đơn, would + động từ nguyên thể."
     },
     {
       "id": 12,
@@ -171,7 +171,7 @@
         "D. a - any"
       ],
       "correctIndex": 0,
-      "explanation": "'the country' (specific) and 'some rain' (affirmative sentence)."
+      "explanation": "Điền vào chỗ trống | Đáp án: A — A: the - some — Lý do: 'the country' (xác định) và 'some rain' (câu khẳng định)."
     },
     {
       "id": 13,
@@ -185,7 +185,7 @@
         "D. doesn't leave"
       ],
       "correctIndex": 3,
-      "explanation": "Conditional type 1: If + present simple. 'She' requires 'doesn't'."
+      "explanation": "Điền vào chỗ trống | Đáp án: D — D: doesn't leave — Lý do: Câu điều kiện loại 1: If + hiện tại đơn. 'She' cần 'doesn't' (ngôi thứ 3 số ít)."
     },
     {
       "id": 14,
@@ -199,7 +199,7 @@
         "D. hamburger"
       ],
       "correctIndex": 2,
-      "explanation": "'takes the biscuit' is a British idiom meaning 'is the most remarkable/annoying'."
+      "explanation": "Điền vào chỗ trống | Đáp án: C — C: biscuit — Lý do: 'takes the biscuit' là thành ngữ tiếng Anh (Anh) nghĩa là rất đặc biệt/đáng ngạc nhiên."
     },
     {
       "id": 15,
@@ -213,7 +213,7 @@
         "D. down"
       ],
       "correctIndex": 0,
-      "explanation": "'left out' means omitted or forgot to include."
+      "explanation": "Điền vào chỗ trống | Đáp án: A — A: out — Lý do: 'left out' nghĩa là bỏ quên, không bao gồm."
     },
     {
       "id": 16,
@@ -227,7 +227,7 @@
         "D. an - in"
       ],
       "correctIndex": 1,
-      "explanation": "'university' starts with /juː/ (consonant sound), so use 'a'. Location: 'in' a town."
+      "explanation": "Điền vào chỗ trống | Đáp án: B — B: a - in — Lý do: 'university' bắt đầu bằng âm /j/ (phụ âm), nên dùng 'a'. Địa điểm trong thành phố: 'in' a town."
     },
     {
       "id": 17,
@@ -241,7 +241,7 @@
         "D. I know that"
       ],
       "correctIndex": 0,
-      "explanation": "'All right' is an agreement to do something when asked."
+      "explanation": "Chọn câu trả lời | Đáp án: A — A: All right — Lý do: 'All right' là đồng ý làm gì đó khi được yêu cầu."
     },
     {
       "id": 18,
@@ -255,7 +255,7 @@
         "D. That's a nice day."
       ],
       "correctIndex": 2,
-      "explanation": "'That's a good idea' is a natural way to agree to a suggestion."
+      "explanation": "Chọn câu trả lời | Đáp án: C — C: That's a good idea — Lý do: 'That's a good idea' là cách đồng ý với đề xuất tự nhiên nhất."
     },
     {
       "id": 19,
@@ -269,7 +269,7 @@
         "D. incredible"
       ],
       "correctIndex": 1,
-      "explanation": "'inevitable' means certain to happen, unavoidable."
+      "explanation": "Từ gần nghĩa nhất | Đáp án: B — B: unavoidable — Lý do: 'inevitable' nghĩa là chắc chắn xảy ra, không thể tránh được."
     },
     {
       "id": 20,
@@ -283,7 +283,7 @@
         "D. established"
       ],
       "correctIndex": 3,
-      "explanation": "'set up' means established or created."
+      "explanation": "Từ gần nghĩa nhất | Đáp án: D — D: established — Lý do: 'set up' nghĩa là thành lập, tạo ra."
     },
     {
       "id": 21,
@@ -297,7 +297,7 @@
         "D. raise"
       ],
       "correctIndex": 2,
-      "explanation": "The question asks for the OPPOSITE of 'goes up' (= increases). Options A (increase), B (ascend), D (raise) are all synonyms meaning to go higher. Only C ('develop') is not a synonym of 'goes up', making it the odd one out by elimination. Note: a true antonym would be 'decrease' or 'drop', but it is not among the choices."
+      "explanation": "Từ trái nghĩa nhất | Đáp án: C — C: develop — Lý do: Câu hỏi yêu cầu từ TRÁI NGHĨA với 'goes up' (= tăng). A (increase), B (ascend), D (raise) đều là đồng nghĩa với 'tăng'. Chỉ có C ('develop') KHÔNG phải là đồng nghĩa với 'goes up', nên là đáp án đúng bằng phương pháp loại trừ. Ghi chú: Từ trái nghĩa đúng là 'decrease' hoặc 'drop', nhưng không có trong các lựa chọn."
     },
     {
       "id": 22,
@@ -311,7 +311,7 @@
         "D. succeeded"
       ],
       "correctIndex": 2,
-      "explanation": "'took part in' means participated in."
+      "explanation": "Từ gần nghĩa nhất | Đáp án: C — C: participated — Lý do: 'took part in' nghĩa là tham gia."
     },
     {
       "id": 23,
@@ -328,7 +328,7 @@
             "D. having"
           ],
           "correctIndex": 1,
-          "explanation": "'People' is plural, so 'have been growing' (present perfect continuous)."
+          "explanation": "Điền (23) | Đáp án: B — B: have — Lý do: 'People' là số nhiều, nên dùng 'have been growing' (hiện tại hoàn thành tiếp diễn)."
         },
         {
           "id": "24a",
@@ -340,7 +340,7 @@
             "D. taken"
           ],
           "correctIndex": 3,
-          "explanation": "Passive: 'are taken to fields'. Past participle after 'are'."
+          "explanation": "Điền (24) | Đáp án: D — D: taken — Lý do: Thể bị động: 'are taken to fields'. Quá khứ phân từ sau 'are'."
         },
         {
           "id": "25a",
@@ -352,7 +352,7 @@
             "D. beautifully"
           ],
           "correctIndex": 2,
-          "explanation": "'look' + adjective: 'look very beautiful'."
+          "explanation": "Điền (25) | Đáp án: C — C: beautiful — Lý do: 'look' + tính từ: 'look very beautiful'."
         },
         {
           "id": "26a",
@@ -364,7 +364,7 @@
             "D. x"
           ],
           "correctIndex": 0,
-          "explanation": "'a special action' - indefinite article before consonant sound."
+          "explanation": "Điền (26) | Đáp án: A — A: a — Lý do: 'a special action' - mạo từ bất định trước âm thanh phụ âm."
         },
         {
           "id": "27a",
@@ -376,7 +376,7 @@
             "D. like"
           ],
           "correctIndex": 1,
-          "explanation": "'known as' means called/referred to as."
+          "explanation": "Điền (27) | Đáp án: B — B: as — Lý do: 'known as' nghĩa là được gọi là, được biết đến là."
         }
       ]
     },
@@ -395,7 +395,7 @@
             "D. rules and regulations"
           ],
           "correctIndex": 0,
-          "explanation": "The passage states: 'Discipline means complete obedience to certain rules and regulations.'"
+          "explanation": "Câu hỏi về đoạn văn | Đáp án: A — A: obedience to rules and regulations — Lý do: Đoạn văn nêu: 'Discipline means complete obedience to certain rules and regulations.'"
         },
         {
           "id": "29a",
@@ -407,7 +407,7 @@
             "D. small"
           ],
           "correctIndex": 2,
-          "explanation": "'fundamental' means basic, essential, forming the foundation."
+          "explanation": "Giải nghĩa từ | Đáp án: C — C: basic — Lý do: 'fundamental' nghĩa là cơ bản, nền tảng, tạo thành cơ sở."
         },
         {
           "id": "30a",
@@ -419,7 +419,7 @@
             "D. very important"
           ],
           "correctIndex": 3,
-          "explanation": "The passage states 'Discipline is very important in a student's life.'"
+          "explanation": "Câu hỏi về đoạn văn | Đáp án: D — D: very important — Lý do: Đoạn văn nêu: 'Discipline is very important in a student's life.'"
         },
         {
           "id": "31a",
@@ -431,7 +431,7 @@
             "D. forget"
           ],
           "correctIndex": 1,
-          "explanation": "'follow the rules' = 'obey the rules'."
+          "explanation": "Từ thay thế | Đáp án: B — B: obey — Lý do: 'follow the rules' = 'obey the rules'."
         },
         {
           "id": "32a",
@@ -443,7 +443,7 @@
             "D. self-control and dedication"
           ],
           "correctIndex": 3,
-          "explanation": "The passage states: 'Discipline demands self-control and dedication.'"
+          "explanation": "Câu hỏi về đoạn văn | Đáp án: D — D: self-control and dedication �� Lý do: Đoạn văn nêu: 'Discipline demands self-control and dedication.'"
         }
       ]
     },
@@ -460,7 +460,7 @@
         "Lan suggested that they should go out for a walk.",
         "Lan suggested that they go out for a walk."
       ],
-      "explanation": "Chuyển câu đề nghị sang gián tiếp. 'Why don't we go out' → 'suggested going out for a walk'."
+      "explanation": "Câu gốc: \"Tại sao mình không đi dạo nhỉ?\" — Lê nói | Yêu cầu: Viết lại bắt đầu với Lan | Đáp án: Lan suggested going out for a walk. — Cấu trúc: Chuyển câu đề nghị sang gián tiếp: 'Why don't we go out' → 'suggested going out for a walk' | Giải thích: Động từ 'suggested' + động từ + ing diễn đạt đề xuất."
     },
     {
       "id": 34,
@@ -475,7 +475,7 @@
         "He has been studying Chinese for five years.",
         "He has been studying Chinese for five years"
       ],
-      "explanation": "Chuyển quá khứ đơn + ago sang hiện tại hoàn thành + for. 'started five years ago' → 'has studied for five years'."
+      "explanation": "Câu gốc: Anh ấy bắt đầu học tiếng Trung năm năm trước. | Yêu cầu: Viết lại bắt đầu với He has | Đáp án: He has studied Chinese for five years. — Cấu trúc: Chuyển quá khứ đơn + ago sang hiện tại hoàn thành + for | Giải thích: 'started five years ago' → 'has studied for five years'."
     },
     {
       "id": 35,
@@ -490,7 +490,7 @@
         "If I was you, I would study harder for the exam.",
         "If I were you, I'd study harder for the exam."
       ],
-      "explanation": "Chuyển lời khuyên sang câu điều kiện loại 2. 'you should study harder' → 'If I were you, I would study harder'."
+      "explanation": "Câu gốc: Tôi nghĩ bạn nên học chăm hơn cho kỳ thi. | Yêu cầu: Viết lại bắt đầu với If | Đáp án: If I were you, I would study harder for the exam. — Cấu trúc: Chuyển lời khuyên sang câu điều kiện loại 2 | Giải thích: 'you should study harder' → 'If I were you, I would study harder'."
     },
     {
       "id": 36,
@@ -505,7 +505,7 @@
         "My dictionary isn't as expensive as yours.",
         "My dictionary is cheaper than yours."
       ],
-      "explanation": "Chuyển so sánh hơn sang so sánh bằng (phủ định). 'more expensive than mine' → 'not as expensive as yours'."
+      "explanation": "Câu gốc: Từ điển của bạn đắt hơn của tôi. | Yêu cầu: Viết lại bắt đầu với My dictionary | Đáp án: My dictionary is not as expensive as yours. — Cấu trúc: Chuyển so sánh hơn sang so sánh bằng (phủ định) | Giải thích: 'more expensive than mine' → 'not as expensive as yours'."
     },
     {
       "id": 37,
@@ -518,7 +518,7 @@
         "I wish I could play the guitar.",
         "I wish I could play the guitar"
       ],
-      "explanation": "Wish + past simple/could to express regret about present inability."
+      "explanation": "Câu 1: Tiếc quá. Tôi không chơi được đàn gitar. | Cách kết hợp: Dùng 'wish' + quá khứ đơn/could để diễn đạt tiếc về sự không thể làm được ở hiện tại | Đáp án: I wish I could play the guitar. — Giải thích: Wish + quá khứ đơn/could biểu thị ước muốn không thể thực hiện ở hiện tại."
     },
     {
       "id": 38,
@@ -533,7 +533,7 @@
         "I admire her achievements although I don't really like her.",
         "I admire her achievements although I don't really like her"
       ],
-      "explanation": "'although' introduces a concessive clause showing contrast."
+      "explanation": "Câu 1: Tôi không thực sự thích cô ấy. + Câu 2: Tôi ngưỡng mộ thành tự của cô ấy. | Cách kết hợp: Dùng 'although' để diễn đạt quan hệ tương phản | Đáp án: Although I don't really like her, I admire her achievements. — Giải thích: 'although' giới thiệu mệnh đề nhượng bộ thể hiện sự tương phản."
     },
     {
       "id": 39,
@@ -547,7 +547,7 @@
         "This is the best essay she has ever written",
         "This is the best essay that she has ever written."
       ],
-      "explanation": "Superlative + present perfect with 'ever': the best... ever + V-ed."
+      "explanation": "Câu 1: Cô ấy đã viết nhiều bài luận. + Câu 2: Đây là bài tốt nhất. | Cách kết hợp: Dùng 'ever' với cấu trúc so sánh nhất + hiện tại hoàn thành | Đáp án: This is the best essay she has ever written. — Giải thích: Cấu trúc so sánh nhất + hiện tại hoàn thành với 'ever': the best... ever + V-ed."
     },
     {
       "id": 40,
@@ -562,7 +562,7 @@
         "It was raining heavily, so we cancelled our journey.",
         "It was raining heavily, so we cancelled our journey"
       ],
-      "explanation": "'so' connects cause and result."
+      "explanation": "Câu 1: Trời đang mưa to. + Câu 2: Chúng tôi hủy chuyến đi. | Cách kết hợp: Dùng 'so' để nối nguyên nhân - kết quả | Đáp án: It's raining heavily, so we cancelled our journey. — Giải thích: 'so' nối nguyên nhân và kết quả."
     }
   ]
 }

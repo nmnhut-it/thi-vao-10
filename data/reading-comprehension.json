@@ -21,7 +21,7 @@
             "D. natural gas and its use"
           ],
           "correctIndex": 3,
-          "explanation": "The passage discusses what natural gas is, how it was discovered, and its many uses -- making D the best summary."
+          "explanation": "Đoạn văn thảo luận về khí tự nhiên là gì, cách phát hiện và các ứng dụng — đáp án D tóm tắt đúng nhất. Các đáp án khác chỉ nói một phần."
         },
         {
           "id": "1b",
@@ -33,7 +33,7 @@
             "D. It can be stored."
           ],
           "correctIndex": 0,
-          "explanation": "The passage states natural gas is used for 'cooking and heating,' so A is false."
+          "explanation": "Đoạn văn nói khí tự nhiên dùng để 'cooking and heating' → đáp án A sai (không dùng để sưởi ấm là sai). Các đáp án B, C, D đều đúng theo văn bản."
         },
         {
           "id": "1c",
@@ -45,7 +45,7 @@
             "D. five"
           ],
           "correctIndex": 3,
-          "explanation": "The passage mentions lighting, cooking, heating, electric generators, and hybrid cars -- five uses."
+          "explanation": "Đoạn văn liệt kê 5 công dụng: chiếu sáng (lighting), nấu ăn (cooking), sưởi ấm (heating), máy phát điện (electric generators), xe hybrid (hybrid cars). Đáp án D đúng."
         },
         {
           "id": "1d",
@@ -57,7 +57,7 @@
             "D. tank"
           ],
           "correctIndex": 0,
-          "explanation": "The pronoun 'it' in context refers back to 'natural gas,' the main subject of the paragraph."
+          "explanation": "'It' trong câu này chỉ khí tự nhiên (natural gas) — chủ ngữ chính của đoạn. Đáp án A đúng. 'electric generator'/'pipeline'/'tank' không phải chủ ngữ của đoạn."
         },
         {
           "id": "1e",
@@ -69,7 +69,7 @@
             "D. stored"
           ],
           "correctIndex": 1,
-          "explanation": "'Discovered' means 'found' -- to find something for the first time."
+          "explanation": "'Discovered' = discovered, phát hiện ra cái gì đó lần đầu tiên. Gần nghĩa nhất với 'found' (tìm thấy). 'invented' = phát minh, 'used' = dùng, 'stored' = lưu trữ — không đúng."
         }
       ]
     },
@@ -88,7 +88,7 @@
             "D. The importance of communication with people"
           ],
           "correctIndex": 0,
-          "explanation": "The passage lists multiple reasons why one should learn a foreign language."
+          "explanation": "Đoạn văn liệt kê nhiều lý do nên học ngoại ngữ → đáp án A đúng. B chỉ nói về lợi ích của tiếng Anh, C nói cách học, D nói tầm quan trọng của giao tiếp — đều không đầy đủ."
         },
         {
           "id": "2b",
@@ -100,7 +100,7 @@
             "D. mental exercise"
           ],
           "correctIndex": 1,
-          "explanation": "'It' refers to 'learning a foreign language' which helps you learn other subjects better."
+          "explanation": "'It' ở đây chỉ 'learning a foreign language' — điều giúp em học các môn khác tốt hơn. Đáp án B đúng."
         },
         {
           "id": "2c",
@@ -112,7 +112,7 @@
             "D. It isn't necessary to know a foreign language"
           ],
           "correctIndex": 3,
-          "explanation": "The passage argues strongly for learning a foreign language, so D contradicts the passage."
+          "explanation": "Đoạn văn nhấn mạnh nên học ngoại ngữ (không phủ định) → đáp án D sai. A, B, C đều đúng theo văn bản."
         },
         {
           "id": "2d",
@@ -124,7 +124,7 @@
             "D. Four"
           ],
           "correctIndex": 2,
-          "explanation": "Three benefits: job opportunities, travel experience, and helping learn other subjects."
+          "explanation": "Có 3 lợi ích: cơ hội việc làm (job opportunities), du lịch (travel), và giúp học các môn khác tốt hơn. Đáp án C đúng."
         },
         {
           "id": "2e",
@@ -136,7 +136,7 @@
             "D. boring"
           ],
           "correctIndex": 1,
-          "explanation": "'Hard' means 'difficult.'"
+          "explanation": "'Hard' = khó, gần nghĩa nhất với 'difficult' (đáp án B). 'easy' = dễ, 'interesting' = thú vị, 'boring' = chán — nghĩa ngược."
         }
       ]
     },
@@ -155,7 +155,7 @@
             "D. Who watches for tropical cyclones"
           ],
           "correctIndex": 2,
-          "explanation": "The passage mainly explains the process and system of naming tropical cyclones."
+          "explanation": "Đoạn văn chủ yếu giải thích quy trình và hệ thống đặt tên bão. Đáp án C đúng. A nói thời điểm, B nói tác hại, D nói người theo dõi — đều không phải ý chính."
         },
         {
           "id": "3b",
@@ -167,7 +167,7 @@
             "D. a male name"
           ],
           "correctIndex": 0,
-          "explanation": "'Which' refers to 'a different list' used by Asian countries."
+          "explanation": "'Which' ở đây chỉ 'a different list' — danh sách được các nước châu Á sử dụng. Đáp án A đúng."
         },
         {
           "id": "3c",
@@ -179,7 +179,7 @@
             "D. 80 pkh"
           ],
           "correctIndex": 1,
-          "explanation": "The passage states wind speeds of '60 kph or more.'"
+          "explanation": "Đoạn văn ghi rõ tốc độ gió là '60 kph or more' → đáp án B đúng. Các đáp án khác (50, 70, 80) không có trong văn bản."
         },
         {
           "id": "3d",
@@ -191,7 +191,7 @@
             "D. Q"
           ],
           "correctIndex": 3,
-          "explanation": "The passage says names beginning with Q, U, X, Y and Z are not included."
+          "explanation": "Đoạn văn nói danh sách không gồm các chữ Q, U, X, Y và Z → đáp án D đúng. D, T, M đều có thể dùng."
         },
         {
           "id": "3e",
@@ -203,7 +203,7 @@
             "D. take off"
           ],
           "correctIndex": 1,
-          "explanation": "'Discover' means 'find out' -- to detect or identify something."
+          "explanation": "'Discover' = phát hiện, tìm ra — gần nghĩa nhất với 'find out' (tìm hiểu, phát hiện ra). 'look for' = tìm kiếm, 'look at' = nhìn, 'take off' = cất cánh — không đúng."
         }
       ]
     },
@@ -222,7 +222,7 @@
             "D. Protect your luggage"
           ],
           "correctIndex": 1,
-          "explanation": "The passage gives various tips and advice for travelers, so 'Travel advice' is the best title."
+          "explanation": "Đoạn văn đưa ra nhiều lời khuyên cho du khách (đặt trước, kiểm tra hộ chiếu, đóng gói thuốc...) → 'Travel advice' (đáp án B) là tiêu đề phù hợp nhất. A thủ tục, C chỉ một mẹo, D chỉ hành lý."
         },
         {
           "id": "4b",
@@ -234,7 +234,7 @@
             "D. Save money by cutting out dinner"
           ],
           "correctIndex": 3,
-          "explanation": "The passage says eat larger lunches and smaller evening meals, not cut out dinner entirely."
+          "explanation": "Đoạn văn nói ăn trưa nhiều hơn, tối ít hơn để tiết kiệm — không nói cắt bỏ bữa tối hoàn toàn. Đáp án D đúng (không khuyến khích). A, B, C đều có đề cập."
         },
         {
           "id": "4c",
@@ -246,7 +246,7 @@
             "D. painted a bright colour"
           ],
           "correctIndex": 1,
-          "explanation": "The passage says to label suitcases clearly so they can be identified -- essentially tagging them."
+          "explanation": "Đoạn văn nói gắn nhãn vali rõ ràng để nhận dạng → 'label' = gắn thẻ (tagging). Đáp án B đúng. A lưu trữ, C đóng gói với hộ chiếu, D sơn màu — không đề cập."
         },
         {
           "id": "4d",
@@ -258,7 +258,7 @@
             "D. flight"
           ],
           "correctIndex": 2,
-          "explanation": "'It' refers to your passport, as the sentence discusses emailing passport details in case 'it is lost or stolen.'"
+          "explanation": "'It' chỉ hộ chiếu (passport) — câu nói về việc gửi email bản passport phòng khi 'it is lost or stolen'. Đáp án C đúng."
         },
         {
           "id": "4e",
@@ -270,7 +270,7 @@
             "D. you can't get back your lost luggage overseas"
           ],
           "correctIndex": 0,
-          "explanation": "The passage says to 'avoid peak holiday times' to save money, implying peak season costs more."
+          "explanation": "Đoạn văn khuyên 'avoid peak holiday times' để tiết kiệm → ngụ ý mùa cao điểm đắt hơn. Đáp án A đúng. B không bắt buộc, C ngược (trưa rẻ), D không có trong văn bản."
         }
       ]
     },
@@ -289,7 +289,7 @@
             "D. Nuclear power"
           ],
           "correctIndex": 1,
-          "explanation": "The entire passage is about solar energy -- its benefits and applications."
+          "explanation": "Toàn bộ đoạn văn nói về khí tự nhiên — lợi ích và ứng dụng. Đáp án B đúng. A chỉ nói chung, C ô nhiễm, D năng lượng hạt nhân — không phải ý chính."
         },
         {
           "id": "5b",
@@ -301,7 +301,7 @@
             "D. One-fifth of the solar energy."
           ],
           "correctIndex": 2,
-          "explanation": "The passage states 'One percent of the solar energy that reaches the earth is enough.'"
+          "explanation": "Đoạn văn nói rõ: 'One percent of the solar energy that reaches the earth is enough' → đáp án C đúng. Các đáp án khác (2%, 1/3, 1/5) không có trong văn bản."
         },
         {
           "id": "5c",
@@ -313,7 +313,7 @@
             "D. They are placed on the branches of the tall trees behind the house."
           ],
           "correctIndex": 1,
-          "explanation": "The passage says 'Solar panels are placed on the roofs of our house.'"
+          "explanation": "Đoạn văn: 'Solar panels are placed on the roofs of our house' → đáp án B đúng. A vườn, C sàn nhà, D cành cây — không đề cập."
         },
         {
           "id": "5d",
@@ -325,7 +325,7 @@
             "D. B & C"
           ],
           "correctIndex": 3,
-          "explanation": "'Placed' can mean both 'installed' and 'put,' so D (B & C) is correct."
+          "explanation": "'Placed' = đặt, để — gần nghĩa với cả 'put' (đặt) và 'installed' (lắp đặt). Đáp án D (B & C) đúng."
         },
         {
           "id": "5e",
@@ -337,7 +337,7 @@
             "D. The sun"
           ],
           "correctIndex": 1,
-          "explanation": "'There' refers to Sweden, mentioned in the previous sentence."
+          "explanation": "'There' chỉ Thụy Điển (Sweden) được đề cập ở câu trước đó. Đáp án B đúng."
         }
       ]
     },
@@ -356,7 +356,7 @@
             "D. for thousands of local labourers"
           ],
           "correctIndex": 0,
-          "explanation": "The passage says they 'created more products in addition to the traditional sedge mats.'"
+          "explanation": "Đoạn văn nói họ 'created more products in addition to the traditional sedge mats' → đáp án A đúng. B ngược (không ngừng làm), C sai (vật liệu phổ biến chứ không hiếm), D không phải lý do."
         },
         {
           "id": "6b",
@@ -368,7 +368,7 @@
             "D. both occur on the same land"
           ],
           "correctIndex": 2,
-          "explanation": "Both activities depend on dry/rainy seasons, meaning they depend on weather conditions."
+          "explanation": "Cả hai hoạt động đều phụ thuộc vào mùa khô/mùa mưa → phụ thuộc thời tiết. Đáp án C đúng. A thu nhập tương tự (nhưng vì thu nhập cao hơn mới theo nghề), B cùng thời gian (đúng nhưng không phải lý do chính), D cùng đất — không đề cập."
         },
         {
           "id": "6c",
@@ -380,7 +380,7 @@
             "D. they can go to Korea, Japan and America"
           ],
           "correctIndex": 1,
-          "explanation": "The passage states 'it brings a higher income than growing rice.'"
+          "explanation": "Đoạn văn nói rõ: 'it brings a higher income than growing rice' → đáp án B đúng. A kỹ thuật, C làm mùa mưa, D ra nước ngoài — không phải lý do."
         },
         {
           "id": "6d",
@@ -392,7 +392,7 @@
             "D. Long Dinh mat production is only well-known in foreign markets"
           ],
           "correctIndex": 0,
-          "explanation": "The passage concludes that mat weaving brought more income and improved living standards for the whole village."
+          "explanation": "Đoạn văn kết luận nghề dệt chiếu mang lại thu nhập cao hơn và cải thiện đời sống cả làng → đáp án A đúng. B chỉ một phần, C kỹ thuật mới, D chỉ thị trường nước ngoài — không đầy đủ."
         },
         {
           "id": "6e",
@@ -404,7 +404,7 @@
             "D. it has had the reputation for more than 50 years"
           ],
           "correctIndex": 3,
-          "explanation": "The passage says mat weaving started 'some 50 years ago,' not 'more than 50 years.'"
+          "explanation": "Đoạn văn nói nghề dệt chiếu bắt đầu 'some 50 years ago' (khoảng 50 năm trước), không phải 'more than 50 years'. Đáp án D sai."
         }
       ]
     },
@@ -423,7 +423,7 @@
             "D. a lot of kinds of entertainment and shopping centers"
           ],
           "correctIndex": 2,
-          "explanation": "The passage mentions 'countless job opportunities and activities to occupy your time.'"
+          "explanation": "Đoạn văn: 'There are countless job opportunities and activities to occupy your time' → đáp án C đúng. A giáo dục, B giáo dục + việc, D mua sắm — không đề cập."
         },
         {
           "id": "7b",
@@ -435,7 +435,7 @@
             "D. greater chances of being unemployed"
           ],
           "correctIndex": 0,
-          "explanation": "The passage states 'there are also more people competing for a single job.'"
+          "explanation": "Đoạn văn nói rõ: 'there are also more people competing for a single job' → đáp án A đúng. B lương cao hơn, C khủng hoảng kinh tế, D thất nghiệp — không đề cập hoặc ngược."
         },
         {
           "id": "7c",
@@ -447,7 +447,7 @@
             "D. cost a lot of money"
           ],
           "correctIndex": 3,
-          "explanation": "'Cost an arm and a leg' is an idiom meaning 'cost a lot of money.'"
+          "explanation": "'Cost an arm and a leg' = thành ngữ tiếng Anh nghĩa là 'tốn rất nhiều tiền' → đáp án D đúng. A giá trị tay chân, B ít tiền, C làm việc chăm chỉ — không đúng."
         },
         {
           "id": "7d",
@@ -459,7 +459,7 @@
             "D. people who prefer a busy life"
           ],
           "correctIndex": 2,
-          "explanation": "The passage says 'If you hate driving in traffic, then the big city life is not for you.'"
+          "explanation": "Đoạn văn: 'If you hate driving in traffic, then the big city life is not for you' → đáp án C đúng. Người ghét kẹt xe không nên sống ở thành phố lớn."
         },
         {
           "id": "7e",
@@ -471,7 +471,7 @@
             "D. Crime is not a serious problem in big cities."
           ],
           "correctIndex": 3,
-          "explanation": "The passage says 'there is always more crime in a big city,' so D is false."
+          "explanation": "Đoạn văn: 'there is always more crime in a big city' → tội phạm là vấn đề nghiêm trọng. Đáp án D sai (ngược). A ô nhiễm gây bệnh, B đông đúc, C đắt đỏ — đều đúng theo văn bản."
         }
       ]
     },
@@ -490,7 +490,7 @@
             "D. the life of schoolchildren in Mongolia"
           ],
           "correctIndex": 1,
-          "explanation": "The passage describes the international work of Orbis eye doctors helping blind people."
+          "explanation": "Đoạn văn mô tả công việc quốc tế của bác sĩ mắt Orbis giúp người mù → đáp án B đúng. A học y, C du khách mù, D học sinh Mông Cổ — không phải ý chính."
         },
         {
           "id": "8b",
@@ -502,7 +502,7 @@
             "D. the medical student"
           ],
           "correctIndex": 2,
-          "explanation": "'She' refers to Eukhtul, the young Mongolian girl whose story is being told."
+          "explanation": "'She' ở đây chỉ Eukhtul — cô gái Mông Cổ mà câu chuyện đang kể. Đáp án C đúng."
         },
         {
           "id": "8c",
@@ -514,7 +514,7 @@
             "D. surprised by Eukhtul's ability"
           ],
           "correctIndex": 1,
-          "explanation": "Samantha says 'I realised how lucky I am,' showing gratitude for her own sight."
+          "explanation": "Samantha nói 'I realised how lucky I am' (nhận ra mình may mắn thế nào) → cô ấy biết ơn đôi mắt của mình. Đáp án B đúng. A giận dữ, C tự hào, D ngạc nhiên — không đúng."
         },
         {
           "id": "8d",
@@ -526,7 +526,7 @@
             "D. She can't see perfectly again"
           ],
           "correctIndex": 0,
-          "explanation": "The doctor said 'In six months your sight will be back to normal.'"
+          "explanation": "Bác sĩ nói: 'In six months your sight will be back to normal' → sau một thời gian cô ấy sẽ nhìn được bình thường. Đáp án A đúng. Các đáp án B, C, D đều ngược với văn bản."
         },
         {
           "id": "8e",
@@ -538,7 +538,7 @@
             "D. To warn against playing with sticks"
           ],
           "correctIndex": 2,
-          "explanation": "The passage reports the successful cure of Eukhtul's blindness through an Orbis operation."
+          "explanation": "Đoạn văn kể lại ca mổ chữa mù thành công của Eukhtul nhờ tổ chức Orbis → đáp án C đúng (báo cáo việc chữa khỏi cho bệnh nhân). A chuyến đi nguy hiểm, B mất thị giác, D chơi gậy — không đúng."
         }
       ]
     },
@@ -557,7 +557,7 @@
             "D. Lanterns Paradise"
           ],
           "correctIndex": 1,
-          "explanation": "The passage calls Phu Quoc 'the tropical paradise of Vietnam and the world.'"
+          "explanation": "Đoạn văn gọi Phú Quốc là 'the tropical paradise of Vietnam and the world' → thiên đường nhiệt đới. Đáp án B đúng. Các đáp án khác (A, C, D) không phải tên gọi trong văn bản."
         },
         {
           "id": "9b",
@@ -569,7 +569,7 @@
             "D. doesn't have rains all the year round"
           ],
           "correctIndex": 0,
-          "explanation": "The passage mentions both 'beautiful sandy beaches' and 'a mountainous region with 99 peaks.'"
+          "explanation": "Đoạn văn nói cả bãi biển cát đẹp (beautiful sandy beaches) và vùng núi (mountainous region with 99 peaks) → đáp án A đúng. B không có nhiều điểm thu hút (sai), C núi cao nhất Việt Nam (không đề cập), D mưa quanh năm (ngược)."
         },
         {
           "id": "9c",
@@ -581,7 +581,7 @@
             "D. its dry season"
           ],
           "correctIndex": 2,
-          "explanation": "The passage says its climate is 'sub-equatorial with a temperate weather all year round.'"
+          "explanation": "Đoạn văn: 'climate is sub-equatorial with a temperate weather all year round' → khí hậu ôn hòa quanh năm → đáp án C đúng. A vị trí biển, B người địa phương thân thiện, D mùa khô — đều không giải thích được 'any time in the year'."
         },
         {
           "id": "9d",
@@ -593,7 +593,7 @@
             "D. pay attention to"
           ],
           "correctIndex": 0,
-          "explanation": "'Intrigue' means to arouse curiosity or interest, closest to 'attract.'"
+          "explanation": "'Intrigue' = gây tò mò, thu hút — gần nghĩa nhất với 'attract' (hấp dẫn). 'promote' = quảng bá, 'inspire' = truyền cảm hứng, 'pay attention to' = chú ý — không đúng."
         },
         {
           "id": "9e",
@@ -605,7 +605,7 @@
             "D. The island is roughly triangular in shape."
           ],
           "correctIndex": 1,
-          "explanation": "The passage says the beaches 'have yet to be explored to their full ability,' so B is false."
+          "explanation": "Đoạn văn: 'They have yet to be explored to their full ability' → các bãi biển CHƯA được khai thác hết → đáp án B sai (bãi biển đã được khai thác hết là ngược). A, C, D đều đúng theo văn bản."
         }
       ]
     },
@@ -624,7 +624,7 @@
             "D. Saigon: Hub of the South East Vietnam"
           ],
           "correctIndex": 2,
-          "explanation": "The passage traces Saigon's history from past to present, making 'Then and Now' the best title."
+          "explanation": "Đoạn văn truyền thuyết lịch sử Sài Gòn từ quá khứ đến hiện tại → 'Then and Now' (trước và sau) là tiêu đề phù hợp nhất. Đáp án C đúng. A thất lạc-tìm lại, B hiện tại và quá khứ, D miền Nam Đông Nam — không đúng."
         },
         {
           "id": "10b",
@@ -636,7 +636,7 @@
             "D. It was no longer visited by international tourists."
           ],
           "correctIndex": 1,
-          "explanation": "The passage states it 'became a cultural hub of the South as well as an important trading center.'"
+          "explanation": "Đoạn văn: 'became a cultural hub of the South as well as an important trading center of the country' → đáp án B đúng. A phổ biến châu Á (không đề cập), C trung tâm thương mại thế giới (quá), D du khách quốc tế (ngược)."
         },
         {
           "id": "10c",
@@ -648,7 +648,7 @@
             "D. different occurrences and disastrous wars"
           ],
           "correctIndex": 3,
-          "explanation": "The passage says 'various occurrences and two disastrous wars has stunted the city's development.'"
+          "explanation": "Đoạn văn: 'various occurrences and two disastrous wars has stunted the city's development' → đáp án D đúng. A chỉ chiến tranh, B sự kiện lịch sử (chung), C thiên tai + chiến tranh (không đề cập thiên tai)."
         },
         {
           "id": "10d",
@@ -660,7 +660,7 @@
             "D. affairs"
           ],
           "correctIndex": 2,
-          "explanation": "'Occurrences' means events or incidents that happen."
+          "explanation": "'Occurrences' = những sự kiện xảy ra — gần nghĩa với 'incidents' (sự cố, sự kiện). 'situations' = tình huống, 'adventures' = cuộc phiêu lưu, 'affairs' = công việc — ít phù hợp hơn."
         },
         {
           "id": "10e",
@@ -672,7 +672,7 @@
             "D. Saigon had recovered and held its leading position before the political instabilities settled."
           ],
           "correctIndex": 3,
-          "explanation": "The passage says Saigon recovered 'only after the political instabilities had settled,' not before."
+          "explanation": "Đoạn văn: Sài Gòn phục hồi 'only after the political instabilities had settled' (sau khi bất ổn chính trị ổn định) → đáp án D sai (nói ngược). A, B, C đều đúng theo văn bản."
         }
       ]
     }

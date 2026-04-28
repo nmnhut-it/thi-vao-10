@@ -17,7 +17,7 @@
         "D. environment"
       ],
       "correctIndex": 0,
-      "explanation": "'Background' = nền, bối cảnh ~ 'position' (vị trí). Âm thanh ở phía sau, ở vị trí nền."
+      "explanation": "Tìm từ đồng nghĩa với 'background' = nền, bối cảnh | A: position = vị trí — Đồng nghĩa, đúng | B: experience = kinh nghiệm — Không đồng nghĩa | C: training = đào tạo — Không đồng nghĩa | D: environment = môi trường — Không đồng nghĩa"
     },
     {
       "id": 2,
@@ -30,7 +30,7 @@
         "D. helpful"
       ],
       "correctIndex": 1,
-      "explanation": "'Available' = có sẵn, tồn tại ~ 'existing' (đang tồn tại). Internet chỉ có ở thành phố."
+      "explanation": "Tìm từ đồng nghĩa với 'available' = có sẵn, tồn tại | A: visiting = thăm — Không đồng nghĩa | B: existing = đang tồn tại — Đồng nghĩa, đúng | C: safe = an toàn — Không đồng nghĩa | D: helpful = hữu ích — Không đồng nghĩa"
     },
     {
       "id": 3,
@@ -43,7 +43,7 @@
         "D. destroying"
       ],
       "correctIndex": 0,
-      "explanation": "'Disappearing' = biến mất ~ 'vanishing' (biến mất). Động vật hoang dã đang biến mất nhanh."
+      "explanation": "Tìm từ đồng nghĩa với 'disappearing' = biến mất | A: vanishing = biến mất — Đồng nghĩa, đúng | B: damaging = làm hư — Không đồng nghĩa | C: polluting = ô nhiễm — Không đồng nghĩa | D: destroying = phá hủy — Không đồng nghĩa"
     },
     {
       "id": 4,
@@ -56,7 +56,7 @@
         "D. offered"
       ],
       "correctIndex": 0,
-      "explanation": "'Devoted' = công hiến, dành hết ~ 'dedicated' (công hiến). Cả hai đồng nghĩa."
+      "explanation": "Tìm từ đồng nghĩa với 'devoted' = công hiến, dành hết | A: dedicated = công hiến — Đồng nghĩa, đúng | B: sent = gửi — Không đồng nghĩa | C: gave = cho — Không đồng nghĩa | D: offered = đề nghị — Không đồng nghĩa"
     },
     {
       "id": 5,
@@ -69,7 +69,7 @@
         "D. available position"
       ],
       "correctIndex": 3,
-      "explanation": "'Vacancy' = vị trí trống (công việc) ~ 'available position'. Đang tuyển nhân viên."
+      "explanation": "Tìm từ đồng nghĩa với 'vacancy' = vị trí trống (công việc) | A: available room = phòng trống — Không đồng nghĩa | B: available seat = chỗ trống — Không đồng nghĩa | C: available space = không gian trống — Không đồng nghĩa | D: available position = vị trí trống — Đồng nghĩa, đúng"
     },
     {
       "id": 6,
@@ -82,7 +82,7 @@
         "D. stopped talking about"
       ],
       "correctIndex": 0,
-      "explanation": "'Lost touch with' = mất liên lạc, không còn nắm bắt được ~ 'become unaware of' (không còn biết về)."
+      "explanation": "Tìm từ đồng nghĩa với 'lost touch with' = mất liên lạc, không còn nắm bắt được | A: become unaware of = không còn biết về — Đồng nghĩa, đúng | B: forgotten about = quên — Không đồng nghĩa | C: become confused about = hoang mang — Không đồng nghĩa | D: stopped talking about = ngừng nói về — Không đồng nghĩa"
     },
     {
       "id": 7,
@@ -95,7 +95,7 @@
         "D. redundant"
       ],
       "correctIndex": 2,
-      "explanation": "'Compulsory' = bắt buộc ~ 'obligatory' (bắt buộc). Luật bắt buộc thắt dây an toàn."
+      "explanation": "Tìm từ đồng nghĩa với 'compulsory' = bắt buộc | A: necessary = cần thiết — Không đồng nghĩa | B: optional = tùy chọn — Trái nghĩa | C: obligatory = bắt buộc — Đồng nghĩa, đúng | D: redundant = thừa — Không đồng nghĩa"
     },
     {
       "id": 8,
@@ -108,7 +108,7 @@
         "D. Cause"
       ],
       "correctIndex": 1,
-      "explanation": "'Association' = mối liên hệ ~ 'connection' (sự kết nối, liên quan). Có mối liên hệ giữa thuốc trừ sâu và bệnh."
+      "explanation": "Tìm từ đồng nghĩa với 'association' = mối liên hệ | A: Cooperation = hợp tác — Không đồng nghĩa | B: Connection = sự kết nối — Đồng nghĩa, đúng | C: Consequence = hậu quả — Không đồng nghĩa | D: Cause = nguyên nhân — Không đồng nghĩa"
     },
     {
       "id": 9,
@@ -121,7 +121,7 @@
         "D. pay attention to"
       ],
       "correctIndex": 2,
-      "explanation": "'Make up her mind on' = quyết định về ~ 'make a decision on'. Cả hai đều có nghĩa là đưa ra quyết định."
+      "explanation": "Tìm từ đồng nghĩa với 'make up her mind on' = quyết định về | A: give a thought about = suy nghĩ — Không đồng nghĩa | B: prepare a plan for = chuẩn bị kế hoạch — Không đồng nghĩa | C: make a decision on = quyết định — Đồng nghĩa, đúng | D: pay attention to = chú ý — Không đồng nghĩa"
     },
     {
       "id": 10,
@@ -134,7 +134,7 @@
         "D. boom"
       ],
       "correctIndex": 0,
-      "explanation": "'Depression' = suy thoái (kinh tế) ~ 'recession' (suy thoái). Trong ngữ cảnh thị trường chứng khoán."
+      "explanation": "Tìm từ đồng nghĩa với 'depression' = suy thoái (kinh tế) | A: recession = suy thoái — Đồng nghĩa, đúng | B: unhappiness = không vui — Không đồng nghĩa | C: development = phát triển — Không đồng nghĩa | D: boom = bùng nổ — Trái nghĩa"
     },
     {
       "id": 11,
@@ -147,7 +147,7 @@
         "D. showed up"
       ],
       "correctIndex": 2,
-      "explanation": "'Appeared' = xuất hiện >< 'vanished' = biến mất. Hai từ này trái nghĩa nhau."
+      "explanation": "Tìm từ trái nghĩa với 'appeared' = xuất hiện | A: paraded = diễu hành — Không trái nghĩa | B: left = rời đi — Không trái nghĩa | C: vanished = biến mất — Trái nghĩa, đúng | D: showed up = xuất hiện — Đồng nghĩa"
     },
     {
       "id": 12,
@@ -160,7 +160,7 @@
         "D. serious"
       ],
       "correctIndex": 1,
-      "explanation": "'Major' = lớn, chính >< 'minor' = nhỏ, phụ. Hai từ này trái nghĩa nhau."
+      "explanation": "Tìm từ trái nghĩa với 'major' = lớn, chính | A: Common = phổ biến — Không trái nghĩa | B: minor = nhỏ, phụ — Trái nghĩa, đúng | C: important = quan trọng — Không trái nghĩa | D: serious = nghiêm trọng — Không trái nghĩa"
     },
     {
       "id": 13,
@@ -173,7 +173,7 @@
         "D. unclear"
       ],
       "correctIndex": 3,
-      "explanation": "'Obvious' = rõ ràng >< 'unclear' = không rõ ràng. Hai từ này trái nghĩa nhau."
+      "explanation": "Tìm từ trái nghĩa với 'obvious' = rõ ràng | A: practical = thực tế — Không trái nghĩa | B: straightforward = đơn giản — Không trái nghĩa | C: noticeable = đáng chú ý — Không trái nghĩa | D: unclear = không rõ ràng — Trái nghĩa, đúng"
     },
     {
       "id": 14,
@@ -186,7 +186,7 @@
         "D. reluctant"
       ],
       "correctIndex": 3,
-      "explanation": "'Willing' = sẵn lòng >< 'reluctant' = miễn cưỡng, do dự. Hai từ này trái nghĩa nhau."
+      "explanation": "Tìm từ trái nghĩa với 'willing' = sẵn lòng | A: unprepared = không chuẩn bị — Không trái nghĩa | B: ready = sẵn sàng — Đồng nghĩa | C: happy = vui — Không trái nghĩa | D: reluctant = miễn cưỡng — Trái nghĩa, đúng"
     },
     {
       "id": 15,
@@ -199,7 +199,7 @@
         "D. bravery"
       ],
       "correctIndex": 1,
-      "explanation": "'Courage' = sự dũng cảm >< 'cowardice' = sự hèn nhát. Hai từ này trái nghĩa nhau."
+      "explanation": "Tìm từ trái nghĩa với 'courage' = sự dũng cảm | A: weakness = yếu đuối — Trái nghĩa | B: cowardice = sự hèn nhát — Trái nghĩa, đúng | C: power = quyền lực — Không trái nghĩa | D: bravery = sự dũng cảm — Đồng nghĩa"
     },
     {
       "id": 16,
@@ -212,7 +212,7 @@
         "D. Carelessness"
       ],
       "correctIndex": 2,
-      "explanation": "'Distractions' = sự xao nhãng, mất tập trung >< 'attention' = sự tập trung, chú ý."
+      "explanation": "Tìm từ trái nghĩa với 'distractions' = sự xao nhãng, mất tập trung | A: unawareness = không biết — Không trái nghĩa | B: unconcern = không quan tâm — Không trái nghĩa | C: attention = sự tập trung — Trái nghĩa, đúng | D: Carelessness = sự bất cẩn — Không trái nghĩa"
     },
     {
       "id": 17,
@@ -225,7 +225,7 @@
         "D. suitable"
       ],
       "correctIndex": 2,
-      "explanation": "'Stable' = ổn định, lâu dài >< 'short-term' = ngắn hạn. Hai từ này trái nghĩa nhau."
+      "explanation": "Tìm từ trái nghĩa với 'stable' = ổn định, lâu dài | A: poor = kém — Không trái nghĩa | B: permanent = vĩnh viễn — Không trái nghĩa | C: short-term = ngắn hạn — Trái nghĩa, đúng | D: suitable = phù hợp — Không trái nghĩa"
     },
     {
       "id": 18,
@@ -238,7 +238,7 @@
         "D. By the time"
       ],
       "correctIndex": 1,
-      "explanation": "'Before' = trước khi >< 'After' = sau khi. Hai từ này trái nghĩa nhau."
+      "explanation": "Tìm từ trái nghĩa với 'before' = trước khi | A: While = trong khi — Không trái nghĩa | B: After = sau khi — Trái nghĩa, đúng | C: When = khi — Không trái nghĩa | D: By the time = vào lúc — Không trái nghĩa"
     },
     {
       "id": 19,
@@ -251,7 +251,7 @@
         "D. asked"
       ],
       "correctIndex": 2,
-      "explanation": "'Received' = nhận được >< 'gave' = cho, tặng. Hai từ này trái nghĩa nhau."
+      "explanation": "Tìm từ trái nghĩa với 'received' = nhận được | A: offered = đề nghị — Không trái nghĩa | B: had = có — Không trái nghĩa | C: gave = cho, tặng — Trái nghĩa, đúng | D: asked = hỏi — Không trái nghĩa"
     }
   ]
 }

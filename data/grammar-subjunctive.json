@@ -17,7 +17,7 @@
         "D. have had"
       ],
       "correctIndex": 2,
-      "explanation": "Type 3 conditional: If + had + PP. 'Had had' = past perfect of 'have'."
+      "explanation": "Câu điều kiện loại 3: If + quá khứ hoàn thành, would + quá khứ đơn. 'had had' = quá khứ hoàn thành của 'have' (có kinh nghiệm). Các đáp án khác sai về thì."
     },
     {
       "id": 2,
@@ -30,7 +30,7 @@
         "D. had been"
       ],
       "correctIndex": 2,
-      "explanation": "'If only' + past subjunctive for unreal present wish: 'were'."
+      "explanation": "'If only' + quá khứ đơn (thể giả định) cho ước không có thật hiện tại. 'were' = thể giả định quá khứ của 'be'. 'would be' là tương lai, không dùng sau 'If only'."
     },
     {
       "id": 3,
@@ -43,7 +43,7 @@
         "D. has been"
       ],
       "correctIndex": 2,
-      "explanation": "'Wish' + past subjunctive for unreal present: 'were used'."
+      "explanation": "'Wish + quá khứ đơn' cho ước không có thật hiện tại. 'were used' = thể giả định quá khứ (chủ ngữ bị động). 'is' và 'was' là thì thực, 'has been' sai ngữ pháp."
     },
     {
       "id": 4,
@@ -56,7 +56,7 @@
         "D. will lend"
       ],
       "correctIndex": 2,
-      "explanation": "'Wish + could + V' expresses an unreal present ability: 'I wish I could lend'."
+      "explanation": "'Wish + could + V' diễn tả ước không có thật về khả năng hiện tại. 'could lend' = thể giả định quá khứ của 'can'. 'can lend' là hiện tại, 'would lend' thiếu ý nghĩa ước, 'will lend' là tương lai."
     },
     {
       "id": 5,
@@ -69,7 +69,7 @@
         "D. had known"
       ],
       "correctIndex": 0,
-      "explanation": "'As if' + past subjunctive for unreal present: 'as if he knew'."
+      "explanation": "'As if' + quá khứ đơn (thể giả định) cho so sánh không có thật hiện tại. 'knew' = thể giả định quá khứ của 'know'. 'knows', 'has known' là thì thực, 'had known' là quá khứ hoàn thành (dùng cho quá khứ)."
     },
     {
       "id": 6,
@@ -82,7 +82,7 @@
         "D. have ready"
       ],
       "correctIndex": 2,
-      "explanation": "'Suggest that + S + V(bare/nguyen)' - present subjunctive: 'read'."
+      "explanation": "Sau động từ đề nghị ('suggest') dùng thể giả định hiện tại: S + V(nguyên mẫu). 'read' = nguyên mẫu. 'reading' và 'reads' sai ngữ pháp, 'have ready' không hợp lệ."
     },
     {
       "id": 7,
@@ -95,7 +95,7 @@
         "D. have been"
       ],
       "correctIndex": 2,
-      "explanation": "'It is strange that + S + should + V' expresses surprise about something."
+      "explanation": "'It is strange that + S + should + V' diễn tả sự ngạc nhiên về điều không bình thường. 'should be' = thể giả định hiện tại. 'were' không dùng với 'It is strange that', 'shall be' không phù hợp."
     },
     {
       "id": 8,
@@ -108,7 +108,7 @@
         "D. will call"
       ],
       "correctIndex": 0,
-      "explanation": "'Would rather (that) + S + V(past)' - past subjunctive for wishes about another person's actions: 'called'."
+      "explanation": "'Would rather (that) + S + quá khứ đơn' cho ước về hành động của người khác. 'called' = thể giả định quá khứ. 'to call' và 'calling' sai cấu trúc, 'will call' là tương lai."
     },
     {
       "id": 9,
@@ -121,7 +121,7 @@
         "D. I should come early"
       ],
       "correctIndex": 3,
-      "explanation": "'Insist that + S + should + V' or 'insist that + S + V(bare)': 'I should come early'."
+      "explanation": "Sau 'insist' dùng 'insist that + S + should + V' hoặc 'should' bị ẩn. 'I should come early' = đáp án đúng. Các đáp án khác sai ngữ pháp."
     },
     {
       "id": 10,
@@ -134,7 +134,7 @@
         "D. had had"
       ],
       "correctIndex": 1,
-      "explanation": "'It's high time + S + V(past)' - past subjunctive: 'had'."
+      "explanation": "'It's high time + S + quá khứ đơn' diễn tả điều đã đến lúc phải làm. 'had' = thể giả định quá khứ. 'have' hiện tại, 'to have' sai cấu trúc, 'had had' là quá khứ hoàn thành."
     },
     {
       "id": 11,
@@ -147,7 +147,7 @@
         "D. will be"
       ],
       "correctIndex": 1,
-      "explanation": "'As though' + past subjunctive (unreal present): 'were'."
+      "explanation": "'As though' + quá khứ đơn (thể giả định) cho so sánh không có thật hiện tại. 'were' = thể giả định quá khứ của 'be'. 'is' thực, 'had been' dùng cho quá khứ."
     },
     {
       "id": 12,
@@ -160,7 +160,7 @@
         "D. tells"
       ],
       "correctIndex": 1,
-      "explanation": "'It is essential that + S + V(bare)' - passive subjunctive: 'be told'."
+      "explanation": "'It is essential that + S + V(nguyên mẫu)' — thể giả định bị động. 'be told' = nguyên mẫu bị động. 'tell', 'is told', 'tells' sai vì thiếu 'be'."
     },
     {
       "id": 13,
@@ -173,7 +173,7 @@
         "D. last"
       ],
       "correctIndex": 2,
-      "explanation": "'Wish + past simple' for unreal present wish: 'lasted'."
+      "explanation": "'Wish + quá khứ đơn' cho ước không có thật hiện tại. 'lasted' = thể giả định quá khứ. 'will last', 'may last' là thì thực, 'last' không đúng thì."
     },
     {
       "id": 14,
@@ -186,7 +186,7 @@
         "D. had been"
       ],
       "correctIndex": 2,
-      "explanation": "'Wish + would' for future wish/desire for change: 'would be'. Note: Murphy warns against 'I wish I would' for the same subject, preferring 'I wish I could'. However, 'would be' is acceptable here as it expresses a hope for a future situation to change, not a complaint about one's own behavior."
+      "explanation": "'Wish + would + V' cho ước về tương lai / mong muốn thay đổi. 'would be' = thể giả định tương lai. 'will be', 'am' thực, 'had been' dùng cho quá khứ."
     },
     {
       "id": 15,
@@ -199,7 +199,7 @@
         "D. has done"
       ],
       "correctIndex": 1,
-      "explanation": "'As if + past perfect' for unreal past (he didn't actually do ít): 'had done'."
+      "explanation": "'As if + quá khứ hoàn thành' cho so sánh không có thật về quá khứ. 'had done' = quá khứ hoàn thành. 'was doing' tiếp diễn, 'did' quá khứ đơn, 'has done' hiện tại hoàn thành — đều không phù hợp."
     },
     {
       "id": 16,
@@ -212,7 +212,7 @@
         "D. was"
       ],
       "correctIndex": 2,
-      "explanation": "'As if + past subjunctive' for unreal present: 'were'."
+      "explanation": "'As if + quá khứ đơn' (thể giả định) cho so sánh không có thật hiện tại. 'were' = thể giả định quá khứ của 'be'. 'are' thực, 'had been' cho quá khứ, 'was' không hòa hợp số nhiều."
     },
     {
       "id": 17,
@@ -225,7 +225,7 @@
         "D. understands"
       ],
       "correctIndex": 0,
-      "explanation": "'Wish + past simple' for unreal present: 'I wish I understood'."
+      "explanation": "'Wish + quá khứ đơn' cho ước không có thật hiện tại. 'understood' = thể giả định quá khứ. 'would understand' tương lai, 'had understood' quá khứ hoàn thành, 'understands' thực."
     },
     {
       "id": 18,
@@ -238,7 +238,7 @@
         "D. I will meet her tomorrow"
       ],
       "correctIndex": 2,
-      "explanation": "'Wish + past simple' for present unreal wish: 'I wish I knew her address'."
+      "explanation": "'Wish + quá khứ đơn' cho ước không có thật hiện tại. 'I wished I knew her address' = ước mình biết địa chỉ (nhưng không biết). 'didn't meet' quá khứ, 'had know' sai ngữ pháp, 'will meet' tương lai."
     },
     {
       "id": 19,
@@ -251,7 +251,7 @@
         "D. had never got"
       ],
       "correctIndex": 3,
-      "explanation": "'As though + past perfect' for unreal past/present emphasis: 'had never got'."
+      "explanation": "'As though + quá khứ hoàn thành' nhấn mạnh ước không có thật về quá khứ. 'had never got' = quá khứ hoàn thành. 'has never got' hiện tại, 'never got' quá khứ đơn — không phù hợp."
     },
     {
       "id": 20,
@@ -264,7 +264,7 @@
         "D. was being run"
       ],
       "correctIndex": 2,
-      "explanation": "'As if + past perfect passive' for unreal feeling: 'had been run over'."
+      "explanation": "'As if + quá khứ hoàn thành bị động' cho cảm giác không có thật. 'had been run over' = quá khứ hoàn thành bị động. 'was run' quá khứ đơn bị động, 'have been run' hiện tại hoàn thành bị động, 'was being run' tiếp diễn bị động."
     },
     {
       "id": 21,
@@ -273,7 +273,7 @@
       "errorWord": "to ride",
       "correction": "ride",
       "correctSentence": "Jack would prefer to walk to school rather than ride my bike.",
-      "explanation": "'Would prefer to V rather than V(bare)': no 'to' after 'rather than'."
+      "explanation": "Sau 'rather than' dùng V(nguyên mẫu), không có 'to'. 'ride my bike' = đúng. 'to ride' thừa 'to'."
     },
     {
       "id": 22,
@@ -282,7 +282,7 @@
       "errorWord": "is",
       "correction": "were",
       "correctSentence": "The young girl behaves as if she were an angel.",
-      "explanation": "'As if' + past subjunctive for unreal comparison: 'were'."
+      "explanation": "'As if' + quá khứ đơn (thể giả định) cho so sánh không có thật. 'were' = thể giả định quá khứ. 'is' thực, không dùng sau 'as if' khi so sánh không thực."
     },
     {
       "id": 23,
@@ -291,7 +291,7 @@
       "errorWord": "would get",
       "correction": "had got",
       "correctSentence": "Susan feels happy as if she had got good marks in the exams.",
-      "explanation": "'As if + past perfect' refers to an unreal past event that causes a present feeling."
+      "explanation": "'As if + quá khứ hoàn thành' diễn tả nguyên nhân quá khứ gây cảm giác hiện tại. 'had got good marks' = đã đạt điểm tốt (quá khứ). 'would get' sai vì 'feel happy now' không phải tương lai."
     },
     {
       "id": 24,
@@ -300,7 +300,7 @@
       "errorWord": "would attend",
       "correction": "could attend",
       "correctSentence": "If only they could attend the course with me, but they can't.",
-      "explanation": "'If only + could' for an ability wish. 'Would' implies willingness, but 'can't' shows inability."
+      "explanation": "'If only + could + V' cho ước về khả năng. 'would attend' diễn tả ý chí, nhưng 'can't' (không thể) cho thấy đây là vấn đề khả năng → phải dùng 'could attend'."
     },
     {
       "id": 25,
@@ -309,7 +309,7 @@
       "errorWord": "bought",
       "correction": "had bought",
       "correctSentence": "If only I had bought that camera yesterday. It was definitely affordable.",
-      "explanation": "'If only + past perfect' for past regret: 'had bought'."
+      "explanation": "'If only + quá khứ hoàn thành' cho hối tiếc về quá khứ. 'had bought' = đã mua (quá khứ hoàn thành). 'bought' quá khứ đơn, sai thì — vì câu nói về sự hối tiếc."
     },
     {
       "id": 26,
@@ -318,7 +318,7 @@
       "errorWord": "attended",
       "correction": "attend",
       "correctSentence": "Tom asked that we attend his graduation ceremony next week.",
-      "explanation": "'Ask that + S + V(bare)' - present subjunctive: 'attend'."
+      "explanation": "Sau 'ask that' dùng thể giả định hiện tại: S + V(nguyên mẫu). 'attend' = nguyên mẫu. 'attended' quá khứ, không phù hợp vì buổi lễ là next week (tương lai)."
     },
     {
       "id": 27,
@@ -327,7 +327,7 @@
       "errorWord": "to enter",
       "correction": "enter",
       "correctSentence": "It is essential that everyone enter the building with proper identification.",
-      "explanation": "'It is essential that + S + V(bare)': no 'to' before the verb."
+      "explanation": "'It is essential that + S + V(nguyên mẫu)' — không có 'to' trước động từ. 'everyone enter' = đúng. 'to enter' thừa 'to'."
     },
     {
       "id": 28,
@@ -336,7 +336,7 @@
       "errorWord": "didn't cheated",
       "correction": "hadn't cheated",
       "correctSentence": "David wishes he hadn't cheated in the exam. The teacher was very angry with him.",
-      "explanation": "'Wish + past perfect' for past regret: 'hadn't cheated'."
+      "explanation": "'Wish + quá khứ hoàn thành' cho hối tiếc về quá khứ. 'hadn't cheated' = đã không gian lận. 'didn't cheated' sai ngữ pháp — 'did' không dùng với 'wish'."
     },
     {
       "id": 29,
@@ -345,7 +345,7 @@
       "errorWord": "took",
       "correction": "had taken",
       "correctSentence": "My brother wishes he had taken the camera with him as the view was wonderful.",
-      "explanation": "'Wish + past perfect' for past regret: 'had taken'."
+      "explanation": "'Wish + quá khứ hoàn thành' cho hối tiếc về quá khứ. 'had taken' = đã mang theo. 'took' quá khứ đơn, không diễn tả hối tiếc đúng."
     },
     {
       "id": 30,
@@ -354,7 +354,7 @@
       "errorWord": "joined",
       "correction": "would join",
       "correctSentence": "You look overweight. If only you would join a gym with me this summer.",
-      "explanation": "'If only + would + V' for a wish about someone else's future action."
+      "explanation": "'If only + would + V' cho ước về hành động tương lai của người khác. 'would join' = thể giả định tương lai. 'joined' quá khứ đơn, dùng cho quá khứ."
     },
     {
       "id": 31,

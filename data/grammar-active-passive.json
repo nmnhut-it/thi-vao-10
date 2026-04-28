@@ -17,7 +17,7 @@
         "D. looked after"
       ],
       "correctIndex": 3,
-      "explanation": "'Get + O + past participle' (causative): get their house looked after."
+      "explanation": "Cấu trúc sai khiến 'get + tân ngữ + phân từ 2': 'get their house looked after' (nhờ trông nhà). Chọn 'looked after' vì nhà được trông hộ → bị động."
     },
     {
       "id": 2,
@@ -30,7 +30,7 @@
         "D. gave"
       ],
       "correctIndex": 2,
-      "explanation": "When the direct object becomes the passive subject, use 'to' before the indirect object: 'A red rose was given to the girl'."
+      "explanation": "Bị động với hai tân ngữ. Khi tân ngữ trực tiếp ('a red rose') làm chủ ngữ, phải thêm 'to' trước tân ngữ gián tiếp → 'was given to the beautiful girl'. 'was given' (B) thiếu 'to'."
     },
     {
       "id": 3,
@@ -43,7 +43,7 @@
         "D. had been destroyed"
       ],
       "correctIndex": 0,
-      "explanation": "'It' (the tornado) is the doer - active voice: 'It destroyed everything'."
+      "explanation": "'It' chỉ cơn lốc xoáy — là chủ thể thực hiện hành động → dùng chủ động: 'destroyed'. Các đáp án bị động (B, C, D) đều sai."
     },
     {
       "id": 4,
@@ -56,7 +56,7 @@
         "D. Had/been done"
       ],
       "correctIndex": 3,
-      "explanation": "'Before you went' (past) requires past perfect passive: 'Had this work been done?'"
+      "explanation": "'before you went' (quá khứ) → cần bị động quá khứ hoàn thành: 'Had this work been done?'. 'Has/been done' (B) là hiện tại hoàn thành — sai thì."
     },
     {
       "id": 5,
@@ -69,7 +69,7 @@
         "D. asked"
       ],
       "correctIndex": 0,
-      "explanation": "In conditional type 1, the if-clause uses present tense. Passive: 'are asked'."
+      "explanation": "Câu điều kiện loại 1: mệnh đề if chia hiện tại đơn. Bị động hiện tại đơn → 'are asked'. 'will be asked' (C) là tương lai — sai trong mệnh đề if."
     },
     {
       "id": 6,
@@ -82,7 +82,7 @@
         "D. has been doing"
       ],
       "correctIndex": 2,
-      "explanation": "'Right now' = present continuous passive: 'is being done'."
+      "explanation": "'right now' → đang xảy ra, cần bị động hiện tại tiếp diễn: 'is being done'. 'is doing' (A) là chủ động, 'has been doing' (D) sai cấu trúc bị động."
     },
     {
       "id": 7,
@@ -95,7 +95,7 @@
         "D. was lent/has not been given"
       ],
       "correctIndex": 3,
-      "explanation": "'2 months ago' = past simple passive; 'yet' = present perfect passive: was lent / has not been given."
+      "explanation": "'2 months ago' → bị động quá khứ đơn: 'was lent'. 'yet' → bị động hiện tại hoàn thành: 'has not been given'. (A) sai ở vế sau, (C) dùng chủ động ở vế sau."
     },
     {
       "id": 8,
@@ -108,7 +108,7 @@
         "D. can often be considered"
       ],
       "correctIndex": 3,
-      "explanation": "Modal passive: 'can + be + PP'. Education is considered (passive): 'can often be considered'."
+      "explanation": "Bị động với động từ khiếm khuyết: 'can + be + phân từ 2'. 'Education' là đối tượng được xem xét → 'can often be considered'. 'can often consider' (B) là chủ động — sai."
     },
     {
       "id": 9,
@@ -121,7 +121,7 @@
         "D. write"
       ],
       "correctIndex": 0,
-      "explanation": "Modal passive: 'may + be + PP': may be written."
+      "explanation": "Bị động với động từ khiếm khuyết: 'may + be + phân từ 2' → 'may be written'. 'be writing' (C) là tiếp diễn, 'write' (D) là chủ động — đều sai."
     },
     {
       "id": 10,
@@ -134,7 +134,7 @@
         "D. to be mistaken"
       ],
       "correctIndex": 0,
-      "explanation": "Modal passive: 'could + be + PP': could be mistaken."
+      "explanation": "Bị động với động từ khiếm khuyết: 'could + be + phân từ 2' → 'could be mistaken' (có thể bị nhầm). 'been mistaken' (C) sai vì thiếu 'be'."
     },
     {
       "id": 11,
@@ -147,7 +147,7 @@
         "D. controlling"
       ],
       "correctIndex": 1,
-      "explanation": "The cutting down is the thing being controlled - passive: 'should be controlled'."
+      "explanation": "'The cutting down of trees' là đối tượng bị kiểm soát → cần bị động: 'should be controlled'. 'should control' (A) là chủ động — sai."
     },
     {
       "id": 12,
@@ -160,7 +160,7 @@
         "D. had been made to"
       ],
       "correctIndex": 3,
-      "explanation": "'Make + O + V' in passive becomes 'be made + to V': had been made to finish."
+      "explanation": "Bị động của 'make + tân ngữ + V' là 'be made + to V': phải thêm 'to'. → 'had been made to finish'. Các đáp án không có 'to' đều sai."
     },
     {
       "id": 13,
@@ -173,7 +173,7 @@
         "D. thought to be"
       ],
       "correctIndex": 1,
-      "explanation": "Complex sentence passive: 'S + is thought + to V': is thought to be."
+      "explanation": "Bị động kép: 'People think that he is...' → 'He is thought to be...'. Mr. Pike được tin là... → 'is thought to be'. 'thinks to be' (A) và 'thought to be' (D) sai thì."
     },
     {
       "id": 14,
@@ -186,7 +186,7 @@
         "D. believed to discover"
       ],
       "correctIndex": 0,
-      "explanation": "Non-equivalent tenses (present belief about past event): 'is believed to have been discovered'."
+      "explanation": "Bị động kép với thì không tương đương: niềm tin ở hiện tại ('is believed') về sự kiện quá khứ (1895) → dùng 'to have been discovered'. 'to be discovered' (B) chỉ hiện tại — sai."
     },
     {
       "id": 15,
@@ -199,7 +199,7 @@
         "D. is said to have been"
       ],
       "correctIndex": 3,
-      "explanation": "Present belief about a past fact: 'is said to have been'."
+      "explanation": "Bị động kép: người ta nói hiện tại ('is said') về việc quá khứ ('years ago') → 'to have been'. 'was said' (B, C) sai thì, 'to be' (A) không diễn tả quá khứ."
     },
     {
       "id": 16,
@@ -212,7 +212,7 @@
         "D. was said/was taken"
       ],
       "correctIndex": 2,
-      "explanation": "'It is said that...' (general truth) + present simple: 'takes'."
+      "explanation": "Cấu trúc bị động: 'It is said that...' (người ta nói rằng). Mệnh đề sau 'that' là sự thật chung → hiện tại đơn 'takes'. (A) 'says' sai vì thiếu 'It is', (D) dùng hai thì quá khứ — sai."
     },
     {
       "id": 17,
@@ -225,7 +225,7 @@
         "D. was invented"
       ],
       "correctIndex": 3,
-      "explanation": "Historical fact in passive: 'was invented by'."
+      "explanation": "Sự kiện lịch sử, 'the telephone' được phát minh → bị động quá khứ đơn: 'was invented by'. 'invented' (A) là chủ động, 'be invented' (C) thiếu chia thì."
     },
     {
       "id": 18,
@@ -238,7 +238,7 @@
         "D. will have performed"
       ],
       "correctIndex": 0,
-      "explanation": "'Next weekend' = planned future passive: 'is going to be performed'."
+      "explanation": "'next weekend' → tương lai có kế hoạch, bị động: 'is going to be performed'. 'has been performed' (B) là hiện tại hoàn thành, 'will have performed' (D) là chủ động — sai."
     },
     {
       "id": 19,
@@ -251,7 +251,7 @@
         "D. being used"
       ],
       "correctIndex": 1,
-      "explanation": "The relative clause needs a subject + verb: 'it is used'."
+      "explanation": "Mệnh đề quan hệ cần chủ ngữ + động từ đầy đủ: 'it is used'. (A) 'is used' thiếu chủ ngữ 'it', (C) 'used' thiếu cả chủ ngữ lẫn 'be'."
     },
     {
       "id": 20,
@@ -264,7 +264,7 @@
         "D. is generally knowing"
       ],
       "correctIndex": 1,
-      "explanation": "Passive with 'known as': 'is generally known as'."
+      "explanation": "Bị động hiện tại đơn: 'is generally known as' (được biết đến là). (C) 'generally known' thiếu 'is', (D) 'is generally knowing' sai vì 'know' không dùng tiếp diễn."
     },
     {
       "id": 21,
@@ -273,7 +273,7 @@
       "errorWord": "serving",
       "correction": "served",
       "correctSentence": "Breakfast is served in Pierrot's Restaurant between 7 and 9:30 a.m.",
-      "explanation": "Breakfast is served (passive), not serving (active). Food doesn't serve itself."
+      "explanation": "Bị động hiện tại đơn: 'is + phân từ 2'. 'serving' là hiện tại phân từ — sai. Phải đổi thành 'served': 'Breakfast is served' (bữa sáng được phục vụ)."
     },
     {
       "id": 22,
@@ -282,7 +282,7 @@
       "errorWord": "steal",
       "correction": "stolen",
       "correctSentence": "Jose had her passport stolen on a train in Italy.",
-      "explanation": "'Have + O + past participle' (something done to you): had her passport stolen."
+      "explanation": "Cấu trúc 'have + tân ngữ + phân từ 2' (bị động): 'had her passport stolen' (bị ăn cắp hộ chiếu). 'steal' là nguyên thể — sai."
     },
     {
       "id": 23,
@@ -291,7 +291,7 @@
       "errorWord": "planted",
       "correction": "been planted",
       "correctSentence": "Some trees have been planted by the gardener already.",
-      "explanation": "Present perfect passive: have + been + PP: 'have been planted'."
+      "explanation": "Bị động hiện tại hoàn thành: 'have + been + phân từ 2'. Thiếu 'been' → 'have been planted'."
     },
     {
       "id": 24,
@@ -300,7 +300,7 @@
       "errorWord": "checking",
       "correction": "checked",
       "correctSentence": "Some days ago I had my teeth checked by the dentist.",
-      "explanation": "Causative 'have + O + PP': had my teeth checked."
+      "explanation": "Cấu trúc sai khiến 'have + tân ngữ + phân từ 2': 'had my teeth checked' (cho kiểm tra răng). 'checking' là hiện tại phân từ — sai."
     },
     {
       "id": 25,
@@ -309,7 +309,7 @@
       "errorWord": "taked",
       "correction": "taken",
       "correctSentence": "These pills should be taken every four hours.",
-      "explanation": "Past participle of 'take' is 'taken', not 'taked'."
+      "explanation": "Phân từ 2 bất quy tắc của 'take' là 'taken', không phải 'taked'. 'take → took → taken'."
     },
     {
       "id": 26,
@@ -318,7 +318,7 @@
       "errorWord": "should been",
       "correction": "should be",
       "correctSentence": "The letter should be delivered in the afternoon.",
-      "explanation": "Modal passive: should + be + PP (not 'been')."
+      "explanation": "Bị động với động từ khiếm khuyết: 'should + be + phân từ 2', không dùng 'been'. 'should been' → 'should be delivered'."
     },
     {
       "id": 27,
@@ -327,7 +327,7 @@
       "errorWord": "has sent",
       "correction": "has been sent",
       "correctSentence": "The mail has been sent to the wrong address.",
-      "explanation": "Present perfect passive: has + been + PP: 'has been sent'."
+      "explanation": "Bị động hiện tại hoàn thành: 'has + been + phân từ 2'. Thiếu 'been' → 'has been sent'."
     },
     {
       "id": 28,
@@ -336,7 +336,7 @@
       "errorWord": "had been sold",
       "correction": "had sold",
       "correctSentence": "When he arrived at the furniture shop, they had sold the table he wanted.",
-      "explanation": "'They' is the doer - active voice: 'they had sold' (not passive)."
+      "explanation": "'They' là chủ thể thực hiện hành động (cửa hàng đã bán bàn) → dùng chủ động: 'they had sold'. 'had been sold' là bị động — sai ở đây."
     },
     {
       "id": 29,
@@ -345,7 +345,7 @@
       "errorWord": "celebrated",
       "correction": "was celebrated",
       "correctSentence": "The first May Day was celebrated in England in 1890.",
-      "explanation": "May Day was celebrated (by people) - needs passive: 'was celebrated'."
+      "explanation": "Bị động quá khứ đơn cần 'to be': 'was celebrated' (được tổ chức). 'celebrated' đứng một mình thiếu 'was' → sai."
     },
     {
       "id": 30,
@@ -354,7 +354,7 @@
       "errorWord": "taught",
       "correction": "are taught",
       "correctSentence": "In many universities, classes are taught in English though the native language isn't English.",
-      "explanation": "Passive needs 'be': 'classes are taught'."
+      "explanation": "Bị động hiện tại đơn cần 'to be': 'are taught' (được dạy). 'taught' đứng một mình thiếu 'are' → sai."
     },
     {
       "id": 31,
@@ -363,7 +363,7 @@
       "errorWord": "wrote",
       "correction": "written",
       "correctSentence": "Hamlet was written by William Shakespeare.",
-      "explanation": "Past participle of 'write' is 'written', not 'wrote'."
+      "explanation": "Phân từ 2 bất quy tắc của 'write' là 'written', không phải 'wrote'. 'write → wrote → written'."
     },
     {
       "id": 32,
@@ -372,7 +372,7 @@
       "errorWord": "were",
       "correction": "was",
       "correctSentence": "Every possible effort was made by the orphanage to find the boy's parents.",
-      "explanation": "'Every' + singular noun takes singular verb: 'every effort was made'."
+      "explanation": "'Every' + danh từ số ít → động từ chia số ít: 'every effort was...'. 'were' là số nhiều — sai."
     },
     {
       "id": 33,
@@ -381,7 +381,7 @@
       "errorWord": "has canceled",
       "correction": "has been canceled",
       "correctSentence": "This class has been canceled because few students had registered before registration closed.",
-      "explanation": "Passive present perfect: 'has been canceled'."
+      "explanation": "'This class' là đối tượng bị hủy → cần bị động hiện tại hoàn thành: 'has been canceled'. 'has canceled' là chủ động — sai."
     },
     {
       "id": 34,
@@ -390,7 +390,7 @@
       "errorWord": "buy",
       "correction": "to buy",
       "correctSentence": "The students got the librarian to buy books for them.",
-      "explanation": "'Get + O (person) + to V': got the librarian to buy."
+      "explanation": "Cấu trúc 'get + người + to V': 'got the librarian to buy' (nhờ thủ thư mua). Thiếu 'to' trước nguyên thể — sai."
     },
     {
       "id": 35,
@@ -399,7 +399,7 @@
       "errorWord": "use",
       "correction": "used",
       "correctSentence": "I see that chopsticks are widely used in China.",
-      "explanation": "Passive: 'are used', not 'are use'."
+      "explanation": "Bị động hiện tại đơn: 'are + phân từ 2' → 'are used'. 'are use' sai vì 'use' là nguyên thể, không phải phân từ 2."
     },
     {
       "id": 36,
@@ -408,7 +408,7 @@
       "errorWord": "did they taken",
       "correction": "were they taken",
       "correctSentence": "I like your photos of wild animals. Where were they taken?",
-      "explanation": "Passive question: 'were they taken?' not 'did they taken?'"
+      "explanation": "Câu hỏi bị động quá khứ: 'were they taken?' (chúng được chụp ở đâu?). 'did they taken' sai vì 'did' đã là trợ động từ quá khứ, không thêm phân từ 2."
     },
     {
       "id": 37,
@@ -417,7 +417,7 @@
       "errorWord": "will be given",
       "correction": "will give",
       "correctSentence": "Doctor Brown will give you some useful advice.",
-      "explanation": "Doctor Brown is the doer - active voice: 'will give'."
+      "explanation": "'Doctor Brown' là chủ thể thực hiện hành động (bác sĩ sẽ cho lời khuyên) → chủ động: 'will give'. 'will be given' là bị động — sai."
     },
     {
       "id": 38,
@@ -426,7 +426,7 @@
       "errorWord": "should be water",
       "correction": "should water",
       "correctSentence": "I think you should water this plant daily.",
-      "explanation": "'You' is the doer - active: 'should water', not passive."
+      "explanation": "'You' là chủ thể tưới cây → dùng chủ động: 'should water'. 'should be water' là bị động — sai ngữ cảnh."
     },
     {
       "id": 39,
@@ -435,7 +435,7 @@
       "errorWord": "for",
       "correction": "to",
       "correctSentence": "Harry is going to send a postcard to Tom tomorrow.",
-      "explanation": "'Send something TO someone' - use 'to', not 'for'."
+      "explanation": "Cụm cố định 'send something to someone' (gửi cái gì cho ai). Dùng 'to', không dùng 'for'."
     },
     {
       "id": 40,
@@ -444,7 +444,7 @@
       "errorWord": "be served",
       "correction": "being served",
       "correctSentence": "Lunch is now being served in the restaurant.",
-      "explanation": "Present continuous passive: 'is being served'."
+      "explanation": "Bị động hiện tại tiếp diễn: 'is + being + phân từ 2' → 'is being served'. 'is be served' sai vì thiếu 'being'."
     },
     {
       "id": 41,
