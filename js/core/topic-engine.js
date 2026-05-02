@@ -181,8 +181,8 @@ const TopicEngine = {
     // Passage
     const passageEl = document.createElement('div');
     passageEl.className = 'reading-passage';
-    passageEl.style.cssText = 'font-size:var(--text-sm);line-height:1.8;margin-bottom:var(--sp-4);padding:var(--sp-3);background:var(--bg-subtle);border-radius:var(--radius-md);';
-    passageEl.textContent = ex.passage || '';
+    passageEl.style.cssText = 'font-size:var(--text-sm);line-height:1.8;margin-bottom:var(--sp-4);padding:var(--sp-3);background:var(--bg-subtle);border-radius:var(--radius-md);white-space:pre-line;';
+    this._renderPassageWithBold(passageEl, ex.passage || '');
     wrapper.appendChild(passageEl);
 
     // Questions
@@ -580,12 +580,41 @@ const TopicEngine = {
           u.textContent = seg.text;
           el.appendChild(u);
         } else {
-          el.appendChild(document.createTextNode(seg.text));
+          this._appendTextWithQuoteBold(el, seg.text);
         }
       });
     } else {
-      el.textContent = text;
+      this._appendTextWithQuoteBold(el, text);
     }
+  },
+
+  // Render passage text, wrapping **word** markers in highlighted <strong>.
+  _renderPassageWithBold(el, text) {
+    const parts = text.split(/(\*\*[^*]+\*\*)/);
+    parts.forEach(part => {
+      if (part.length >= 4 && part.startsWith('**') && part.endsWith('**')) {
+        const strong = document.createElement('strong');
+        strong.className = 'passage-target';
+        strong.textContent = part.slice(2, -2);
+        el.appendChild(strong);
+      } else if (part.length > 0) {
+        el.appendChild(document.createTextNode(part));
+      }
+    });
+  },
+
+  // Render text, wrapping any "..." quoted segments in <strong>.
+  _appendTextWithQuoteBold(el, text) {
+    const parts = text.split(/("[^"]+")/);
+    parts.forEach(part => {
+      if (part.length >= 2 && part[0] === '"' && part[part.length - 1] === '"') {
+        const strong = document.createElement('strong');
+        strong.textContent = part;
+        el.appendChild(strong);
+      } else if (part.length > 0) {
+        el.appendChild(document.createTextNode(part));
+      }
+    });
   },
 
   /**

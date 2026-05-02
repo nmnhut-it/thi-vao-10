@@ -1,0 +1,511 @@
+{
+  "topicId": "reading-unit-02-city-life",
+  "title": "Unit 2: City Life - Reading",
+  "section": "reading",
+  "knowledge": {
+    "html": "<h3>Unit 2: City Life</h3><p>Bài đọc Unit 2 xoay quanh cuộc sống đô thị, các vấn đề của thành phố và giải pháp từ góc nhìn của thanh thiếu niên — từ an toàn giao thông, tiện ích công cộng đến quản lý rác thải thực phẩm.</p><h4>Từ vựng trọng tâm</h4><ul><li><strong>amenity</strong> — tiện ích (công cộng)</li><li><strong>biogas</strong> — khí sinh học</li><li><strong>canteen</strong> — căng tin, nhà ăn trường</li><li><strong>pavement</strong> — vỉa hè</li><li><strong>authorities</strong> — chính quyền, cơ quan có thẩm quyền</li><li><strong>leftovers</strong> — thức ăn thừa</li><li><strong>lively</strong> — sôi động, sinh động</li><li><strong>congestion</strong> — tắc nghẽn (giao thông)</li><li><strong>liveable</strong> — đáng sống, phù hợp để sinh sống</li><li><strong>drawback</strong> — bất lợi, hạn chế</li><li><strong>densely populated</strong> — đông dân cư</li><li><strong>reluctant</strong> — không muốn, miễn cưỡng</li></ul><h4>Mẹo đọc hiểu</h4><ul><li>Đọc tiêu đề và đoạn đầu để nắm chủ đề trước khi đọc chi tiết.</li><li>Khoanh từ khóa trong câu hỏi rồi tìm thông tin tương ứng trong bài.</li><li>Câu hỏi NOT TRUE / INCORRECT: tìm đáp án KHÔNG được nhắc đến hoặc trái với thông tin trong bài.</li></ul>"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "reading-comprehension",
+      "passage": "Teenovator is an annual competition by the City Teen Council. We ask teens to find problems of the city and suggest solutions. Here are this year's winners.\n\n1. The food-smart city: Central School\nThey see that the more developed a city is, the more food people throw away. They suggest carrying out a project which turns food waste into energy. Students would sort their leftovers at school canteens. A nearby farm would come to take the food waste and process it into biogas.\n\n2. The teen-friendly city: Bookworm Team\nThis team feels that many public amenities, particularly the city library, are not teen-friendly. They suggest a list of changes so that the library can attract more teens. Some of **them** include designing lively learning spaces for teens and having teen's favourite desserts in the cafeteria.\n\n3. The street-safe city: Helena Wilson\nHelena realises that there are too many vehicles around school gates. This is unsafe for children who walk to school. She suggests that the city authorities not allow cars at school gates at drop-off and pick-up times. In addition, they should not let motorbikes park on the pavement near school gates.",
+      "questions": [
+        {
+          "id": "1a",
+          "question": "1. How often does the City Teen Council organise the Teenovator competition?",
+          "options": [
+            "A. Once a year.",
+            "B. Twice a year.",
+            "C. Every two years.",
+            "D. Every three years."
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn mở đầu ghi rõ 'Teenovator is an annual competition' — 'annual' = hàng năm → đáp án A đúng. Các đáp án B, C, D đều không khớp."
+        },
+        {
+          "id": "1b",
+          "question": "2. Who would partner with Central School in Topic 1?",
+          "options": [
+            "A. The city council.",
+            "B. The university's canteen.",
+            "C. A biogas factory.",
+            "D. A nearby farm."
+          ],
+          "correctIndex": 3,
+          "explanation": "Chủ đề 1 viết: 'A nearby farm would come to take the food waste and process it into biogas.' → trang trại gần đó hợp tác. Đáp án D đúng."
+        },
+        {
+          "id": "1c",
+          "question": "3. What does the word \"them\" in Topic 2 refer to?",
+          "options": [
+            "A. Teen users.",
+            "B. Changes.",
+            "C. Learning spaces.",
+            "D. Libraries."
+          ],
+          "correctIndex": 1,
+          "explanation": "'Them' trỏ lại 'a list of changes' — danh sách thay đổi được đề xuất. Câu trước: 'They suggest a list of changes... Some of them include...' → đáp án B đúng."
+        },
+        {
+          "id": "1d",
+          "question": "4. Which topic has an individual winner?",
+          "options": [
+            "A. Topic 1.",
+            "B. Topic 2.",
+            "C. Topic 3.",
+            "D. All topics."
+          ],
+          "correctIndex": 2,
+          "explanation": "Chủ đề 1 thắng bởi 'Central School' (trường), Chủ đề 2 bởi 'Bookworm Team' (nhóm), Chủ đề 3 bởi 'Helena Wilson' (cá nhân) → đáp án C đúng."
+        },
+        {
+          "id": "1e",
+          "question": "5. Which of the following is INCORRECT about Helena Wilson?",
+          "options": [
+            "A. She suggests banning bikes at school gates.",
+            "B. She wants the city authorities to take action.",
+            "C. She thinks cars near school gates can cause accidents to children.",
+            "D. Her concern is road safety around school for children."
+          ],
+          "correctIndex": 0,
+          "explanation": "Helena đề cập 'motorbikes' (xe máy), không phải 'bikes' (xe đạp). Cô đề xuất không cho xe máy đỗ trên vỉa hè, không phải cấm xe đạp → đáp án A sai. B, C, D đều đúng theo bài."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "reading-comprehension",
+      "passage": "The local newspaper carried out a survey with city dwellers about how to make the city a more (1)______ place. Most participants in the survey talked about the city's traffic. First, they wanted stricter traffic (2)______ to stop drivers from ignoring traffic lights and breaking speed limits. This would help reduce road accidents. In addition, they hoped their city would improve its (3)______ system. For example, buses should be clean and have air conditioners. There should be bus lines that reach almost all areas in the city, so it would be easy for people to (4)______. They said that good public transport could also (5)______ the city money. The local authority wouldn't need to construct new parking lots and (6)______ roads to cater for the increasing number of private cars. Finally, the survey (7)______ suggested the local authority build traffic apps. The apps could recommend to drivers the best routes to avoid traffic (8)______.",
+      "questions": [
+        {
+          "id": "2a",
+          "question": "(1)",
+          "options": [
+            "A. lifelong",
+            "B. living",
+            "C. lively",
+            "D. liveable"
+          ],
+          "correctIndex": 3,
+          "explanation": "'A more liveable place' = nơi đáng sống hơn — đây là cụm từ đúng ngữ cảnh khi nói về mục tiêu cải thiện thành phố. 'Liveable' (có thể sinh sống tốt) phù hợp nhất. A/B/C không tạo nghĩa phù hợp với từ 'place'."
+        },
+        {
+          "id": "2b",
+          "question": "(2)",
+          "options": [
+            "A. jams",
+            "B. laws",
+            "C. lights",
+            "D. safety"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Stricter traffic laws' = luật giao thông nghiêm ngặt hơn — phù hợp vì câu nói đến việc ngăn lái xe vi phạm tín hiệu và tốc độ. Đáp án B đúng. A 'jams' = tắc đường, C 'lights' = đèn, D 'safety' = an toàn — không tạo cụm từ phù hợp."
+        },
+        {
+          "id": "2c",
+          "question": "(3)",
+          "options": [
+            "A. public transport",
+            "B. underground",
+            "C. amenity",
+            "D. parking"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Improve its public transport system' = cải thiện hệ thống giao thông công cộng — phù hợp với ngữ cảnh nói về xe buýt và tuyến đường. Đáp án A đúng. B/C/D không phù hợp với mô tả 'buses' và 'bus lines' ở câu sau."
+        },
+        {
+          "id": "2d",
+          "question": "(4)",
+          "options": [
+            "A. go away",
+            "B. move in",
+            "C. get around",
+            "D. come out"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Easy for people to get around' = dễ di chuyển trong thành phố — 'get around' là cụm động từ đúng nghĩa di chuyển quanh một khu vực. Đáp án C đúng. A/B/D mang nghĩa khác không hợp ngữ cảnh."
+        },
+        {
+          "id": "2e",
+          "question": "(5)",
+          "options": [
+            "A. earn",
+            "B. make",
+            "C. save",
+            "D. spend"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Good public transport could save the city money' = tiết kiệm tiền cho thành phố — vì không cần xây bãi đỗ xe và mở rộng đường. Đáp án C đúng. A 'earn' = kiếm, B 'make' = tạo ra, D 'spend' = chi tiêu — đều không hợp logic."
+        },
+        {
+          "id": "2f",
+          "question": "(6)",
+          "options": [
+            "A. narrow",
+            "B. widen",
+            "C. reduce",
+            "D. block"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Widen roads' = mở rộng đường — phù hợp vì câu nói đến việc đáp ứng số lượng ô tô tư nhân ngày càng tăng. Đáp án B đúng. A 'narrow' = thu hẹp (nghĩa ngược), C/D không phù hợp ngữ cảnh."
+        },
+        {
+          "id": "2g",
+          "question": "(7)",
+          "options": [
+            "A. participants",
+            "B. people",
+            "C. government",
+            "D. police"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Survey participants' = những người tham gia khảo sát — trỏ lại những người được nhắc đến ở câu đầu tiên ('participants in the survey'). Đáp án A đúng. B/C/D không liên kết với ngữ cảnh khảo sát."
+        },
+        {
+          "id": "2h",
+          "question": "(8)",
+          "options": [
+            "A. signs",
+            "B. flow",
+            "C. accidents",
+            "D. congestion"
+          ],
+          "correctIndex": 3,
+          "explanation": "'Avoid traffic congestion' = tránh tắc nghẽn giao thông — ứng dụng giao thông giúp lái xe tránh những nơi bị tắc. Đáp án D đúng. A 'signs' = biển báo, B 'flow' = dòng chảy, C 'accidents' = tai nạn — đều ít phù hợp hơn."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "reading-comprehension",
+      "passage": "Twenty years ago, people tried to leave the suburbs for cities but nowadays many people are reluctant to make such a move. They say that compared to suburban areas, city life has many drawbacks.\n\nThe high cost of living is the first disadvantage. The bigger the city is, the higher the living cost is. Accommodation and petrol are expensive. Food and drinks are also pricey. Apart from that, city people seem to suffer from more noise and air pollution. The densely populated neighbourhoods, busy traffic, and big construction sites make cities noisy and dusty. These are harmful to people's health, such as increasing their stress levels, disturbing their sleep and making **them** suffer from breathing problems.\n\nLack of space is another drawback of city life. House prices are high in the city, so people tend to live in smaller houses or in apartment blocks. Many cities lack spaces for outdoor activities; therefore, teenagers often hang out at shopping malls or in entertainment complexes instead of doing sports outdoors.\n\nThe cities' authorities are trying to overcome these problems. However, they still have a long way to go before they can reduce living costs and pollution, and increase green space to make all cities in the world more liveable places.",
+      "questions": [
+        {
+          "id": "3a",
+          "question": "1. What is the passage mainly about?",
+          "options": [
+            "A. The reasons for moving to the suburbs.",
+            "B. The disadvantages of city life.",
+            "C. The high cost of living in cities.",
+            "D. The causes of pollution in cities."
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn văn liệt kê nhiều bất lợi của cuộc sống đô thị: chi phí cao, ô nhiễm, thiếu không gian → B tóm tắt đúng chủ đề toàn bài. A ngược chiều, C và D chỉ phản ánh một ý nhỏ trong bài."
+        },
+        {
+          "id": "3b",
+          "question": "2. Why does the author mention \"accommodation, petrol, food, and drinks\"?",
+          "options": [
+            "A. To give examples of high living costs.",
+            "B. To explain how convenient city life is.",
+            "C. To describe what city people often lack.",
+            "D. To suggest city people save money."
+          ],
+          "correctIndex": 0,
+          "explanation": "Tác giả dẫn các ví dụ cụ thể để minh họa cho luận điểm 'The high cost of living is the first disadvantage' → A đúng. B/C/D đều không khớp với mục đích của đoạn đó."
+        },
+        {
+          "id": "3c",
+          "question": "3. What does the word \"them\" in paragraph 2 refer to?",
+          "options": [
+            "A. bad effects",
+            "B. stress levels",
+            "C. city people",
+            "D. construction sites"
+          ],
+          "correctIndex": 2,
+          "explanation": "'These are harmful to people's health, such as increasing their stress levels, disturbing their sleep and making them suffer from breathing problems.' — 'them' trỏ đến 'city people' (những người sống ở thành phố bị ảnh hưởng). Đáp án C đúng."
+        },
+        {
+          "id": "3d",
+          "question": "4. According to the passage, teenagers often hang out at shopping malls because ________.",
+          "options": [
+            "A. they find shopping malls interesting.",
+            "B. many cities lack spaces for outdoor activities.",
+            "C. they prefer them to entertainment complexes.",
+            "D. shopping malls help reduce pollution levels."
+          ],
+          "correctIndex": 1,
+          "explanation": "Bài viết: 'Many cities lack spaces for outdoor activities; therefore, teenagers often hang out at shopping malls' → nguyên nhân là thiếu không gian ngoài trời. Đáp án B đúng. A/C/D đều không có trong bài."
+        },
+        {
+          "id": "3e",
+          "question": "5. Which of the following is NOT mentioned about city authorities?",
+          "options": [
+            "A. They are trying to find solutions to city problems.",
+            "B. They hope to lower the costs of living in cities.",
+            "C. They want to increase green space in cities.",
+            "D. Their houses are too small."
+          ],
+          "correctIndex": 3,
+          "explanation": "Đoạn cuối đề cập: chính quyền đang cố gắng (A đúng), giảm chi phí sinh hoạt (B đúng), tăng không gian xanh (C đúng). Không có thông tin nào về nhà ở của chính quyền → D không được nhắc đến. Đáp án D đúng."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "The word \"liveable\" in the passage is closest in meaning to ________.",
+      "options": [
+        "A. expensive",
+        "B. suitable to live in",
+        "C. crowded",
+        "D. modern"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Liveable' = đáng sống, phù hợp để sinh sống — gần nghĩa với 'suitable to live in'. Đáp án B đúng. Từ này xuất hiện trong bài cloze (Ex 2) khi nói về mục tiêu cải thiện thành phố. A 'expensive' = đắt đỏ, C 'crowded' = đông đúc, D 'modern' = hiện đại — đều không đúng."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "The word \"congestion\" in the passage is closest in meaning to ________.",
+      "options": [
+        "A. pollution",
+        "B. construction",
+        "C. overcrowding on roads",
+        "D. speed limit"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Congestion' (tắc nghẽn giao thông) = tình trạng quá đông phương tiện trên đường — gần nghĩa nhất với 'overcrowding on roads'. Đáp án C đúng. Từ này xuất hiện cuối bài cloze (Ex 2) khi nói về ứng dụng tránh tắc đường. A/B/D đều khác nghĩa."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "The word \"drawback\" in the passage is closest in meaning to ________.",
+      "options": [
+        "A. advantage",
+        "B. feature",
+        "C. disadvantage",
+        "D. improvement"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Drawback' = bất lợi, nhược điểm — đồng nghĩa với 'disadvantage'. Đáp án C đúng. Từ này xuất hiện trong bài đọc Ex 3 khi tác giả liệt kê các hạn chế của cuộc sống đô thị. A 'advantage' = lợi thế (nghĩa trái ngược), B/D không phù hợp."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "The word \"reluctant\" in the passage is closest in meaning to ________.",
+      "options": [
+        "A. eager",
+        "B. unwilling",
+        "C. happy",
+        "D. forced"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Reluctant' = không muốn, miễn cưỡng — gần nghĩa nhất với 'unwilling'. Đáp án B đúng. Câu mở đầu Ex 3: 'many people are reluctant to make such a move' = nhiều người không muốn chuyển vào thành phố. A 'eager' = háo hức (nghĩa trái), C/D không phù hợp."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "The word \"densely populated\" in the passage is closest in meaning to ________.",
+      "options": [
+        "A. having very few people",
+        "B. having a lot of trees and parks",
+        "C. having a large number of people living in an area",
+        "D. having many tall buildings"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Densely populated' = đông dân cư, mật độ dân số cao — nghĩa là có rất nhiều người sống trong một khu vực. Đáp án C đúng. Từ này xuất hiện trong Ex 3 đoạn 2 khi mô tả các khu phố ồn ào và bụi bặm. A là nghĩa trái, B/D không liên quan."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"They suggest carrying out a project which turns food waste into energy.\"",
+      "options": [
+        "A. Họ đề xuất thực hiện một dự án biến chất thải thực phẩm thành năng lượng.",
+        "B. Họ đề xuất mang chất thải thực phẩm ra khỏi thành phố.",
+        "C. Họ muốn mua năng lượng từ chất thải thực phẩm.",
+        "D. Họ phát hiện ra rằng chất thải thực phẩm có thể tạo ra điện."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Suggest carrying out a project' = đề xuất thực hiện một dự án; 'turns food waste into energy' = biến chất thải thực phẩm thành năng lượng → đáp án A dịch chính xác nhất. Câu này từ bài đọc Ex 1 (Teenovator, chủ đề thành phố thông minh thực phẩm)."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"They wanted stricter traffic laws to stop drivers from ignoring traffic lights and breaking speed limits.\"",
+      "options": [
+        "A. Họ muốn có luật giao thông nghiêm ngặt hơn để ngăn tài xế bỏ qua đèn giao thông và vi phạm tốc độ.",
+        "B. Họ muốn xây thêm đèn giao thông để giảm tai nạn.",
+        "C. Họ đề nghị tài xế tuân thủ tốc độ và không vượt đèn đỏ.",
+        "D. Họ muốn cảnh sát xử phạt tất cả tài xế trong thành phố."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Stricter traffic laws' = luật giao thông nghiêm ngặt hơn; 'stop drivers from ignoring traffic lights' = ngăn tài xế bỏ qua đèn giao thông; 'breaking speed limits' = vi phạm giới hạn tốc độ → A dịch đầy đủ và chính xác. Câu từ bài cloze Ex 2."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"The bigger the city is, the higher the living cost is.\"",
+      "options": [
+        "A. Thành phố lớn hơn thường có nhiều tiện ích hơn.",
+        "B. Thành phố càng lớn, chi phí sinh hoạt càng cao.",
+        "C. Chi phí sinh hoạt ở thành phố lớn rất đắt đỏ.",
+        "D. Người sống ở thành phố lớn kiếm được nhiều tiền hơn."
+      ],
+      "correctIndex": 1,
+      "explanation": "Cấu trúc 'The + so sánh hơn..., the + so sánh hơn...' = càng... càng... → 'The bigger the city, the higher the living cost' = thành phố càng lớn, chi phí sinh hoạt càng cao. Đáp án B dịch đúng cấu trúc. Câu từ bài đọc Ex 3."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"Many cities lack spaces for outdoor activities; therefore, teenagers often hang out at shopping malls.\"",
+      "options": [
+        "A. Thanh thiếu niên thích đến trung tâm mua sắm vì nơi đó rất thú vị.",
+        "B. Các thành phố lớn không có đủ trung tâm mua sắm cho thanh thiếu niên.",
+        "C. Nhiều thành phố thiếu không gian cho các hoạt động ngoài trời; do đó, thanh thiếu niên thường tụ tập ở trung tâm mua sắm.",
+        "D. Thanh thiếu niên không muốn chơi thể thao ngoài trời vì thời tiết xấu."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Lack spaces for outdoor activities' = thiếu không gian cho hoạt động ngoài trời; 'therefore' = do đó; 'hang out at shopping malls' = tụ tập ở trung tâm mua sắm → C dịch đúng cả nghĩa lẫn quan hệ nhân quả. Câu từ bài đọc Ex 3. A/B/D đều thiếu hoặc sai thông tin."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"They still have a long way to go before they can reduce living costs and pollution, and increase green space.\"",
+      "options": [
+        "A. Họ vẫn cần nhiều thời gian hơn trước khi có thể giảm chi phí sinh hoạt, ô nhiễm và tăng không gian xanh.",
+        "B. Họ đã thành công trong việc giảm chi phí sinh hoạt và ô nhiễm ở thành phố.",
+        "C. Họ cần xây dựng nhiều công viên hơn để giảm ô nhiễm trong thành phố.",
+        "D. Họ đang lên kế hoạch giảm số lượng xe cộ để cải thiện chất lượng không khí."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Have a long way to go' = còn nhiều việc phải làm, vẫn cần nhiều nỗ lực; 'before they can' = trước khi có thể; 'reduce living costs and pollution' = giảm chi phí sinh hoạt và ô nhiễm; 'increase green space' = tăng không gian xanh → A dịch đúng và đầy đủ. Câu từ đoạn kết bài Ex 3."
+    },
+    {
+      "id": 14,
+      "type": "reading-comprehension",
+      "passage": "Teenovator is an annual competition by the City Teen Council. We ask teens to find problems of the city and suggest solutions. Here are this year's winners.\n\n1. The food-smart city: Central School\nThey see that the more developed a city is, the more food people throw away. They suggest carrying out a project which turns food waste into energy. Students would sort their leftovers at school canteens. A nearby farm would come to take the food waste and process it into biogas.\n\n2. The teen-friendly city: Bookworm Team\nThis team feels that many public amenities, particularly the city library, are not teen-friendly. They suggest a list of changes so that the library can attract more teens. Some of **them** include designing lively learning spaces for teens and having teen's favourite desserts in the cafeteria.\n\n3. The street-safe city: Helena Wilson\nHelena realises that there are too many vehicles around school gates. This is unsafe for children who walk to school. She suggests that the city authorities not allow cars at school gates at drop-off and pick-up times. In addition, they should not let motorbikes park on the pavement near school gates.",
+      "questions": [
+        {
+          "id": "14a",
+          "question": "Which team proposed turning food waste into energy?",
+          "options": [
+            "A. Bookworm Team.",
+            "B. Helena Wilson.",
+            "C. Central School.",
+            "D. City Teen Council."
+          ],
+          "correctIndex": 2,
+          "explanation": "Chủ đề 1 ghi rõ 'Central School' đề xuất dự án biến chất thải thực phẩm thành năng lượng: 'They suggest carrying out a project which turns food waste into energy.' Đáp án C đúng. A và B thuộc chủ đề 2 và 3."
+        },
+        {
+          "id": "14b",
+          "question": "Which topic was won by an individual, not a team or school?",
+          "options": [
+            "A. The food-smart city.",
+            "B. The teen-friendly city.",
+            "C. The waste-free city.",
+            "D. The street-safe city."
+          ],
+          "correctIndex": 3,
+          "explanation": "Helena Wilson là cá nhân — thắng chủ đề 'The street-safe city' (Chủ đề 3). Central School (nhóm trường) thắng Chủ đề 1, Bookworm Team (nhóm) thắng Chủ đề 2. Đáp án D đúng."
+        },
+        {
+          "id": "14c",
+          "question": "What improvement does Bookworm Team suggest for the city library?",
+          "options": [
+            "A. Building a new library in the city centre.",
+            "B. Designing lively learning spaces and adding teen-friendly food.",
+            "C. Buying more books about teen topics.",
+            "D. Allowing teens to borrow books for free."
+          ],
+          "correctIndex": 1,
+          "explanation": "Chủ đề 2 nêu: 'Some of them include designing lively learning spaces for teens and having teen's favourite desserts in the cafeteria.' → Đáp án B nắm đúng hai ý cụ thể. A, C, D không được đề cập trong bài."
+        },
+        {
+          "id": "14d",
+          "question": "What does Helena Wilson suggest about motorbikes near school gates?",
+          "options": [
+            "A. They should be banned from all city roads.",
+            "B. They should not park on the pavement near school gates.",
+            "C. They should only be allowed during school hours.",
+            "D. They should use a separate lane near schools."
+          ],
+          "correctIndex": 1,
+          "explanation": "Bài viết: 'they should not let motorbikes park on the pavement near school gates.' → Đáp án B trích dẫn chính xác đề xuất của Helena. A quá rộng, C và D không xuất hiện trong bài."
+        },
+        {
+          "id": "14e",
+          "question": "Which topic is listed but has NO winner in the competition?",
+          "options": [
+            "A. The food-smart city.",
+            "B. The teen-friendly city.",
+            "C. The waste-free city.",
+            "D. The street-safe city."
+          ],
+          "correctIndex": 2,
+          "explanation": "Danh sách chủ đề gồm A–D nhưng chỉ ba chủ đề có người thắng: food-smart (Chủ đề 1), teen-friendly (Chủ đề 2), street-safe (Chủ đề 3). 'The waste-free city' được liệt kê nhưng không có người chiến thắng — đây là chủ đề thừa ('one extra topic'). Đáp án C đúng."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": "reading-comprehension",
+      "passage": "Narrator: In today's show, we ask three teens how they feel about living in their city and how to make it a more liveable place. Hi, Tom. Do you want to start first?\n\nTom: Hi everyone. I love my city. It has good parks, libraries, and cinemas. However, traffic is getting worse, and the buses are quite old and uncomfortable. I think they should widen the roads and have more air-conditioned buses.\n\nNarrator: Thanks, Tom. How about you, Elena?\n\nElena: Well, I'm not happy with my city. The only place teens can find entertainment is a shopping mall but it's very costly, so I don't like it. I want more free sports facilities so that we can do physical activities.\n\nNarrator: Nice idea, Elena. And what about your city, Chi?\n\nChi: It's really convenient living in my city. There are food stalls at almost all street corners. Many teens like street food and are too lazy to cook on their own. I think schools and parents should warn them about the hygiene risks of street food. Parents should also teach their children how to cook.",
+      "questions": [
+        {
+          "id": "15a",
+          "question": "Where might this interview come from?",
+          "options": [
+            "A. A chat show.",
+            "B. A documentary.",
+            "C. The daily news.",
+            "D. A school broadcast."
+          ],
+          "correctIndex": 0,
+          "explanation": "Người dẫn chương trình mở đầu: 'In today's show, we ask three teens...' — 'show' chỉ chương trình trò chuyện (chat show). Đáp án A đúng. B, C, D không phù hợp với phong cách phỏng vấn thân thiện theo chủ đề này."
+        },
+        {
+          "id": "15b",
+          "question": "What is a problem in Tom's city?",
+          "options": [
+            "A. Some buses don't have air-conditioners.",
+            "B. There are no parks or cinemas.",
+            "C. Some roads are too wide.",
+            "D. The city lacks libraries."
+          ],
+          "correctIndex": 0,
+          "explanation": "Tom nói: 'the buses are quite old and uncomfortable. I think they should... have more air-conditioned buses.' → xe buýt thiếu điều hòa là vấn đề. Đáp án A đúng. B và D sai vì Tom nói thành phố có công viên, thư viện, rạp phim tốt."
+        },
+        {
+          "id": "15c",
+          "question": "What change does Elena suggest for her city?",
+          "options": [
+            "A. A new shopping mall.",
+            "B. More free sports facilities.",
+            "C. More modern sports centres.",
+            "D. Cheaper entertainment options."
+          ],
+          "correctIndex": 1,
+          "explanation": "Elena phát biểu: 'I want more free sports facilities so that we can do physical activities.' → Đáp án B là đề xuất cụ thể của Elena. A sai (cô không thích trung tâm mua sắm vì đắt), C/D không xuất hiện trong bài."
+        },
+        {
+          "id": "15d",
+          "question": "Chi thinks that ________ should tell teens about the drawbacks of street food.",
+          "options": [
+            "A. parents and the city council.",
+            "B. the city council and schools.",
+            "C. parents and schools.",
+            "D. schools and food stall owners."
+          ],
+          "correctIndex": 2,
+          "explanation": "Chi nói: 'I think schools and parents should warn them about the hygiene risks of street food.' → trường học và phụ huynh (parents and schools). Đáp án C đúng. A và B đề cập 'city council' không xuất hiện trong lời Chi, D sai hoàn toàn."
+        },
+        {
+          "id": "15e",
+          "question": "Which statement about Tom's city is TRUE?",
+          "options": [
+            "A. Tom is unhappy with his city.",
+            "B. Tom's city has good parks, libraries, and cinemas.",
+            "C. Tom wants more parks in his city.",
+            "D. Traffic in Tom's city is improving."
+          ],
+          "correctIndex": 1,
+          "explanation": "Tom nói: 'I love my city. It has good parks, libraries, and cinemas.' → Đáp án B đúng theo lời Tom. A sai (Tom yêu thành phố), C sai (Tom không yêu cầu thêm công viên), D sai ('traffic is getting worse')."
+        }
+      ]
+    }
+  ]
+}

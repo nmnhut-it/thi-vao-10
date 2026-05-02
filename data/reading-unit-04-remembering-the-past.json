@@ -1,0 +1,463 @@
+{
+  "topicId": "reading-unit-04-remembering-the-past",
+  "title": "Unit 4: Remembering the Past - Reading",
+  "section": "reading",
+  "knowledge": {
+    "html": "<h3>Unit 4: Remembering the Past</h3><p>Unit này xoay quanh chủ đề ký ức, lịch sử và truyền thống. Bạn sẽ đọc về các phong tục ẩm thực lâu đời, ngôi trường một phòng thời xưa, và những địa danh lịch sử nổi tiếng thế giới.</p><h4>Từ vựng trọng tâm</h4><ul><li><strong>deep-rooted</strong> (adj): ăn sâu, bám rễ — truyền thống khó thay đổi</li><li><strong>takeaway</strong> (n): đồ ăn mang đi</li><li><strong>ingredient</strong> (n): nguyên liệu (nấu ăn)</li><li><strong>preserve</strong> (v): gìn giữ, bảo tồn</li><li><strong>recite</strong> (v): đọc thuộc lòng, ngâm (thơ)</li><li><strong>memorise</strong> (v): ghi nhớ, học thuộc</li><li><strong>splendid</strong> (adj): lộng lẫy, tráng lệ</li><li><strong>pillar</strong> (n): cột trụ (kiến trúc)</li></ul><h4>Mẹo đọc hiểu</h4><ul><li><strong>Main idea:</strong> Đọc câu đầu mỗi đoạn để xác định ý chính. Chọn đáp án bao quát nhất, không quá hẹp.</li><li><strong>NOT true / EXCEPT:</strong> Đối chiếu từng đáp án với thông tin trong bài. Đáp án sai với văn bản là đáp án đúng cần chọn.</li><li><strong>Vocabulary in context:</strong> Đọc cả câu xung quanh từ đó để suy ra nghĩa phù hợp với ngữ cảnh.</li></ul>"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "reading-comprehension",
+      "passage": "England's traditions have been around for hundreds, even thousands of years. English cuisine is among the deep-rooted traditions that English people are proud to keep alive.\n\nTypical English cuisine has developed over many centuries, and people say that fish and chips is the most English dish of all. It is believed that fish and chips appeared in England in the 19th century. The earliest fish and chip shop opened in London during the 1860s. Since then people have considered fish and chips to be England's national dish, and it is now a common takeaway in the United Kingdom.\n\nThe basic ingredients of the dish are fried fish served with chips. People in different places may add peas, vinegar, lemon, or ketchup. Fish and chips is served hot as the main dish in England. Although there is oil and carbohydrates in fish and chips, **it** is healthier than other takeaway dishes.\n\nNow there are fish and chip shops in many countries, and it is becoming more and more popular in other countries too. Preserving and promoting fish and chips is the way English people keep themselves **associated** with the past.",
+      "questions": [
+        {
+          "id": "1a",
+          "question": "1. What is the passage mainly about?",
+          "options": [
+            "A. The history of English traditions in general",
+            "B. Fish and chips as a deep-rooted English tradition",
+            "C. How to cook fish and chips at home",
+            "D. The popularity of British cuisine worldwide"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn văn tập trung vào món cá và khoai tây chiên — lịch sử, nguyên liệu, và vai trò của nó trong văn hóa Anh → đáp án B đúng. A quá rộng, C không đúng (không có hướng dẫn nấu), D không phải ý chính."
+        },
+        {
+          "id": "1b",
+          "question": "2. According to the passage, which of the following is TRUE?",
+          "options": [
+            "A. Fish and chips appeared in England in the 18th century.",
+            "B. The earliest fish and chip shop opened in London in the 1860s.",
+            "C. Peas, vinegar, and lemon are the basic ingredients of the dish.",
+            "D. Fish and chips is unhealthy because it contains oil."
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn văn ghi rõ: 'The earliest fish and chip shop opened in London during the 1860s' → đáp án B đúng. A sai (thế kỷ 19), C sai (đây là phụ gia tùy chọn), D sai (văn bản nói 'healthier than other takeaway dishes')."
+        },
+        {
+          "id": "1c",
+          "question": "3. Which of the following is NOT true according to the passage?",
+          "options": [
+            "A. Fish and chips is England's national dish.",
+            "B. Fish and chips is served cold in England.",
+            "C. Fish and chips is now sold in many countries.",
+            "D. English people keep fish and chips alive to stay connected to the past."
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn văn nói 'Fish and chips is served hot' → đáp án B sai (phục vụ nóng, không phải nguội). A, C, D đều đúng theo văn bản."
+        },
+        {
+          "id": "1d",
+          "question": "4. The word \"associated\" in the last paragraph is closest in meaning to ________.",
+          "options": [
+            "A. separated",
+            "B. compared",
+            "C. connected",
+            "D. identified"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Associated with' = gắn liền với, kết nối với — gần nghĩa nhất với 'connected' (đáp án C). 'separated' = tách rời (ngược nghĩa), 'compared' = so sánh, 'identified' = xác định — không đúng."
+        },
+        {
+          "id": "1e",
+          "question": "5. The word \"it\" in the third paragraph refers to ________.",
+          "options": [
+            "A. the dish",
+            "B. oil",
+            "C. fish and chips",
+            "D. carbohydrates"
+          ],
+          "correctIndex": 2,
+          "explanation": "'It' trong câu 'it is healthier than other takeaway dishes' chỉ 'fish and chips' — chủ đề chính của đoạn 3. Đáp án C đúng. 'oil' và 'carbohydrates' là thành phần trong món ăn, không phải chủ thể so sánh."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "reading-comprehension",
+      "passage": "In the 1800s and early 1900s, most children went to school in one-room schoolhouses. At that time, most people lived (1) _____ farms. The farms were spread out. One-room schoolhouses were built because there weren't many children in the farm areas. Most of the one-room schoolhouses only (2) _____ about fifteen to twenty children. The one-room schoolhouses had just one teacher. That teacher instructed all students from the age of five or six up to ages thirteen or fourteen or even older. The teacher also (3) _____ all subjects. In one-room schoolhouses, students did a lot of reciting and memorising. Reciting means that they said out loud (4) _____ they learned. The teacher would ask a question, and the students would stand up and recite the answer. Students also did a lot of memorising. They were often asked to memorise poems. They had to memorise famous (5) _____ and important facts, too.",
+      "questions": [
+        {
+          "id": "2a",
+          "question": "(1)",
+          "options": [
+            "A. in",
+            "B. on",
+            "C. for",
+            "D. with"
+          ],
+          "correctIndex": 1,
+          "explanation": "Cụm từ cố định 'live on a farm' = sống ở trang trại — giới từ 'on' đúng. 'in a farm' sai ngữ pháp; 'for/with a farm' sai nghĩa hoàn toàn."
+        },
+        {
+          "id": "2b",
+          "question": "(2)",
+          "options": [
+            "A. had",
+            "B. made",
+            "C. founded",
+            "D. promoted"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Had about fifteen to twenty children' = có khoảng 15-20 học sinh — 'have' diễn tả sở hữu/số lượng. 'made' = tạo ra, 'founded' = thành lập, 'promoted' = thúc đẩy — đều sai nghĩa."
+        },
+        {
+          "id": "2c",
+          "question": "(3)",
+          "options": [
+            "A. gave",
+            "B. observed",
+            "C. taught",
+            "D. educated"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Taught all subjects' = dạy tất cả các môn — 'teach subjects' là cụm từ chuẩn. 'gave subjects' sai cụm, 'observed' = quan sát, 'educated students' (không phải 'subjects') — đáp án C đúng."
+        },
+        {
+          "id": "2d",
+          "question": "(4)",
+          "options": [
+            "A. which",
+            "B. how",
+            "C. that",
+            "D. what"
+          ],
+          "correctIndex": 3,
+          "explanation": "'Said out loud what they learned' = nói to những gì họ học — 'what' dẫn danh ngữ (noun clause) vừa làm tân ngữ. 'which' hỏi chọn lựa, 'how' hỏi cách, 'that' không thể đứng sau 'out loud' trong ngữ cảnh này."
+        },
+        {
+          "id": "2e",
+          "question": "(5)",
+          "options": [
+            "A. speeches",
+            "B. words",
+            "C. languages",
+            "D. questions"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Memorise famous speeches' = học thuộc những bài phát biểu nổi tiếng — phù hợp ngữ cảnh trường học cổ xưa. 'famous words' mơ hồ, 'languages' = ngôn ngữ (không học thuộc), 'questions' = câu hỏi (không hợp lý)."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "reading-comprehension",
+      "passage": "Edinburgh is the capital city of Scotland. It has enormous historical significance. Located on the east coast of Scotland, Edinburgh proudly offers a window to the past. For many people, this city is an exciting mix of something traditional and something modern.\n\nEdinburgh has been Scotland's royal city since 1437. Most of Edinburgh's sights are within two districts: the old town and the new town. The medieval Royal Mile stretching for over a mile from Edinburgh Castle to the Palace of Holyroodhouse dominates the city's central area. The Royal Mile is one of the largest, longest and most **splendid** streets for buildings in Britain.\n\nTo millions of visitors, Edinburgh Castle is a must-see because there are many treasures. Princess Street is in Edinburgh's new town, directly below the castle. Next to Princess Street, in the shadow of Edinburgh Castle, lies the green Princess Street Gardens. **This** is one of the most delightful gardens in Britain.\n\nEdinburgh is also a cultural centre. The worldwide famous Edinburgh Fringe Festival (a series of arts festivals held in August) draws thousands and thousands of visitors to the city annually. So Edinburgh is really a place no traveler should ignore.",
+      "questions": [
+        {
+          "id": "3a",
+          "question": "1. Which of the following dominates the central area of Edinburgh?",
+          "options": [
+            "A. The Royal Mile.",
+            "B. Edinburgh Castle.",
+            "C. Holyroodhouse.",
+            "D. Princess Street."
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn văn: 'The medieval Royal Mile… dominates the city's central area' → đáp án A đúng. Edinburgh Castle và Holyroodhouse là hai đầu của Royal Mile, không phải khu trung tâm."
+        },
+        {
+          "id": "3b",
+          "question": "2. The word \"splendid\" in the passage mostly means ________.",
+          "options": [
+            "A. communal",
+            "B. basic",
+            "C. magnificent",
+            "D. occupied"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Splendid' = lộng lẫy, tráng lệ — gần nghĩa nhất với 'magnificent' (đáp án C). 'communal' = cộng đồng, 'basic' = cơ bản, 'occupied' = chiếm đóng — đều sai nghĩa."
+        },
+        {
+          "id": "3c",
+          "question": "3. The word \"This\" in the third paragraph refers to ________.",
+          "options": [
+            "A. Princess Street",
+            "B. Edinburgh",
+            "C. Edinburgh Castle",
+            "D. Princess Street Gardens"
+          ],
+          "correctIndex": 3,
+          "explanation": "'This is one of the most delightful gardens in Britain' — 'This' chỉ 'Princess Street Gardens' được đề cập trong câu ngay trước đó. Đáp án D đúng."
+        },
+        {
+          "id": "3d",
+          "question": "4. Which of the following is NOT true, according to the passage?",
+          "options": [
+            "A. Edinburgh belonged to the past.",
+            "B. Edinburgh is Scotland's royal city.",
+            "C. Holyroodhouse is at one end of Royal Mile.",
+            "D. Arts festivals are held in August."
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn văn nói Edinburgh là 'an exciting mix of something traditional and something modern' → thành phố vừa có truyền thống vừa hiện đại, không phải 'chỉ thuộc về quá khứ'. Đáp án A sai. B, C, D đều đúng theo văn bản."
+        },
+        {
+          "id": "3e",
+          "question": "5. Where can you find this passage?",
+          "options": [
+            "A. In a local guide book.",
+            "B. In a travel journal.",
+            "C. In a student's diary.",
+            "D. In a science report."
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn văn giới thiệu các điểm tham quan, lịch sử và lễ hội Edinburgh dành cho du khách → phù hợp nhất với sách hướng dẫn du lịch (guide book). Đáp án A đúng. 'travel journal' = nhật ký du lịch cá nhân (không phải bài đọc có tính giới thiệu), C/D không phù hợp."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "4. In the schoolhouse passage, the word \"reciting\" means ________.",
+      "options": [
+        "A. writing down what you remember",
+        "B. drawing pictures to explain ideas",
+        "C. saying out loud what you have learned",
+        "D. asking questions to the teacher"
+      ],
+      "correctIndex": 2,
+      "explanation": "Văn bản đoạn 2 tự giải thích: 'Reciting means that they said out loud what they learned' → đáp án C đúng. Đây là phương pháp học bằng cách đọc to — phổ biến trong trường học thế kỷ 19."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "5. In the Edinburgh passage, \"annually\" means ________.",
+      "options": [
+        "A. every week",
+        "B. every month",
+        "C. every year",
+        "D. every decade"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Annually' = hàng năm — đáp án C đúng. Edinburgh Fringe Festival 'draws thousands of visitors to the city annually' = thu hút hàng nghìn du khách đến thành phố mỗi năm."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "6. In the Edinburgh passage, the word \"splendid\" is closest in meaning to ________.",
+      "options": [
+        "A. ordinary",
+        "B. ancient",
+        "C. magnificent",
+        "D. narrow"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Splendid' = lộng lẫy, tráng lệ — gần nghĩa nhất với 'magnificent' (đáp án C). 'ordinary' = bình thường (ngược nghĩa), 'ancient' = cổ xưa (không đồng nghĩa), 'narrow' = hẹp (sai hoàn toàn)."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "7. In the One Pillar Pagoda passage, the word \"pillar\" means ________.",
+      "options": [
+        "A. a type of decorative flower",
+        "B. a tall vertical supporting structure",
+        "C. a rooftop ornament",
+        "D. a stone water pool"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Pillar' = cột trụ, kết cấu thẳng đứng dùng để chống đỡ — đáp án B đúng. Chùa Một Cột độc đáo vì toàn bộ công trình được đỡ bằng một cột đơn duy nhất."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "8. In the Edinburgh passage, the word \"significance\" means ________.",
+      "options": [
+        "A. appearance",
+        "B. distance",
+        "C. importance",
+        "D. similarity"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Significance' = tầm quan trọng, ý nghĩa — đáp án C đúng. 'Edinburgh has enormous historical significance' = Edinburgh có tầm quan trọng lịch sử to lớn. 'appearance' = vẻ ngoài, 'distance' = khoảng cách, 'similarity' = sự tương đồng."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "9. \"The Edinburgh Fringe Festival draws thousands and thousands of visitors to the city annually.\"",
+      "options": [
+        "A. Lễ hội Edinburgh Fringe thu hút hàng chục nghìn du khách đến thành phố mỗi năm.",
+        "B. Lễ hội Edinburgh Fringe được tổ chức để thu hút khách du lịch từ khắp nơi trên thế giới.",
+        "C. Thành phố Edinburgh tổ chức lễ hội hàng năm để giúp du khách tìm hiểu lịch sử.",
+        "D. Edinburgh Fringe là lễ hội âm nhạc nổi tiếng nhất ở Scotland, diễn ra hàng năm."
+      ],
+      "correctIndex": 0,
+      "explanation": "'draws thousands and thousands of visitors' = thu hút hàng chục nghìn du khách; 'annually' = mỗi năm → đáp án A dịch đúng và đầy đủ nhất. B/C/D thêm thông tin không có trong câu gốc."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "10. \"One-room schoolhouses were built because there weren't many children in the farm areas.\"",
+      "options": [
+        "A. Các ngôi trường một phòng được xây dựng vì ở các vùng nông thôn không có nhiều trẻ em.",
+        "B. Trẻ em ở vùng nông thôn phải đi bộ đến trường vì nhà cách xa trường học.",
+        "C. Các ngôi trường một phòng được dựng lên để giúp trẻ em nông thôn học tập tốt hơn.",
+        "D. Các vùng nông thôn không có đủ tiền để xây nhiều phòng học nên chỉ có một phòng."
+      ],
+      "correctIndex": 0,
+      "explanation": "'were built because there weren't many children' = được xây vì không có nhiều trẻ em; 'farm areas' = vùng trang trại/nông thôn → đáp án A dịch đúng nguyên nhân-kết quả. B/C/D thêm chi tiết không có trong câu gốc."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "11. \"Edinburgh proudly offers a window to the past.\"",
+      "options": [
+        "A. Edinburgh tự hào mang đến cái nhìn sâu sắc về lịch sử và quá khứ.",
+        "B. Edinburgh có nhiều cửa sổ nhìn ra các công trình cổ kính.",
+        "C. Edinburgh đang xây dựng lại các tòa nhà lịch sử từ quá khứ.",
+        "D. Edinburgh là thành phố chỉ tồn tại trong quá khứ."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Offers a window to the past' là cách diễn đạt hình ảnh có nghĩa 'cho thấy/mở ra cái nhìn về quá khứ' → đáp án A dịch đúng tinh thần. B hiểu theo nghĩa đen, C/D sai nội dung."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "12. \"Most of the one-room schoolhouses only had about fifteen to twenty children.\"",
+      "options": [
+        "A. Hầu hết các ngôi trường một phòng chỉ có khoảng mười lăm đến hai mươi học sinh.",
+        "B. Phần lớn trường học chỉ cho phép từ 15 đến 20 em vào học mỗi ngày.",
+        "C. Khoảng 15 đến 20 ngôi trường một phòng được xây dựng ở mỗi vùng nông thôn.",
+        "D. Các ngôi trường một phòng có ít nhất hai mươi học sinh mỗi lớp."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Most of the one-room schoolhouses only had' = hầu hết các trường chỉ có; 'about' = khoảng → đáp án A dịch đúng và sát nghĩa nhất."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "13. \"The One Pillar Pagoda is a historic Buddhist temple in Ha Noi, supported by only one pillar to look like the lotus seat in an emperor's dream.\"",
+      "options": [
+        "A. Chùa Một Cột là ngôi chùa Phật giáo lịch sử ở Hà Nội, được đỡ bởi một cột duy nhất để mô phỏng tòa sen trong giấc mơ của vua.",
+        "B. Chùa Một Cột ở Hà Nội được xây dựng trên một cột để tưởng nhớ hoàng đế triều Lý.",
+        "C. Ngôi chùa lịch sử ở Hà Nội được dựng lên theo lệnh hoàng đế để thờ Phật trên đài sen.",
+        "D. Chùa Một Cột là biểu tượng của Hà Nội, nổi tiếng với kiến trúc độc đáo một tầng."
+      ],
+      "correctIndex": 0,
+      "explanation": "'historic Buddhist temple' = ngôi chùa Phật giáo lịch sử; 'supported by only one pillar' = được đỡ bởi một cột duy nhất; 'to look like the lotus seat in an emperor's dream' = để giống tòa sen trong giấc mơ của vua → đáp án A dịch đầy đủ và chính xác nhất."
+    },
+    {
+      "id": 14,
+      "type": "reading-comprehension",
+      "passage": "England's traditions have been around for hundreds, even thousands of years. English cuisine is among the deep-rooted traditions that English people are proud to keep alive.\n\nTypical English cuisine has developed over many centuries, and people say that fish and chips is the most English dish of all. It is believed that fish and chips appeared in England in the 19th century. The earliest fish and chip shop opened in London during the 1860s. Since then people have considered fish and chips to be England's national dish, and it is now a common takeaway in the United Kingdom.\n\nThe basic ingredients of the dish are fried fish served with chips. People in different places may add peas, vinegar, lemon, or ketchup. Fish and chips is served hot as the main dish in England. Although there is oil and carbohydrates in fish and chips, **it** is healthier than other takeaway dishes.\n\nNow there are fish and chip shops in many countries, and it is becoming more and more popular in other countries too. Preserving and promoting fish and chips is the way English people keep themselves **associated** with the past.",
+      "questions": [
+        {
+          "id": "14a",
+          "question": "1. English people take great pride in their traditions.",
+          "options": [
+            "A. True — English people are proud of their traditions.",
+            "B. False — English people do not care about their traditions.",
+            "C. False — Only young English people are proud of their traditions.",
+            "D. False — English people want to replace old traditions with new ones."
+          ],
+          "correctIndex": 0,
+          "explanation": "Đúng. Đoạn văn ghi rõ: 'English cuisine is among the deep-rooted traditions that English people are proud to keep alive' → người Anh tự hào gìn giữ truyền thống của mình. Đáp án A đúng."
+        },
+        {
+          "id": "14b",
+          "question": "2. Fish and chips has been around for hundreds of years.",
+          "options": [
+            "A. True — Fish and chips appeared in England in the 19th century.",
+            "B. False — Fish and chips only became popular in the 21st century.",
+            "C. False — Fish and chips was invented outside England.",
+            "D. False — Fish and chips has existed for less than 50 years."
+          ],
+          "correctIndex": 0,
+          "explanation": "Đúng. Văn bản nói cá và khoai tây chiên xuất hiện ở Anh vào thế kỷ 19, tức là hơn 100 năm trước → đã tồn tại hàng trăm năm. Đáp án A đúng."
+        },
+        {
+          "id": "14c",
+          "question": "3. The earliest fish and chip shop opened in London in 1860.",
+          "options": [
+            "A. True — The shop opened exactly in 1860.",
+            "B. False — The earliest shop opened in the 1860s, not exactly in 1860.",
+            "C. False — The earliest shop opened outside London.",
+            "D. False — The earliest shop opened in the 1960s."
+          ],
+          "correctIndex": 1,
+          "explanation": "Sai. Văn bản ghi 'during the 1860s' (thập niên 1860) chứ không phải đúng năm 1860 → phát biểu '1860' là không chính xác. Đáp án B đúng."
+        },
+        {
+          "id": "14d",
+          "question": "4. Peas, vinegar, lemon, or ketchup are necessary ingredients for fish and chips.",
+          "options": [
+            "A. True — These are required in every serving.",
+            "B. False — These are optional extras that people in different places may add.",
+            "C. True — Without these, the dish is incomplete.",
+            "D. False — These ingredients are never used with fish and chips."
+          ],
+          "correctIndex": 1,
+          "explanation": "Sai. Văn bản chỉ ra nguyên liệu cơ bản là cá chiên và khoai tây chiên; đậu, giấm, chanh, ketchup chỉ là tùy chọn thêm ('may add'). Đáp án B đúng."
+        },
+        {
+          "id": "14e",
+          "question": "5. Fish and chips is not healthy because it has a lot of oil.",
+          "options": [
+            "A. True — Fish and chips is unhealthy due to its high oil content.",
+            "B. False — Fish and chips is actually healthier than other takeaway dishes.",
+            "C. True — Doctors recommend avoiding fish and chips.",
+            "D. False — Fish and chips contains no oil at all."
+          ],
+          "correctIndex": 1,
+          "explanation": "Sai. Văn bản nói: 'Although there is oil and carbohydrates in fish and chips, it is healthier than other takeaway dishes' → dù có dầu nhưng vẫn lành mạnh hơn các món ăn mang đi khác. Đáp án B đúng."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": "reading-comprehension",
+      "passage": "Thanh: Grandma, you say that you had three months for summer holiday when you were a pupil?\n\nGrandma: Right. And we did lots of things during the summer.\n\nThanh: Wow, I wish we had a three-month summer holiday! Did you stay at school all day during the school year?\n\nGrandma: No, we had lessons in the morning only.\n\nThanh: Did you have a lot of homework?\n\nGrandma: Not a lot. And we never had extra lessons.\n\nThanh: Really? Did you study the same subjects as we do now?\n\nGrandma: Yes and no. We didn't have music and arts, or computer science.\n\nThanh: How did you go to school then?\n\nGrandma: Well, we walked all the time. And we didn't have shoes or sandals. We were walking barefoot.\n\nThanh: Poor you! But what did you do during break time? Did you chat with your friends or ...?\n\nGrandma: Yes, but... face-to-face. And we played traditional games such as hide-and-seek, tug of war, skipping, etc. There were no mobile phones or iPads then.\n\nThanh: Well, those were the days...",
+      "questions": [
+        {
+          "id": "15a",
+          "question": "1. The conversation is generally about Thanh's ________.",
+          "options": [
+            "A. school days",
+            "B. grandma's school days",
+            "C. grandma's life in the past",
+            "D. grandma's hobbies"
+          ],
+          "correctIndex": 1,
+          "explanation": "Chủ đề chính là những ngày đi học của bà Thanh (grandma's school days) — mọi câu hỏi đều xoay quanh trường lớp ngày xưa của bà. C quá rộng (không chỉ về trường), A/D sai chủ thể. Đáp án B đúng."
+        },
+        {
+          "id": "15b",
+          "question": "2. Thanh's grandma didn't have a lot of ________.",
+          "options": [
+            "A. homework",
+            "B. lessons",
+            "C. subjects",
+            "D. teachers"
+          ],
+          "correctIndex": 0,
+          "explanation": "Bà trả lời: 'Not a lot' khi Thanh hỏi 'Did you have a lot of homework?' → bà không có nhiều bài tập về nhà. B/C/D không được đề cập là 'ít'. Đáp án A đúng."
+        },
+        {
+          "id": "15c",
+          "question": "3. Thanh's grandma ________ went to school on foot.",
+          "options": [
+            "A. always",
+            "B. sometimes",
+            "C. never",
+            "D. rarely"
+          ],
+          "correctIndex": 0,
+          "explanation": "Bà nói: 'we walked all the time' = luôn đi bộ, và đi chân trần vì không có giày dép → 'always' đúng. 'sometimes/rarely/never' đều mâu thuẫn với 'all the time'. Đáp án A đúng."
+        },
+        {
+          "id": "15d",
+          "question": "4. Students in the past played ________ during break time.",
+          "options": [
+            "A. computer games",
+            "B. games on mobile phones",
+            "C. traditional games",
+            "D. board games"
+          ],
+          "correctIndex": 2,
+          "explanation": "Bà nói: 'we played traditional games such as hide-and-seek, tug of war, skipping' và khẳng định 'There were no mobile phones or iPads then' → chỉ có trò chơi truyền thống. Đáp án C đúng."
+        }
+      ]
+    }
+  ]
+}

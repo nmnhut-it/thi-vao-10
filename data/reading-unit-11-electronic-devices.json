@@ -1,0 +1,465 @@
+{
+  "topicId": "reading-unit-11-electronic-devices",
+  "title": "Unit 11: Electronic Devices - Reading",
+  "section": "reading",
+  "knowledge": {
+    "html": "<h3>Unit 11: Electronic Devices (Thiết Bị Điện Tử)</h3><p>Thiết bị điện tử ngày càng đóng vai trò quan trọng trong cuộc sống hiện đại. Chúng giúp chúng ta giao tiếp, học tập, giải trí và thậm chí quản lý ngôi nhà thông minh hơn. Tuy nhiên, bên cạnh những lợi ích, thiết bị điện tử cũng có thể gây ra một số tác hại nếu sử dụng không đúng cách.</p><h4>Từ vựng trọng tâm</h4><ul><li><strong>stylish</strong> (adj) — thời trang, thanh lịch: <em>a stylish smartphone</em></li><li><strong>self-portrait</strong> (n) — ảnh tự chụp, selfie: <em>a special self-portrait feature</em></li><li><strong>portable</strong> (adj) — di động, có thể mang theo: <em>a portable music player</em></li><li><strong>privacy</strong> (n) — sự riêng tư: <em>give additional privacy to apartments</em></li><li><strong>camcorder</strong> (n) — máy quay phim: <em>its camcorder will record important moments</em></li><li><strong>window shade</strong> (n) — rèm cửa sổ: <em>a smart window shade</em></li><li><strong>fingertips</strong> (n) — đầu ngón tay; <em>at your fingertips</em> = trong tầm tay</li><li><strong>preventing</strong> (v) — ngăn chặn: <em>preventing heat or cold from entering</em></li></ul><h4>Mẹo đọc hiểu</h4><ul><li><strong>Đọc lướt (skimming):</strong> Đọc nhanh tiêu đề và câu đầu mỗi đoạn để nắm ý chính trước khi đọc câu hỏi.</li><li><strong>Tìm từ khóa (scanning):</strong> Đọc câu hỏi trước, gạch chân từ khóa, rồi tìm vị trí chúng trong bài để trả lời chính xác.</li><li><strong>Loại trừ đáp án sai:</strong> Với câu hỏi \"NOT true\" hay \"EXCEPT\", loại bỏ lần lượt những đáp án có trong bài — đáp án còn lại chính là đáp án đúng.</li></ul>"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "reading-comprehension",
+      "passage": "Electronic devices have changed the way people live and communicate. Among them, the smartphone is the most (1)______ device used by people of all ages. A smartphone allows users to make calls, send messages, and access the internet. It also has a camcorder that can (2)______ important moments in photos or videos. Thanks to social networking apps, people can stay (3)______ with friends and family no matter where they are. In addition to communication, smartphones are used for (4)______, such as listening to music, watching films, and playing games. However, spending too much time on smartphones can be (5)______ to your health, especially your eyesight.",
+      "questions": [
+        {
+          "id": "1a",
+          "question": "(1)",
+          "options": [
+            "A. expensive",
+            "B. dangerous",
+            "C. popular",
+            "D. difficult"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ngữ cảnh nói thiết bị được 'mọi lứa tuổi' sử dụng → phải là 'phổ biến' (popular). 'expensive' = đắt, 'dangerous' = nguy hiểm, 'difficult' = khó — đều không hợp nghĩa."
+        },
+        {
+          "id": "1b",
+          "question": "(2)",
+          "options": [
+            "A. delete",
+            "B. record",
+            "C. ignore",
+            "D. destroy"
+          ],
+          "correctIndex": 1,
+          "explanation": "Máy quay (camcorder) dùng để 'ghi lại' (record) những khoảnh khắc quan trọng. 'delete' = xóa, 'ignore' = bỏ qua, 'destroy' = phá hủy — đều sai ngữ cảnh."
+        },
+        {
+          "id": "1c",
+          "question": "(3)",
+          "options": [
+            "A. bored",
+            "B. lost",
+            "C. connected",
+            "D. confused"
+          ],
+          "correctIndex": 2,
+          "explanation": "Cụm từ 'stay connected' = duy trì kết nối với bạn bè, gia đình. 'bored' = chán, 'lost' = lạc lối, 'confused' = bối rối — đều không phù hợp với ý 'giữ liên lạc'."
+        },
+        {
+          "id": "1d",
+          "question": "(4)",
+          "options": [
+            "A. exercise",
+            "B. entertainment",
+            "C. housework",
+            "D. farming"
+          ],
+          "correctIndex": 1,
+          "explanation": "Nghe nhạc, xem phim, chơi game là các hoạt động 'giải trí' (entertainment). 'exercise' = tập thể dục, 'housework' = việc nhà, 'farming' = canh tác — đều không phù hợp nhóm hoạt động được liệt kê."
+        },
+        {
+          "id": "1e",
+          "question": "(5)",
+          "options": [
+            "A. helpful",
+            "B. boring",
+            "C. harmless",
+            "D. harmful"
+          ],
+          "correctIndex": 3,
+          "explanation": "Dùng điện thoại quá nhiều 'có hại' (harmful) cho sức khỏe, đặc biệt thị lực. 'helpful' = hữu ích (ngược nghĩa), 'harmless' = vô hại (ngược nghĩa), 'boring' = chán — đều không phù hợp cảnh báo."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "reading-comprehension",
+      "passage": "Today, computers are widely used and can be found in a variety of settings, including homes, offices, shops, hospitals, and schools. People rely on computers so heavily that many of them get frustrated and cannot work when computers are \"down\". Nowadays, computers are so essential that they are utilised for everything from entertainment to navigation.\n\nComputers of today are much quicker, cheaper, and smaller than those of the past. Many modern computers are so small that they are the size of a deck of cards. Users can work from a variety of settings thanks to notebook computers, also known as \"ultra-lights,\" and **hand-held** Personal Data Assistants (PDAs). These computers' ability to connect to several networks allows users to access information from any location with greater ease and control over their time.\n\nFuture computers will be smaller and faster than current models. **They** may have \"smart\" or artificial intelligence features like expert intelligence, neural network pattern recognition, or natural language capabilities, and they may be as small as coins. These features will make it simpler for users to interface with computers and manage a large amount of data from fax, email, Internet, and phone sources. Wearable computers, DNA computers, virtual reality gadgets, quantum computers, and optical computers are just a few examples of the cutting-edge applications that are emerging today.",
+      "questions": [
+        {
+          "id": "2a",
+          "question": "1. Why do people become frustrated when computers stop working?",
+          "options": [
+            "A. Because people are dependent on computers.",
+            "B. Because they do not like computers.",
+            "C. Because computers are too expensive.",
+            "D. Because they find computers too complicated."
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn 1: 'People rely on computers so heavily that many of them get frustrated... when computers are \"down\"' → lý do là phụ thuộc quá nhiều vào máy tính. Đáp án A đúng. B, C, D không được đề cập."
+        },
+        {
+          "id": "2b",
+          "question": "2. What is the advantage of using notebook computers and PDAs?",
+          "options": [
+            "A. They are cheaper than other computers.",
+            "B. They are much faster and more powerful than other computers.",
+            "C. They are more portable and can be used in different settings.",
+            "D. They are easier to connect to the Internet."
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn 2: 'Users can work from a variety of settings thanks to notebook computers... and hand-held PDAs' → ưu điểm là tính di động và linh hoạt về không gian làm việc. Đáp án C đúng."
+        },
+        {
+          "id": "2c",
+          "question": "3. The word \"hand-held\" in paragraph 2 is closest in meaning to ___.",
+          "options": [
+            "A. little",
+            "B. big",
+            "C. short",
+            "D. long"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Hand-held' = cầm tay, nhỏ gọn đủ để cầm trong tay → gần nghĩa với 'little' (nhỏ). Những thiết bị cầm tay như PDA có kích thước nhỏ. B, C, D đều không phù hợp."
+        },
+        {
+          "id": "2d",
+          "question": "4. The word \"They\" in paragraph 3 refers to ___.",
+          "options": [
+            "A. models",
+            "B. future computers",
+            "C. language capabilities",
+            "D. features"
+          ],
+          "correctIndex": 1,
+          "explanation": "Câu 'They may have \"smart\" or artificial intelligence features...' — đại từ 'They' thay thế cho chủ ngữ của câu trước: 'Future computers'. Đáp án B đúng."
+        },
+        {
+          "id": "2e",
+          "question": "5. What are some examples of cutting-edge applications for computer technology?",
+          "options": [
+            "A. Wearable computers, DNA computers, and virtual reality gadgets.",
+            "B. Wearable robots, DNA robots, and virtual reality games.",
+            "C. Wearable cameras, DNA cameras, and virtual reality movies.",
+            "D. Wearable headphones, DNA headphones, and virtual reality music."
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn 3 liệt kê rõ: 'Wearable computers, DNA computers, virtual reality gadgets, quantum computers, and optical computers' → đáp án A khớp chính xác với văn bản. B, C, D đều thay thế 'computers' bằng các từ sai."
+        },
+        {
+          "id": "2f",
+          "question": "6. What is the purpose of the passage?",
+          "options": [
+            "A. To persuade people to buy computers.",
+            "B. To inform readers about the history of computers and their future.",
+            "C. To describe how computers work.",
+            "D. To inform readers about the popularity and future of computers."
+          ],
+          "correctIndex": 3,
+          "explanation": "Bài viết nêu sự phổ biến của máy tính hiện nay (đoạn 1-2) và triển vọng tương lai (đoạn 3) — mục đích là thông báo về tầm quan trọng và tương lai của máy tính. Đáp án D chính xác hơn B vì bài không nói về 'lịch sử' mà tập trung vào hiện tại và tương lai."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "reading-comprehension",
+      "passage": "I recently purchased a robot vacuum cleaner. It is a compact, disc-shaped machine that is designed to clean floors automatically. It can move around spaces and avoid obstacles like furniture, walls, and stairs thanks to an array of sensors. My robot vacuums up dirt and debris from carpets, rugs, and hard floors using suction power and rotating brushes.\n\nMy robot is programmed to operate according to a set timetable, allowing it to clean my house while I am away. The robot is equipped with a charging dock, which it can automatically return to when it needs to recharge its batteries.\n\nMy vacuum cleaner robot also features Wi-Fi connectivity and a smartphone app for operation. In addition to receiving notifications and updates on the robot's cleaning progress, these features enable me to start, stop, and schedule cleaning sessions remotely.\n\nOverall, my vacuum cleaner robot is a practical and time-saving addition to my household cleaning routine that gives me a hands-free way to keep my house clean and tidy.",
+      "questions": [
+        {
+          "id": "3a",
+          "question": "1. An array of sensors allows the robot to navigate around spaces and avoid obstacles such as furniture, walls, and stairs.",
+          "options": [
+            "A. True",
+            "B. False"
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn 1: 'It can move around spaces and avoid obstacles like furniture, walls, and stairs thanks to an array of sensors' → câu này ĐÚNG (True), khớp hoàn toàn với văn bản."
+        },
+        {
+          "id": "3b",
+          "question": "2. The robot is not programmed to run on a specific schedule.",
+          "options": [
+            "A. True",
+            "B. False"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn 2: 'My robot is programmed to operate according to a set timetable' → robot CÓ được lập trình theo lịch cố định, vì vậy câu phủ định này là SAI (False). Đáp án B đúng."
+        },
+        {
+          "id": "3c",
+          "question": "3. The robot does not need to recharge its batteries.",
+          "options": [
+            "A. True",
+            "B. False"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn 2: 'it can automatically return to [the charging dock] when it needs to recharge its batteries' → robot CÓ cần sạc pin, nên câu phủ định này là SAI (False). Đáp án B đúng."
+        },
+        {
+          "id": "3d",
+          "question": "4. The robot has Wi-Fi connectivity and can be controlled through a smartphone app.",
+          "options": [
+            "A. True",
+            "B. False"
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn 3: 'My vacuum cleaner robot also features Wi-Fi connectivity and a smartphone app for operation' → câu này ĐÚNG (True), khớp trực tiếp với văn bản."
+        },
+        {
+          "id": "3e",
+          "question": "5. The robot requires constant supervision during cleaning sessions.",
+          "options": [
+            "A. True",
+            "B. False"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn 2-3: robot tự vận hành theo lịch, tự sạc pin, và có thể điều khiển từ xa — không cần giám sát liên tục. Câu này SAI (False). Đáp án B đúng."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "The word \"utilised\" in the passage (Exercise 2) is closest in meaning to ___.",
+      "options": [
+        "A. ignored",
+        "B. used",
+        "C. invented",
+        "D. broken"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Utilised' = được sử dụng — gần nghĩa nhất với 'used'. Đoạn 1 bài 2: 'computers are so essential that they are utilised for everything from entertainment to navigation' = máy tính được dùng cho mọi thứ. 'ignored' = bỏ qua, 'invented' = phát minh, 'broken' = hỏng — đều sai."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "The word \"essential\" in the passage (Exercise 2) is closest in meaning to ___.",
+      "options": [
+        "A. optional",
+        "B. unnecessary",
+        "C. vital",
+        "D. expensive"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Essential' = cần thiết, thiết yếu — gần nghĩa nhất với 'vital' (rất quan trọng, không thể thiếu). Đoạn 1 bài 2 nêu máy tính 'so essential' = thiết yếu đến mức dùng cho mọi thứ. 'optional' và 'unnecessary' ngược nghĩa, 'expensive' không liên quan."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "The word \"compact\" in the passage (Exercise 3) is closest in meaning to ___.",
+      "options": [
+        "A. large and bulky",
+        "B. small and neat",
+        "C. loud and noisy",
+        "D. soft and flexible"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Compact' = nhỏ gọn, vừa vặn — gần nghĩa với 'small and neat'. Đoạn 1 bài 3 mô tả robot là 'a compact, disc-shaped machine' = máy nhỏ gọn hình đĩa. 'large and bulky' ngược nghĩa, C và D không liên quan."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "The word \"remotely\" in the passage (Exercise 3) is closest in meaning to ___.",
+      "options": [
+        "A. from a nearby location",
+        "B. physically present",
+        "C. from a distance",
+        "D. automatically"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Remotely' = từ xa, không cần có mặt trực tiếp — gần nghĩa nhất với 'from a distance'. Đoạn 3 bài 3: 'enable me to start, stop, and schedule cleaning sessions remotely' = điều khiển từ xa qua app. 'from a nearby location' và 'physically present' đều ngược nghĩa."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "The phrase \"cutting-edge\" in the passage (Exercise 2) is closest in meaning to ___.",
+      "options": [
+        "A. outdated",
+        "B. most advanced",
+        "C. very cheap",
+        "D. well-known"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Cutting-edge' = tiên tiến nhất, hiện đại bậc nhất — gần nghĩa với 'most advanced'. Đoạn 3 bài 2: 'cutting-edge applications that are emerging today' = các ứng dụng tiên tiến đang xuất hiện. 'outdated' = lỗi thời (ngược nghĩa), C và D không liên quan."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"People rely on computers so heavily that many of them get frustrated and cannot work when computers are 'down'.\"",
+      "options": [
+        "A. Mọi người phụ thuộc vào máy tính đến mức nhiều người trở nên thất vọng và không thể làm việc khi máy tính bị hỏng.",
+        "B. Mọi người không thích máy tính vì chúng thường xuyên bị hỏng và gây khó chịu.",
+        "C. Máy tính quá đắt tiền khiến nhiều người không thể mua và cảm thấy thất vọng.",
+        "D. Nhiều người có thể làm việc bình thường ngay cả khi máy tính không hoạt động."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dịch chính xác: 'rely on... so heavily' = phụ thuộc đến mức, 'get frustrated' = thất vọng/bực bội, 'cannot work' = không thể làm việc, 'computers are down' = máy tính bị hỏng/ngừng hoạt động. Đáp án A đúng đầy đủ. B, C, D đều sai nghĩa."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"Future computers will be smaller and faster than current models.\"",
+      "options": [
+        "A. Máy tính hiện tại nhỏ hơn và nhanh hơn máy tính trong tương lai.",
+        "B. Máy tính tương lai sẽ nhỏ hơn và nhanh hơn các mẫu hiện tại.",
+        "C. Máy tính tương lai sẽ lớn hơn nhưng chậm hơn máy tính hiện nay.",
+        "D. Máy tính tương lai sẽ có giá rẻ hơn và bền hơn máy tính hiện tại."
+      ],
+      "correctIndex": 1,
+      "explanation": "Dịch chính xác: 'Future computers' = máy tính tương lai, 'smaller and faster' = nhỏ hơn và nhanh hơn, 'current models' = các mẫu hiện tại. Đáp án B đúng. A đảo ngược so sánh, C sai ('larger and slower'), D thêm thông tin không có trong câu gốc."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"My robot is programmed to operate according to a set timetable, allowing it to clean my house while I am away.\"",
+      "options": [
+        "A. Robot của tôi được lập trình để hoạt động theo một lịch trình cố định, cho phép nó dọn dẹp nhà trong khi tôi vắng mặt.",
+        "B. Tôi phải ở nhà để theo dõi robot mỗi khi nó dọn dẹp nhà theo lịch trình.",
+        "C. Robot của tôi không có lịch trình cố định và chỉ hoạt động khi tôi bật nó lên.",
+        "D. Robot của tôi dọn nhà rất tốt nhưng cần tôi điều khiển trực tiếp mọi lúc."
+      ],
+      "correctIndex": 0,
+      "explanation": "Dịch chính xác: 'programmed to operate' = được lập trình để hoạt động, 'according to a set timetable' = theo lịch trình cố định, 'while I am away' = trong khi tôi vắng mặt. Đáp án A đúng. B, C, D đều ngược với ý tự động hoạt động mà không cần giám sát."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"These features enable me to start, stop, and schedule cleaning sessions remotely.\"",
+      "options": [
+        "A. Những tính năng này bắt buộc tôi phải có mặt để bắt đầu và dừng quá trình dọn dẹp.",
+        "B. Tôi cần kết nối trực tiếp với robot để lên lịch cho các buổi dọn dẹp.",
+        "C. Những tính năng này cho phép tôi bắt đầu, dừng và lên lịch các buổi dọn dẹp từ xa.",
+        "D. Những tính năng này giúp robot tự lên lịch mà không cần bất kỳ sự can thiệp nào từ tôi."
+      ],
+      "correctIndex": 2,
+      "explanation": "Dịch chính xác: 'enable me to' = cho phép tôi, 'start, stop, and schedule' = bắt đầu, dừng và lên lịch, 'cleaning sessions' = các buổi dọn dẹp, 'remotely' = từ xa. Đáp án C đúng. A sai ('bắt buộc có mặt' ngược với 'remotely'), B sai ('kết nối trực tiếp' ngược với 'remotely'), D sai (vẫn cần người dùng điều khiển)."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"My vacuum cleaner robot is a practical and time-saving addition to my household cleaning routine.\"",
+      "options": [
+        "A. Robot hút bụi của tôi làm tốn nhiều thời gian hơn so với dọn dẹp thủ công truyền thống.",
+        "B. Robot hút bụi của tôi là một bổ sung thực dụng và tiết kiệm thời gian cho thói quen dọn dẹp nhà cửa của tôi.",
+        "C. Tôi mua robot hút bụi nhưng nó không thực sự hữu ích trong công việc dọn dẹp hàng ngày.",
+        "D. Robot hút bụi của tôi chỉ phù hợp với những ngôi nhà lớn và không tiết kiệm thời gian."
+      ],
+      "correctIndex": 1,
+      "explanation": "Dịch chính xác: 'practical' = thực dụng/thiết thực, 'time-saving' = tiết kiệm thời gian, 'addition to' = bổ sung cho, 'household cleaning routine' = thói quen dọn dẹp nhà cửa. Đáp án B đúng. A ngược nghĩa ('tốn nhiều thời gian'), C phủ nhận tính hữu ích, D thêm điều kiện không có trong câu gốc."
+    },
+    {
+      "id": 14,
+      "type": "reading-comprehension",
+      "passage": "You can do a lot of things with this small smartphone! This light, stylish phone has a special self-portrait feature that helps you send great photos of yourself right away. Its camcorder will record important moments, so you can share them with friends. Besides standard text messaging and phone calls, it can keep you connected through emails, video calls, and social networking apps.\n\nThis portable music player can carry your music collection everywhere you go and supply your favourite hits at your fingertips. Listen to up to 24 hours of high-quality music wherever you are - on the bus, in the car, or at the gym. The portable music player allows you to store up to 5,000 songs and even play games.\n\nThis smart window shade doesn't only help you control how much light comes into your house, but it also saves money by preventing heat or cold from entering our house. It's an excellent option for those that have trouble controlling the temperature of their houses. It can also give additional privacy to apartments by blocking out light as well as unwanted views.",
+      "questions": [
+        {
+          "id": "14a",
+          "question": "1. The smartphone allows you to connect with everybody through emails, video calls, and social networking apps.",
+          "options": [
+            "A. True",
+            "B. False",
+            "C. Not given",
+            "D. Partly true"
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn 1: 'it can keep you connected through emails, video calls, and social networking apps' → câu này ĐÚNG, khớp hoàn toàn với văn bản. Đây là tính năng kết nối bổ sung ngoài gọi điện và nhắn tin thông thường."
+        },
+        {
+          "id": "14b",
+          "question": "2. You can send the photographs of yourself immediately with the smartphone.",
+          "options": [
+            "A. True",
+            "B. False",
+            "C. Not given",
+            "D. Partly true"
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn 1: 'a special self-portrait feature that helps you send great photos of yourself right away' — 'right away' = ngay lập tức → câu này ĐÚNG. Tính năng tự chụp cho phép gửi ảnh ngay."
+        },
+        {
+          "id": "14c",
+          "question": "3. The portable music player doesn't allow you to play games on it.",
+          "options": [
+            "A. True",
+            "B. False",
+            "C. Not given",
+            "D. Partly true"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn 2: 'The portable music player allows you to store up to 5,000 songs and even play games' → máy nghe nhạc CÓ cho phép chơi game, nên câu phủ định này là SAI. Đáp án B đúng."
+        },
+        {
+          "id": "14d",
+          "question": "4. You cannot control how much light comes into your house with the smart window shade.",
+          "options": [
+            "A. True",
+            "B. False",
+            "C. Not given",
+            "D. Partly true"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn 3: 'This smart window shade doesn't only help you control how much light comes into your house' → rèm thông minh CÓ thể kiểm soát ánh sáng, nên câu phủ định này là SAI. Đáp án B đúng."
+        },
+        {
+          "id": "14e",
+          "question": "5. The smart window shade allows you to control the temperature of your house.",
+          "options": [
+            "A. True",
+            "B. False",
+            "C. Not given",
+            "D. Partly true"
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn 3: 'It's an excellent option for those that have trouble controlling the temperature of their houses' → rèm giúp kiểm soát nhiệt độ nhà (ngăn nóng/lạnh xâm nhập), nên câu này ĐÚNG. Đáp án A đúng."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": "reading-comprehension",
+      "passage": "My favourite electronic device is a robotic vacuum cleaner which helps me to clean the floors, a laborious and boring task. First, it can automatically clean almost all dust, spots, and dirty marks in my house. Second, I can control it by using an app on my smartphone when I'm away from home. Finally, it's easy to store and carry my robotic vacuum cleaner because it's smaller than a normal vacuum cleaner.\n\nI think there'll be a lot of things that a robotic vacuum cleaner can do in the future. First, it'll be able to recognise patterns and then take action. It'll go to a place where you have eaten and suck up all the crumbs there. Second, it'll be able to climb stairs and even open doors or drawers. So it'll be able to get to any floor or room in our houses. Finally, laser technology will make it recognise anything on the ground like dust or dirt. With these improvements, I think robotic vacuum cleaners will be more helpful to us in the future.",
+      "questions": [
+        {
+          "id": "15a",
+          "question": "1. In Trang's opinion, cleaning the floor ___.",
+          "options": [
+            "A. is an easy and interesting task",
+            "B. is boring and takes a lot of time",
+            "C. can only be done by housekeepers",
+            "D. is the most important household chore"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn đầu: 'a robotic vacuum cleaner which helps me to clean the floors, a laborious and boring task' — 'laborious' = vất vả (tốn nhiều thời gian), 'boring' = nhàm chán → đáp án B đúng. A ngược nghĩa, C và D không được đề cập."
+        },
+        {
+          "id": "15b",
+          "question": "2. Trang's current robotic vacuum cleaner can clean ___.",
+          "options": [
+            "A. almost every dust, spot, and dirty mark in her house",
+            "B. only dust, spots, and dirty marks that we can see",
+            "C. dust, spots, and dirty marks under human control",
+            "D. only the floors in the living room and bedroom"
+          ],
+          "correctIndex": 0,
+          "explanation": "Câu đầu tiên mô tả hiện tại: 'it can automatically clean almost all dust, spots, and dirty marks in my house' → đáp án A đúng, khớp trực tiếp với văn bản. B, C, D thêm giới hạn không có trong bài."
+        },
+        {
+          "id": "15c",
+          "question": "3. If you drop crumbs to the floor, robotic vacuum cleaners of the future will come by and ___.",
+          "options": [
+            "A. wipe all of them with a rubber",
+            "B. suck them all up",
+            "C. remind you to clean them",
+            "D. ask you where you dropped them"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn tương lai: 'It'll go to a place where you have eaten and suck up all the crumbs there' — 'suck up' = hút sạch → đáp án B đúng. A sai (không dùng cao su), C và D không được đề cập trong bài."
+        },
+        {
+          "id": "15d",
+          "question": "4. In the future, laser technology will enable robot vacuum cleaners to ___.",
+          "options": [
+            "A. get to any floor or room in our houses",
+            "B. climb stairs and open doors or drawers",
+            "C. see everything on the ground",
+            "D. control the temperature of the house"
+          ],
+          "correctIndex": 2,
+          "explanation": "Câu cuối: 'laser technology will make it recognise anything on the ground like dust or dirt' — nhận diện mọi thứ trên mặt đất = 'see everything on the ground' → đáp án C đúng. A và B là khả năng khác (leo cầu thang, mở cửa), D không được đề cập."
+        }
+      ]
+    }
+  ]
+}

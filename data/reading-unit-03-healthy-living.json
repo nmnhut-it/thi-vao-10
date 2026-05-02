@@ -1,0 +1,601 @@
+{
+  "topicId": "reading-unit-03-healthy-living",
+  "title": "Unit 3: Healthy Living for Teens - Reading",
+  "section": "reading",
+  "knowledge": {
+    "html": "<h3>Unit 3: Healthy Living for Teens</h3><p>Bài đọc Unit 3 xoay quanh chủ đề <strong>lối sống lành mạnh dành cho thanh thiếu niên</strong>: quản lý thời gian, đặt mục tiêu thực tế, cân bằng học tập và cuộc sống. Đây là chủ đề thực dụng, gần gũi với học sinh lớp 9.</p><h4>Từ vựng trọng tâm</h4><ul><li><strong>anxiety</strong> (n) — sự lo lắng, lo âu</li><li><strong>prioritise</strong> (v) — ưu tiên (công việc, nhiệm vụ)</li><li><strong>fattening</strong> (adj) — gây béo, nhiều calo</li><li><strong>appropriately</strong> (adv) — một cách thích hợp, phù hợp</li><li><strong>productivity</strong> (n) — năng suất làm việc</li><li><strong>burnout</strong> (n) — tình trạng kiệt sức vì làm việc quá mức</li><li><strong>accomplishment</strong> (n) — thành tích, điều đã đạt được</li><li><strong>fulfilment</strong> (n) — cảm giác thỏa mãn, trọn vẹn</li></ul><h4>Mẹo đọc hiểu</h4><ul><li>Đọc lướt toàn bài trước để nắm ý chính, sau đó mới đọc câu hỏi — tránh mất thời gian đọc lại.</li><li>Với câu hỏi \"NOT true\" hoặc \"EXCEPT\", loại trừ từng đáp án bằng cách đối chiếu trực tiếp với đoạn văn.</li><li>Với câu hỏi điền từ (cloze), xác định từ loại cần điền trước (danh từ, động từ, trạng từ…) rồi mới chọn đáp án phù hợp về nghĩa.</li></ul>"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "reading-comprehension",
+      "passage": "When I was at school, I had to learn how to have a well-balanced life in order to reduce stress and anxiety. Below are some of the typical things I did.\n\nFirstly, I managed my time properly. I started to plan my schedule, made a weekly work list and gave priority to some of my work. This helped me concentrate my efforts on my most important tasks.\n\nIn addition, I communicated with my family, friends, and teachers about my busy schedule and problems, so they would offer me additional support.\n\nI also took breaks **appropriately** because **they** helped me keep away from stress and anxiety and gave my brain a rest and improved my mood.\n\nFinally, I looked after my physical health. I got at least eight hours of sleep a day. I played football with my classmates twice a week and went for a walk with my grandparents early every morning. Besides, I also tried to follow a healthy diet. I ate a lot of fruit and vegetables. I ate little fattening foods and avoided junk foods like chips, cookies, pizza, etc.",
+      "questions": [
+        {
+          "id": "1a",
+          "question": "1. What is the main purpose of the passage?",
+          "options": [
+            "A. To describe the life of a famous teen celebrity",
+            "B. To share how someone kept a well-balanced life at school",
+            "C. To explain the dangers of stress and anxiety for students",
+            "D. To give advice on following a healthy diet"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn văn mở đầu: 'I had to learn how to have a well-balanced life' và liệt kê những việc đã làm → mục đích là chia sẻ cách cân bằng cuộc sống. Đáp án B đúng. A nói người nổi tiếng, C nói nguy hiểm, D chỉ nói về chế độ ăn — đều không đủ."
+        },
+        {
+          "id": "1b",
+          "question": "2. According to the passage, why did the writer communicate with family, friends, and teachers?",
+          "options": [
+            "A. To ask them to do his homework",
+            "B. To get extra lessons from teachers",
+            "C. So they would offer him additional support",
+            "D. To tell them about his healthy diet"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn văn ghi rõ: 'so they would offer me additional support' → để nhận được thêm sự hỗ trợ. Đáp án C đúng. A làm bài tập hộ, B học thêm, D chế độ ăn — đều không phải."
+        },
+        {
+          "id": "1c",
+          "question": "3. Which of the following is NOT mentioned as part of the writer's physical health routine?",
+          "options": [
+            "A. Getting at least eight hours of sleep",
+            "B. Playing football twice a week",
+            "C. Going swimming every weekend",
+            "D. Eating a lot of fruit and vegetables"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn văn liệt kê: ngủ 8 tiếng, đá bóng, đi bộ buổi sáng, ăn nhiều rau quả — không hề đề cập bơi lội. Đáp án C đúng (không được nhắc đến). A, B, D đều có trong văn bản."
+        },
+        {
+          "id": "1d",
+          "question": "4. The word \"appropriately\" in the passage is closest in meaning to ________.",
+          "options": [
+            "A. frequently",
+            "B. regularly",
+            "C. suitably",
+            "D. quickly"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Appropriately' = theo cách phù hợp, thích hợp với tình huống → gần nghĩa với 'suitably' (đáp án C). 'Frequently/regularly' = thường xuyên, 'quickly' = nhanh chóng — đều không đúng nghĩa."
+        },
+        {
+          "id": "1e",
+          "question": "5. What does the word \"they\" in the fourth paragraph refer to?",
+          "options": [
+            "A. family, friends, and teachers",
+            "B. stress and anxiety",
+            "C. breaks",
+            "D. tasks"
+          ],
+          "correctIndex": 2,
+          "explanation": "'They' trong câu 'they helped me keep away from stress' chỉ 'breaks' (những lần nghỉ ngơi) được nhắc đến ngay trước đó. Đáp án C đúng."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "reading-comprehension",
+      "passage": "We can manage our time effectively by (1) _____ some of these strategies. Firstly, it is important to (2) _____ clear and realistic goals and prioritise tasks accordingly. This means that you must identify (3) _____ is the most important and urgent and allocate time and resources (4)_____. Next, creating a schedule or to-do list can be helpful in staying (5) _____ track and ensuring that all tasks are completed within the time allotted. Thirdly, it is important to learn to say no to distractions and time-wasting activities such as checking social (6)_____. Instead, you should focus on the task at (7)_____ and work efficiently to complete it. Additionally, taking regular breaks and scheduling time for self-care activities can help increase (8)_____ and prevent burnout. Finally, it is essential to regularly review and adjust your schedule to ensure that you are making progress (9)_____ your goals and accommodating yourself to any working conditions in your life. By following these tips, you can make the most of your time, be more productive, and achieve success in all (10)_____ of your life.",
+      "questions": [
+        {
+          "id": "2a",
+          "question": "(1)",
+          "options": [
+            "A. making",
+            "B. following",
+            "C. doing",
+            "D. working"
+          ],
+          "correctIndex": 1,
+          "explanation": "'By + V-ing' là cấu trúc chỉ phương tiện/cách thức. 'Following strategies' = làm theo các chiến lược. Đáp án B đúng. 'making/doing/working strategies' đều không phải collocations tự nhiên trong ngữ cảnh này."
+        },
+        {
+          "id": "2b",
+          "question": "(2)",
+          "options": [
+            "A. achieve",
+            "B. get",
+            "C. reach",
+            "D. set"
+          ],
+          "correctIndex": 3,
+          "explanation": "'Set goals' là cụm từ cố định = đề ra mục tiêu. Đáp án D đúng. 'Achieve/reach goals' = đạt được mục tiêu (dùng sau khi đã có), 'get goals' không tự nhiên — đều không phù hợp ngữ cảnh đặt ra."
+        },
+        {
+          "id": "2c",
+          "question": "(3)",
+          "options": [
+            "A. what",
+            "B. who",
+            "C. when",
+            "D. where"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Identify what is the most important' — mệnh đề danh từ làm tân ngữ, dùng 'what' để chỉ sự việc/thứ gì đó. Đáp án A đúng. 'Who' chỉ người, 'when/where' chỉ thời gian/nơi chốn — không phù hợp."
+        },
+        {
+          "id": "2d",
+          "question": "(4)",
+          "options": [
+            "A. according",
+            "B. accordingly",
+            "C. accord",
+            "D. accordance"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sau động từ cần trạng từ bổ nghĩa → 'accordingly' (trạng từ, = tương ứng). Đáp án B đúng. 'According' cần 'to', 'accord/accordance' là danh từ — đều sai vị trí ngữ pháp."
+        },
+        {
+          "id": "2e",
+          "question": "(5)",
+          "options": [
+            "A. up",
+            "B. off",
+            "C. on",
+            "D. in"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Stay on track' là thành ngữ = đi đúng hướng, bám sát kế hoạch. Đáp án C đúng. 'Stay up' = thức khuya, 'stay off' không thành ngữ, 'stay in' = ở trong nhà — đều không đúng."
+        },
+        {
+          "id": "2f",
+          "question": "(6)",
+          "options": [
+            "A. medium",
+            "B. media",
+            "C. interaction",
+            "D. contact"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Social media' = mạng xã hội — cụm danh từ cố định. Đáp án B đúng. 'Medium' là số ít của 'media' (ít dùng trong nghĩa này), 'social interaction/contact' không phải cụm chỉ mạng xã hội."
+        },
+        {
+          "id": "2g",
+          "question": "(7)",
+          "options": [
+            "A. one",
+            "B. will",
+            "C. length",
+            "D. hand"
+          ],
+          "correctIndex": 3,
+          "explanation": "'At hand' = sẵn có, đang trước mắt — cụm thành ngữ quen thuộc. 'Focus on the task at hand' = tập trung vào nhiệm vụ trước mắt. Đáp án D đúng. 'At one/will/length' không tạo thành ngữ phù hợp trong ngữ cảnh này."
+        },
+        {
+          "id": "2h",
+          "question": "(8)",
+          "options": [
+            "A. product",
+            "B. produce",
+            "C. productivity",
+            "D. productive"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Increase + danh từ' → cần danh từ. 'Productivity' (n) = năng suất. Đáp án C đúng. 'Product' = sản phẩm (không phù hợp nghĩa), 'produce' = động từ/danh từ khác nghĩa, 'productive' = tính từ — không điền sau 'increase'."
+        },
+        {
+          "id": "2i",
+          "question": "(9)",
+          "options": [
+            "A. forwards",
+            "B. towards",
+            "C. in",
+            "D. on"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Make progress towards your goals' = đạt tiến bộ hướng tới mục tiêu — cụm cố định dùng 'towards'. Đáp án B đúng. 'Forwards' = về phía trước (phó từ riêng), 'in/on' không dùng trong cụm này."
+        },
+        {
+          "id": "2j",
+          "question": "(10)",
+          "options": [
+            "A. aspects",
+            "B. parts",
+            "C. features",
+            "D. sides"
+          ],
+          "correctIndex": 0,
+          "explanation": "'All aspects of your life' = mọi khía cạnh cuộc sống — cụm danh từ chuẩn. Đáp án A đúng. 'Parts' = các phần (thiên về vật lý), 'features' = đặc điểm, 'sides' = các mặt/cạnh — đều kém tự nhiên hơn 'aspects' trong văn viết."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "reading-comprehension",
+      "passage": "Goal setting is a crucial process that involves careful consideration of what you want to accomplish and requires persistent effort to make it a reality. Establishing goals gives you a target to strive for and helps to keep you motivated throughout the process. Goals also provide you with a focus and a way to measure your progress and accomplishments.\n\nIn the pursuit of a healthy lifestyle, setting realistic goals is the key to success. However, it is important to be realistic with yourself when setting these goals. If you want to quit smoking, lose a significant amount of weight, or run a marathon, it is unlikely to happen overnight, or even in a few months or a year.\n\nNot reaching those goals might be discouraging and lead to giving up altogether. To avoid feeling overwhelmed, it is advisable to start small and concentrate on one goal at a time. If you want to lose weight, make small and achievable goals. For example, you can start by working out at least three times a week or adding more vegetables to your meals when you want **seconds**.\n\nBy keeping a journal or using a tracking app on your phone, you can monitor your progress and ensure that you stay on track. Once these small goals become part of your routine, you can gradually add new goals, such as limiting eating out to twice a week or incorporating weightlifting into your exercise routine. These small goals are easier to achieve and will eventually lead to meeting your main goal.",
+      "questions": [
+        {
+          "id": "3a",
+          "question": "1. The first paragraph is about ______.",
+          "options": [
+            "A. why goal setting is important",
+            "B. how to set realistic goals",
+            "C. the importance of setting healthy goals",
+            "D. steps of setting an achievable goal"
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn đầu nói mục tiêu giúp bạn có động lực, tập trung và đo lường tiến độ → giải thích TẠI SAO việc đặt mục tiêu quan trọng. Đáp án A đúng. B cách đặt mục tiêu thực tế, C/D không phải ý chính đoạn 1."
+        },
+        {
+          "id": "3b",
+          "question": "2. What is one important thing to keep in mind when setting goals for a new healthy lifestyle?",
+          "options": [
+            "A. Making sure to set as many large goals as possible.",
+            "B. Focusing on one small goal at a time to avoid overwhelming yourself.",
+            "C. Ignoring small goals and only focusing on large ones.",
+            "D. Setting many large goals at once and making them more challenging."
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn 3 khuyên: 'start small and concentrate on one goal at a time' để tránh choáng ngợp → đáp án B đúng. A, C, D đều ngược với lời khuyên của văn bản."
+        },
+        {
+          "id": "3c",
+          "question": "3. The word \"seconds\" mostly means ____________.",
+          "options": [
+            "A. food that is sold at a lower price than usual because it is not good",
+            "B. a second amount of the food that you need to eat to lose weight",
+            "C. only half of the amount of the food that you need to eat every day",
+            "D. another serving of food, after you have eaten your first serving"
+          ],
+          "correctIndex": 3,
+          "explanation": "'Seconds' trong ngữ cảnh bữa ăn = phần ăn thêm (lần thứ hai). Câu 'adding more vegetables when you want seconds' = khi muốn ăn thêm. Đáp án D đúng. A/B/C đều sai nghĩa hoàn toàn."
+        },
+        {
+          "id": "3d",
+          "question": "4. What is an example of a small goal you could set when trying to lose weight?",
+          "options": [
+            "A. Losing a large amount of weight in a month.",
+            "B. Working out every day.",
+            "C. Adding more vegetables to your plate.",
+            "D. Being able to run a marathon in fifteen days."
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn văn đưa ví dụ: 'adding more vegetables to your meals' → đáp án C đúng. A/D là mục tiêu lớn/không thực tế, B tập hàng ngày không được đề cập — đều không phải ví dụ trong văn bản."
+        },
+        {
+          "id": "3e",
+          "question": "5. When small goals become part of our weekly routine, we should _________.",
+          "options": [
+            "A. give up on setting goals altogether",
+            "B. gradually add new goals",
+            "C. set other larger goals",
+            "D. ignore all of our progress"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn cuối: 'Once these small goals become part of your routine, you can gradually add new goals' → đáp án B đúng. A bỏ cuộc, C ngay lập tức đặt mục tiêu lớn, D bỏ qua tiến độ — đều sai."
+        },
+        {
+          "id": "3f",
+          "question": "6. What is one benefit of setting small goals, according to the passage?",
+          "options": [
+            "A. They are easier to achieve.",
+            "B. They will lead to meeting our main goal at once.",
+            "C. They will be more challenging than large goals.",
+            "D. They require more effort."
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn cuối: 'These small goals are easier to achieve and will eventually lead to meeting your main goal.' → lợi ích đầu tiên là dễ đạt được hơn. Đáp án A đúng. B 'at once' sai (văn bản dùng 'eventually'), C/D ngược nghĩa."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "reading-comprehension",
+      "passage": "Chi, a student at a specialised high school in Ha Noi, needs to have a well-balanced life because she wants to excel in her studies, pursue her passions and hobbies, etc. Below are some of the things she often does to achieve a well-balanced life.\n\nFirstly, Chi starts each day by planning her schedule and setting priorities for the day, making sure to allocate time for studying, extracurricular activities, and socialising. She also takes breaks throughout the day to relax and recharge.\n\nIn addition, Chi dedicates time to her hobbies, such as reading, listening to music, and doing sports. She believes that pursuing her passions brings her joy and a sense of fulfilment.\n\nChi also spends time with her family and friends regularly and makes an effort to stay in touch even when she is busy with schoolwork. She understands the importance of building and maintaining strong relationships with them.\n\nFinally, Chi gives priority to her physical and mental health. She gets enough sleep, eats a balanced diet, and does exercise regularly. She also practises mindfulness and meditation to manage stress and maintain a positive mindset.\n\nBy following these practices, we believe that Chi is on her way to achieving a fulfilling and well-balanced life.",
+      "questions": [
+        {
+          "id": "4a",
+          "question": "1. Chi plans her schedule at the start of each day to ________.",
+          "options": [
+            "A. make sure she has time for studying, activities, and socialising",
+            "B. avoid all extracurricular activities and focus only on studying",
+            "C. plan only her meals and exercise routine",
+            "D. keep track of her friends' schedules"
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn 2: 'Chi starts each day by planning her schedule… making sure to allocate time for studying, extracurricular activities, and socialising.' → mục đích là phân bổ thời gian cho cả ba việc. Đáp án A đúng. B, C, D không có trong văn bản."
+        },
+        {
+          "id": "4b",
+          "question": "2. Why does Chi dedicate time to hobbies like reading and music?",
+          "options": [
+            "A. Because her teachers require her to do so",
+            "B. Because she believes they bring her joy and a sense of fulfilment",
+            "C. Because hobbies help her get better grades",
+            "D. Because she has too much free time after school"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn 3: 'She believes that pursuing her passions brings her joy and a sense of fulfilment.' → lý do là niềm vui và sự thỏa mãn. Đáp án B đúng. A, C, D đều không có trong văn bản."
+        },
+        {
+          "id": "4c",
+          "question": "3. How does Chi maintain her relationships with family and friends?",
+          "options": [
+            "A. She only contacts them during school holidays",
+            "B. She stops studying completely to spend time with them",
+            "C. She makes an effort to stay in touch even when busy with schoolwork",
+            "D. She asks her friends to help with her homework"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn 4: 'makes an effort to stay in touch even when she is busy with schoolwork.' → cô cố gắng duy trì liên lạc kể cả khi bận học. Đáp án C đúng. A, B, D đều sai hoặc không được đề cập."
+        },
+        {
+          "id": "4d",
+          "question": "4. Which of the following does Chi do to manage stress and keep a positive mindset?",
+          "options": [
+            "A. She avoids all social activities",
+            "B. She practises mindfulness and meditation",
+            "C. She only eats healthy food and avoids exercise",
+            "D. She watches TV every evening"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn 5: 'She also practises mindfulness and meditation to manage stress and maintain a positive mindset.' → đáp án B đúng. A ngược nghĩa, C sai (cô tập thể dục đều), D không được đề cập."
+        },
+        {
+          "id": "4e",
+          "question": "5. The word \"fulfilment\" in the passage is closest in meaning to ________.",
+          "options": [
+            "A. disappointment",
+            "B. stress",
+            "C. satisfaction",
+            "D. boredom"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Fulfilment' = cảm giác thỏa mãn, trọn vẹn khi đạt được điều mình mong muốn → gần nghĩa với 'satisfaction'. Đáp án C đúng. 'Disappointment' = thất vọng, 'stress' = căng thẳng, 'boredom' = nhàm chán — đều ngược nghĩa."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "The word \"productivity\" in the cloze passage is closest in meaning to ________.",
+      "options": [
+        "A. relaxation",
+        "B. the rate at which work is done efficiently",
+        "C. a feeling of physical tiredness",
+        "D. the ability to stay focused without any breaks"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Productivity' = năng suất, mức độ làm việc hiệu quả trong một khoảng thời gian. Cloze passage dùng: 'help increase productivity' (giúp tăng năng suất). Đáp án B đúng. A = thư giãn, C = mệt mỏi, D = tập trung không nghỉ — đều sai nghĩa."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "The word \"accomplishments\" in the goal-setting passage is closest in meaning to ________.",
+      "options": [
+        "A. failures",
+        "B. difficulties",
+        "C. achievements",
+        "D. plans"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Accomplishments' = những điều đã hoàn thành thành công, thành tích. Câu: 'a way to measure your progress and accomplishments' → gần nghĩa với 'achievements'. Đáp án C đúng. 'Failures' = thất bại, 'difficulties' = khó khăn, 'plans' = kế hoạch — đều sai."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "The word \"persistent\" in the goal-setting passage is closest in meaning to ________.",
+      "options": [
+        "A. occasional",
+        "B. continuing firmly despite difficulties",
+        "C. done quickly without much thought",
+        "D. shared between many people"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Persistent effort' = nỗ lực kiên trì, không bỏ cuộc dù có khó khăn → gần nghĩa với 'continuing firmly despite difficulties'. Đáp án B đúng. A = thỉnh thoảng, C = làm nhanh, D = chia sẻ — đều không đúng nghĩa."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "The word \"allocate\" in the Chi passage is closest in meaning to ________.",
+      "options": [
+        "A. waste",
+        "B. borrow",
+        "C. set aside for a specific purpose",
+        "D. remove completely"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Allocate time' = phân bổ thời gian, dành thời gian cho một mục đích cụ thể. Đoạn Chi: 'allocate time for studying, extracurricular activities, and socialising'. Đáp án C đúng. A = lãng phí, B = mượn, D = loại bỏ — đều sai."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "The word \"discouraging\" in the goal-setting passage is closest in meaning to ________.",
+      "options": [
+        "A. motivating",
+        "B. making someone feel less confident or willing to continue",
+        "C. helping someone feel calm and relaxed",
+        "D. making a task more interesting"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Discouraging' = làm nản lòng, khiến người ta mất đi động lực hoặc sự tự tin. Câu: 'Not reaching those goals might be discouraging' = có thể khiến bạn nản lòng. Đáp án B đúng. A = tạo động lực, C = giúp thư giãn, D = thú vị hơn — đều trái nghĩa hoặc sai."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "\"I managed my time properly. I started to plan my schedule, made a weekly work list and gave priority to some of my work.\" Which is the best Vietnamese translation?",
+      "options": [
+        "A. Tôi quản lý thời gian đúng cách. Tôi bắt đầu lên kế hoạch, lập danh sách công việc hàng tuần và ưu tiên một số công việc của mình.",
+        "B. Tôi không có thời gian biểu. Tôi chỉ làm việc theo danh sách và không cần ưu tiên gì cả.",
+        "C. Tôi quản lý thời gian tốt bằng cách học thêm mỗi ngày và ưu tiên bài tập về nhà.",
+        "D. Tôi lên kế hoạch hàng tuần nhưng không thể ưu tiên công việc vì quá bận."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Managed my time properly' = quản lý thời gian đúng cách, 'plan my schedule' = lên kế hoạch, 'weekly work list' = danh sách công việc hàng tuần, 'gave priority' = ưu tiên. Đáp án A dịch chính xác và đầy đủ. B, C, D đều thêm hoặc bóp méo thông tin."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "\"Establishing goals gives you a target to strive for and helps to keep you motivated throughout the process.\" Which is the best Vietnamese translation?",
+      "options": [
+        "A. Thiết lập mục tiêu cho bạn một đích để phấn đấu và giúp bạn duy trì động lực trong suốt quá trình.",
+        "B. Đặt mục tiêu giúp bạn nghỉ ngơi và không phải nỗ lực quá nhiều.",
+        "C. Việc có mục tiêu khiến bạn lo lắng và mất động lực khi không đạt được.",
+        "D. Thiết lập mục tiêu chỉ cần thiết khi bạn muốn thay đổi lối sống nhanh chóng."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Establishing goals' = thiết lập mục tiêu, 'target to strive for' = đích để phấn đấu, 'motivated' = có động lực, 'throughout the process' = trong suốt quá trình. Đáp án A dịch đầy đủ và chính xác. B/C/D đều sai hoặc ngược nghĩa."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "\"Chi also spends time with her family and friends regularly and makes an effort to stay in touch even when she is busy with schoolwork.\" Which is the best Vietnamese translation?",
+      "options": [
+        "A. Chi chỉ gặp gia đình và bạn bè vào kỳ nghỉ và không giữ liên lạc khi bận học.",
+        "B. Chi thường xuyên dành thời gian cho gia đình và bạn bè, đồng thời cố gắng giữ liên lạc dù bận việc học.",
+        "C. Chi từ bỏ việc học để dành toàn bộ thời gian cho bạn bè và gia đình.",
+        "D. Chi và bạn bè cùng học bài để tiết kiệm thời gian và không cần gặp nhau riêng."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Spends time with… regularly' = thường xuyên dành thời gian, 'makes an effort' = cố gắng, 'stay in touch' = giữ liên lạc, 'even when busy' = dù bận. Đáp án B dịch đúng và đầy đủ. A ngược nghĩa, C/D thêm thông tin sai."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "\"To avoid feeling overwhelmed, it is advisable to start small and concentrate on one goal at a time.\" Which is the best Vietnamese translation?",
+      "options": [
+        "A. Để tránh cảm giác choáng ngợp, bạn nên bắt đầu từ việc nhỏ và tập trung vào từng mục tiêu một.",
+        "B. Để đạt nhiều mục tiêu lớn, bạn nên làm tất cả cùng một lúc và không bỏ qua mục tiêu nào.",
+        "C. Nếu cảm thấy quá tải, bạn chỉ cần dừng lại và không đặt thêm mục tiêu mới.",
+        "D. Bạn nên tập trung vào một mục tiêu lớn duy nhất thay vì chia nhỏ ra nhiều bước."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Avoid feeling overwhelmed' = tránh cảm giác choáng ngợp, 'advisable' = nên/được khuyến khích, 'start small' = bắt đầu từ việc nhỏ, 'one goal at a time' = từng mục tiêu một. Đáp án A dịch chính xác. B/C/D đều bóp méo hoặc đảo ngược ý nghĩa."
+    },
+    {
+      "id": 14,
+      "type": "reading-comprehension",
+      "passage": "When I was at school, I had to learn how to have a well-balanced life in order to reduce stress and anxiety. Below are some of the typical things I did.\n\nFirstly, I managed my time properly. I started to plan my schedule, made a weekly work list and gave priority to some of my work. This helped me concentrate my efforts on my most important tasks.\n\nIn addition, I communicated with my family, friends, and teachers about my busy schedule and problems, so they would offer me additional support.\n\nI also took breaks **appropriately** because **they** helped me keep away from stress and anxiety and gave my brain a rest and improved my mood.\n\nFinally, I looked after my physical health. I got at least eight hours of sleep a day. I played football with my classmates twice a week and went for a walk with my grandparents early every morning. Besides, I also tried to follow a healthy diet. I ate a lot of fruit and vegetables. I ate little fattening foods and avoided junk foods like chips, cookies, pizza, etc.",
+      "questions": [
+        {
+          "id": "14a",
+          "question": "1. Why did the teen celebrity have to learn how to have a well-balanced life when he was a student?",
+          "options": [
+            "A. To become more popular at school",
+            "B. To reduce stress and anxiety",
+            "C. To improve his academic grades",
+            "D. To spend more time with his grandparents"
+          ],
+          "correctIndex": 1,
+          "explanation": "Câu mở đầu ghi rõ: 'I had to learn how to have a well-balanced life in order to reduce stress and anxiety.' → mục đích là giảm căng thẳng và lo âu. Đáp án B đúng. A, C, D không được nêu làm lý do trong văn bản."
+        },
+        {
+          "id": "14b",
+          "question": "2. What did he do to manage his time properly?",
+          "options": [
+            "A. He hired a personal assistant to plan his schedule",
+            "B. He only focused on the most urgent tasks each day",
+            "C. He started to plan his schedule, made a weekly work list and gave priority to some of his work",
+            "D. He studied late at night and woke up early every morning"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn 2: 'I started to plan my schedule, made a weekly work list and gave priority to some of my work.' → ba hành động cụ thể để quản lý thời gian. Đáp án C đúng. A, B, D không phù hợp với nội dung văn bản."
+        },
+        {
+          "id": "14c",
+          "question": "3. Why did he communicate with his family, friends, and teachers about his schedules and problems?",
+          "options": [
+            "A. To ask them to complete his homework",
+            "B. To invite them to join his weekly activities",
+            "C. To inform them about his exam results",
+            "D. Because they would offer him additional support"
+          ],
+          "correctIndex": 3,
+          "explanation": "Đoạn 3 nêu lý do: 'so they would offer me additional support' → để nhận thêm sự hỗ trợ từ những người xung quanh. Đáp án D đúng. A, B, C đều không có trong văn bản."
+        },
+        {
+          "id": "14d",
+          "question": "4. Why did he take breaks?",
+          "options": [
+            "A. Because he had no more work to do",
+            "B. Because breaks helped him keep away from stress and anxiety, gave his brain a rest and improved his mood",
+            "C. Because his teachers told him to rest more often",
+            "D. Because he preferred relaxing to studying"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn 4: 'they helped me keep away from stress and anxiety and gave my brain a rest and improved my mood.' → ba lợi ích rõ ràng. Đáp án B đúng. A không hợp lý; C, D không được đề cập trong bài."
+        },
+        {
+          "id": "14e",
+          "question": "5. How did he follow a healthy diet?",
+          "options": [
+            "A. He ate only vegetables and drank fruit juice every day",
+            "B. He avoided all cooked food and ate raw food instead",
+            "C. He ate a lot of fruit and vegetables, ate little fattening foods, and avoided junk foods like chips, cookies, and pizza",
+            "D. He followed a strict diet plan given by his doctor"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn cuối: 'I ate a lot of fruit and vegetables. I ate little fattening foods and avoided junk foods like chips, cookies, pizza, etc.' → ba chi tiết cụ thể về chế độ ăn lành mạnh. Đáp án C đúng. A, B, D đều không phản ánh đúng nội dung văn bản."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": "reading-comprehension",
+      "passage": "Trang: I use a calendar to plan my work ahead. At the beginning of each term, I take a broad view of what I have to do by entering the due dates and test dates into a calendar. I often do these with different colours, for example, red for deadlines, green for exams ...\n\nPhong: I try to minimise distractions. Besides cell phones, social media, and friends, there are a lot of activities that can take my attention away from my schoolwork. When it's time to start my work, I turn off my cell phone and sign out of social media accounts.\n\nTom: I never leave homework until the day before it's due. I review my projects and coming tests and add them to my schedule. I arrange to start working on them well before they're due, so I'm not stressed out to meet the due dates.",
+      "questions": [
+        {
+          "id": "15a",
+          "question": "1. Trang enters what she has to do into a ________ at the beginning of each term.",
+          "options": [
+            "A. poster",
+            "B. routine",
+            "C. calendar",
+            "D. notebook"
+          ],
+          "correctIndex": 2,
+          "explanation": "Transcript ghi rõ: 'by entering the due dates and test dates into a calendar.' → Trang dùng lịch (calendar) để ghi lại việc cần làm. Đáp án C đúng. A = áp phích, B = thói quen, D = sổ tay — đều không phải."
+        },
+        {
+          "id": "15b",
+          "question": "2. Trang often uses ________ colours to mark project due dates and exam times on her calendar.",
+          "options": [
+            "A. different",
+            "B. the same",
+            "C. similar",
+            "D. favourite"
+          ],
+          "correctIndex": 0,
+          "explanation": "Transcript: 'I often do these with different colours, for example, red for deadlines, green for exams.' → Trang dùng màu sắc khác nhau để phân biệt. Đáp án A đúng. B/C = màu giống nhau/tương tự, D = màu yêu thích — đều không đúng."
+        },
+        {
+          "id": "15c",
+          "question": "3. Phong turns off his cell phone and signs out of social media ________ when he starts his work.",
+          "options": [
+            "A. accounts",
+            "B. networks",
+            "C. websites",
+            "D. groups"
+          ],
+          "correctIndex": 0,
+          "explanation": "Transcript: 'I turn off my cell phone and sign out of social media accounts.' → Phong đăng xuất khỏi tài khoản mạng xã hội. Đáp án A đúng. B = mạng lưới, C = trang web, D = nhóm — đều không đúng từ được dùng trong bài nghe."
+        },
+        {
+          "id": "15d",
+          "question": "4. Tom tries not to ________ homework until just before the due date.",
+          "options": [
+            "A. leave",
+            "B. complete",
+            "C. submit",
+            "D. check"
+          ],
+          "correctIndex": 0,
+          "explanation": "Transcript: 'I never leave homework until the day before it's due.' → Tom không bao giờ để bài tập đến sát hạn. Đáp án A (leave = bỏ lại/để dành) đúng. B = hoàn thành (ngược nghĩa), C = nộp, D = kiểm tra — đều không phù hợp."
+        },
+        {
+          "id": "15e",
+          "question": "5. Tom ________ his projects and coming tests and adds them to his schedule.",
+          "options": [
+            "A. prepares",
+            "B. reviews",
+            "C. revises",
+            "D. cancels"
+          ],
+          "correctIndex": 1,
+          "explanation": "Transcript: 'I review my projects and coming tests and add them to my schedule.' → Tom xem lại (reviews) các dự án và bài kiểm tra sắp tới. Đáp án B đúng. A = chuẩn bị, C = ôn lại (revise thường dùng cho thi cử), D = hủy bỏ — đều không khớp với transcript."
+        }
+      ]
+    }
+  ]
+}

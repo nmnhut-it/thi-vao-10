@@ -1,0 +1,512 @@
+{
+  "topicId": "reading-unit-05-our-experiences",
+  "title": "Unit 5: Our Experiences - Reading",
+  "section": "reading",
+  "knowledge": {
+    "html": "<h3>Unit 5: Our Experiences (Những Trải Nghiệm Của Chúng Ta)</h3><p>Unit 5 tập trung vào các trải nghiệm đáng nhớ trong cuộc sống — khóa học hè, chuyến cắm trại, những khoảnh khắc khó quên. Bài đọc thường kể về người thật, việc thật theo ngôi thứ nhất (I/We).</p><h4>Từ vựng trọng tâm</h4><ul><li><strong>unforgettable</strong> (adj): khó quên — <em>an unforgettable experience</em></li><li><strong>bully</strong> (v/n): bắt nạt — <em>I was bullied by my classmates</em></li><li><strong>helpless</strong> (adj): bất lực, không biết làm gì — <em>I felt helpless</em></li><li><strong>memorable</strong> (adj): đáng nhớ — <em>a memorable trip</em></li><li><strong>comfort zone</strong> (n): vùng an toàn — <em>leaving my comfort zone</em></li><li><strong>discipline</strong> (n): kỷ luật — <em>the cleanliness and discipline of the country</em></li><li><strong>ecological</strong> (adj): sinh thái — <em>ecological tourism centre</em></li><li><strong>souvenir</strong> (n): quà lưu niệm — <em>bought souvenirs for our parents</em></li></ul><h4>Mẹo đọc hiểu</h4><ul><li>Với bài điền từ (cloze), đọc cả câu trước và sau chỗ trống để hiểu ngữ cảnh — từ loại và nghĩa đều phải khớp.</li><li>Với câu hỏi \"NOT true\" hoặc \"did NOT\", hãy tìm từng đáp án trong bài và loại các đáp án có nhắc đến, chỉ còn lại đáp án không xuất hiện.</li><li>Câu hỏi đại từ (\"What does 'That' refer to?\") — quay lại câu ngay trước từ đó để tìm danh từ/cụm danh từ phù hợp.</li></ul>"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "reading-comprehension",
+      "passage": "Duong:\nI had a hard 10-day course in an army camp in Son Tay last summer. Everything was different from my life at home. We had to wake up at 5 a.m and attended classes which were like training courses for soldiers. In the evening, we read books or worked in teams. The team leaders walked us through many exciting activities. We also joined a performance that had the **theme**: environment protection. We could only call our parents once a day.\nWe also had touching moments when we received letters from our parents. I have never attended such a strict but exciting course like this.\n\nAkiko:\nI have been on an unforgettable summer course in America. I stayed in Thornwood campus on the outskirts of New York City for three weeks. We had an enjoyable campus tour, attended English classes, and joined team activities. We all tried to communicate in English. In the evening, we played board games and billiards. The most special experience was my visit to the top of Rockefeller Centre. From there, I could view the whole city below.\n**That** was the first time I travelled without my parents, so I felt like I grew up a lot after the trip.",
+      "questions": [
+        {
+          "id": "1a",
+          "question": "1. Duong and Akiko talked about ________.",
+          "options": [
+            "A. their English summer courses",
+            "B. experiences at summer courses",
+            "C. activities in summer",
+            "D. their army training"
+          ],
+          "correctIndex": 1,
+          "explanation": "Dương kể khóa học ở trại quân đội, Akiko kể khóa học hè ở Mỹ — cả hai đều chia sẻ trải nghiệm tại khóa học hè. Đáp án B đúng. A chỉ đúng cho Akiko, D chỉ đúng cho Dương."
+        },
+        {
+          "id": "1b",
+          "question": "2. What didn't Duong do during his course?",
+          "options": [
+            "A. Get up early.",
+            "B. Work as a leader.",
+            "C. Receive letters from home.",
+            "D. Work in teams."
+          ],
+          "correctIndex": 1,
+          "explanation": "Dương đã dậy sớm (A), nhận thư (C), làm việc nhóm (D) — nhưng không làm trưởng nhóm, chính trưởng nhóm dẫn dắt Dương. Đáp án B đúng."
+        },
+        {
+          "id": "1c",
+          "question": "3. The word \"theme\" means ________.",
+          "options": [
+            "A. performance",
+            "B. environment",
+            "C. activity",
+            "D. topic"
+          ],
+          "correctIndex": 3,
+          "explanation": "'Theme' = chủ đề, gần nghĩa nhất với 'topic' (đáp án D). Câu văn: 'a performance that had the theme: environment protection' — 'environment protection' là chủ đề của buổi biểu diễn."
+        },
+        {
+          "id": "1d",
+          "question": "4. The experience at Rockefeller Centre was ________ for Akiko.",
+          "options": [
+            "A. unforgettable",
+            "B. enjoyable",
+            "C. special",
+            "D. touching"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn văn viết rõ: 'The most special experience was my visit to the top of Rockefeller Centre' → đáp án C đúng. 'unforgettable' dùng cho toàn bộ khóa học, không riêng Rockefeller."
+        },
+        {
+          "id": "1e",
+          "question": "5. The word \"That\" refers to ________.",
+          "options": [
+            "A. travelling to America",
+            "B. touring the Thornwood campus",
+            "C. visiting Rockefeller Centre",
+            "D. viewing the city below"
+          ],
+          "correctIndex": 0,
+          "explanation": "'That was the first time I travelled without my parents' — 'That' chỉ toàn bộ chuyến đi Mỹ (travelling to America). Đáp án A đúng. Akiko đi Mỹ, không phải chỉ đến Rockefeller hay Thornwood."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "reading-comprehension",
+      "passage": "I will never forget that terrible day when I was bullied by my classmates. I (1)_____ a book from Mai - one of my peers. When I finished it, another girl, Linh in our group wanted to read it, so she asked to borrow it. Without much (2)_____, I gave the book to Linh, who then gave it back to Mai after finishing it. Mai took the book from Linh but still asked me to (3)_____ it. I felt (4)_____ and almost burst into tears. I decided (5)_____ our form teacher. After listening to my whole story, our form teacher asked Mai: \"Mai, do you really want (6)_____ copy of the same book?\". Then she said to Linh: \"Linh, give the book back to Hoa. You took it from Hoa.\" They stood there saying nothing. Then our teacher asked: \"Where's the book now?\" Mai got it out from her (7)_____ and gave it back to Linh. Linh gave it back to me with an apology. I could finally return it to Mai, who then felt (8)_____ about her trick.",
+      "questions": [
+        {
+          "id": "2a",
+          "question": "(1)",
+          "options": [
+            "A. borrowed",
+            "B. gave",
+            "C. bought",
+            "D. lent"
+          ],
+          "correctIndex": 0,
+          "explanation": "Hoa mượn sách của Mai → 'borrowed a book from Mai'. 'lent' = cho mượn (ngược chiều), 'gave' = tặng, 'bought' = mua — đều không đúng ngữ cảnh."
+        },
+        {
+          "id": "2b",
+          "question": "(2)",
+          "options": [
+            "A. listening",
+            "B. looking",
+            "C. worrying",
+            "D. thinking"
+          ],
+          "correctIndex": 3,
+          "explanation": "'Without much thinking' = không suy nghĩ nhiều → hành động bốc đồng khi đưa sách cho Linh. Đây là cụm 'without much thinking' thông dụng. Đáp án D đúng."
+        },
+        {
+          "id": "2c",
+          "question": "(3)",
+          "options": [
+            "A. keep",
+            "B. return",
+            "C. lend",
+            "D. give away"
+          ],
+          "correctIndex": 1,
+          "explanation": "Mai yêu cầu Hoa trả lại sách → 'return it' (trả lại). 'keep' = giữ lại (ngược nghĩa), 'lend' = cho mượn tiếp, 'give away' = cho hẳn — đều sai."
+        },
+        {
+          "id": "2d",
+          "question": "(4)",
+          "options": [
+            "A. helpless",
+            "B. hopeful",
+            "C. amazed",
+            "D. frightened"
+          ],
+          "correctIndex": 0,
+          "explanation": "Hoa bị bắt nạt, không biết làm gì và sắp khóc → 'helpless' (bất lực, không biết làm gì). 'hopeful' = đầy hy vọng, 'amazed' = ngạc nhiên, 'frightened' = sợ hãi — không khớp ngữ cảnh."
+        },
+        {
+          "id": "2e",
+          "question": "(5)",
+          "options": [
+            "A. telling",
+            "B. to tell",
+            "C. tell",
+            "D. told"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Decided to do sth' = quyết định làm gì → cần 'to + V'. 'decided to tell' là đúng. 'telling' theo sau 'decide' là sai ngữ pháp."
+        },
+        {
+          "id": "2f",
+          "question": "(6)",
+          "options": [
+            "A. other",
+            "B. a",
+            "C. another",
+            "D. some"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Another copy' = một bản sao khác — chỉ một cuốn sách khác cùng tên. 'another' = thêm một (danh từ đếm được số ít). 'other' cần danh từ số nhiều, 'a' không có nghĩa thêm, 'some' dùng số nhiều."
+        },
+        {
+          "id": "2g",
+          "question": "(7)",
+          "options": [
+            "A. backpack",
+            "B. suitcase",
+            "C. wallet",
+            "D. purse"
+          ],
+          "correctIndex": 0,
+          "explanation": "Học sinh thường mang 'backpack' (ba lô) đến lớp để đựng sách vở. 'suitcase' = vali, 'wallet' = ví tiền, 'purse' = ví nhỏ — không phù hợp hoàn cảnh trường học."
+        },
+        {
+          "id": "2h",
+          "question": "(8)",
+          "options": [
+            "A. happy",
+            "B. ashamed",
+            "C. excited",
+            "D. pleased"
+          ],
+          "correctIndex": 1,
+          "explanation": "Mai bị cô giáo vạch trần trò gian lận → cảm thấy 'ashamed' (xấu hổ). 'happy/excited/pleased' đều có nghĩa tích cực, không phù hợp sau khi bị bắt quả tang."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "reading-comprehension",
+      "passage": "I went to Singapore on my own for a ten-day summer course. There were about 15 students from China, Malaysia, Cambodia, India, and Iran in the course. We were all so surprised about the cleanliness and discipline of the country.\nOn the second day of the course, we had special team-building activities. We worked in groups of five from different countries to search for a location on a map that the school staff gave us. The time we spent doing the activity together was really memorable. We discussed how to find the place. After four hours of walking, taking the bus and metro as well as getting lost, we arrived at the destination.\nOver the remaining days, we attended English lessons. We worked on projects and culture workshops. We discussed and shared our own traditions and customs. During the time here, we also visited the Botanic Gardens, took photos in the orchard garden and explored Chinatown where we bought souvenirs for our parents and friends. At the weekend, we went to the Discovery Centre. We were impressed by the attraction and interactive gallery as well as the brilliant learning experiences we had.\nAfter the trip, I felt proud of myself for being able to go without my parents and leaving my comfort zone.",
+      "questions": [
+        {
+          "id": "3a",
+          "question": "1. The course ________.",
+          "options": [
+            "A. was on the 10th June",
+            "B. lasted 10 days",
+            "C. lasted 15 days",
+            "D. started on the 10th June"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn văn: 'a ten-day summer course' → khóa học kéo dài 10 ngày. Đáp án B đúng. '15 students' là số học sinh, không phải số ngày. Không có thông tin về ngày bắt đầu."
+        },
+        {
+          "id": "3b",
+          "question": "2. The author had ________ in Singapore.",
+          "options": [
+            "A. a special day",
+            "B. a touring trip",
+            "C. a photo session",
+            "D. English lessons"
+          ],
+          "correctIndex": 3,
+          "explanation": "Đoạn văn: 'we attended English lessons' → đáp án D đúng. Dù có tham quan (B) và chụp ảnh (C), câu hỏi hỏi hoạt động chính của khóa học."
+        },
+        {
+          "id": "3c",
+          "question": "3. In English lessons, the students ________.",
+          "options": [
+            "A. learnt grammar and reading",
+            "B. worked on projects",
+            "C. attended formal workshops",
+            "D. learnt about Singapore's culture"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn văn: 'we attended English lessons. We worked on projects and culture workshops' → trong giờ học, học sinh làm dự án (projects). Đáp án B đúng. Văn bản không nói học ngữ pháp hay học văn hóa Singapore."
+        },
+        {
+          "id": "3d",
+          "question": "4. Which of the following did they NOT do at the Discovery Centre?",
+          "options": [
+            "A. Got learning experiences",
+            "B. Bought souvenirs",
+            "C. Visited an interactive gallery",
+            "D. Saw the attraction"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn văn: họ mua quà lưu niệm ở Chinatown, không phải Discovery Centre. Tại Discovery Centre họ thấy 'attraction', 'interactive gallery' và 'brilliant learning experiences'. Đáp án B đúng."
+        },
+        {
+          "id": "3e",
+          "question": "5. What does the author mean by \"leaving my comfort zone\"?",
+          "options": [
+            "A. getting away from parents",
+            "B. getting to a place that is comfortable",
+            "C. escaping a safe and comfortable situation",
+            "D. experiencing something comfortable"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Comfort zone' = vùng an toàn, nơi ta quen thuộc và thoải mái. 'Leaving my comfort zone' = bước ra khỏi vùng an toàn, dám thử điều mới. Đáp án C đúng."
+        },
+        {
+          "id": "3f",
+          "question": "6. The passage is about ________.",
+          "options": [
+            "A. the author's experiences on a summer course",
+            "B. how the author got out of her comfort zone",
+            "C. the author's English class in Singapore",
+            "D. special team-building activities in Singapore"
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn văn kể nhiều trải nghiệm trong khóa học hè ở Singapore: team-building, học tiếng Anh, tham quan... → ý chính là toàn bộ trải nghiệm khóa học. Đáp án A đúng."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "4. The word \"discipline\" in the passage (Exercise 3) is closest in meaning to ________.",
+      "options": [
+        "A. cleanliness",
+        "B. obedience to rules",
+        "C. kindness",
+        "D. organization"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Discipline' = kỷ luật, tuân thủ quy tắc — gần nghĩa nhất với 'obedience to rules' (đáp án B). Câu văn: 'surprised about the cleanliness and discipline of the country' — 'cleanliness' đi cùng 'discipline' nên không thể là đáp án A."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "5. The word \"memorable\" is closest in meaning to ________.",
+      "options": [
+        "A. forgettable",
+        "B. boring",
+        "C. unforgettable",
+        "D. ordinary"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Memorable' = đáng nhớ, khó quên — đồng nghĩa với 'unforgettable' (đáp án C). 'forgettable' = dễ quên (ngược nghĩa), 'boring' = chán, 'ordinary' = bình thường — đều sai."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "6. Choose the word that is closest in meaning to \"helpless\" as used in the bullying passage.",
+      "options": [
+        "A. powerful",
+        "B. unable to do anything",
+        "C. confident",
+        "D. frightened"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Helpless' = bất lực, không làm được gì — gần nghĩa nhất với 'unable to do anything' (đáp án B). 'powerful' = quyền lực (ngược), 'confident' = tự tin (ngược), 'frightened' = sợ hãi (không giống bằng)."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "7. In the Ba Vi camping passage, the word \"ecological\" is closest in meaning to ________.",
+      "options": [
+        "A. historical",
+        "B. industrial",
+        "C. relating to the natural environment",
+        "D. relating to city life"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Ecological' = liên quan đến sinh thái, môi trường tự nhiên — đáp án C đúng. 'historical' = lịch sử, 'industrial' = công nghiệp, 'city life' = đời sống đô thị — đều không phù hợp với rừng quốc gia Ba Vì."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "8. The phrase \"burst into tears\" in the bullying passage means ________.",
+      "options": [
+        "A. start laughing suddenly",
+        "B. start crying suddenly",
+        "C. feel angry suddenly",
+        "D. shout loudly"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Burst into tears' = bật khóc đột ngột — đáp án B đúng. 'burst into laughter' = cười bật lên. Cụm 'burst into + noun' diễn tả hành động xảy ra đột ngột và mạnh mẽ."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "9. Chọn nghĩa tiếng Việt đúng: \"I have never attended such a strict but exciting course like this.\"",
+      "options": [
+        "A. Tôi chưa bao giờ tham gia một khóa học nghiêm ngặt nhưng thú vị như thế này.",
+        "B. Tôi không muốn tham gia khóa học nghiêm ngặt như thế này.",
+        "C. Tôi đã từng tham gia nhiều khóa học nghiêm ngặt và thú vị.",
+        "D. Tôi thấy khóa học này quá nghiêm ngặt và không thú vị."
+      ],
+      "correctIndex": 0,
+      "explanation": "'I have never attended such a ... course' → hiện tại hoàn thành phủ định = 'chưa bao giờ tham gia'. 'strict but exciting' = nghiêm ngặt nhưng thú vị. Đáp án A dịch đúng hoàn toàn."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "10. Chọn nghĩa tiếng Việt đúng: \"After the trip, I felt proud of myself for being able to go without my parents.\"",
+      "options": [
+        "A. Sau chuyến đi, tôi tự hào vì đã có thể đi mà không cần bố mẹ.",
+        "B. Sau chuyến đi, tôi nhớ bố mẹ vì phải đi một mình.",
+        "C. Sau chuyến đi, tôi tự hào vì bố mẹ đã đi cùng tôi.",
+        "D. Trước chuyến đi, tôi lo lắng vì phải đi một mình."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Felt proud of myself' = tự hào về bản thân, 'for being able to go without my parents' = vì có thể đi mà không có bố mẹ. Đáp án A dịch đúng. B nhớ bố mẹ (sai), C bố mẹ đi cùng (ngược), D trước chuyến đi (sai thì)."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "11. Chọn nghĩa tiếng Việt đúng: \"We worked in groups of five from different countries to search for a location on a map.\"",
+      "options": [
+        "A. Chúng tôi làm việc theo nhóm năm người từ các nước khác nhau để tìm một địa điểm trên bản đồ.",
+        "B. Chúng tôi làm việc một mình để vẽ bản đồ của năm quốc gia khác nhau.",
+        "C. Chúng tôi tìm năm địa điểm trên bản đồ cùng với bạn bè.",
+        "D. Chúng tôi làm việc theo nhóm để học cách đọc bản đồ từ năm quốc gia."
+      ],
+      "correctIndex": 0,
+      "explanation": "'groups of five' = nhóm năm người, 'from different countries' = từ các nước khác nhau, 'search for a location' = tìm một địa điểm. Đáp án A dịch đúng. B 'một mình', C 'năm địa điểm', D 'học cách đọc bản đồ' — đều sai."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "12. Chọn nghĩa tiếng Việt đúng: \"We were all so surprised about the cleanliness and discipline of the country.\"",
+      "options": [
+        "A. Tất cả chúng tôi đều rất ngạc nhiên về sự sạch sẽ và kỷ luật của đất nước.",
+        "B. Tất cả chúng tôi đều rất ấn tượng về vẻ đẹp và kỷ luật của đất nước.",
+        "C. Chúng tôi không ngờ đất nước này lại không sạch sẽ như vậy.",
+        "D. Chúng tôi ngạc nhiên vì kỷ luật của đất nước quá khắt khe."
+      ],
+      "correctIndex": 0,
+      "explanation": "'surprised about' = ngạc nhiên về, 'cleanliness' = sự sạch sẽ, 'discipline' = kỷ luật. Đáp án A dịch đúng. B 'vẻ đẹp' không đúng ('cleanliness' = sạch sẽ), C phủ định (sai), D 'khắt khe' thêm ý không có trong câu."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "13. Chọn nghĩa tiếng Việt đúng: \"We learnt much about the culture associated with the legend Son Tinh and Thuy Tinh from our guide.\"",
+      "options": [
+        "A. Chúng tôi học được nhiều điều về văn hóa liên quan đến truyền thuyết Sơn Tinh và Thủy Tinh từ hướng dẫn viên.",
+        "B. Hướng dẫn viên kể cho chúng tôi nghe về lịch sử của đền Thượng và hai vị thần.",
+        "C. Chúng tôi đọc sách về truyền thuyết Sơn Tinh và Thủy Tinh tại đền Thượng.",
+        "D. Hướng dẫn viên dạy chúng tôi múa theo phong tục liên quan đến Sơn Tinh."
+      ],
+      "correctIndex": 0,
+      "explanation": "'learnt much about the culture' = học nhiều về văn hóa, 'associated with the legend' = liên quan đến truyền thuyết, 'from our guide' = từ hướng dẫn viên. Đáp án A dịch đầy đủ và chính xác nhất."
+    }
+    ,
+    {
+      "id": 14,
+      "type": "reading-comprehension",
+      "passage": "Duong:\nI had a hard 10-day course in an army camp in Son Tay last summer. Everything was different from my life at home. We had to wake up at 5 a.m and attended classes which were like training courses for soldiers. In the evening, we read books or worked in teams. The team leaders walked us through many exciting activities. We also joined a performance that had the **theme**: environment protection. We could only call our parents once a day.\nWe also had touching moments when we received letters from our parents. I have never attended such a strict but exciting course like this.\n\nAkiko:\nI have been on an unforgettable summer course in America. I stayed in Thornwood campus on the outskirts of New York City for three weeks. We had an enjoyable campus tour, attended English classes, and joined team activities. We all tried to communicate in English. In the evening, we played board games and billiards. The most special experience was my visit to the top of Rockefeller Centre. From there, I could view the whole city below.\n**That** was the first time I travelled without my parents, so I felt like I grew up a lot after the trip.",
+      "questions": [
+        {
+          "id": "14a",
+          "question": "1. Who attended an English course?",
+          "options": [
+            "A. Duong",
+            "B. Akiko",
+            "C. Both Duong and Akiko",
+            "D. Neither Duong nor Akiko"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn văn về Akiko: 'attended English classes' → chỉ Akiko tham gia lớp học tiếng Anh. Duong tham gia khóa huấn luyện quân sự, không phải khóa tiếng Anh. Đáp án B đúng."
+        },
+        {
+          "id": "14b",
+          "question": "2. Who attended an army-like course?",
+          "options": [
+            "A. Duong",
+            "B. Akiko",
+            "C. Both Duong and Akiko",
+            "D. Neither Duong nor Akiko"
+          ],
+          "correctIndex": 0,
+          "explanation": "Dương: 'I had a hard 10-day course in an army camp' — đây là khóa học kiểu quân đội. Akiko học ở khuôn viên Thornwood, không có yếu tố quân sự. Đáp án A đúng."
+        },
+        {
+          "id": "14c",
+          "question": "3. Who joined a performance?",
+          "options": [
+            "A. Duong",
+            "B. Akiko",
+            "C. Both Duong and Akiko",
+            "D. Neither Duong nor Akiko"
+          ],
+          "correctIndex": 0,
+          "explanation": "Dương: 'We also joined a performance that had the theme: environment protection' → chỉ Dương tham gia buổi biểu diễn. Đoạn văn về Akiko không nhắc đến performance. Đáp án A đúng."
+        },
+        {
+          "id": "14d",
+          "question": "4. Who toured a campus?",
+          "options": [
+            "A. Duong",
+            "B. Akiko",
+            "C. Both Duong and Akiko",
+            "D. Neither Duong nor Akiko"
+          ],
+          "correctIndex": 1,
+          "explanation": "Akiko: 'We had an enjoyable campus tour' → chỉ Akiko tham quan khuôn viên trường. Dương ở trại quân đội ở Sơn Tây, không có 'campus tour'. Đáp án B đúng."
+        },
+        {
+          "id": "14e",
+          "question": "5. Who received letters from home?",
+          "options": [
+            "A. Duong",
+            "B. Akiko",
+            "C. Both Duong and Akiko",
+            "D. Neither Duong nor Akiko"
+          ],
+          "correctIndex": 0,
+          "explanation": "Dương: 'We also had touching moments when we received letters from our parents' → chỉ Dương nhận thư từ nhà. Đoạn Akiko không đề cập đến thư. Đáp án A đúng."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": "reading-comprehension",
+      "passage": "Minh: Dad, what was your worst experience at school?\nDad: A classmate bullied me.\nMinh: Really? What happened, dad?\nDad: A big boy in my class was always taking my things. I could never get anything back. Once he and his friends waited for me outside the school and snatched my backpack. They got all my money.\nMinh: What did you do then?\nDad: I was so angry that I fought back.\nMinh: Wow. What happened next?\nDad: He was totally surprised. But then he returned my money and went away ... What about you?\nMinh: Well, it was just last week. My biology teacher checked our understanding of the previous lesson. My mind suddenly went blank. I stood there and couldn't say anything. I felt so embarrassed!\nDad: So what happened then?\nMinh: I got a zero.\nDad: Sorry about that.\nMinh: It was such a terrible experience.\nDad: Didn't you revise the lesson?\nMinh: I did. But I actually learnt it by rote without really understanding the lesson.",
+      "questions": [
+        {
+          "id": "15a",
+          "question": "1. Dad and Minh are talking about ________.",
+          "options": [
+            "A. dad's experience",
+            "B. Minh's experience",
+            "C. experiences of Minh and his dad",
+            "D. bad experiences at school in general"
+          ],
+          "correctIndex": 2,
+          "explanation": "Minh hỏi bố về trải nghiệm tệ nhất, rồi bố hỏi lại Minh — cả hai đều kể câu chuyện của mình. Đáp án C đúng. A chỉ đúng cho bố, B chỉ đúng cho Minh."
+        },
+        {
+          "id": "15b",
+          "question": "2. Dad's classmates often ________ him.",
+          "options": [
+            "A. bullied",
+            "B. helped",
+            "C. argued with",
+            "D. ignored"
+          ],
+          "correctIndex": 0,
+          "explanation": "Bố kể: 'A classmate bullied me' và 'A big boy in my class was always taking my things' → bạn cùng lớp thường bắt nạt bố. Đáp án A đúng. Các đáp án còn lại đi ngược nội dung."
+        },
+        {
+          "id": "15c",
+          "question": "3. Minh's dad ________ the bullies.",
+          "options": [
+            "A. ran away from",
+            "B. shouted at",
+            "C. fought",
+            "D. reported to the teacher"
+          ],
+          "correctIndex": 2,
+          "explanation": "Bố nói: 'I was so angry that I fought back' → bố đánh lại những kẻ bắt nạt. Đáp án C đúng. 'ran away' và 'shouted' không có trong đoạn hội thoại."
+        },
+        {
+          "id": "15d",
+          "question": "4. Minh got a low mark because he ________.",
+          "options": [
+            "A. reviewed the lesson",
+            "B. learnt the lesson by rote",
+            "C. learnt the lesson by heart",
+            "D. forgot to revise the lesson"
+          ],
+          "correctIndex": 1,
+          "explanation": "Minh thừa nhận: 'I actually learnt it by rote without really understanding the lesson' → học vẹt mà không hiểu bài. Đáp án B đúng. 'by heart' (C) = thuộc lòng có hiểu, còn 'by rote' = thuộc lòng máy móc — khác nhau."
+        }
+      ]
+    }
+  ]
+}

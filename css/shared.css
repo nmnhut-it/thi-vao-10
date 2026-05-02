@@ -324,6 +324,14 @@ button {
 .home-stat__value--success { color: var(--success); }
 .home-stat__value--warning { color: var(--accent-orange); }
 
+.passage-target {
+  background: var(--primary-light);
+  color: var(--primary-dark);
+  padding: 0 3px;
+  border-radius: 3px;
+  font-weight: 700;
+}
+
 /* ============================================
    SECTION LABELS — Colored mini-badges
    ============================================ */

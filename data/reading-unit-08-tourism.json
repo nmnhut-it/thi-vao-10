@@ -1,0 +1,465 @@
+{
+  "topicId": "reading-unit-08-tourism",
+  "title": "Unit 8: Tourism - Reading",
+  "section": "reading",
+  "knowledge": {
+    "html": "<h3>Unit 8: Tourism</h3><p>Bài đọc Unit 8 xoay quanh chủ đề du lịch — từ hai loại hình tour phổ biến nhất (tour trọn gói và tour tự túc), đến tác động của du lịch đối với kinh tế và văn hóa địa phương, cũng như xu hướng du lịch bền vững ngày nay.</p><h4>Từ vựng trọng tâm</h4><ul><li><strong>package tour</strong> — tour du lịch trọn gói (mọi thứ được sắp xếp sẵn)</li><li><strong>self-guided tour</strong> — tour tự túc (tự lên kế hoạch)</li><li><strong>itinerary</strong> — lịch trình, hành trình du lịch</li><li><strong>accommodation</strong> — chỗ ở, nơi lưu trú</li><li><strong>destination</strong> — điểm đến</li><li><strong>flexible</strong> — linh hoạt, dễ thay đổi</li><li><strong>sustainable</strong> — bền vững (về môi trường và kinh tế)</li><li><strong>homestay</strong> — hình thức ở trọ nhà dân địa phương</li></ul><h4>Mẹo đọc hiểu</h4><ul><li>Câu hỏi chủ đề (main idea): đọc câu đầu và câu cuối mỗi đoạn để tóm tắt ý chính.</li><li>Câu hỏi từ vựng trong ngữ cảnh (vocabulary in context): tìm từ trong câu gốc, dùng ngữ nghĩa xung quanh để suy ra nghĩa.</li><li>Câu hỏi INCORRECT / NOT TRUE: loại bỏ ba đáp án có bằng chứng trong bài, đáp án còn lại là đúng.</li></ul>"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "reading-comprehension",
+      "passage": "The two most popular types of tours now are package and self-guided tours.\n\nWhen you buy a package tour, a travel agency takes care of almost everything for you. You will get a notice about the places of your visit, the detailed itinerary, and the cost. They will protect you if something goes wrong during the trip. This type of holiday saves time and reduces stress for travellers. It offers a convenient option for people who are elderly, who do not want to spend much time searching on their own, or who are not confident about using online apps. One disadvantage of this type is you have to follow a **fixed** itinerary.\n\nNowadays, more young people choose self-guided tours which require them to do everything on their own. **They** have to look for a destination, work out an itinerary, and estimate the cost. They then hunt for tickets and accommodation, usually homestay. This type of holiday may require people more time and effort, but it is cheaper and more flexible than a package holiday. It gives travellers more freedom to decide where to go and how much time and money to spend at a place. However, to have a smooth trip and avoid trouble, these travellers should be good at using apps.",
+      "questions": [
+        {
+          "id": "1a",
+          "question": "1. What is the main idea of the passage?",
+          "options": [
+            "A. Package tours are better than self-guided tours.",
+            "B. Young people prefer cheaper holidays.",
+            "C. Two popular types of tours and their features.",
+            "D. Travel agencies provide the best service for tourists."
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn văn trình bày đặc điểm của cả hai loại tour (trọn gói và tự túc) — không thiên về loại nào → đáp án C tóm tắt đúng nhất. A/B/D chỉ phản ánh một phần."
+        },
+        {
+          "id": "1b",
+          "question": "2. According to the passage, which of the following is TRUE about package tours?",
+          "options": [
+            "A. Travellers must plan their own itinerary.",
+            "B. They are suitable for people who dislike using apps.",
+            "C. They are cheaper than self-guided tours.",
+            "D. They give travellers complete freedom to change plans."
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn 2 nêu: package tour phù hợp với người 'not confident about using online apps' — không tự tin dùng app. Đáp án B đúng. A sai (không cần tự lên kế hoạch), C sai (tự túc mới rẻ hơn), D sai (lịch trình cố định)."
+        },
+        {
+          "id": "1c",
+          "question": "3. Which of the following is NOT TRUE about self-guided tours?",
+          "options": [
+            "A. Travellers have to arrange tickets and accommodation themselves.",
+            "B. They are more flexible than package tours.",
+            "C. A travel agency handles all the bookings for the traveller.",
+            "D. They are generally cheaper than package tours."
+          ],
+          "correctIndex": 2,
+          "explanation": "Đặc điểm của self-guided tour là tự làm mọi thứ — không có travel agency hỗ trợ. Đáp án C sai (đó là đặc điểm của package tour). A, B, D đều đúng theo bài."
+        },
+        {
+          "id": "1d",
+          "question": "4. The word \"fixed\" in the passage is closest in meaning to ________.",
+          "options": [
+            "A. flexible",
+            "B. expensive",
+            "C. set and unchanging",
+            "D. easy to follow"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Fixed' trong 'fixed itinerary' = cố định, không thay đổi được — gần nghĩa với 'set and unchanging'. Đáp án C đúng. A 'flexible' = linh hoạt — nghĩa trái ngược."
+        },
+        {
+          "id": "1e",
+          "question": "5. The word \"they\" in the last paragraph refers to ________.",
+          "options": [
+            "A. travel agencies",
+            "B. self-guided tour travellers",
+            "C. package tour operators",
+            "D. elderly people"
+          ],
+          "correctIndex": 1,
+          "explanation": "'They' ở đầu câu 'They have to look for a destination...' chỉ 'more young people' đã chọn self-guided tours được đề cập câu trước → đại từ chỉ những người đi tour tự túc. Đáp án B đúng."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "reading-comprehension",
+      "passage": "The Plain of Jars in Laos is one of the most mysterious archaeological sites in the world. There are thousands of stone jars scattered around the central plain of the Xiangkhoang Plateau. Many jars were dated as far back as 1350 B.C. The jars are in clusters and range in numbers. They are cylindrical in shape and from one to over three metres in height.\n\nArchaeologists have not found any stone lids. This suggests that the jars did not have lids or the lids were made of materials which did not last long. Archaeologists are still not sure about the function of the jars. One theory suggests that the jars were used to bury people. Another theory proposes that the jars were used to collect rainwater during the monsoon season. However, Lao legend claims that there were giants who once settled in this plateau. They created jars to brew and store rice wine which they used to celebrate the victories of their King Khun Cheung against the enemy.\n\nIn 2019, the Plain of Jars became a UNESCO World Heritage Site. Today, it is a well-known tourist destination, which attracts hundreds of thousands of visitors a year.",
+      "questions": [
+        {
+          "id": "2a",
+          "question": "1. The Xiangkhoang Plateau is in Laos.",
+          "options": [
+            "A. True",
+            "B. False"
+          ],
+          "correctIndex": 0,
+          "explanation": "Câu đầu bài nêu rõ: 'The Plain of Jars in Laos' — cao nguyên Xiangkhoang nằm ở Lào. Đáp án A (True) đúng."
+        },
+        {
+          "id": "2b",
+          "question": "2. All the jars are at least three centuries old.",
+          "options": [
+            "A. True",
+            "B. False"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bài nêu 'Many jars were dated as far back as 1350 B.C.' — chỉ 'many' (nhiều), không phải tất cả. Ngoài ra 'three centuries' = 300 năm, trong khi các bình cổ hơn rất nhiều. Đáp án B (False) đúng."
+        },
+        {
+          "id": "2c",
+          "question": "3. Archaeologists are sure that these jars had lids.",
+          "options": [
+            "A. True",
+            "B. False"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bài nêu 'Archaeologists have not found any stone lids' và 'Archaeologists are still not sure about the function of the jars' — không chắc chắn, không tìm thấy nắp. Đáp án B (False) đúng."
+        },
+        {
+          "id": "2d",
+          "question": "4. People might have used the jars to bury dead people.",
+          "options": [
+            "A. True",
+            "B. False"
+          ],
+          "correctIndex": 0,
+          "explanation": "Bài nêu 'One theory suggests that the jars were used to bury people' — một giả thuyết cho rằng bình dùng để chôn cất người. Đáp án A (True) đúng."
+        },
+        {
+          "id": "2e",
+          "question": "5. The Lao people believe that giant people once lived in the Xiangkhoang Plateau.",
+          "options": [
+            "A. True",
+            "B. False"
+          ],
+          "correctIndex": 0,
+          "explanation": "Bài nêu 'Lao legend claims that there were giants who once settled in this plateau' — truyền thuyết Lào kể về những người khổng lồ từng sống ở cao nguyên này. Đáp án A (True) đúng."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "reading-comprehension",
+      "passage": "Tourism in Viet Nam has seen a lot of changes in recent years. For backpackers, culture and nature lovers, military veterans, Viet Nam has become a new tourist destination in Southeast Asia. International tourist arrivals to Viet Nam have continuously risen. In 2008, Viet Nam received 4.218 million tourists. In 2012, the number rose to 6.84 million. Four years later, the country welcomed 10 million international visitors, and in 2019, it was 18 million. This increase made Viet Nam the fifth most visited country in the Asia-Pacific region. By March 2023, the four countries with the largest numbers of visitors to Viet Nam are South Korea, the USA, Thailand, and China.\n\nThe most attractive destinations in Viet Nam are national parks like Cuc Phuong, Phong Nha Ke Bang, Cape Ca Mau, and World Heritage Sites like Ha Long Bay, Hue, and Hoi An. Tourism is important to the country's economy. For example, in 2016, tourism contributed 6.6 per cent to gross domestic product (GDP) equal to VND 279,287 billion. **It** has also helped to promote the development of related sectors, such as hotels, transportation, entertainment, and food.",
+      "questions": [
+        {
+          "id": "3a",
+          "question": "1. Most tourists to Viet Nam are interested in its ________.",
+          "options": [
+            "A. medical treatment",
+            "B. history",
+            "C. entertainment",
+            "D. culture"
+          ],
+          "correctIndex": 3,
+          "explanation": "Đoạn 1 nêu 'For backpackers, culture and nature lovers, military veterans' — du khách quan tâm đến văn hóa và thiên nhiên. Đáp án D (culture) đúng nhất trong các lựa chọn. A/B/C không được bài nhấn mạnh."
+        },
+        {
+          "id": "3b",
+          "question": "2. In 2019, the number of international tourists to Viet Nam was roughly ________ as big as that in 2008.",
+          "options": [
+            "A. four times",
+            "B. twice",
+            "C. one and a half times",
+            "D. six times"
+          ],
+          "correctIndex": 0,
+          "explanation": "Năm 2008 có 4.218 triệu khách; năm 2019 có 18 triệu khách. 18 ÷ 4.218 ≈ 4,27 — gấp khoảng bốn lần. Đáp án A (four times) đúng."
+        },
+        {
+          "id": "3c",
+          "question": "3. Phong Nha Ke Bang is an example of a ________ in Viet Nam.",
+          "options": [
+            "A. architectural attraction",
+            "B. cultural destination",
+            "C. national park",
+            "D. historical site"
+          ],
+          "correctIndex": 2,
+          "explanation": "Bài nêu 'national parks like Cuc Phuong, Phong Nha Ke Bang, Cape Ca Mau' — Phong Nha Ke Bang được liệt kê là vườn quốc gia. Đáp án C đúng."
+        },
+        {
+          "id": "3d",
+          "question": "4. The development of tourism ________ the development of transportation.",
+          "options": [
+            "A. is not related to",
+            "B. leads to",
+            "C. depends on",
+            "D. prevents"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bài nêu du lịch 'helped to promote the development of related sectors, such as hotels, transportation...' — du lịch thúc đẩy sự phát triển của giao thông vận tải, tức là dẫn đến. Đáp án B (leads to) đúng."
+        },
+        {
+          "id": "3e",
+          "question": "5. The word \"it\" in the last paragraph refers to ________.",
+          "options": [
+            "A. 2019",
+            "B. Viet Nam",
+            "C. the number of international tourists",
+            "D. the increase in tourism"
+          ],
+          "correctIndex": 2,
+          "explanation": "'It has also helped to promote the development...' — 'it' chỉ chủ ngữ gần nhất ở đầu đoạn cuối: 'Tourism' (ngành du lịch) đóng vai trò là số liệu GDP, ngữ cảnh chỉ số lượng khách du lịch tăng liên tục. Đáp án C (the number of international tourists) phù hợp nhất với mạch nghĩa."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "The word \"scattered\" in the Plain of Jars passage is closest in meaning to ________.",
+      "options": [
+        "A. spread over a wide area",
+        "B. buried underground",
+        "C. arranged in neat rows",
+        "D. hidden inside caves"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Scattered' = rải rác, phân tán trên một diện tích rộng — gần nghĩa với 'spread over a wide area'. Bài nêu hàng nghìn chiếc bình đá rải rác khắp cao nguyên Xiangkhoang. Đáp án A đúng. B 'chôn dưới đất', C 'xếp thành hàng ngay ngắn', D 'giấu trong hang' — đều không khớp."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "The word \"cylindrical\" in the Plain of Jars passage is closest in meaning to ________.",
+      "options": [
+        "A. square-shaped",
+        "B. tube-shaped like a cylinder",
+        "C. completely flat",
+        "D. irregular in shape"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Cylindrical' = hình trụ, có dạng ống tròn — gần nghĩa với 'tube-shaped like a cylinder'. Bài mô tả hình dạng các chiếc bình là hình trụ. Đáp án B đúng. A 'hình vuông', C 'dẹt phẳng', D 'hình dạng bất đều' — đều không đúng."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "The word \"arrivals\" in the Vietnam tourism passage is closest in meaning to ________.",
+      "options": [
+        "A. departures from a country",
+        "B. people who come to visit a place",
+        "C. local residents travelling abroad",
+        "D. tour packages sold to tourists"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Tourist arrivals' = lượng khách du lịch đến (nhập cảnh) — gần nghĩa với 'people who come to visit a place'. Đáp án B đúng. A là 'khởi hành' — nghĩa ngược; C là người dân đi nước ngoài; D là gói tour — đều không đúng."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "The word \"contributed\" in the Vietnam tourism passage is closest in meaning to ________.",
+      "options": [
+        "A. removed from",
+        "B. added to or provided a share of",
+        "C. borrowed from",
+        "D. reduced significantly"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Contributed to GDP' = đóng góp vào GDP — gần nghĩa với 'added to or provided a share of'. Đáp án B đúng. A 'lấy ra', C 'vay từ', D 'giảm mạnh' — đều trái nghĩa hoặc không phù hợp."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "The word \"promote\" in the Vietnam tourism passage is closest in meaning to ________.",
+      "options": [
+        "A. to slow down or delay",
+        "B. to support and encourage the growth of",
+        "C. to limit or restrict",
+        "D. to replace completely"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Promote the development' = thúc đẩy sự phát triển — gần nghĩa với 'support and encourage the growth of'. Đáp án B đúng. A 'làm chậm', C 'hạn chế', D 'thay thế hoàn toàn' — đều trái nghĩa."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"The Plain of Jars in Laos is one of the most mysterious archaeological sites in the world.\"",
+      "options": [
+        "A. Cánh đồng Chum ở Lào là một trong những di chỉ khảo cổ bí ẩn nhất thế giới.",
+        "B. Cánh đồng Chum ở Lào là một điểm du lịch nổi tiếng của thế giới.",
+        "C. Lào có nhiều địa điểm khảo cổ bí ẩn hơn bất kỳ quốc gia nào trên thế giới.",
+        "D. Cánh đồng Chum là di sản thế giới duy nhất ở Lào."
+      ],
+      "correctIndex": 0,
+      "explanation": "'The Plain of Jars' = Cánh đồng Chum; 'most mysterious' = bí ẩn nhất; 'archaeological sites' = di chỉ khảo cổ; 'in the world' = trên thế giới → đáp án A dịch chính xác. B/C/D thêm thông tin không có trong câu gốc."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"Archaeologists are still not sure about the function of the jars.\"",
+      "options": [
+        "A. Các nhà khảo cổ học đã xác định được công dụng của những chiếc bình.",
+        "B. Các nhà khảo cổ học vẫn chưa chắc chắn về chức năng của những chiếc bình.",
+        "C. Các nhà khảo cổ học cho rằng những chiếc bình không có chức năng gì.",
+        "D. Các nhà khảo cổ học đã tìm thấy bằng chứng về công dụng của bình."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Still not sure' = vẫn chưa chắc chắn; 'function of the jars' = chức năng của những chiếc bình → đáp án B dịch đúng. A ngược nghĩa (đã xác định được), C/D sai hoàn toàn."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"International tourist arrivals to Viet Nam have continuously risen.\"",
+      "options": [
+        "A. Lượng khách du lịch quốc tế đến Việt Nam đã liên tục tăng.",
+        "B. Số lượng khách quốc tế rời khỏi Việt Nam ngày càng tăng.",
+        "C. Việt Nam đã liên tục thu hút khách du lịch từ khắp nơi trên thế giới.",
+        "D. Khách du lịch quốc tế đến Việt Nam thường xuyên hơn trong những năm gần đây."
+      ],
+      "correctIndex": 0,
+      "explanation": "'International tourist arrivals' = lượng khách du lịch quốc tế đến; 'continuously risen' = liên tục tăng → đáp án A dịch chính xác và trực tiếp. B sai nghĩa (rời khỏi), C/D diễn đạt khác đi không trung thành với bản gốc."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"Tourism contributed 6.6 per cent to gross domestic product (GDP).\"",
+      "options": [
+        "A. Du lịch chiếm 6,6% tổng sản phẩm quốc nội (GDP).",
+        "B. Tổng sản phẩm quốc nội tăng 6,6% nhờ vào ngành du lịch.",
+        "C. Ngành du lịch đóng góp 6,6% vào tổng sản phẩm quốc nội (GDP).",
+        "D. GDP của Việt Nam giảm 6,6% do tác động của ngành du lịch."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Contributed ... to GDP' = đóng góp ... vào GDP → đáp án C dịch đúng nhất với động từ 'đóng góp vào'. A dùng 'chiếm' cũng gần đúng nhưng C chính xác hơn về nghĩa động từ. D sai nghĩa (giảm)."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"In 2019, the Plain of Jars became a UNESCO World Heritage Site.\"",
+      "options": [
+        "A. Cánh đồng Chum được UNESCO công nhận là Di sản Thế giới vào năm 2019.",
+        "B. Năm 2019, UNESCO đã đưa Cánh đồng Chum vào danh sách các điểm du lịch nổi tiếng.",
+        "C. Cánh đồng Chum trở thành điểm tham quan hàng đầu tại Lào từ năm 2019.",
+        "D. UNESCO đã nghiên cứu Cánh đồng Chum từ năm 2019."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Became a UNESCO World Heritage Site' = được công nhận là Di sản Thế giới của UNESCO; 'in 2019' = vào năm 2019 → đáp án A dịch chính xác và đầy đủ. B/C/D thêm hoặc sai thông tin so với câu gốc."
+    },
+    {
+      "id": 14,
+      "type": "reading-comprehension",
+      "passage": "The two most popular types of tours now are package and self-guided tours.\n\nWhen you buy a package tour, a travel agency takes care of almost everything for you. You will get a notice about the places of your visit, the detailed itinerary, and the cost. They will protect you if something goes wrong during the trip. This type of holiday saves time and reduces stress for travellers. It offers a convenient option for people who are elderly, who do not want to spend much time searching on their own, or who are not confident about using online apps. One disadvantage of this type is you have to follow a **fixed** itinerary.\n\nNowadays, more young people choose self-guided tours which require them to do everything on their own. **They** have to look for a destination, work out an itinerary, and estimate the cost. They then hunt for tickets and accommodation, usually homestay. This type of holiday may require people more time and effort, but it is cheaper and more flexible than a package holiday. It gives travellers more freedom to decide where to go and how much time and money to spend at a place. However, to have a smooth trip and avoid trouble, these travellers should be good at using apps.",
+      "questions": [
+        {
+          "id": "14a",
+          "question": "1. What can a package tour save you?",
+          "options": [
+            "A. Money and accommodation",
+            "B. Time and stress",
+            "C. Effort and flexibility",
+            "D. Freedom and itinerary"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn 2 nêu rõ: 'This type of holiday saves time and reduces stress for travellers' — tour trọn gói giúp tiết kiệm thời gian và giảm căng thẳng. Đáp án B (Time and stress) đúng. A/C/D không được đề cập là lợi ích của package tour."
+        },
+        {
+          "id": "14b",
+          "question": "2. What disadvantage of a package tour does the passage mention?",
+          "options": [
+            "A. It is more expensive than self-guided tours.",
+            "B. It requires travellers to use online apps.",
+            "C. Travellers have to follow a fixed itinerary.",
+            "D. It does not include accommodation."
+          ],
+          "correctIndex": 2,
+          "explanation": "Bài nêu trực tiếp: 'One disadvantage of this type is you have to follow a fixed itinerary' — phải đi theo lịch trình cố định. Đáp án C đúng. A sai (bài không so sánh giá), B sai (không tự tin dùng app là đặc điểm người dùng, không phải nhược điểm), D không đề cập."
+        },
+        {
+          "id": "14c",
+          "question": "3. What do travellers have to do on a self-guided tour?",
+          "options": [
+            "A. Contact a travel agency and buy a package.",
+            "B. Follow a fixed schedule provided by the agency.",
+            "C. Look for a destination, work out an itinerary, estimate the cost, and hunt for tickets and accommodation.",
+            "D. Only choose a destination and let the agency do the rest."
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn 3 liệt kê rõ: du khách tự túc phải 'look for a destination, work out an itinerary, estimate the cost, hunt for tickets and accommodation' — tự làm tất cả. Đáp án C đúng. A/B/D là đặc điểm của package tour."
+        },
+        {
+          "id": "14d",
+          "question": "4. What is an advantage of self-guided tours?",
+          "options": [
+            "A. They save time and reduce stress.",
+            "B. A travel agency handles all bookings.",
+            "C. They are cheaper and more flexible than package tours.",
+            "D. They are suitable for elderly travellers."
+          ],
+          "correctIndex": 2,
+          "explanation": "Bài nêu: 'it is cheaper and more flexible than a package holiday. It gives travellers more freedom' — rẻ hơn, linh hoạt hơn, tự do hơn. Đáp án C đúng. A là ưu điểm của package tour; B/D cũng là đặc điểm của package tour."
+        },
+        {
+          "id": "14e",
+          "question": "5. What skill should you have if you go on a self-guided tour?",
+          "options": [
+            "A. Speaking foreign languages fluently",
+            "B. Being good at using apps",
+            "C. Having a lot of travel experience",
+            "D. Knowing how to cook local food"
+          ],
+          "correctIndex": 1,
+          "explanation": "Câu cuối bài nêu: 'these travellers should be good at using apps' — người đi tour tự túc cần giỏi sử dụng ứng dụng. Đáp án B đúng. A/C/D không được đề cập trong bài."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": "reading-comprehension",
+      "passage": "Hello everyone. Welcome to the Brontes tour. My name's Gillian and I'll be accompanying you on our nine-hour tour. We'll drive through the beautiful Yorkshire countryside with its vast green hills and fields. We'll stop at the villages of Clapham and Wycoller. There you can see the original school and ruinous cottage, which appear in Charlotte's world-famous book, Jane Eyre.\n\nWe'll then drive on to Haworth, the home of the Brontes. We'll visit their two-storey house and the school they set up for the children in the village. The entrance ticket to the house is included in the tour, so you don't have to pay extra. We will also visit the graveyard where the members of the Brontes rest in peace. After that we have an hour for lunch. There are cafés and restaurants nearby. Our tour continues at one thirty. We'll wander down the main high street where the Brontes walked 150 years ago. It has hardly changed since then. You'll see many places that the members of the Bronte sisters used to visit.",
+      "questions": [
+        {
+          "id": "15a",
+          "question": "1. How long will the tour take?",
+          "options": [
+            "A. Five hours",
+            "B. Seven hours",
+            "C. Nine hours",
+            "D. Twelve hours"
+          ],
+          "correctIndex": 2,
+          "explanation": "Hướng dẫn viên giới thiệu: 'I'll be accompanying you on our nine-hour tour' — chuyến tham quan kéo dài chín giờ. Đáp án C (Nine hours) đúng. A/B/D không khớp với thông tin trong bài nghe."
+        },
+        {
+          "id": "15b",
+          "question": "2. Jane Eyre is described as ________.",
+          "options": [
+            "A. a mystery novel",
+            "B. a world-famous book",
+            "C. a travel guide",
+            "D. an adventure story"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bài nghe nêu: 'Charlotte's world-famous book, Jane Eyre' — Jane Eyre được gọi là cuốn sách nổi tiếng thế giới của Charlotte. Đáp án B (a world-famous book) đúng. A/C/D không được đề cập trong đoạn."
+        },
+        {
+          "id": "15c",
+          "question": "3. What does the tour include at Haworth?",
+          "options": [
+            "A. The Brontes' house, their school, and the graveyard",
+            "B. A boat trip on the Yorkshire river",
+            "C. A visit to Charlotte's birthplace and museum",
+            "D. A lunch at the Brontes' house"
+          ],
+          "correctIndex": 0,
+          "explanation": "Bài liệt kê các điểm tham quan ở Haworth: 'two-storey house', 'school they set up', 'the graveyard' — ngôi nhà, trường học và nghĩa trang. Đáp án A đúng. B/C/D không được đề cập."
+        },
+        {
+          "id": "15d",
+          "question": "4. The Brontes walked down the main high street ________.",
+          "options": [
+            "A. fifty years ago",
+            "B. one hundred years ago",
+            "C. one hundred and fifty years ago",
+            "D. two hundred years ago"
+          ],
+          "correctIndex": 2,
+          "explanation": "Bài nghe nêu: 'the main high street where the Brontes walked 150 years ago' — họ đã đi bộ trên phố chính cách đây 150 năm. Đáp án C (one hundred and fifty years ago) đúng. A/B/D không khớp với số liệu trong bài."
+        },
+        {
+          "id": "15e",
+          "question": "5. What is included in the tour price?",
+          "options": [
+            "A. Lunch at a local restaurant",
+            "B. The entrance ticket to the Brontes' house",
+            "C. Souvenirs from the village shops",
+            "D. A guided walk through the Yorkshire countryside"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bài nghe nêu rõ: 'The entrance ticket to the house is included in the tour, so you don't have to pay extra' — vé vào nhà đã bao gồm trong giá tour. Đáp án B đúng. A sai (ăn trưa tự trả), C/D không được đề cập là bao gồm trong giá."
+        }
+      ]
+    }
+  ]
+}

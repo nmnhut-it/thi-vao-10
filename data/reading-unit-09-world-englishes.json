@@ -1,0 +1,504 @@
+{
+  "topicId": "reading-unit-09-world-englishes",
+  "title": "Unit 9: World Englishes - Reading",
+  "section": "reading",
+  "knowledge": {
+    "html": "<h3>Unit 9: World Englishes</h3><p>Tiếng Anh đã trở thành ngôn ngữ toàn cầu với nhiều biến thể khác nhau. Nhà ngôn ngữ học Braj Kachru đề xuất mô hình ba vòng tròn đồng tâm (concentric circles) để mô tả sự phân bố tiếng Anh trên thế giới: Inner Circle (vòng trong), Outer Circle (vòng ngoài) và Expanding Circle (vòng mở rộng).</p><h4>Từ vựng trọng tâm</h4><ul><li><strong>variety</strong> (n): biến thể, loại khác nhau — <em>a variety of English</em></li><li><strong>concentric</strong> (adj): đồng tâm — <em>concentric circles</em></li><li><strong>bilingual</strong> (adj): sử dụng được hai ngôn ngữ — <em>a bilingual speaker</em></li><li><strong>fluent</strong> (adj): thành thạo, lưu loát — <em>fluent in English</em></li><li><strong>official language</strong> (n): ngôn ngữ chính thức</li><li><strong>immigrants</strong> (n): người nhập cư</li><li><strong>established</strong> (adj/v): được thiết lập, công nhận</li><li><strong>propose</strong> (v): đề xuất — <em>Kachru proposed a model</em></li></ul><h4>Mẹo đọc hiểu</h4><ul><li><strong>Đọc câu hỏi trước:</strong> Xác định từ khóa trong câu hỏi rồi mới đọc bài để tìm thông tin cụ thể.</li><li><strong>Bài cloze (điền từ):</strong> Đọc toàn bộ đoạn văn để nắm nghĩa, rồi xét từng chỗ trống theo ngữ pháp và ngữ cảnh.</li><li><strong>Câu hỏi NOT/EXCEPT:</strong> Kiểm tra từng đáp án đối chiếu với bài — đáp án đúng là thông tin SAI hoặc KHÔNG có trong bài.</li></ul>"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "reading-comprehension",
+      "passage": "Braj Kachru was a Professor of Linguistics who invented the term 'World Englishes'. The term refers to the fact that English has become a global means of communication with a lot of varieties.\nIn 1985, Kachru proposed a **model** of the different uses of English around the world. There are three concentric circles in the model.\nThe first of these circles is the Inner Circle, which consists of the traditional English-speaking countries, such as the UK, the USA, Australia, New Zealand, and Canada. In these regions, English is the first language, and their speakers provide the standards of English.\nThe next circle is the Outer Circle where English is not the first language but the second or official language. The countries in this circle include India, Singapore, the Philippines, Pakistan, Malaysia, etc. The speakers of these places follow the standards which the countries in the Inner Circle provide.\nThe last circle is the Expanding Circle. People in **this circle** speak English as a foreign language. Some of the countries in the Expanding Circle are Brazil, Japan, Russia, and Viet Nam. Speakers of English in these places follow the rules which the people in the Inner Circle have **established**.",
+      "questions": [
+        {
+          "id": "1a",
+          "question": "1. What is the text mainly about?",
+          "options": [
+            "A. Professor Braj Kachru.",
+            "B. The three circles of World Englishes.",
+            "C. Native speakers of English.",
+            "D. The development of English."
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn văn giới thiệu mô hình ba vòng tròn của Kachru và giải thích đặc điểm từng vòng → đáp án B đúng. A chỉ nói về nhân vật, C nói người bản ngữ, D nói sự phát triển — đều không bao quát được ý chính."
+        },
+        {
+          "id": "1b",
+          "question": "2. The word \"model\" in paragraph 2 means ________.",
+          "options": [
+            "A. an excellent person",
+            "B. an example to copy",
+            "C. a small copy of something",
+            "D. a description of a system"
+          ],
+          "correctIndex": 3,
+          "explanation": "'Model' trong đoạn văn dùng để chỉ sơ đồ mô tả cách tiếng Anh được dùng khác nhau trên thế giới → 'a description of a system' (mô tả một hệ thống) là nghĩa đúng. Đáp án D đúng."
+        },
+        {
+          "id": "1c",
+          "question": "3. The phrase \"this circle\" in paragraph 5 refers to the ________.",
+          "options": [
+            "A. model",
+            "B. Inner Circle",
+            "C. Outer Circle",
+            "D. Expanding Circle"
+          ],
+          "correctIndex": 3,
+          "explanation": "Câu trước nói 'The last circle is the Expanding Circle', rồi câu tiếp theo dùng 'this circle' → chỉ Expanding Circle. Đáp án D đúng."
+        },
+        {
+          "id": "1d",
+          "question": "4. According to the passage, which of the following is TRUE?",
+          "options": [
+            "A. Viet Nam belongs to the Outer Circle.",
+            "B. English is the first language in Singapore.",
+            "C. Speakers in the Inner Circle set the standards of English.",
+            "D. The Expanding Circle countries have English as an official language."
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn văn: 'In these regions, English is the first language, and their speakers provide the standards of English' (vòng trong) → đáp án C đúng. Việt Nam thuộc Expanding Circle (A sai), Singapore thuộc Outer Circle (B sai), Expanding Circle dùng tiếng Anh như ngoại ngữ (D sai)."
+        },
+        {
+          "id": "1e",
+          "question": "5. The word \"established\" in the last paragraph is closest in meaning to ________.",
+          "options": [
+            "A. broken",
+            "B. set up",
+            "C. ignored",
+            "D. borrowed"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Established' = được thiết lập, tạo ra — gần nghĩa nhất với 'set up' (thiết lập). 'broken' = phá vỡ, 'ignored' = bỏ qua, 'borrowed' = mượn — đều không đúng ngữ cảnh."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "reading-comprehension",
+      "passage": "Some people find it really difficult to learn English, and here are some of the reasons. Firstly, English has one of the biggest vocabularies (1)______ all languages. Therefore, it is very hard for English learners to remember all the words and phrases as well as use them (2)______ in different contexts. Secondly, English grammar is complex. For example, there are twelve basic tenses in English. This (3)______ learners confused when they have to use the tenses correctly in different sentences. (4)______ grammatical points, such as prepositions, reported speech, and the passive voice are not any less challenging. Thirdly, a lot of learners find English pronunciation very (5)______. Words which have the same combination of letters may be (6)______ differently. For instance, the 'ou' in 'rough' is not pronounced the same as that in 'through'. Another problem is sentence stress. Stress (7)______ we put on different words may lead to the difference in meaning. In general, English vocabulary, grammar, and pronunciation may (8)______ learning it not an easy task.",
+      "questions": [
+        {
+          "id": "2a",
+          "question": "(1)",
+          "options": [
+            "A. among",
+            "B. of",
+            "C. in",
+            "D. through"
+          ],
+          "correctIndex": 0,
+          "explanation": "'One of the biggest... among all languages' — 'among' dùng để so sánh trong một nhóm (among all languages = trong số tất cả các ngôn ngữ). Đáp án A đúng. 'of/in/through' không đúng cụm từ so sánh này."
+        },
+        {
+          "id": "2b",
+          "question": "(2)",
+          "options": [
+            "A. correct",
+            "B. correction",
+            "C. correcting",
+            "D. correctly"
+          ],
+          "correctIndex": 3,
+          "explanation": "Cần trạng từ bổ nghĩa cho động từ 'use': 'use them correctly' = sử dụng chúng một cách chính xác. Đáp án D đúng. A là tính từ, B là danh từ, C là V-ing — đều không đúng từ loại bổ nghĩa cho động từ."
+        },
+        {
+          "id": "2c",
+          "question": "(3)",
+          "options": [
+            "A. gets",
+            "B. causes",
+            "C. makes",
+            "D. keeps"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Make + O + adjective': 'This makes learners confused' = điều này khiến người học bối rối. Đây là cấu trúc cố định với 'make'. Đáp án C đúng. 'get' cũng dùng được nhưng A không phải đáp án cho blank này."
+        },
+        {
+          "id": "2d",
+          "question": "(4)",
+          "options": [
+            "A. Each",
+            "B. Other",
+            "C. Every",
+            "D. Another"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Other grammatical points' = các điểm ngữ pháp khác (số nhiều, không xác định). 'Other' + danh từ số nhiều là đúng. 'Another' + danh từ số ít, 'Each/Every' + danh từ số ít — đều không phù hợp ở đây."
+        },
+        {
+          "id": "2e",
+          "question": "(5)",
+          "options": [
+            "A. ease",
+            "B. easy",
+            "C. difficult",
+            "D. difficulty"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Find + O + adjective': 'find English pronunciation very difficult' = thấy cách phát âm tiếng Anh rất khó. Cần tính từ. Đáp án C đúng. A 'ease' là danh từ/động từ, B 'easy' không phù hợp ngữ cảnh câu nói, D 'difficulty' là danh từ."
+        },
+        {
+          "id": "2f",
+          "question": "(6)",
+          "options": [
+            "A. pronounce",
+            "B. pronounced",
+            "C. pronouncing",
+            "D. pronunciation"
+          ],
+          "correctIndex": 1,
+          "explanation": "Cần phân từ quá khứ trong cụm bị động: 'may be pronounced differently' = có thể được phát âm khác nhau. Đáp án B đúng. A nguyên mẫu không dùng sau 'be', C V-ing, D danh từ — đều sai."
+        },
+        {
+          "id": "2g",
+          "question": "(7)",
+          "options": [
+            "A. which",
+            "B. what",
+            "C. whom",
+            "D. that"
+          ],
+          "correctIndex": 3,
+          "explanation": "'Stress that we put on different words' — đại từ quan hệ thay thế cho 'stress' (vật), dùng trong mệnh đề quan hệ xác định. 'That' đúng sau danh từ trừu tượng trong mệnh đề xác định. Đáp án D đúng."
+        },
+        {
+          "id": "2h",
+          "question": "(8)",
+          "options": [
+            "A. make",
+            "B. do",
+            "C. take",
+            "D. get"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Make + O + complement': 'may make learning it not an easy task' = có thể khiến việc học tiếng Anh không phải là việc dễ dàng. Đáp án A đúng. 'do/take/get' không tạo được cấu trúc này."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "reading-comprehension",
+      "passage": "I'm a 14-year-old student who enjoys learning different languages. My first language is Vietnamese. When I was very small, my mother always told me stories in Vietnamese. (1)______ I could read quite fluently when I was 5 years old. Mum encouraged me to read suitable books every day. (2)______ I really enjoyed the fun and engaging English lessons with foreign teachers at my nursery school. At home, Mum began reading simple English stories to me. (3)______\nMy primary school was a bilingual one. Besides the subjects taught in Vietnamese, we had 10 lessons of English, and another eight lessons of maths, science and IT in English every week. (4)______ When I entered junior secondary school, Mum encouraged me to learn another foreign language. I didn't want to go to the language centre, so I chose to learn Spanish with Duolingo. (5)______ Now I can speak Spanish and read stories in Spanish.\n\nRemoved sentences:\nA. I also started learning English at this age.\nB. I loved them so much that I started learning how to read in Vietnamese.\nC. The lessons were fun and addictive because they were designed like games.\nD. Mum and I also listened to English songs.\nE. This was a really good way to learn the language because we could learn English naturally.",
+      "questions": [
+        {
+          "id": "3a",
+          "question": "1. Which sentence fits blank (1)?",
+          "options": [
+            "A. I also started learning English at this age.",
+            "B. I loved them so much that I started learning how to read in Vietnamese.",
+            "C. The lessons were fun and addictive because they were designed like games.",
+            "D. Mum and I also listened to English songs.",
+            "E. This was a really good way to learn the language because we could learn English naturally."
+          ],
+          "correctIndex": 1,
+          "explanation": "Câu trước: mẹ kể chuyện bằng tiếng Việt → 'I loved them so much that I started learning how to read in Vietnamese' (B) — 'them' chỉ những câu chuyện, giải thích lý do cô bé học đọc tiếng Việt. Đáp án B (index 1) đúng."
+        },
+        {
+          "id": "3b",
+          "question": "2. Which sentence fits blank (2)?",
+          "options": [
+            "A. I also started learning English at this age.",
+            "B. I loved them so much that I started learning how to read in Vietnamese.",
+            "C. The lessons were fun and addictive because they were designed like games.",
+            "D. Mum and I also listened to English songs.",
+            "E. This was a really good way to learn the language because we could learn English naturally."
+          ],
+          "correctIndex": 0,
+          "explanation": "Câu trước: 'Mum encouraged me to read suitable books every day' (lúc 5 tuổi, đọc trôi chảy) → 'I also started learning English at this age' (A) — 'this age' = 5 tuổi, dẫn vào câu tiếp theo về học tiếng Anh ở trường mầm non. Đáp án A (index 0) đúng."
+        },
+        {
+          "id": "3c",
+          "question": "3. Which sentence fits blank (3)?",
+          "options": [
+            "A. I also started learning English at this age.",
+            "B. I loved them so much that I started learning how to read in Vietnamese.",
+            "C. The lessons were fun and addictive because they were designed like games.",
+            "D. Mum and I also listened to English songs.",
+            "E. This was a really good way to learn the language because we could learn English naturally."
+          ],
+          "correctIndex": 3,
+          "explanation": "Câu trước: 'Mum began reading simple English stories to me' → 'Mum and I also listened to English songs' (D) — tiếp tục mô tả các hoạt động học tiếng Anh ở nhà cùng mẹ. Đáp án D (index 3) đúng."
+        },
+        {
+          "id": "3d",
+          "question": "4. Which sentence fits blank (4)?",
+          "options": [
+            "A. I also started learning English at this age.",
+            "B. I loved them so much that I started learning how to read in Vietnamese.",
+            "C. The lessons were fun and addictive because they were designed like games.",
+            "D. Mum and I also listened to English songs.",
+            "E. This was a really good way to learn the language because we could learn English naturally."
+          ],
+          "correctIndex": 4,
+          "explanation": "Câu trước mô tả học các môn bằng tiếng Anh ở trường song ngữ → 'This was a really good way to learn the language because we could learn English naturally' (E) — 'this' chỉ cách học các môn bằng tiếng Anh. Đáp án E (index 4) đúng."
+        },
+        {
+          "id": "3e",
+          "question": "5. Which sentence fits blank (5)?",
+          "options": [
+            "A. I also started learning English at this age.",
+            "B. I loved them so much that I started learning how to read in Vietnamese.",
+            "C. The lessons were fun and addictive because they were designed like games.",
+            "D. Mum and I also listened to English songs.",
+            "E. This was a really good way to learn the language because we could learn English naturally."
+          ],
+          "correctIndex": 2,
+          "explanation": "Câu trước: học tiếng Tây Ban Nha qua Duolingo → 'The lessons were fun and addictive because they were designed like games' (C) — 'lessons' chỉ các bài học Duolingo được thiết kế như trò chơi. Đáp án C (index 2) đúng."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "4. In the cloze passage (Ex 2), 'English has one of the biggest vocabularies among all languages.' The word \"vocabularies\" means ________.",
+      "options": [
+        "A. the total number of words in a language",
+        "B. the grammar rules of a language",
+        "C. the pronunciation system of a language",
+        "D. the writing system of a language"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Vocabulary' = vốn từ vựng, tổng số từ trong một ngôn ngữ. Đáp án A đúng. B là ngữ pháp, C là hệ thống phát âm, D là hệ thống chữ viết — đều không đúng."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "5. In the cloze passage (Ex 2), 'Words which have the same combination of letters may be pronounced differently.' The word \"combination\" means ________.",
+      "options": [
+        "A. a mixture or joining of things together",
+        "B. the meaning of a word",
+        "C. the order of sentences",
+        "D. the length of a word"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Combination' = sự kết hợp, tổ hợp — gần nghĩa nhất với 'a mixture or joining of things together'. Đáp án A đúng. B nghĩa của từ, C thứ tự câu, D độ dài từ — đều không đúng."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "6. In the reading passage (Ex 3), the girl says her primary school was 'bilingual'. This means the school ________.",
+      "options": [
+        "A. taught only in English",
+        "B. taught subjects in two languages",
+        "C. had no foreign teachers",
+        "D. was a private language centre"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Bilingual school' = trường song ngữ — dạy bằng hai ngôn ngữ. Bài nêu rõ có môn dạy bằng tiếng Việt và các môn (toán, khoa học, tin) dạy bằng tiếng Anh. Đáp án B đúng."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "7. In the reading passage (Ex 3), 'The lessons were fun and addictive because they were designed like games.' The word \"addictive\" means ________.",
+      "options": [
+        "A. very difficult and stressful",
+        "B. so enjoyable that you want to keep doing it",
+        "C. boring and repetitive",
+        "D. suitable only for adults"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Addictive' = gây nghiện, cuốn hút đến mức muốn tiếp tục mãi — gần nghĩa với 'so enjoyable that you want to keep doing it'. Đáp án B đúng. A khó và căng thẳng (trái nghĩa), C nhàm chán (trái nghĩa), D chỉ dành cho người lớn — đều sai."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "8. In the reading passage (Ex 3), the girl learned Spanish using Duolingo instead of going to a language centre. The word \"centre\" here means ________.",
+      "options": [
+        "A. the middle of a city",
+        "B. a place where a particular activity happens",
+        "C. a government office",
+        "D. a shopping mall"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Language centre' = trung tâm ngoại ngữ — nơi diễn ra hoạt động học ngoại ngữ. 'Centre' ở đây nghĩa là 'a place where a particular activity happens'. Đáp án B đúng."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "9. \"English has one of the biggest vocabularies among all languages.\" This sentence means ________.",
+      "options": [
+        "A. Tiếng Anh có một trong những vốn từ vựng lớn nhất trong tất cả các ngôn ngữ.",
+        "B. Tiếng Anh có vốn từ vựng nhỏ nhất so với các ngôn ngữ khác.",
+        "C. Tiếng Anh chỉ có vài trăm từ vựng.",
+        "D. Tất cả các ngôn ngữ đều có vốn từ vựng bằng nhau."
+      ],
+      "correctIndex": 0,
+      "explanation": "'One of the biggest vocabularies' = một trong những vốn từ lớn nhất; 'among all languages' = trong số tất cả các ngôn ngữ. Đáp án A dịch đúng. B, C, D đều sai nghĩa."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "10. \"Other grammatical points, such as prepositions, reported speech, and the passive voice are not any less challenging.\" This sentence means ________.",
+      "options": [
+        "A. Các điểm ngữ pháp khác như giới từ, câu tường thuật và thể bị động cũng không kém phần thách thức.",
+        "B. Các điểm ngữ pháp như giới từ và câu tường thuật rất dễ học.",
+        "C. Chỉ có thì động từ là khó trong tiếng Anh.",
+        "D. Ngữ pháp tiếng Anh không có gì thách thức cả."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Not any less challenging' = không kém phần thách thức (cũng khó không kém). 'Other grammatical points' = các điểm ngữ pháp khác. Đáp án A dịch đúng. B, C, D đều sai nghĩa hoặc mâu thuẫn với câu gốc."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "11. \"Mum encouraged me to read suitable books every day.\" This sentence means ________.",
+      "options": [
+        "A. Mẹ cấm tôi đọc sách hàng ngày.",
+        "B. Mẹ khuyến khích tôi đọc những cuốn sách phù hợp mỗi ngày.",
+        "C. Mẹ tự đọc sách cho tôi nghe mỗi ngày.",
+        "D. Tôi tự chọn sách để đọc mà không cần sự giúp đỡ của mẹ."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Encouraged me to do' = khuyến khích tôi làm; 'suitable books' = những cuốn sách phù hợp; 'every day' = mỗi ngày. Đáp án B dịch đúng. A cấm (trái nghĩa), C mẹ đọc cho nghe (sai chủ thể), D tự chọn (không đúng)."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "12. \"My primary school was a bilingual one. Besides the subjects taught in Vietnamese, we had 10 lessons of English every week.\" This means ________.",
+      "options": [
+        "A. Trường tiểu học của tôi chỉ dạy bằng tiếng Việt.",
+        "B. Trường tiểu học của tôi là trường song ngữ, ngoài các môn học bằng tiếng Việt còn có 10 tiết tiếng Anh mỗi tuần.",
+        "C. Tôi không thích học ở trường tiểu học vì quá nhiều bài.",
+        "D. Trường tiểu học của tôi không dạy tiếng Anh."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Bilingual' = song ngữ; 'besides the subjects taught in Vietnamese' = ngoài các môn học bằng tiếng Việt; '10 lessons of English every week' = 10 tiết tiếng Anh mỗi tuần. Đáp án B dịch đúng cả hai vế. A, C, D đều sai."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "13. \"I didn't want to go to the language centre, so I chose to learn Spanish with Duolingo.\" This sentence means ________.",
+      "options": [
+        "A. Tôi muốn học ở trung tâm ngoại ngữ nhưng không có tiền.",
+        "B. Tôi không muốn đến trung tâm ngoại ngữ nên tôi chọn học tiếng Tây Ban Nha qua Duolingo.",
+        "C. Tôi học tiếng Tây Ban Nha tại trung tâm ngoại ngữ gần nhà.",
+        "D. Duolingo là một trung tâm ngoại ngữ nổi tiếng."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Didn't want to go to the language centre' = không muốn đến trung tâm ngoại ngữ; 'chose to learn Spanish with Duolingo' = chọn học tiếng Tây Ban Nha qua Duolingo. Đáp án B dịch đúng. A sai lý do, C sai (không đến trung tâm), D sai (Duolingo là ứng dụng, không phải trung tâm)."
+    },
+    {
+      "id": 14,
+      "type": "reading-comprehension",
+      "passage": "Braj Kachru was a Professor of Linguistics who invented the term 'World Englishes'. The term refers to the fact that English has become a global means of communication with a lot of varieties.\nIn 1985, Kachru proposed a **model** of the different uses of English around the world. There are three concentric circles in the model.\nThe first of these circles is the Inner Circle, which consists of the traditional English-speaking countries, such as the UK, the USA, Australia, New Zealand, and Canada. In these regions, English is the first language, and their speakers provide the standards of English.\nThe next circle is the Outer Circle where English is not the first language but the second or official language. The countries in this circle include India, Singapore, the Philippines, Pakistan, Malaysia, etc. The speakers of these places follow the standards which the countries in the Inner Circle provide.\nThe last circle is the Expanding Circle. People in **this circle** speak English as a foreign language. Some of the countries in the Expanding Circle are Brazil, Japan, Russia, and Viet Nam. Speakers of English in these places follow the rules which the people in the Inner Circle have **established**.",
+      "questions": [
+        {
+          "id": "14a",
+          "question": "In the Inner Circle, English is the ________ of the people there.",
+          "options": [
+            "A. foreign language",
+            "B. official language",
+            "C. first language",
+            "D. second language"
+          ],
+          "correctIndex": 2,
+          "explanation": "Bài viết nêu rõ: 'In these regions, English is the first language' — tiếng Anh là ngôn ngữ thứ nhất (tiếng mẹ đẻ) ở các nước thuộc Inner Circle. Đáp án C đúng. A là Expanding Circle, B và D là Outer Circle."
+        },
+        {
+          "id": "14b",
+          "question": "In the Outer Circle, English is the second or ________ language.",
+          "options": [
+            "A. foreign",
+            "B. official",
+            "C. first",
+            "D. native"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn văn: 'the Outer Circle where English is not the first language but the second or official language' — tiếng Anh là ngôn ngữ thứ hai hoặc chính thức (official). Đáp án B đúng. A dùng cho Expanding Circle, C và D không đúng với Outer Circle."
+        },
+        {
+          "id": "14c",
+          "question": "Speakers in the Outer Circle ________ the standards set by the Inner Circle.",
+          "options": [
+            "A. ignore",
+            "B. establish",
+            "C. follow",
+            "D. reject"
+          ],
+          "correctIndex": 2,
+          "explanation": "Bài nêu: 'The speakers of these places follow the standards which the countries in the Inner Circle provide' — người nói ở Outer Circle tuân theo (follow) chuẩn mực từ Inner Circle. Đáp án C đúng. A và D trái nghĩa, B là vai trò của Inner Circle."
+        },
+        {
+          "id": "14d",
+          "question": "In the Expanding Circle, English is used as a ________.",
+          "options": [
+            "A. first language",
+            "B. official language",
+            "C. second language",
+            "D. foreign language"
+          ],
+          "correctIndex": 3,
+          "explanation": "Đoạn văn: 'People in this circle speak English as a foreign language' — người dân ở Expanding Circle dùng tiếng Anh như một ngoại ngữ (foreign language). Đáp án D đúng. A là Inner Circle, B là Outer Circle, C không chính xác với Expanding Circle."
+        },
+        {
+          "id": "14e",
+          "question": "Speakers in the Expanding Circle follow the ________ established by the Inner Circle.",
+          "options": [
+            "A. rules",
+            "B. accents",
+            "C. cultures",
+            "D. books"
+          ],
+          "correctIndex": 0,
+          "explanation": "Câu cuối bài: 'Speakers of English in these places follow the rules which the people in the Inner Circle have established' — họ tuân theo các quy tắc (rules) đã được thiết lập. Đáp án A đúng. B, C, D không có trong bài."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": "reading-comprehension",
+      "passage": "I've learnt English for six years and I usually find it challenging to learn its vocabulary. Here are some tips I've tried to improve my vocabulary learning.\n\nFirstly, I spend time reading different kinds of English books, from short stories to novels. When I see a new word, I try to guess its meaning from the sentence.\n\nSecondly, I use a good dictionary. My mum bought me an English-English dictionary three years ago. Whenever I cannot find the meaning of a new word, I look it up, check its meaning and pronunciation in the dictionary. The dictionary also helps me understand better when to use the word.\n\nThirdly, I've made my own vocabulary notebook. I have the habit of copying all new words into a notebook. This way I can know how many words I've learnt and can revise the words easily.\n\nFinally, I take every opportunity to speak with people in English. I try to use the words I've learnt and pick up more new words from these conversations. I've done these things regularly and now I'm quite confident about my English vocabulary.",
+      "questions": [
+        {
+          "id": "15a",
+          "question": "How long has Trang been learning English?",
+          "options": [
+            "A. Three years.",
+            "B. Five years.",
+            "C. Six years.",
+            "D. Seven years."
+          ],
+          "correctIndex": 2,
+          "explanation": "Trang nói rõ: 'I've learnt English for six years' — cô đã học tiếng Anh được sáu năm. Đáp án C đúng. D (bảy năm) sai — đây là thông tin sai trong bài T/F gốc. A và B không được đề cập."
+        },
+        {
+          "id": "15b",
+          "question": "What does Trang mainly talk about in this passage?",
+          "options": [
+            "A. How she has learnt English grammar.",
+            "B. How she has improved her English vocabulary.",
+            "C. How she has studied English pronunciation.",
+            "D. How she has practised English writing."
+          ],
+          "correctIndex": 1,
+          "explanation": "Trang nói: 'Here are some tips I've tried to improve my vocabulary learning' — nội dung chính là các mẹo cải thiện học từ vựng. Đáp án B đúng. A (ngữ pháp), C (phát âm), D (viết) đều không phải chủ đề chính của đoạn."
+        },
+        {
+          "id": "15c",
+          "question": "What does Trang do when she sees a new word while reading?",
+          "options": [
+            "A. She skips it and reads on.",
+            "B. She looks it up in the dictionary immediately.",
+            "C. She tries to guess its meaning from the sentence.",
+            "D. She asks her mum for help."
+          ],
+          "correctIndex": 2,
+          "explanation": "Trang nói: 'When I see a new word, I try to guess its meaning from the sentence' — khi đọc gặp từ mới, cô đoán nghĩa từ ngữ cảnh câu. Đáp án C đúng. B là bước thứ hai (dùng từ điển khi không tìm được nghĩa). A và D không đúng."
+        },
+        {
+          "id": "15d",
+          "question": "How does Trang feel about her English vocabulary now?",
+          "options": [
+            "A. She feels frustrated and wants to give up.",
+            "B. She is still unsure and lacks confidence.",
+            "C. She is quite confident about it.",
+            "D. She thinks her vocabulary is perfect."
+          ],
+          "correctIndex": 2,
+          "explanation": "Câu kết: 'now I'm quite confident about my English vocabulary' — Trang khá tự tin về vốn từ vựng tiếng Anh của mình. Đáp án C đúng. A và B trái với thông tin, D quá cực đoan ('quite confident' không có nghĩa là hoàn hảo)."
+        }
+      ]
+    }
+  ]
+}

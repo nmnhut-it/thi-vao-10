@@ -21,7 +21,8 @@ Interactive self-study English exam prep for Vietnamese Grade 9 students enterin
 │   ├── grammar-*.json            # Grammar topic data (16 files)
 │   ├── phonetics-*.json          # Phonetics data (2 files)
 │   ├── vocab-*.json              # Vocabulary data (5 files)
-│   ├── reading-*.json            # Reading data (2 files)
+│   ├── reading-comprehension.json, reading-gap-filling.json
+│   ├── reading-unit-{01..12}-*.json  # Per-unit Global Success 9 reading lessons (12 files, 13 exercises each)
 │   ├── writing-*.json            # Writing data (1 file)
 │   ├── review-*.json             # Review data (2 files)
 │   └── test-*.json               # Practice tests (9 files)

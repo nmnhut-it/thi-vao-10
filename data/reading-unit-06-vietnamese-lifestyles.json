@@ -1,0 +1,475 @@
+{
+  "topicId": "reading-unit-06-vietnamese-lifestyles",
+  "title": "Unit 6: Vietnamese Lifestyles - Reading",
+  "section": "reading",
+  "knowledge": {
+    "html": "<h3>Unit 6: Vietnamese Lifestyles - Then and Now</h3><p>Bài đọc Unit 6 so sánh lối sống của người Việt Nam ngày xưa và ngày nay, tập trung vào phong cách học tập, thói quen ăn uống và lối sống của giới trẻ.</p><h4>Từ vựng trọng tâm</h4><ul><li><strong>lifestyle</strong> (n) — lối sống</li><li><strong>modernisation</strong> (n) — sự hiện đại hóa</li><li><strong>flexible</strong> (adj) — linh hoạt, năng động</li><li><strong>treasure</strong> (v) — trân trọng, coi trọng</li><li><strong>tradition</strong> (n) — truyền thống</li><li><strong>preservative</strong> (n) — chất bảo quản</li><li><strong>pesticide</strong> (n) — thuốc trừ sâu</li><li><strong>digestive system</strong> (n) — hệ tiêu hóa</li></ul><h4>Mẹo đọc hiểu</h4><ul><li><strong>Câu hỏi đại từ:</strong> Tìm danh từ gần nhất trước đại từ để xác định đại từ chỉ ai/cái gì.</li><li><strong>Câu hỏi NOT true:</strong> Đọc từng đáp án và đối chiếu với bài, chọn đáp án không khớp hoặc mâu thuẫn.</li><li><strong>Câu điền từ (cloze):</strong> Đọc cả câu trước và sau chỗ trống, xét ngữ nghĩa và ngữ pháp để chọn từ phù hợp.</li></ul>"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "reading-comprehension",
+      "passage": "Mr Nam, grandfather, a 70-year-old farmer\nI was one of the few children in my village who was still at school at the age of 15. Every day, I got up early and walked to school. Learning then depended mostly on our teachers and textbooks. We had no library or lab. The nearest bookshop was six kilometres away. I learned simply by taking notes during class, memorising them, and doing the homework. Life then was simple. We rarely travelled outside our village, so we didn't know much about the world around us.\n\nMai, granddaughter, a 15-year-old student\nLearning today is very different from my grandfather's time. **It** is easier and more convenient. Besides learning from teachers and textbooks, we use the Internet. It provides us with various online sources such as documents, clips, and programmes. Google helps us find the answers to almost any questions we have. The Internet also allows us to pursue our own interests. Learning has become more independent. Although most children in my village have fewer private learning facilities than the students in the city, **we** are still luckier than my grandfather's generation. We have TVs to watch at home and a library and computers at school.",
+      "questions": [
+        {
+          "id": "1a",
+          "question": "1. In Mr Nam's time, ________.",
+          "options": [
+            "A. teachers played an important role",
+            "B. there were no bookshops",
+            "C. students did experiments in labs",
+            "D. all children stayed on at school until they were 15"
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn văn: 'Learning then depended mostly on our teachers and textbooks' → giáo viên đóng vai trò quan trọng. Đáp án A đúng. B sai (có hiệu sách, chỉ xa 6km); C sai (không có lab); D sai (ông Nam là 'one of the few')."
+        },
+        {
+          "id": "1b",
+          "question": "2. Few people travelled outside their village, so ________.",
+          "options": [
+            "A. life in the village was simple",
+            "B. his school didn't have any learning facilities",
+            "C. the villagers didn't know much about the world around",
+            "D. none of the villagers knew about city life"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn văn: 'We rarely travelled outside our village, so we didn't know much about the world around us' → đáp án C đúng, trích dẫn trực tiếp. A là nhận xét riêng (không phải kết quả của việc ít đi); D quá tuyệt đối ('none')."
+        },
+        {
+          "id": "1c",
+          "question": "3. Learning now ________.",
+          "options": [
+            "A. does not require textbooks",
+            "B. uses some online programmes",
+            "C. depends only on the Internet",
+            "D. does not require students to take notes"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn văn: 'It provides us with various online sources such as documents, clips, and programmes' → ngày nay sử dụng các chương trình trực tuyến. Đáp án B đúng. A sai (vẫn học từ sách); C sai ('besides' — không chỉ dựa vào Internet); D không đề cập."
+        },
+        {
+          "id": "1d",
+          "question": "4. The word \"It\" in Mai's paragraph refers to ________.",
+          "options": [
+            "A. learning today",
+            "B. my grandfather's time",
+            "C. learning facilities",
+            "D. the Internet"
+          ],
+          "correctIndex": 0,
+          "explanation": "'It' xuất hiện trong câu 'It is easier and more convenient' — ngay sau câu 'Learning today is very different...' → 'It' chỉ 'learning today'. Đáp án A đúng."
+        },
+        {
+          "id": "1e",
+          "question": "5. The word \"we\" in the last sentence of Mai's paragraph refers to ________.",
+          "options": [
+            "A. learning facilities",
+            "B. students at my grandfather's generation",
+            "C. students in the city",
+            "D. children in the village"
+          ],
+          "correctIndex": 3,
+          "explanation": "'We' trong câu 'we are still luckier than my grandfather's generation' — ngữ cảnh trước đó: 'most children in my village' → 'we' chỉ trẻ em trong làng của Mai. Đáp án D đúng."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "reading-comprehension",
+      "passage": "There are differences in terms of food habits between past and present lifestyles. People used to grow food like fruits, vegetables, and (1)___. They raised fish in ponds and livestock on farms. They always had (2)___ food. Their diet contained a lot of vegetables and fruits. They were, therefore, healthier and didn't need much extra (3)___ because their daily work kept their bodies running. They had few diseases, especially those related to their digestive system.\nAt present, technology has turned agriculture into mass (4)___. Pesticides are used to assure fruitful crops. People keep their food in the fridge for some days or weeks before using it. Ready-made food at markets uses preservatives to keep it (5)___. People eat more spicy fried food. Fast food is another major factor in modern food habits. Although many people find it (6)___, it leads to many health conditions. As a result, people now are less healthy and suffer from more diseases.",
+      "questions": [
+        {
+          "id": "2a",
+          "question": "(1)",
+          "options": [
+            "A. cereal",
+            "B. bananas",
+            "C. cattle",
+            "D. carrots"
+          ],
+          "correctIndex": 0,
+          "explanation": "Danh sách thức ăn trồng được: 'fruits, vegetables, and ___' → cần loại lương thực cơ bản. 'Cereal' (ngũ cốc) phù hợp với danh sách thực phẩm tự cung tự cấp. B là trái cây (đã liệt kê trong 'fruits'); C là gia súc (không 'trồng' được); D là cà rốt (đã có trong 'vegetables')."
+        },
+        {
+          "id": "2b",
+          "question": "(2)",
+          "options": [
+            "A. convenient",
+            "B. ready-made",
+            "C. fresh",
+            "D. old"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ngày xưa người ta tự trồng và nuôi → thức ăn luôn 'tươi' (fresh). Đáp án C đúng. A 'tiện lợi' và B 'đồ làm sẵn' là đặc điểm của thực phẩm hiện đại; D 'cũ' thì ngược nghĩa."
+        },
+        {
+          "id": "2c",
+          "question": "(3)",
+          "options": [
+            "A. food",
+            "B. exercise",
+            "C. energy",
+            "D. medicine"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Daily work kept their bodies running' → họ không cần thêm (3). 'Exercise' (tập thể dục) phù hợp: công việc hàng ngày đã đủ vận động. A 'thức ăn' không hợp logic; C 'năng lượng' cũng được nhưng câu nói về 'bodies running', không phải năng lượng thêm; D 'thuốc' ngược ý (họ ít bệnh)."
+        },
+        {
+          "id": "2d",
+          "question": "(4)",
+          "options": [
+            "A. crops",
+            "B. farming",
+            "C. storage",
+            "D. production"
+          ],
+          "correctIndex": 3,
+          "explanation": "'Technology has turned agriculture into mass ___' → sản xuất hàng loạt. 'Production' (sản xuất) là cụm từ cố định 'mass production'. A 'mùa vụ'; B 'canh tác'; C 'lưu trữ' — không tạo thành cụm từ chuẩn với 'mass'."
+        },
+        {
+          "id": "2e",
+          "question": "(5)",
+          "options": [
+            "A. shorter",
+            "B. longer",
+            "C. stronger",
+            "D. healthier"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Preservatives to keep it ___' → chất bảo quản giúp thức ăn để được 'lâu hơn' (longer). Đáp án B đúng. A 'ngắn hơn' ngược nghĩa; C 'mạnh hơn'; D 'lành mạnh hơn' — không đúng chức năng của chất bảo quản."
+        },
+        {
+          "id": "2f",
+          "question": "(6)",
+          "options": [
+            "A. convenient",
+            "B. expensive",
+            "C. troublesome",
+            "D. cheaper"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Many people find it ___, it leads to many health conditions' — tương phản 'although' → người ta thấy fast food tiện lợi (convenient) dù hại sức khỏe. B 'đắt', C 'rắc rối', D 'rẻ hơn' — đều không khớp với lý do nhiều người chọn fast food."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "reading-comprehension",
+      "passage": "Viet Nam is in the period of industrialisation and modernisation, and many aspects of Vietnamese lifestyle have changed. The biggest differences we can see now are in teenagers' lifestyle. They are now more flexible and casual in the way they dress. They wear their hair in different styles and even dye it different colours. They have become more confident in communicating with others, even with their elders. They are daring in their actions and ambitions. For many of them, technology has become important in their daily life. They use it for study and entertainment.\nHowever, Vietnamese teenagers have also learnt to treasure their traditional values. Many customs and traditions are passed from generation to generation. Vietnamese teens show respect for the elders, at home and outside. They learn to value their families. They come to their parents for advice and ask for permission in their important decisions such as university study and marriage. They also wear traditional costumes such as ao dai, ao tu than, and cook traditional Vietnamese foods on special occasions.",
+      "questions": [
+        {
+          "id": "3a",
+          "question": "1. The most significant change in lifestyle can be seen among ________.",
+          "options": [
+            "A. the elderly",
+            "B. small children",
+            "C. teenagers",
+            "D. girls"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn văn: 'The biggest differences we can see now are in teenagers' lifestyle' → thay đổi lớn nhất thấy ở giới trẻ. Đáp án C đúng. A, B, D không được đề cập là nhóm có thay đổi lớn nhất."
+        },
+        {
+          "id": "3b",
+          "question": "2. The example of teenagers dyeing their hair in different colours shows that they are now ________.",
+          "options": [
+            "A. more creative",
+            "B. more flexible",
+            "C. more confident",
+            "D. more responsible"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn văn: 'They are now more flexible and casual in the way they dress. They wear their hair in different styles and even dye it different colours' → nhuộm tóc là ví dụ minh họa cho 'flexible' (linh hoạt) trong cách ăn mặc. Đáp án B đúng."
+        },
+        {
+          "id": "3c",
+          "question": "3. Most teenagers use technology for ________.",
+          "options": [
+            "A. paying bills",
+            "B. making friends",
+            "C. entertaining and studying",
+            "D. travelling"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn văn: 'They use it for study and entertainment' → học tập và giải trí. Đáp án C đúng. A thanh toán, B kết bạn, D du lịch — đều không đề cập."
+        },
+        {
+          "id": "3d",
+          "question": "4. Which statement below is NOT correct according to the information in the passage?",
+          "options": [
+            "A. Teenagers appreciate traditions.",
+            "B. Teenagers respect their parents' advice.",
+            "C. Teenagers learn customs and traditions from their elderly.",
+            "D. Teenagers want to depend on their parents."
+          ],
+          "correctIndex": 3,
+          "explanation": "Đoạn văn nói giới trẻ 'come to their parents for advice and ask for permission' — tham khảo ý kiến, không phải phụ thuộc hoàn toàn. Đáp án D sai (muốn phụ thuộc vào cha mẹ là không đúng). A, B, C đều có căn cứ trong bài."
+        },
+        {
+          "id": "3e",
+          "question": "5. Teenagers ________ wear traditional costumes.",
+          "options": [
+            "A. sometimes",
+            "B. always",
+            "C. never",
+            "D. unwillingly"
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn văn: 'They also wear traditional costumes... on special occasions' → chỉ mặc vào các dịp đặc biệt, tức là thỉnh thoảng (sometimes). Đáp án A đúng. B 'luôn luôn' và C 'không bao giờ' quá cực đoan; D 'miễn cưỡng' không có cơ sở."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "4. The word \"industrialisation\" is closest in meaning to ________.",
+      "options": [
+        "A. the process of developing farming",
+        "B. the process of developing industries in a country",
+        "C. the process of removing factories",
+        "D. the process of protecting the environment"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Industrialisation' = công nghiệp hóa — quá trình phát triển công nghiệp trong một quốc gia. Đáp án B đúng. A nói về nông nghiệp; C nói về xóa bỏ nhà máy; D nói về bảo vệ môi trường — đều sai."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "5. The word \"casual\" in the passage is closest in meaning to ________.",
+      "options": [
+        "A. formal and strict",
+        "B. relaxed and informal",
+        "C. expensive and elegant",
+        "D. traditional and old-fashioned"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Casual' = thoải mái, không trang trọng — gần nghĩa với 'relaxed and informal'. Đáp án B đúng. A 'trang trọng và nghiêm khắc' ngược nghĩa; C 'đắt tiền và thanh lịch'; D 'truyền thống và lỗi thời' — đều sai."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "6. The word \"daring\" in the passage is closest in meaning to ________.",
+      "options": [
+        "A. timid and fearful",
+        "B. bold and willing to take risks",
+        "C. polite and respectful",
+        "D. careful and cautious"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Daring' = táo bạo, dám làm — gần nghĩa với 'bold and willing to take risks'. Đáp án B đúng. A 'nhút nhát và sợ hãi' ngược nghĩa; C 'lịch sự và tôn trọng'; D 'cẩn thận và thận trọng' — đều không đúng."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "7. The word \"preservatives\" in the passage refers to ________.",
+      "options": [
+        "A. substances that make food taste better",
+        "B. substances added to food to keep it fresh longer",
+        "C. natural ingredients found in vegetables",
+        "D. equipment used in farming"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Preservatives' = chất bảo quản — chất được thêm vào thực phẩm để giữ cho thức ăn tươi lâu hơn. Đáp án B đúng. A làm thức ăn ngon hơn (flavorings); C nguyên liệu tự nhiên; D thiết bị nông nghiệp — đều không phải."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "8. The word \"pesticides\" in the passage refers to ________.",
+      "options": [
+        "A. chemicals used to kill insects and other pests on crops",
+        "B. natural fertilizers to help plants grow",
+        "C. machines used in harvesting",
+        "D. types of fresh vegetables"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Pesticides' = thuốc trừ sâu — hóa chất dùng để diệt côn trùng và sâu hại trên cây trồng. Đáp án A đúng. B phân bón tự nhiên; C máy thu hoạch; D rau củ tươi — đều không đúng."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "9. \"Learning then depended mostly on our teachers and textbooks.\" — Câu này có nghĩa là ________.",
+      "options": [
+        "A. Việc học hồi đó chủ yếu phụ thuộc vào giáo viên và sách giáo khoa.",
+        "B. Việc học hồi đó không cần giáo viên hay sách giáo khoa.",
+        "C. Giáo viên và sách giáo khoa ít quan trọng hồi đó.",
+        "D. Học sinh hồi đó tự học là chủ yếu."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Depended mostly on' = chủ yếu phụ thuộc vào. Đáp án A dịch đúng và đầy đủ nghĩa câu gốc. B, C ngược nghĩa; D trái với 'depended on teachers'."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "10. \"They are daring in their actions and ambitions.\" — Câu này có nghĩa là ________.",
+      "options": [
+        "A. Họ rất rụt rè trong hành động và hoài bão.",
+        "B. Họ can đảm, dám nghĩ dám làm trong hành động và hoài bão.",
+        "C. Họ không có hoài bão hay hành động gì cả.",
+        "D. Họ chỉ dám hành động khi được cho phép."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Daring' = dám làm, can đảm, táo bạo. Đáp án B dịch đúng: họ can đảm, dám nghĩ dám làm. A 'rụt rè' ngược nghĩa; C không có hoài bão; D cần được cho phép — đều sai."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "11. \"People used to grow food like fruits, vegetables, and cereal.\" — Câu này có nghĩa là ________.",
+      "options": [
+        "A. Người ta từng trồng thực phẩm như trái cây, rau củ và ngũ cốc.",
+        "B. Người ta chưa bao giờ tự trồng thực phẩm.",
+        "C. Người ta chỉ trồng trái cây và rau củ, không trồng ngũ cốc.",
+        "D. Ngũ cốc, trái cây và rau củ không phải thực phẩm."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Used to grow' = đã từng trồng (thói quen trong quá khứ). Đáp án A dịch đúng: liệt kê đủ ba loại thực phẩm. B phủ nhận hoàn toàn; C loại bỏ ngũ cốc; D vô lý — đều sai."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "12. \"Technology has turned agriculture into mass production.\" — Câu này có nghĩa là ________.",
+      "options": [
+        "A. Công nghệ đã biến nông nghiệp thành sản xuất hàng loạt.",
+        "B. Công nghệ đã làm cho nông nghiệp giảm sút.",
+        "C. Nông nghiệp không bị ảnh hưởng bởi công nghệ.",
+        "D. Sản xuất hàng loạt đã tạo ra công nghệ nông nghiệp."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Has turned A into B' = đã biến A thành B. Đáp án A dịch đúng nghĩa câu gốc. B nói giảm sút (ngược); C nói không bị ảnh hưởng (ngược); D đảo ngược quan hệ nhân quả."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "13. \"Vietnamese teens show respect for the elders, at home and outside.\" — Câu này có nghĩa là ________.",
+      "options": [
+        "A. Giới trẻ Việt Nam thể hiện sự tôn trọng với người lớn tuổi, ở nhà lẫn bên ngoài.",
+        "B. Giới trẻ Việt Nam chỉ tôn trọng người lớn tuổi ở nhà.",
+        "C. Giới trẻ Việt Nam không tôn trọng người lớn tuổi.",
+        "D. Người lớn tuổi tôn trọng giới trẻ Việt Nam."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Show respect for the elders' = thể hiện sự tôn trọng với người lớn tuổi; 'at home and outside' = ở nhà lẫn bên ngoài. Đáp án A đúng và đầy đủ. B chỉ nói ở nhà; C ngược nghĩa; D đảo ngược chủ thể."
+    },
+    {
+      "id": 14,
+      "type": "reading-comprehension",
+      "passage": "Mr Nam, grandfather, a 70-year-old farmer\nI was one of the few children in my village who was still at school at the age of 15. Every day, I got up early and walked to school. Learning then depended mostly on our teachers and textbooks. We had no library or lab. The nearest bookshop was six kilometres away. I learned simply by taking notes during class, memorising them, and doing the homework. Life then was simple. We rarely travelled outside our village, so we didn't know much about the world around us.\n\nMai, granddaughter, a 15-year-old student\nLearning today is very different from my grandfather's time. **It** is easier and more convenient. Besides learning from teachers and textbooks, we use the Internet. It provides us with various online sources such as documents, clips, and programmes. Google helps us find the answers to almost any questions we have. The Internet also allows us to pursue our own interests. Learning has become more independent. Although most children in my village have fewer private learning facilities than the students in the city, **we** are still luckier than my grandfather's generation. We have TVs to watch at home and a library and computers at school.",
+      "questions": [
+        {
+          "id": "14a",
+          "question": "1. Mr Nam learned mainly from teachers and ________.",
+          "options": [
+            "A. textbooks",
+            "B. computers",
+            "C. Google",
+            "D. libraries"
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn văn: 'Learning then depended mostly on our teachers and textbooks' → ông Nam học chủ yếu từ giáo viên và sách giáo khoa. Đáp án A đúng. B, C là công nghệ hiện đại; D (thư viện) bị phủ nhận ngay trong bài ('We had no library')."
+        },
+        {
+          "id": "14b",
+          "question": "2. He learned by ________ the information he got in class.",
+          "options": [
+            "A. copying",
+            "B. memorising",
+            "C. recording",
+            "D. sharing"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn văn: 'I learned simply by taking notes during class, memorising them' → ông Nam học bằng cách ghi nhớ (memorising). Đáp án B đúng. A 'sao chép'; C 'ghi âm'; D 'chia sẻ' — đều không được đề cập."
+        },
+        {
+          "id": "14c",
+          "question": "3. Nowadays, students can learn from ________ online sources.",
+          "options": [
+            "A. limited",
+            "B. expensive",
+            "C. various",
+            "D. official"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn văn: 'It provides us with various online sources such as documents, clips, and programmes' → nhiều nguồn trực tuyến khác nhau (various). Đáp án C đúng. A 'hạn chế' ngược nghĩa; B 'đắt tiền'; D 'chính thức' — đều sai."
+        },
+        {
+          "id": "14d",
+          "question": "4. An example of an online source mentioned in the passage is ________.",
+          "options": [
+            "A. YouTube",
+            "B. Wikipedia",
+            "C. Facebook",
+            "D. Google"
+          ],
+          "correctIndex": 3,
+          "explanation": "Đoạn văn: 'Google helps us find the answers to almost any questions we have' → Google được đề cập trực tiếp là nguồn trực tuyến. Đáp án D đúng. A, B, C không được nhắc đến trong bài."
+        },
+        {
+          "id": "14e",
+          "question": "5. The Internet helps children ________ their interests.",
+          "options": [
+            "A. forget",
+            "B. hide",
+            "C. pursue",
+            "D. change"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn văn: 'The Internet also allows us to pursue our own interests' → Internet giúp trẻ em theo đuổi (pursue) sở thích của mình. Đáp án C đúng. A 'quên đi'; B 'che giấu'; D 'thay đổi' — đều sai nghĩa."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": "reading-comprehension",
+      "passage": "Family life has changed a lot over the past 50 years.\n\nFirstly, nuclear families have replaced extended ones. In the past, there were usually three generations living together in a household. Now, there are often two generations only: parents and children.\n\nSecondly, Vietnamese people are traditionally family-oriented. Holidays in the past mostly meant gathering, cooking and eating. Now, more families go out, visit a place, play and eat. Overall, holidays have become more relaxing and less tiring.\n\nLastly, families in the past spent more time talking and doing things together. Children came to their elders to share their experiences and look for answers to their questions. Today's children have more opportunities to learn from other sources. They do not depend all on their elders. While they listen to their parents, they want their parents to listen to them, too. The relation between parents and children is more democratic. Parents have learned to respect their children's independence and privacy.",
+      "questions": [
+        {
+          "id": "15a",
+          "question": "1. According to the talk, which type of family is more common today?",
+          "options": [
+            "A. Extended families with three generations",
+            "B. Nuclear families with two generations",
+            "C. Single-parent families",
+            "D. Families with four generations"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn văn: 'Nuclear families have replaced extended ones. Now, there are often two generations only: parents and children' → ngày nay gia đình hạt nhân hai thế hệ phổ biến hơn. Đáp án B đúng. A, D mô tả gia đình đa thế hệ (quá khứ); C không được đề cập."
+        },
+        {
+          "id": "15b",
+          "question": "2. How are Vietnamese people traditionally described in the talk?",
+          "options": [
+            "A. individualistic",
+            "B. hard-working",
+            "C. family-oriented",
+            "D. technology-dependent"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn văn: 'Vietnamese people are traditionally family-oriented' → người Việt có truyền thống hướng về gia đình. Đáp án C đúng, trích dẫn trực tiếp. A 'cá nhân chủ nghĩa'; B 'chăm chỉ'; D 'phụ thuộc công nghệ' — đều không có trong bài."
+        },
+        {
+          "id": "15c",
+          "question": "3. In the past, children came to their elders mainly to ________.",
+          "options": [
+            "A. ask for money",
+            "B. share experiences and find answers",
+            "C. learn new technology",
+            "D. plan family holidays"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn văn: 'Children came to their elders to share their experiences and look for answers to their questions' → trẻ tìm đến người lớn để chia sẻ kinh nghiệm và tìm câu trả lời. Đáp án B đúng. A, C, D không được đề cập."
+        },
+        {
+          "id": "15d",
+          "question": "4. Today's parents have learned to respect their children's independence and ________.",
+          "options": [
+            "A. ambitions",
+            "B. decisions",
+            "C. privacy",
+            "D. schedules"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn văn: 'Parents have learned to respect their children's independence and privacy' → cha mẹ học cách tôn trọng sự độc lập và riêng tư (privacy) của con. Đáp án C đúng, trích dẫn trực tiếp. A, B, D không được nhắc đến trong câu này."
+        }
+      ]
+    }
+  ]
+}

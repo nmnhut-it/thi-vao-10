@@ -1,0 +1,451 @@
+{
+  "topicId": "reading-unit-07-natural-wonders",
+  "title": "Unit 7: Natural Wonders of the World - Reading",
+  "section": "reading",
+  "knowledge": {
+    "html": "<h3>Unit 7: Natural Wonders of the World</h3><p>Chủ đề này giới thiệu các kỳ quan thiên nhiên nổi tiếng trên thế giới — những địa danh hùng vĩ do thiên nhiên tạo ra, được UNESCO và cộng đồng quốc tế công nhận. Bài đọc giúp em mở rộng từ vựng về địa hình, du lịch và bảo tồn thiên nhiên.</p><h4>Từ vựng trọng tâm</h4><ul><li><strong>consider</strong> (v) — cân nhắc, xem xét</li><li><strong>peaks</strong> (n) — đỉnh núi nhọn</li><li><strong>majestic</strong> (adj) — hùng vĩ, tráng lệ</li><li><strong>occurs</strong> (v) — xảy ra, diễn ra</li><li><strong>hesitate</strong> (v) — do dự, ngập ngừng</li><li><strong>diversity</strong> (n) — sự đa dạng</li><li><strong>endangered</strong> (adj) — có nguy cơ tuyệt chủng</li><li><strong>irrigation</strong> (n) — việc tưới tiêu</li><li><strong>reservoir</strong> (n) — hồ chứa nước</li><li><strong>ecosystem</strong> (n) — hệ sinh thái</li><li><strong>conservation</strong> (n) — sự bảo tồn</li><li><strong>habitat</strong> (n) — môi trường sống</li></ul><h4>Mẹo đọc hiểu</h4><ul><li>Đọc lướt toàn bài để nắm chủ đề chính trước khi đọc kỹ từng câu hỏi.</li><li>Với câu hỏi NOT true / EXCEPT, hãy kiểm tra từng đáp án theo văn bản — đáp án SAI mới là kết quả cần chọn.</li><li>Với bài điền từ (cloze), đọc cả câu trước và sau chỗ trống để chọn từ đúng nghĩa và đúng ngữ pháp.</li></ul>"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "reading-comprehension",
+      "passage": "The Dolomites - Paradise at Your Feet\n\nIf you haven't decided on where to travel this holiday, consider the Dolomites!\n\nThe Dolomites are a mountain range in Italy. It was recognised as a UNESCO World Heritage Site in 2009. The Dolomites are part of the Alps, stretching from the Adige River to the Piave River valley. This mountain range has a total area of about 141,900 hectares. It has 18 peaks over 3,000 metres high. It is easy to get access to most parts of the Dolomites.\n\nThe Dolomites are a **majestic** site. They are widely regarded as being among the most attractive mountain landscapes in the world. There are steep rocky cliffs, sharp peaks, narrow and deep valleys, and white snow on the mountain top. Their natural scenery attracts tourists from many parts of the world.\n\nThe Dolomites are a popular place for winter skiing, mountain climbing, hiking, and cycling any time of the year. An annual bicycle race covering seven mountain passes on the Dolomites occurs in the first week of July.\n\nSo do not **hesitate** to book a tour to the Dolomites to see and do these things for yourself!",
+      "questions": [
+        {
+          "id": "1a",
+          "question": "1. According to the text, the Dolomites are a ________.",
+          "options": [
+            "A. river",
+            "B. work of art",
+            "C. mountain range",
+            "D. valley"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn văn nói rõ: 'The Dolomites are a mountain range in Italy' → dãy núi. Đáp án C đúng. A sông, B tác phẩm nghệ thuật, D thung lũng — đều không đề cập."
+        },
+        {
+          "id": "1b",
+          "question": "2. Which of the following is NOT true about the Dolomites?",
+          "options": [
+            "A. The Dolomites are located in Italy.",
+            "B. The Dolomites became a UNESCO World Heritage Site in 2009.",
+            "C. The Dolomites have 18 peaks over 3,000 metres high.",
+            "D. You can cycle in the Dolomites only in July."
+          ],
+          "correctIndex": 3,
+          "explanation": "Đoạn văn nói: 'cycling any time of the year' — đạp xe được vào bất kỳ lúc nào trong năm, không phải chỉ tháng 7. Đáp án D sai. A, B, C đều đúng theo văn bản."
+        },
+        {
+          "id": "1c",
+          "question": "3. The word \"majestic\" in paragraph 3 is closest in meaning to ________.",
+          "options": [
+            "A. dangerous",
+            "B. crowded",
+            "C. impressive and magnificent",
+            "D. hidden and mysterious"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Majestic' = hùng vĩ, tráng lệ — gần nghĩa nhất với 'impressive and magnificent' (ấn tượng và tráng lệ). Đáp án C đúng. A nguy hiểm, B đông đúc, D ẩn và huyền bí — không đúng."
+        },
+        {
+          "id": "1d",
+          "question": "4. This text is probably taken from ________.",
+          "options": [
+            "A. a science journal",
+            "B. a travel brochure",
+            "C. a novel",
+            "D. an arts magazine"
+          ],
+          "correctIndex": 1,
+          "explanation": "Văn bản giới thiệu địa danh du lịch, dùng ngôn ngữ mời gọi ('do not hesitate to book a tour') → đây là tờ rơi/ấn phẩm du lịch. Đáp án B đúng. A tạp chí khoa học, C tiểu thuyết, D tạp chí nghệ thuật — không phù hợp."
+        },
+        {
+          "id": "1e",
+          "question": "5. The word \"hesitate\" in the last paragraph is closest in meaning to ________.",
+          "options": [
+            "A. be unhappy",
+            "B. be indecisive",
+            "C. hurry",
+            "D. decide"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Hesitate' = do dự, không dám làm ngay — gần nghĩa nhất với 'be indecisive' (thiếu quyết đoán). Đáp án B đúng. A không vui, C vội vã, D quyết định — không đúng."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "reading-comprehension",
+      "passage": "Mount Everest (Mt. Everest) is the highest mountain (1)_____ the world. It is 8,848 metres high. Mt. Everest was first climbed in 1953 by Edmund Hillary and Tenzing Norgay. Every year, a lot of people want to climb Mt. Everest. It is very dangerous to climb Mt. Everest. The air is very (2)_____ and cold. Most people carry bottles of oxygen; they could die without it. When the oxygen bottles are empty, people throw them on the ground. (3)_____ strong winds rip their tents, people leave them behind. They do not have the energy to take the rubbish away. They only have enough energy to go down the mountain (4)_____.\n\nRubbish is a terrible problem. Since people first began to climb Mt. Everest, they have left tons and tons of rubbish on the mountain. Several groups have climbed the mountain just to (5)_____ the rubbish. When people plan to climb the mountain, they have to plan to take away their rubbish.",
+      "questions": [
+        {
+          "id": "2a",
+          "question": "(1) Mount Everest is the highest mountain _____ the world.",
+          "options": [
+            "A. in",
+            "B. of",
+            "C. at",
+            "D. on"
+          ],
+          "correctIndex": 0,
+          "explanation": "Dùng giới từ 'in' khi nói về vị trí trong một phạm vi/khu vực: 'the highest mountain in the world' = ngọn núi cao nhất trên thế giới. Đây là collocaton cố định. Đáp án A đúng. B/C/D không hợp với cụm 'highest... the world'."
+        },
+        {
+          "id": "2b",
+          "question": "(2) The air is very _____ and cold.",
+          "options": [
+            "A. thin",
+            "B. thick",
+            "C. dense",
+            "D. heavy"
+          ],
+          "correctIndex": 0,
+          "explanation": "Trên đỉnh Everest, không khí loãng — 'thin air' = không khí loãng (ít oxy). Ngữ cảnh nói người phải mang bình oxy vì không thở được → 'thin' (loãng) đúng. B 'thick', C 'dense', D 'heavy' đều chỉ không khí đặc/nặng — ngược nghĩa."
+        },
+        {
+          "id": "2c",
+          "question": "(3) _____ strong winds rip their tents, people leave them behind.",
+          "options": [
+            "A. Because",
+            "B. Although",
+            "C. When",
+            "D. If"
+          ],
+          "correctIndex": 2,
+          "explanation": "'When strong winds rip their tents, people leave them behind' = Khi gió mạnh làm rách lều, người ta bỏ lại chúng. 'When' chỉ thời điểm xảy ra hành động — phù hợp nhất. A 'because' chỉ nguyên nhân, B 'although' chỉ sự tương phản, D 'if' chỉ điều kiện giả định — không đúng ngữ cảnh."
+        },
+        {
+          "id": "2d",
+          "question": "(4) They only have enough energy to go down the mountain _____.",
+          "options": [
+            "A. safely",
+            "B. quickly",
+            "C. slowly",
+            "D. carefully"
+          ],
+          "correctIndex": 1,
+          "explanation": "Văn cảnh: người leo núi kiệt sức, không đủ sức mang rác — họ chỉ đủ năng lượng để xuống núi 'quickly' (nhanh chóng, tức là chỉ vừa đủ sức xuống mà thôi). Đáp án B đúng theo đáp án SBT. A an toàn, C chậm rãi, D cẩn thận — không phù hợp với ý 'chỉ vừa đủ sức'."
+        },
+        {
+          "id": "2e",
+          "question": "(5) Several groups have climbed the mountain just to _____ the rubbish.",
+          "options": [
+            "A. climb",
+            "B. clean",
+            "C. remove",
+            "D. collect"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Clean the rubbish' = dọn sạch rác. Ngữ cảnh: nhóm người leo núi chỉ để dọn rác — 'clean' phù hợp nhất. C 'remove' và D 'collect' gần nghĩa nhưng 'clean' là đáp án đúng theo SBT. A 'climb' không hợp nghĩa (leo núi để leo rác?)."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "reading-comprehension",
+      "passage": "Leave nothing but footprints. Take nothing but photographs. Kill nothing but your time. Help protect Cuc Phuong National Park! The message has become a strong slogan reminding visitors (1)_____ the importance of their behaviour and its effects on nature when visiting the park. Cuc Phuong National Park is (2)_____ in Ninh Binh Province. Its dense forests form the habitat for some of Asia's rarest plant and animal species. It is home to an amazing diversity of (3)_____ and fauna. A number of species in the park are listed in Viet Nam's Red Book of endangered species. Cuc Phuong National Park (4)_____ launched activities to inspire love for nature and improve awareness of the importance of forest conservation. The park has promoted tourism products with the motto: Each (5)_____ is a messenger spreading love for nature!",
+      "questions": [
+        {
+          "id": "3a",
+          "question": "(1) The message reminds visitors _____ the importance of their behaviour.",
+          "options": [
+            "A. of",
+            "B. about",
+            "C. with",
+            "D. in"
+          ],
+          "correctIndex": 0,
+          "explanation": "Cấu trúc: 'remind sb of sth' = nhắc nhở ai về điều gì. 'remind visitors of the importance' là cụm cố định đúng ngữ pháp. Đáp án A đúng. B 'about' cũng có thể dùng với remind nhưng đáp án SBT là A. C/D không hợp cấu trúc."
+        },
+        {
+          "id": "3b",
+          "question": "(2) Cuc Phuong National Park is _____ in Ninh Binh Province.",
+          "options": [
+            "A. located",
+            "B. situated",
+            "C. found",
+            "D. placed"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Located in' = nằm tại — cụm phổ biến nhất để chỉ vị trí địa lý. 'Cuc Phuong National Park is located in Ninh Binh' là cách diễn đạt chuẩn. Đáp án A đúng. B 'situated' gần nghĩa nhưng A là đáp án SBT. C/D ít tự nhiên hơn trong ngữ cảnh này."
+        },
+        {
+          "id": "3c",
+          "question": "(3) It is home to an amazing diversity of _____ and fauna.",
+          "options": [
+            "A. flora",
+            "B. flowers",
+            "C. forests",
+            "D. foliage"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Flora and fauna' = hệ thực vật và động vật — là cặp từ cố định (fixed collocation) trong tiếng Anh. 'Flora' chỉ toàn bộ thực vật trong một khu vực. Đáp án A đúng. B 'flowers' (hoa), C 'forests' (rừng), D 'foliage' (tán lá) — đều không tạo thành cụm cố định với 'fauna'."
+        },
+        {
+          "id": "3d",
+          "question": "(4) Cuc Phuong National Park _____ launched activities to inspire love for nature.",
+          "options": [
+            "A. has",
+            "B. have",
+            "C. had",
+            "D. having"
+          ],
+          "correctIndex": 0,
+          "explanation": "Chủ ngữ 'Cuc Phuong National Park' là danh từ số ít → trợ động từ 'has' (hiện tại hoàn thành). Cấu trúc: S (số ít) + has + V3. Đáp án A đúng. B 'have' dùng cho chủ ngữ số nhiều/I/you, C 'had' là quá khứ hoàn thành, D 'having' không phải trợ động từ."
+        },
+        {
+          "id": "3e",
+          "question": "(5) Each _____ is a messenger spreading love for nature!",
+          "options": [
+            "A. visitor",
+            "B. tourist",
+            "C. guest",
+            "D. traveler"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ngữ cảnh nói về người đến thăm vườn quốc gia — 'visitor' (người tham quan) là từ phù hợp nhất và tự nhiên nhất. Đáp án A đúng theo SBT. B 'tourist' cũng gần nghĩa nhưng 'visitor' chính xác hơn cho vườn quốc gia. C 'guest' và D 'traveler' ít phù hợp ngữ cảnh."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "4. The word \"endangered\" (as in 'endangered species') means ________.",
+      "options": [
+        "A. species that are very dangerous to humans",
+        "B. species at risk of becoming extinct",
+        "C. species that have already died out",
+        "D. species that live only in mountains"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Endangered species' = loài có nguy cơ tuyệt chủng — chỉ các loài động/thực vật đang đứng trước nguy cơ biến mất. Đáp án B đúng. A nhầm 'endangered' với 'dangerous', C chỉ loài đã tuyệt chủng (extinct), D không liên quan đến định nghĩa."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "5. The word \"rubbish\" means ________.",
+      "options": [
+        "A. old clothes left on a mountain",
+        "B. waste material and litter",
+        "C. broken climbing equipment",
+        "D. used oxygen bottles only"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Rubbish' = rác thải, đồ bỏ đi — từ chung chỉ mọi loại rác. Trong bài, 'rubbish' bao gồm bình oxy rỗng, lều rách và các đồ bỏ lại. Đáp án B đúng. A chỉ quần áo, C chỉ thiết bị leo núi, D chỉ bình oxy — đều quá hẹp."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "6. The word \"habitat\" (as in 'forest habitat') means ________.",
+      "options": [
+        "A. the natural environment where an animal or plant lives",
+        "B. a type of rare plant found in national parks",
+        "C. a programme for protecting wild animals",
+        "D. the food chain of an ecosystem"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Habitat' = môi trường sống tự nhiên của động/thực vật — nơi một loài sinh sống và phát triển. Đáp án A đúng. B chỉ một loại thực vật, C chỉ một chương trình bảo vệ, D chỉ chuỗi thức ăn — đều không phải nghĩa của 'habitat'."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "7. The word \"conservation\" (as in 'forest conservation') means ________.",
+      "options": [
+        "A. the destruction of natural resources",
+        "B. the protection and careful management of the environment",
+        "C. the study of weather patterns in forests",
+        "D. the development of new roads through forests"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Conservation' = sự bảo tồn — bảo vệ và quản lý cẩn thận môi trường/tài nguyên thiên nhiên. Đáp án B đúng. A phá hủy (ngược nghĩa), C nghiên cứu thời tiết, D phát triển đường sá — đều không phải nghĩa của 'conservation'."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "8. The word \"flora\" (as in 'flora and fauna') means ________.",
+      "options": [
+        "A. all the animal life of a particular region",
+        "B. all the plant life of a particular region",
+        "C. a type of national park in Asia",
+        "D. the climate of a tropical forest"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Flora' = hệ thực vật — tất cả các loài thực vật trong một khu vực cụ thể. Cặp cố định: 'flora and fauna' = thực vật và động vật. Đáp án B đúng. A là 'fauna' (động vật — nhầm lẫn phổ biến), C và D không liên quan đến định nghĩa."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "9. \"Mount Everest was first climbed in 1953 by Edmund Hillary and Tenzing Norgay.\" — Câu này có nghĩa là ________.",
+      "options": [
+        "A. Edmund Hillary và Tenzing Norgay là những người đầu tiên leo lên đỉnh Everest vào năm 1953.",
+        "B. Năm 1953, Edmund Hillary và Tenzing Norgay đã thất bại trong việc leo Everest.",
+        "C. Everest lần đầu được phát hiện bởi Edmund Hillary năm 1953.",
+        "D. Edmund Hillary và Tenzing Norgay đã leo Everest nhiều lần từ năm 1953."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Was first climbed' = bị/được leo lần đầu tiên; 'by Edmund Hillary and Tenzing Norgay' = bởi Edmund Hillary và Tenzing Norgay. Đây là câu bị động — đáp án A dịch đúng. B sai ('thất bại'), C sai ('phát hiện' khác 'leo'), D sai ('nhiều lần' không có trong câu)."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "10. \"Since people first began to climb Mt. Everest, they have left tons and tons of rubbish on the mountain.\" — Câu này có nghĩa là ________.",
+      "options": [
+        "A. Kể từ khi người ta bắt đầu leo Everest, họ đã để lại hàng tấn rác trên núi.",
+        "B. Người ta chỉ để lại một ít rác trên Everest kể từ khi bắt đầu leo núi.",
+        "C. Rác trên Everest đã được dọn sạch kể từ khi có người leo.",
+        "D. Người leo núi mang theo hàng tấn rác lên Everest."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Since' = kể từ khi; 'have left' = đã để lại (hiện tại hoàn thành — hành động kéo dài đến nay); 'tons and tons of rubbish' = hàng tấn rác. Đáp án A dịch chính xác. B sai ('một ít' thay vì hàng tấn), C ngược ý (dọn sạch), D sai hướng (mang lên thay vì để lại)."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "11. \"Its dense forests form the habitat for some of Asia's rarest plant and animal species.\" — Câu này có nghĩa là ________.",
+      "options": [
+        "A. Những khu rừng rậm rạp của nó tạo thành môi trường sống cho một số loài thực vật và động vật hiếm có nhất châu Á.",
+        "B. Rừng rậm của nó bị phá hủy, ảnh hưởng đến các loài hiếm ở châu Á.",
+        "C. Các loài hiếm ở châu Á đã rời bỏ môi trường sống trong những khu rừng rậm.",
+        "D. Rừng rậm chỉ là nơi sinh sống của các loài phổ biến ở châu Á."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Dense forests' = rừng rậm rạp; 'form the habitat' = tạo thành môi trường sống; 'rarest plant and animal species' = các loài thực vật và động vật hiếm có nhất. Đáp án A dịch đúng và đầy đủ. B, C, D đều có nội dung sai so với câu gốc."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "12. \"A number of species in the park are listed in Viet Nam's Red Book of endangered species.\" — Câu này có nghĩa là ________.",
+      "options": [
+        "A. Một số loài trong vườn được liệt kê trong Sách Đỏ về các loài có nguy cơ tuyệt chủng của Việt Nam.",
+        "B. Tất cả các loài trong vườn đều nằm trong Sách Đỏ của Việt Nam.",
+        "C. Sách Đỏ của Việt Nam không có loài nào từ vườn quốc gia này.",
+        "D. Các loài trong Sách Đỏ đã được chuyển ra khỏi vườn quốc gia."
+      ],
+      "correctIndex": 0,
+      "explanation": "'A number of species' = một số loài; 'are listed in' = được liệt kê trong; 'Red Book of endangered species' = Sách Đỏ về các loài có nguy cơ tuyệt chủng. Đáp án A dịch chính xác. B sai ('một số' ≠ 'tất cả'), C ngược ý, D bịa đặt thông tin không có trong câu."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "13. \"Several groups have climbed the mountain just to clean the rubbish.\" — Câu này có nghĩa là ________.",
+      "options": [
+        "A. Một số nhóm đã leo núi chỉ để dọn rác.",
+        "B. Các nhóm leo núi từ chối dọn rác sau khi leo xong.",
+        "C. Dọn rác là điều kiện bắt buộc khi leo Everest.",
+        "D. Rác trên Everest đã được dọn sạch hoàn toàn bởi các nhóm tình nguyện."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Several groups' = một số nhóm; 'have climbed' = đã leo (hiện tại hoàn thành); 'just to clean the rubbish' = chỉ để dọn rác — mục đích duy nhất của chuyến leo. Đáp án A dịch đúng. B ngược ý, C bịa thêm 'bắt buộc', D sai ('hoàn toàn' không có trong câu)."
+    },
+    {
+      "id": 14,
+      "type": "reading-comprehension",
+      "passage": "The Dolomites - Paradise at Your Feet\n\nIf you haven't decided on where to travel this holiday, consider the Dolomites!\n\nThe Dolomites are a mountain range in Italy. It was recognised as a UNESCO World Heritage Site in 2009. The Dolomites are part of the Alps, stretching from the Adige River to the Piave River valley. This mountain range has a total area of about 141,900 hectares. It has 18 peaks over 3,000 metres high. It is easy to get access to most parts of the Dolomites.\n\nThe Dolomites are a **majestic** site. They are widely regarded as being among the most attractive mountain landscapes in the world. There are steep rocky cliffs, sharp peaks, narrow and deep valleys, and white snow on the mountain top. Their natural scenery attracts tourists from many parts of the world.\n\nThe Dolomites are a popular place for winter skiing, mountain climbing, hiking, and cycling any time of the year. An annual bicycle race covering seven mountain passes on the Dolomites occurs in the first week of July.\n\nSo do not **hesitate** to book a tour to the Dolomites to see and do these things for yourself!",
+      "questions": [
+        {
+          "id": "14a",
+          "question": "1. According to the text, the Dolomites are a ________.",
+          "options": [
+            "A. river",
+            "B. work of art",
+            "C. mountain range",
+            "D. valley"
+          ],
+          "correctIndex": 2,
+          "explanation": "Bài đọc ghi rõ: 'The Dolomites are a mountain range in Italy' → Dolomites là một dãy núi. Đáp án C đúng. A sông, B tác phẩm nghệ thuật, D thung lũng — đều không được đề cập."
+        },
+        {
+          "id": "14b",
+          "question": "2. The word \"hesitate\" in the last sentence of the text is closest in meaning to ________.",
+          "options": [
+            "A. be unhappy",
+            "B. be indecisive",
+            "C. hurry",
+            "D. decide"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Hesitate' = do dự, không dứt khoát — gần nghĩa nhất với 'be indecisive' (thiếu quyết đoán). Đáp án B đúng. A không vui, C vội vã, D quyết định — đều không đúng nghĩa."
+        },
+        {
+          "id": "14c",
+          "question": "3. Which of the following is NOT true, according to the text?",
+          "options": [
+            "A. The Dolomites are in Italy.",
+            "B. You can get access to the Dolomites easily.",
+            "C. The Dolomites are a World Heritage Site.",
+            "D. You can cycle in the Dolomites only in July."
+          ],
+          "correctIndex": 3,
+          "explanation": "Bài đọc nói: 'cycling any time of the year' — đạp xe quanh năm, không chỉ tháng 7. Vậy D sai. A, B, C đều có trong bài. Câu hỏi dạng NOT true → chọn thông tin SAI với bài đọc."
+        },
+        {
+          "id": "14d",
+          "question": "4. This text is probably taken from ________.",
+          "options": [
+            "A. a travel brochure",
+            "B. a science journal",
+            "C. a novel",
+            "D. an arts magazine"
+          ],
+          "correctIndex": 0,
+          "explanation": "Văn bản mời gọi du lịch, dùng ngôn ngữ quảng bá ('do not hesitate to book a tour') → xuất xứ từ tờ rơi/ấn phẩm du lịch. Đáp án A đúng. B tạp chí khoa học, C tiểu thuyết, D tạp chí nghệ thuật — không phù hợp phong cách bài."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": "reading-comprehension",
+      "passage": "The Amazon Rainforest is a magnificent area. It is the largest tropical forest on earth. The Amazon possesses more than half of our world's tropical forest areas. It is very rich in flora and fauna. The Amazon Rainforest is home to the most biological diversity, serving as the green lung of the world. It contributes to the production of one-fifth of the oxygen in our atmosphere. The Amazon also helps to slow climate change. For these reasons, the Amazon ranks among seven natural wonders of the world. It has so many things which are especially important for our earth and our future.\n\nToday the biodiversity of this region is threatened. These threats include illegal logging, deforestation, fires, and rare animal species extinction. Protecting wild species and the wild places where they live is so urgent for us. Governments and the communities living in the area are doing a lot to restore damaged ecosystems. They plant trees and establish parks to protect rainforests and wildlife. They also encourage people to live in a way that doesn't hurt the environment.",
+      "questions": [
+        {
+          "id": "15a",
+          "question": "1. The Amazon Rainforest is rich in ________.",
+          "options": [
+            "A. rivers and forests",
+            "B. flora and fauna",
+            "C. climate change",
+            "D. oxygen and minerals"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bài nghe ghi rõ: 'It is very rich in flora and fauna' — rất giàu hệ thực vật và động vật. Đáp án B đúng. A sông và rừng, C biến đổi khí hậu, D oxy và khoáng sản — không được đề cập theo nghĩa này."
+        },
+        {
+          "id": "15b",
+          "question": "2. The threats to biodiversity are deforestation, fires, and extinction of rare animal ________.",
+          "options": [
+            "A. flora",
+            "B. fauna",
+            "C. species",
+            "D. habitats"
+          ],
+          "correctIndex": 2,
+          "explanation": "Bài nói: 'rare animal species extinction' — sự tuyệt chủng của các loài động vật quý hiếm. Từ cần điền là 'species' (các loài). Đáp án C đúng. A hệ thực vật, B hệ động vật, D môi trường sống — đều không khớp với câu gốc."
+        },
+        {
+          "id": "15c",
+          "question": "3. Which activity can governments and communities do to restore damaged ecosystems?",
+          "options": [
+            "A. Punishing loggers.",
+            "B. Establishing parks.",
+            "C. Putting out fires.",
+            "D. Reducing logging quotas."
+          ],
+          "correctIndex": 1,
+          "explanation": "Bài nêu: 'They plant trees and establish parks to protect rainforests and wildlife.' Hành động trực tiếp được đề cập là thành lập công viên. Đáp án B đúng. A, C, D không được nhắc đến trong đoạn văn."
+        },
+        {
+          "id": "15d",
+          "question": "4. Governments are encouraging people to live in a way that doesn't hurt the ________.",
+          "options": [
+            "A. environment",
+            "B. animals",
+            "C. marine life",
+            "D. economy"
+          ],
+          "correctIndex": 0,
+          "explanation": "Câu kết bài: 'They also encourage people to live in a way that doesn't hurt the environment.' Từ cần điền là 'environment' (môi trường). Đáp án A đúng. B động vật, C sinh vật biển, D kinh tế — đều không có trong câu gốc."
+        }
+      ]
+    }
+  ]
+}

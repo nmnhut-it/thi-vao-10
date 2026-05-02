@@ -1,0 +1,511 @@
+{
+  "topicId": "reading-unit-01-local-community",
+  "title": "Unit 1: Local Community - Reading",
+  "section": "reading",
+  "knowledge": {
+    "html": "<h3>Unit 1: Local Community</h3><p>Bài đọc Unit 1 giới thiệu những cộng đồng địa phương đặc sắc qua hai ví dụ: làng Vòng (Hà Nội) nổi tiếng với cốm, và làng Denby (Anh) nổi tiếng với đồ gốm — mỗi nơi đều lưu giữ nghề thủ công truyền thống độc đáo.</p><h4>Từ vựng trọng tâm</h4><ul><li><strong>artisan</strong> — nghệ nhân</li><li><strong>speciality</strong> — đặc sản, sản phẩm đặc trưng</li><li><strong>preserve</strong> — bảo tồn, gìn giữ</li><li><strong>fragrance</strong> — mùi thơm</li><li><strong>original</strong> — nguyên bản, ban đầu</li><li><strong>function</strong> — chức năng, công dụng</li><li><strong>generation</strong> — thế hệ</li><li><strong>attraction</strong> — điểm thu hút, điểm du lịch</li></ul><h4>Mẹo đọc hiểu</h4><ul><li>Đọc lướt để nắm ý chính trước khi đọc chi tiết từng câu hỏi.</li><li>Khi gặp từ mới, đoán nghĩa theo ngữ cảnh — đặc biệt chú ý các từ xung quanh.</li><li>Chú ý đại từ/từ thay thế (it, they, them, which) — chúng thường chỉ về danh từ gần nhất phía trước.</li></ul>"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "reading-comprehension",
+      "passage": "Vong, a small village in Ha Noi, is famous for a speciality food: com (young sticky rice flakes). To make com, artisans follow a series of steps. They preserve the techniques by passing **them** down to their sons. In the past, people made com by hand, but now they use machines for some steps to shorten the process. They wrap the final product in two layers of leaves to preserve its **fragrance** before selling it to consumers. Com Lang Vong is well known in Viet Nam as a speciality of Ha Noi autumn.\n\nDenby is a village in the county of Derbyshire, England. It is the home of the famous Denby Pottery, which is made from the finest local clay. Going around the village, we can see artisans hand-craft pottery collections. They still use some of the original techniques passed down through generations. In Denby products, we can see their beauty and function which make them world-famous. Today Denby is also a tourist attraction. Visitors can make pottery in workshops or find out about the history of pottery in the museum.",
+      "questions": [
+        {
+          "id": "1a",
+          "question": "1. What is the main idea of the passage?",
+          "options": [
+            "A. How to make com and Denby pottery step by step.",
+            "B. Two local communities famous for their traditional speciality products.",
+            "C. Why Ha Noi autumn is special and Denby is a tourist destination.",
+            "D. The differences between Vietnamese and English traditional crafts."
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn văn giới thiệu hai cộng đồng địa phương (làng Vòng và Denby) với sản phẩm đặc sản truyền thống của họ → đáp án B tóm tắt đúng nhất. A chỉ nói quy trình, C/D không phải ý chính."
+        },
+        {
+          "id": "1b",
+          "question": "2. According to the passage, how do artisans in Vong village keep their craft alive?",
+          "options": [
+            "A. By selling com to international markets.",
+            "B. By teaching foreigners to make com.",
+            "C. By passing the techniques down to their sons.",
+            "D. By using modern machines for every step."
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn 1 ghi rõ: 'They preserve the techniques by passing them down to their sons.' → truyền kỹ thuật cho con trai. Đáp án C đúng. D sai vì chỉ dùng máy cho một số bước."
+        },
+        {
+          "id": "1c",
+          "question": "3. Which of the following is NOT true about Denby?",
+          "options": [
+            "A. Denby pottery is made from local clay.",
+            "B. Artisans in Denby hand-craft their products.",
+            "C. All traditional techniques in Denby have been replaced by machines.",
+            "D. Visitors can learn to make pottery in Denby."
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn 2 viết: 'They still use some of the original techniques' — vẫn còn dùng kỹ thuật truyền thống, không bị thay thế hoàn toàn → đáp án C sai. A, B, D đều đúng theo bài."
+        },
+        {
+          "id": "1d",
+          "question": "4. The word \"them\" in paragraph 1 refers to ________.",
+          "options": [
+            "A. artisans",
+            "B. techniques",
+            "C. steps",
+            "D. leaves"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Them' trong câu 'passing them down to their sons' chỉ lại 'the techniques' (các kỹ thuật) — danh từ gần nhất trước đó. Đáp án B đúng."
+        },
+        {
+          "id": "1e",
+          "question": "5. The word \"fragrance\" is closest in meaning to ________.",
+          "options": [
+            "A. colour",
+            "B. shape",
+            "C. flavour",
+            "D. scent"
+          ],
+          "correctIndex": 3,
+          "explanation": "'Fragrance' = mùi thơm dễ chịu, đồng nghĩa với 'scent' (hương thơm). Đáp án D đúng. A 'colour' = màu sắc, B 'shape' = hình dáng, C 'flavour' = hương vị — đều không đúng."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "reading-comprehension",
+      "passage": "Hi Elena,\n\nHow are you? In your last email, you asked me about places of interest in my community. Now I'll tell you about them.\n\nI live (1)_____ a suburb of Ha Noi. (2)_____ it's a small community, there are enough places of interest. Near my house there are two parks with a lot of trees and (3)_____ facilities. People of all ages go there to (4)_____ the fresh air, do exercise, and play badminton or basketball. I also go to these parks to play badminton with my brother. (5)_____ place which people like in our community is the local library. It has many new books of all kinds. In addition, it holds (6)_____ activities for book lovers, such as book review competitions or meetings with famous authors. Therefore, it attracts a lot of readers each weekend. When you visit Ha Noi, I'll (7)_____ you to these places.\n\nTell me about the places of interest in your area in your (8)_____ email.\n\nCheers,\nTrang",
+      "questions": [
+        {
+          "id": "2a",
+          "question": "(1) I live _____ a suburb of Ha Noi.",
+          "options": [
+            "A. in",
+            "B. of",
+            "C. on",
+            "D. with"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Live in a suburb' = sống ở vùng ngoại ô — giới từ 'in' đi với danh từ chỉ nơi chốn (suburb, city, town). Đáp án A đúng. B/C/D không tạo thành cụm cố định với 'suburb'."
+        },
+        {
+          "id": "2b",
+          "question": "(2) _____ it's a small community, there are enough places of interest.",
+          "options": [
+            "A. But",
+            "B. However",
+            "C. Besides",
+            "D. Although"
+          ],
+          "correctIndex": 3,
+          "explanation": "Câu có hai mệnh đề nối nhau bằng quan hệ tương phản ('cộng đồng nhỏ' nhưng 'vẫn có nhiều địa điểm') → cần liên từ 'Although' (mặc dù) đứng đầu mệnh đề phụ. A/B đứng đầu câu độc lập, C không có nghĩa tương phản."
+        },
+        {
+          "id": "2c",
+          "question": "(3) Near my house there are two parks with a lot of trees and _____ facilities.",
+          "options": [
+            "A. sporty",
+            "B. sportsmen",
+            "C. sports",
+            "D. sportingly"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Sports facilities' = cơ sở thể thao — danh từ 'sports' đóng vai trò tính từ bổ nghĩa cho 'facilities'. Đáp án C đúng. A 'sporty' = tính từ (nhưng nghĩa là 'thể thao tính cách'), B là danh từ người, D là trạng từ sai vị trí."
+        },
+        {
+          "id": "2d",
+          "question": "(4) People of all ages go there to _____ the fresh air.",
+          "options": [
+            "A. take",
+            "B. enjoy",
+            "C. bring",
+            "D. give"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Enjoy the fresh air' = tận hưởng không khí trong lành — cụm từ tự nhiên nhất. Đáp án B đúng. A 'take the fresh air' ít phổ biến hơn; C 'bring' và D 'give' không hợp ngữ cảnh."
+        },
+        {
+          "id": "2e",
+          "question": "(5) _____ place which people like in our community is the local library.",
+          "options": [
+            "A. The others",
+            "B. Others",
+            "C. Another",
+            "D. Other"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Another place' = một địa điểm khác (số ít, chưa xác định) — 'another' + danh từ số ít. Đáp án C đúng. 'The others' và 'Others' chỉ vật đã được đề cập trước; 'Other place' thiếu mạo từ."
+        },
+        {
+          "id": "2f",
+          "question": "(6) It holds _____ activities for book lovers.",
+          "options": [
+            "A. differ",
+            "B. different",
+            "C. differently",
+            "D. differing"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Different activities' = các hoạt động khác nhau — tính từ 'different' bổ nghĩa cho danh từ 'activities'. Đáp án B đúng. A là động từ, C là trạng từ, D là phân từ — đều không phù hợp vị trí tính từ trước danh từ."
+        },
+        {
+          "id": "2g",
+          "question": "(7) When you visit Ha Noi, I'll _____ you to these places.",
+          "options": [
+            "A. take",
+            "B. get",
+            "C. bring",
+            "D. give"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Take someone to a place' = đưa ai đến nơi nào — cụm từ cố định dùng khi người nói dẫn người khác đi. Đáp án A đúng. 'Bring' dùng khi đưa ai về chỗ mình; 'get/give' không hợp ngữ cảnh."
+        },
+        {
+          "id": "2h",
+          "question": "(8) Tell me about the places of interest in your area in your _____ email.",
+          "options": [
+            "A. other",
+            "B. next",
+            "C. another",
+            "D. last"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Your next email' = email tiếp theo của bạn — 'next' chỉ thứ tự thời gian kế tiếp. Đáp án B đúng. A 'other' không cụ thể, C 'another' không đi với sở hữu 'your', D 'last' = cuối cùng — nghĩa ngược."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "reading-comprehension",
+      "passage": "Sardinia is the second largest island in Italy. It is famous for its beautiful nature and a variety of ancient crafts. One of the crafts that makes the island well-known is basket weaving. This is considered one of the most remarkable handicrafts on the island because it combines manual skills and natural resources.\n\nBaskets are usually woven by Sardinian women. They have handed down the techniques from generation to generation. The shapes and dimensions of the baskets are different according to the technique, the area of production, and the kind of material used. They use various natural materials such as willow, palm, straw, and hay.\n\nIn the past, people hung the baskets on the walls of their houses or displayed them on shelves like artwork. Today the baskets are used in homes or used for decorative purposes. People really appreciate the craft because nowadays it is increasingly rare to find good quality baskets like these. Sardinian people believe that basket weaving is a dying skill and they hope to preserve it in the future.",
+      "questions": [
+        {
+          "id": "3a",
+          "question": "1. Which statement about Sardinia is TRUE?",
+          "options": [
+            "A. Sardinia is the largest island in Italy.",
+            "B. Sardinia is smaller than only one other island in Italy.",
+            "C. Basket weaving is the only ancient craft on the island.",
+            "D. Sardinian men are the main basket weavers."
+          ],
+          "correctIndex": 1,
+          "explanation": "Bài viết: 'Sardinia is the second largest island in Italy' — lớn thứ hai tức là chỉ có một đảo lớn hơn nó → đáp án B đúng. A sai (thứ hai, không phải lớn nhất). C sai ('a variety of ancient crafts'). D sai (phụ nữ Sardinia mới là người dệt giỏ)."
+        },
+        {
+          "id": "3b",
+          "question": "2. Why is basket weaving considered remarkable in Sardinia?",
+          "options": [
+            "A. Because it uses expensive imported materials.",
+            "B. Because it is only practised by men.",
+            "C. Because it combines manual skills and natural resources.",
+            "D. Because it is the easiest craft to learn."
+          ],
+          "correctIndex": 2,
+          "explanation": "Bài viết rõ: 'considered one of the most remarkable handicrafts... because it combines manual skills and natural resources.' → đáp án C đúng trực tiếp từ bài. A/B/D đều không có trong đoạn văn."
+        },
+        {
+          "id": "3c",
+          "question": "3. Which of the following is NOT correct about the baskets in the passage?",
+          "options": [
+            "A. They are woven from natural materials like willow, palm, straw, and hay.",
+            "B. Their shapes and dimensions depend on the technique and material used.",
+            "C. They have always been used only for decorative purposes.",
+            "D. Weaving techniques have been passed down through generations."
+          ],
+          "correctIndex": 2,
+          "explanation": "Bài viết: 'In the past, people hung the baskets on the walls... or displayed them on shelves like artwork. Today the baskets are used in homes or for decorative purposes.' — trước đây không chỉ để trang trí → đáp án C sai. A, B, D đều đúng theo bài."
+        },
+        {
+          "id": "3d",
+          "question": "4. Why do people appreciate Sardinian basket weaving today?",
+          "options": [
+            "A. Because the baskets are sold at very low prices.",
+            "B. Because it is increasingly rare to find good quality baskets like these.",
+            "C. Because the baskets are made by modern machines.",
+            "D. Because the government subsidises every basket maker."
+          ],
+          "correctIndex": 1,
+          "explanation": "Bài viết: 'People really appreciate the craft because nowadays it is increasingly rare to find good quality baskets like these.' → đáp án B trích dẫn trực tiếp lý do. A/C/D không có trong đoạn văn."
+        },
+        {
+          "id": "3e",
+          "question": "5. What do Sardinian people hope to do about basket weaving?",
+          "options": [
+            "A. Replace it with a more modern craft.",
+            "B. Sell it to foreign countries as an export product.",
+            "C. Preserve it in the future.",
+            "D. Teach it only to professional artisans."
+          ],
+          "correctIndex": 2,
+          "explanation": "Câu cuối bài: 'Sardinian people believe that basket weaving is a dying skill and they hope to preserve it in the future.' → đáp án C lấy trực tiếp từ bài. A trái nghĩa; B/D không được đề cập."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "The word \"remarkable\" in the Sardinia passage is closest in meaning to ________.",
+      "options": [
+        "A. ordinary",
+        "B. impressive and noteworthy",
+        "C. dangerous",
+        "D. cheap"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Remarkable' = đáng chú ý, ấn tượng, xuất sắc — gần nghĩa nhất với 'impressive and noteworthy'. Đáp án B đúng. A 'ordinary' = bình thường (nghĩa ngược), C và D không liên quan đến nghĩa của từ này."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "The word \"dimensions\" in the Sardinia passage is closest in meaning to ________.",
+      "options": [
+        "A. colours",
+        "B. prices",
+        "C. sizes and measurements",
+        "D. decorations"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Dimensions' = kích thước, kích cỡ (chiều dài, chiều rộng, chiều cao) — đồng nghĩa với 'sizes and measurements'. Đáp án C đúng. A 'colours' = màu sắc, B 'prices' = giá cả, D 'decorations' = trang trí — đều không đúng."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "The word \"facilities\" in Trang's email is closest in meaning to ________.",
+      "options": [
+        "A. equipment and services provided for a purpose",
+        "B. trees and plants in a park",
+        "C. books in a library",
+        "D. rules and regulations"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Facilities' = cơ sở vật chất, trang thiết bị phục vụ một mục đích (ví dụ: sports facilities = cơ sở thể thao). Đáp án A đúng. B/C/D đều chỉ một loại vật cụ thể, không khái quát được nghĩa của từ này."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "The word \"decorative\" in the Sardinia passage is closest in meaning to ________.",
+      "options": [
+        "A. used for making something look attractive",
+        "B. used for cooking food",
+        "C. used for building houses",
+        "D. used for storing water"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Decorative' = dùng để trang trí, làm cho vật trở nên đẹp hơn. Đáp án A đúng. B/C/D đều mô tả công dụng thực dụng, không liên quan đến trang trí."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "The word \"preserve\" in the Sardinia passage is closest in meaning to ________.",
+      "options": [
+        "A. destroy",
+        "B. forget",
+        "C. keep and protect from loss",
+        "D. change completely"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Preserve' = bảo tồn, gìn giữ không để mất đi — gần nghĩa nhất với 'keep and protect from loss'. Đáp án C đúng. A 'destroy' = phá hủy, B 'forget' = quên, D 'change completely' = thay đổi hoàn toàn — đều nghĩa ngược."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"Although it's a small community, there are enough places of interest.\"",
+      "options": [
+        "A. Mặc dù đây là một cộng đồng nhỏ, vẫn có đủ những địa điểm thú vị.",
+        "B. Vì đây là một cộng đồng nhỏ nên không có nhiều địa điểm thú vị.",
+        "C. Đây là một cộng đồng nhỏ và có rất nhiều địa điểm thú vị.",
+        "D. Đây là một cộng đồng nhỏ nhưng không có địa điểm thú vị nào."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Although' = mặc dù (tương phản); 'small community' = cộng đồng nhỏ; 'enough places of interest' = đủ địa điểm thú vị → đáp án A dịch đúng quan hệ tương phản. B dùng 'vì' (nguyên nhân — sai), C/D bỏ quan hệ tương phản."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"Baskets are usually woven by Sardinian women.\"",
+      "options": [
+        "A. Những chiếc giỏ thường được đan bởi phụ nữ Sardinia.",
+        "B. Phụ nữ Sardinia thường mua giỏ từ các thương nhân.",
+        "C. Những chiếc giỏ được phụ nữ Sardinia bán ở chợ.",
+        "D. Phụ nữ Sardinia thường dùng giỏ để đựng thức ăn."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Are woven by' = được đan bởi (bị động); 'Sardinian women' = phụ nữ Sardinia → đáp án A dịch đúng cả cấu trúc bị động lẫn nghĩa. B/C/D thay đổi hành động (mua, bán, dùng) — đều sai."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"They have handed down the techniques from generation to generation.\"",
+      "options": [
+        "A. Họ đã từ bỏ các kỹ thuật truyền thống qua nhiều thế hệ.",
+        "B. Họ đã truyền lại các kỹ thuật từ thế hệ này sang thế hệ khác.",
+        "C. Họ đã học các kỹ thuật từ các chuyên gia nước ngoài.",
+        "D. Họ đã thay đổi các kỹ thuật theo từng thế hệ."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Handed down' = truyền lại (cho thế hệ sau); 'from generation to generation' = từ thế hệ này sang thế hệ khác → đáp án B dịch chính xác. A 'từ bỏ' nghĩa ngược; C/D thêm thông tin không có trong câu."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"When you visit Ha Noi, I'll take you to these places.\"",
+      "options": [
+        "A. Khi bạn đến thăm Hà Nội, tôi sẽ đưa bạn đến những nơi này.",
+        "B. Nếu bạn muốn, tôi sẽ gửi cho bạn bản đồ những nơi này.",
+        "C. Khi bạn đến Hà Nội, bạn hãy tự khám phá những nơi này.",
+        "D. Tôi sẽ đến thăm bạn và giới thiệu những nơi thú vị ở Hà Nội."
+      ],
+      "correctIndex": 0,
+      "explanation": "'When you visit Ha Noi' = khi bạn đến thăm Hà Nội; 'I'll take you to' = tôi sẽ đưa bạn đến → đáp án A dịch đúng và đầy đủ. B/C/D đều thay đổi hành động hoặc chủ thể so với câu gốc."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"Sardinian people believe that basket weaving is a dying skill and they hope to preserve it in the future.\"",
+      "options": [
+        "A. Người Sardinia tin rằng nghề đan giỏ đang dần mai một và họ hy vọng sẽ bảo tồn nó trong tương lai.",
+        "B. Người Sardinia nghĩ rằng nghề đan giỏ rất phổ biến và sẽ phát triển mạnh trong tương lai.",
+        "C. Người Sardinia muốn học nghề đan giỏ từ các nghệ nhân nước ngoài để bảo tồn nghề này.",
+        "D. Người Sardinia đã bảo tồn thành công nghề đan giỏ và muốn chia sẻ với thế giới."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Dying skill' = kỹ năng đang mai một; 'hope to preserve' = hy vọng bảo tồn; 'in the future' = trong tương lai → đáp án A dịch đúng và đầy đủ cả hai vế. B sai ('dying' ≠ 'phổ biến'); C/D thêm thông tin không có trong câu."
+    },
+    {
+      "id": 14,
+      "type": "reading-comprehension",
+      "passage": "Vong, a small village in Ha Noi, is famous for a speciality food: com (young sticky rice flakes). To make com, artisans follow a series of steps. They preserve the techniques by passing **them** down to their sons. In the past, people made com by hand, but now they use machines for some steps to shorten the process. They wrap the final product in two layers of leaves to preserve its **fragrance** before selling it to consumers. Com Lang Vong is well known in Viet Nam as a speciality of Ha Noi autumn.\n\nDenby is a village in the county of Derbyshire, England. It is the home of the famous Denby Pottery, which is made from the finest local clay. Going around the village, we can see artisans hand-craft pottery collections. They still use some of the original techniques passed down through generations. In Denby products, we can see their beauty and function which make them world-famous. Today Denby is also a tourist attraction. Visitors can make pottery in workshops or find out about the history of pottery in the museum.",
+      "questions": [
+        {
+          "id": "14a",
+          "question": "In which place do people make the speciality from local material?",
+          "options": [
+            "A. Vong",
+            "B. Denby",
+            "C. Both Vong and Denby",
+            "D. Neither Vong nor Denby"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bài viết: 'Denby Pottery, which is made from the finest local clay' — nguyên liệu địa phương là đất sét. Làng Vòng dùng cây lúa nếp (thực vật), không phải nguyên liệu địa phương như khoáng vật. Đáp án B đúng. A và C sai vì Vòng không được đề cập dùng nguyên liệu địa phương theo nghĩa này."
+        },
+        {
+          "id": "14b",
+          "question": "In which place do people make the product from plants?",
+          "options": [
+            "A. Vong",
+            "B. Denby",
+            "C. Both Vong and Denby",
+            "D. Neither Vong nor Denby"
+          ],
+          "correctIndex": 0,
+          "explanation": "Làng Vòng làm cốm từ lúa nếp non (young sticky rice flakes) — là thực vật. Denby làm đồ gốm từ đất sét, không phải thực vật. Đáp án A đúng theo câu: 'Vong...is famous for a speciality food: com (young sticky rice flakes)'."
+        },
+        {
+          "id": "14c",
+          "question": "In which place do people make the product with some traditional techniques?",
+          "options": [
+            "A. Vong",
+            "B. Denby",
+            "C. Both Vong and Denby",
+            "D. Neither Vong nor Denby"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bài viết chỉ Denby: 'They still use some of the original techniques passed down through generations.' Làng Vòng truyền kỹ thuật cho con trai nhưng đã dùng máy — không được mô tả là dùng 'some traditional techniques' rõ ràng như Denby. Đáp án B đúng theo đáp án sách giáo khoa."
+        },
+        {
+          "id": "14d",
+          "question": "In which place is the product famous worldwide?",
+          "options": [
+            "A. Vong",
+            "B. Denby",
+            "C. Both Vong and Denby",
+            "D. Neither Vong nor Denby"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bài viết: 'In Denby products, we can see their beauty and function which make them world-famous.' Cốm Làng Vòng chỉ 'well known in Viet Nam' — chỉ nổi tiếng trong nước. Đáp án B đúng: chỉ sản phẩm Denby mới nổi tiếng toàn cầu."
+        },
+        {
+          "id": "14e",
+          "question": "In which place does the product symbolise a season?",
+          "options": [
+            "A. Vong",
+            "B. Denby",
+            "C. Both Vong and Denby",
+            "D. Neither Vong nor Denby"
+          ],
+          "correctIndex": 0,
+          "explanation": "Câu cuối đoạn 1: 'Com Lang Vong is well known in Viet Nam as a speciality of Ha Noi autumn.' — cốm gắn liền với mùa thu Hà Nội, tượng trưng cho mùa thu. Đồ gốm Denby không liên quan đến mùa nào. Đáp án A đúng."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": "reading-comprehension",
+      "passage": "This is An Binh Commune Radio Station. In today's special programme, we will share with you a piece of writing which won first prize in our writing contest called \"My Favourite Community Helper\". This was written by Mi, a grade 9 student.\n\nThere are many great community helpers in our neighbourhood but my favourite one is Mr Vinh, the garbage collector. Mr Vinh is a tall and slim man. He usually wears a green uniform with reflective stripes. He is hard-working and responsible. Every day he goes to our neighbourhood at 6 p.m. with a garbage cart. He instructs everyone to put garbage in the correct bin: recyclable and non-recyclable, and then goes to the next neighbourhood. At about 9 p.m. he comes back and empties all the bins carefully. Mr Vinh is also friendly. He usually keeps a smile on his face. He talks with the people in our community cheerfully about his work and the importance of sorting rubbish. We all love him.",
+      "questions": [
+        {
+          "id": "15a",
+          "question": "What is the name of the writing contest mentioned in the passage?",
+          "options": [
+            "A. My Favourite Garbage Collector",
+            "B. My Favourite Community Helper",
+            "C. My Favourite Neighbourhood",
+            "D. My Favourite Radio Programme"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn đầu nêu rõ: 'a piece of writing which won first prize in our writing contest called \"My Favourite Community Helper\".' Đáp án B trích trực tiếp từ bài. A/C/D đều không đúng tên cuộc thi."
+        },
+        {
+          "id": "15b",
+          "question": "What is Mr Vinh's job?",
+          "options": [
+            "A. A radio presenter",
+            "B. A community teacher",
+            "C. A garbage collector",
+            "D. A factory worker"
+          ],
+          "correctIndex": 2,
+          "explanation": "Bài viết: 'my favourite one is Mr Vinh, the garbage collector' — chú Vinh là người thu gom rác. Đáp án C đúng. A/B/D không được đề cập trong đoạn văn."
+        },
+        {
+          "id": "15c",
+          "question": "Which word best describes Mr Vinh's build (physical appearance)?",
+          "options": [
+            "A. Short and fat",
+            "B. Tall and slim",
+            "C. Small and strong",
+            "D. Tall and heavy"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bài viết: 'Mr Vinh is a tall and slim man.' — cao và gầy. Đáp án B đúng trực tiếp. A/C/D mâu thuẫn với mô tả trong bài ('tall' đúng nhưng 'fat/heavy/strong' sai thay cho 'slim')."
+        },
+        {
+          "id": "15d",
+          "question": "Which set of adjectives correctly describes Mr Vinh's personality?",
+          "options": [
+            "A. Lazy, careless, and unfriendly",
+            "B. Strict, serious, and quiet",
+            "C. Hard-working, responsible, and friendly",
+            "D. Clever, creative, and funny"
+          ],
+          "correctIndex": 2,
+          "explanation": "Bài viết: 'He is hard-working and responsible... Mr Vinh is also friendly.' — ba tính từ này xuất hiện trực tiếp trong bài. Đáp án C đúng. A hoàn toàn trái nghĩa; B/D không được đề cập."
+        },
+        {
+          "id": "15e",
+          "question": "What does Mr Vinh talk with people in the community about?",
+          "options": [
+            "A. The history of An Binh Commune",
+            "B. His work and the importance of sorting rubbish",
+            "C. The results of the writing contest",
+            "D. New recycling machines in the neighbourhood"
+          ],
+          "correctIndex": 1,
+          "explanation": "Câu cuối đoạn: 'He talks with the people in our community cheerfully about his work and the importance of sorting rubbish.' Đáp án B trích nguyên văn từ bài. A/C/D không được đề cập trong đoạn văn."
+        }
+      ]
+    }
+  ]
+}

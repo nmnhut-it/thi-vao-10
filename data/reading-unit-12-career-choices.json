@@ -1,0 +1,511 @@
+{
+  "topicId": "reading-unit-12-career-choices",
+  "title": "Unit 12: Career Choices - Reading",
+  "section": "reading",
+  "knowledge": {
+    "html": "<h3>Unit 12: Career Choices</h3><p>Bài đọc Unit 12 xoay quanh chủ đề <strong>lựa chọn nghề nghiệp</strong> — thế giới việc làm đang thay đổi như thế nào, các kỹ năng cần thiết, và cách chuẩn bị cho tương lai. Học sinh lớp 9 nên bắt đầu suy nghĩ nghiêm túc về con đường sự nghiệp của mình.</p><h4>Từ vựng trọng tâm</h4><ul><li><strong>career</strong> — sự nghiệp, nghề nghiệp lâu dài</li><li><strong>repetitive</strong> — lặp đi lặp lại, đơn điệu</li><li><strong>vocational course</strong> — khóa học nghề</li><li><strong>teamwork</strong> — làm việc nhóm</li><li><strong>inquiring mind</strong> — đầu óc ham học hỏi, tò mò</li><li><strong>assembly worker</strong> — công nhân lắp ráp</li><li><strong>provided that</strong> — miễn là, với điều kiện là</li><li><strong>confidently</strong> — một cách tự tin</li></ul><h4>Mẹo đọc hiểu</h4><ul><li>Đọc câu chủ đề đầu mỗi đoạn để xác định nhanh ý chính của từng đoạn.</li><li>Câu hỏi True/False: đối chiếu kỹ từng chi tiết trong đề với bài, vì đáp án sai thường chỉ thay đổi một số nhỏ.</li><li>Cloze (điền từ): đọc cả câu trước và sau chỗ trống, chú ý loại từ (danh từ, động từ, liên từ) và nghĩa của đoạn.</li></ul>"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "reading-comprehension",
+      "passage": "When you turn 15, you should start thinking seriously about your career. However, making career choices can be challenging, especially in this changing world.\n\nAssembly workers and ticket sellers, whose jobs are repetitive, are being replaced by machines. However, technology has also created new jobs, such as software engineers and online teachers. Besides, beauty jobs like nail artists and hairdressers are becoming popular because people want to take better care of themselves.\n\nComputer skills have become a must for many jobs. For example, doctors need to keep digital medical records of their patients. People also collaborate with each other so often that teamwork and communication skills are now increasingly important.\n\nMany teenagers are willing to take vocational courses instead of going to university. Training can be both face-to-face and online. Opportunities to learn new skills are open to everyone **provided that** they have inquiring minds.\n\nIn the future, there may be even more changes in the world of work. It's a good idea for you to work well in teams, keep on learning and have good computer skills. By doing so, you can move confidently on your career path.",
+      "questions": [
+        {
+          "id": "1a",
+          "question": "1. According to the article, when should teenagers start thinking about their career?",
+          "options": [
+            "A. When they turn 15.",
+            "B. When they turn 18.",
+            "C. After they finish high school.",
+            "D. After they graduate from university."
+          ],
+          "correctIndex": 0,
+          "explanation": "Câu đầu tiên của bài ghi rõ: 'When you turn 15, you should start thinking seriously about your career.' → đáp án A đúng. Các đáp án B, C, D đều không khớp với văn bản."
+        },
+        {
+          "id": "1b",
+          "question": "2. Why are assembly workers and ticket sellers being replaced by machines?",
+          "options": [
+            "A. Because their jobs require high computer skills.",
+            "B. Because their jobs are repetitive.",
+            "C. Because they choose to take vocational courses.",
+            "D. Because technology creates new job opportunities."
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn 2 nói rõ: 'Assembly workers and ticket sellers, whose jobs are repetitive, are being replaced by machines.' → lý do là công việc lặp đi lặp lại. Đáp án B đúng."
+        },
+        {
+          "id": "1c",
+          "question": "3. Which of the following is an example of a job CREATED by technology, according to the article?",
+          "options": [
+            "A. Nail artist.",
+            "B. Hairdresser.",
+            "C. Assembly worker.",
+            "D. Online teacher."
+          ],
+          "correctIndex": 3,
+          "explanation": "Đoạn 2 ghi: 'technology has also created new jobs, such as software engineers and online teachers.' → online teacher là việc làm do công nghệ tạo ra. Đáp án D đúng. Nail artist và hairdresser là beauty jobs, không liên quan công nghệ."
+        },
+        {
+          "id": "1d",
+          "question": "4. What does the phrase \"provided that\" in paragraph 4 mean?",
+          "options": [
+            "A. as a result of",
+            "B. in addition to",
+            "C. on the condition that",
+            "D. instead of"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Provided that' = với điều kiện là, miễn là — gần nghĩa với 'on the condition that'. Đáp án C đúng. A = kết quả, B = thêm vào, D = thay vì — đều không đúng."
+        },
+        {
+          "id": "1e",
+          "question": "5. Which of the following is NOT recommended in the article as advice for the future?",
+          "options": [
+            "A. Work well in teams.",
+            "B. Keep on learning.",
+            "C. Avoid using computers.",
+            "D. Have good computer skills."
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn cuối khuyên: 'work well in teams, keep on learning and have good computer skills.' — không có lời khuyên nào tránh dùng máy tính. Đáp án C sai (ngược với văn bản). A, B, D đều có trong bài."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "reading-comprehension",
+      "passage": "Contrary to many of her friends, Gemma knew for sure what she would do when she (1) _____ secondary school. Although her scores in academic subjects were quite good, she (2) _____ designing and making women's outfits. Gemma hoped to work soon (3) _____ she wanted to support her grandmother, who had brought her up. However, she decided that she would earn a (4) _____ in fashion and garment design in order to get more job opportunities.\n\nGemma attended career (5) _____ sessions to seek advice from garment teachers from vocational schools. She looked for schools with courses in fashion, garment, and textile before deciding where to study. She practised cutting and (6) _____ tailor in her neighbourhood. She was so hard-working that she improved her skills (7) _____. When Gemma graduated, she already owned a small tailor shop which was popular with young women. She had such an (8) _____ mind that she kept learning to be successful in her dream job.",
+      "questions": [
+        {
+          "id": "2a",
+          "question": "(1)",
+          "options": [
+            "A. left",
+            "B. was leaving",
+            "C. had left",
+            "D. leave"
+          ],
+          "correctIndex": 0,
+          "explanation": "Blank (1): 'when she ___ secondary school' — dùng thì quá khứ đơn 'left' (rời trường) vì hành động xảy ra tại một thời điểm xác định trong quá khứ. Đáp án A đúng."
+        },
+        {
+          "id": "2b",
+          "question": "(2)",
+          "options": [
+            "A. was interested at",
+            "B. was interested in",
+            "C. interested in",
+            "D. interested at"
+          ],
+          "correctIndex": 1,
+          "explanation": "Blank (2): cụm cố định 'be interested in + V-ing' = thích, quan tâm đến. Đáp án B đúng. Giới từ 'in' (không phải 'at') đi kèm với 'interested'."
+        },
+        {
+          "id": "2c",
+          "question": "(3)",
+          "options": [
+            "A. although",
+            "B. because",
+            "C. but",
+            "D. so"
+          ],
+          "correctIndex": 1,
+          "explanation": "Blank (3): 'Gemma hoped to work soon ___ she wanted to support her grandmother' — liên từ chỉ nguyên nhân 'because' (vì). Đáp án B đúng. 'Although' và 'but' chỉ sự tương phản, 'so' chỉ kết quả."
+        },
+        {
+          "id": "2d",
+          "question": "(4)",
+          "options": [
+            "A. degree",
+            "B. career",
+            "C. job",
+            "D. certificate"
+          ],
+          "correctIndex": 3,
+          "explanation": "Blank (4): 'earn a ___ in fashion and garment design' — 'earn a certificate' = lấy chứng chỉ, phù hợp với ngữ cảnh học nghề để có thêm cơ hội việc làm. Đáp án D đúng."
+        },
+        {
+          "id": "2e",
+          "question": "(5)",
+          "options": [
+            "A. guidance",
+            "B. study",
+            "C. work",
+            "D. training"
+          ],
+          "correctIndex": 0,
+          "explanation": "Blank (5): 'career ___ sessions to seek advice' — 'career guidance sessions' = các buổi định hướng nghề nghiệp, phù hợp nhất với ngữ cảnh xin lời khuyên từ giáo viên dạy nghề. Đáp án A đúng."
+        },
+        {
+          "id": "2f",
+          "question": "(6)",
+          "options": [
+            "A. sewing for a",
+            "B. sewing with a",
+            "C. sewing with a local",
+            "D. sewing at a local"
+          ],
+          "correctIndex": 2,
+          "explanation": "Blank (6): 'practised cutting and ___ tailor in her neighbourhood' — 'sewing with a local tailor' = luyện tập cắt may với thợ may địa phương, hợp nghĩa nhất. Đáp án C đúng."
+        },
+        {
+          "id": "2g",
+          "question": "(7)",
+          "options": [
+            "A. hardly",
+            "B. quickly",
+            "C. slowly",
+            "D. carelessly"
+          ],
+          "correctIndex": 1,
+          "explanation": "Blank (7): 'she was so hard-working that she improved her skills ___' — 'quickly' (một cách nhanh chóng) phù hợp nhất với ngữ cảnh khen ngợi sự chăm chỉ. Đáp án B đúng."
+        },
+        {
+          "id": "2h",
+          "question": "(8)",
+          "options": [
+            "A. open",
+            "B. creative",
+            "C. brilliant",
+            "D. inquiring"
+          ],
+          "correctIndex": 3,
+          "explanation": "Blank (8): 'She had such an ___ mind that she kept learning' — 'inquiring mind' = đầu óc ham học hỏi, tò mò — đây là từ chủ đề của Unit 12. Đáp án D đúng."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "reading-comprehension",
+      "passage": "Planning a career path is not easy at all. Although their own preference for a job really matters, researchers have pointed out some other factors that may influence teenaged students' career choice.\n\nParents' expectations tend to have the strongest impact on their children's decision-making, especially when **they** are young. For example, parents who work in the business sector often expect their children to pursue commerce and business. Sometimes, conflicts occur because children resist choosing the path that their parents want.\n\nPeer persuasion is another influential factor. Teenagers are **impressionable**, so they may find a career attractive because most of their friends do so. Though the most popular jobs sound cool, students might not do them well in the future if they are not passionate about them.\n\nCareer advice that students find on the Internet may also affect their choice. However, not all online advice is practical and helpful. Finally, cost is the basic criterion for many students when planning their career path. Some choose to study and work abroad while others select a career that is more affordable.\n\nThe factors above may affect students' future careers both positively and negatively. Since career planning is essential for a rewarding working life, it is vital that students receive a proper orientation from trustworthy sources.",
+      "questions": [
+        {
+          "id": "3a",
+          "question": "1. What is the passage mainly about?",
+          "options": [
+            "A. Parental pressure on children's choice of career.",
+            "B. Drawbacks of career advice on the Internet.",
+            "C. Factors that affect students' career planning.",
+            "D. Trustworthy sources of advice on career development."
+          ],
+          "correctIndex": 2,
+          "explanation": "Câu chủ đề đoạn 1 nêu: 'researchers have pointed out some other factors that may influence teenaged students' career choice.' → bài chủ yếu nói về các yếu tố ảnh hưởng đến việc lập kế hoạch nghề nghiệp. Đáp án C đúng. A, B, D chỉ là chi tiết trong bài."
+        },
+        {
+          "id": "3b",
+          "question": "2. What does the word \"they\" in paragraph 2 refer to?",
+          "options": [
+            "A. parents",
+            "B. children",
+            "C. expectations",
+            "D. ages"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn 2 ghi: 'Parents' expectations tend to have the strongest impact on their children's decision-making, especially when they are young.' → 'they' = children (trẻ em), vì chính trẻ em là người còn nhỏ tuổi. Đáp án B đúng."
+        },
+        {
+          "id": "3c",
+          "question": "3. What is the word \"impressionable\" in paragraph 2 closest in meaning to?",
+          "options": [
+            "A. strongly impressive",
+            "B. easily affected",
+            "C. understandable",
+            "D. irresponsible"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Impressionable' = dễ bị ảnh hưởng, đa cảm — gần nghĩa với 'easily affected'. Đáp án B đúng. A = gây ấn tượng mạnh, C = dễ hiểu, D = vô trách nhiệm — đều không đúng."
+        },
+        {
+          "id": "3d",
+          "question": "4. According to the passage, what happens when children disagree with their parents' career advice?",
+          "options": [
+            "A. Failure.",
+            "B. Fight.",
+            "C. Disaster.",
+            "D. Conflict."
+          ],
+          "correctIndex": 3,
+          "explanation": "Đoạn 2 ghi: 'Sometimes, conflicts occur because children resist choosing the path that their parents want.' → xung đột xảy ra khi con cái không đồng ý. Đáp án D đúng. A, B, C không được đề cập."
+        },
+        {
+          "id": "3e",
+          "question": "5. Which of the following factors is NOT mentioned in the reading passage?",
+          "options": [
+            "A. School guidance.",
+            "B. Peers' opinion.",
+            "C. Online information.",
+            "D. Parents' expectation."
+          ],
+          "correctIndex": 0,
+          "explanation": "Bài đề cập: kỳ vọng của cha mẹ (D), ảnh hưởng từ bạn bè (B), lời khuyên trên Internet (C), và chi phí — nhưng không đề cập đến định hướng từ nhà trường. Đáp án A đúng (dùng phương pháp loại trừ)."
+        },
+        {
+          "id": "3f",
+          "question": "6. Why does the author mention \"study and work abroad\" in the last sentence of paragraph 2?",
+          "options": [
+            "A. To illustrate how money may affect career choice.",
+            "B. To explain the benefits of international education.",
+            "C. To describe the type of careers that students prefer.",
+            "D. To point out how much it costs to pursue a career."
+          ],
+          "correctIndex": 0,
+          "explanation": "Câu trước nói 'cost is the basic criterion' → 'study and work abroad' được dẫn ra như ví dụ cho việc chi phí ảnh hưởng đến lựa chọn nghề nghiệp. Đáp án A đúng. B, C, D đều không phù hợp với chủ đề câu đó."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "The word \"influential\" in the career-path passage is closest in meaning to ________.",
+      "options": [
+        "A. unimportant",
+        "B. having a strong effect",
+        "C. difficult to understand",
+        "D. related to finance"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Influential' = có ảnh hưởng, tác động mạnh — gần nghĩa với 'having a strong effect'. Đáp án B đúng. A = không quan trọng (trái nghĩa), C và D không liên quan."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "The word \"impressionable\" in the career-path passage is closest in meaning to ________.",
+      "options": [
+        "A. hard to impress",
+        "B. very impressive",
+        "C. easily influenced",
+        "D. highly responsible"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Impressionable' = dễ bị ảnh hưởng — gần nghĩa với 'easily influenced'. Đáp án C đúng. A = khó gây ấn tượng, B = rất ấn tượng, D = có trách nhiệm cao — đều không đúng."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "The word \"passionate\" in the career-path passage is closest in meaning to ________.",
+      "options": [
+        "A. indifferent",
+        "B. deeply enthusiastic",
+        "C. slightly interested",
+        "D. professionally trained"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Passionate' = đam mê, nhiệt huyết — gần nghĩa với 'deeply enthusiastic'. Đáp án B đúng. A = thờ ơ (trái nghĩa), C = chỉ hơi thích, D = được đào tạo chuyên nghiệp — đều không đúng."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "The word \"criterion\" in the career-path passage is closest in meaning to ________.",
+      "options": [
+        "A. result",
+        "B. standard used for judging",
+        "C. strong opinion",
+        "D. financial cost"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Criterion' = tiêu chí, tiêu chuẩn dùng để đánh giá — gần nghĩa với 'standard used for judging'. Đáp án B đúng. A = kết quả, C = quan điểm mạnh, D = chi phí tài chính — đều không khớp."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "The word \"orientation\" in the career-path passage is closest in meaning to ________.",
+      "options": [
+        "A. confusion",
+        "B. punishment",
+        "C. guidance and direction",
+        "D. financial support"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Orientation' = định hướng, sự chỉ dẫn — gần nghĩa với 'guidance and direction'. Đáp án C đúng. A = sự nhầm lẫn (trái nghĩa), B = hình phạt, D = hỗ trợ tài chính — đều không đúng."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"Planning a career path is not easy at all.\"",
+      "options": [
+        "A. Lập kế hoạch cho con đường sự nghiệp không hề dễ dàng chút nào.",
+        "B. Tìm kiếm việc làm là điều rất khó đối với học sinh.",
+        "C. Lựa chọn nghề nghiệp phụ thuộc vào nhiều yếu tố khác nhau.",
+        "D. Định hướng nghề nghiệp cần bắt đầu từ sớm."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Planning a career path' = lập kế hoạch cho con đường sự nghiệp; 'not easy at all' = không hề dễ dàng chút nào → đáp án A dịch chính xác và đầy đủ. B, C, D đều thay đổi hoặc thêm ý không có trong câu gốc."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"Parents' expectations tend to have the strongest impact on their children's decision-making.\"",
+      "options": [
+        "A. Cha mẹ thường đưa ra những quyết định quan trọng cho con cái.",
+        "B. Kỳ vọng của cha mẹ có xu hướng tác động mạnh nhất đến việc ra quyết định của con cái.",
+        "C. Con cái nên nghe theo lời khuyên nghề nghiệp của cha mẹ.",
+        "D. Cha mẹ và con cái thường có quan điểm trái chiều về nghề nghiệp."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Parents' expectations' = kỳ vọng của cha mẹ; 'tend to' = có xu hướng; 'the strongest impact' = tác động mạnh nhất; 'decision-making' = việc ra quyết định → đáp án B dịch đầy đủ và chính xác. A, C, D đều thêm hoặc thay đổi nghĩa."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"Teenagers are impressionable, so they may find a career attractive because most of their friends do so.\"",
+      "options": [
+        "A. Thanh thiếu niên thường chọn nghề theo gợi ý của giáo viên vì họ tin tưởng thầy cô.",
+        "B. Thanh thiếu niên dễ bị ảnh hưởng, vì vậy họ có thể thấy một nghề hấp dẫn vì hầu hết bạn bè đều như vậy.",
+        "C. Thanh thiếu niên có xu hướng thay đổi quyết định nghề nghiệp nhiều lần trước khi tốt nghiệp.",
+        "D. Thanh thiếu niên nên tham khảo ý kiến bạn bè trước khi đưa ra quyết định nghề nghiệp."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Impressionable' = dễ bị ảnh hưởng; 'find a career attractive' = thấy một nghề hấp dẫn; 'because most of their friends do so' = vì hầu hết bạn bè đều như vậy → đáp án B dịch chính xác. A, C, D đều thêm ý không có trong câu gốc."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"Since career planning is essential for a rewarding working life, it is vital that students receive a proper orientation from trustworthy sources.\"",
+      "options": [
+        "A. Học sinh nên tự lập kế hoạch nghề nghiệp mà không cần tham khảo nguồn bên ngoài.",
+        "B. Việc lập kế hoạch nghề nghiệp chỉ quan trọng khi học sinh sắp tốt nghiệp.",
+        "C. Vì lập kế hoạch nghề nghiệp là điều cần thiết để có cuộc sống làm việc bổ ích, điều quan trọng là học sinh phải nhận được định hướng phù hợp từ các nguồn đáng tin cậy.",
+        "D. Các nguồn thông tin trực tuyến là cách tốt nhất để học sinh lập kế hoạch nghề nghiệp."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Since' = vì; 'essential' = cần thiết; 'rewarding working life' = cuộc sống làm việc bổ ích; 'proper orientation' = định hướng phù hợp; 'trustworthy sources' = nguồn đáng tin cậy → đáp án C dịch đầy đủ và chính xác. A, B, D đều sai hoặc thiếu nghĩa."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "Choose the best Vietnamese translation: \"She had such an inquiring mind that she kept learning to be successful in her dream job.\"",
+      "options": [
+        "A. Cô ấy rất thông minh đến mức luôn đạt điểm cao trong các kỳ thi.",
+        "B. Cô ấy có óc ham học hỏi đến mức không ngừng học hỏi để thành công trong công việc mơ ước của mình.",
+        "C. Cô ấy đã từ bỏ công việc hiện tại để theo đuổi ước mơ của mình.",
+        "D. Cô ấy tìm kiếm lời khuyên từ nhiều nguồn khác nhau để cải thiện kỹ năng."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Such an inquiring mind' = óc ham học hỏi đến mức; 'kept learning' = không ngừng học hỏi; 'dream job' = công việc mơ ước → đáp án B dịch chính xác. A nhầm 'inquiring' thành 'thông minh', C và D đổi nghĩa hoàn toàn."
+    },
+    {
+      "id": 14,
+      "type": "reading-comprehension",
+      "passage": "When you turn 15, you should start thinking seriously about your career. However, making career choices can be challenging, especially in this changing world.\n\nAssembly workers and ticket sellers, whose jobs are repetitive, are being replaced by machines. However, technology has also created new jobs, such as software engineers and online teachers. Besides, beauty jobs like nail artists and hairdressers are becoming popular because people want to take better care of themselves.\n\nComputer skills have become a must for many jobs. For example, doctors need to keep digital medical records of their patients. People also collaborate with each other so often that teamwork and communication skills are now increasingly important.\n\nMany teenagers are willing to take vocational courses instead of going to university. Training can be both face-to-face and online. Opportunities to learn new skills are open to everyone **provided that** they have inquiring minds.\n\nIn the future, there may be even more changes in the world of work. It's a good idea for you to work well in teams, keep on learning and have good computer skills. By doing so, you can move confidently on your career path.",
+      "questions": [
+        {
+          "id": "14a",
+          "question": "1. Teenagers should consider their career paths as soon as they reach 18.",
+          "options": [
+            "A. True — the article says to start at 18.",
+            "B. False — the article says to start at 15.",
+            "C. True — the article says to start after high school.",
+            "D. False — the article says career planning is not important until university."
+          ],
+          "correctIndex": 1,
+          "explanation": "Câu đầu bài ghi: 'When you turn 15, you should start thinking seriously about your career.' → nên bắt đầu từ năm 15 tuổi, không phải 18. Phát biểu này SAI. Đáp án B đúng."
+        },
+        {
+          "id": "14b",
+          "question": "2. A nail artist is an example of a job created by technology.",
+          "options": [
+            "A. True — nail artists use special technology tools.",
+            "B. True — technology made beauty jobs more popular.",
+            "C. False — nail artists are beauty workers, not technology-created jobs.",
+            "D. False — nail artists are being replaced by machines."
+          ],
+          "correctIndex": 2,
+          "explanation": "Bài ghi: 'technology has also created new jobs, such as software engineers and online teachers.' Nail artist thuộc nhóm 'beauty jobs' phổ biến vì mọi người muốn chăm sóc bản thân, không phải do công nghệ tạo ra. Phát biểu này SAI. Đáp án C đúng."
+        },
+        {
+          "id": "14c",
+          "question": "3. In many jobs, people need to be able to use computers well.",
+          "options": [
+            "A. False — only doctors need computer skills.",
+            "B. False — teamwork is more important than computer skills.",
+            "C. True — computer skills have become a must for many jobs.",
+            "D. True — computers are replacing workers in all industries."
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn 3 ghi rõ: 'Computer skills have become a must for many jobs.' → đây là điều bắt buộc với nhiều công việc. Phát biểu này ĐÚNG. Đáp án C đúng."
+        },
+        {
+          "id": "14d",
+          "question": "4. People can get job training in more ways than they could in the past.",
+          "options": [
+            "A. False — only face-to-face training is available now.",
+            "B. False — online training has replaced traditional methods entirely.",
+            "C. True — both face-to-face and online training are now available.",
+            "D. True — vocational courses have replaced university education."
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn 4 ghi: 'Training can be both face-to-face and online.' → có thêm hình thức trực tuyến so với trước, tức là nhiều cách hơn. Phát biểu này ĐÚNG. Đáp án C đúng."
+        },
+        {
+          "id": "14e",
+          "question": "5. There will be fewer changes in the world of work in the future.",
+          "options": [
+            "A. True — machines will stabilise the job market.",
+            "B. True — technology will slow down changes in careers.",
+            "C. False — the article says there may be even more changes.",
+            "D. False — the article says all jobs will disappear in the future."
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn cuối ghi: 'In the future, there may be even more changes in the world of work.' → sẽ có nhiều thay đổi hơn, không phải ít hơn. Phát biểu này SAI. Đáp án C đúng."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": "reading-comprehension",
+      "passage": "Hi, I'm Minh. My parents were farmers in a remote village. Though they worked very hard in the fields, they were still poor. I wanted to find ways for farmers like my parents to earn a better living. So I decided to study agriculture engineering at university. Now I'm working for the local agriculture department in my home town. I help farmers grow better crops by using farming technology. I also persuade them to try new farming methods. Though it's a demanding job, I'm glad I'm doing well at it.\n\nHi, I'm Ann. When I was a child, my grandmother, who was a chef, taught me how to cook. I liked cooking so much that I attended a vocational college where I earned a cooking certificate. Now I'm a chef in a restaurant in a small hotel. I make tasty and healthy food which my customers love very much. Though it's a well-paid job, I want to develop my career further. I'm learning more about food and new cooking skills. Hopefully, in the next five years, I'll have my own restaurant.",
+      "questions": [
+        {
+          "id": "15a",
+          "question": "1. Why did Minh decide to study agriculture engineering?",
+          "options": [
+            "A. Because he wanted to help farmers earn a better living.",
+            "B. Because he could get a well-paid job.",
+            "C. Because he had no other choice for university.",
+            "D. Because his parents asked him to study agriculture."
+          ],
+          "correctIndex": 0,
+          "explanation": "Minh nói: 'I wanted to find ways for farmers like my parents to earn a better living. So I decided to study agriculture engineering.' → động lực là muốn giúp nông dân. Đáp án A đúng. B, C, D không được đề cập trong bài."
+        },
+        {
+          "id": "15b",
+          "question": "2. What does Minh's current job involve?",
+          "options": [
+            "A. Using technology in farming.",
+            "B. Solving problems among farmers.",
+            "C. Creating new kinds of plants.",
+            "D. Teaching agriculture at university."
+          ],
+          "correctIndex": 0,
+          "explanation": "Minh nói: 'I help farmers grow better crops by using farming technology.' → công việc liên quan đến sử dụng công nghệ canh tác. Đáp án A đúng. B, C, D không khớp với mô tả công việc của Minh."
+        },
+        {
+          "id": "15c",
+          "question": "3. How did Ann earn her cooking certificate?",
+          "options": [
+            "A. By taking a short course in cooking.",
+            "B. By attending a vocational college.",
+            "C. By enrolling in an online course.",
+            "D. By learning from her grandmother."
+          ],
+          "correctIndex": 1,
+          "explanation": "Ann nói: 'I liked cooking so much that I attended a vocational college where I earned a cooking certificate.' → bằng cách học cao đẳng nghề. Đáp án B đúng. A suy đoán sai, C và D không phải cách Ann lấy chứng chỉ."
+        },
+        {
+          "id": "15d",
+          "question": "4. What does Ann want to do in the future?",
+          "options": [
+            "A. Work in a hotel restaurant.",
+            "B. Get another cooking certificate.",
+            "C. Open her own restaurant.",
+            "D. Become a cooking teacher."
+          ],
+          "correctIndex": 2,
+          "explanation": "Ann nói: 'Hopefully, in the next five years, I'll have my own restaurant.' → mục tiêu là mở nhà hàng riêng. Đáp án C đúng. A là công việc hiện tại của Ann, B và D không được đề cập."
+        }
+      ]
+    }
+  ]
+}

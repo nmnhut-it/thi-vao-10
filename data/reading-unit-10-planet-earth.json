@@ -1,0 +1,475 @@
+{
+  "topicId": "reading-unit-10-planet-earth",
+  "title": "Unit 10: Planet Earth - Reading",
+  "section": "reading",
+  "knowledge": {
+    "html": "<h3>Unit 10: Planet Earth</h3><p>Bài đọc Unit 10 xoay quanh chủ đề <strong>Trái Đất</strong> — vai trò của thực vật và động vật, chuỗi thức ăn, các mối đe dọa môi trường, và cách bảo tồn thiên nhiên. Đây là chủ đề thường xuất hiện trong đề thi vào 10.</p><h4>Từ vựng trọng tâm</h4><ul><li><strong>ecology</strong> (n) /ɪˈkɒlədʒi/ — sinh thái học</li><li><strong>flora and fauna</strong> — hệ thực vật và động vật</li><li><strong>ecological balance</strong> — cân bằng sinh thái</li><li><strong>food chain</strong> — chuỗi thức ăn</li><li><strong>fertiliser</strong> (n) — phân bón</li><li><strong>habitat loss</strong> — mất môi trường sống</li><li><strong>nature reserve</strong> — khu bảo tồn thiên nhiên</li><li><strong>appreciate</strong> (v) — đánh giá cao, trân trọng</li><li><strong>significance</strong> (n) — tầm quan trọng, ý nghĩa</li><li><strong>pesticide</strong> (n) — thuốc trừ sâu</li></ul><h4>Mẹo đọc hiểu</h4><ul><li><strong>Đọc câu hỏi trước:</strong> Xác định từ khóa trong mỗi câu hỏi, sau đó tìm thông tin liên quan trong bài.</li><li><strong>Câu hỏi NOT/EXCEPT:</strong> Kiểm tra từng đáp án theo bài đọc — chọn đáp án KHÔNG đúng theo văn bản.</li><li><strong>Câu hỏi từ vựng:</strong> Đọc toàn bộ câu chứa từ đó, suy nghĩa từ ngữ cảnh trước khi chọn.</li></ul><div class='example'><strong>Ví dụ:</strong> \"Flora releases oxygen for humans\" → Thực vật cung cấp oxy cho con người → câu hỏi \"What do plants provide?\" → đáp án: Oxygen.</div>"
+  },
+  "exercises": [
+    {
+      "id": 1,
+      "type": "reading-comprehension",
+      "passage": "Plants and animals are an essential part of Earth's ecology. When we speak about a specific habitat and time, we refer to them as flora and fauna. Flora refers to plants and fauna refers to animals. They are fascinating to study due to their beauty and significance to human life.\nFirst, the flora and fauna on Earth create an ecological balance, making life possible for humans. Flora releases oxygen for humans. The carbon dioxide we breathe out is vital to plants. Humans also rely on the plants and animals for food, medicine, and water.\nSecond, plants and animals combine to create a food chain. In the food chain, the animals play an important part. They feed on plants and, in turn, are the prey of other animals. Their droppings become fertilisers for plants.\nFinally, plants and animals add a lot of beauty to our earth. People love and **appreciate** the natural beauty, the relaxed feeling in green spaces and water areas.\nHowever, plants and animals are facing habitat loss, pollution, and climate change. To protect them, we should raise people's awareness of their significance, stop hunting, plant more trees, and build nature reserves for our wildlife.",
+      "questions": [
+        {
+          "id": "1a",
+          "question": "1. What is the passage mainly about?",
+          "options": [
+            "A. The beauty of plants and animals.",
+            "B. How plants and animals protect the environment.",
+            "C. The wonder of plants and animals.",
+            "D. The natural food chain."
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn văn mở đầu: 'They are fascinating to study due to their beauty and significance to human life' → chủ đề là sự kỳ diệu (wonder) của thực vật và động vật. Đáp án C đúng. A chỉ nói vẻ đẹp, B nói bảo vệ môi trường, D chỉ nói chuỗi thức ăn — đều quá hẹp."
+        },
+        {
+          "id": "1b",
+          "question": "2. The author mentions _______ significant roles plants and animals play.",
+          "options": [
+            "A. two",
+            "B. three",
+            "C. four",
+            "D. five"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn văn dùng 'First', 'Second', 'Finally' → có 3 vai trò: (1) tạo cân bằng sinh thái, (2) tạo chuỗi thức ăn, (3) làm đẹp Trái Đất. Đáp án B đúng."
+        },
+        {
+          "id": "1c",
+          "question": "3. Which of the following do plants provide humans?",
+          "options": [
+            "A. Oxygen.",
+            "B. Aquatic environment.",
+            "C. Carbon dioxide.",
+            "D. Habitat loss."
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn văn nói rõ: 'Flora releases oxygen for humans' → thực vật giải phóng oxy cho con người. Đáp án A đúng. C ngược (CO₂ là thứ con người thở ra, cần thiết cho thực vật). B và D không được đề cập là thứ thực vật cung cấp."
+        },
+        {
+          "id": "1d",
+          "question": "4. Which action does NOT preserve plants and animals?",
+          "options": [
+            "A. Planting more trees.",
+            "B. Raising awareness.",
+            "C. Building nature reserves.",
+            "D. Hunting animals."
+          ],
+          "correctIndex": 3,
+          "explanation": "Đoạn văn kêu gọi 'stop hunting' (ngừng săn bắn) → săn bắn là hành động phá hoại, không phải bảo tồn. Đáp án D đúng (KHÔNG bảo tồn). A, B, C đều được nêu là hành động bảo vệ."
+        },
+        {
+          "id": "1e",
+          "question": "5. The word \"appreciate\" in the passage means _______.",
+          "options": [
+            "A. protect the qualities of",
+            "B. recognise the wonder of",
+            "C. learn more about",
+            "D. be aware of"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Appreciate' trong câu 'People love and appreciate the natural beauty' = nhận ra và trân trọng vẻ đẹp → gần nghĩa với 'recognise the wonder of'. Đáp án B đúng. A bảo vệ, C tìm hiểu thêm, D nhận thức — không chính xác."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "reading-comprehension",
+      "passage": "Plants and animals play an important role in food chains. Plants are the primary (1) _____ and they feed wildlife and humans. Wildlife, such as insects, birds, and microbes, often (2) _____ on green plants. In turn, these types of (3) _____ become food for larger animals.\n\nPlants and animals also impact the environment. Plants help keep the ecosystem in balance. They (4) _____ the air, water, and soil. Animals help the environment by carrying pollen from plants to plants, and by (5) _____ seeds. They also help (6) _____ harmful pests and other plant-eaters.",
+      "questions": [
+        {
+          "id": "2a",
+          "question": "(1)",
+          "options": [
+            "A. consumers",
+            "B. producers",
+            "C. decomposers",
+            "D. herbivores"
+          ],
+          "correctIndex": 1,
+          "explanation": "Thực vật là 'nhà sản xuất chính' trong chuỗi thức ăn — chúng tạo ra thức ăn từ ánh sáng mặt trời. 'Primary producers' là thuật ngữ sinh thái học chuẩn. Đáp án B đúng. A 'consumers' = sinh vật tiêu thụ (là động vật), C 'decomposers' = sinh vật phân hủy, D 'herbivores' = động vật ăn cỏ."
+        },
+        {
+          "id": "2b",
+          "question": "(2)",
+          "options": [
+            "A. feed",
+            "B. eat",
+            "C. live",
+            "D. depend"
+          ],
+          "correctIndex": 0,
+          "explanation": "'Feed on green plants' = ăn cây xanh. 'Feed on' là cụm từ sinh thái học chuẩn chỉ hành động ăn của động vật. Đáp án A đúng. B 'eat' không đi với giới từ 'on' trong ngữ cảnh này, C 'live on' có thể dùng nhưng không phải colocation chuẩn nhất, D 'depend on' = phụ thuộc (không nói về ăn uống)."
+        },
+        {
+          "id": "2c",
+          "question": "(3)",
+          "options": [
+            "A. insects",
+            "B. plants",
+            "C. animals",
+            "D. organisms"
+          ],
+          "correctIndex": 2,
+          "explanation": "Câu trước liệt kê 'insects, birds, and microbes' là 'wildlife' (động vật hoang dã) → 'these types of' ở đây chỉ những loại động vật hoang dã đó. Đáp án C đúng. A 'insects' chỉ là một loại trong số đó, B 'plants' không hợp (thực vật là nguồn thức ăn, không phải thức ăn cho động vật lớn hơn ở đây), D 'organisms' quá rộng."
+        },
+        {
+          "id": "2d",
+          "question": "(4)",
+          "options": [
+            "A. pollute",
+            "B. balance",
+            "C. clean",
+            "D. purify"
+          ],
+          "correctIndex": 1,
+          "explanation": "Câu trước: 'Plants help keep the ecosystem in balance' → câu này tiếp nối: thực vật 'cân bằng' không khí, nước và đất. 'Balance the air, water, and soil' phù hợp ngữ cảnh. Đáp án B đúng. A 'pollute' = ô nhiễm (ngược nghĩa), C và D gần nghĩa nhau nhưng không khớp với mạch ý 'cân bằng' của đoạn."
+        },
+        {
+          "id": "2e",
+          "question": "(5)",
+          "options": [
+            "A. collecting",
+            "B. dispersing",
+            "C. gathering",
+            "D. storing"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Dispersing seeds' = phát tán hạt giống — đây là vai trò sinh thái quan trọng của động vật. Đáp án B đúng. A 'collecting' và C 'gathering' có nghĩa gom lại (ngược với phát tán), D 'storing' = lưu trữ (không đúng ngữ cảnh)."
+        },
+        {
+          "id": "2f",
+          "question": "(6)",
+          "options": [
+            "A. attract",
+            "B. protect",
+            "C. control",
+            "D. eliminate"
+          ],
+          "correctIndex": 2,
+          "explanation": "'Control harmful pests' = kiểm soát các loài gây hại. Đây là vai trò cân bằng hệ sinh thái của động vật. Đáp án C đúng. A 'attract' = thu hút (sai ý), B 'protect' không đi với 'pests', D 'eliminate' = tiêu diệt hoàn toàn (quá mạnh và không chính xác về mặt sinh thái)."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "reading-comprehension",
+      "passage": "Landforms\nThe surface of Earth has different landforms, which differ in size and shape. They can be mountains, valleys, deserts, dunes, or plateaus. Mountains are formed as a result of earthquakes, volcanic eruptions, and tectonic movements. Valleys, which can be V-shaped or U-shaped, are low-lying areas between mountains and hills. Deserts are dry areas which have very little rainfall and the daytime temperature is very high. Dunes are small hills made up of sand. They are created from the flow of the water. Plateaus are flat areas and highlands, which are separated from their surroundings.\nBodies of Water\nBodies of water include oceans, seas, lakes, rivers, streams, and glaciers. Water bodies form the largest habitats on Earth, providing huge living spaces for marine life. There are five oceans and seven seas and these bodies of water are salty, but most rivers, streams, and lakes have fresh water. Glaciers are the frozen bodies of water, which cover almost 10% of Earth's land area, and are sources of fresh water on Earth. Bodies of water on Earth also provide sources of water, food, medicines, and energy to humans. They help maintain biodiversity and play an important role in transportation.",
+      "questions": [
+        {
+          "id": "3a",
+          "question": "1. All of the following are landforms, EXCEPT ________.",
+          "options": [
+            "A. valleys",
+            "B. plateaus",
+            "C. glaciers",
+            "D. dunes"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn văn liệt kê các dạng địa hình: 'mountains, valleys, deserts, dunes, or plateaus'. 'Glaciers' (sông băng) không có trong danh sách này — glaciers thuộc phần 'Bodies of Water'. Đáp án C đúng. A, B, D đều là địa hình được nêu."
+        },
+        {
+          "id": "3b",
+          "question": "2. The landforms ________.",
+          "options": [
+            "A. are similar in shape and size",
+            "B. have the same shape but different sizes",
+            "C. are identical in both size and shape",
+            "D. are different in shape and size"
+          ],
+          "correctIndex": 3,
+          "explanation": "Đoạn văn: 'the surface of Earth has different landforms, which differ in size and shape' → địa hình khác nhau về cả kích thước lẫn hình dạng. Đáp án D đúng. A, B, C đều nói 'giống nhau' hoặc 'đồng nhất' — trái với thông tin trong bài."
+        },
+        {
+          "id": "3c",
+          "question": "3. Bodies of water include ________.",
+          "options": [
+            "A. oceans and valleys",
+            "B. salty and fresh bodies of water",
+            "C. frozen bodies of water and dunes",
+            "D. plateaus and fresh bodies of water"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn văn: 'five oceans and seven seas...are salty, but most rivers, streams, and lakes have fresh water' → thủy vực gồm cả nước mặn lẫn nước ngọt. Đáp án B đúng. A và D nhầm lẫn với địa hình, C ghép 'dunes' (địa hình) vào thủy vực — sai."
+        },
+        {
+          "id": "3d",
+          "question": "4. Which of the following is NOT true about bodies of water?",
+          "options": [
+            "A. They are a small but significant part of Earth's habitats.",
+            "B. They are great sources of food and energy for humans.",
+            "C. They play an important role in supporting biodiversity.",
+            "D. They play a significant role in transportation of goods."
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn văn: 'Water bodies form the largest habitats on Earth' → thủy vực tạo thành môi trường sống LỚN NHẤT, không phải 'nhỏ' như A nói. Đáp án A sai → đây là đáp án cần chọn (NOT true). B, C, D đều có cơ sở trong bài."
+        },
+        {
+          "id": "3e",
+          "question": "5. Which of the following is TRUE according to the passage?",
+          "options": [
+            "A. Plateaus are low-lying areas between mountains and hills.",
+            "B. Valleys can be V-shaped or U-shaped.",
+            "C. Earth has seven oceans and five seas.",
+            "D. Glaciers cover almost 20% of Earth's land area."
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn văn: 'Valleys, which can be V-shaped or U-shaped' → đây là thông tin đúng, đáp án B. A sai (đó là mô tả của valleys, không phải plateaus), C sai (5 đại dương, 7 biển — không phải 7 đại dương, 5 biển), D sai (gần 10%, không phải 20%)."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "question": "4. The word \"primary\" in \"Plants are the primary producers\" is closest in meaning to ______.",
+      "options": [
+        "A. secondary",
+        "B. minor",
+        "C. main",
+        "D. occasional"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Primary' = chính yếu, đứng đầu — gần nghĩa với 'main' (chính). Đáp án C đúng. A 'secondary' = thứ cấp (ngược nghĩa), B 'minor' = nhỏ (ngược nghĩa), D 'occasional' = thỉnh thoảng — đều không đúng."
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "question": "5. The word \"biodiversity\" in \"They help maintain biodiversity\" is closest in meaning to ______.",
+      "options": [
+        "A. a wide variety of plants and animals in an environment",
+        "B. the study of living organisms",
+        "C. the number of humans in an area",
+        "D. the quality of water in rivers and lakes"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Biodiversity' (đa dạng sinh học) = sự phong phú đa dạng của các loài sinh vật trong môi trường. Đáp án A đúng. B là 'biology' (sinh học), C nói về số người, D nói về chất lượng nước — đều không phải nghĩa của 'biodiversity'."
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "question": "6. The word \"tectonic\" in \"mountains are formed as a result of...tectonic movements\" means ______.",
+      "options": [
+        "A. relating to the structure and movement of Earth's crust",
+        "B. relating to weather patterns",
+        "C. relating to ocean currents",
+        "D. relating to volcanic gases"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Tectonic movements' = chuyển động kiến tạo — liên quan đến cấu trúc và sự dịch chuyển của vỏ Trái Đất. Đáp án A đúng. B nói thời tiết, C nói dòng hải lưu, D nói khí núi lửa — đều không phải nghĩa của 'tectonic'."
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "question": "7. The word \"dispersing\" in \"by dispersing seeds\" means ______.",
+      "options": [
+        "A. collecting and storing seeds",
+        "B. spreading seeds to different places",
+        "C. planting seeds in the ground",
+        "D. eating seeds for nutrition"
+      ],
+      "correctIndex": 1,
+      "explanation": "'Dispersing seeds' = phát tán hạt giống đến các nơi khác nhau. Đáp án B đúng. A 'collecting and storing' = thu gom và lưu trữ (ngược lại), C 'planting' = trồng xuống đất, D 'eating' — đều không đúng nghĩa của 'dispersing'."
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "question": "8. The word \"glaciers\" in the passage refers to ______.",
+      "options": [
+        "A. large areas of flat highland",
+        "B. dry desert regions with little rainfall",
+        "C. small hills made of sand",
+        "D. large frozen bodies of water"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đoạn văn: 'Glaciers are the frozen bodies of water' → sông băng là những khối nước đóng băng lớn. Đáp án D đúng. A mô tả 'plateaus', B mô tả 'deserts', C mô tả 'dunes' — đều không phải glaciers."
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "question": "9. \"Plants are the primary producers and they feed wildlife and humans.\" Which Vietnamese sentence BEST translates this?",
+      "options": [
+        "A. Động vật là nhà sản xuất chính và chúng cung cấp thức ăn cho thực vật.",
+        "B. Thực vật là nhà sản xuất chính và chúng cung cấp thức ăn cho động vật hoang dã và con người.",
+        "C. Con người là nhà sản xuất chính và họ cung cấp thức ăn cho thực vật.",
+        "D. Thực vật tiêu thụ thức ăn từ động vật hoang dã và con người."
+      ],
+      "correctIndex": 1,
+      "explanation": "'Plants' = thực vật; 'primary producers' = nhà sản xuất chính; 'feed wildlife and humans' = cung cấp thức ăn cho động vật hoang dã và con người. Đáp án B dịch đầy đủ và chính xác. A nhầm chủ ngữ thành 'động vật', C nhầm thành 'con người', D đảo ngược quan hệ."
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "question": "10. \"Animals help the environment by carrying pollen from plants to plants, and by dispersing seeds.\" Which Vietnamese sentence BEST translates this?",
+      "options": [
+        "A. Thực vật giúp môi trường bằng cách mang phấn hoa từ động vật này sang động vật khác.",
+        "B. Động vật gây hại cho môi trường bằng cách phát tán hạt giống.",
+        "C. Động vật giúp môi trường bằng cách mang phấn hoa từ cây này sang cây khác và phát tán hạt giống.",
+        "D. Động vật giúp môi trường bằng cách thu gom phấn hoa và lưu trữ hạt giống."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Animals help the environment' = động vật giúp môi trường; 'carrying pollen from plants to plants' = mang phấn hoa từ cây này sang cây khác; 'dispersing seeds' = phát tán hạt giống. Đáp án C dịch chính xác. A nhầm chủ ngữ thành 'thực vật', B nói 'gây hại' (ngược nghĩa), D nhầm 'dispersing' thành 'lưu trữ'."
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "question": "11. \"Water bodies form the largest habitats on Earth, providing huge living spaces for marine life.\" Which Vietnamese sentence BEST translates this?",
+      "options": [
+        "A. Các vùng nước tạo thành môi trường sống nhỏ nhất trên Trái Đất.",
+        "B. Sinh vật biển cung cấp không gian sống cho các vùng nước trên Trái Đất.",
+        "C. Các vùng nước tạo thành môi trường sống lớn nhất trên Trái Đất, cung cấp không gian sống rộng lớn cho sinh vật biển.",
+        "D. Các vùng nước chỉ cung cấp không gian sống cho con người trên Trái Đất."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Water bodies form the largest habitats' = các vùng nước tạo thành môi trường sống LỚN NHẤT; 'providing huge living spaces for marine life' = cung cấp không gian sống rộng lớn cho sinh vật biển. Đáp án C đúng. A sai ('nhỏ nhất'), B đảo chủ ngữ, D thêm 'chỉ...con người' không có trong văn bản."
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "question": "12. \"Glaciers are the frozen bodies of water, which cover almost 10% of Earth's land area.\" Which Vietnamese sentence BEST translates this?",
+      "options": [
+        "A. Sông băng là những khối nước đóng băng, chiếm gần 10% diện tích đất liền Trái Đất.",
+        "B. Sông băng chiếm hơn 50% diện tích đất liền Trái Đất.",
+        "C. Sông băng là các vùng nước mặn, chiếm khoảng 10% diện tích Trái Đất.",
+        "D. Các vùng nước đóng băng không tồn tại trên Trái Đất."
+      ],
+      "correctIndex": 0,
+      "explanation": "'Glaciers' = sông băng; 'frozen bodies of water' = những khối nước đóng băng; 'cover almost 10% of Earth's land area' = chiếm gần 10% diện tích đất liền Trái Đất. Đáp án A dịch chính xác. B sai con số, C nhầm 'frozen' thành 'mặn', D phủ nhận sự tồn tại của sông băng."
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "question": "13. \"Bodies of water on Earth also provide sources of water, food, medicines, and energy to humans.\" Which Vietnamese sentence BEST translates this?",
+      "options": [
+        "A. Con người cung cấp nước, thức ăn và năng lượng cho các vùng nước trên Trái Đất.",
+        "B. Các vùng nước trên Trái Đất chỉ cung cấp nước uống cho con người.",
+        "C. Các vùng nước trên Trái Đất cũng cung cấp nguồn nước, thức ăn, thuốc men và năng lượng cho con người.",
+        "D. Con người khai thác các vùng nước để sản xuất thuốc men và nước uống mà thôi."
+      ],
+      "correctIndex": 2,
+      "explanation": "'Bodies of water provide sources of water, food, medicines, and energy to humans' = các vùng nước cung cấp nước, thức ăn, thuốc men và năng lượng cho con người. Đáp án C dịch đầy đủ và đúng. A đảo chủ ngữ, B thêm 'chỉ' và bỏ bớt nội dung, D thêm 'mà thôi' làm hẹp nghĩa."
+    },
+    {
+      "id": 14,
+      "type": "reading-comprehension",
+      "passage": "Plants and animals are an essential part of Earth's ecology. When we speak about a specific habitat and time, we refer to them as flora and fauna. Flora refers to plants and fauna refers to animals. They are fascinating to study due to their beauty and significance to human life.\nFirst, the flora and fauna on Earth create an ecological balance, making life possible for humans. Flora releases oxygen for humans. The carbon dioxide we breathe out is vital to plants. Humans also rely on the plants and animals for food, medicine, and water.\nSecond, plants and animals combine to create a food chain. In the food chain, the animals play an important part. They feed on plants and, in turn, are the prey of other animals. Their droppings become fertilizers for plants.\nFinally, plants and animals add a lot of beauty to our earth. People love and **appreciate** the natural beauty, the relaxed feeling in green spaces and water areas.\nHowever, plants and animals are facing habitat loss, pollution, and climate change. To protect them, we should raise people's awareness of their significance, stop hunting, plant more trees, and build nature reserves for our wildlife.",
+      "questions": [
+        {
+          "id": "14a",
+          "question": "1. What is the passage mainly about?",
+          "options": [
+            "A. The beauty of plants and animals.",
+            "B. How plants and animals protect the environment.",
+            "C. The wonder of plants and animals.",
+            "D. The natural food chain."
+          ],
+          "correctIndex": 2,
+          "explanation": "Câu mở đầu nêu thực vật và động vật 'fascinating to study due to their beauty and significance' → chủ đề bao quát là sự kỳ diệu (wonder) của chúng. Đáp án C đúng. A chỉ đề cập vẻ đẹp, B nói bảo vệ môi trường, D chỉ nói chuỗi thức ăn — đều quá hẹp so với toàn bài."
+        },
+        {
+          "id": "14b",
+          "question": "2. The author mentions _______ significant roles plants and animals play.",
+          "options": [
+            "A. two",
+            "B. three",
+            "C. four",
+            "D. five"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn văn dùng 'First', 'Second', 'Finally' để liệt kê 3 vai trò: tạo cân bằng sinh thái, tạo chuỗi thức ăn, làm đẹp Trái Đất. Đáp án B đúng. Không có vai trò thứ tư hay thứ năm nào được nêu."
+        },
+        {
+          "id": "14c",
+          "question": "3. Which of the following do plants provide humans?",
+          "options": [
+            "A. Oxygen.",
+            "B. Aquatic environment.",
+            "C. Carbon dioxide.",
+            "D. Habitat loss."
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn văn ghi rõ 'Flora releases oxygen for humans' → thực vật cung cấp oxy cho con người. Đáp án A đúng. C sai vì CO₂ là thứ con người thở ra (cần cho cây), không phải thứ cây cung cấp. B và D không liên quan."
+        },
+        {
+          "id": "14d",
+          "question": "4. Which action does NOT preserve plants and animals?",
+          "options": [
+            "A. Planting more trees.",
+            "B. Raising awareness.",
+            "C. Building nature reserves.",
+            "D. Hunting animals."
+          ],
+          "correctIndex": 3,
+          "explanation": "Bài kêu gọi 'stop hunting' → săn bắn là hành động phá hoại, không phải bảo tồn. Đáp án D đúng (KHÔNG bảo tồn). A, B, C đều được nêu tường minh là hành động bảo vệ thực vật và động vật."
+        },
+        {
+          "id": "14e",
+          "question": "5. The word \"appreciate\" in the passage means _______.",
+          "options": [
+            "A. protect the qualities of",
+            "B. recognise the wonder of",
+            "C. learn more about",
+            "D. be aware of"
+          ],
+          "correctIndex": 1,
+          "explanation": "'Appreciate' trong 'People love and appreciate the natural beauty' = nhận ra và trân trọng vẻ đẹp → nghĩa gần nhất là 'recognise the wonder of'. Đáp án B đúng. A 'bảo vệ', C 'tìm hiểu thêm', D 'nhận thức' — đều không khớp ngữ cảnh."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": "reading-comprehension",
+      "passage": "Mr An: As you see, habitats affect their flora and fauna, but the flora and fauna also affect their habitats.\nMi: Can you be more specific, Mr An?\nMr An: Well, plants can help or harm their environment. For example, when someone brings a plant to a new place, the plant can make the area more beautiful.\nMi: Yes, it can.\nMr An: But that plant can also grow so fast that it takes over the resources of local plants. And these local plants may die out.\nMi: How about animals? Do they affect the environment too?\nMr An: That's a good question. Similarly, animals can cause harm to or improve a habitat. Beavers, for example, build dams and ponds and this helps plants and animals which need water.\nMi: How do beavers harm the environment?\nMr An: These dams may flood the homes of other plants and animals.\nMi: Ah, yes. So what should we do, Mr An?\nMr An: We should preserve habitats by not bringing plants and animals from different places. We shouldn't cut down forests because that destroys the habitats of many species, or use pesticides which pollute the environment.",
+      "questions": [
+        {
+          "id": "15a",
+          "question": "1. Mr An is mainly talking about _______.",
+          "options": [
+            "A. effects of the habitats on plants and animals",
+            "B. the effects of habitat loss",
+            "C. effects of plants and animals on the habitats",
+            "D. how to build dams and ponds"
+          ],
+          "correctIndex": 2,
+          "explanation": "Câu mở đầu: 'habitats affect their flora and fauna, but the flora and fauna also affect their habitats' → trọng tâm phần sau là ảnh hưởng của thực vật, động vật lên môi trường sống. Đáp án C đúng. A ngược chiều tác động, B quá hẹp, D không liên quan chủ đề chính."
+        },
+        {
+          "id": "15b",
+          "question": "2. What can happen when someone brings a new plant to a different place?",
+          "options": [
+            "A. The new plant always dies quickly.",
+            "B. The new plant may take over resources of local plants.",
+            "C. The new plant only makes the area more beautiful.",
+            "D. The new plant helps local plants grow faster."
+          ],
+          "correctIndex": 1,
+          "explanation": "Mr An nói: 'that plant can also grow so fast that it takes over the resources of local plants. And these local plants may die out.' → cây ngoại lai có thể chiếm tài nguyên của cây địa phương. Đáp án B đúng. A và D sai hoàn toàn, C chỉ nêu mặt tích cực không đầy đủ."
+        },
+        {
+          "id": "15c",
+          "question": "3. How do beavers HELP their habitat?",
+          "options": [
+            "A. They cut down forests.",
+            "B. They use pesticides to control pests.",
+            "C. They build dams and ponds that provide water.",
+            "D. They bring plants from different places."
+          ],
+          "correctIndex": 2,
+          "explanation": "Mr An nói: 'Beavers build dams and ponds and this helps plants and animals which need water.' → hải ly xây đập và ao, cung cấp nước cho các loài. Đáp án C đúng. A, B, D đều là hành động gây hại hoặc không liên quan đến hải ly."
+        },
+        {
+          "id": "15d",
+          "question": "4. What did Mr An suggest humans should do?",
+          "options": [
+            "A. Bring plants and animals from one place to another.",
+            "B. Preserve habitats.",
+            "C. Use pesticides.",
+            "D. Cut down forests."
+          ],
+          "correctIndex": 1,
+          "explanation": "Mr An kết luận: 'We should preserve habitats by not bringing plants and animals from different places.' → con người cần bảo tồn môi trường sống. Đáp án B đúng. A, C, D đều là những hành động Mr An khuyên KHÔNG nên làm."
+        }
+      ]
+    }
+  ]
+}
