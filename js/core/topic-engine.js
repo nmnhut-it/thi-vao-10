@@ -213,6 +213,8 @@ const TopicEngine = {
         return this.createSentenceBuildCard(ex, num, idx);
       case 'fill-blank':
         return this.createFillBlankCard(ex, num, idx);
+      case 'paragraph-writing':
+        return this.createParagraphWritingCard(ex, num, idx);
       default:
         return this.createMCQuestion(ex, num, ex.id || idx);
     }
@@ -516,6 +518,180 @@ const TopicEngine = {
     return card;
   },
 
+  createParagraphWritingCard(ex, num, idx) {
+    const card = document.createElement('div');
+    card.className = 'exercise-card';
+    card.dataset.exId = idx;
+
+    const numEl = document.createElement('div');
+    numEl.className = 'exercise-card__number';
+    numEl.textContent = 'Câu ' + num + ' — Viết đoạn văn';
+    card.appendChild(numEl);
+
+    const promptEl = document.createElement('div');
+    promptEl.className = 'exercise-card__question';
+    promptEl.textContent = ex.prompt || '';
+    card.appendChild(promptEl);
+
+    if (ex.wordCount) {
+      const wcEl = document.createElement('div');
+      wcEl.style.cssText = 'font-size:var(--text-xs);color:var(--text-muted);margin-bottom:var(--sp-2);';
+      wcEl.textContent = 'Khoảng ' + ex.wordCount + ' từ';
+      card.appendChild(wcEl);
+    }
+
+    if (Array.isArray(ex.ideas) && ex.ideas.length) {
+      const ideasWrap = document.createElement('div');
+      ideasWrap.style.cssText = 'background:var(--bg-subtle);border-radius:var(--radius-md);padding:var(--sp-3);margin-bottom:var(--sp-3);';
+      const ideasTitle = document.createElement('div');
+      ideasTitle.style.cssText = 'font-size:var(--text-xs);font-weight:600;color:var(--text-muted);margin-bottom:var(--sp-2);';
+      ideasTitle.textContent = 'Gợi ý ý tưởng:';
+      ideasWrap.appendChild(ideasTitle);
+      const ul = document.createElement('ul');
+      ul.style.cssText = 'margin:0;padding-left:var(--sp-4);font-size:var(--text-sm);line-height:1.6;';
+      ex.ideas.forEach(it => {
+        const li = document.createElement('li');
+        li.textContent = it;
+        ul.appendChild(li);
+      });
+      ideasWrap.appendChild(ul);
+      card.appendChild(ideasWrap);
+    }
+
+    const ta = document.createElement('textarea');
+    ta.className = 'input-answer';
+    ta.placeholder = 'Viết bài của bạn ở đây...';
+    ta.rows = 8;
+    ta.style.cssText = 'width:100%;min-height:160px;resize:vertical;font-family:inherit;line-height:1.6;';
+    card.appendChild(ta);
+
+    // Live word count
+    const wcLive = document.createElement('div');
+    wcLive.style.cssText = 'font-size:var(--text-xs);color:var(--text-muted);text-align:right;margin-top:var(--sp-1);';
+    wcLive.textContent = '0 từ';
+    card.appendChild(wcLive);
+    ta.addEventListener('input', () => {
+      const words = ta.value.trim().split(/\s+/).filter(Boolean).length;
+      wcLive.textContent = words + ' từ';
+      // autosave attempt
+      try {
+        const draft = Storage.load('writing-drafts', {});
+        draft[this.state.topicId + ':' + idx] = ta.value;
+        Storage.save('writing-drafts', draft);
+      } catch (_) {}
+    });
+
+    // Restore previous draft if any
+    try {
+      const draft = Storage.load('writing-drafts', {});
+      const saved = draft[this.state.topicId + ':' + idx];
+      if (saved) {
+        ta.value = saved;
+        const w = saved.trim().split(/\s+/).filter(Boolean).length;
+        wcLive.textContent = w + ' từ';
+      }
+    } catch (_) {}
+
+    const btnEl = document.createElement('button');
+    btnEl.className = 'btn btn--primary btn--block mt-4';
+    btnEl.textContent = this.testMode ? 'Lưu bài' : 'Xem bài mẫu';
+    btnEl.type = 'button';
+    btnEl.addEventListener('click', () => {
+      this.handleParagraphWritingReveal(card, ta, ex, idx);
+    });
+    card.appendChild(btnEl);
+
+    // If already revealed/answered in this session, restore UI
+    if (this.state.answers[idx] && this.state.answers[idx].selected) {
+      ta.disabled = !this.testMode;
+      ta.classList.add(this.testMode ? 'input-answer--recorded' : 'input-answer--correct');
+      if (!this.testMode) {
+        btnEl.style.display = 'none';
+        this._renderWritingSample(card, ex);
+      }
+    }
+
+    return card;
+  },
+
+  handleParagraphWritingReveal(card, ta, ex, exId) {
+    const userAnswer = ta.value.trim();
+
+    if (this.testMode) {
+      // Test mode: record only, no reveal until test ends
+      if (!userAnswer) {
+        ta.focus();
+        return;
+      }
+      this.state.answers[exId] = { selected: userAnswer, correct: true, attempts: 1 };
+      ta.classList.add('input-answer--recorded');
+      this.updateProgress();
+      this.saveInProgress();
+      return;
+    }
+
+    if (this.state.answers[exId]) return;
+
+    if (!userAnswer) {
+      if (!confirm('Bạn chưa viết gì. Vẫn xem bài mẫu?')) {
+        ta.focus();
+        return;
+      }
+    }
+
+    // Self-graded: count as correct (open-ended writing has no auto-grade)
+    this.state.answers[exId] = { selected: userAnswer || '(bỏ trống)', correct: true, attempts: 1 };
+    this.state.score += Logic.POINTS_CORRECT;
+
+    ta.disabled = true;
+    ta.classList.add('input-answer--correct');
+
+    const btn = card.querySelector('.btn');
+    if (btn) btn.style.display = 'none';
+
+    this._renderWritingSample(card, ex);
+    this.updateProgress();
+    this.saveProgress();
+    this.saveInProgress();
+  },
+
+  _renderWritingSample(card, ex) {
+    if (card.querySelector('.writing-sample')) return;
+    const wrap = document.createElement('div');
+    wrap.className = 'writing-sample feedback feedback--correct';
+    wrap.style.cssText = 'margin-top:var(--sp-3);padding:var(--sp-3);border-radius:var(--radius-md);';
+
+    const title = document.createElement('div');
+    title.style.cssText = 'font-weight:600;margin-bottom:var(--sp-2);';
+    title.textContent = 'Bài mẫu (tham khảo)';
+    wrap.appendChild(title);
+
+    const sample = document.createElement('div');
+    sample.style.cssText = 'white-space:pre-wrap;line-height:1.7;margin-bottom:var(--sp-3);';
+    sample.textContent = ex.sampleAnswer || '';
+    wrap.appendChild(sample);
+
+    if (ex.sampleTranslation) {
+      const trTitle = document.createElement('div');
+      trTitle.style.cssText = 'font-weight:600;margin-bottom:var(--sp-2);color:var(--text-muted);';
+      trTitle.textContent = 'Tạm dịch';
+      wrap.appendChild(trTitle);
+      const tr = document.createElement('div');
+      tr.style.cssText = 'white-space:pre-wrap;line-height:1.7;color:var(--text-muted);margin-bottom:var(--sp-3);';
+      tr.textContent = ex.sampleTranslation;
+      wrap.appendChild(tr);
+    }
+
+    if (ex.explanation) {
+      const exp = document.createElement('div');
+      exp.style.cssText = 'border-top:1px solid var(--border);padding-top:var(--sp-2);font-size:var(--text-sm);';
+      this._renderExplanation(exp, ex.explanation);
+      wrap.appendChild(exp);
+    }
+
+    card.appendChild(wrap);
+  },
+
   handleTextAnswer(card, inputEl, ex, exId) {
     if (this.testMode) {
       return this.handleTextAnswerTestMode(card, inputEl, ex, exId);
@@ -566,6 +742,25 @@ const TopicEngine = {
 
     this.updateProgress();
     this.saveInProgress();
+  },
+
+  /**
+   * Render an explanation string. Each "|"-separated segment is shown as its own line.
+   * The first segment (before any |) is the headline; remaining segments stack below.
+   */
+  _renderExplanation(el, text) {
+    if (!text) return;
+    const parts = String(text).split('|').map(s => s.trim()).filter(Boolean);
+    if (parts.length <= 1) {
+      el.textContent = text;
+      return;
+    }
+    parts.forEach((seg, i) => {
+      const line = document.createElement('div');
+      line.className = i === 0 ? 'feedback__line feedback__line--head' : 'feedback__line';
+      line.textContent = seg;
+      el.appendChild(line);
+    });
   },
 
   /**
@@ -654,7 +849,7 @@ const TopicEngine = {
     if (explanation) {
       const expEl = document.createElement('div');
       expEl.className = 'feedback__explanation';
-      expEl.textContent = explanation;
+      this._renderExplanation(expEl, explanation);
       fb.appendChild(expEl);
     }
 
@@ -754,6 +949,9 @@ const TopicEngine = {
         qIdx++;
         const exId = ex.id || idx;
         this.revealMCAnswer(exId, ex.correctIndex, ex.explanation);
+      } else if (ex.type === 'paragraph-writing') {
+        qIdx++;
+        this.revealParagraphWriting(idx, ex);
       } else {
         qIdx++;
         // Text exercises use array index as exId (matching createExerciseCard)
@@ -784,6 +982,25 @@ const TopicEngine = {
     // If not answered, mark correct answer
     const isCorrect = ans && ans.correct;
     this.showFeedback(card, isCorrect, explanation || '');
+  },
+
+  /** Reveal sample answer for paragraph-writing after test submit */
+  revealParagraphWriting(exId, ex) {
+    const card = document.querySelector('[data-ex-id="' + exId + '"]');
+    if (!card) return;
+
+    const ta = card.querySelector('textarea.input-answer');
+    if (ta) {
+      ta.disabled = true;
+      const ans = this.state.answers[exId];
+      const wrote = ans && ans.selected && ans.selected !== '(bỏ trống)';
+      ta.classList.add(wrote ? 'input-answer--correct' : 'input-answer--wrong');
+    }
+
+    const btn = card.querySelector('.btn');
+    if (btn) btn.style.display = 'none';
+
+    this._renderWritingSample(card, ex);
   },
 
   /** Reveal a single text answer after test submit */

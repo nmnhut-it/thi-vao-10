@@ -1,0 +1,555 @@
+{
+  "topicId": "test-tg-2022",
+  "title": "Đề thi vào 10 — Tiền Giang 2022",
+  "section": "practice-test",
+  "testType": "tinh-tien-giang",
+  "timeLimit": 60,
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "I know you can _____ English.",
+      "options": [
+        "A. sing",
+        "B. singing",
+        "C. sang",
+        "D. song"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sau modal verb 'can' dùng V nguyên thể | A — sing | A: sing — đúng | B: singing — V-ing | C: sang — quá khứ | D: song — danh từ"
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "The ao dai and the conical hat are _____ things of Vietnamese culture.",
+      "options": [
+        "A. tradition",
+        "B. traditional",
+        "C. nation",
+        "D. traditionally"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trước danh từ 'things' cần tính từ | B — traditional (truyền thống) | A: tradition (n) | B: traditional (adj) — đúng | C: nation (n) | D: traditionally (adv)"
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "_____ is important in every nation.",
+      "options": [
+        "A. Educate",
+        "B. Education",
+        "C. Educational",
+        "D. Educated"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chủ ngữ cần danh từ | B — Education (giáo dục) | A: Educate (v) | B: Education (n) — đúng | C: Educational (adj) | D: Educated (V3/adj)"
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "category": "communicative",
+      "question": "Let's _____.",
+      "options": [
+        "A. go",
+        "B. goes",
+        "C. going",
+        "D. to go"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cấu trúc 'Let's + V nguyên thể' = đề nghị cùng làm | A — go | A: go — đúng | B: goes — chia ngôi sai | C: going — V-ing | D: to go — sai"
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "It _____ last night.",
+      "options": [
+        "A. rain",
+        "B. rains",
+        "C. rained",
+        "D. raining"
+      ],
+      "correctIndex": 2,
+      "explanation": "'last night' → quá khứ đơn → V2/-ed | C — rained | A: rain — sai | B: rains — hiện tại | C: rained — đúng | D: raining — V-ing"
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "The car _____ he buys is a Tesla Motors one.",
+      "options": [
+        "A. who",
+        "B. whom",
+        "C. which",
+        "D. how"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mệnh đề quan hệ thay 'the car' (vật) → which | C — which | A: who chỉ người | B: whom chỉ người tân ngữ | C: which chỉ vật, đúng | D: how chỉ cách thức"
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "They drink coffee _____ the morning.",
+      "options": [
+        "A. at",
+        "B. in",
+        "C. on",
+        "D. with"
+      ],
+      "correctIndex": 1,
+      "explanation": "Giới từ 'in' đi với buổi (in the morning/afternoon/evening) | B — in | A: at + giờ | B: in + buổi — đúng | C: on + ngày | D: with — với"
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "If Ba _____ rich, he would travel around the world.",
+      "options": [
+        "A. am",
+        "B. is",
+        "C. are",
+        "D. were"
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu điều kiện loại 2: If + S + were/V quá khứ, S + would + V (luôn dùng 'were' cho mọi ngôi) | D — were | A: am — sai | B: is — sai | C: are — sai | D: were — đúng"
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "category": "communicative",
+      "question": "\"Do you sleep at least 8 hours a day?\" the doctor said to him. = The doctor _____.",
+      "options": [
+        "A. asked him how many hours a day he slept at least",
+        "B. asked him if he slept at least 8 hours a day",
+        "C. said to him if he sleeps at least 8 hours a day",
+        "D. told him how many hours a day he sleeps at least"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu tường thuật câu hỏi yes/no: ask + O + if/whether + S + V (lùi thì) | B — asked him if he slept | A: chuyển thành câu hỏi Wh- (đổi nghĩa) | B: đúng | C: said + if — sai (phải dùng asked) | D: told + how many — đổi nghĩa"
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "category": "communicative",
+      "question": "Man: \"How much is it?\" — Girl: \"_____\"",
+      "options": [
+        "A. Thank you",
+        "B. Two dollars",
+        "C. Every day",
+        "D. I'm 15 years old"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu hỏi giá → trả lời bằng số tiền | B — Two dollars | A: cảm ơn | B: đúng | C: hàng ngày | D: tuổi"
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "category": "communicative",
+      "question": "Girl: \"_____\" — Man: \"I am a farmer.\"",
+      "options": [
+        "A. How are you?",
+        "B. How old are you?",
+        "C. Where will you go?",
+        "D. What's your job?"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp lại bằng nghề nghiệp 'I am a farmer' → câu hỏi nghề | D — What's your job? | A: hỏi sức khoẻ | B: hỏi tuổi | C: hỏi đi đâu | D: đúng"
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "The book is very _____.",
+      "options": [
+        "A. interest",
+        "B. interests",
+        "C. interesting",
+        "D. interestingly"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sau 'be very' cần tính từ; sách gây thú vị → -ing | C — interesting | A: interest (n/v) | B: interests | C: interesting (adj) — đúng | D: interestingly (adv)"
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "category": "pronunciation",
+      "question": "Pick out the word that has the underlined part pronounced differently from the others: ended, needed, saved, waited",
+      "options": [
+        "A. end<u>ed</u>",
+        "B. need<u>ed</u>",
+        "C. sav<u>ed</u>",
+        "D. wait<u>ed</u>"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đuôi -ed sau /t/ /d/ đọc /ɪd/, các trường hợp khác đọc /d/ hoặc /t/ | C — saved /seɪvd/ chỉ có /d/ | A: ended /ˈendɪd/ /ɪd/ | B: needed /ˈniːdɪd/ /ɪd/ | C: saved /seɪvd/ /d/ | D: waited /ˈweɪtɪd/ /ɪd/"
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "category": "pronunciation",
+      "question": "Pick out the word that has the underlined part pronounced differently from the others: cow, how, now, slow",
+      "options": [
+        "A. c<u>ow</u>",
+        "B. h<u>ow</u>",
+        "C. n<u>ow</u>",
+        "D. sl<u>ow</u>"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chữ 'ow' trong 'slow' đọc /əʊ/, ba từ còn lại đọc /aʊ/ | D — slow /sləʊ/ | A: cow /kaʊ/ | B: how /haʊ/ | C: now /naʊ/ | D: slow /sləʊ/"
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "category": "stress",
+      "question": "Pick out the word that has the primary stress that differs from the other three: color, idea, lesson, morning",
+      "options": [
+        "A. color",
+        "B. idea",
+        "C. lesson",
+        "D. morning"
+      ],
+      "correctIndex": 1,
+      "explanation": "idea trọng âm âm tiết 2, ba từ còn lại trọng âm âm tiết 1 | B — idea /aɪˈdɪə/ | A: color /ˈkʌlə/ | B: idea /aɪˈdɪə/ | C: lesson /ˈlesn/ | D: morning /ˈmɔːnɪŋ/"
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "category": "stress",
+      "question": "Pick out the word that has the primary stress that differs from the other three: agree, listen, travel, study",
+      "options": [
+        "A. agree",
+        "B. listen",
+        "C. travel",
+        "D. study"
+      ],
+      "correctIndex": 0,
+      "explanation": "agree trọng âm âm tiết 2, ba từ còn lại trọng âm âm tiết 1 | A — agree /əˈɡriː/ | A: agree /əˈɡriː/ | B: listen /ˈlɪsn/ | C: travel /ˈtrævl/ | D: study /ˈstʌdi/"
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "Pick out the word that is of the different topic (or part of speech) from the others: bus, blackboard, chalk, pencil",
+      "options": [
+        "A. bus",
+        "B. blackboard",
+        "C. chalk",
+        "D. pencil"
+      ],
+      "correctIndex": 0,
+      "explanation": "blackboard / chalk / pencil thuộc đồ dùng học tập; bus là phương tiện | A — bus khác chủ đề | A: bus — xe buýt | B: blackboard — bảng | C: chalk — phấn | D: pencil — bút chì"
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "Pick out the word that is of the different topic (or part of speech) from the others: baby, happy, party, story",
+      "options": [
+        "A. baby",
+        "B. happy",
+        "C. party",
+        "D. story"
+      ],
+      "correctIndex": 1,
+      "explanation": "baby / party / story là danh từ; happy là tính từ | B — happy khác loại từ | A: baby (n) | B: happy (adj) | C: party (n) | D: story (n)"
+    },
+    {
+      "id": 19,
+      "type": "reading-comprehension",
+      "passage": "In my view, there is usually one necessary subject missing from most school timetables. Very few students are taught how to organize their learning and how to make the best use of their time. Let's have some simple examples. Do you know how to look up English words in the dictionary? And do you understand all the information the English dictionary contains? Can you take notes quickly, and can you understand them afterwards?\n\nFor some reason, many schools give learners no help with these matters. Teachers ask students to memorize pages from books, or tell them to write ten pages, or have them discuss in groups, but do not explain how to do it. Learning by heart can be useful for many students, but it is important to have a real understanding of a subject. You can waste a lot of time memorizing books, without catching on to anything about the subject.",
+      "questions": [
+        {
+          "id": "19a",
+          "question": "The first sentence mentions \"subject\". What subject is it?",
+          "options": [
+            "A. History",
+            "B. The one not much taught at schools",
+            "C. English",
+            "D. Maths"
+          ],
+          "correctIndex": 1,
+          "explanation": "Câu đầu: 'one necessary subject missing from most school timetables' = một môn còn thiếu, không được dạy nhiều | B — The one not much taught at schools | A/C/D: bài không nói tên môn cụ thể"
+        },
+        {
+          "id": "20a",
+          "question": "According to the passage, teachers do all of these, EXCEPT _____.",
+          "options": [
+            "A. Asking students to learn by heart pages from books",
+            "B. Explaining how to do it",
+            "C. Having students discuss in groups",
+            "D. Telling students to write many pages"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn 2: 'do not explain how to do it' → giáo viên KHÔNG giải thích cách làm | B — Explaining how to do it (NOT mentioned) | A/C/D đều có trong bài"
+        },
+        {
+          "id": "21a",
+          "question": "From the second paragraph, understanding a subject really is _____.",
+          "options": [
+            "A. useful",
+            "B. simple",
+            "C. important",
+            "D. wasteful"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn 2: 'it is important to have a real understanding of a subject' | C — important | A: useful — hữu ích | B: simple — đơn giản | C: important — đúng | D: wasteful — phí phạm"
+        },
+        {
+          "id": "22a",
+          "question": "In the sentence \"Teachers ask students to memorize pages from books\", what is closest in meaning to \"memorize\"?",
+          "options": [
+            "A. remember",
+            "B. read",
+            "C. find",
+            "D. write"
+          ],
+          "correctIndex": 0,
+          "explanation": "memorize = học thuộc, ghi nhớ → remember (nhớ) | A — remember | A: remember — gần nghĩa nhất | B: read | C: find | D: write"
+        },
+        {
+          "id": "23a",
+          "question": "What is the best title for the passage?",
+          "options": [
+            "A. School timetables",
+            "B. Learning English",
+            "C. Learning how to learn",
+            "D. About all subjects taught at schools"
+          ],
+          "correctIndex": 2,
+          "explanation": "Bài đọc nói về cách học (how to learn) chứ không bó hẹp ở môn tiếng Anh hay thời khóa biểu | C — Learning how to learn | A: chỉ nhắc thoáng | B: chỉ là một ví dụ trong bài | C: tóm tắt đúng ý chính | D: quá rộng và sai trọng tâm"
+        },
+        {
+          "id": "24a",
+          "question": "How do readers feel the passage?",
+          "options": [
+            "A. Funny",
+            "B. Informative",
+            "C. Hopeful",
+            "D. Impolite"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bài cung cấp thông tin và lời khuyên về cách học hiệu quả — giọng văn phân tích, hướng dẫn | B — Informative | A: Funny (vui) — không phải | B: Informative — đúng | C: Hopeful (hy vọng) — không phù hợp | D: Impolite — bài không có gì khiếm nhã"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "I am sure this boy didn't pass the examination because his not working hard. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>I am sure</u>",
+        "B. <u>didn't pass</u>",
+        "C. <u>his not working</u>",
+        "D. <u>hard</u>"
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu có lỗi | Lỗi: his not working → he is not working / he didn't work (chủ ngữ phải là 'he', không phải 'his') | C sai | A/B/D đúng"
+    },
+    {
+      "id": 26,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "Yesterday we visit the village and helped many old people. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>visit</u>",
+        "B. <u>and</u>",
+        "C. <u>many</u>",
+        "D. <u>old people</u>"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu có lỗi | Lỗi: visit → visited (yesterday → quá khứ đơn; song song với 'helped') | A sai | B/C/D đúng"
+    },
+    {
+      "id": 27,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "Jeans have never been out fashion, and today young people are still fond of them. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>have never been</u>",
+        "B. <u>out fashion</u>",
+        "C. <u>today</u>",
+        "D. <u>fond of</u>"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu có lỗi | Lỗi: out fashion → out of fashion (cụm cố định 'out of fashion' = lỗi mốt) | B sai | A/C/D đúng"
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "He says that he enjoys to use banana leaves to wrap food. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>says</u>",
+        "B. <u>enjoys</u>",
+        "C. <u>to use</u>",
+        "D. <u>to wrap</u>"
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu có lỗi | Lỗi: to use → using (sau 'enjoy' phải dùng V-ing) | C sai | A/B/D đúng"
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "category": "closest-meaning",
+      "question": "People speak English in the USA. (Choose the sentence closest in meaning)",
+      "options": [
+        "A. English speaks in the USA.",
+        "B. English speak in the USA.",
+        "C. English is speaking in the USA.",
+        "D. English is spoken in the USA."
+      ],
+      "correctIndex": 3,
+      "explanation": "Chủ động → bị động: English (số ít) + is + V3 | D — is spoken | A: speaks — sai chia ngôi và không bị động | B: speak — sai | C: is speaking — chủ động tiếp diễn | D: is spoken — đúng"
+    },
+    {
+      "id": 30,
+      "type": "multiple-choice",
+      "category": "closest-meaning",
+      "question": "I'm excited that I can go to Da Lat. (Choose the sentence closest in meaning)",
+      "options": [
+        "A. I'm so excited going to Da Lat.",
+        "B. I'm excited about going to Da Lat.",
+        "C. That I go to Da Lat I'm excited.",
+        "D. I'm excited going to Da Lat I'm excited."
+      ],
+      "correctIndex": 1,
+      "explanation": "'excited that + S + V' → 'excited about + V-ing' giữ nghĩa | B — excited about going | A: 'so excited' đổi nghĩa, sai | B: đúng | C/D: sai cấu trúc"
+    },
+    {
+      "id": 31,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "You _____ Vietnamese food yet, have you?",
+      "options": [
+        "A. can eat",
+        "B. must be eaten",
+        "C. have eaten",
+        "D. haven't eaten"
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu hỏi đuôi 'have you?' → câu chính ở phủ định + dấu hiệu 'yet' = hiện tại hoàn thành | D — haven't eaten | A: can eat — modal, sai | B: bị động lạ | C: khẳng định, sai | D: đúng"
+    },
+    {
+      "id": 32,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "I have no computers. I wish I _____.",
+      "options": [
+        "A. had a computer",
+        "B. will have many computers",
+        "C. were a computer",
+        "D. didn't have a computer"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu ước hiện tại không có thật: wish + S + V quá khứ đơn | A — had a computer | A: had — đúng | B: will have — wish không đi với will | C: were a computer — vô lý | D: didn't have — đảo nghĩa"
+    },
+    {
+      "id": 33,
+      "type": "reading-comprehension",
+      "passage": "Van, a student from Ho Chi Minh City, is a(n) (33)_____ student in the USA. He is now living with the Parker family on a farm 100 kilometers outside Columbus, Ohio. He will stay (34)_____ till the beginning of December.\n\nMr. Parker (35)_____ maize on his farm while Mrs. Parker works part-time at a grocery store in a nearby town. They have two children. Peter is the same age (36)_____ Van, and Sam is still in primary school.\n\n(37)_____ Van arrived, he has been learning a lot about life on a farm. In the afternoon, as soon as he completes his homework, he feeds the chickens and (38)_____ their eggs. On weekends, if Mr. Parker (39)_____ busy, the three boys help him on the farm.\n\nOn Saturday afternoons, Peter plays football. The Parker family and Van eat hamburgers or hot dogs (40)_____ they watch Peter play. The Parkers are nice so Van feels like a member of their family.",
+      "questions": [
+        {
+          "id": "33a",
+          "question": "Fill blank (33)",
+          "options": [
+            "A. exchange",
+            "B. changing",
+            "C. change",
+            "D. exchanging"
+          ],
+          "correctIndex": 0,
+          "explanation": "'exchange student' = học sinh trao đổi (cụm cố định) | A — exchange | A: exchange — đúng | B/D: V-ing | C: V"
+        },
+        {
+          "id": "34a",
+          "question": "Fill blank (34)",
+          "options": [
+            "A. it",
+            "B. them",
+            "C. there",
+            "D. him"
+          ],
+          "correctIndex": 2,
+          "explanation": "Trạng từ chỉ nơi chốn 'there' = ở đó (sống ở trang trại) | C — there | A: it (đại từ) | B: them | C: there — đúng | D: him"
+        },
+        {
+          "id": "35a",
+          "question": "Fill blank (35)",
+          "options": [
+            "A. develops",
+            "B. puts",
+            "C. lifts",
+            "D. grows"
+          ],
+          "correctIndex": 3,
+          "explanation": "'grow + cây trồng' = trồng | D — grows (Mr. Parker trồng ngô trên trang trại) | A: develops — phát triển | B: puts — đặt | C: lifts — nâng | D: grows — đúng"
+        },
+        {
+          "id": "36a",
+          "question": "Fill blank (36)",
+          "options": [
+            "A. to",
+            "B. like",
+            "C. as",
+            "D. with"
+          ],
+          "correctIndex": 2,
+          "explanation": "Cấu trúc 'the same as' = giống như | C — as | A: to | B: like | C: as — đúng (the same age as) | D: with"
+        },
+        {
+          "id": "37a",
+          "question": "Fill blank (37)",
+          "options": [
+            "A. From",
+            "B. Since",
+            "C. For",
+            "D. When"
+          ],
+          "correctIndex": 1,
+          "explanation": "'has been learning' (hiện tại hoàn thành tiếp diễn) đi với 'since + mốc/sự kiện' | B — Since (Van arrived) | A: From | B: Since — đúng | C: For + khoảng | D: When"
+        },
+        {
+          "id": "38a",
+          "question": "Fill blank (38)",
+          "options": [
+            "A. lays",
+            "B. kills",
+            "C. collects",
+            "D. walks"
+          ],
+          "correctIndex": 2,
+          "explanation": "'collect their eggs' = thu nhặt trứng (gà) | C — collects | A: lays — đẻ (gà mới đẻ trứng) | B: kills | C: collects — đúng | D: walks — đi bộ"
+        },
+        {
+          "id": "39a",
+          "question": "Fill blank (39)",
+          "options": [
+            "A. be",
+            "B. am",
+            "C. are",
+            "D. is"
+          ],
+          "correctIndex": 3,
+          "explanation": "Câu điều kiện loại 1: If + hiện tại đơn; chủ ngữ 'Mr. Parker' (số ít) → is | D — is | A: be — sai | B: am — sai ngôi | C: are — số nhiều | D: is — đúng"
+        },
+        {
+          "id": "40a",
+          "question": "Fill blank (40)",
+          "options": [
+            "A. while",
+            "B. during",
+            "C. in spite of",
+            "D. because of"
+          ],
+          "correctIndex": 0,
+          "explanation": "'while + S + V' = trong khi | A — while (they watch Peter play) | A: while — đúng | B: during + N | C: in spite of | D: because of"
+        }
+      ]
+    }
+  ]
+}

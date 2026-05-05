@@ -1,0 +1,443 @@
+{
+  "topicId": "test-tg-2018",
+  "title": "Đề thi vào 10 — Tiền Giang 2018",
+  "section": "practice-test",
+  "testType": "tinh-tien-giang",
+  "timeLimit": 60,
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "Pick out the word that is of the different topic (or part of speech) from the others: plumber, writer, farmer, sweater",
+      "options": [
+        "A. plumber",
+        "B. writer",
+        "C. farmer",
+        "D. sweater"
+      ],
+      "correctIndex": 3,
+      "explanation": "plumber / writer / farmer là nghề nghiệp; sweater là áo len | D — sweater khác chủ đề | A: thợ ống nước | B: nhà văn | C: nông dân | D: áo len (đồ vật)"
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "Pick out the word that is of the different topic (or part of speech) from the others: quickly, widely, sadly, friendly",
+      "options": [
+        "A. quickly",
+        "B. widely",
+        "C. sadly",
+        "D. friendly"
+      ],
+      "correctIndex": 3,
+      "explanation": "quickly / widely / sadly là trạng từ; 'friendly' tuy có đuôi -ly nhưng là tính từ | D — friendly khác loại từ | A: quickly (adv) | B: widely (adv) | C: sadly (adv) | D: friendly (adj) — thân thiện"
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "category": "pronunciation",
+      "question": "Pick out the word that has the underlined part pronounced differently from the others: talked, washed, passed, collected",
+      "options": [
+        "A. talk<u>ed</u>",
+        "B. wash<u>ed</u>",
+        "C. pass<u>ed</u>",
+        "D. collect<u>ed</u>"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đuôi -ed sau /t/ /d/ đọc /ɪd/, các trường hợp khác đọc /t/ | D — collected /kəˈlektɪd/ có /ɪd/ | A: talked /tɔːkt/ /t/ | B: washed /wɒʃt/ /t/ | C: passed /pɑːst/ /t/ | D: collected /ɪd/"
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "category": "pronunciation",
+      "question": "Pick out the word that has the underlined part pronounced differently from the others: seat, heat, great, meat",
+      "options": [
+        "A. s<u>ea</u>t",
+        "B. h<u>ea</u>t",
+        "C. gr<u>ea</u>t",
+        "D. m<u>ea</u>t"
+      ],
+      "correctIndex": 2,
+      "explanation": "'ea' trong 'great' đọc /eɪ/, ba từ còn lại đọc /iː/ | C — great /ɡreɪt/ | A: seat /siːt/ | B: heat /hiːt/ | C: great /ɡreɪt/ | D: meat /miːt/"
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "category": "stress",
+      "question": "Pick out the word that has the primary stress that differs from the other three: develop, primary, countryside, optional",
+      "options": [
+        "A. develop",
+        "B. primary",
+        "C. countryside",
+        "D. optional"
+      ],
+      "correctIndex": 0,
+      "explanation": "develop trọng âm âm tiết 2, ba từ còn lại trọng âm âm tiết 1 | A — develop /dɪˈveləp/ | A: develop /dɪˈveləp/ | B: primary /ˈpraɪməri/ | C: countryside /ˈkʌntrisaɪd/ | D: optional /ˈɒpʃənl/"
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "category": "stress",
+      "question": "Pick out the word that has the primary stress that differs from the other three: divide, mountain, apply, prevent",
+      "options": [
+        "A. divide",
+        "B. mountain",
+        "C. apply",
+        "D. prevent"
+      ],
+      "correctIndex": 1,
+      "explanation": "mountain trọng âm âm tiết 1, ba từ còn lại trọng âm âm tiết 2 | B — mountain /ˈmaʊntən/ | A: divide /dɪˈvaɪd/ | B: mountain /ˈmaʊntən/ | C: apply /əˈplaɪ/ | D: prevent /prɪˈvent/"
+    },
+    {
+      "id": 7,
+      "type": "reading-comprehension",
+      "passage": "Is there intelligent life on other planets? For years, scientists said \"no\" or \"we don't know\". But today this is changing. Seth Shostak and Alexandra Barnett are astronomers. They believe intelligent life exists somewhere in the universe. They also think we will soon contact these beings.\n\nWhy do Shostak and Barnett think intelligent life exists on other planets? The first reason is time. Scientists believe the universe is about 12 billion years old. This is too long, say Shostak and Barnett, for only one planet in the entire universe to have intelligent life. The second — the universe is huge. Tools like the Hubble Telescope \"have shown that there are at least 100 billion galaxies,\" says Shostak. And our galaxy, the Milky Way, has at least 100 billion stars. Some planets circling these stars might be similar to Earth.\n\nUntil recently, it was difficult to search for signs of intelligent life in the universe. But now, powerful telescopes enable scientists to identify smaller planets — the size of other solar systems. These planets might have intelligent life.\n\nHave beings from space already visited Earth? Probably not, says Shostak. The distance between planets is too great. Despite this, intelligent beings might use other methods, such as radio signals. In fact, they may be trying to communicate with us now, but we don't have the right tools to receive their messages. But this is changing, says Shostak. By 2025, we could make contact with other life forms in our universe.",
+      "questions": [
+        {
+          "id": "7a",
+          "question": "What is the main purpose of the passage?",
+          "options": [
+            "A. to show how telescopes work",
+            "B. to explain two scientists' beliefs",
+            "C. to explain life's origin",
+            "D. to describe life on other planets"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bài giới thiệu Shostak & Barnett rồi trình bày các lý do họ tin có sự sống thông minh — toàn bài xoay quanh niềm tin của hai nhà khoa học | B — explain two scientists' beliefs | A: telescope chỉ là công cụ, không phải mục đích | C: bài không bàn về nguồn gốc sự sống | D: bài không mô tả sự sống ngoài hành tinh, chỉ bàn khả năng"
+        },
+        {
+          "id": "8a",
+          "question": "Which is the best title for paragraph 2?",
+          "options": [
+            "A. Age and size of universe",
+            "B. Earth: the only planet",
+            "C. The Milky Way",
+            "D. Why intelligent life might exist"
+          ],
+          "correctIndex": 3,
+          "explanation": "Đoạn 2 đưa hai lý do tin có sự sống thông minh: time + size of universe | D — Why intelligent life might exist | A/C: chỉ là chi tiết | B: trái nội dung"
+        },
+        {
+          "id": "9a",
+          "question": "Why was it harder to search for life forms in the past?",
+          "options": [
+            "A. Planets were farther apart",
+            "B. They lacked the right tools",
+            "C. They could only see smaller planets",
+            "D. Life didn't exist then"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn 3: 'Until recently, it was difficult... But now, powerful telescopes enable scientists' → trước thiếu công cụ | B — They lacked the right tools | A/C/D không có trong bài"
+        },
+        {
+          "id": "10a",
+          "question": "What might prevent beings from other planets from visiting Earth?",
+          "options": [
+            "A. great distance",
+            "B. radio signals",
+            "C. unread messages",
+            "D. planet size"
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn 4: 'The distance between planets is too great' | A — great distance | B/C/D không phải lý do ngăn cản"
+        },
+        {
+          "id": "11a",
+          "question": "What does \"life forms\" in the last sentence refer to?",
+          "options": [
+            "A. planets",
+            "B. radio signals",
+            "C. intelligent beings",
+            "D. messages"
+          ],
+          "correctIndex": 2,
+          "explanation": "'life forms' = các dạng sống = sinh vật thông minh | C — intelligent beings | A: hành tinh | B: tín hiệu | C: đúng | D: thông điệp"
+        },
+        {
+          "id": "12a",
+          "question": "What is the writer's tone?",
+          "options": [
+            "A. pessimistic",
+            "B. disbelieving",
+            "C. hopeful",
+            "D. critical"
+          ],
+          "correctIndex": 2,
+          "explanation": "Bài tin tưởng có sự sống thông minh và hy vọng liên lạc trong tương lai → giọng hy vọng | C — hopeful | A: bi quan | B: nghi ngờ | C: hy vọng — đúng | D: chỉ trích"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Life is _____ now than 100 years ago.",
+      "options": [
+        "A. best",
+        "B. more good",
+        "C. the best",
+        "D. better"
+      ],
+      "correctIndex": 3,
+      "explanation": "So sánh hơn 'than' → comparative; good → better | D — better | A: best (so sánh nhất) | B: more good — sai (good đặc biệt) | C: the best | D: better — đúng"
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Indirect speech: \"What aspect of learning English do you find most difficult?\" the examiner asked Paul.",
+      "options": [
+        "A. The examiner asked Paul what aspect of learning English you found most difficult.",
+        "B. The examiner asked Paul what aspect of learning English did you find most difficult.",
+        "C. The examiner asked Paul what aspect of learning English did he find most difficult.",
+        "D. The examiner asked Paul what aspect of learning English he found most difficult."
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu tường thuật câu hỏi Wh-: đổi ngôi (you → he), lùi thì (do find → found), KHÔNG đảo ngữ | D — what aspect of learning English he found most difficult | A: không đổi ngôi 'you' | B: vẫn đảo 'did you' | C: vẫn đảo 'did he' | D: đúng"
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Pacific Rim, _____ is also called \"Ring of Fire\", has many earthquakes.",
+      "options": [
+        "A. who",
+        "B. where",
+        "C. whose",
+        "D. which"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mệnh đề quan hệ thay 'Pacific Rim' (vật/địa danh) làm chủ ngữ → which | D — which | A: who chỉ người | B: where chỉ nơi (sau cần V có chủ ngữ riêng) | C: whose sở hữu | D: which đúng"
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "She was absent _____ she was sick.",
+      "options": [
+        "A. because",
+        "B. however",
+        "C. although",
+        "D. therefore"
+      ],
+      "correctIndex": 0,
+      "explanation": "Nguyên nhân (bị ốm) → kết quả (vắng) → because | A — because | A: because — đúng | B: however — tương phản | C: although — mặc dù | D: therefore — vì vậy"
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "I'm looking forward _____ a long holiday.",
+      "options": [
+        "A. to",
+        "B. at",
+        "C. in",
+        "D. for"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cụm 'look forward to' = mong chờ (sau 'to' là V-ing/N) | A — to | A: to — đúng | B: at | C: in | D: for"
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "If you were able to take a space trip, what _____ to get ready?",
+      "options": [
+        "A. do you do",
+        "B. would you do",
+        "C. will you do",
+        "D. had you done"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu điều kiện loại 2: If + S + were/V quá khứ, S + would + V | B — would you do | A: hiện tại | B: would — đúng | C: will — loại 1 | D: had done — loại 3"
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "I'm feeling more _____ about the future.",
+      "options": [
+        "A. relaxing",
+        "B. relaxation",
+        "C. relaxed",
+        "D. relax"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tình trạng cảm xúc của người (chủ ngữ I) → -ed | C — relaxed (cảm thấy thư thái) | A: relaxing — gây thư thái | B: relaxation (n) | C: relaxed (adj) — đúng | D: relax (v)"
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "category": "communicative",
+      "question": "A: \"We're going to the cinema tonight.\" — B: \"_____\"",
+      "options": [
+        "A. You're beautiful",
+        "B. What's wrong",
+        "C. Congratulations",
+        "D. Really"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp lại tin tức kế hoạch → 'Really' (thật à?) thể hiện sự quan tâm | D — Really | A: bạn xinh | B: có gì không ổn | C: chúc mừng | D: đúng"
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "I wish I _____ more time to study English.",
+      "options": [
+        "A. had",
+        "B. have",
+        "C. can have",
+        "D. will have"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu ước hiện tại không có thật: wish + S + V quá khứ đơn | A — had | A: had — đúng | B: have — hiện tại | C: can have — wish không đi can | D: will have — wish không đi will"
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Jean cloth _____ completely from cotton.",
+      "options": [
+        "A. was making",
+        "B. was made",
+        "C. has made",
+        "D. made"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vải jean ĐƯỢC làm từ cotton → bị động: was/were + V3 | B — was made | A: was making — chủ động tiếp diễn | B: was made — bị động, đúng | C: has made — chủ động | D: made — chủ động"
+    },
+    {
+      "id": 23,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "We _____ for five years.",
+      "options": [
+        "A. won't meet",
+        "B. aren't meeting",
+        "C. weren't meeting",
+        "D. haven't met"
+      ],
+      "correctIndex": 3,
+      "explanation": "'for + khoảng thời gian' với phủ định → hiện tại hoàn thành | D — haven't met | A: won't meet — tương lai | B: aren't meeting — hiện tại tiếp diễn | C: weren't meeting — quá khứ tiếp diễn | D: haven't met — đúng"
+    },
+    {
+      "id": 24,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "She suggested _____ dinner earlier.",
+      "options": [
+        "A. having",
+        "B. have",
+        "C. to have",
+        "D. had to have"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sau 'suggest' phải dùng V-ing | A — having | A: having — đúng | B: have — nguyên thể | C: to have — sai | D: had to have — sai"
+    },
+    {
+      "id": 25,
+      "type": "reading-comprehension",
+      "passage": "Every year there are over 150,000 earthquakes around the world. Many are very small and people don't notice (25)_____. Scientists study earthquake patterns to (26)_____ understand why they happen. Some regions, such as those (27)_____ the Pacific Rim, have many more earthquakes (28)_____ others. In Japan, where earthquakes are common, buildings are designed (29)_____ withstand strong shaking. (30)_____, predicting exactly when an earthquake will happen is still very difficult. Scientists also study (31)_____ behavior because some animals seem to sense earthquakes (32)_____ humans do.",
+      "questions": [
+        {
+          "id": "25a",
+          "question": "Fill blank (25)",
+          "options": [
+            "A. they",
+            "B. them",
+            "C. their",
+            "D. theirs"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sau 'notice' cần đại từ tân ngữ thay 'earthquakes' (số nhiều) | B — them | A: they (chủ ngữ) | B: them — đúng | C: their (sở hữu adj) | D: theirs (sở hữu pronoun)"
+        },
+        {
+          "id": "26a",
+          "question": "Fill blank (26)",
+          "options": [
+            "A. good",
+            "B. well",
+            "C. better",
+            "D. best"
+          ],
+          "correctIndex": 2,
+          "explanation": "'better understand' = hiểu rõ hơn (so sánh hơn) — diễn ý đoạn văn về việc nắm bắt sâu hơn | C — better | A: good (adj nguyên cấp, sai cấu trúc) | B: well (adv nguyên cấp) | C: better (so sánh hơn) — đúng | D: best (so sánh nhất, không hợp ngữ cảnh)"
+        },
+        {
+          "id": "27a",
+          "question": "Fill blank (27)",
+          "options": [
+            "A. for",
+            "B. around",
+            "C. through",
+            "D. with"
+          ],
+          "correctIndex": 1,
+          "explanation": "'around the Pacific Rim' = quanh vành đai Thái Bình Dương | B — around | A: for | B: around — đúng | C: through | D: with"
+        },
+        {
+          "id": "28a",
+          "question": "Fill blank (28)",
+          "options": [
+            "A. than",
+            "B. as",
+            "C. that",
+            "D. so"
+          ],
+          "correctIndex": 0,
+          "explanation": "So sánh hơn 'more ... than' | A — than | A: than — đúng | B: as | C: that | D: so"
+        },
+        {
+          "id": "29a",
+          "question": "Fill blank (29)",
+          "options": [
+            "A. for",
+            "B. on",
+            "C. to",
+            "D. by"
+          ],
+          "correctIndex": 2,
+          "explanation": "'designed to + V' = được thiết kế để | C — to | A: for | B: on | C: to — đúng | D: by"
+        },
+        {
+          "id": "30a",
+          "question": "Fill blank (30)",
+          "options": [
+            "A. Therefore",
+            "B. Moreover",
+            "C. However",
+            "D. Because"
+          ],
+          "correctIndex": 2,
+          "explanation": "Hai câu trái ngược: thiết kế chống động đất NHƯNG dự đoán thì khó → However | C — However | A: Therefore — vì vậy | B: Moreover — hơn nữa | C: However — đúng | D: Because — vì"
+        },
+        {
+          "id": "31a",
+          "question": "Fill blank (31)",
+          "options": [
+            "A. people",
+            "B. plant",
+            "C. animal",
+            "D. building"
+          ],
+          "correctIndex": 2,
+          "explanation": "Câu tiếp theo nói 'some animals seem to sense' → 'animal behavior' | C — animal | A: people | B: plant | C: animal — đúng | D: building"
+        },
+        {
+          "id": "32a",
+          "question": "Fill blank (32)",
+          "options": [
+            "A. as",
+            "B. before",
+            "C. after",
+            "D. because"
+          ],
+          "correctIndex": 1,
+          "explanation": "Động vật cảm nhận động đất TRƯỚC khi con người cảm nhận | B — before | A: as | B: before — đúng | C: after | D: because"
+        }
+      ]
+    }
+  ]
+}

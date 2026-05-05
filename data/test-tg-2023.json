@@ -1,0 +1,555 @@
+{
+  "topicId": "test-tg-2023",
+  "title": "Đề thi vào 10 — Tiền Giang 2023",
+  "section": "practice-test",
+  "testType": "tinh-tien-giang",
+  "timeLimit": 60,
+  "exercises": [
+    {
+      "id": 1,
+      "type": "reading-comprehension",
+      "passage": "How to improve English communication skills?\n\nFind native English speakers: Sometimes, it's the hardest thing to do, but it's the best use of your time. Talking to real native speakers is the best way to improve your English skills, speaking at least.\n\nSlow down: If you want to be understood, slow down. The more clearly you speak, the better chance your listener has of understanding you.\n\nRecord yourself: We really don't know our pronunciation. So record yourself! What are the weak and strong points you hear in your speech? And then you can focus on what you need to work on.\n\nSpeak English at home: This is the mistake to make easily. You use English at work or in class and then you go home and return to your mother tongue. Make sure to speak it at home, too. Have only English at the dinner table. Stick to English TV at home. Make it as 24/7 as possible.",
+      "questions": [
+        {
+          "id": "1a",
+          "question": "According to the writer, the best way to improve your English skills is _____.",
+          "options": [
+            "A. doing the easiest thing",
+            "B. doing nothing at all",
+            "C. talking to actual native speakers",
+            "D. speaking no English"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn 1: 'Talking to real native speakers is the best way to improve your English skills' | C — talking to actual native speakers | A: dễ nhất, sai | B: không làm gì, sai | C: nói với người bản xứ, đúng | D: không nói tiếng Anh, sai"
+        },
+        {
+          "id": "2a",
+          "question": "According to the 2nd paragraph, your listeners can understand you when you _____.",
+          "options": [
+            "A. listen to the music of English",
+            "B. find native English speakers",
+            "C. speak English at home",
+            "D. speak slowly and clearly"
+          ],
+          "correctIndex": 3,
+          "explanation": "Đoạn 'Slow down': 'The more clearly you speak, the better chance your listener has of understanding' | D — speak slowly and clearly | A/B/C đều có trong bài nhưng không trả lời câu hỏi này"
+        },
+        {
+          "id": "3a",
+          "question": "Among the ways mentioned in the passage, recording yourself is good for you _____.",
+          "options": [
+            "A. to know your weak and strong points",
+            "B. to make you more famous with your voice",
+            "C. to concentrate on your hard work",
+            "D. to hear yourselves all the time"
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn 'Record yourself': 'What are the weak and strong points you hear in your speech?' | A — to know your weak and strong points | B/C/D không có trong bài"
+        },
+        {
+          "id": "4a",
+          "question": "Which is closest in meaning to \"your mother tongue\" in the last paragraph?",
+          "options": [
+            "A. your English",
+            "B. your foreign language",
+            "C. your first language",
+            "D. a part in your mother's mouth"
+          ],
+          "correctIndex": 2,
+          "explanation": "'mother tongue' = tiếng mẹ đẻ = tiếng đầu tiên học | C — your first language | A: tiếng Anh, sai (đang nói về ngôn ngữ khác Anh) | B: ngoại ngữ | C: ngôn ngữ đầu tiên, đúng | D: nghĩa đen, sai"
+        },
+        {
+          "id": "5a",
+          "question": "\"Make it as 24/7 as possible\" at the end of the passage can be understood that _____.",
+          "options": [
+            "A. you should learn English at least for 24 days",
+            "B. you should use at least 7 hours to learn English",
+            "C. you should learn English at least for 7 years",
+            "D. you should make use of any time to learn English"
+          ],
+          "correctIndex": 3,
+          "explanation": "'24/7' = 24 giờ một ngày, 7 ngày một tuần = mọi lúc | D — make use of any time | A/B/C hiểu sai cụm 24/7"
+        },
+        {
+          "id": "6a",
+          "question": "How do readers feel the passage?",
+          "options": [
+            "A. Angry",
+            "B. Funny",
+            "C. Informative",
+            "D. Impolite"
+          ],
+          "correctIndex": 2,
+          "explanation": "Bài đưa lời khuyên hữu ích cải thiện tiếng Anh → cung cấp thông tin | C — Informative | A: tức giận | B: hài hước | C: nhiều thông tin, đúng | D: bất lịch sự"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "category": "pronunciation",
+      "question": "Pick out the word that has the underlined part pronounced differently from the others: chatted, loved, waited, wanted",
+      "options": [
+        "A. chatt<u>ed</u>",
+        "B. lov<u>ed</u>",
+        "C. wait<u>ed</u>",
+        "D. want<u>ed</u>"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đuôi -ed sau /t/ hoặc /d/ đọc /ɪd/, các trường hợp khác đọc /d/ hoặc /t/ | B — loved /lʌvd/ chỉ có /d/, ba từ còn lại có /ɪd/ | A: chatted /tʃætɪd/ /ɪd/ | B: loved /lʌvd/ /d/ | C: waited /ˈweɪtɪd/ /ɪd/ | D: wanted /ˈwɒntɪd/ /ɪd/"
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "category": "pronunciation",
+      "question": "Pick out the word that has the underlined part pronounced differently from the others: fine, nine, write, film",
+      "options": [
+        "A. f<u>i</u>ne",
+        "B. n<u>i</u>ne",
+        "C. wr<u>i</u>te",
+        "D. f<u>i</u>lm"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chữ 'i' trong 'film' đọc /ɪ/ ngắn, ba từ còn lại đọc /aɪ/ | D — film /fɪlm/ | A: fine /faɪn/ /aɪ/ | B: nine /naɪn/ /aɪ/ | C: write /raɪt/ /aɪ/ | D: film /fɪlm/ /ɪ/"
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "category": "stress",
+      "question": "Pick out the word that has the primary stress that differs from the other three: idea, flower, river, table",
+      "options": [
+        "A. idea",
+        "B. flower",
+        "C. river",
+        "D. table"
+      ],
+      "correctIndex": 0,
+      "explanation": "idea trọng âm âm tiết 2, ba từ còn lại trọng âm âm tiết 1 | A — idea /aɪˈdɪə/ | A: idea /aɪˈdɪə/ | B: flower /ˈflaʊə/ | C: river /ˈrɪvə/ | D: table /ˈteɪbl/"
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "category": "stress",
+      "question": "Pick out the word that has the primary stress that differs from the other three: enjoy, happen, study, visit",
+      "options": [
+        "A. enjoy",
+        "B. happen",
+        "C. study",
+        "D. visit"
+      ],
+      "correctIndex": 0,
+      "explanation": "enjoy trọng âm âm tiết 2, ba từ còn lại trọng âm âm tiết 1 | A — enjoy /ɪnˈdʒɔɪ/ | A: enjoy /ɪnˈdʒɔɪ/ | B: happen /ˈhæpən/ | C: study /ˈstʌdi/ | D: visit /ˈvɪzɪt/"
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "Pick out the word that is of the different (or part of speech) from the others: farmer, singer, taller, worker",
+      "options": [
+        "A. farmer",
+        "B. singer",
+        "C. taller",
+        "D. worker"
+      ],
+      "correctIndex": 2,
+      "explanation": "farmer / singer / worker là danh từ chỉ người; taller là tính từ so sánh hơn của tall | C — taller khác loại từ | A: farmer (n) | B: singer (n) | C: taller (adj) | D: worker (n)"
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "Pick out the word that is of the different topic (or part of speech) from the others: city, rainy, sunny, stormy",
+      "options": [
+        "A. city",
+        "B. rainy",
+        "C. sunny",
+        "D. stormy"
+      ],
+      "correctIndex": 0,
+      "explanation": "rainy / sunny / stormy là tính từ chỉ thời tiết; city là danh từ | A — city khác loại | A: city (n) thành phố | B: rainy (adj) mưa | C: sunny (adj) nắng | D: stormy (adj) bão"
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "category": "communicative",
+      "question": "You: \"_____\" — Tourist: \"I am from Canada.\"",
+      "options": [
+        "A. How are you?",
+        "B. Thank you",
+        "C. What do you do?",
+        "D. Where are you from?"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp lại bằng quốc tịch 'I am from Canada' → câu hỏi nguồn gốc | D — Where are you from? | A: hỏi thăm sức khoẻ | B: cảm ơn | C: hỏi nghề | D: đúng"
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "We enjoy _____ some traditional craft villages in Hue this summer.",
+      "options": [
+        "A. visiting",
+        "B. to visit",
+        "C. craft",
+        "D. visited"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sau 'enjoy' phải dùng V-ing | A — visiting | A: visiting — đúng | B: to visit — sai (enjoy không đi với to-V) | C: craft — sai từ loại | D: visited — quá khứ, sai"
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Now my sister _____ English exercises.",
+      "options": [
+        "A. doing",
+        "B. do",
+        "C. is doing",
+        "D. did"
+      ],
+      "correctIndex": 2,
+      "explanation": "'Now' là dấu hiệu hiện tại tiếp diễn: am/is/are + V-ing | C — is doing | A: doing — thiếu trợ động từ | B: do — sai chia ngôi | C: is doing — đúng | D: did — quá khứ, sai"
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "We are talking about _____ resources.",
+      "options": [
+        "A. nature",
+        "B. natural",
+        "C. naturally",
+        "D. naturalize"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trước danh từ 'resources' cần tính từ | B — natural (tự nhiên) | A: nature (n) | B: natural (adj) — đúng | C: naturally (adv) | D: naturalize (v)"
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "The trip to the countryside is very _____.",
+      "options": [
+        "A. interest",
+        "B. interests",
+        "C. interesting",
+        "D. interestingly"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sau 'be very' cần tính từ; chuyến đi gây thú vị → -ing | C — interesting | A: interest (n/v) | B: interests | C: interesting (adj) — đúng | D: interestingly (adv)"
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "If I had more time, I _____ a business English course.",
+      "options": [
+        "A. taken",
+        "B. takes",
+        "C. to take",
+        "D. would take"
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu điều kiện loại 2: If + S + V quá khứ, S + would + V | D — would take | A: taken — V3 sai | B: takes — sai | C: to take — sai | D: would take — đúng"
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Last summer they _____ Ho Chi Minh City.",
+      "options": [
+        "A. visit",
+        "B. will visit",
+        "C. have visit",
+        "D. visited"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Last summer' → quá khứ đơn → V2/-ed | D — visited | A: visit — hiện tại đơn | B: will visit — tương lai | C: have visit — sai (phải V3) | D: visited — đúng"
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "The book _____ is on the desk is mine.",
+      "options": [
+        "A. which",
+        "B. who",
+        "C. whom",
+        "D. when"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mệnh đề quan hệ thay 'the book' (vật) làm chủ ngữ → which/that | A — which | A: which — chỉ vật, đúng | B: who chỉ người | C: whom — tân ngữ chỉ người | D: when — chỉ thời gian"
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "_____ Sunday, I usually visit my grandparents.",
+      "options": [
+        "A. To",
+        "B. With",
+        "C. On",
+        "D. Between"
+      ],
+      "correctIndex": 2,
+      "explanation": "Giới từ 'on' đi với thứ trong tuần | C — On | A: To — đến | B: With — với | C: On + thứ — đúng | D: Between — giữa"
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Yesterday they _____ a good film on TV.",
+      "options": [
+        "A. watched",
+        "B. were",
+        "C. watching",
+        "D. watch"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Yesterday' → quá khứ đơn → V2/-ed | A — watched | A: watched — đúng | B: were — sai (cần V đầy đủ) | C: watching — thiếu trợ động từ | D: watch — hiện tại đơn"
+    },
+    {
+      "id": 23,
+      "type": "multiple-choice",
+      "category": "communicative",
+      "question": "Peter: \"_____?\" — Daisy: \"I am reading a book.\"",
+      "options": [
+        "A. What are you doing",
+        "B. Good idea",
+        "C. All right",
+        "D. How old are you"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp lại bằng hành động đang làm 'I am reading' → câu hỏi 'What are you doing' | A — What are you doing? | A: đúng | B/C/D: sai ngữ cảnh"
+    },
+    {
+      "id": 24,
+      "type": "multiple-choice",
+      "category": "communicative",
+      "question": "Girl: \"What time is it?\" — Boy: \"_____.\"",
+      "options": [
+        "A. She is young",
+        "B. It is 7 o'clock",
+        "C. By bus",
+        "D. I am fine"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu hỏi giờ → trả lời bằng giờ | B — It is 7 o'clock | A: tuổi | B: đúng | C: phương tiện | D: sức khoẻ"
+    },
+    {
+      "id": 25,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Therefore, _____.",
+      "options": [
+        "A. students in high schools wear uniforms should",
+        "B. students in high schools should wear uniforms",
+        "C. should wearing uniforms students in high schools",
+        "D. to wear uniforms students should in high schools"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trật tự câu cơ bản: S + should + V + O | B — students in high schools should wear uniforms | A/C/D: sai trật tự"
+    },
+    {
+      "id": 26,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Some people think _____.",
+      "options": [
+        "A. that we should save water",
+        "B. we that should save water",
+        "C. we water save that should",
+        "D. that should save we water"
+      ],
+      "correctIndex": 0,
+      "explanation": "Mệnh đề danh ngữ sau 'think': that + S + V | A — that we should save water | A: đúng | B/C/D: sai trật tự"
+    },
+    {
+      "id": 27,
+      "type": "reading-comprehension",
+      "passage": "The Internet has increasingly developed (27)_____ become part of our everyday life. Do you find the Internet useful? What uses? How much time for surfing the Internet? Please respond (28)_____ these questions.\n\nResponse 1: In my opinion, the Internet is a very fast and convenient way for me to get (29)_____. I can also communicate with my friends and relatives by (30)_____ e-mail, or chatting. However, I don't use the Internet very often. For me, the Internet is a wonderful invention of modern life. It makes our world a small village.\n\nResponse 2: (31)_____ can deny the benefits of the Internet in our life. However, the Internet is not always available in the countryside. The Internet is available only in cities, therefore, I cannot easily get (32)_____ to it. I sometimes visit my uncle in the city on weekends and then I can explore the net. I just wander because I don't know which website is useful for me.\n\nResponse 3: The Internet is used for education, communication, entertainment and commerce. However, the Internet has limitations. It is not only time-consuming and costly but also dangerous (33)_____ viruses and bad programs. Moreover, Internet users sometimes have to suffer various risks (34)_____ spam or electronic junk mail, and personal information leaking. So, while enjoying surfing, be alert!",
+      "questions": [
+        {
+          "id": "27a",
+          "question": "Fill blank (27)",
+          "options": [
+            "A. but",
+            "B. and",
+            "C. if",
+            "D. unless"
+          ],
+          "correctIndex": 1,
+          "explanation": "Hai mệnh đề bổ sung ý: phát triển VÀ trở thành... → 'and' | B — and | A: but — đối lập | B: and — đúng | C: if — nếu | D: unless — trừ khi"
+        },
+        {
+          "id": "28a",
+          "question": "Fill blank (28)",
+          "options": [
+            "A. for",
+            "B. with",
+            "C. to",
+            "D. from"
+          ],
+          "correctIndex": 2,
+          "explanation": "Cụm 'respond to' = trả lời, phản hồi (luôn đi với 'to') | C — to | A: for | B: with | C: to — đúng | D: from"
+        },
+        {
+          "id": "29a",
+          "question": "Fill blank (29)",
+          "options": [
+            "A. to informing",
+            "B. informs",
+            "C. information",
+            "D. to inform"
+          ],
+          "correctIndex": 2,
+          "explanation": "Sau 'get' (nhận, lấy) cần danh từ; nội dung là nhận thông tin | C — information | A: to informing — sai cấu trúc | B: informs — V chia | C: information (n) — đúng | D: to inform — sai"
+        },
+        {
+          "id": "30a",
+          "question": "Fill blank (30)",
+          "options": [
+            "A. how",
+            "B. means",
+            "C. road",
+            "D. style"
+          ],
+          "correctIndex": 1,
+          "explanation": "Cụm 'by means of' = bằng phương tiện (cách thức) — diễn đạt phương tiện giao tiếp | B — means | A: how — sai cấu trúc | B: means — đúng (by means of e-mail) | C: road — không hợp | D: style — không hợp với 'by'"
+        },
+        {
+          "id": "31a",
+          "question": "Fill blank (31)",
+          "options": [
+            "A. Nobody",
+            "B. Everybody",
+            "C. Somebody",
+            "D. Anybody"
+          ],
+          "correctIndex": 0,
+          "explanation": "Câu nghĩa khẳng định lợi ích Internet → 'Nobody can deny' = không ai có thể phủ nhận | A — Nobody | A: Nobody — đúng | B: Everybody — đảo nghĩa | C: Somebody | D: Anybody"
+        },
+        {
+          "id": "32a",
+          "question": "Fill blank (32)",
+          "options": [
+            "A. use",
+            "B. progress",
+            "C. access",
+            "D. touch"
+          ],
+          "correctIndex": 2,
+          "explanation": "Cụm 'get access to' = truy cập | C — access | A: use — sử dụng | B: progress — tiến bộ | C: access — đúng | D: touch — chạm"
+        },
+        {
+          "id": "33a",
+          "question": "Fill blank (33)",
+          "options": [
+            "A. so",
+            "B. that",
+            "C. because of",
+            "D. although"
+          ],
+          "correctIndex": 2,
+          "explanation": "'because of + danh từ' = vì lý do gì đó. 'dangerous because of viruses' = nguy hiểm bởi virus | C — because of | A: so — vì vậy (sai vị trí) | B: that — không đứng được sau adj | C: because of + N — đúng | D: although — sai nghĩa (mặc dù)"
+        },
+        {
+          "id": "34a",
+          "question": "Fill blank (34)",
+          "options": [
+            "A. as well",
+            "B. as",
+            "C. as soon",
+            "D. as such"
+          ],
+          "correctIndex": 1,
+          "explanation": "'as' đứng trước danh từ với nghĩa 'như', dùng để liệt kê ví dụ (rút gọn của 'such as') | B — as | A: as well — cũng vậy (sai vị trí) | B: as — đúng | C: as soon — sớm (sai cấu trúc) | D: as such — như thế (sai nghĩa)"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "Most of this earthquakes happen around the Pacific Rim. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>Most</u>",
+        "B. <u>this</u>",
+        "C. <u>happen</u>",
+        "D. <u>around</u>"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu có lỗi | Lỗi: this → these (đứng trước danh từ số nhiều 'earthquakes' phải dùng 'these') | A/C/D đúng | B sai"
+    },
+    {
+      "id": 36,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "Go to the countryside this time of the year is an interesting trip. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>Go</u>",
+        "B. <u>to</u>",
+        "C. <u>of</u>",
+        "D. <u>an</u>"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu có lỗi | Lỗi: Go → Going (chủ ngữ phải là V-ing/danh động từ, không phải nguyên thể) | A: Go sai | B/C/D: đúng"
+    },
+    {
+      "id": 37,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "His mother told him that she am pleased with his best efforts. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>told</u>",
+        "B. <u>am pleased</u>",
+        "C. <u>with</u>",
+        "D. <u>best</u>"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu có lỗi | Lỗi: am pleased → was pleased (câu tường thuật, lùi thì + chia ngôi với 'she') | A/C/D đúng | B sai"
+    },
+    {
+      "id": 38,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "Recently, we've receive a lot of questions about life on the moon. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>Recently</u>",
+        "B. <u>'ve receive</u>",
+        "C. <u>about</u>",
+        "D. <u>on</u>"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu có lỗi | Lỗi: 've receive → 've received | Hiện tại hoàn thành: have/has + V3/V-ed (received), không phải động từ nguyên thể | A/C/D đúng | B sai"
+    },
+    {
+      "id": 39,
+      "type": "multiple-choice",
+      "category": "closest-meaning",
+      "question": "It was a fine day so we decided to go on a trip to the countryside. (Choose the sentence closest in meaning)",
+      "options": [
+        "A. Because it was a fine day, so we decided to go on a trip to the countryside.",
+        "B. Because it was a fine day, we decided to go on a trip to the countryside.",
+        "C. Despite it was a fine day, we decided to go on a trip to the countryside.",
+        "D. Although it was a fine day, we decided to go on a trip to the countryside."
+      ],
+      "correctIndex": 1,
+      "explanation": "'so' biểu thị nguyên nhân-kết quả → 'Because + S + V, S + V' giữ nghĩa (KHÔNG có 'so' kèm 'Because' trong cùng câu) | B — Because ... we decided | A: dùng cả 'Because' và 'so' — sai cấu trúc | B: đúng | C: Despite + N/V-ing | D: Although — đảo nghĩa"
+    },
+    {
+      "id": 40,
+      "type": "multiple-choice",
+      "category": "closest-meaning",
+      "question": "\"When does your school vacation start?\" Hoa asked Lan. (Choose the sentence closest in meaning)",
+      "options": [
+        "A. Hoa asked Lan when her school vacation started.",
+        "B. Hoa asked Lan when school vacation started.",
+        "C. Hoa asked Lan when did her school vacation start.",
+        "D. Hoa asked Lan when school vacation start."
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu tường thuật câu hỏi Wh-: đổi ngôi (your → her), lùi thì (does start → started), KHÔNG đảo ngữ | A — when her school vacation started | A: đúng | B: thiếu 'her' | C: vẫn đảo ngữ | D: không lùi thì"
+    }
+  ]
+}

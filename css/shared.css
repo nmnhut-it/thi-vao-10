@@ -1273,6 +1273,17 @@ button {
   color: var(--primary-dark);
 }
 
+.feedback__line {
+  margin-top: var(--sp-1);
+  line-height: 1.5;
+}
+
+.feedback__line--head {
+  margin-top: 0;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
 /* ============================================
    EXERCISE NAVIGATION
    ============================================ */

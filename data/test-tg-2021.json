@@ -1,0 +1,555 @@
+{
+  "topicId": "test-tg-2021",
+  "title": "Đề thi vào 10 — Tiền Giang 2021",
+  "section": "practice-test",
+  "testType": "tinh-tien-giang",
+  "timeLimit": 60,
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "category": "communicative",
+      "question": "Teacher: \"_____\" — Student: \"I am fine, thank you. And you?\"",
+      "options": [
+        "A. Where are you?",
+        "B. How old are you?",
+        "C. How are you?",
+        "D. Who are you?"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp lại bằng 'I am fine' → câu hỏi sức khoẻ | C — How are you? | A: ở đâu | B: tuổi | C: đúng | D: bạn là ai"
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "Look! Miss World is very _____.",
+      "options": [
+        "A. beauty",
+        "B. beautiful",
+        "C. beautify",
+        "D. beautifully"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sau 'be very' cần tính từ | B — beautiful | A: beauty (n) | B: beautiful (adj) — đúng | C: beautify (v) | D: beautifully (adv)"
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Excuse me? Can you _____ English?",
+      "options": [
+        "A. speech",
+        "B. speak",
+        "C. speaking",
+        "D. spoken"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sau modal 'can' dùng V nguyên thể | B — speak | A: speech (n) | B: speak — đúng | C: speaking — V-ing | D: spoken — V3"
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "The _____ language in Vietnam is Vietnamese.",
+      "options": [
+        "A. nation",
+        "B. national",
+        "C. nationally",
+        "D. nationality"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trước danh từ 'language' cần tính từ | B — national | A: nation (n) | B: national (adj) — đúng | C: nationally (adv) | D: nationality (n)"
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "London is a large city. Its _____ is smaller than Tokyo or Shanghai.",
+      "options": [
+        "A. populate",
+        "B. popular",
+        "C. populous",
+        "D. population"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sau 'Its' (sở hữu) cần danh từ; nội dung là dân số | D — population | A: populate (v) | B: popular (adj) | C: populous (adj) | D: population (n) — đúng"
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Hoa can _____ her parents.",
+      "options": [
+        "A. visit",
+        "B. visits",
+        "C. visiting",
+        "D. visited"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sau modal 'can' dùng V nguyên thể | A — visit | A: visit — đúng | B: visits — V-s | C: visiting — V-ing | D: visited — V2"
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "The book _____ I like is on the table.",
+      "options": [
+        "A. who",
+        "B. whom",
+        "C. which",
+        "D. where"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mệnh đề quan hệ thay 'the book' (vật) làm tân ngữ → which | C — which | A: who chỉ người | B: whom chỉ người tân ngữ | C: which chỉ vật, đúng | D: where chỉ nơi chốn"
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Yesterday they _____.",
+      "options": [
+        "A. arrive",
+        "B. arrives",
+        "C. arriving",
+        "D. arrived"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Yesterday' → quá khứ đơn → V2/-ed | D — arrived | A: arrive — hiện tại đơn | B: arrives — sai chia ngôi | C: arriving — V-ing | D: arrived — đúng"
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "The bus collects us _____ 5 o'clock.",
+      "options": [
+        "A. at",
+        "B. in",
+        "C. on",
+        "D. with"
+      ],
+      "correctIndex": 0,
+      "explanation": "Giới từ 'at' đi với giờ cụ thể | A — at 5 o'clock | A: at + giờ — đúng | B: in + tháng/năm/buổi | C: on + ngày | D: with — với"
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "He said he _____ because it was too noisy.",
+      "options": [
+        "A. can't concentrate",
+        "B. does not concentrate",
+        "C. don't concentrate",
+        "D. couldn't concentrate"
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu tường thuật: lùi thì can → could; 'said' là quá khứ | D — couldn't concentrate | A: can't — không lùi thì | B: hiện tại đơn, sai | C: sai chia ngôi | D: đúng"
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "The first TV picture _____ in 1926, wasn't it?",
+      "options": [
+        "A. produced",
+        "B. didn't produce",
+        "C. was produced",
+        "D. wasn't produced"
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu hỏi đuôi 'wasn't it?' → câu chính khẳng định + bị động (TV picture được sản xuất) | C — was produced | A: chủ động, sai | B: phủ định, sai | C: bị động khẳng định, đúng | D: phủ định"
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "category": "communicative",
+      "question": "Man: \"What time is it?\" — Woman: \"_____\"",
+      "options": [
+        "A. I am here",
+        "B. It's six o'clock",
+        "C. No, thanks",
+        "D. That's all right"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu hỏi giờ → trả lời bằng giờ | B — It's six o'clock | A: tôi ở đây | B: đúng | C: cảm ơn từ chối | D: không sao"
+    },
+    {
+      "id": 13,
+      "type": "reading-comprehension",
+      "passage": "In the UK we each use about two hundred metal food and drink cans every year. Metal cans are popular because they are convenient, easy to store and unbreakable. But when you have finished with a can what do you do with it? Do you throw it away and forget all about it?\n\nProbably! But behind the scenes there are people whose job it is to make sure that the metal is never wasted. In fact, recycling or re-using metal cans is so successful that every day of the year more than five million cans start new lives in new metal products.\n\nAfter you have thrown away your can, what happens? Well, first of all it is collected by the men who empty your dustbin each week and taken to a landfill, together with all the other household rubbish. Then the rubbish is stored and the metal cans are taken separately to a special factory where they find their way back into your home in the form of knives and forks, garden equipment and, of course, food and drink cans. So the next time you open your soft drink just remember where your can may have been!",
+      "questions": [
+        {
+          "id": "13a",
+          "question": "Why does the writer write this passage?",
+          "options": [
+            "A. To let us know about the UK.",
+            "B. To describe the metal factory.",
+            "C. To provide some information.",
+            "D. To describe street cleaners."
+          ],
+          "correctIndex": 2,
+          "explanation": "Bài cung cấp thông tin về tái chế lon kim loại | C — To provide some information | A: chỉ là chi tiết phụ | B: không chỉ về nhà máy | C: đúng | D: không chính"
+        },
+        {
+          "id": "14a",
+          "question": "What is the passage mainly about?",
+          "options": [
+            "A. What happens to old cans.",
+            "B. How metal is made.",
+            "C. How rubbish is collected.",
+            "D. How the soft drink industry works."
+          ],
+          "correctIndex": 0,
+          "explanation": "Toàn bài kể quá trình lon cũ được tái chế | A — What happens to old cans | A: đúng — chủ đề chính | B/C/D: chi tiết phụ"
+        },
+        {
+          "id": "15a",
+          "question": "How do we know that re-using metal cans is very successful?",
+          "options": [
+            "A. Every person uses 5000 cans a year.",
+            "B. Over 5,000,000 cans are recycled daily.",
+            "C. All cans and tins are now made from metal.",
+            "D. It reduces the amount of waste to collect."
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn 2: 'every day of the year more than five million cans start new lives' | B — Over 5,000,000 cans recycled daily | A/C/D: không có trong bài"
+        },
+        {
+          "id": "16a",
+          "question": "Which is closest in meaning to \"rubbish\" in the last paragraph?",
+          "options": [
+            "A. food",
+            "B. equipment",
+            "C. garbage",
+            "D. water"
+          ],
+          "correctIndex": 2,
+          "explanation": "rubbish (rác) = garbage — đồng nghĩa hoàn toàn | C — garbage | A: food (thực phẩm) | B: equipment (thiết bị) | C: garbage (rác) — đúng | D: water (nước)"
+        },
+        {
+          "id": "17a",
+          "question": "After being taken to the landfill, empty metal cans _____.",
+          "options": [
+            "A. are turned into high quality metal.",
+            "B. are washed and sent back to our homes.",
+            "C. are separated from rubbish and sent to a special factory to be recycled.",
+            "D. are made into knives, forks and garden equipment."
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn cuối: 'metal cans are taken separately to a special factory' | C — separated and sent to special factory | A/B/D đều có một phần đúng nhưng không bao trọn ý"
+        },
+        {
+          "id": "18a",
+          "question": "According to the passage, what is our attitude to old cans?",
+          "options": [
+            "A. We are making things difficult for the dustbin men.",
+            "B. We are not interested in what happens to them.",
+            "C. We could help by sending them to the factory.",
+            "D. We should be more careful where we throw them."
+          ],
+          "correctIndex": 3,
+          "explanation": "Bài đọc nhấn mạnh hậu quả của việc xả rác bừa bãi và kêu gọi tái chế → thái độ kết luận: cẩn thận hơn khi vứt rác | D — We should be more careful where we throw them | A/B/C không phản ánh đúng tinh thần bài"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "category": "pronunciation",
+      "question": "Pick out the word that has the underlined part pronounced differently from the others: crowded, called, excited, wanted",
+      "options": [
+        "A. crowd<u>ed</u>",
+        "B. call<u>ed</u>",
+        "C. excit<u>ed</u>",
+        "D. want<u>ed</u>"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đuôi -ed sau /t/ /d/ đọc /ɪd/, các trường hợp khác đọc /d/ hoặc /t/ | B — called /kɔːld/ chỉ có /d/ | A: crowded /ˈkraʊdɪd/ /ɪd/ | B: called /kɔːld/ /d/ | C: excited /ɪkˈsaɪtɪd/ /ɪd/ | D: wanted /ˈwɒntɪd/ /ɪd/"
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "category": "pronunciation",
+      "question": "Pick out the word that has the underlined part pronounced differently from the others: do, go, no, so",
+      "options": [
+        "A. d<u>o</u>",
+        "B. g<u>o</u>",
+        "C. n<u>o</u>",
+        "D. s<u>o</u>"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chữ 'o' trong 'do' đọc /uː/, ba từ còn lại đọc /əʊ/ | A — do /duː/ | A: do /duː/ | B: go /ɡəʊ/ | C: no /nəʊ/ | D: so /səʊ/"
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "category": "stress",
+      "question": "Pick out the word that has the primary stress that differs from the other three: machine, money, student, water",
+      "options": [
+        "A. machine",
+        "B. money",
+        "C. student",
+        "D. water"
+      ],
+      "correctIndex": 0,
+      "explanation": "machine trọng âm âm tiết 2, ba từ còn lại trọng âm âm tiết 1 | A — machine /məˈʃiːn/ | A: machine /məˈʃiːn/ | B: money /ˈmʌni/ | C: student /ˈstjuːdnt/ | D: water /ˈwɔːtə/"
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "category": "stress",
+      "question": "Pick out the word that has the primary stress that differs from the other three: begin, enjoy, happen, return",
+      "options": [
+        "A. begin",
+        "B. enjoy",
+        "C. happen",
+        "D. return"
+      ],
+      "correctIndex": 2,
+      "explanation": "happen trọng âm âm tiết 1, ba từ còn lại trọng âm âm tiết 2 | C — happen /ˈhæpən/ | A: begin /bɪˈɡɪn/ | B: enjoy /ɪnˈdʒɔɪ/ | C: happen /ˈhæpən/ | D: return /rɪˈtɜːn/"
+    },
+    {
+      "id": 23,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "Pick out the word that is of the different topic (or part of speech) from the others: apple, banana, lemon, weather",
+      "options": [
+        "A. apple",
+        "B. banana",
+        "C. lemon",
+        "D. weather"
+      ],
+      "correctIndex": 3,
+      "explanation": "apple / banana / lemon là trái cây; weather là thời tiết | D — weather khác chủ đề | A/B/C: trái cây | D: thời tiết"
+    },
+    {
+      "id": 24,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "Pick out the word that is of the different topic (or part of speech) from the others: busy, city, easy, lazy",
+      "options": [
+        "A. busy",
+        "B. city",
+        "C. easy",
+        "D. lazy"
+      ],
+      "correctIndex": 1,
+      "explanation": "busy / easy / lazy là tính từ; city là danh từ | B — city khác loại từ | A: busy (adj) | B: city (n) | C: easy (adj) | D: lazy (adj)"
+    },
+    {
+      "id": 25,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Now she wishes she _____.",
+      "options": [
+        "A. can pass the exam",
+        "B. will pass the exam",
+        "C. pass the exam",
+        "D. could pass the exam"
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu ước hiện tại: wish + S + V quá khứ; với modal: could/would + V | D — could pass | A: can — không lùi thì | B: will — wish không đi với will | C: pass — sai | D: could pass — đúng"
+    },
+    {
+      "id": 26,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "That's wonderful. I'm pleased _____.",
+      "options": [
+        "A. that you are working hard",
+        "B. to that you are working hard",
+        "C. with you are working hard",
+        "D. that you to work hard"
+      ],
+      "correctIndex": 0,
+      "explanation": "'pleased + that-clause' = vui vì | A — that you are working hard | A: đúng | B: 'to that' sai cấu trúc | C: 'with' không đi với mệnh đề | D: 'to work' sai trật tự"
+    },
+    {
+      "id": 27,
+      "type": "reading-comprehension",
+      "passage": "Lan's Malaysian pen pal (27)_____ is Razali Maryam. Maryam is from Kuala Lumpur, Malaysia. She tells Lan a lot about her country.\n\nMalaysia is one of the (28)_____ of ASEAN. It is divided into two regions, known as West Malaysia and East Malaysia. They are separated by about 640 km of the sea and together comprise an area of 329,758 sq km. Malaysia enjoys tropical climate. The Malaysian unit of currency is the ringgit, consisting (29)_____ 100 sen.\n\nThe capital of Malaysia is Kuala Lumpur and it is also (30)_____ city in the country. The population in 2001 was over 22 million. Islam is the country's official religion. In addition, there are (31)_____ religions such as Buddhism and Hinduism. The official (32)_____ is Bahasa Malaysia (also known simply as Malay) English, Chinese, and Tamil are also widely spoken. The language of instruction for primary school children is Bahasa Malaysia, Chinese, or Tamil. Bahasa Malaysia is the (33)_____ language of instruction in all secondary schools, (34)_____ some students may continue learning in Chinese or Tamil. And English is a compulsory second language.",
+      "questions": [
+        {
+          "id": "27a",
+          "question": "Fill blank (27)",
+          "options": [
+            "A. ball",
+            "B. case",
+            "C. point",
+            "D. pal"
+          ],
+          "correctIndex": 3,
+          "explanation": "'pen pal' = bạn qua thư (cụm cố định) | D — pal | A: ball — bóng | B: case — vỏ | C: point — điểm | D: pal — bạn (đúng cụm)"
+        },
+        {
+          "id": "28a",
+          "question": "Fill blank (28)",
+          "options": [
+            "A. cities",
+            "B. countries",
+            "C. towns",
+            "D. villages"
+          ],
+          "correctIndex": 1,
+          "explanation": "ASEAN = Hiệp hội các quốc gia Đông Nam Á → 'one of the countries' | B — countries | A: cities — thành phố | B: countries — đúng | C: towns — thị trấn | D: villages — làng"
+        },
+        {
+          "id": "29a",
+          "question": "Fill blank (29)",
+          "options": [
+            "A. at",
+            "B. for",
+            "C. in",
+            "D. of"
+          ],
+          "correctIndex": 3,
+          "explanation": "'consist of' = bao gồm (cụm cố định, luôn đi với 'of') | D — of | A: at | B: for | C: in | D: of — đúng"
+        },
+        {
+          "id": "30a",
+          "question": "Fill blank (30)",
+          "options": [
+            "A. large",
+            "B. larger",
+            "C. the largest",
+            "D. as large"
+          ],
+          "correctIndex": 2,
+          "explanation": "Trước danh từ + 'in the country' (so sánh) → so sánh nhất 'the largest' | C — the largest | A: large | B: larger | C: the largest — đúng | D: as large"
+        },
+        {
+          "id": "31a",
+          "question": "Fill blank (31)",
+          "options": [
+            "A. another",
+            "B. other",
+            "C. others",
+            "D. the others"
+          ],
+          "correctIndex": 1,
+          "explanation": "Trước danh từ số nhiều 'religions' dùng tính từ 'other' | B — other | A: another + N số ít | B: other + N số nhiều — đúng | C: others (đại từ) | D: the others (đại từ)"
+        },
+        {
+          "id": "32a",
+          "question": "Fill blank (32)",
+          "options": [
+            "A. dress",
+            "B. food",
+            "C. language",
+            "D. school"
+          ],
+          "correctIndex": 2,
+          "explanation": "Câu sau nói tiếng Bahasa Malaysia, English, Chinese, Tamil → ngôn ngữ chính thức | C — language | A: trang phục | B: thức ăn | C: ngôn ngữ — đúng | D: trường học"
+        },
+        {
+          "id": "33a",
+          "question": "Fill blank (33)",
+          "options": [
+            "A. alien",
+            "B. primary",
+            "C. strong",
+            "D. wide"
+          ],
+          "correctIndex": 1,
+          "explanation": "'primary language of instruction' = ngôn ngữ giảng dạy chính | B — primary | A: alien — người ngoài hành tinh | B: primary — chính, đúng | C: strong — mạnh | D: wide — rộng"
+        },
+        {
+          "id": "34a",
+          "question": "Fill blank (34)",
+          "options": [
+            "A. although",
+            "B. because",
+            "C. so",
+            "D. when"
+          ],
+          "correctIndex": 0,
+          "explanation": "Hai mệnh đề có ý tương phản: dạy chính bằng Bahasa nhưng một số học sinh vẫn học bằng Chinese/Tamil → 'although' (mặc dù) | A — although | A: although — đúng | B: because (vì) | C: so (vì vậy) | D: when (khi)"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "I say if it rains this evening, I wouldn't go out. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>I say</u>",
+        "B. <u>this</u>",
+        "C. <u>I wouldn't go</u>",
+        "D. <u>out</u>"
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu có lỗi | Lỗi: I wouldn't go → I won't go (câu điều kiện loại 1: If + hiện tại đơn, S + will + V) | C sai | A/B/D đúng"
+    },
+    {
+      "id": 36,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "Tomorrow they finished the work and will leave the city. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>finished</u>",
+        "B. <u>the work</u>",
+        "C. <u>and</u>",
+        "D. <u>will leave</u>"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu có lỗi | Lỗi: finished → will finish (Tomorrow → tương lai, song song với 'will leave') | A sai | B/C/D đúng"
+    },
+    {
+      "id": 37,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "If you have a dream to fly into space, your dream may come truly some day. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>into</u>",
+        "B. <u>may</u>",
+        "C. <u>truly</u>",
+        "D. <u>some day</u>"
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu có lỗi | Lỗi: truly → true (cụm 'come true' = thành sự thật, dùng tính từ) | C sai | A/B/D đúng"
+    },
+    {
+      "id": 38,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "I think he suggests to take showers to save water. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>I think</u>",
+        "B. <u>to take</u>",
+        "C. <u>showers</u>",
+        "D. <u>to save</u>"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu có lỗi | Lỗi: to take → taking (sau 'suggest' phải dùng V-ing) | B sai | A/C/D đúng"
+    },
+    {
+      "id": 39,
+      "type": "multiple-choice",
+      "category": "closest-meaning",
+      "question": "It is raining so I can't go to the beach. (Choose the sentence closest in meaning)",
+      "options": [
+        "A. It is raining because I can't go to the beach.",
+        "B. It is raining although I can't go to the beach.",
+        "C. I can't go to the beach so it is raining.",
+        "D. I can't go to the beach because it is raining."
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu gốc: 'so' biểu thị kết quả → 'because + nguyên nhân' giữ nghĩa (nguyên nhân: trời mưa, kết quả: không đi biển) | D — I can't go to the beach because it is raining | A/B: đảo nguyên nhân-kết quả | C: 'so' sai vế | D: đúng"
+    },
+    {
+      "id": 40,
+      "type": "multiple-choice",
+      "category": "closest-meaning",
+      "question": "They grow rice in tropical countries, don't they? (Choose the sentence closest in meaning)",
+      "options": [
+        "A. Rice is grown in tropical countries, don't they?",
+        "B. Rice is grown in tropical countries, do they?",
+        "C. Rice is grown in tropical countries, isn't it?",
+        "D. Rice is grown in tropical countries, is it?"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chuyển bị động: Rice is grown ...; câu hỏi đuôi cho 'rice is grown' (khẳng định) → isn't it? | C — isn't it? | A: don't they sai | B: do they sai | C: đúng | D: is it sai"
+    }
+  ]
+}

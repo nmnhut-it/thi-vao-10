@@ -121,7 +121,23 @@ All explanations in this project target **Vietnamese Grade 9 students** studying
 "The correct answer is D because it summarizes the passage."  ← vague
 ```
 
-### 7. `fill-blank` (10 items)
+### 7. `paragraph-writing` (open-ended essay)
+
+**Fields:** prompt, wordCount, ideas[], sampleAnswer, sampleTranslation, explanation
+
+**Format:** Cấu trúc đoạn văn (topic sentence + supporting + conclusion). Sample answer phải đầy đủ 100-150 từ, có Vietnamese translation song song.
+
+**Good explanation example:**
+```
+"Cấu trúc đoạn văn 100-120 từ: 1) Câu chủ đề; 2) 3 luận điểm với từ nối Firstly/Secondly/Finally; 3) Câu kết bắt đầu bằng In conclusion. Bài làm có thể viết theo nhiều cách miễn là đúng cấu trúc."
+```
+
+**Notes:**
+- Open-ended; self-graded (no auto-check)
+- Always provide both sampleAnswer (English) AND sampleTranslation (Vietnamese)
+- ideas[] should mirror exam paper's gợi ý
+
+### 8. `fill-blank` (10 items)
 
 **Fields:** question, answer, acceptedAnswers[], explanation
 

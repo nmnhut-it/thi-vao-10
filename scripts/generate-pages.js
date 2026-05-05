@@ -226,6 +226,15 @@ const tests = [
   ['test-7', 'Đề Thi Thử 7', 'mc-50'],
   ['test-8', 'Đề Thi Thử 8', 'mc-50'],
   ['test-9', 'Đề Thi Thử 9', 'mc-50'],
+  ['test-tg-2025', 'Đề Tiền Giang 2025', 'mixed-40'],
+  ['test-tg-2024', 'Đề Tiền Giang 2024', 'mixed-40'],
+  ['test-tg-2023', 'Đề Tiền Giang 2023', 'mixed-40'],
+  ['test-tg-2022', 'Đề Tiền Giang 2022', 'mixed-40'],
+  ['test-tg-2021', 'Đề Tiền Giang 2021', 'mixed-40'],
+  ['test-tg-2018', 'Đề Tiền Giang 2018', 'mixed-40'],
+  ['test-dt-2025', 'Đề Đồng Tháp 2025', 'mixed-40'],
+  ['test-dt-2021', 'Đề Đồng Tháp 2021', 'mixed-40'],
+  ['test-dt-2020', 'Đề Đồng Tháp 2020', 'mixed-40'],
 ];
 
 // Ensure pages dir exists

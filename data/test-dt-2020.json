@@ -1,0 +1,498 @@
+{
+  "topicId": "test-dt-2020",
+  "title": "Đề thi vào 10 — Đồng Tháp 2020",
+  "section": "practice-test",
+  "testType": "tinh-dong-thap",
+  "timeLimit": 60,
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "category": "pronunciation",
+      "question": "Pick out the word whose underlined part differs from the others in pronunciation: played, cleaned, wanted, loved",
+      "options": [
+        "A. play<u>ed</u>",
+        "B. clean<u>ed</u>",
+        "C. want<u>ed</u>",
+        "D. lov<u>ed</u>"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đuôi -ed sau /t/ hoặc /d/ đọc /ɪd/, các trường hợp khác đọc /d/ hoặc /t/ | C — wanted /ˈwɒntɪd/ có /ɪd/ | A: played /pleɪd/ — /d/ | B: cleaned /kliːnd/ — /d/ | C: wanted /ˈwɒntɪd/ — /ɪd/ | D: loved /lʌvd/ — /d/"
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "category": "pronunciation",
+      "question": "Pick out the word whose underlined part differs from the others in pronunciation: divide, litter, increase, provide",
+      "options": [
+        "A. d<u>i</u>vide",
+        "B. l<u>i</u>tter",
+        "C. <u>i</u>ncrease",
+        "D. prov<u>i</u>de"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chữ 'i' đứng trước phụ âm cuối kép (-ide) thường đọc /aɪ/, các vị trí khác trong câu này đọc /ɪ/ | D — provide /prəˈvaɪd/ chữ 'i' đọc /aɪ/ | A: divide /dɪˈvaɪd/ — chữ 'i' đầu /ɪ/ | B: litter /ˈlɪtə/ — /ɪ/ | C: increase /ɪnˈkriːs/ — /ɪ/ | D: provide /prəˈvaɪd/ — /aɪ/"
+    },
+    {
+      "id": 3,
+      "type": "reading-comprehension",
+      "passage": "Every year students in many countries learn English. Some of these students are young children. Others are teenagers. Many are adults. Some learn at school, others study by themselves. A few learn English just by hearing the language in films, on television, in the office, or among their friends. But not many are lucky enough to do that. Most people must work hard to learn another language.\n\nLearning another language! Learning English! Why do all these people want to learn English? It is not difficult to answer that question. Many boys and girls learn English at school because it is one of their subjects. They study their own language, and Maths,... and English. (In England, or America, or Australia, many boys and girls study their own language which is English, and Maths,... and another language perhaps French, or German, or Spanish.)\n\nMany adults learn English because it is useful for their work. Teenagers often learn English for their studies, because some of their books are in English at the college or university. Other people learn English because they want to read newspapers or magazines in English.",
+      "questions": [
+        {
+          "id": "3a",
+          "question": "According to the writer, _____.",
+          "options": [
+            "A. only adults learn English",
+            "B. no children like learning English",
+            "C. English is popular all over the world",
+            "D. English is only useful to teenagers"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn 1 mô tả nhiều đối tượng học ở nhiều nước → tiếng Anh phổ biến khắp thế giới | C — English is popular all over the world | A: sai (trẻ em + thiếu niên cũng học) | B: sai | D: sai (mọi lứa tuổi đều học)"
+        },
+        {
+          "id": "4a",
+          "question": "Many boys and girls learn English because _____.",
+          "options": [
+            "A. English can give them a job",
+            "B. they have to study their own language",
+            "C. it is included in their study course",
+            "D. their parents force them to learn it"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn 2: 'learn English at school because it is one of their subjects' = nó là một môn trong chương trình | C — it is included in their study course | A/B/D không phù hợp với bài"
+        },
+        {
+          "id": "5a",
+          "question": "Many adults learn English because _____.",
+          "options": [
+            "A. most of their books are in English",
+            "B. their work is helpful",
+            "C. it helps them in their work",
+            "D. they want to go abroad"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn 3: 'Many adults learn English because it is useful for their work' = nó hữu ích cho công việc | C — it helps them in their work | A: nói về teenagers, không phải adults | B: sai logic | D: không đề cập"
+        },
+        {
+          "id": "6a",
+          "question": "The word \"they\" in paragraph 3 refers to _____.",
+          "options": [
+            "A. people",
+            "B. adults",
+            "C. teenagers",
+            "D. books"
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn 3: 'Other people learn English because they want to read newspapers...' → 'they' chỉ 'Other people' | A — people"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "reading-comprehension",
+      "passage": "PARENTS' DREAMS\n\nParents often have dreams for their children's future. They hope their children will have a (7) _____ life than they had. They dream that their children will do things that they couldn't do. Parents (8) _____ come to the U.S. from foreign countries hope their children will have better education here. They think their children will have more career choices and will have better lives. They think their children will remain close to them because of this. Some opportunities. They think their children will remain close to their parents. Children understand and appreciate these sacrifices and remain close to their parents. However, other children feel ashamed that their parents are so different from (10) _____ Americans.",
+      "questions": [
+        {
+          "id": "7a",
+          "question": "Fill blank (7)",
+          "options": [
+            "A. farther",
+            "B. more",
+            "C. worse",
+            "D. better"
+          ],
+          "correctIndex": 3,
+          "explanation": "Cha mẹ ước con có cuộc sống TỐT HƠN | D — better | A: farther — xa hơn (khoảng cách) | B: more — cần đi với tính từ dài | C: worse — tệ hơn (sai nghĩa) | D: better — tốt hơn, đúng"
+        },
+        {
+          "id": "8a",
+          "question": "Fill blank (8)",
+          "options": [
+            "A. who",
+            "B. whose",
+            "C. whom",
+            "D. which"
+          ],
+          "correctIndex": 0,
+          "explanation": "Mệnh đề quan hệ thay cho 'Parents' (người), làm chủ ngữ → 'who' | A — who | A: who — đúng | B: whose — sở hữu | C: whom — tân ngữ | D: which — chỉ vật"
+        },
+        {
+          "id": "9a",
+          "question": "Fill blank (9)",
+          "options": [
+            "A. succeed",
+            "B. successfully",
+            "C. success",
+            "D. successful"
+          ],
+          "correctIndex": 3,
+          "explanation": "Trước danh từ 'lives' (số nhiều) cần tính từ → 'successful' (thành công) | D — successful | A: succeed (v) | B: successfully (adv) | C: success (n) | D: successful (adj) — đúng"
+        },
+        {
+          "id": "10a",
+          "question": "Fill blank (10)",
+          "options": [
+            "A. at",
+            "B. from",
+            "C. on",
+            "D. in"
+          ],
+          "correctIndex": 1,
+          "explanation": "Cụm 'different from' = khác với | B — from | A: at — sai | B: from — đúng | C: on — sai | D: in — sai (different in dùng cho khía cạnh)"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "category": "closest-meaning",
+      "question": "The question was very hard, so only good students could answer it. (Choose the word CLOSEST in meaning to \"hard\")",
+      "options": [
+        "A. easy",
+        "B. strange",
+        "C. difficult",
+        "D. new"
+      ],
+      "correctIndex": 2,
+      "explanation": "hard (adj) trong câu này = khó → đồng nghĩa difficult | C — difficult | A: easy — dễ (trái nghĩa) | B: strange — lạ | C: difficult — khó, đúng | D: new — mới"
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "category": "closest-meaning",
+      "question": "Many tourists like visiting Sa Dec Flower Village because it is one of the most famous places in Dong Thap province. (Choose the word CLOSEST in meaning to \"famous\")",
+      "options": [
+        "A. amazing",
+        "B. well-known",
+        "C. important",
+        "D. boring"
+      ],
+      "correctIndex": 1,
+      "explanation": "famous = nổi tiếng → đồng nghĩa well-known (được biết đến nhiều) | B — well-known | A: amazing — tuyệt vời | B: well-known — nổi tiếng, đúng | C: important — quan trọng | D: boring — buồn chán"
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "She _____ to Ho Chi Minh city last year.",
+      "options": [
+        "A. goes",
+        "B. was going",
+        "C. has gone",
+        "D. went"
+      ],
+      "correctIndex": 3,
+      "explanation": "Trạng từ 'last year' → quá khứ đơn | D — went | A: goes — hiện tại | B: was going — quá khứ tiếp diễn | C: has gone — hiện tại hoàn thành | D: went — đúng"
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Fast food _____ in the school canteen because it's not good for students' health.",
+      "options": [
+        "A. are sold",
+        "B. shouldn't be sold",
+        "C. sells",
+        "D. were sold"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đồ ăn nhanh KHÔNG NÊN được bán (gây hại sức khoẻ) → bị động + 'should not' | B — shouldn't be sold | A: are sold — sai logic (vẫn bán) | B: shouldn't be sold — đúng | C: sells — chủ động | D: were sold — quá khứ"
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "He often goes for a walk after dinner, _____?",
+      "options": [
+        "A. doesn't he",
+        "B. did he",
+        "C. does he",
+        "D. didn't he"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu hỏi đuôi (tag question): mệnh đề chính khẳng định ở hiện tại đơn → đuôi phủ định 'doesn't he' | A — doesn't he | A: doesn't he — đúng | B/C/D — không hợp"
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Local residents suggested _____ a double railway tunnel to avoid the traffic jam.",
+      "options": [
+        "A. build",
+        "B. building",
+        "C. to building",
+        "D. to build"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sau 'suggest' (không có tân ngữ phía sau) dùng V-ing | B — building | A: build — sai | B: building — đúng | C/D — sai cấu trúc"
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "My friend _____ me at the station if he has a day off.",
+      "options": [
+        "A. would meet",
+        "B. will meet",
+        "C. would have met",
+        "D. meets"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu điều kiện loại 1: If + S + V hiện tại đơn, S + will + V | B — will meet | A: would meet — loại 2 | B: will meet — đúng | C: would have met — loại 3 | D: meets — sai"
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Karen felt very tired, _____ she said goodbye to her friends and went home to take a rest.",
+      "options": [
+        "A. but",
+        "B. or",
+        "C. and",
+        "D. so"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hai mệnh đề có quan hệ nguyên nhân-kết quả → 'so' (vì vậy) | D — so | A: but — nhưng | B: or — hoặc | C: and — và | D: so — đúng"
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Ann couldn't go to my birthday party last night because she had to _____ her younger sister.",
+      "options": [
+        "A. look after",
+        "B. look at",
+        "C. look for",
+        "D. look up"
+      ],
+      "correctIndex": 0,
+      "explanation": "Trông em → 'look after' (chăm sóc) | A — look after | A: look after — đúng | B: look at — nhìn | C: look for — tìm kiếm | D: look up — tra cứu"
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Is that the same film _____ we watched last year?",
+      "options": [
+        "A. whose",
+        "B. who",
+        "C. whom",
+        "D. which"
+      ],
+      "correctIndex": 3,
+      "explanation": "Mệnh đề quan hệ thay cho vật 'film', làm tân ngữ → 'which' | D — which | A: whose — sở hữu | B: who — chủ ngữ chỉ người | C: whom — tân ngữ chỉ người | D: which — đúng"
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Mozart died in Vienna _____ 1791 at the age of 35.",
+      "options": [
+        "A. by",
+        "B. in",
+        "C. at",
+        "D. on"
+      ],
+      "correctIndex": 1,
+      "explanation": "Năm dùng giới từ 'in' | B — in | A: by — không phù hợp | B: in 1791 — đúng | C: at — dùng cho giờ | D: on — dùng cho ngày"
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "category": "communicative",
+      "question": "Sarah and Kathy are talking about the ways to protect themselves and their family from Corona virus. Sarah: \"In my opinion, we should wash our hands regularly and wear masks whenever going out.\" — Kathy: \"_____\"",
+      "options": [
+        "A. It's nice of you to say so!",
+        "B. I'm glad you like it.",
+        "C. I totally agree with you.",
+        "D. You shouldn't say that."
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp lại lời góp ý hợp lý → đồng ý | C — I totally agree with you | A: dùng đáp lời khen | B: dùng đáp lời thích | C: hoàn toàn đồng ý, đúng | D: phản đối, không hợp"
+    },
+    {
+      "id": 23,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Students from rich families can continue their higher _____ in foreign countries.",
+      "options": [
+        "A. education",
+        "B. educator",
+        "C. educate",
+        "D. educational"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sau 'higher' và làm tân ngữ cần danh từ → 'education' (giáo dục) | A — education | A: education (n) — đúng | B: educator (n: nhà giáo dục) | C: educate (v) | D: educational (adj)"
+    },
+    {
+      "id": 24,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Many people died when the building was _____ in last storm.",
+      "options": [
+        "A. destroyed",
+        "B. erupted",
+        "C. rebuilt",
+        "D. struck"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Many people died' → toà nhà bị PHÁ HUỶ → destroyed; 'destroyed in the storm' là cụm bị động chuẩn | A — destroyed | A: destroyed — phá huỷ, đúng | B: erupted — phun trào (núi lửa) | C: rebuilt — xây lại | D: struck — đánh trúng (không gây chết người + sai cụm với 'in the storm')"
+    },
+    {
+      "id": 25,
+      "type": "multiple-choice",
+      "category": "stress",
+      "question": "Pick out the word that differs from the others in the position of primary stress: practice, garbage, design, student",
+      "options": [
+        "A. practice",
+        "B. garbage",
+        "C. design",
+        "D. student"
+      ],
+      "correctIndex": 2,
+      "explanation": "design trọng âm âm tiết 2, ba từ còn lại trọng âm âm tiết 1 | C — /dɪˈzaɪn/ | A: practice /ˈpræktɪs/ | B: garbage /ˈɡɑːbɪdʒ/ | C: design /dɪˈzaɪn/ | D: student /ˈstjuːdnt/"
+    },
+    {
+      "id": 26,
+      "type": "multiple-choice",
+      "category": "stress",
+      "question": "Pick out the word that differs from the others in the position of primary stress: agreement, tradition, energy, pagoda",
+      "options": [
+        "A. agreement",
+        "B. tradition",
+        "C. energy",
+        "D. pagoda"
+      ],
+      "correctIndex": 2,
+      "explanation": "energy trọng âm âm tiết 1, ba từ còn lại trọng âm âm tiết 2 | C — /ˈenədʒi/ | A: agreement /əˈɡriːmənt/ | B: tradition /trəˈdɪʃn/ | C: energy /ˈenədʒi/ | D: pagoda /pəˈɡəʊdə/"
+    },
+    {
+      "id": 27,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "She said that the books in the library will be available the following day. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>following</u>",
+        "B. <u>that</u>",
+        "C. <u>in</u>",
+        "D. <u>will be</u>"
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu có lỗi | Lỗi: will be → would be | Câu tường thuật ở quá khứ (said) → 'will' phải lùi thành 'would' | A/B/C đúng | D: will be sai"
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "Mai's grandmother wishes she can stay in Nha Trang for the festival next week. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>in</u>",
+        "B. <u>Mai's</u>",
+        "C. <u>next week</u>",
+        "D. <u>can</u>"
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu có lỗi | Lỗi: can → could | Sau 'wish' phải dùng quá khứ (can → could) để diễn tả ước muốn không có thật | A/B/C đúng | D: can sai"
+    },
+    {
+      "id": 29,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "I enjoy read books and listening to music in my free time. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>and</u>",
+        "B. <u>read</u>",
+        "C. <u>to</u>",
+        "D. <u>my</u>"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu có lỗi | Lỗi: read → reading | Sau 'enjoy' dùng V-ing; cấu trúc song song với 'listening' | A/C/D đúng | B: read sai, phải là reading"
+    },
+    {
+      "id": 30,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "During your job interview, you should communicate natural with the interviewer. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>interview</u>",
+        "B. <u>natural</u>",
+        "C. <u>communicate</u>",
+        "D. <u>During</u>"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu có lỗi | Lỗi: natural → naturally | Bổ nghĩa cho động từ 'communicate' phải dùng trạng từ | A/C/D đúng | B: natural sai, phải là naturally"
+    },
+    {
+      "id": 31,
+      "type": "multiple-choice",
+      "category": "opposite-meaning",
+      "question": "Installing solar panels on the roofs to get electricity is very expensive. (Choose the word OPPOSITE in meaning to \"expensive\")",
+      "options": [
+        "A. wonderful",
+        "B. attractive",
+        "C. extensive",
+        "D. cheap"
+      ],
+      "correctIndex": 3,
+      "explanation": "expensive = đắt → trái nghĩa cheap (rẻ) | D — cheap | A: wonderful — tuyệt vời | B: attractive — hấp dẫn | C: extensive — rộng rãi | D: cheap — rẻ, đúng trái nghĩa"
+    },
+    {
+      "id": 32,
+      "type": "multiple-choice",
+      "category": "opposite-meaning",
+      "question": "Literature, Maths and English are compulsory subjects in the National Examination. (Choose the word OPPOSITE in meaning to \"compulsory\")",
+      "options": [
+        "A. optional",
+        "B. difficult",
+        "C. required",
+        "D. interesting"
+      ],
+      "correctIndex": 0,
+      "explanation": "compulsory = bắt buộc → trái nghĩa optional (tự chọn) | A — optional | A: optional — tự chọn, đúng trái nghĩa | B: difficult — khó | C: required — bắt buộc (đồng nghĩa) | D: interesting — thú vị"
+    },
+    {
+      "id": 33,
+      "type": "sentence-rewrite",
+      "original": "It rained heavily, but he went to school on time.",
+      "instruction": "Rewrite beginning with: Although",
+      "starterText": "Although",
+      "answer": "Although it rained heavily, he went to school on time.",
+      "acceptedAnswers": [
+        "Although it rained heavily, he went to school on time.",
+        "Although it rained heavily, he went to school on time",
+        "Although it rained heavily he went to school on time."
+      ],
+      "explanation": "Trời mưa to, nhưng anh ấy đến trường đúng giờ | Viết lại bắt đầu với: Although | Although it rained heavily, he went to school on time — Sau 'Although' là mệnh đề (S + V); lưu ý KHÔNG dùng 'but' khi đã có 'Although'"
+    },
+    {
+      "id": 34,
+      "type": "sentence-rewrite",
+      "original": "Alice started playing the piano ten years ago.",
+      "instruction": "Rewrite beginning with: Alice has",
+      "starterText": "Alice has",
+      "answer": "Alice has played the piano for ten years.",
+      "acceptedAnswers": [
+        "Alice has played the piano for ten years.",
+        "Alice has played the piano for ten years",
+        "Alice has been playing the piano for ten years.",
+        "Alice has been playing the piano for ten years"
+      ],
+      "explanation": "Alice bắt đầu chơi piano cách đây 10 năm | Viết lại bắt đầu với: Alice has | Alice has played the piano for ten years — Cấu trúc 'started V-ing X years ago' = 'has + Vp.p + for X years' (hiện tại hoàn thành chỉ khoảng thời gian)"
+    },
+    {
+      "id": 35,
+      "type": "paragraph-writing",
+      "prompt": "Write a paragraph (about 80-100 words) about the ways to protect the environment.",
+      "wordCount": "80-100",
+      "ideas": [
+        "Use public buses instead of motorbikes (reduce exhaust fume, avoid polluting the air...)",
+        "Put garbage bins along the streets (keep the environment clean, prevent lazy people from throwing trash everywhere...)",
+        "Reuse and recycle bottles and cans (reduce garbage, save natural resources...)"
+      ],
+      "sampleAnswer": "Protecting the environment is everyone's responsibility, and there are many simple ways we can help. Firstly, people should use public buses instead of motorbikes. This reduces exhaust fumes and helps avoid polluting the air. Secondly, the government should put garbage bins along the streets. Bins keep the environment clean and prevent lazy people from throwing trash everywhere. Finally, we should reuse and recycle bottles and cans whenever possible. Recycling reduces the amount of garbage and saves natural resources for future generations. By taking these small actions every day, we can make our planet a cleaner, healthier place to live.",
+      "sampleTranslation": "Bảo vệ môi trường là trách nhiệm của mọi người, và có nhiều cách đơn giản chúng ta có thể làm. Thứ nhất, mọi người nên đi xe buýt công cộng thay cho xe máy. Việc này giúp giảm khí thải và tránh ô nhiễm không khí. Thứ hai, chính quyền nên đặt thùng rác dọc các con đường. Thùng rác giữ môi trường sạch sẽ và ngăn người lười biếng vứt rác bừa bãi. Cuối cùng, chúng ta nên tái sử dụng và tái chế chai lọ, lon. Việc tái chế giảm lượng rác thải và bảo vệ tài nguyên thiên nhiên cho các thế hệ sau. Bằng những hành động nhỏ mỗi ngày, chúng ta có thể làm cho hành tinh sạch hơn và đáng sống hơn.",
+      "explanation": "Cấu trúc đoạn văn 80-100 từ: 1) Câu chủ đề nêu vấn đề bảo vệ môi trường | 2) 3 luận điểm theo gợi ý: Firstly/Secondly/Finally + giải thích lợi ích | 3) Câu kết tóm lại tác dụng. Bài làm có thể viết theo nhiều cách khác miễn là bám sát các ý gợi ý."
+    }
+  ]
+}

@@ -6,7 +6,7 @@ const fs = require('fs');
 const path = require('path');
 
 const DATA_DIR = path.join(__dirname, '..', 'data');
-const VALID_TYPES = ['multiple-choice', 'fill-blank', 'error-correct', 'sentence-rewrite', 'sentence-build', 'sentence-combine', 'reading-comprehension', 'fill-blank-mixed', 'fill-blank-table'];
+const VALID_TYPES = ['multiple-choice', 'fill-blank', 'error-correct', 'sentence-rewrite', 'sentence-build', 'sentence-combine', 'reading-comprehension', 'fill-blank-mixed', 'fill-blank-table', 'paragraph-writing'];
 
 let errors = 0;
 let warnings = 0;
@@ -60,6 +60,11 @@ function validateExercise(ex, file, idx) {
   if (ex.type === 'sentence-build') {
     if (!ex.prompt) error(file, `Exercise #${idx + 1}: sentence-build missing 'prompt'`);
     if (!ex.answer) error(file, `Exercise #${idx + 1}: sentence-build missing 'answer'`);
+  }
+
+  if (ex.type === 'paragraph-writing') {
+    if (!ex.prompt) error(file, `Exercise #${idx + 1}: paragraph-writing missing 'prompt'`);
+    if (!ex.sampleAnswer) error(file, `Exercise #${idx + 1}: paragraph-writing missing 'sampleAnswer'`);
   }
 
   if (ex.type === 'reading-comprehension') {

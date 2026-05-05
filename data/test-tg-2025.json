@@ -1,0 +1,555 @@
+{
+  "topicId": "test-tg-2025",
+  "title": "Đề thi vào 10 — Tiền Giang 2025",
+  "section": "practice-test",
+  "testType": "tinh-tien-giang",
+  "timeLimit": 60,
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "category": "pronunciation",
+      "question": "Pick out the word that has the underlined part pronounced differently from the others: listed, agreed, entered, played",
+      "options": [
+        "A. list<u>ed</u>",
+        "B. agre<u>ed</u>",
+        "C. enter<u>ed</u>",
+        "D. play<u>ed</u>"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đuôi -ed sau /t/ hoặc /d/ đọc /ɪd/, các trường hợp khác đọc /d/ hoặc /t/ | A — listed /ˈlɪstɪd/ có /ɪd/, ba từ còn lại đọc /d/ | A: listed /lɪstɪd/ | B: agreed /əˈɡriːd/ | C: entered /ˈentəd/ | D: played /pleɪd/"
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "category": "pronunciation",
+      "question": "Pick out the word that has the underlined part pronounced differently from the others: music, interest, online, children",
+      "options": [
+        "A. mus<u>i</u>c",
+        "B. <u>i</u>nterest",
+        "C. onl<u>i</u>ne",
+        "D. ch<u>i</u>ldren"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chữ 'i' trong 'online' đọc /aɪ/ (đôi nguyên âm), ba từ còn lại đọc /ɪ/ ngắn | C — online /ˈɒnlaɪn/ có /aɪ/ | A: music /ˈmjuːzɪk/ | B: interest /ˈɪntrəst/ | C: online /ˈɒnlaɪn/ | D: children /ˈtʃɪldrən/"
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "category": "stress",
+      "question": "Pick out the word that has the primary stress that differs from the others: study, return, arrive, begin",
+      "options": [
+        "A. study",
+        "B. return",
+        "C. arrive",
+        "D. begin"
+      ],
+      "correctIndex": 0,
+      "explanation": "study trọng âm âm tiết 1, ba từ còn lại trọng âm âm tiết 2 | A — /ˈstʌdi/ trọng âm 1 | A: study /ˈstʌdi/ | B: return /rɪˈtɜːn/ | C: arrive /əˈraɪv/ | D: begin /bɪˈɡɪn/"
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "category": "stress",
+      "question": "Pick out the word that has the primary stress that differs from the others: money, photo, father, idea",
+      "options": [
+        "A. money",
+        "B. photo",
+        "C. father",
+        "D. idea"
+      ],
+      "correctIndex": 3,
+      "explanation": "idea trọng âm âm tiết 2, ba từ còn lại trọng âm âm tiết 1 | D — /aɪˈdɪə/ trọng âm 2 | A: money /ˈmʌni/ | B: photo /ˈfəʊtəʊ/ | C: father /ˈfɑːðə/ | D: idea /aɪˈdɪə/"
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "Pick out the word that is of the different topic (or part of speech) from the others: noisy, city, easy, busy",
+      "options": [
+        "A. noisy",
+        "B. city",
+        "C. easy",
+        "D. busy"
+      ],
+      "correctIndex": 1,
+      "explanation": "city là danh từ, ba từ còn lại đều là tính từ | B — city (n) thành phố | A: noisy (adj) ồn ào | B: city (n) thành phố | C: easy (adj) dễ | D: busy (adj) bận"
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "Pick out the word that is of the different topic (or part of speech) from the others: passport, suitcase, visa, teacher",
+      "options": [
+        "A. passport",
+        "B. suitcase",
+        "C. visa",
+        "D. teacher"
+      ],
+      "correctIndex": 3,
+      "explanation": "passport, suitcase, visa thuộc chủ đề du lịch; teacher là nghề nghiệp | D — teacher khác chủ đề | A: passport — hộ chiếu | B: suitcase — vali | C: visa — thị thực | D: teacher — giáo viên"
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "category": "communicative",
+      "question": "Linh: \"_____ is it?\" — Minh: \"It is blue.\"",
+      "options": [
+        "A. What time",
+        "B. How old",
+        "C. What color",
+        "D. How much"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp lại bằng màu sắc 'It is blue' → câu hỏi phải hỏi về màu | C — What color hỏi về màu sắc | A: What time — hỏi giờ | B: How old — hỏi tuổi | C: What color — hỏi màu | D: How much — hỏi giá/lượng"
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "If we study hard enough, we _____ this exam.",
+      "options": [
+        "A. can pass",
+        "B. passed",
+        "C. would pass",
+        "D. was passing"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu điều kiện loại 1: If + hiện tại đơn, S + can/will + V | A — can pass diễn tả khả năng có thể | A: can pass — đúng (khả năng) | B: passed — quá khứ, sai | C: would pass — loại 2, sai | D: was passing — quá khứ tiếp diễn, sai"
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "She _____ her friends yesterday.",
+      "options": [
+        "A. visits",
+        "B. visited",
+        "C. will visit",
+        "D. is visiting"
+      ],
+      "correctIndex": 1,
+      "explanation": "'yesterday' là dấu hiệu của thì quá khứ đơn → V2/-ed | B — visited (quá khứ đơn của visit) | A: visits — hiện tại đơn, sai | B: visited — quá khứ đơn, đúng | C: will visit — tương lai, sai | D: is visiting — hiện tại tiếp diễn, sai"
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "_____ 1666, London had a great fire.",
+      "options": [
+        "A. In",
+        "B. At",
+        "C. On",
+        "D. To"
+      ],
+      "correctIndex": 0,
+      "explanation": "Giới từ 'in' dùng cho năm | A — In 1666 | A: In + năm/tháng — đúng | B: At + giờ/địa điểm cụ thể | C: On + thứ/ngày cụ thể | D: To — không dùng cho mốc thời gian"
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "She can go home early if she _____ her work.",
+      "options": [
+        "A. finishes",
+        "B. could finish",
+        "C. finished",
+        "D. finish"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu điều kiện loại 1: If + hiện tại đơn (chủ ngữ số ít → V-s) | A — finishes (she + V-s) | A: finishes — đúng | B: could finish — loại 2 | C: finished — quá khứ | D: finish — sai chia ngôi (she cần -s)"
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "We _____ English since 2022.",
+      "options": [
+        "A. study",
+        "B. shall study",
+        "C. have studied",
+        "D. studied"
+      ],
+      "correctIndex": 2,
+      "explanation": "'since + mốc thời gian' là dấu hiệu hiện tại hoàn thành: have/has + V3 | C — have studied | A: study — hiện tại đơn, sai | B: shall study — tương lai, sai | C: have studied — đúng | D: studied — quá khứ đơn, sai"
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "You should be careful when using social media. Sharing too much personal information can put your _____ at risk.",
+      "options": [
+        "A. problem",
+        "B. privacy",
+        "C. memory",
+        "D. activity"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chia sẻ quá nhiều thông tin cá nhân làm nguy hiểm sự riêng tư | B — privacy (sự riêng tư) | A: problem — vấn đề | B: privacy — sự riêng tư, đúng nghĩa | C: memory — trí nhớ | D: activity — hoạt động"
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "He avoided _____ the question I asked.",
+      "options": [
+        "A. answer",
+        "B. to answer",
+        "C. answered",
+        "D. answering"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sau 'avoid' phải dùng V-ing | D — answering | A: answer — nguyên thể, sai | B: to answer — sai cấu trúc | C: answered — quá khứ, sai | D: answering — V-ing, đúng"
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "We decided _____ our summer holiday in Sa Pa.",
+      "options": [
+        "A. spend",
+        "B. spending",
+        "C. spent",
+        "D. to spend"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sau 'decide' phải dùng to + V (to-infinitive) | D — to spend | A: spend — nguyên thể, sai | B: spending — V-ing, sai | C: spent — quá khứ, sai | D: to spend — đúng"
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "She said to me, \"Do you play badminton?\" → She asked me if _____ badminton.",
+      "options": [
+        "A. he plays",
+        "B. he has played",
+        "C. I played",
+        "D. I am playing"
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu tường thuật câu hỏi yes/no: dùng 'if/whether' + lùi thì + đổi ngôi (you → I) | C — I played (lùi từ play sang played) | A: he plays — sai ngôi | B: he has played — sai ngôi và thì | C: I played — đúng | D: I am playing — không lùi thì"
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "They are wondering where they can buy _____ handicrafts.",
+      "options": [
+        "A. traditional",
+        "B. traditionalist",
+        "C. traditionally",
+        "D. tradition"
+      ],
+      "correctIndex": 0,
+      "explanation": "Trước danh từ 'handicrafts' cần tính từ | A — traditional (truyền thống) | A: traditional (adj) — đúng | B: traditionalist (n) người theo truyền thống | C: traditionally (adv) một cách truyền thống | D: tradition (n) truyền thống"
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "category": "communicative",
+      "question": "Tom: \"Sorry, Sir. I'm late. There was a lot of traffic.\" — Teacher: \"_____ Tom. Come in.\"",
+      "options": [
+        "A. Be careful",
+        "B. Cool",
+        "C. My mistake",
+        "D. That's okay"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp lại lời xin lỗi → chấp nhận lịch sự | D — That's okay (Không sao đâu) | A: Be careful — Cẩn thận, sai ngữ cảnh | B: Cool — Tuyệt, sai | C: My mistake — Lỗi tôi, sai | D: That's okay — đúng"
+    },
+    {
+      "id": 19,
+      "type": "reading-comprehension",
+      "passage": "Why Learn English?\n\nEnglish is a key that opens up a world of possibilities. For students, it begins with learning simple words, such as family names or favorite foods, and grows into forming full sentences to share ideas. At this stage, learners can talk about their daily lives, describe their hobbies, or understand short stories and messages. Using English in real situations, shopping or asking for help, for example, makes it fun and practical.\n\nAs a global language, English connects people across countries. It lets you enjoy songs, watch TV shows, or even make new friends from different cultures, no need for a translator. But learning English isn't always easy. Spelling can be confusing, and some words sound different from how they look.\n\nRegular practice, such as reading books, listening to music, or chatting with others, helps improve skills over time. Everyone makes mistakes while learning, and that's okay. They help you grow stronger. With dedication, students can express their thoughts more clearly and discover new opportunities. English is more than a school subject — it's a way to explore the world and build confidence. Keep practicing, and the rewards will come!",
+      "questions": [
+        {
+          "id": "19a",
+          "question": "What is the main idea of the passage?",
+          "options": [
+            "A. Why learning English is a good idea",
+            "B. Why music helps with learning",
+            "C. How to make new friends",
+            "D. How difficult English spelling is"
+          ],
+          "correctIndex": 0,
+          "explanation": "Toàn bài nói về lý do và lợi ích của việc học tiếng Anh | A — Why learning English is a good idea | Tiêu đề bài là 'Why Learn English?' và bài liệt kê các lý do nên học | B/C/D chỉ là chi tiết phụ"
+        },
+        {
+          "id": "20a",
+          "question": "When students can make full sentences, what can they talk about?",
+          "options": [
+            "A. Only simple words",
+            "B. Very difficult books",
+            "C. Their daily lives and hobbies",
+            "D. News from around the world"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn 1: 'learners can talk about their daily lives, describe their hobbies' | C — Their daily lives and hobbies | Câu trong bài nói rõ daily lives + hobbies"
+        },
+        {
+          "id": "21a",
+          "question": "In paragraph 2, what does \"It\" refer to?",
+          "options": [
+            "A. A translator",
+            "B. English",
+            "C. A friend",
+            "D. A book"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn 2: 'English connects people across countries. It lets you enjoy songs...' → 'It' thay cho English | B — English | Đại từ 'it' luôn thay cho danh từ vừa nhắc trước đó"
+        },
+        {
+          "id": "22a",
+          "question": "Which thing is NOT MENTIONED as help with your learning English?",
+          "options": [
+            "A. Listening to music",
+            "B. Playing sports",
+            "C. Reading books",
+            "D. Talking with people"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn 3 liệt kê: reading books, listening to music, chatting with others — không có Playing sports | B — Playing sports không được nhắc | A/C/D đều xuất hiện trong đoạn 3"
+        },
+        {
+          "id": "23a",
+          "question": "If you make mistakes when you learn English, what should you do?",
+          "options": [
+            "A. Stop practicing and change your subject.",
+            "B. Feel bad about yourself.",
+            "C. Only use a translator.",
+            "D. Understand that it helps better you."
+          ],
+          "correctIndex": 3,
+          "explanation": "Đoạn 3: 'Everyone makes mistakes while learning, and that's okay. They help you grow stronger.' | D — Understand that it helps better you | Bài khuyên xem lỗi sai như cơ hội tiến bộ"
+        },
+        {
+          "id": "24a",
+          "question": "Paragraph 1 says English is a \"key that opens up a world of _____.\" What word fits best here?",
+          "options": [
+            "A. foods",
+            "B. possibilities",
+            "C. problems",
+            "D. games"
+          ],
+          "correctIndex": 1,
+          "explanation": "Câu đầu đoạn 1: 'English is a key that opens up a world of possibilities.' | B — possibilities | Đáp án trích nguyên văn từ bài"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "type": "reading-comprehension",
+      "passage": "London\n\nLondon lies on the River Thames, (25) _____ moves through the city. Its many bridges are a famous sight. The most typical are Tower Bridge and the Tower of London.\n\nThe Tower of London was built (26) _____ the 11th century. Then, London grew rapidly in size and importance. In 1666 many buildings in London were destroyed in a fire. Afterwards, the city was rebuilt. As its (27) _____ increased, new streets, parks and many public buildings were added.\n\nLondon is a busy commercial and cultural centre. Many (28) _____ organizations are located here. In east London there is a business centre. In west London, there are theatres, cinemas, museums and shops. Many people (29) _____ work in London commute by train or bus from the suburbs because buying a city-centre house or flat is expensive. Different parts of London are linked (30) _____ famous red London buses, black taxis and the Underground.\n\nPeople from all over the world are attracted to London (31) _____ it is now an international, multicultural city. Many go there only for the theatres or the shops. Others take their children to see the Royal palace and the clock tower. Young people are attracted to the bars, clubs, live music concerts, and (32) _____ things.",
+      "questions": [
+        {
+          "id": "25a",
+          "question": "Fill blank (25)",
+          "options": [
+            "A. who",
+            "B. whose",
+            "C. why",
+            "D. which"
+          ],
+          "correctIndex": 3,
+          "explanation": "Mệnh đề quan hệ thay cho 'River Thames' (vật) → which | D — which | A: who — chỉ người | B: whose — sở hữu | C: why — chỉ lý do | D: which — chỉ vật, đúng"
+        },
+        {
+          "id": "26a",
+          "question": "Fill blank (26)",
+          "options": [
+            "A. at",
+            "B. on",
+            "C. in",
+            "D. since"
+          ],
+          "correctIndex": 2,
+          "explanation": "Giới từ 'in' dùng cho thế kỷ | C — in the 11th century | A: at + giờ/điểm cụ thể | B: on + ngày | C: in + tháng/năm/thế kỷ — đúng | D: since + mốc bắt đầu"
+        },
+        {
+          "id": "27a",
+          "question": "Fill blank (27)",
+          "options": [
+            "A. population",
+            "B. cities",
+            "C. river",
+            "D. bridges"
+          ],
+          "correctIndex": 0,
+          "explanation": "Sau cháy lớn London được xây lại, dân số tăng thì có thêm phố, công viên… | A — population (dân số) | A: population — đúng nghĩa và logic | B: cities — nhiều thành phố, sai (đang nói về 1 thành phố) | C: river — sông | D: bridges — cầu"
+        },
+        {
+          "id": "28a",
+          "question": "Fill blank (28)",
+          "options": [
+            "A. importance",
+            "B. important",
+            "C. importantly",
+            "D. import"
+          ],
+          "correctIndex": 1,
+          "explanation": "Trước danh từ 'organizations' cần tính từ | B — important (quan trọng) | A: importance (n) sự quan trọng | B: important (adj) — đúng | C: importantly (adv) | D: import (n/v) nhập khẩu"
+        },
+        {
+          "id": "29a",
+          "question": "Fill blank (29)",
+          "options": [
+            "A. who",
+            "B. whom",
+            "C. which",
+            "D. where"
+          ],
+          "correctIndex": 0,
+          "explanation": "Mệnh đề quan hệ thay cho 'people' (người) làm chủ ngữ | A — who | A: who — chỉ người, làm chủ ngữ, đúng | B: whom — làm tân ngữ | C: which — chỉ vật | D: where — chỉ nơi chốn"
+        },
+        {
+          "id": "30a",
+          "question": "Fill blank (30)",
+          "options": [
+            "A. by",
+            "B. on",
+            "C. of",
+            "D. for"
+          ],
+          "correctIndex": 0,
+          "explanation": "'linked by + phương tiện' = nối bằng | A — by | A: by + phương tiện — đúng | B: on — trên | C: of — của | D: for — cho"
+        },
+        {
+          "id": "31a",
+          "question": "Fill blank (31)",
+          "options": [
+            "A. but",
+            "B. and",
+            "C. however",
+            "D. though"
+          ],
+          "correctIndex": 1,
+          "explanation": "Hai mệnh đề bổ sung ý cho nhau (du khách bị thu hút và London đa văn hóa) → liên từ nối 'and' | B — and | A: but — đối lập, không hợp | B: and — đúng | C: however — trạng từ tương phản | D: though — tương phản"
+        },
+        {
+          "id": "32a",
+          "question": "Fill blank (32)",
+          "options": [
+            "A. an other",
+            "B. others",
+            "C. other",
+            "D. the others"
+          ],
+          "correctIndex": 2,
+          "explanation": "Trước danh từ số nhiều 'things' dùng tính từ 'other' | C — other things | A: an other — sai chính tả (phải là 'another' và đi với danh từ số ít) | B: others — đại từ, không đứng trước danh từ | C: other + danh từ số nhiều — đúng | D: the others — đại từ"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "When you practice reading, try to figure up the meaning of a new word from the words around it. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>When</u>",
+        "B. <u>practice</u>",
+        "C. <u>figure up</u>",
+        "D. <u>around</u>"
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu có lỗi | Lỗi: figure up → figure out | 'figure out' = hiểu, đoán ra (cụm động từ cố định); 'figure up' không tồn tại trong nghĩa này | A: When — đúng | B: practice — đúng | C: figure up — sai | D: around — đúng"
+    },
+    {
+      "id": 34,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "The streets are getting dirtier. The more crowded this city is, more polluted it becomes. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>are getting</u>",
+        "B. <u>dirtier</u>",
+        "C. <u>more crowded</u>",
+        "D. <u>more polluted</u>"
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu có lỗi | Lỗi: more polluted → the more polluted | Cấu trúc so sánh kép: The + comparative…, the + comparative… → vế sau cũng phải có 'the' | A/B/C đúng | D: thiếu 'the' trước 'more polluted'"
+    },
+    {
+      "id": 35,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "Ann asked me if did I know much about the Sahara Desert. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>asked</u>",
+        "B. <u>if did I know</u>",
+        "C. <u>much about the</u>",
+        "D. <u>Sahara Desert</u>"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu có lỗi | Lỗi: if did I know → if I knew | Câu tường thuật câu hỏi yes/no: dùng 'if/whether' + chủ ngữ + động từ (KHÔNG đảo trợ động từ) và lùi thì | A/C/D đúng | B: 'if did I know' sai cả đảo ngữ và thì"
+    },
+    {
+      "id": 36,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Mark the correct arrangement of the sentences to make a meaningful passage:\n\na. Second, the air is often dirty because of pollution. I want to breathe fresh air, but it is not possible in the city.\nb. Third, life in the city is expensive. Food, clothes, and houses cost a lot of money.\nc. I dislike city life. First, the city is very crowded and noisy.\nd. There are too many people, cars, and motorbikes, so it is hard to relax.\ne. In conclusion, I think living in the city is stressful. I prefer the countryside because it is quiet and peaceful.",
+      "options": [
+        "A. a-b-c-d-e",
+        "B. c-a-b-e-d",
+        "C. a-e-b-c-d",
+        "D. c-d-a-b-e"
+      ],
+      "correctIndex": 3,
+      "explanation": "Trình tự logic: câu chủ đề (c — 'First…') → giải thích cho 'First' (d) → 'Second' (a) → 'Third' (b) → kết luận (e) | D — c-d-a-b-e | Bám vào dấu hiệu First/Second/Third/In conclusion để xếp"
+    },
+    {
+      "id": 37,
+      "type": "multiple-choice",
+      "category": "closest-meaning",
+      "question": "Money is important but money is not everything. (Choose the sentence closest in meaning)",
+      "options": [
+        "A. Money is important because it is everything.",
+        "B. Money is everything so it is important.",
+        "C. Although money is important, it is not everything.",
+        "D. Since money is not important, it is everything."
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu gốc nối hai ý đối lập bằng 'but' → có thể đổi sang 'Although' giữ nguyên nghĩa | C — Although money is important, it is not everything | A/B/D đảo ngược nghĩa hoặc sai logic"
+    },
+    {
+      "id": 38,
+      "type": "multiple-choice",
+      "category": "closest-meaning",
+      "question": "She does not have an iPhone. She'd like to have one. (Choose the sentence closest in meaning)",
+      "options": [
+        "A. She wishes she has an iPhone.",
+        "B. She wishes she will have an iPhone.",
+        "C. She wishes she is having an iPhone.",
+        "D. She wishes she had an iPhone."
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu ước không có thật ở hiện tại: wish + S + V quá khứ đơn (had) | D — She wishes she had an iPhone | A: has — sai thì | B: will have — wish không đi với will | C: is having — sai thì | D: had — đúng"
+    },
+    {
+      "id": 39,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "That new electric car is _____ that she cannot afford it.",
+      "options": [
+        "A. so an expensive",
+        "B. so expensive",
+        "C. such expensive",
+        "D. such an expensive"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cấu trúc 'so + tính từ + that…'; 'such + (a/an) + tính từ + danh từ + that…' | B — so expensive (vì sau chỗ trống không có danh từ) | A: so an expensive — sai cấu trúc | B: so expensive — đúng | C: such expensive — thiếu 'an' và phải có danh từ | D: such an expensive — phải có danh từ theo sau"
+    },
+    {
+      "id": 40,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Scientists suggest that _____ waste to save the earth.",
+      "options": [
+        "A. we shall recycle",
+        "B. us recycling",
+        "C. we should recycle",
+        "D. us recycle"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cấu trúc 'suggest that + S + (should) + V nguyên thể' | C — we should recycle | A: shall — không dùng cho đề xuất | B: us recycling — sai cấu trúc (cần mệnh đề có S+V) | C: we should recycle — đúng | D: us recycle — sai (cần chủ ngữ 'we')"
+    }
+  ]
+}

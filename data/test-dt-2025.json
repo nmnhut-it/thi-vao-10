@@ -1,0 +1,499 @@
+{
+  "topicId": "test-dt-2025",
+  "title": "Đề thi vào 10 — Đồng Tháp 2025",
+  "section": "practice-test",
+  "testType": "tinh-dong-thap",
+  "timeLimit": 60,
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "category": "pronunciation",
+      "question": "Pick out the word whose underlined part differs from the others in pronunciation: enjoyed, arrived, collected, remained",
+      "options": [
+        "A. enjoy<u>ed</u>",
+        "B. arriv<u>ed</u>",
+        "C. collect<u>ed</u>",
+        "D. remain<u>ed</u>"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đuôi -ed sau /t/ hoặc /d/ đọc /ɪd/, các trường hợp khác đọc /d/ hoặc /t/ | C — collected /kəˈlektɪd/ có /ɪd/, ba từ còn lại đọc /d/ | A: enjoyed /ɪnˈdʒɔɪd/ | B: arrived /əˈraɪvd/ | C: collected /kəˈlektɪd/ | D: remained /rɪˈmeɪnd/"
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "category": "pronunciation",
+      "question": "Pick out the word whose underlined part differs from the others in pronunciation: hunt, hour, house, hear",
+      "options": [
+        "A. <u>h</u>unt",
+        "B. <u>h</u>our",
+        "C. <u>h</u>ouse",
+        "D. <u>h</u>ear"
+      ],
+      "correctIndex": 1,
+      "explanation": "'h' trong 'hour' là âm câm, ba từ còn lại đọc rõ /h/ | B — hour /ˈaʊə(r)/ chữ h câm | A: hunt /hʌnt/ | B: hour /ˈaʊə(r)/ — h câm | C: house /haʊs/ | D: hear /hɪə(r)/"
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "category": "stress",
+      "question": "Pick out the word that differs from the others in the position of primary stress: culture, career, decide, complete",
+      "options": [
+        "A. culture",
+        "B. career",
+        "C. decide",
+        "D. complete"
+      ],
+      "correctIndex": 0,
+      "explanation": "culture trọng âm âm tiết 1, ba từ còn lại trọng âm âm tiết 2 | A — /ˈkʌltʃə/ trọng âm 1 | A: culture /ˈkʌltʃə/ | B: career /kəˈrɪə/ | C: decide /dɪˈsaɪd/ | D: complete /kəmˈpliːt/"
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "category": "stress",
+      "question": "Pick out the word that differs from the others in the position of primary stress: handicraft, construction, dangerous, possible",
+      "options": [
+        "A. handicraft",
+        "B. construction",
+        "C. dangerous",
+        "D. possible"
+      ],
+      "correctIndex": 1,
+      "explanation": "construction trọng âm âm tiết 2, ba từ còn lại trọng âm âm tiết 1 | B — /kənˈstrʌkʃn/ trọng âm 2 | A: handicraft /ˈhændikrɑːft/ | B: construction /kənˈstrʌkʃn/ | C: dangerous /ˈdeɪndʒərəs/ | D: possible /ˈpɒsəbl/"
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "They want to know _____ to preserve the natural beauty of their region.",
+      "options": [
+        "A. where",
+        "B. how",
+        "C. what",
+        "D. who"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cấu trúc 'how + to V' = cách làm gì | B — how to preserve = cách bảo tồn | A: where + to V = ở đâu, không hợp ngữ cảnh | B: how — đúng | C: what — sai cấu trúc | D: who — chỉ người"
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "The local food was delicious, _____ we chose to go to Sa Dec city again.",
+      "options": [
+        "A. because",
+        "B. but",
+        "C. although",
+        "D. so"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hai mệnh đề có quan hệ nguyên nhân-kết quả → 'so' (vì vậy) | D — so | A: because — vì (đặt trước nguyên nhân, sai vị trí) | B: but — nhưng (đối lập) | C: although — mặc dù | D: so — vì vậy, đúng"
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "My mother gets _____ the town easily thanks to the apps on her phone.",
+      "options": [
+        "A. down",
+        "B. up",
+        "C. around",
+        "D. through"
+      ],
+      "correctIndex": 2,
+      "explanation": "'get around' = đi lại, di chuyển khắp nơi | C — get around the town = đi lại quanh thành phố | A: get down — xuống | B: get up — đứng dậy | C: get around — di chuyển, đúng | D: get through — vượt qua"
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "The extended family with three or four _____ remains popular in his village.",
+      "options": [
+        "A. performances",
+        "B. generations",
+        "C. anniversaries",
+        "D. customs"
+      ],
+      "correctIndex": 1,
+      "explanation": "Gia đình mở rộng có nhiều thế hệ chung sống | B — generations (thế hệ) | A: performances — buổi biểu diễn | B: generations — thế hệ, đúng | C: anniversaries — lễ kỷ niệm | D: customs — phong tục"
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "Many people exercise regularly to _____ stress and keep fit.",
+      "options": [
+        "A. achieve",
+        "B. reduce",
+        "C. increase",
+        "D. create"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tập thể dục nhằm GIẢM stress | B — reduce (giảm) | A: achieve — đạt được | B: reduce — giảm, đúng | C: increase — tăng | D: create — tạo ra"
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Com Lang Vong, _____ is well known in Viet Nam, is a speciality of Ha Noi.",
+      "options": [
+        "A. whose",
+        "B. who",
+        "C. which",
+        "D. that"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mệnh đề quan hệ KHÔNG xác định (có dấu phẩy) thay cho vật → 'which' (KHÔNG dùng 'that') | C — which | A: whose — sở hữu | B: who — chỉ người | C: which — đúng | D: that — không dùng trong mệnh đề không xác định"
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "If he gets a scholarship, he _____ abroad to complete his degree.",
+      "options": [
+        "A. studied",
+        "B. will study",
+        "C. would study",
+        "D. studies"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu điều kiện loại 1: If + hiện tại đơn, S + will + V | B — will study | A: studied — quá khứ | B: will study — đúng | C: would study — loại 2 | D: studies — sai (cần will trong mệnh đề chính)"
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "The more efficient the train system is, _____ it is to travel across the city.",
+      "options": [
+        "A. the easier",
+        "B. easier",
+        "C. the easiest",
+        "D. more easy"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cấu trúc so sánh kép: The + comparative…, the + comparative… | A — the easier | A: the easier — đúng | B: easier — thiếu 'the' | C: the easiest — sai (so sánh nhất) | D: more easy — sai (phải dùng 'easier')"
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "I met Susan while she _____ volunteer work at a blood donation event.",
+      "options": [
+        "A. did",
+        "B. was doing",
+        "C. does",
+        "D. has done"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hành động đang xảy ra trong quá khứ thì bị cắt ngang → quá khứ tiếp diễn (was/were + V-ing) | B — was doing | A: did — quá khứ đơn | B: was doing — đúng | C: does — hiện tại | D: has done — hiện tại hoàn thành"
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "In our project, we hope _____ people's awareness of reducing plastic use.",
+      "options": [
+        "A. raised",
+        "B. raise",
+        "C. raising",
+        "D. to raise"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sau 'hope' phải dùng to + V (to-infinitive) | D — to raise | A: raised — quá khứ | B: raise — nguyên thể, sai | C: raising — V-ing, sai | D: to raise — đúng"
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "category": "communicative",
+      "question": "David: \"I hear that you've won second prize in the Natural Wonders Contest. Congratulations!\" — Lan: \"_____\"",
+      "options": [
+        "A. Thank you",
+        "B. Not at all",
+        "C. Good job",
+        "D. Absolutely"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đáp lại lời chúc mừng → cảm ơn | A — Thank you | A: Thank you — đúng | B: Not at all — đáp lại lời cảm ơn | C: Good job — khen, sai vai vế | D: Absolutely — Hoàn toàn đồng ý, không hợp"
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Our teacher recommends _____ all the materials before doing the research.",
+      "options": [
+        "A. should read",
+        "B. to read",
+        "C. read",
+        "D. reading"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sau 'recommend' (không có tân ngữ phía sau) dùng V-ing | D — reading | A: should read — sai cấu trúc | B: to read — sai | C: read — sai | D: reading — đúng"
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "I suggest that we taking part in a campaign to protect the environment. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>to protect</u>",
+        "B. <u>the</u>",
+        "C. <u>taking</u>",
+        "D. <u>that</u>"
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu có lỗi | Lỗi: taking → take (hoặc should take) | Cấu trúc 'suggest that + S + (should) + V nguyên thể' | A/B/D đúng | C: taking sai, phải là 'take'"
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "Barbara have taken care of her younger brother since she was ten years old. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>years</u>",
+        "B. <u>younger</u>",
+        "C. <u>since</u>",
+        "D. <u>have</u>"
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu có lỗi | Lỗi: have → has | Chủ ngữ 'Barbara' số ít → trợ động từ phải là 'has', không phải 'have' | A/B/C đúng | D: have sai chia ngôi"
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "I come from a city who is located in the southern part of the country. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>located</u>",
+        "B. <u>from</u>",
+        "C. <u>who</u>",
+        "D. <u>southern</u>"
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu có lỗi | Lỗi: who → which (hoặc that) | 'city' là vật, đại từ quan hệ phải là 'which/that', không phải 'who' (chỉ người) | A/B/D đúng | C: who sai"
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "Although it was very cold outside, but we decided to go for a walk in the park. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>to go</u>",
+        "B. <u>was</u>",
+        "C. <u>in</u>",
+        "D. <u>but</u>"
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu có lỗi | Lỗi: bỏ 'but' | Trong tiếng Anh KHÔNG dùng 'Although' và 'but' cùng lúc — chỉ chọn một | A/B/C đúng | D: but thừa, phải bỏ"
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "category": "closest-meaning",
+      "question": "Nam was happy because his father gave him a toy car as a present for his birthday. (Choose the word CLOSEST in meaning to the underlined word \"present\")",
+      "options": [
+        "A. journey",
+        "B. job",
+        "C. gift",
+        "D. problem"
+      ],
+      "correctIndex": 2,
+      "explanation": "present (n) trong câu này = món quà → đồng nghĩa gift | C — gift | A: journey — chuyến đi | B: job — công việc | C: gift — món quà, đúng | D: problem — vấn đề"
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "category": "closest-meaning",
+      "question": "My elder sister failed her final exam, which depressed my parents. (Choose the word CLOSEST in meaning to the underlined word \"depressed\")",
+      "options": [
+        "A. pleased",
+        "B. embarrassed",
+        "C. satisfied",
+        "D. disappointed"
+      ],
+      "correctIndex": 3,
+      "explanation": "depressed = buồn, thất vọng → đồng nghĩa disappointed | D — disappointed | A: pleased — vui | B: embarrassed — xấu hổ | C: satisfied — hài lòng | D: disappointed — thất vọng, đúng"
+    },
+    {
+      "id": 23,
+      "type": "multiple-choice",
+      "category": "opposite-meaning",
+      "question": "After studying for hours without a break, he felt completely stressed out. (Choose the word OPPOSITE in meaning to the underlined word \"stressed out\")",
+      "options": [
+        "A. unbalanced",
+        "B. anxious",
+        "C. relaxed",
+        "D. pessimistic"
+      ],
+      "correctIndex": 2,
+      "explanation": "stressed out = căng thẳng, kiệt sức → trái nghĩa relaxed (thư giãn) | C — relaxed | A: unbalanced — mất cân bằng | B: anxious — lo lắng (đồng nghĩa) | C: relaxed — thư giãn, đúng trái nghĩa | D: pessimistic — bi quan"
+    },
+    {
+      "id": 24,
+      "type": "multiple-choice",
+      "category": "opposite-meaning",
+      "question": "Nutritious snacks provide a vital contribution towards children's daily needs. (Choose the word OPPOSITE in meaning to the underlined word \"Nutritious\")",
+      "options": [
+        "A. Unpacked",
+        "B. Unhealthy",
+        "C. Uncooked",
+        "D. Inexpensive"
+      ],
+      "correctIndex": 1,
+      "explanation": "nutritious = bổ dưỡng → trái nghĩa unhealthy (không tốt cho sức khỏe) | B — Unhealthy | A: Unpacked — chưa đóng gói | B: Unhealthy — không tốt cho sức khỏe, đúng trái nghĩa | C: Uncooked — chưa nấu | D: Inexpensive — rẻ"
+    },
+    {
+      "id": 25,
+      "type": "reading-comprehension",
+      "passage": "Choosing the right career is very important for teenagers. Some people prefer a job that brings (25) _____ salary, while others seek for jobs that match their interests and skills. Before (26) _____ a decision, teenagers should consider their strengths, weaknesses, and future goals. They can also seek advice from career counselors or family members. Additionally, gaining work experience through internships or part-time jobs can help them realize what they truly enjoy. It is also essential (27) _____ new skills and keep up with the latest job market trends. With careful planning and self-reflection, teenagers can choose a (28) _____ career path that suits them best.",
+      "questions": [
+        {
+          "id": "25a",
+          "question": "Fill blank (25)",
+          "options": [
+            "A. low",
+            "B. bad",
+            "C. poor",
+            "D. high"
+          ],
+          "correctIndex": 3,
+          "explanation": "Người thích công việc đem lại lương CAO → high salary | D — high | A/B/C đều mang nghĩa thấp/kém, không hợp | D: high salary — lương cao, đúng"
+        },
+        {
+          "id": "26a",
+          "question": "Fill blank (26)",
+          "options": [
+            "A. making",
+            "B. doing",
+            "C. paying",
+            "D. getting"
+          ],
+          "correctIndex": 0,
+          "explanation": "Cụm cố định 'make a decision' = đưa ra quyết định; sau 'Before' dùng V-ing | A — making | A: making a decision — đúng | B: doing — sai | C: paying a decision — vô nghĩa | D: getting — sai cụm"
+        },
+        {
+          "id": "27a",
+          "question": "Fill blank (27)",
+          "options": [
+            "A. to learn",
+            "B. learn",
+            "C. learning",
+            "D. learnt"
+          ],
+          "correctIndex": 0,
+          "explanation": "Cấu trúc 'It is + adj + to V' | A — to learn | A: to learn — đúng | B: learn — sai cấu trúc | C: learning — sai cấu trúc | D: learnt — quá khứ, sai"
+        },
+        {
+          "id": "28a",
+          "question": "Fill blank (28)",
+          "options": [
+            "A. successful",
+            "B. success",
+            "C. succeed",
+            "D. successfully"
+          ],
+          "correctIndex": 0,
+          "explanation": "Trước danh từ 'career path' cần tính từ | A — successful (thành công) | A: successful (adj) — đúng | B: success (n) | C: succeed (v) | D: successfully (adv)"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "type": "reading-comprehension",
+      "passage": "Mount Everest is the highest mountain in the world. It is also the highest trash pile in the world. Around 400 people try to reach the top every year. Having many climbers on Mount Everest means a lot of trash.\n\nIt is very dangerous to climb Mount Everest. The air is very thin and cold. Most people carry bottles of oxygen because they could die without it. When the oxygen bottles are empty, people throw them on the ground. When strong winds rip their tents, people leave them behind. They don't have the energy to take the trash away. They only have enough energy to go down the mountain safely.\n\nTrash is a terrible problem. Since people first began to climb Mount Everest, they have left 50,000 kilos of trash on the mountain. Several groups have climbed the mountain just to pick up the trash. When people plan to climb the mountain, they have to plan to take away their trash.",
+      "questions": [
+        {
+          "id": "29a",
+          "question": "Which is the topic of the passage?",
+          "options": [
+            "A. Oxygen bottles on Mount Everest",
+            "B. Highest mountain in the world",
+            "C. Wind on Mount Everest",
+            "D. Litter on Mount Everest"
+          ],
+          "correctIndex": 3,
+          "explanation": "Toàn bài tập trung vào vấn đề rác (trash/litter) trên đỉnh Everest | D — Litter on Mount Everest | A/B/C chỉ là chi tiết phụ; rác là chủ đề chính"
+        },
+        {
+          "id": "30a",
+          "question": "Where do climbers throw their empty oxygen bottles?",
+          "options": [
+            "A. In their tents",
+            "B. On the ground",
+            "C. In trash cans",
+            "D. On their back"
+          ],
+          "correctIndex": 1,
+          "explanation": "Đoạn 2: 'When the oxygen bottles are empty, people throw them on the ground' | B — On the ground | Trích nguyên văn từ bài"
+        },
+        {
+          "id": "31a",
+          "question": "The word \"them\" in paragraph 2 refers to _____.",
+          "options": [
+            "A. climbers",
+            "B. bottles",
+            "C. tents",
+            "D. winds"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn 2: 'When strong winds rip their tents, people leave them behind' → 'them' chỉ 'tents' (vừa nhắc trước đó) | C — tents"
+        },
+        {
+          "id": "32a",
+          "question": "Which is TRUE according to the passage?",
+          "options": [
+            "A. About 400 people try to reach the top of Mount Everest annually.",
+            "B. Trash is not a big problem on Mount Everest.",
+            "C. Climbers have the energy to take the trash away.",
+            "D. No one helps collect trash on Mount Everest."
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn 1: 'Around 400 people try to reach the top every year' → annually = every year | A — đúng | B: sai (rác là 'terrible problem') | C: sai ('They don't have the energy') | D: sai ('Several groups have climbed the mountain just to pick up the trash')"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "type": "sentence-rewrite",
+      "original": "John doesn't have enough money to buy a new laptop.",
+      "instruction": "Rewrite beginning with: John wishes",
+      "starterText": "John wishes",
+      "answer": "John wishes he had enough money to buy a new laptop.",
+      "acceptedAnswers": [
+        "John wishes he had enough money to buy a new laptop.",
+        "John wishes he had enough money to buy a new laptop",
+        "John wishes that he had enough money to buy a new laptop.",
+        "John wishes that he had enough money to buy a new laptop"
+      ],
+      "explanation": "John không có đủ tiền mua laptop mới | Viết lại bắt đầu với: John wishes | John wishes he had enough money to buy a new laptop — Câu ước không có thật ở hiện tại: wish + S + V quá khứ đơn (had)"
+    },
+    {
+      "id": 34,
+      "type": "sentence-rewrite",
+      "original": "\"Will you have time to read the book?\" the teacher asked me.",
+      "instruction": "Rewrite beginning with: The teacher asked me if",
+      "starterText": "The teacher asked me if",
+      "answer": "The teacher asked me if I would have time to read the book.",
+      "acceptedAnswers": [
+        "The teacher asked me if I would have time to read the book.",
+        "The teacher asked me if I would have time to read the book",
+        "The teacher asked me whether I would have time to read the book.",
+        "The teacher asked me whether I would have time to read the book"
+      ],
+      "explanation": "\"Bạn có thời gian đọc sách không?\" thầy hỏi tôi | Viết lại bắt đầu với: The teacher asked me if | The teacher asked me if I would have time to read the book — Câu tường thuật câu hỏi yes/no: dùng 'if/whether', lùi thì (will → would), đổi ngôi (you → I)"
+    },
+    {
+      "id": 35,
+      "type": "paragraph-writing",
+      "prompt": "Write a paragraph (about 100-120 words) about the benefits of travelling abroad.",
+      "wordCount": "100-120",
+      "ideas": [
+        "Learn more about the world (see new places, meet new people, understand different ways of life)",
+        "Promote cultural exchanges (respect customs and traditions of other countries, introduce traditional values to the world)",
+        "Become more independent (make plans, take care of things, solve problems)"
+      ],
+      "sampleAnswer": "Travelling abroad brings many great benefits. Firstly, it helps people learn more about the world. They can explore new places, meet people from different cultures, and understand various ways of life. Secondly, travelling promotes cultural exchange. By visiting other countries, people can respect local customs and traditions while also sharing their own culture. This builds understanding and friendship between nations. Finally, it makes travellers more independent. They have to make their own plans, solve problems, and take care of themselves in unfamiliar environments. In conclusion, travelling abroad not only broadens our knowledge but also helps us grow into more responsible and open-minded individuals.",
+      "sampleTranslation": "Du lịch nước ngoài mang lại nhiều lợi ích to lớn. Đầu tiên, nó giúp mọi người tìm hiểu thêm về thế giới. Họ có thể khám phá những địa điểm mới, gặp gỡ những người đến từ các nền văn hóa khác nhau và hiểu được nhiều cách sống khác nhau. Thứ hai, du lịch thúc đẩy giao lưu văn hóa. Bằng cách đến thăm các quốc gia khác, mọi người có thể tôn trọng các phong tục và truyền thống địa phương đồng thời chia sẻ nền văn hóa của riêng họ. Điều này xây dựng sự hiểu biết và tình bạn giữa các quốc gia. Cuối cùng, nó khiến du khách trở nên độc lập hơn. Họ phải tự lập kế hoạch, giải quyết vấn đề và tự chăm sóc bản thân trong môi trường xa lạ. Tóm lại, du lịch nước ngoài không chỉ mở rộng kiến thức của chúng ta mà còn giúp chúng ta phát triển thành những cá nhân có trách nhiệm và cởi mở hơn.",
+      "explanation": "Cấu trúc đoạn văn 100-120 từ: 1) Câu chủ đề (Topic sentence): nêu ý chính | 2) 3 luận điểm (Supporting sentences): mỗi luận điểm 1 câu giải thích + ví dụ, dùng từ nối Firstly/Secondly/Finally | 3) Câu kết (Concluding sentence): tóm lại ý nghĩa, bắt đầu bằng In conclusion / In short. Bài làm có thể viết theo nhiều cách khác miễn là đảm bảo đúng cấu trúc."
+    }
+  ]
+}

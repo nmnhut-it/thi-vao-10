@@ -6,7 +6,7 @@ const DATA_DIR = join(import.meta.dirname, '..', 'data');
 const VALID_TYPES = [
   'multiple-choice', 'fill-blank', 'error-correct', 'sentence-rewrite',
   'sentence-build', 'sentence-combine', 'reading-comprehension',
-  'fill-blank-mixed', 'fill-blank-table'
+  'fill-blank-mixed', 'fill-blank-table', 'paragraph-writing'
 ];
 
 const jsonFiles = readdirSync(DATA_DIR)

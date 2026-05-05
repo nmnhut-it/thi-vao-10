@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Đề Tiền Giang 2023 | Ôn Thi Vào 10</title>
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../css/shared.css">
+</head>
+<body>
+  <!-- Nav Bar -->
+  <nav class="nav-bar" id="nav-bar">
+    <a class="nav-bar__back" href="../index.html">←</a>
+    <span class="nav-bar__title">Đề Tiền Giang 2023</span>
+    <button class="nav-bar__reset" id="nav-reset" type="button" title="Làm lại từ đầu" aria-label="Làm lại">↻</button>
+    <span class="test-timer" id="test-timer">--:--</span>
+  </nav>
+
+  <!-- Progress -->
+  <div class="progress">
+    <div class="progress__bar" id="progress-bar" style="width:0%"></div>
+  </div>
+
+  <div class="container">
+    <!-- Question Grid -->
+    <div class="question-grid" id="question-grid"></div>
+
+    <!-- Exercise Area -->
+    <div id="exercise-area" class="exercise-area"></div>
+
+    <!-- Submit Button -->
+    <div style="padding:var(--sp-4) 0;">
+      <button class="btn btn--primary btn--block" id="submit-test" type="button">Nộp bài</button>
+    </div>
+
+    <!-- Results (hidden until submit) -->
+    <div id="results-area" style="display:none;">
+      <div class="results">
+        <div class="results__stars"></div>
+        <div class="results__title"></div>
+        <div class="results__score"></div>
+        <div class="results__actions">
+          <a class="btn btn--primary btn--block" href="../index.html">Về trang chủ</a>
+          <button class="btn btn--outline btn--block" onclick="location.reload()">Làm lại</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="../js/core/storage.js"></script>
+  <script src="../js/core/logic.js"></script>
+  <script src="../js/core/student-info.js"></script>
+  <script src="../js/core/camera.js"></script>
+  <script src="../js/core/telegram.js"></script>
+  <script src="../js/core/topic-engine.js"></script>
+  <script src="../js/core/test-engine.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      TestEngine.init('test-tg-2023');
+      document.getElementById('submit-test').addEventListener('click', () => {
+        if (confirm('Bạn có chắc muốn nộp bài?')) {
+          TestEngine.submitTest();
+        }
+      });
+      const resetBtn = document.getElementById('nav-reset');
+      if (resetBtn) {
+        resetBtn.addEventListener('click', () => {
+          if (confirm('Làm lại từ đầu? Tất cả câu trả lời và đồng hồ sẽ được đặt lại.')) {
+            TopicEngine.clearInProgress();
+            location.reload();
+          }
+        });
+      }
+    });
+  </script>
+</body>
+</html>

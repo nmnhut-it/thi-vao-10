@@ -1,0 +1,555 @@
+{
+  "topicId": "test-tg-2024",
+  "title": "Đề thi vào 10 — Tiền Giang 2024",
+  "section": "practice-test",
+  "testType": "tinh-tien-giang",
+  "timeLimit": 60,
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "Pick out the word that is of the different topic (or part of speech) from the others: teacher, hotter, learner, walker",
+      "options": [
+        "A. teacher",
+        "B. hotter",
+        "C. learner",
+        "D. walker"
+      ],
+      "correctIndex": 1,
+      "explanation": "teacher / learner / walker là danh từ chỉ người (đuôi -er); hotter là tính từ so sánh hơn của hot | B — hotter khác loại từ | A: teacher (n) giáo viên | B: hotter (adj) nóng hơn | C: learner (n) người học | D: walker (n) người đi bộ"
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "Pick out the word that is of the different topic (or part of speech) from the others: busy, lazy, story, happy",
+      "options": [
+        "A. busy",
+        "B. lazy",
+        "C. story",
+        "D. happy"
+      ],
+      "correctIndex": 2,
+      "explanation": "busy / lazy / happy là tính từ; story là danh từ | C — story khác loại từ | A: busy (adj) bận | B: lazy (adj) lười | C: story (n) câu chuyện | D: happy (adj) vui"
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "This is the man _____ works for NASA.",
+      "options": [
+        "A. when",
+        "B. who",
+        "C. which",
+        "D. where"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mệnh đề quan hệ thay 'the man' (người) làm chủ ngữ → who | B — who | A: when chỉ thời gian | B: who chỉ người, đúng | C: which chỉ vật | D: where chỉ nơi chốn"
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Last weekend I _____ her to join our trip to Trang An.",
+      "options": [
+        "A. invites",
+        "B. inviting",
+        "C. has invited",
+        "D. invited"
+      ],
+      "correctIndex": 3,
+      "explanation": "'Last weekend' là dấu hiệu quá khứ đơn → V2/-ed | D — invited | A: invites — hiện tại đơn, sai | B: inviting — V-ing, sai | C: has invited — hiện tại hoàn thành, sai dấu hiệu | D: invited — đúng"
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "category": "communicative",
+      "question": "Customer: \"_____\" — Salesman: \"It's 600 dollars.\"",
+      "options": [
+        "A. How far?",
+        "B. How often?",
+        "C. How much?",
+        "D. How come?"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp lại bằng số tiền '600 dollars' → câu hỏi giá | C — How much? | A: How far — hỏi khoảng cách | B: How often — hỏi tần suất | C: How much — hỏi giá/lượng, đúng | D: How come — sao vậy"
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "The match is very _____.",
+      "options": [
+        "A. exciting",
+        "B. excitement",
+        "C. excite",
+        "D. excitingly"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sau 'very' (trạng từ chỉ mức độ) cần tính từ; 'be exciting' = thú vị | A — exciting | A: exciting (adj) — đúng | B: excitement (n) | C: excite (v) | D: excitingly (adv) — không hợp sau 'be very'"
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Minh suggested _____ in his car to the concert.",
+      "options": [
+        "A. to go",
+        "B. go",
+        "C. should go",
+        "D. going"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sau 'suggest' phải dùng V-ing | D — going | A: to go — sai | B: go — nguyên thể, sai | C: should go — chỉ dùng trong 'suggest that S should V' | D: going — đúng"
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "category": "communicative",
+      "question": "Girl: \"_____ are you leaving?\" — Man: \"Tomorrow. I'll tell you when I get there.\"",
+      "options": [
+        "A. How",
+        "B. Where",
+        "C. When",
+        "D. What"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đáp lại bằng 'Tomorrow' → câu hỏi về thời gian | C — When | A: How — bằng cách nào | B: Where — ở đâu | C: When — khi nào, đúng | D: What — cái gì"
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "To keep fit, we should eat _____.",
+      "options": [
+        "A. healthily",
+        "B. healthy",
+        "C. health",
+        "D. unhealthiness"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bổ nghĩa cho động từ 'eat' cần trạng từ | A — healthily | A: healthily (adv) — đúng | B: healthy (adj) | C: health (n) | D: unhealthiness (n) sự không khỏe"
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "My train leaves _____ the afternoon.",
+      "options": [
+        "A. in",
+        "B. from",
+        "C. on",
+        "D. at"
+      ],
+      "correctIndex": 0,
+      "explanation": "Giới từ 'in' đi với buổi (in the morning/afternoon/evening) | A — in | A: in the afternoon — đúng | B: from — từ | C: on + ngày | D: at + giờ cụ thể"
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "If she _____ hard, she would pass the final exam.",
+      "options": [
+        "A. do work",
+        "B. worked",
+        "C. work",
+        "D. have worked"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu điều kiện loại 2: If + S + V quá khứ đơn, S + would + V | B — worked | A: do work — sai cấu trúc | B: worked — đúng | C: work — hiện tại đơn, sai | D: have worked — sai"
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "It is known that Ha Long Bay was _____ as a World Heritage Site by UNESCO in 1994.",
+      "options": [
+        "A. built",
+        "B. understood",
+        "C. recognised",
+        "D. located"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bị UNESCO công nhận là Di sản Thế giới → 'recognised' (công nhận) | C — recognised | A: built — xây dựng (sai nghĩa) | B: understood — được hiểu | C: recognised — công nhận, đúng | D: located — nằm ở"
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Sydney is not the capital, but it is the _____ city in Australia.",
+      "options": [
+        "A. more big",
+        "B. biggest",
+        "C. less bigger",
+        "D. most big"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tính từ ngắn 'big' so sánh nhất: the biggest | B — biggest | A: more big — sai cấu trúc | B: biggest — đúng | C: less bigger — sai | D: most big — sai (tính từ ngắn dùng -est)"
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "It's never easy to break a bad _____.",
+      "options": [
+        "A. habit",
+        "B. business",
+        "C. diary",
+        "D. transport"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cụm cố định 'break a bad habit' = bỏ thói quen xấu | A — habit | A: habit — thói quen, đúng | B: business — công việc | C: diary — nhật ký | D: transport — giao thông"
+    },
+    {
+      "id": 15,
+      "type": "reading-comprehension",
+      "passage": "Which is the most difficult language to learn? It is not easy to answer because of many factors to think through.\n\nFirst of all, a first language can affect learning a foreign language. An English person learns German more easily than Chinese as German is similar to English, but Chinese is very different.\n\nHaving purposes, people learn a language readily. If people learn a language to get better job opportunities, they often learn it faster than people studying a language with no direct use in their day-to-day life. To study effectively, before learning a foreign language, people usually decide on what they learn it for.\n\nNot knowing cultures, people find learning languages more difficult. Since language connects closely to culture, learners will have to try hard if not understanding the culture. Accordingly, knowing a country's culture makes you a better learner of that country's language. And remember, to avoid misusing the language sometimes, learners need to study about the changes in the language.",
+      "questions": [
+        {
+          "id": "15a",
+          "question": "According to the writer, which is the most difficult language to learn?",
+          "options": [
+            "A. English",
+            "B. No answer",
+            "C. Chinese",
+            "D. German"
+          ],
+          "correctIndex": 1,
+          "explanation": "Câu đầu bài: 'It is not easy to answer because of many factors' → bài không đưa ra câu trả lời cụ thể | B — No answer | Bài chỉ phân tích các yếu tố ảnh hưởng độ khó, không kết luận một ngôn ngữ nào khó nhất"
+        },
+        {
+          "id": "16a",
+          "question": "According to the 2nd paragraph, what can affect learning a foreign language?",
+          "options": [
+            "A. A foreign language",
+            "B. Teaching",
+            "C. A second language",
+            "D. A mother tongue"
+          ],
+          "correctIndex": 3,
+          "explanation": "Đoạn 2: 'a first language can affect learning a foreign language' — first language = mother tongue | D — A mother tongue | 'Tiếng mẹ đẻ' = first language = mother tongue"
+        },
+        {
+          "id": "17a",
+          "question": "\"knowing a country's culture\" in the last paragraph can be understood as _____.",
+          "options": [
+            "A. \"knowing the economy and business of a country\"",
+            "B. \"knowing the math, science and technology of a country\"",
+            "C. \"knowing the history, traditions and customs of a country\"",
+            "D. \"knowing the environment and space travel of a country\""
+          ],
+          "correctIndex": 2,
+          "explanation": "Văn hóa = lịch sử, truyền thống, phong tục của một đất nước | C — knowing the history, traditions and customs | A/B/D không thuộc phạm trù 'văn hóa'"
+        },
+        {
+          "id": "18a",
+          "question": "Which is closest in meaning to \"misusing\" in the last paragraph?",
+          "options": [
+            "A. correctly using",
+            "B. wrongly using",
+            "C. remembering",
+            "D. forgetting"
+          ],
+          "correctIndex": 1,
+          "explanation": "Tiền tố 'mis-' = sai/không đúng → misusing = dùng sai | B — wrongly using | A: dùng đúng (ngược nghĩa) | B: dùng sai, đúng | C: nhớ | D: quên"
+        },
+        {
+          "id": "19a",
+          "question": "Which of these is NOT mentioned as among factors to consider to answer the writer's question?",
+          "options": [
+            "A. First language",
+            "B. Culture",
+            "C. Purpose",
+            "D. Second language"
+          ],
+          "correctIndex": 3,
+          "explanation": "Bài nhắc đến: first language (đoạn 2), purposes (đoạn 3), cultures (đoạn 4) — không có 'second language' | D — Second language | A/B/C đều xuất hiện trong bài"
+        },
+        {
+          "id": "20a",
+          "question": "How do readers feel the passage?",
+          "options": [
+            "A. Hopeless",
+            "B. Unlucky",
+            "C. Romantic",
+            "D. Informative"
+          ],
+          "correctIndex": 3,
+          "explanation": "Bài cung cấp thông tin và phân tích các yếu tố → mang tính cung cấp kiến thức | D — Informative (nhiều thông tin) | A: tuyệt vọng | B: xui xẻo | C: lãng mạn | D: cung cấp thông tin, đúng"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "category": "pronunciation",
+      "question": "Pick out the word that has the underlined part pronounced differently from the others: stored, wanted, failed, cleaned",
+      "options": [
+        "A. stor<u>ed</u>",
+        "B. want<u>ed</u>",
+        "C. fail<u>ed</u>",
+        "D. clean<u>ed</u>"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đuôi -ed sau /t/ hoặc /d/ đọc /ɪd/, các trường hợp khác đọc /d/ | B — wanted /ˈwɒntɪd/ có /ɪd/ | A: stored /stɔːd/ /d/ | B: wanted /ˈwɒntɪd/ /ɪd/ | C: failed /feɪld/ /d/ | D: cleaned /kliːnd/ /d/"
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "category": "pronunciation",
+      "question": "Pick out the word that has the underlined part pronounced differently from the others: swim, nice, write, wine",
+      "options": [
+        "A. sw<u>i</u>m",
+        "B. n<u>i</u>ce",
+        "C. wr<u>i</u>te",
+        "D. w<u>i</u>ne"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chữ 'i' trong 'swim' đọc /ɪ/ ngắn, ba từ còn lại đọc /aɪ/ | A — swim /swɪm/ | A: swim /ɪ/ | B: nice /naɪs/ /aɪ/ | C: write /raɪt/ /aɪ/ | D: wine /waɪn/ /aɪ/"
+    },
+    {
+      "id": 23,
+      "type": "multiple-choice",
+      "category": "stress",
+      "question": "Pick out the word that has the primary stress that differs from the other three: village, money, bamboo, water",
+      "options": [
+        "A. village",
+        "B. money",
+        "C. bamboo",
+        "D. water"
+      ],
+      "correctIndex": 2,
+      "explanation": "bamboo trọng âm âm tiết 2, ba từ còn lại trọng âm âm tiết 1 | C — bamboo /bæmˈbuː/ | A: village /ˈvɪlɪdʒ/ | B: money /ˈmʌni/ | C: bamboo /bæmˈbuː/ | D: water /ˈwɔːtə/"
+    },
+    {
+      "id": 24,
+      "type": "multiple-choice",
+      "category": "stress",
+      "question": "Pick out the word that has the primary stress that differs from the other three: happen, finish, begin, study",
+      "options": [
+        "A. happen",
+        "B. finish",
+        "C. begin",
+        "D. study"
+      ],
+      "correctIndex": 2,
+      "explanation": "begin trọng âm âm tiết 2, ba từ còn lại trọng âm âm tiết 1 | C — begin /bɪˈɡɪn/ | A: happen /ˈhæpən/ | B: finish /ˈfɪnɪʃ/ | C: begin /bɪˈɡɪn/ | D: study /ˈstʌdi/"
+    },
+    {
+      "id": 25,
+      "type": "multiple-choice",
+      "category": "closest-meaning",
+      "question": "She loves math, but she has decided to become an English teacher. (Choose the sentence closest in meaning)",
+      "options": [
+        "A. She has decided to become an English teacher because she loves math.",
+        "B. Although she loves math, she has decided to become an English teacher.",
+        "C. Despite she loves math, she has decided to become an English teacher.",
+        "D. She loves math after she has decided to become an English teacher."
+      ],
+      "correctIndex": 1,
+      "explanation": "'but' nối hai mệnh đề tương phản → 'Although + S + V' giữ nguyên nghĩa | B — Although she loves math, ... | A: because — đảo nghĩa | B: Although — đúng | C: Despite + N/V-ing (không đi mệnh đề) | D: after — đảo nghĩa"
+    },
+    {
+      "id": 26,
+      "type": "multiple-choice",
+      "category": "closest-meaning",
+      "question": "They will provide all the information you need for the report tomorrow. (Choose the sentence closest in meaning)",
+      "options": [
+        "A. The report will be needed tomorrow with all the information provided.",
+        "B. All the information you need for the report will provide tomorrow.",
+        "C. All the information you need for the report will be provided tomorrow.",
+        "D. All the information will be needed and provided tomorrow."
+      ],
+      "correctIndex": 2,
+      "explanation": "Chủ động → bị động: All the information ... will be provided | C — will be provided | A: đổi nghĩa | B: thiếu 'be' (sai bị động) | C: đúng | D: thêm 'needed' không có trong câu gốc"
+    },
+    {
+      "id": 27,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "If he gets up early, _____.",
+      "options": [
+        "A. he was going to school on time",
+        "B. he will go to school on time",
+        "C. he had been able to go to school on time",
+        "D. he would have gone to school on time"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu điều kiện loại 1: If + hiện tại đơn, S + will + V | B — will go | A: was going — quá khứ tiếp diễn, sai | B: will go — đúng | C/D: cấu trúc loại 3, sai"
+    },
+    {
+      "id": 28,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "_____ when I was young.",
+      "options": [
+        "A. I used to playing the piano",
+        "B. I'm used to playing the piano",
+        "C. I used to play the piano",
+        "D. I got used to play the piano"
+      ],
+      "correctIndex": 2,
+      "explanation": "'used to + V nguyên thể' = đã từng (trong quá khứ) | C — used to play | A: used to + V-ing — sai | B: be used to + V-ing — đã quen với | C: used to + V — đúng | D: get used to + V-ing — sai"
+    },
+    {
+      "id": 29,
+      "type": "reading-comprehension",
+      "passage": "Perfume Pagoda is a religious site (29)_____ being a great sight-seeing spot in Viet Nam. It is situated in a village near Ha Noi. It is a vast complex of Buddhist temples and shrines, (30)_____ Den Trinh and Thien Tru Pagoda, in the limestone mountains. The centre of this (31)_____ is the Perfume Temple, also called Chua Trong, located in a cavern. It is thought that the first temple was built on the current site of Thien Tru in the 15th century (32)_____ the reign of a king.\n\nOver the years some of its structures (33)_____ were in ruins have been restored or replaced. Many Vietnamese works of literature, (34)_____ old and modern, have made Perfume Pagoda their focus. It has also provided backdrops for many famous paintings. Its (35)_____ has been used as a theme of many famous songs and a topic of poetry. Nowadays during its festival (from the middle of January to the middle of March on the lunar calendar), Perfume Pagoda (36)_____ large numbers of pilgrims from all over Viet Nam.",
+      "questions": [
+        {
+          "id": "29a",
+          "question": "Fill blank (29)",
+          "options": [
+            "A. if",
+            "B. but",
+            "C. as well as",
+            "D. unless"
+          ],
+          "correctIndex": 2,
+          "explanation": "Vừa là di tích tôn giáo VỪA là điểm tham quan → 'as well as' = cũng như | C — as well as | A: if — nếu | B: but — nhưng | C: as well as — đúng | D: unless — trừ khi"
+        },
+        {
+          "id": "30a",
+          "question": "Fill blank (30)",
+          "options": [
+            "A. include",
+            "B. included",
+            "C. to include",
+            "D. including"
+          ],
+          "correctIndex": 3,
+          "explanation": "'including' = bao gồm (giới từ, đứng trước danh từ liệt kê) | D — including | A: include — V nguyên thể | B: included — V3/quá khứ | C: to include — sai cấu trúc | D: including — đúng"
+        },
+        {
+          "id": "31a",
+          "question": "Fill blank (31)",
+          "options": [
+            "A. river",
+            "B. mountain",
+            "C. complex",
+            "D. sea"
+          ],
+          "correctIndex": 2,
+          "explanation": "Câu trước: 'a vast complex of Buddhist temples' → 'this complex' | C — complex (quần thể) | A: river — sông | B: mountain — núi | C: complex — quần thể, đúng | D: sea — biển"
+        },
+        {
+          "id": "32a",
+          "question": "Fill blank (32)",
+          "options": [
+            "A. by",
+            "B. to",
+            "C. for",
+            "D. during"
+          ],
+          "correctIndex": 3,
+          "explanation": "'during the reign of a king' = trong triều đại của vua → during | D — during | A: by — bằng | B: to — đến | C: for — trong (khoảng thời gian dài) | D: during + N — đúng"
+        },
+        {
+          "id": "33a",
+          "question": "Fill blank (33)",
+          "options": [
+            "A. which",
+            "B. whom",
+            "C. who",
+            "D. whose"
+          ],
+          "correctIndex": 0,
+          "explanation": "Mệnh đề quan hệ thay 'structures' (vật) → which | A — which | A: which — chỉ vật, đúng | B: whom — tân ngữ chỉ người | C: who — chỉ người | D: whose — sở hữu"
+        },
+        {
+          "id": "34a",
+          "question": "Fill blank (34)",
+          "options": [
+            "A. also",
+            "B. neither",
+            "C. either",
+            "D. both"
+          ],
+          "correctIndex": 3,
+          "explanation": "Cấu trúc 'both A and B' = cả A và B | D — both | A: also — cũng | B: neither ... nor — không cả hai | C: either ... or — hoặc | D: both ... and — cả hai, đúng"
+        },
+        {
+          "id": "35a",
+          "question": "Fill blank (35)",
+          "options": [
+            "A. beautify",
+            "B. beautiful",
+            "C. beauty",
+            "D. beautifully"
+          ],
+          "correctIndex": 2,
+          "explanation": "Sau tính từ sở hữu 'Its' cần danh từ | C — beauty (vẻ đẹp) | A: beautify (v) làm đẹp | B: beautiful (adj) | C: beauty (n) — đúng | D: beautifully (adv)"
+        },
+        {
+          "id": "36a",
+          "question": "Fill blank (36)",
+          "options": [
+            "A. attracting",
+            "B. be attract",
+            "C. attracts",
+            "D. to attract"
+          ],
+          "correctIndex": 2,
+          "explanation": "Câu cần động từ chính chia ngôi 'Perfume Pagoda' (số ít, hiện tại đơn) → V-s | C — attracts | A: attracting — V-ing | B: be attract — sai | C: attracts — đúng | D: to attract — sai cấu trúc"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "The township be famous for its horse fair and was situated at an important crossroads. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>be</u>",
+        "B. <u>its</u>",
+        "C. <u>situated</u>",
+        "D. <u>important</u>"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu có lỗi | Lỗi: be → was (song song với 'was situated', cần thì quá khứ đơn) | A: be sai | B/C/D: đúng"
+    },
+    {
+      "id": 38,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "Yesterday we has an excursion to Lake Hudson, a man-made reservoir in Oklahoma. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>has</u>",
+        "B. <u>man-made</u>",
+        "C. <u>reservoir</u>",
+        "D. <u>in</u>"
+      ],
+      "correctIndex": 0,
+      "explanation": "Câu có lỗi | Lỗi: has → had ('Yesterday' → quá khứ đơn) | A: has sai | B/C/D: đúng"
+    },
+    {
+      "id": 39,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "Many more students wish going to vocational schools than to senior secondary schools. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>students</u>",
+        "B. <u>going</u>",
+        "C. <u>to</u>",
+        "D. <u>schools</u>"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu có lỗi | Lỗi: going → to go (sau 'wish' phải dùng to + V) | B: going sai | A/C/D: đúng"
+    },
+    {
+      "id": 40,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "She always wears expensive and terrible perfume when she has a party. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>wears</u>",
+        "B. <u>terrible</u>",
+        "C. <u>has</u>",
+        "D. <u>a</u>"
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu có lỗi | Lỗi: a → ø (không mạo từ) hoặc 'parties' | 'always' chỉ thói quen lặp lại — phải dùng số nhiều 'parties' hoặc bỏ 'a'; 'has a party' chỉ một lần cụ thể, mâu thuẫn với 'always' | A/B/C: đúng | D: 'a' sai trong ngữ cảnh thói quen lặp lại"
+    }
+  ]
+}

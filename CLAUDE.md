@@ -25,7 +25,10 @@ Interactive self-study English exam prep for Vietnamese Grade 9 students enterin
 │   ├── reading-unit-{01..12}-*.json  # Per-unit Global Success 9 reading lessons (12 files, 13 exercises each)
 │   ├── writing-*.json            # Writing data (1 file)
 │   ├── review-*.json             # Review data (2 files)
-│   └── test-*.json               # Practice tests (9 files)
+│   ├── test-{1..9}.json          # Practice tests (9 files)
+│   ├── test-tg-{year}.json       # Tiền Giang provincial entrance exams
+│   ├── test-dt-{year}.json       # Đồng Tháp provincial entrance exams
+│   └── raw-exams/                # Source images for provincial exams (jpg)
 ├── pages/                        # Generated HTML pages (don't edit directly)
 ├── scripts/
 │   ├── generate-pages.js         # Generates all pages/ HTML from templates
@@ -51,6 +54,7 @@ Each topic/test has a JSON file in `data/`. See existing files for reference. Ke
 - `sentence-build`: prompt, answer, acceptedAnswers[], explanation
 - `sentence-combine`: either MC (with options) or text-based (with answer)
 - `reading-comprehension`: passage, questions[] (each with options and correctIndex)
+- `paragraph-writing`: prompt, wordCount, ideas[], sampleAnswer, sampleTranslation, explanation (open-ended; self-graded)
 
 ### Answer Accuracy
 - This project has NO answer key from the source PDF — all answers are determined by us

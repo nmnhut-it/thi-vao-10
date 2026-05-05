@@ -1,0 +1,500 @@
+{
+  "topicId": "test-dt-2021",
+  "title": "Đề thi vào 10 — Đồng Tháp 2021",
+  "section": "practice-test",
+  "testType": "tinh-dong-thap",
+  "timeLimit": 60,
+  "exercises": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "category": "pronunciation",
+      "question": "Pick out the word whose underlined part differs from the others in pronunciation: washed, watched, played, stopped",
+      "options": [
+        "A. wash<u>ed</u>",
+        "B. watch<u>ed</u>",
+        "C. play<u>ed</u>",
+        "D. stopp<u>ed</u>"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đuôi -ed sau âm hữu thanh đọc /d/, sau âm vô thanh đọc /t/ | C — played /pleɪd/ đọc /d/, ba từ còn lại đọc /t/ | A: washed /wɒʃt/ — /t/ | B: watched /wɒtʃt/ — /t/ | C: played /pleɪd/ — /d/ | D: stopped /stɒpt/ — /t/"
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "category": "pronunciation",
+      "question": "Pick out the word whose underlined part differs from the others in pronunciation: church, school, much, bunch",
+      "options": [
+        "A. <u>ch</u>urch",
+        "B. s<u>ch</u>ool",
+        "C. mu<u>ch</u>",
+        "D. bun<u>ch</u>"
+      ],
+      "correctIndex": 1,
+      "explanation": "'ch' thường đọc /tʃ/, nhưng trong 'school' đọc /k/ | B — school /skuːl/ có /k/ | A: church /tʃɜːtʃ/ — /tʃ/ | B: school /skuːl/ — /k/ | C: much /mʌtʃ/ — /tʃ/ | D: bunch /bʌntʃ/ — /tʃ/"
+    },
+    {
+      "id": 3,
+      "type": "multiple-choice",
+      "category": "stress",
+      "question": "Pick out the word that differs from the others in the position of primary stress: artisan, important, discovery, environment",
+      "options": [
+        "A. artisan",
+        "B. important",
+        "C. discovery",
+        "D. environment"
+      ],
+      "correctIndex": 0,
+      "explanation": "artisan trọng âm âm tiết 1, ba từ còn lại trọng âm âm tiết 2 | A — /ˈɑːtɪzæn/ trọng âm 1 | A: artisan /ˈɑːtɪzæn/ | B: important /ɪmˈpɔːtnt/ | C: discovery /dɪsˈkʌvəri/ | D: environment /ɪnˈvaɪrənmənt/"
+    },
+    {
+      "id": 4,
+      "type": "multiple-choice",
+      "category": "stress",
+      "question": "Pick out the word that differs from the others in the position of primary stress: leisure, cartoon, lesson, language",
+      "options": [
+        "A. leisure",
+        "B. cartoon",
+        "C. lesson",
+        "D. language"
+      ],
+      "correctIndex": 1,
+      "explanation": "cartoon trọng âm âm tiết 2, ba từ còn lại trọng âm âm tiết 1 | B — /kɑːˈtuːn/ trọng âm 2 | A: leisure /ˈleʒə/ | B: cartoon /kɑːˈtuːn/ | C: lesson /ˈlesn/ | D: language /ˈlæŋɡwɪdʒ/"
+    },
+    {
+      "id": 5,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "Singapore's mix of cultures — mostly Chinese, Indian, and Malay — makes it a _____ society.",
+      "options": [
+        "A. reliable",
+        "B. multicultural",
+        "C. metropolitan",
+        "D. bilingual"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nhiều nền văn hoá pha trộn → đa văn hoá | B — multicultural (đa văn hoá) | A: reliable — đáng tin cậy | B: multicultural — đa văn hoá, đúng | C: metropolitan — thuộc đô thị lớn | D: bilingual — song ngữ (chỉ 2 ngôn ngữ)"
+    },
+    {
+      "id": 6,
+      "type": "multiple-choice",
+      "category": "vocabulary",
+      "question": "The craft of basket weaving is usually _____ from generation to generation.",
+      "options": [
+        "A. looked down",
+        "B. turned off",
+        "C. come back",
+        "D. passed down"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cụm 'pass down from generation to generation' = truyền lại qua các thế hệ | D — passed down | A: look down (on) — coi thường | B: turn off — tắt | C: come back — quay lại | D: passed down — truyền lại, đúng"
+    },
+    {
+      "id": 7,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "The bus _____ before I reached the bus stop.",
+      "options": [
+        "A. will leave",
+        "B. leaves",
+        "C. had left",
+        "D. was leaving"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hai hành động trong quá khứ, hành động xảy ra TRƯỚC dùng quá khứ hoàn thành | C — had left | A: will leave — tương lai | B: leaves — hiện tại | C: had left — đúng | D: was leaving — diễn tả hành động đang xảy ra, không hợp"
+    },
+    {
+      "id": 8,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "In some European countries, a barber used _____ teeth as well as cut hair.",
+      "options": [
+        "A. to pull",
+        "B. pull",
+        "C. pulling",
+        "D. pulled"
+      ],
+      "correctIndex": 0,
+      "explanation": "'used to + V nguyên thể' = đã từng (thói quen trong quá khứ) | A — to pull | A: to pull — đúng | B: pull — sai | C: pulling — used to V không phải V-ing | D: pulled — sai"
+    },
+    {
+      "id": 9,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Tet is a festival _____ occurs in late January or early February.",
+      "options": [
+        "A. whom",
+        "B. which",
+        "C. who",
+        "D. whose"
+      ],
+      "correctIndex": 1,
+      "explanation": "Mệnh đề quan hệ thay cho vật 'festival' và làm chủ ngữ → 'which' | B — which | A: whom — tân ngữ chỉ người | B: which — đúng | C: who — chỉ người | D: whose — sở hữu"
+    },
+    {
+      "id": 10,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Today's cities are much _____ than cities in the past.",
+      "options": [
+        "A. larger",
+        "B. large",
+        "C. as large",
+        "D. the largest"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sau 'much' và trước 'than' → so sánh hơn | A — larger | A: larger — đúng | B: large — không có than | C: as large — phải đi với as | D: the largest — so sánh nhất, không có than"
+    },
+    {
+      "id": 11,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "If people _____ carefully, they will not hurt themselves and others.",
+      "options": [
+        "A. drove",
+        "B. drive",
+        "C. would drive",
+        "D. will drive"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu điều kiện loại 1: If + S + V hiện tại đơn, S + will + V | B — drive | A: drove — quá khứ (loại 2) | B: drive — đúng | C: would drive — sai | D: will drive — không dùng will trong mệnh đề if"
+    },
+    {
+      "id": 12,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "Some of Bill's classmates _____ to his party tomorrow.",
+      "options": [
+        "A. will be invited",
+        "B. were invited",
+        "C. invited",
+        "D. will invite"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chủ ngữ 'classmates' được mời (bị động) + thời gian 'tomorrow' (tương lai) → tương lai bị động | A — will be invited | A: will be invited — đúng | B: were invited — quá khứ bị động | C: invited — chủ động quá khứ | D: will invite — chủ động"
+    },
+    {
+      "id": 13,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "I am too busy to go on a holiday. I wish I _____ on the beach now.",
+      "options": [
+        "A. am",
+        "B. were",
+        "C. been",
+        "D. be"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu ước trái với hiện tại: wish + S + V quá khứ đơn (to be → were cho mọi ngôi) | B — were | A: am — sai (ước phải lùi thì) | B: were — đúng | C: been — sai cấu trúc | D: be — sai"
+    },
+    {
+      "id": 14,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "There aren't _____ supermarkets in this small town.",
+      "options": [
+        "A. a little",
+        "B. some",
+        "C. much",
+        "D. any"
+      ],
+      "correctIndex": 3,
+      "explanation": "Câu phủ định, danh từ đếm được số nhiều → 'any' | D — any | A: a little — chỉ dùng cho danh từ không đếm được | B: some — dùng trong câu khẳng định | C: much — dùng cho danh từ không đếm được | D: any — đúng"
+    },
+    {
+      "id": 15,
+      "type": "multiple-choice",
+      "category": "grammar",
+      "question": "People should be _____ and wear masks when going out these days.",
+      "options": [
+        "A. careful",
+        "B. carefully",
+        "C. care",
+        "D. carefulness"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sau động từ 'be' cần tính từ | A — careful (cẩn thận) | A: careful (adj) — đúng | B: carefully (adv) | C: care (n/v) | D: carefulness (n)"
+    },
+    {
+      "id": 16,
+      "type": "multiple-choice",
+      "category": "communicative",
+      "question": "Bill: \"I think that doing physical exercises is the best way to keep fit.\" — Liz: \"You're right. _____\"",
+      "options": [
+        "A. I hope so.",
+        "B. It's my pleasure.",
+        "C. It's kind of you to say so.",
+        "D. I agree with you."
+      ],
+      "correctIndex": 3,
+      "explanation": "Đáp lại 'You're right' → tiếp tục đồng ý | D — I agree with you | A: I hope so — hi vọng vậy, không hợp | B: It's my pleasure — đáp 'thank you' | C: It's kind of you to say so — đáp lời khen | D: I agree with you — đồng ý, đúng"
+    },
+    {
+      "id": 17,
+      "type": "multiple-choice",
+      "category": "closest-meaning",
+      "question": "Living in big cities provides us with a lot of benefits in job opportunity. (Choose the word CLOSEST in meaning to \"benefits\")",
+      "options": [
+        "A. drawbacks",
+        "B. achievements",
+        "C. advantages",
+        "D. difficulties"
+      ],
+      "correctIndex": 2,
+      "explanation": "benefits = lợi ích → đồng nghĩa advantages | C — advantages | A: drawbacks — bất lợi (trái nghĩa) | B: achievements — thành tựu | C: advantages — lợi ích, đúng | D: difficulties — khó khăn (trái nghĩa)"
+    },
+    {
+      "id": 18,
+      "type": "multiple-choice",
+      "category": "closest-meaning",
+      "question": "We invited Bill to join our trip to Florida but he turned down and decided to stay. (Choose the word CLOSEST in meaning to \"turned down\")",
+      "options": [
+        "A. refused",
+        "B. agreed",
+        "C. accepted",
+        "D. returned"
+      ],
+      "correctIndex": 0,
+      "explanation": "turn down = từ chối → đồng nghĩa refused | A — refused | A: refused — từ chối, đúng | B: agreed — đồng ý (trái nghĩa) | C: accepted — chấp nhận (trái nghĩa) | D: returned — quay lại"
+    },
+    {
+      "id": 19,
+      "type": "multiple-choice",
+      "category": "opposite-meaning",
+      "question": "Hoi An is an ancient town in Central Vietnam. It was set up long time ago. (Choose the word OPPOSITE in meaning to \"ancient\")",
+      "options": [
+        "A. comfortable",
+        "B. urban",
+        "C. modern",
+        "D. local"
+      ],
+      "correctIndex": 2,
+      "explanation": "ancient = cổ kính → trái nghĩa modern (hiện đại) | C — modern | A: comfortable — thoải mái | B: urban — thuộc thành thị | C: modern — hiện đại, đúng trái nghĩa | D: local — địa phương"
+    },
+    {
+      "id": 20,
+      "type": "multiple-choice",
+      "category": "opposite-meaning",
+      "question": "This temple, which was built hundreds of years ago, is one of our man-made wonders. (Choose the word OPPOSITE in meaning to \"man-made\")",
+      "options": [
+        "A. spectacular",
+        "B. geological",
+        "C. picturesque",
+        "D. natural"
+      ],
+      "correctIndex": 3,
+      "explanation": "man-made = nhân tạo → trái nghĩa natural (tự nhiên) | D — natural | A: spectacular — ngoạn mục | B: geological — thuộc địa chất | C: picturesque — đẹp như tranh | D: natural — tự nhiên, đúng trái nghĩa"
+    },
+    {
+      "id": 21,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "Jane said that she doesn't spend much money on food and clothing. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>on</u>",
+        "B. <u>doesn't</u>",
+        "C. <u>clothing</u>",
+        "D. <u>much</u>"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu có lỗi | Lỗi: doesn't → didn't | Câu tường thuật ở quá khứ (said) → động từ trong mệnh đề phụ phải lùi thì | A/C/D đúng | B: doesn't sai, phải là didn't"
+    },
+    {
+      "id": 22,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "Tom didn't get the job despite he had all the necessary qualifications. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>had</u>",
+        "B. <u>despite</u>",
+        "C. <u>the</u>",
+        "D. <u>necessary</u>"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu có lỗi | Lỗi: despite → although (hoặc despite + N/V-ing) | Sau 'despite' phải là danh từ/V-ing, không phải mệnh đề | A/C/D đúng | B: despite sai, dùng 'although' trước mệnh đề"
+    },
+    {
+      "id": 23,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "He wondered how telling this disappointing news to his parents. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>disappointing</u>",
+        "B. <u>his</u>",
+        "C. <u>telling</u>",
+        "D. <u>wondered</u>"
+      ],
+      "correctIndex": 2,
+      "explanation": "Câu có lỗi | Lỗi: telling → to tell | Cấu trúc 'how + to V' = cách làm gì | A/B/D đúng | C: telling sai, phải là 'to tell'"
+    },
+    {
+      "id": 24,
+      "type": "multiple-choice",
+      "category": "error-finding",
+      "question": "The Dominican Republic is a second largest Caribbean nation after Cuba, with nearly 10 million people. (Find the underlined part that needs correction)",
+      "options": [
+        "A. <u>nearly</u>",
+        "B. <u>a</u>",
+        "C. <u>is</u>",
+        "D. <u>after</u>"
+      ],
+      "correctIndex": 1,
+      "explanation": "Câu có lỗi | Lỗi: a → the | So sánh nhất 'second largest' phải đi với 'the' | A/C/D đúng | B: a sai, phải là 'the'"
+    },
+    {
+      "id": 25,
+      "type": "reading-comprehension",
+      "passage": "Language is how people (25) _____ with one another. It is a terrific tool. Language is spoken, (26) _____ it is also written down. Sign language used by many people who are deaf is the communication with gestures. We do most our communication by speaking. English is the most (27) _____ language in the world, but it is not the world's most widely spoken language. There are more than 1.2 billion people who speak Chinese. Arabic is second, and then Hindi, with English in the fourth place. Other languages (28) _____ the top ten are Spanish, Bengali, Portuguese, Russian, Japanese, and German.",
+      "questions": [
+        {
+          "id": "25a",
+          "question": "Fill blank (25)",
+          "options": [
+            "A. introduce",
+            "B. mention",
+            "C. instruct",
+            "D. communicate"
+          ],
+          "correctIndex": 3,
+          "explanation": "'how people communicate with one another' = cách mọi người giao tiếp với nhau | D — communicate | A: introduce — giới thiệu | B: mention — đề cập | C: instruct — hướng dẫn | D: communicate — giao tiếp, đúng"
+        },
+        {
+          "id": "26a",
+          "question": "Fill blank (26)",
+          "options": [
+            "A. or",
+            "B. so",
+            "C. but",
+            "D. if"
+          ],
+          "correctIndex": 2,
+          "explanation": "Hai vế đối lập 'spoken' vs 'also written down' → 'but' (nhưng) | C — but | A: or — hoặc | B: so — vì vậy | C: but — nhưng, đúng | D: if — nếu"
+        },
+        {
+          "id": "27a",
+          "question": "Fill blank (27)",
+          "options": [
+            "A. national",
+            "B. nation",
+            "C. internationally",
+            "D. international"
+          ],
+          "correctIndex": 3,
+          "explanation": "Trước danh từ 'language' cần tính từ; 'most international language' = ngôn ngữ quốc tế nhất | D — international | A: national (adj) — thuộc quốc gia, sai nghĩa | B: nation (n) | C: internationally (adv) | D: international (adj) — đúng"
+        },
+        {
+          "id": "28a",
+          "question": "Fill blank (28)",
+          "options": [
+            "A. above",
+            "B. under",
+            "C. by",
+            "D. in"
+          ],
+          "correctIndex": 3,
+          "explanation": "'in the top ten' = trong top mười | D — in | A: above — phía trên | B: under — bên dưới | C: by — bởi | D: in — trong, đúng"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "type": "reading-comprehension",
+      "passage": "Situated on the central coast of Vietnam, which is famous for many beautiful beaches, Lang Co Beach, since June 2009, has become an official member of the World's most beautiful bays club. Today, it is a popular destination for tourists in Vietnam, especially for those who love beach so much.\n\nLying on the most beautiful curve of the country, Lang Co has almost everything that the nature can offer: green mountains and tropical forests, smooth white sand, full of sunshine and cool, blue and clear sea as crystal, and the average temperature of 25°C in summer. It is an attractive destination for both domestic and international tourists in Vietnam. It is the third bay of Vietnam, after Ha Long and Nha Trang, named in the list of 30 most beautiful bays in the world.\n\nIt can be said that nobody can resist a beauty like Lang Co town. This small and peaceful town will give tourists the most relaxing time and many games at the beach. In addition, they will have a good time to enjoy the seafood with various kinds of shrimps, lobster, crab, butter-fish, mackerel fish, oysters, etc. and not far from the beach are some attractions such as Lang Co fishing village, Chan May scenery.",
+      "questions": [
+        {
+          "id": "29a",
+          "question": "What is the main idea of the passage?",
+          "options": [
+            "A. Lang Co town's seafood",
+            "B. Central Vietnam",
+            "C. The history of Lang Co",
+            "D. Lang Co's tourist attractions"
+          ],
+          "correctIndex": 3,
+          "explanation": "Toàn bài giới thiệu Lăng Cô như một điểm du lịch hấp dẫn (vẻ đẹp, hải sản, danh thắng lân cận) | D — Lang Co's tourist attractions | A/B/C chỉ là chi tiết phụ; chủ đề chính là sức hút du lịch của Lăng Cô"
+        },
+        {
+          "id": "30a",
+          "question": "According to the passage, Lang Co is especially popular for those who _____.",
+          "options": [
+            "A. are interested in beach",
+            "B. like rural atmosphere",
+            "C. love mountains",
+            "D. enjoy city life"
+          ],
+          "correctIndex": 0,
+          "explanation": "Đoạn 1: 'especially for those who love beach so much' | A — are interested in beach | Trích nguyên văn ý: yêu biển ↔ quan tâm đến biển"
+        },
+        {
+          "id": "31a",
+          "question": "The word 'they' in paragraph 3 refers to _____.",
+          "options": [
+            "A. beaches",
+            "B. kinds of seafood",
+            "C. tourists",
+            "D. beautiful bays"
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn 3: '...will give tourists the most relaxing time... they will have a good time to enjoy the seafood' → 'they' chỉ 'tourists' | C — tourists"
+        },
+        {
+          "id": "32a",
+          "question": "Which of the following is TRUE about Lang Co?",
+          "options": [
+            "A. Tourists cannot climb mountains in Lang Co.",
+            "B. It is the only Vietnam's bay named in the list of world's 30 most beautiful bays.",
+            "C. It attracts tourists in the country and around the world.",
+            "D. Lang Co fishing village is quite far from Lang Co Beach."
+          ],
+          "correctIndex": 2,
+          "explanation": "Đoạn 2: 'attractive destination for both domestic and international tourists' = thu hút du khách trong và ngoài nước | C — đúng | A: sai (có núi xanh, du khách có thể tham quan) | B: sai — bài nói Lăng Cô là vịnh THỨ BA của VN (sau Hạ Long & Nha Trang), không phải duy nhất | D: sai ('not far from the beach')"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "type": "sentence-rewrite",
+      "original": "Why don't we go to the seaside this summer?",
+      "instruction": "Rewrite beginning with: I suggest",
+      "starterText": "I suggest",
+      "answer": "I suggest going to the seaside this summer.",
+      "acceptedAnswers": [
+        "I suggest going to the seaside this summer.",
+        "I suggest going to the seaside this summer",
+        "I suggest we go to the seaside this summer.",
+        "I suggest we go to the seaside this summer",
+        "I suggest that we go to the seaside this summer.",
+        "I suggest that we should go to the seaside this summer."
+      ],
+      "explanation": "Sao chúng ta không đi biển mùa hè này? | Viết lại bắt đầu với: I suggest | I suggest going to the seaside this summer — Cấu trúc 'suggest + V-ing' hoặc 'suggest (that) + S + (should) + V'"
+    },
+    {
+      "id": 34,
+      "type": "sentence-rewrite",
+      "original": "People believe that the Covid-19 pandemic will end soon.",
+      "instruction": "Rewrite beginning with: It",
+      "starterText": "It",
+      "answer": "It is believed that the Covid-19 pandemic will end soon.",
+      "acceptedAnswers": [
+        "It is believed that the Covid-19 pandemic will end soon.",
+        "It is believed that the Covid-19 pandemic will end soon",
+        "It is believed that the COVID-19 pandemic will end soon."
+      ],
+      "explanation": "Mọi người tin rằng đại dịch Covid-19 sẽ sớm kết thúc | Viết lại bắt đầu với: It | It is believed that the Covid-19 pandemic will end soon — Cấu trúc bị động với động từ chỉ ý kiến: It + is/was + V3 + that + clause"
+    },
+    {
+      "id": 35,
+      "type": "paragraph-writing",
+      "prompt": "Write a paragraph (about 80-100 words) about how to reduce stress and pressure from study.",
+      "wordCount": "80-100",
+      "ideas": [
+        "Relax your mind (listen to music; watch films; read books...)",
+        "Do something you enjoy (go out with friends; sing songs; play sports; play games...)",
+        "Share difficulties in your study (talk to friends and family; ask for help from teachers; look for solutions on the Internet...)"
+      ],
+      "sampleAnswer": "Stress and pressure from studying can affect students' health and performance, so it is important to know how to reduce them. Firstly, students should relax their minds by listening to soft music, watching films, or reading books they enjoy. Secondly, doing something fun helps a lot — going out with friends, singing songs, playing sports, or playing games can refresh the mind quickly. Finally, sharing difficulties is essential. Students should talk to family and close friends, ask teachers for help, or search for solutions on the Internet. By following these simple tips, students can stay healthy and study more effectively.",
+      "sampleTranslation": "Căng thẳng và áp lực học hành có thể ảnh hưởng đến sức khoẻ và kết quả của học sinh, vì vậy biết cách giảm stress là rất quan trọng. Thứ nhất, học sinh nên thư giãn đầu óc bằng cách nghe nhạc nhẹ, xem phim hoặc đọc sách yêu thích. Thứ hai, làm những điều mình thích cũng giúp ích rất nhiều — đi chơi với bạn, hát hò, chơi thể thao hoặc chơi game đều có thể làm tinh thần sảng khoái. Cuối cùng, chia sẻ khó khăn là điều cần thiết. Học sinh nên tâm sự với gia đình và bạn thân, nhờ thầy cô giúp đỡ hoặc tìm giải pháp trên Internet. Làm theo những gợi ý này, học sinh sẽ khoẻ mạnh và học tập hiệu quả hơn.",
+      "explanation": "Cấu trúc đoạn văn 80-100 từ: 1) Câu chủ đề: nêu vấn đề và mục đích | 2) 3 luận điểm theo gợi ý: Firstly/Secondly/Finally | 3) Câu kết: tóm lại lợi ích. Bài làm có thể viết theo nhiều cách khác miễn là bám sát các ý gợi ý trong đề."
+    }
+  ]
+}
